@@ -1,5 +1,44 @@
 [
   {
+    "asin": "B07RPLPR5Y",
+    "title": "Haribo Coccodri, Caramelle Gommose, Gusto Frutta, 175gr",
+    "price": 1.15,
+    "old_price": 1.65,
+    "discount": 30.0,
+    "image": "https://m.media-amazon.com/images/I/51nitKPFuEL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B07RPLPR5Y?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "cibo",
+    "macro_group": "spesa_bevande",
+    "seasonal_title": "",
+    "published_at": "2026-09-02T23:26:58.288801+02:00"
+  },
+  {
+    "asin": "B01D1PSRZK",
+    "title": "Haribo Orsetti D'Oro Multipack, Caramelle Gommose, Gusto Frutta, 250gr",
+    "price": 2.07,
+    "old_price": 3.05,
+    "discount": 32.0,
+    "image": "https://m.media-amazon.com/images/I/51hc90+gH7L._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B01D1PSRZK?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "cibo",
+    "macro_group": "spesa_bevande",
+    "seasonal_title": "",
+    "published_at": "2026-09-02T23:26:58.251688+02:00"
+  },
+  {
+    "asin": "B07V6CFS8F",
+    "title": "Luce Posteriore Bici Intelligente con Sensore di Frenata, Fanale Bici USB Ricaricabile Impermeabile IP65, 22 LED COB Rosso, 3 Modalità Illuminazione, Batteria 400mAh, Montaggio Universale",
+    "price": 22.94,
+    "old_price": 31.53,
+    "discount": 27.0,
+    "image": "https://m.media-amazon.com/images/I/410DFQe1hBL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B07V6CFS8F?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "ciclismo",
+    "macro_group": "tempo_libero",
+    "seasonal_title": "",
+    "published_at": "2026-09-02T23:26:56.728161+02:00"
+  },
+  {
     "asin": "B0CFXHNMGH",
     "title": "RENPHO Reach Pistola Massaggio Muscolare con Manico Staccabile, Nero",
     "price": 34.24,
@@ -1259,44 +1298,5 @@
     "macro_group": "tempo_libero",
     "seasonal_title": "",
     "published_at": "2026-09-02T21:30:46.811407+02:00"
-  },
-  {
-    "asin": "B0BWRXMGKW",
-    "title": "ARDES - AR4C06 Termoconvettore Elettrico KALOR 1500W - Termoconvettore con Termostato -Termo Convettore Aria Calda 2 Potenze Stufa Elettrica per Riscaldare Casa e Ufficio - Stufa Elettrica Smart",
-    "price": 22.16,
-    "old_price": 32.9,
-    "discount": 33.0,
-    "image": "https://m.media-amazon.com/images/I/31x+UkP2FwL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0BWRXMGKW?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "comfort_casa",
-    "macro_group": "casa_cucina",
-    "seasonal_title": "",
-    "published_at": "2026-09-02T21:30:45.421249+02:00"
-  },
-  {
-    "asin": "B0GWN8TMSL",
-    "title": "Samsung 55\" QE55S95HFTXZT OLED 4K Real Black&Color Smart TV Vision AI 2026",
-    "price": 1799.0,
-    "old_price": 2299.0,
-    "discount": 22.0,
-    "image": "https://m.media-amazon.com/images/I/41uZo3DKz+L._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0GWN8TMSL?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "tv_premium",
-    "macro_group": "tech",
-    "seasonal_title": "",
-    "published_at": "2026-09-02T21:30:44.196136+02:00"
-  },
-  {
-    "asin": "B0CWHXF9NY",
-    "title": "Nice Baby Acqua Salviette per Cambio Pannolino, con il 98% di Acqua ed Estratto di Aloe, Dermatologicamente Testate, Confezione da 72 Salviette",
-    "price": 0.99,
-    "old_price": 1.19,
-    "discount": 17.0,
-    "image": "https://m.media-amazon.com/images/I/41v24uGNGLL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0CWHXF9NY?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "pulizia",
-    "macro_group": "cura_persona",
-    "seasonal_title": "",
-    "published_at": "2026-09-02T21:28:44.606564+02:00"
   }
 ]
