@@ -1,5 +1,31 @@
 [
   {
+    "asin": "8865089229",
+    "title": "Georgiana",
+    "price": 6.45,
+    "old_price": 12.9,
+    "discount": 50.0,
+    "image": "https://m.media-amazon.com/images/I/517kIq5DpiL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/8865089229?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "libri",
+    "macro_group": "tempo_libero",
+    "seasonal_title": "",
+    "published_at": "2026-09-03T16:12:38.722640+02:00"
+  },
+  {
+    "asin": "8822721861",
+    "title": "Una ragione per dirti di no. The cursed series",
+    "price": 3.96,
+    "old_price": 9.9,
+    "discount": 60.0,
+    "image": "https://m.media-amazon.com/images/I/514WSA8wdKL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/8822721861?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "libri",
+    "macro_group": "tempo_libero",
+    "seasonal_title": "",
+    "published_at": "2026-09-03T16:12:38.667460+02:00"
+  },
+  {
     "asin": "B0G545KJFR",
     "title": "Barilla Sugo al Pomodoro e Basilico 100% Italiano, Sugo Pronto per Pasta, 6 Barattoli da 400 g (Confezione da 3)",
     "price": 34.65,
@@ -1272,31 +1298,5 @@
     "macro_group": "tempo_libero",
     "seasonal_title": "",
     "published_at": "2026-09-03T13:42:40.031146+02:00"
-  },
-  {
-    "asin": "B0B5LSR7B4",
-    "title": "Music Sound | HEADBAND filo Basic | Cuffie on ear pieghevoli con filo e microfono - Jack 3.5 mm - Colore Nero, One Size",
-    "price": 7.49,
-    "old_price": 12.49,
-    "discount": 40.0,
-    "image": "https://m.media-amazon.com/images/I/41IIojlnoQL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0B5LSR7B4?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "musica",
-    "macro_group": "tempo_libero",
-    "seasonal_title": "",
-    "published_at": "2026-09-03T13:42:39.979342+02:00"
-  },
-  {
-    "asin": "B0B5LTPWFV",
-    "title": "Music Sound | HEADBAND Bluetooth Basic | Cuffie on Ear Bluetooth con Archetto Estendibile - PlayTime 14h - Colore Blu, One Size",
-    "price": 9.0,
-    "old_price": 14.9,
-    "discount": 40.0,
-    "image": "https://m.media-amazon.com/images/I/41ZW62PvR6L._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0B5LTPWFV?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "musica",
-    "macro_group": "tempo_libero",
-    "seasonal_title": "",
-    "published_at": "2026-09-03T13:42:39.930425+02:00"
   }
 ]
