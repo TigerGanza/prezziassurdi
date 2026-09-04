@@ -1,5 +1,31 @@
 [
   {
+    "asin": "B086RB7JGR",
+    "title": "Leffe Rouge, Birra Bottiglia - Pacco da 24x33cl",
+    "price": 32.4,
+    "old_price": 45.36,
+    "discount": 29.0,
+    "image": "https://m.media-amazon.com/images/I/41rmicM5aNL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B086RB7JGR?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "birre",
+    "macro_group": "spesa_bevande",
+    "seasonal_title": "",
+    "published_at": "2026-09-04T06:06:29.558921+02:00"
+  },
+  {
+    "asin": "B0FNN1TDGZ",
+    "title": "BROADEN® 400g Creatina Monoidrato in Polvere Senza Sapore con 117 Porzioni | 100% Monoidrato di Creatina Micronizzata | Senza Additivi | Senza OGM, Vegano, Senza Glutine",
+    "price": 7.49,
+    "old_price": 9.99,
+    "discount": 25.0,
+    "image": "https://m.media-amazon.com/images/I/41UJ7pPiOcL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0FNN1TDGZ?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "supplements",
+    "macro_group": "tempo_libero",
+    "seasonal_title": "",
+    "published_at": "2026-09-04T06:06:26.893019+02:00"
+  },
+  {
     "asin": "B09RZPPHBN",
     "title": "San Benedetto Succoso Zero Arancia Carota e Limone 900 ml. Bevanda a base di frutta leggera e dissetante in Acqua Minerale Naturale, zero zuccheri aggiunti e pochissime calorie",
     "price": 1.23,
@@ -1272,31 +1298,5 @@
     "macro_group": "spesa_bevande",
     "seasonal_title": "",
     "published_at": "2026-09-03T20:42:27.880754+02:00"
-  },
-  {
-    "asin": "B0GMH56TRH",
-    "title": "roborock Qrevo Edge 2 Set Robot Aspirapolvere Lavapavimenti 25.000Pa, Nero",
-    "price": 549.99,
-    "old_price": 899.99,
-    "discount": 39.0,
-    "image": "https://m.media-amazon.com/images/I/41IYcGEFHVL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0GMH56TRH?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "casa_smart",
-    "macro_group": "casa_cucina",
-    "seasonal_title": "",
-    "published_at": "2026-09-03T20:40:27.754499+02:00"
-  },
-  {
-    "asin": "B0DJ3284BS",
-    "title": "roborock Saros 10R Robot Aspirapolvere Lavapavimenti 22.000Pa, 7,98 cm",
-    "price": 749.99,
-    "old_price": 1499.99,
-    "discount": 50.0,
-    "image": "https://m.media-amazon.com/images/I/31ECgSwvaXL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0DJ3284BS?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "casa_smart",
-    "macro_group": "casa_cucina",
-    "seasonal_title": "",
-    "published_at": "2026-09-03T20:40:27.693976+02:00"
   }
 ]
