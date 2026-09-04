@@ -1,5 +1,57 @@
 [
   {
+    "asin": "B0DP37TXS8",
+    "title": "Brenta RDS Piumino Uomo",
+    "price": 168.49,
+    "old_price": 250.0,
+    "discount": 33.0,
+    "image": "https://m.media-amazon.com/images/I/41KujlpUUpL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0DP37TXS8?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "articoli_neve",
+    "macro_group": "fai_da_te_outdoor",
+    "seasonal_title": "",
+    "published_at": "2026-09-04T15:24:28.785314+02:00"
+  },
+  {
+    "asin": "B0CN3VPLJ7",
+    "title": "Columbia Powder Lite II, Giacca con Cappuccio da Uomo",
+    "price": 69.99,
+    "old_price": 150.0,
+    "discount": 53.0,
+    "image": "https://m.media-amazon.com/images/I/41MU+h-4q4L._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0CN3VPLJ7?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "articoli_neve",
+    "macro_group": "fai_da_te_outdoor",
+    "seasonal_title": "",
+    "published_at": "2026-09-04T15:24:28.730043+02:00"
+  },
+  {
+    "asin": "B01D1MPU4Y",
+    "title": "Allegrini Vino Amarone Corte Giara",
+    "price": 19.9,
+    "old_price": 29.9,
+    "discount": 33.0,
+    "image": "https://m.media-amazon.com/images/I/31vQPtR-h1L._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B01D1MPU4Y?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "vini",
+    "macro_group": "spesa_bevande",
+    "seasonal_title": "",
+    "published_at": "2026-09-04T15:24:26.876473+02:00"
+  },
+  {
+    "asin": "B0DCSJC3FJ",
+    "title": "PC Portatile 16 Pollici Laptop Notebook Celeron N5095 (fino a 2.9Ghz)",
+    "price": 299.99,
+    "old_price": 999.0,
+    "discount": 70.0,
+    "image": "https://m.media-amazon.com/images/I/51dJckujVlL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0DCSJC3FJ?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "scuola",
+    "macro_group": "tempo_libero",
+    "seasonal_title": "",
+    "published_at": "2026-09-04T15:20:29.203061+02:00"
+  },
+  {
     "asin": "B086XRP94M",
     "title": "Kellogg's Krave Choco Nut Cereali | Gusto Cioccolato e Nocciola | Cereali per la Colazione | Senza coloranti né aromi artificiali | Confezione singola da 410g",
     "price": 1.89,
@@ -1246,57 +1298,5 @@
     "macro_group": "spesa_bevande",
     "seasonal_title": "",
     "published_at": "2026-09-04T12:46:28.119365+02:00"
-  },
-  {
-    "asin": "B0GWN457ZW",
-    "title": "LG QNED evo AI MiniLED 65 Pollici, Serie QNED86B 2026 Smart TV 4K - 65QNED86B6B",
-    "price": 999.0,
-    "old_price": 1299.0,
-    "discount": 23.0,
-    "image": "https://m.media-amazon.com/images/I/41YhZE4LjRL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0GWN457ZW?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "tv_premium",
-    "macro_group": "tech",
-    "seasonal_title": "",
-    "published_at": "2026-09-04T12:42:29.261816+02:00"
-  },
-  {
-    "asin": "B0CC3SC6QZ",
-    "title": "PreSonus Eris 3.5BT Gen 2 Casse Monitor da Studio Bluetooth, 3.5\"",
-    "price": 109.0,
-    "old_price": 139.0,
-    "discount": 22.0,
-    "image": "https://m.media-amazon.com/images/I/415FhGd+bWL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0CC3SC6QZ?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "audio_studio",
-    "macro_group": "tech",
-    "seasonal_title": "",
-    "published_at": "2026-09-04T12:38:26.948088+02:00"
-  },
-  {
-    "asin": "B0C23NPP4K",
-    "title": "RunStar Bilancia Pesapersone Digitale, Bilancia Smart Peso Corporeo/Percentuale Grasso, Ampio Display BMI, FC, Analizza 15 Dati Composizione Corporea, Analyzer Sync Fitness App, 400lb",
-    "price": 39.99,
-    "old_price": 56.99,
-    "discount": 30.0,
-    "image": "https://m.media-amazon.com/images/I/41aSzQPr7nL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0C23NPP4K?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "salute",
-    "macro_group": "cura_persona",
-    "seasonal_title": "",
-    "published_at": "2026-09-04T12:36:28.856920+02:00"
-  },
-  {
-    "asin": "B0C1Z137KK",
-    "title": "RunStar Bilancia pesapersone e percentuale grasso, Bilancia smart digitale e precisa con ampio display, Analizzatore di 13 dati di composizione corporea, Sync App",
-    "price": 25.99,
-    "old_price": 42.99,
-    "discount": 40.0,
-    "image": "https://m.media-amazon.com/images/I/41589019wlL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0C1Z137KK?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "salute",
-    "macro_group": "cura_persona",
-    "seasonal_title": "",
-    "published_at": "2026-09-04T12:36:28.799319+02:00"
   }
 ]
