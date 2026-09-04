@@ -607,6 +607,17 @@ header{
 .guide-grid{display:grid;grid-template-columns:repeat(5,1fr);gap:8px}
 .guide-grid a{background:#1c1e22;border:1px solid #303238;border-radius:13px;padding:13px;color:#f4f4f4;font-size:11px;font-weight:900;line-height:1.35;transition:.15s ease}
 .guide-grid a:hover{background:var(--yellow);border-color:var(--yellow);color:#111;transform:translateY(-1px)}
+.promo-zone{margin:18px 0 0;background:#fff;border:1px solid var(--line);border-radius:20px;padding:20px}
+.promo-zone-head{display:flex;align-items:end;justify-content:space-between;gap:15px;margin-bottom:13px}
+.promo-zone-head h2{margin:0;font-size:22px;letter-spacing:-.6px}.promo-zone-head p{margin:0;color:#777;font-size:11px}
+.promo-zone-head a{font-size:10px;font-weight:950;text-decoration:underline}
+.promo-strips{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:9px}
+.promo-strip{border:1px solid var(--line);border-top:4px solid var(--promo-accent,#111);border-radius:13px;overflow:hidden;background:#faf9f6;display:flex;flex-direction:column;min-width:0}
+.promo-strip img{width:100%;aspect-ratio:3/2;object-fit:cover;display:block;background:#171717}
+.promo-strip-copy{padding:11px;display:flex;flex:1;flex-direction:column}.promo-strip-kicker{font-size:7.5px;font-weight:950;letter-spacing:.7px;color:#777}
+.promo-strip h3{font-size:12px;line-height:1.2;margin:5px 0}.promo-strip p{font-size:9px;line-height:1.4;color:#666;margin:0 0 9px}
+.promo-strip a{display:block;margin-top:auto;background:#111;color:#fff;border-radius:8px;padding:9px 7px;text-align:center;font-size:8px;font-weight:950}
+.promo-strip small{display:block;text-align:center;color:#999;font-size:7px;margin-top:6px}
 .search-fallback{
   padding:28px;text-align:center;background:#faf9f6;border:1px solid var(--line);
   border-radius:14px;grid-column:1/-1
@@ -1078,11 +1089,15 @@ footer{padding:20px 16px 28px;line-height:1.6}
 @media (max-width:900px){
   .top-nav{display:none}
   .guide-grid{grid-template-columns:repeat(2,1fr)}
+  .promo-strips{grid-template-columns:repeat(2,minmax(0,1fr))}
 }
 
 @media (max-width:520px){
   .guide-zone{padding:16px;border-radius:16px}.guide-zone-head{display:block}.guide-zone-head p{margin-top:5px}
   .guide-grid{grid-template-columns:1fr}
+  .promo-zone{padding:15px;border-radius:16px}.promo-zone-head{display:block}.promo-zone-head p{margin:5px 0 8px}
+  .promo-strips{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;padding-bottom:5px}
+  .promo-strip{flex:0 0 78%;scroll-snap-align:start}
 }
 
 
@@ -1154,6 +1169,7 @@ footer{padding:20px 16px 28px;line-height:1.6}
     <nav class="top-nav" aria-label="Navigazione principale">
       <a href="#offerte">Offerte</a>
       <a href="#guide">Guide</a>
+      <a href="#promozioni">Promozioni</a>
       <details class="nav-categories" id="navCategories">
         <summary>Categorie</summary>
         <div class="category-dropdown">
@@ -1271,6 +1287,19 @@ footer{padding:20px 16px 28px;line-height:1.6}
     </section>
   </div>
 
+  <section class="promo-zone" id="promozioni" aria-labelledby="promoTitle">
+    <div class="promo-zone-head">
+      <div>
+        <h2 id="promoTitle">Promozioni e servizi</h2>
+        <p>Satispay e servizi Amazon selezionati. Verifica sempre le condizioni aggiornate.</p>
+      </div>
+      <a href="/promozioni/">VEDI TUTTE →</a>
+    </div>
+    <div id="promoStrips" class="promo-strips">
+      <div class="empty">Caricamento promozioni...</div>
+    </div>
+  </section>
+
   <section class="guide-zone" id="guide" aria-labelledby="guideTitle">
     <div class="guide-zone-head">
       <h2 id="guideTitle">Guide per comprare meglio</h2>
@@ -1331,7 +1360,7 @@ footer{padding:20px 16px 28px;line-height:1.6}
 </footer>
 
 <script>
-// PREZZI ASSURDI INDEX V13.3 GUIDE AGGIORNATE
+// PREZZI ASSURDI INDEX V13.5 RICERCA AMAZON AUTOMATICA
 
 const AMAZON_AFFILIATE_TAG="prezziassur00-21";
 
@@ -1361,6 +1390,7 @@ function searchPrezziAssurdi(event){
   selectedCategory="all";
   buildChips();
   renderAll();
+  openAmazonWhenNoResults(query);
   document.getElementById("offerte").scrollIntoView({behavior:"smooth",block:"start"});
 }
 
@@ -1372,6 +1402,7 @@ function quickSiteSearch(query){
   selectedCategory="all";
   buildChips();
   renderAll();
+  openAmazonWhenNoResults(query);
   document.getElementById("offerte").scrollIntoView({behavior:"smooth",block:"start"});
 }
 
@@ -1438,9 +1469,44 @@ function renderAmazonTrending(){
   if(home)home.href=amazonSearchUrl("");
 }
 
+function renderPromotions(promotions){
+  const box=document.getElementById("promoStrips");
+  if(!box)return;
+  const featured=(Array.isArray(promotions)?promotions:[]).filter(p=>p.featured).slice(0,5);
+  if(!featured.length){
+    box.innerHTML='<div class="empty">Le promozioni torneranno presto disponibili.</div>';
+    return;
+  }
+  box.innerHTML=featured.map(p=>`
+    <article class="promo-strip" style="--promo-accent:${esc(p.accent||"#111")}">
+      <img src="${esc(p.image||"")}" alt="${esc(p.title||"Promozione")}" loading="lazy">
+      <div class="promo-strip-copy">
+        <div class="promo-strip-kicker">${esc(p.eyebrow||"PROMOZIONE")}</div>
+        <h3>${esc(p.title||"Promozione")}</h3>
+        <p>${esc(p.description||"")}</p>
+        <a href="${esc(p.url||"#")}" target="_blank" rel="nofollow sponsored noopener">${esc(p.button||"SCOPRI →")}</a>
+        <small>${p.affiliate?"Link affiliato":"Link invito"}</small>
+      </div>
+    </article>
+  `).join("");
+}
+
+async function loadPromotions(){
+  try{
+    const response=await fetch("promozioni.json?ts="+Date.now(),{cache:"no-store"});
+    if(!response.ok)throw new Error("HTTP "+response.status);
+    renderPromotions(await response.json());
+  }catch(error){
+    console.error(error);
+    const box=document.getElementById("promoStrips");
+    if(box)box.innerHTML='<div class="empty"><a href="/promozioni/">Apri la pagina Promozioni →</a></div>';
+  }
+}
+
 
 let products=[];
 let selectedCategory="all";
+let offersLoaded=false;
 
 const eur=n=>Number(n||0).toLocaleString("it-IT",{style:"currency",currency:"EUR"});
 const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[c]));
@@ -1488,6 +1554,7 @@ function setCategory(c){
   selectedCategory=c;
   buildChips();
   renderAll();
+  if(c!=="all")openAmazonWhenNoResults(amazonFilterQuery());
 }
 
 function navCategory(c){
@@ -1497,6 +1564,7 @@ function navCategory(c){
   if(hidden)hidden.value="";
   if(mainSearch)mainSearch.value="";
   renderAll();
+  if(c!=="all")openAmazonWhenNoResults(amazonFilterQuery());
   const menu=document.getElementById("navCategories");
   if(menu)menu.removeAttribute("open");
   document.getElementById("offerte")?.scrollIntoView({behavior:"smooth",block:"start"});
@@ -1635,6 +1703,15 @@ function filtered(){
   });
 }
 
+function openAmazonWhenNoResults(query){
+  // Si attiva solo dopo un'azione dell'utente e solo quando offers.json è caricato.
+  if(!offersLoaded || filtered().length>0)return false;
+  const amazonQuery=String(query||amazonFilterQuery()||"").trim();
+  if(!amazonQuery)return false;
+  window.open(amazonSearchUrl(amazonQuery),"_blank","noopener");
+  return true;
+}
+
 function renderHero(){
   const priced=products.filter(
     p=>!p.manual_link && p.price!=null && Number(p.price)>0
@@ -1762,8 +1839,8 @@ function renderAll(){
   const fallback=(q || selectedCategory!=="all")
     ? `<div class="search-fallback">
          <b>Nessuna offerta pubblicata${q?` per “${esc(q)}”`:" in questa categoria"}</b>
-         <p>Puoi continuare la ricerca direttamente su Amazon con il nostro link affiliato.</p>
-         <a href="${amazonSearchUrl(amazonQ)}" target="_blank" rel="nofollow sponsored noopener">CERCA SU AMAZON →</a>
+         <p>Abbiamo aperto automaticamente la stessa ricerca su Amazon con il nostro link affiliato.</p>
+         <a href="${amazonSearchUrl(amazonQ)}" target="_blank" rel="nofollow sponsored noopener">RIAPRI SU AMAZON →</a>
        </div>`
     : '<div class="empty">Nessuna offerta trovata.</div>';
 
@@ -1781,6 +1858,7 @@ async function loadOffers(){
     if(!r.ok)throw new Error("HTTP "+r.status);
     const data=await r.json();
     products=Array.isArray(data)?data:[];
+    offersLoaded=true;
     buildChips();
     renderHero();
     renderStats();
@@ -1794,6 +1872,7 @@ async function loadOffers(){
 }
 
 renderAmazonTrending();
+loadPromotions();
 loadOffers();
 setInterval(loadOffers,60000);
 </script>
