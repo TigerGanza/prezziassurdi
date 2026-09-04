@@ -1,0 +1,122 @@
+[
+  {
+    "key": "satispay",
+    "eyebrow": "PAGAMENTI E RISPARMIO",
+    "title": "SATISPAY",
+    "description": "Paga, invia denaro e scopri il bonus disponibile.",
+    "button": "SCOPRI SATISPAY →",
+    "url": "https://web.satispay.com/promocode/1d7e1b93-1062-44da-a4b1-5d901497991f",
+    "image": "https://prezziassurdi.com/assets/promozioni/satispay.jpg",
+    "accent": "#f33755",
+    "affiliate": false,
+    "featured": true
+  },
+  {
+    "key": "prime",
+    "eyebrow": "SERVIZI AMAZON",
+    "title": "AMAZON PRIME",
+    "description": "Spedizioni, Prime Video e vantaggi dedicati.",
+    "button": "Scopri Amazon Prime →",
+    "url": "https://www.amazon.it/provaprime?tag=prezziassur00-21",
+    "image": "https://prezziassurdi.com/assets/promozioni/prime.jpg",
+    "accent": "#00a8e1",
+    "affiliate": true,
+    "featured": true
+  },
+  {
+    "key": "music",
+    "eyebrow": "MUSICA SENZA PUBBLICITÀ",
+    "title": "MUSIC UNLIMITED",
+    "description": "Ascolta musica e playlist anche offline.",
+    "button": "Scopri Music Unlimited →",
+    "url": "https://www.amazon.it/gp/dmusic/promotions/AmazonMusicUnlimited?tag=prezziassur00-21",
+    "image": "https://prezziassurdi.com/assets/promozioni/music.jpg",
+    "accent": "#d123d3",
+    "affiliate": true,
+    "featured": true
+  },
+  {
+    "key": "kindle",
+    "eyebrow": "LETTURA DIGITALE",
+    "title": "KINDLE UNLIMITED",
+    "description": "Un catalogo di eBook da leggere anche tramite app.",
+    "button": "Scopri Kindle Unlimited →",
+    "url": "https://www.amazon.it/kindle-dbs/hz/signup?tag=prezziassur00-21",
+    "image": "https://prezziassurdi.com/assets/promozioni/kindle.jpg",
+    "accent": "#0c7b93",
+    "affiliate": true,
+    "featured": true
+  },
+  {
+    "key": "audible",
+    "eyebrow": "AUDIOLIBRI E PODCAST",
+    "title": "AUDIBLE",
+    "description": "Storie e contenuti audio da ascoltare ovunque.",
+    "button": "Scopri Audible →",
+    "url": "https://www.amazon.it/b?node=17941650031&actioCode=AZIOther35606092201BR&tag=prezziassur00-21",
+    "image": "https://prezziassurdi.com/assets/promozioni/audible.jpg",
+    "accent": "#f36f21",
+    "affiliate": true,
+    "featured": true
+  },
+  {
+    "key": "juventus",
+    "eyebrow": "PRIME VIDEO CHANNELS",
+    "title": "JUVENTUS TV",
+    "description": "Highlights, partite e contenuti dedicati al club.",
+    "button": "Scopri Juventus TV →",
+    "url": "https://www.primevideo.com/offers/?benefitId=juventustvit&tag=prezziassur00-21",
+    "image": "https://prezziassurdi.com/assets/promozioni/juventus.jpg",
+    "accent": "#444444",
+    "affiliate": true,
+    "featured": false
+  },
+  {
+    "key": "infinity",
+    "eyebrow": "PRIME VIDEO CHANNELS",
+    "title": "INFINITY SELECTION",
+    "description": "Film italiani e internazionali su Prime Video.",
+    "button": "Scopri Infinity Selection →",
+    "url": "https://www.primevideo.com/offers/?benefitId=infinityit&tag=prezziassur00-21",
+    "image": "https://prezziassurdi.com/assets/promozioni/infinity.jpg",
+    "accent": "#b30ad2",
+    "affiliate": true,
+    "featured": false
+  },
+  {
+    "key": "mubi",
+    "eyebrow": "PRIME VIDEO CHANNELS",
+    "title": "MUBI",
+    "description": "Cinema d'autore e film selezionati da tutto il mondo.",
+    "button": "Scopri MUBI →",
+    "url": "https://www.primevideo.com/offers/?benefitId=mubiit&tag=prezziassur00-21",
+    "image": "https://prezziassurdi.com/assets/promozioni/mubi.jpg",
+    "accent": "#665d00",
+    "affiliate": true,
+    "featured": false
+  },
+  {
+    "key": "raro",
+    "eyebrow": "PRIME VIDEO CHANNELS",
+    "title": "RARO VIDEO",
+    "description": "Cinema d'autore, cult e titoli selezionati.",
+    "button": "Scopri Raro Video →",
+    "url": "https://www.primevideo.com/offers/?benefitId=rarovideoit&tag=prezziassur00-21",
+    "image": "https://prezziassurdi.com/assets/promozioni/raro.jpg",
+    "accent": "#a11927",
+    "affiliate": true,
+    "featured": false
+  },
+  {
+    "key": "fullmoon",
+    "eyebrow": "PRIME VIDEO CHANNELS",
+    "title": "FULL MOON TV",
+    "description": "Azione, adrenalina e suspense su Prime Video.",
+    "button": "Scopri Full Moon TV →",
+    "url": "https://www.primevideo.com/offers/?benefitId=duelit&tag=prezziassur00-21",
+    "image": "https://prezziassurdi.com/assets/promozioni/fullmoon.jpg",
+    "accent": "#7b173d",
+    "affiliate": true,
+    "featured": false
+  }
+]
