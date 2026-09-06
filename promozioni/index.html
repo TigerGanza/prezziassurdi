@@ -60,11 +60,12 @@ footer{padding:25px 20px 40px;text-align:center;color:#858585;font-size:11px}
 <main><div class="wrap">
 <style>
 .promo-page-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:15px}
-.promo-page-card{background:#fff;border:1px solid var(--line);border-top:5px solid var(--promo-accent);border-radius:18px;overflow:hidden}
-.promo-page-card img{width:100%;aspect-ratio:3/2;object-fit:cover;display:block}
+.promo-page-card{display:block;background:#fff;color:#111;border:1px solid var(--line);border-top:5px solid var(--promo-accent);border-radius:18px;overflow:hidden;transition:.15s ease}
+.promo-page-card:hover{transform:translateY(-2px);box-shadow:0 12px 30px rgba(17,17,17,.10)}
+.promo-page-card img{width:100%;aspect-ratio:16/9;object-fit:contain;display:block;background:#eef2f6}
 .promo-page-copy{padding:17px} .promo-page-kicker{font-size:10px;font-weight:950;letter-spacing:1px;color:#666}
 .promo-page-copy h2{font-size:21px;margin:6px 0} .promo-page-copy p{font-size:13px;line-height:1.55;color:#5f5f5f;min-height:40px}
-.promo-page-copy a{display:block;background:#111;color:#fff;border-radius:10px;padding:12px;text-align:center;font-size:11px;font-weight:950;margin-top:13px}
+.promo-page-button{display:block;background:#111;color:#fff;border-radius:10px;padding:12px;text-align:center;font-size:11px;font-weight:950;margin-top:13px}
 .promo-page-copy small{display:block;color:#888;font-size:9px;line-height:1.4;margin-top:9px}
 @media(max-width:700px){.promo-page-grid{grid-template-columns:1fr}}
 </style>
@@ -75,106 +76,76 @@ footer{padding:25px 20px 40px;text-align:center;color:#858585;font-size:11px}
   <p>Satispay, Amazon Prime, Music Unlimited, Kindle Unlimited, Audible e canali Prime Video. Controlla sempre sul sito del servizio le condizioni disponibili per il tuo account.</p>
 </section>
 <section class="promo-page-grid">
-<article class="promo-page-card" style="--promo-accent:#f33755">
+<a class="promo-page-card" href="https://web.satispay.com/promocode/1d7e1b93-1062-44da-a4b1-5d901497991f" target="_blank" rel="nofollow sponsored noopener" style="--promo-accent:#f33755">
   <img src="https://prezziassurdi.com/assets/promozioni/satispay.jpg" alt="SATISPAY" loading="lazy">
   <div class="promo-page-copy">
     <div class="promo-page-kicker">PAGAMENTI E RISPARMIO</div>
     <h2>SATISPAY</h2>
     <p>Paga, invia denaro e scopri il bonus disponibile.</p>
-    <a href="https://web.satispay.com/promocode/1d7e1b93-1062-44da-a4b1-5d901497991f" target="_blank" rel="nofollow sponsored noopener">SCOPRI SATISPAY →</a>
+    <span class="promo-page-button">SCOPRI SATISPAY →</span>
     <small>Link invito. Condizioni e disponibilità vanno verificate sul sito del servizio.</small>
   </div>
-</article>
-<article class="promo-page-card" style="--promo-accent:#00a8e1">
+</a>
+<a class="promo-page-card" href="https://www.amazon.it/provaprime?tag=prezziassur00-21" target="_blank" rel="nofollow sponsored noopener" style="--promo-accent:#00a8e1">
   <img src="https://prezziassurdi.com/assets/promozioni/prime.jpg" alt="AMAZON PRIME" loading="lazy">
   <div class="promo-page-copy">
     <div class="promo-page-kicker">SERVIZI AMAZON</div>
     <h2>AMAZON PRIME</h2>
     <p>Spedizioni, Prime Video e vantaggi dedicati.</p>
-    <a href="https://www.amazon.it/provaprime?tag=prezziassur00-21" target="_blank" rel="nofollow sponsored noopener">Scopri Amazon Prime →</a>
+    <span class="promo-page-button">Scopri Amazon Prime →</span>
     <small>Link affiliato. Condizioni e disponibilità vanno verificate sul sito del servizio.</small>
   </div>
-</article>
-<article class="promo-page-card" style="--promo-accent:#d123d3">
+</a>
+<a class="promo-page-card" href="https://www.amazon.it/gp/dmusic/promotions/AmazonMusicUnlimited?tag=prezziassur00-21" target="_blank" rel="nofollow sponsored noopener" style="--promo-accent:#d123d3">
   <img src="https://prezziassurdi.com/assets/promozioni/music.jpg" alt="MUSIC UNLIMITED" loading="lazy">
   <div class="promo-page-copy">
     <div class="promo-page-kicker">MUSICA SENZA PUBBLICITÀ</div>
     <h2>MUSIC UNLIMITED</h2>
     <p>Ascolta musica e playlist anche offline.</p>
-    <a href="https://www.amazon.it/gp/dmusic/promotions/AmazonMusicUnlimited?tag=prezziassur00-21" target="_blank" rel="nofollow sponsored noopener">Scopri Music Unlimited →</a>
+    <span class="promo-page-button">Scopri Music Unlimited →</span>
     <small>Link affiliato. Condizioni e disponibilità vanno verificate sul sito del servizio.</small>
   </div>
-</article>
-<article class="promo-page-card" style="--promo-accent:#0c7b93">
+</a>
+<a class="promo-page-card" href="https://www.amazon.it/kindle-dbs/hz/signup?tag=prezziassur00-21" target="_blank" rel="nofollow sponsored noopener" style="--promo-accent:#0c7b93">
   <img src="https://prezziassurdi.com/assets/promozioni/kindle.jpg" alt="KINDLE UNLIMITED" loading="lazy">
   <div class="promo-page-copy">
     <div class="promo-page-kicker">LETTURA DIGITALE</div>
     <h2>KINDLE UNLIMITED</h2>
     <p>Un catalogo di eBook da leggere anche tramite app.</p>
-    <a href="https://www.amazon.it/kindle-dbs/hz/signup?tag=prezziassur00-21" target="_blank" rel="nofollow sponsored noopener">Scopri Kindle Unlimited →</a>
+    <span class="promo-page-button">Scopri Kindle Unlimited →</span>
     <small>Link affiliato. Condizioni e disponibilità vanno verificate sul sito del servizio.</small>
   </div>
-</article>
-<article class="promo-page-card" style="--promo-accent:#f36f21">
+</a>
+<a class="promo-page-card" href="https://www.amazon.it/b?node=17941650031&amp;actioCode=AZIOther35606092201BR&amp;tag=prezziassur00-21" target="_blank" rel="nofollow sponsored noopener" style="--promo-accent:#f36f21">
   <img src="https://prezziassurdi.com/assets/promozioni/audible.jpg" alt="AUDIBLE" loading="lazy">
   <div class="promo-page-copy">
     <div class="promo-page-kicker">AUDIOLIBRI E PODCAST</div>
     <h2>AUDIBLE</h2>
     <p>Storie e contenuti audio da ascoltare ovunque.</p>
-    <a href="https://www.amazon.it/b?node=17941650031&amp;actioCode=AZIOther35606092201BR&amp;tag=prezziassur00-21" target="_blank" rel="nofollow sponsored noopener">Scopri Audible →</a>
+    <span class="promo-page-button">Scopri Audible →</span>
     <small>Link affiliato. Condizioni e disponibilità vanno verificate sul sito del servizio.</small>
   </div>
-</article>
-<article class="promo-page-card" style="--promo-accent:#444444">
+</a>
+<a class="promo-page-card" href="https://www.primevideo.com/offers/?benefitId=juventustvit&amp;tag=prezziassur00-21" target="_blank" rel="nofollow sponsored noopener" style="--promo-accent:#444444">
   <img src="https://prezziassurdi.com/assets/promozioni/juventus.jpg" alt="JUVENTUS TV" loading="lazy">
   <div class="promo-page-copy">
     <div class="promo-page-kicker">PRIME VIDEO CHANNELS</div>
     <h2>JUVENTUS TV</h2>
     <p>Highlights, partite e contenuti dedicati al club.</p>
-    <a href="https://www.primevideo.com/offers/?benefitId=juventustvit&amp;tag=prezziassur00-21" target="_blank" rel="nofollow sponsored noopener">Scopri Juventus TV →</a>
+    <span class="promo-page-button">Scopri Juventus TV →</span>
     <small>Link affiliato. Condizioni e disponibilità vanno verificate sul sito del servizio.</small>
   </div>
-</article>
-<article class="promo-page-card" style="--promo-accent:#b30ad2">
+</a>
+<a class="promo-page-card" href="https://www.primevideo.com/offers/?benefitId=infinityit&amp;tag=prezziassur00-21" target="_blank" rel="nofollow sponsored noopener" style="--promo-accent:#b30ad2">
   <img src="https://prezziassurdi.com/assets/promozioni/infinity.jpg" alt="INFINITY SELECTION" loading="lazy">
   <div class="promo-page-copy">
     <div class="promo-page-kicker">PRIME VIDEO CHANNELS</div>
     <h2>INFINITY SELECTION</h2>
     <p>Film italiani e internazionali su Prime Video.</p>
-    <a href="https://www.primevideo.com/offers/?benefitId=infinityit&amp;tag=prezziassur00-21" target="_blank" rel="nofollow sponsored noopener">Scopri Infinity Selection →</a>
+    <span class="promo-page-button">Scopri Infinity Selection →</span>
     <small>Link affiliato. Condizioni e disponibilità vanno verificate sul sito del servizio.</small>
   </div>
-</article>
-<article class="promo-page-card" style="--promo-accent:#665d00">
-  <img src="https://prezziassurdi.com/assets/promozioni/mubi.jpg" alt="MUBI" loading="lazy">
-  <div class="promo-page-copy">
-    <div class="promo-page-kicker">PRIME VIDEO CHANNELS</div>
-    <h2>MUBI</h2>
-    <p>Cinema d&#x27;autore e film selezionati da tutto il mondo.</p>
-    <a href="https://www.primevideo.com/offers/?benefitId=mubiit&amp;tag=prezziassur00-21" target="_blank" rel="nofollow sponsored noopener">Scopri MUBI →</a>
-    <small>Link affiliato. Condizioni e disponibilità vanno verificate sul sito del servizio.</small>
-  </div>
-</article>
-<article class="promo-page-card" style="--promo-accent:#a11927">
-  <img src="https://prezziassurdi.com/assets/promozioni/raro.jpg" alt="RARO VIDEO" loading="lazy">
-  <div class="promo-page-copy">
-    <div class="promo-page-kicker">PRIME VIDEO CHANNELS</div>
-    <h2>RARO VIDEO</h2>
-    <p>Cinema d&#x27;autore, cult e titoli selezionati.</p>
-    <a href="https://www.primevideo.com/offers/?benefitId=rarovideoit&amp;tag=prezziassur00-21" target="_blank" rel="nofollow sponsored noopener">Scopri Raro Video →</a>
-    <small>Link affiliato. Condizioni e disponibilità vanno verificate sul sito del servizio.</small>
-  </div>
-</article>
-<article class="promo-page-card" style="--promo-accent:#7b173d">
-  <img src="https://prezziassurdi.com/assets/promozioni/fullmoon.jpg" alt="FULL MOON TV" loading="lazy">
-  <div class="promo-page-copy">
-    <div class="promo-page-kicker">PRIME VIDEO CHANNELS</div>
-    <h2>FULL MOON TV</h2>
-    <p>Azione, adrenalina e suspense su Prime Video.</p>
-    <a href="https://www.primevideo.com/offers/?benefitId=duelit&amp;tag=prezziassur00-21" target="_blank" rel="nofollow sponsored noopener">Scopri Full Moon TV →</a>
-    <small>Link affiliato. Condizioni e disponibilità vanno verificate sul sito del servizio.</small>
-  </div>
-</article></section>
+</a></section>
 <p class="note">In qualità di Affiliato Amazon, Prezzi Assurdi riceve un guadagno dagli acquisti idonei. Prezzi, prove gratuite e condizioni possono cambiare.</p>
 </div></main>
 <footer>PREZZI ASSURDI — In qualità di Affiliato Amazon ricevo un guadagno dagli acquisti idonei. Prezzi e disponibilità possono cambiare su Amazon.</footer>
