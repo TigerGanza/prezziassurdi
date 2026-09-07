@@ -1,5 +1,44 @@
 [
   {
+    "asin": "B0FVF575J4",
+    "title": "Dyson Spot+Scrub™ Robot aspirapolvere AI Wet and Dry – Rullo bagnato autopulente, autosvuotante, potenza di aspirazione 4x per tappeti, rimozione macchie AI (nero/blu)",
+    "price": 926.0,
+    "old_price": 1199.0,
+    "discount": 23.0,
+    "image": "https://m.media-amazon.com/images/I/41j42QWmJLL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0FVF575J4?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "casa",
+    "macro_group": "casa_cucina",
+    "seasonal_title": "",
+    "published_at": "2026-09-07T06:14:25.475413+02:00"
+  },
+  {
+    "asin": "B0G2YR3LS9",
+    "title": "COMFEE' Forno Elettrico Ventilato da Incasso Multifunzione, Capacità 70L, Classe A, 10 Funzioni di Cottura, Funzione Pizza, Pulizia AquaClean, Display LED, Nero - CBO70M80D2-BK",
+    "price": 189.9,
+    "old_price": 249.9,
+    "discount": 24.0,
+    "image": "https://m.media-amazon.com/images/I/41LJkHQMpfL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0G2YR3LS9?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "pizza",
+    "macro_group": "tempo_libero",
+    "seasonal_title": "",
+    "published_at": "2026-09-07T06:14:23.182461+02:00"
+  },
+  {
+    "asin": "B0CGXS9FRW",
+    "title": "Bosch SMS2HTW02E Serie 2 Lavastoviglie smart 13 coperti Bianco",
+    "price": 369.0,
+    "old_price": 439.63,
+    "discount": 16.0,
+    "image": "https://m.media-amazon.com/images/I/31-rTMQK3KL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0CGXS9FRW?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "grandi_elettrodomestici",
+    "macro_group": "casa_cucina",
+    "seasonal_title": "",
+    "published_at": "2026-09-07T06:12:23.699594+02:00"
+  },
+  {
     "asin": "B0GXWHDT97",
     "title": "Samsung 48\" QE48S83HAEXZT OLED 4K AI Football Mode Smart TV Vision AI 2026",
     "price": 897.9,
@@ -1259,44 +1298,5 @@
     "macro_group": "tech",
     "seasonal_title": "",
     "published_at": "2026-09-06T21:38:24.723063+02:00"
-  },
-  {
-    "asin": "B088HHWC47",
-    "title": "Elgato Wave:3, microfono condensatore USB premium per streaming, podcast, gaming e home office, software di mixaggio gratis, plug-in per effetti audio, anti-distorsione, plug ’n play, per Mac e PC",
-    "price": 99.99,
-    "old_price": 169.99,
-    "discount": 41.0,
-    "image": "https://m.media-amazon.com/images/I/31A4l2i7pwL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B088HHWC47?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "streaming_setup",
-    "macro_group": "tech",
-    "seasonal_title": "",
-    "published_at": "2026-09-06T21:38:24.672672+02:00"
-  },
-  {
-    "asin": "B0B8GRCXB6",
-    "title": "Elgato Wave DX - Microfono XLR dinamico, schema cardioide, riduzione rumore, ottimizzato per la voce per podcast, streaming, trasmissioni, non richiede amplificatori, per tutte le interfacce, Mac, PC",
-    "price": 69.99,
-    "old_price": 119.99,
-    "discount": 42.0,
-    "image": "https://m.media-amazon.com/images/I/41Q+cbbSDTL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0B8GRCXB6?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "streaming_setup",
-    "macro_group": "tech",
-    "seasonal_title": "",
-    "published_at": "2026-09-06T21:38:24.619642+02:00"
-  },
-  {
-    "asin": "B086R9VVD5",
-    "title": "Tennent’s Super Birra, Bottiglia - Pacco da 24 x 355 ml",
-    "price": 35.76,
-    "old_price": 45.36,
-    "discount": 21.0,
-    "image": "https://m.media-amazon.com/images/I/41YfbijpNzL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B086R9VVD5?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "birre",
-    "macro_group": "spesa_bevande",
-    "seasonal_title": "",
-    "published_at": "2026-09-06T21:34:23.864266+02:00"
   }
 ]
