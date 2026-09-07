@@ -1,5 +1,31 @@
 [
   {
+    "asin": "8822721861",
+    "title": "Una ragione per dirti di no. The cursed series",
+    "price": 3.96,
+    "old_price": 9.9,
+    "discount": 60.0,
+    "image": "https://m.media-amazon.com/images/I/514WSA8wdKL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/8822721861?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "libri",
+    "macro_group": "tempo_libero",
+    "seasonal_title": "",
+    "published_at": "2026-09-07T22:14:25.256388+02:00"
+  },
+  {
+    "asin": "B01C23EOQS",
+    "title": "Supradyn Ricarica 50+, Multivitaminico, Integratore Stanchezza, 30 cpr",
+    "price": 15.99,
+    "old_price": 22.9,
+    "discount": 30.0,
+    "image": "https://m.media-amazon.com/images/I/51xSS2jEMWL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B01C23EOQS?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "supplements",
+    "macro_group": "tempo_libero",
+    "seasonal_title": "",
+    "published_at": "2026-09-07T22:12:24.073871+02:00"
+  },
+  {
     "asin": "B01ITPVUR4",
     "title": "NIVEA MEN Sensitive Schiuma da Barba 200 ml, Shaving foam anti-irritazioni per la rasatura della pelle sensibile, Con Camomilla e Vitamina E, Skincare uomo per un sollievo immediato, Senza alcool",
     "price": 2.56,
@@ -1272,31 +1298,5 @@
     "macro_group": "spesa_bevande",
     "seasonal_title": "",
     "published_at": "2026-09-07T19:44:25.735422+02:00"
-  },
-  {
-    "asin": "B0GQCXP6VM",
-    "title": "Hisense Smart TV MiniLED 144Hz 75\" 4K 75E8S",
-    "price": 899.0,
-    "old_price": 1299.0,
-    "discount": 31.0,
-    "image": "https://m.media-amazon.com/images/I/41syn-7MGkL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0GQCXP6VM?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "tv_premium",
-    "macro_group": "tech",
-    "seasonal_title": "",
-    "published_at": "2026-09-07T19:42:23.133945+02:00"
-  },
-  {
-    "asin": "B0GR6SXXNM",
-    "title": "Hisense Smart TV QLED 144Hz 75\" 4K 75E7S PRO",
-    "price": 799.0,
-    "old_price": 1299.0,
-    "discount": 38.0,
-    "image": "https://m.media-amazon.com/images/I/41fwVMIVwML._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0GR6SXXNM?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "tv_premium",
-    "macro_group": "tech",
-    "seasonal_title": "",
-    "published_at": "2026-09-07T19:42:23.083314+02:00"
   }
 ]
