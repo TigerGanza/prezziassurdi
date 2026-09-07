@@ -1,5 +1,18 @@
 [
   {
+    "asin": "B005YLX4SK",
+    "title": "Akashi Blended Whisky 500 ml",
+    "price": 26.5,
+    "old_price": 37.99,
+    "discount": 30.0,
+    "image": "https://m.media-amazon.com/images/I/51byw516CtL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B005YLX4SK?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "spirits",
+    "macro_group": "spesa_bevande",
+    "seasonal_title": "",
+    "published_at": "2026-09-07T08:12:25.064313+02:00"
+  },
+  {
     "asin": "B0D17R9PXY",
     "title": "Enervit, Protein Snack al Cioccolato Fondente, Low Sugar, Barrette Proteiche, Per uno Spuntino Goloso e Per il Controllo del Peso, Ricche in Fibre, Senza Glutine, 8 Barrette da 27g",
     "price": 7.56,
@@ -1285,18 +1298,5 @@
     "macro_group": "tempo_libero",
     "seasonal_title": "",
     "published_at": "2026-09-06T23:28:23.743477+02:00"
-  },
-  {
-    "asin": "B0055DXA6S",
-    "title": "Mutti Polpa di Pomodoro Pizza Sauce, 400g",
-    "price": 3.1,
-    "old_price": 10.0,
-    "discount": 69.0,
-    "image": "https://m.media-amazon.com/images/I/51TBD5lfRnL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0055DXA6S?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "pizza",
-    "macro_group": "tempo_libero",
-    "seasonal_title": "",
-    "published_at": "2026-09-06T23:24:26.020747+02:00"
   }
 ]
