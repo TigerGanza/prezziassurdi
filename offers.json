@@ -1,5 +1,44 @@
 [
   {
+    "asin": "B01DUX6Q6U",
+    "title": "Kellogg's Granola Extra Original | Cereali per la colazione | Naturalmente ricco di fibre| Confezione singola da 375g",
+    "price": 2.09,
+    "old_price": 4.29,
+    "discount": 51.0,
+    "image": "https://m.media-amazon.com/images/I/51q0CkZ-w-L._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B01DUX6Q6U?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "alimentari",
+    "macro_group": "spesa_bevande",
+    "seasonal_title": "",
+    "published_at": "2026-09-08T06:57:42.543186+02:00"
+  },
+  {
+    "asin": "B0BMLWPDJJ",
+    "title": "OUST 3in1 Spray Elimina Odori Disinfettante - 3 Confezioni da 400ml",
+    "price": 10.99,
+    "old_price": 12.87,
+    "discount": 15.0,
+    "image": "https://m.media-amazon.com/images/I/51Lm49UaozL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0BMLWPDJJ?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "salute",
+    "macro_group": "cura_persona",
+    "seasonal_title": "",
+    "published_at": "2026-09-08T06:57:39.980544+02:00"
+  },
+  {
+    "asin": "B09FB5ZZLY",
+    "title": "Napisan Spray Disinfettante Milleusi, Disinfettante Spray per Tessuti e Superfici, Fragranza Profumo di Primavera, 6 Spray da 400ml",
+    "price": 23.94,
+    "old_price": 31.74,
+    "discount": 25.0,
+    "image": "https://m.media-amazon.com/images/I/51UR9PWwjPL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B09FB5ZZLY?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "salute",
+    "macro_group": "cura_persona",
+    "seasonal_title": "",
+    "published_at": "2026-09-08T06:57:39.920305+02:00"
+  },
+  {
     "asin": "B095X7D88Z",
     "title": "Scotch Nastro Adesivo Invisibile Magic, 6 Rotoli, 19 mm x 33 m",
     "price": 17.94,
@@ -1259,44 +1298,5 @@
     "macro_group": "famiglia_animali",
     "seasonal_title": "",
     "published_at": "2026-09-07T22:02:26.027641+02:00"
-  },
-  {
-    "asin": "B0DBLMLM81",
-    "title": "Sony WF-C510 Auricolari True Wireless",
-    "price": 44.9,
-    "old_price": 59.9,
-    "discount": 25.0,
-    "image": "https://m.media-amazon.com/images/I/31JPhLFIeXL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0DBLMLM81?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "audio_hifi",
-    "macro_group": "tech",
-    "seasonal_title": "",
-    "published_at": "2026-09-07T22:02:24.334483+02:00"
-  },
-  {
-    "asin": "B0FDBD6WQ3",
-    "title": "Sony LinkBuds Clip Auricolari Open Ear",
-    "price": 69.0,
-    "old_price": 119.99,
-    "discount": 42.0,
-    "image": "https://m.media-amazon.com/images/I/31WGHL9FX6L._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0FDBD6WQ3?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "audio_hifi",
-    "macro_group": "tech",
-    "seasonal_title": "",
-    "published_at": "2026-09-07T22:02:24.279682+02:00"
-  },
-  {
-    "asin": "B08JMXBYZK",
-    "title": "Philips Hue Play Gradient Lightstrip, Strisce LED Smart, 55\"",
-    "price": 129.99,
-    "old_price": 199.99,
-    "discount": 35.0,
-    "image": "https://m.media-amazon.com/images/I/41PIkthmg7L._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B08JMXBYZK?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "smart_home",
-    "macro_group": "casa_cucina",
-    "seasonal_title": "",
-    "published_at": "2026-09-07T22:00:25.303443+02:00"
   }
 ]
