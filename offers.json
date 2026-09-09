@@ -1,5 +1,31 @@
 [
   {
+    "asin": "B0009OAI40",
+    "title": "Elizabeth Arden - Green Tea Eau Parfum, Profumo Femminile con Essenze Naturali di Tè Verde e Bergamotto, Rinfrescante, Floreale e Agrumato, Risveglia i Sensi, Energizzante, Profumo per Donne - 100 ml",
+    "price": 12.5,
+    "old_price": 28.01,
+    "discount": 55.0,
+    "image": "https://m.media-amazon.com/images/I/31OHkY5WJDL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0009OAI40?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "bellezza",
+    "macro_group": "cura_persona",
+    "seasonal_title": "",
+    "published_at": "2026-09-09T18:42:12.299707+02:00"
+  },
+  {
+    "asin": "B0CWV95JKD",
+    "title": "Lanterna da Campeggio, Luci di Emergenza con Batteria ricaricabile da 5000mAh per black-out, 3 Colori, Torcia Portatile impermeabile IPX4 per tende da Campeggio, 1 Pezzo",
+    "price": 16.28,
+    "old_price": 19.99,
+    "discount": 19.0,
+    "image": "https://m.media-amazon.com/images/I/41GbXfATp+L._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0CWV95JKD?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "outdoor",
+    "macro_group": "fai_da_te_outdoor",
+    "seasonal_title": "",
+    "published_at": "2026-09-09T18:42:10.583193+02:00"
+  },
+  {
     "asin": "B09HV4V2NM",
     "title": "Finish Ultimate Infinity Shine Pastiglie Lavastoviglie, 80 Capsule Lavastoviglie al Limone, Pastiglie per Lavastoviglie contro lo Sporco e i Residui Incrostati",
     "price": 18.99,
@@ -1272,31 +1298,5 @@
     "macro_group": "fai_da_te_outdoor",
     "seasonal_title": "",
     "published_at": "2026-09-09T15:33:40.789138+02:00"
-  },
-  {
-    "asin": "B08F72W186",
-    "title": "Pantene Pro-V Shampoo Rigenera E Protegge 6x300ml",
-    "price": 17.95,
-    "old_price": 23.91,
-    "discount": 25.0,
-    "image": "https://m.media-amazon.com/images/I/41sTy8CcE8L._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B08F72W186?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "igiene_personale",
-    "macro_group": "cura_persona",
-    "seasonal_title": "",
-    "published_at": "2026-09-09T15:31:45.248957+02:00"
-  },
-  {
-    "asin": "B0FYK4XVT5",
-    "title": "Pantene Grow Abundant Shampoo Anti-Caduta 290ml",
-    "price": 6.29,
-    "old_price": 8.99,
-    "discount": 30.0,
-    "image": "https://m.media-amazon.com/images/I/31g+B5rr2+L._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0FYK4XVT5?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "igiene_personale",
-    "macro_group": "cura_persona",
-    "seasonal_title": "",
-    "published_at": "2026-09-09T15:31:45.193235+02:00"
   }
 ]
