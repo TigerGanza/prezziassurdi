@@ -1,5 +1,31 @@
 [
   {
+    "asin": "B000YBZZU0",
+    "title": "Fellowes 9112301 Pad poggiapolsi in gel Crystals, Nero",
+    "price": 10.02,
+    "old_price": 13.91,
+    "discount": 28.0,
+    "image": "https://m.media-amazon.com/images/I/31UbmL9troS._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B000YBZZU0?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "ufficio",
+    "macro_group": "tempo_libero",
+    "seasonal_title": "",
+    "published_at": "2026-09-09T23:54:09.544025+02:00"
+  },
+  {
+    "asin": "B01MTF06KN",
+    "title": "PHILIPS Aspirapolvere senza Sacco PowerPro Compact, PowerCyclone 5, 900W",
+    "price": 89.99,
+    "old_price": 144.99,
+    "discount": 38.0,
+    "image": "https://m.media-amazon.com/images/I/31aTPNH-8gL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B01MTF06KN?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "casa",
+    "macro_group": "casa_cucina",
+    "seasonal_title": "",
+    "published_at": "2026-09-09T23:52:11.545463+02:00"
+  },
+  {
     "asin": "B0GVQQ6SNW",
     "title": "Oududianzi-Cover per Samsung Galaxy S25 FE 5G Magsafe, Bordeaux",
     "price": 10.99,
@@ -1272,31 +1298,5 @@
     "macro_group": "tech",
     "seasonal_title": "",
     "published_at": "2026-09-09T21:06:10.795931+02:00"
-  },
-  {
-    "asin": "B0CP31VPZ1",
-    "title": "Amazon Kindle (Ultimo modello) - Il più leggero e compatto, con schermo antiriflesso, cambio pagina più rapido, illuminazione frontale regolabile- 16 GB - Con pubblicità - Verde Matcha",
-    "price": 109.99,
-    "old_price": 154.99,
-    "discount": 29.0,
-    "image": "https://m.media-amazon.com/images/I/41bf+EuSX4L._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0CP31VPZ1?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "tablet_pro",
-    "macro_group": "tech",
-    "seasonal_title": "",
-    "published_at": "2026-09-09T21:06:10.741309+02:00"
-  },
-  {
-    "asin": "B00N1YPXW2",
-    "title": "Logitech G Blue Yeti Microfono USB per Registrazione, Streaming",
-    "price": 79.79,
-    "old_price": 119.99,
-    "discount": 34.0,
-    "image": "https://m.media-amazon.com/images/I/31qpzNSp0LL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B00N1YPXW2?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "streaming_setup",
-    "macro_group": "tech",
-    "seasonal_title": "",
-    "published_at": "2026-09-09T21:02:11.705869+02:00"
   }
 ]
