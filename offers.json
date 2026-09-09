@@ -1,5 +1,44 @@
 [
   {
+    "asin": "B09R4YWQWQ",
+    "title": "Barilla Pesto alla Genovese con Basilico Fresco Italiano, 190 g",
+    "price": 1.89,
+    "old_price": 2.84,
+    "discount": 33.0,
+    "image": "https://m.media-amazon.com/images/I/41m6qx7ttVL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B09R4YWQWQ?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "alimentari",
+    "macro_group": "spesa_bevande",
+    "seasonal_title": "",
+    "published_at": "2026-09-09T17:28:10.115820+02:00"
+  },
+  {
+    "asin": "B09R5165CJ",
+    "title": "Barilla Pesto alla Genovese senza Aglio con Basilico Fresco Italiano, 190 g",
+    "price": 1.89,
+    "old_price": 2.84,
+    "discount": 33.0,
+    "image": "https://m.media-amazon.com/images/I/41gB3k5TUBL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B09R5165CJ?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "alimentari",
+    "macro_group": "spesa_bevande",
+    "seasonal_title": "",
+    "published_at": "2026-09-09T17:28:10.065438+02:00"
+  },
+  {
+    "asin": "B0012ML1F8",
+    "title": "Barilla Pesto alla Calabrese, Sugo Pronto con Peperoni Rossi, 190 g",
+    "price": 1.49,
+    "old_price": 2.34,
+    "discount": 36.0,
+    "image": "https://m.media-amazon.com/images/I/41LP21KV6iL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0012ML1F8?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "alimentari",
+    "macro_group": "spesa_bevande",
+    "seasonal_title": "",
+    "published_at": "2026-09-09T17:28:10.012899+02:00"
+  },
+  {
     "asin": "B08R73BGKY",
     "title": "Chilly, Detergente Intimo con Antibatterico, Difesa e protezione, con Anti-Odor, Per L'Igiene Intima, con estratti di timo e salvia dalle proprietà igienizzanti, pH 5, Clinicamente Testato - 300 ml",
     "price": 3.49,
@@ -1259,44 +1298,5 @@
     "macro_group": "cura_persona",
     "seasonal_title": "",
     "published_at": "2026-09-09T14:17:40.940710+02:00"
-  },
-  {
-    "asin": "B0BL7CWSS4",
-    "title": "Trust Yvi+ Mouse Wireless Silenzioso con Design Sostenibile, Rosso",
-    "price": 6.99,
-    "old_price": 14.99,
-    "discount": 53.0,
-    "image": "https://m.media-amazon.com/images/I/31lwcHT0V3L._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0BL7CWSS4?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "periferiche",
-    "macro_group": "tech",
-    "seasonal_title": "",
-    "published_at": "2026-09-09T14:17:39.438091+02:00"
-  },
-  {
-    "asin": "B0CD7Q87QS",
-    "title": "Polti Coffea S15B, Macchina per Caffè Espresso a Cialde E.S.E. da 44 mm",
-    "price": 109.99,
-    "old_price": 139.0,
-    "discount": 21.0,
-    "image": "https://m.media-amazon.com/images/I/41bC8Tucx-L._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0CD7Q87QS?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "caffe_capsule",
-    "macro_group": "casa_cucina",
-    "seasonal_title": "",
-    "published_at": "2026-09-09T14:15:42.186345+02:00"
-  },
-  {
-    "asin": "B06WGTZ874",
-    "title": "De’Longhi Dedica Style – Perfetto Macchina da Caffè Espresso, Compatibile con Cialde ESE, Montalatte Manuale per Cappuccino, Pannello di Controllo con Pulsanti, Larghezza 15 cm, Argento (EC685.M)",
-    "price": 148.0,
-    "old_price": 203.99,
-    "discount": 27.0,
-    "image": "https://m.media-amazon.com/images/I/41lq4GQpGlL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B06WGTZ874?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "caffe_capsule",
-    "macro_group": "casa_cucina",
-    "seasonal_title": "",
-    "published_at": "2026-09-09T14:15:42.131407+02:00"
   }
 ]
