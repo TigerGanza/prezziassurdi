@@ -1,5 +1,31 @@
 [
   {
+    "asin": "B07RPLPR5Y",
+    "title": "Haribo Coccodri, Caramelle Gommose, Gusto Frutta, 175gr",
+    "price": 1.15,
+    "old_price": 1.65,
+    "discount": 30.0,
+    "image": "https://m.media-amazon.com/images/I/51nitKPFuEL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B07RPLPR5Y?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "cibo",
+    "macro_group": "spesa_bevande",
+    "seasonal_title": "",
+    "published_at": "2026-09-09T07:11:42.121998+02:00"
+  },
+  {
+    "asin": "B086R9VVD5",
+    "title": "Tennent’s Super Birra, Bottiglia - Pacco da 24 x 355 ml",
+    "price": 35.76,
+    "old_price": 45.36,
+    "discount": 21.0,
+    "image": "https://m.media-amazon.com/images/I/41YfbijpNzL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B086R9VVD5?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "birre",
+    "macro_group": "spesa_bevande",
+    "seasonal_title": "",
+    "published_at": "2026-09-09T07:09:40.444428+02:00"
+  },
+  {
     "asin": "B0GWN4SNXP",
     "title": "LG OLED evo AI 77 Pollici, Serie G6 2026 Smart TV 4K - OLED77G64LW",
     "price": 3899.0,
@@ -1272,31 +1298,5 @@
     "macro_group": "casa_cucina",
     "seasonal_title": "",
     "published_at": "2026-09-08T21:05:40.188978+02:00"
-  },
-  {
-    "asin": "B0D2KRGN33",
-    "title": "Puma Flexfocus Modern AC+ Inf, Sneaker Unisex - Bimbi 0-24, Black Pink White, 21 EU",
-    "price": 17.99,
-    "old_price": 24.95,
-    "discount": 28.0,
-    "image": "https://m.media-amazon.com/images/I/41lOdiRkjrL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0D2KRGN33?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "bambini_completo",
-    "macro_group": "famiglia_animali",
-    "seasonal_title": "",
-    "published_at": "2026-09-08T21:03:41.025817+02:00"
-  },
-  {
-    "asin": "B07S6PCPLH",
-    "title": "PUMA Anzarun Lite AC PS, Sneaker Unisex - Bambini e Ragazzi, Black White, 33 EU",
-    "price": 27.95,
-    "old_price": 39.95,
-    "discount": 30.0,
-    "image": "https://m.media-amazon.com/images/I/31Jgo1ya2LL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B07S6PCPLH?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "bambini_completo",
-    "macro_group": "famiglia_animali",
-    "seasonal_title": "",
-    "published_at": "2026-09-08T21:03:40.974481+02:00"
   }
 ]
