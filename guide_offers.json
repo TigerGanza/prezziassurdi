@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "updated_at": "2026-09-08T22:53:45.644439+02:00",
+  "updated_at": "2026-09-09T10:53:46.709536+02:00",
   "groups": {
     "phone-under-150": {
       "kind": "smartphone",
       "query": "smartphone 5G",
-      "updated_at": "2026-09-08T22:53:26.748741+02:00",
+      "updated_at": "2026-09-09T10:53:26.751646+02:00",
       "items": [
         {
           "asin": "B0H4LMQGQ5",
@@ -22,7 +22,7 @@
           "guide_groups": [
             "phone-under-150"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
           "asin": "B0FC63CHHR",
@@ -39,7 +39,7 @@
           "guide_groups": [
             "phone-under-150"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
           "asin": "B0GVJTRHZH",
@@ -56,7 +56,7 @@
           "guide_groups": [
             "phone-under-150"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
           "asin": "B0DCGMBLHV",
@@ -73,7 +73,24 @@
           "guide_groups": [
             "phone-under-150"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
+        },
+        {
+          "asin": "B0GVJNWFPR",
+          "title": "POCO C81 Pro, Smartphone 4+256GB, Verde, Batteria da 6000mAh(typ)",
+          "price": 139.9,
+          "old_price": null,
+          "discount": null,
+          "image": "https://m.media-amazon.com/images/I/41oaFVPaSnL._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0GVJNWFPR?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "category": "smartphone",
+          "macro_group": "guide_catalog",
+          "seasonal_title": "",
+          "guide_catalog": true,
+          "guide_groups": [
+            "phone-under-150"
+          ],
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
           "asin": "B09QH6KD26",
@@ -90,31 +107,14 @@
           "guide_groups": [
             "phone-under-150"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
-        },
-        {
-          "asin": "B0F6CBFVDG",
-          "title": "realme 14X 5G Smartphone 8+256GB, Black",
-          "price": 144.0,
-          "old_price": null,
-          "discount": null,
-          "image": "https://m.media-amazon.com/images/I/410L3bUvUbL._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0F6CBFVDG?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-          "category": "smartphone",
-          "macro_group": "guide_catalog",
-          "seasonal_title": "",
-          "guide_catalog": true,
-          "guide_groups": [
-            "phone-under-150"
-          ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         }
       ]
     },
     "phone-150-199": {
       "kind": "smartphone",
       "query": "smartphone 5G 128GB",
-      "updated_at": "2026-09-08T22:53:26.748741+02:00",
+      "updated_at": "2026-09-09T10:53:26.751646+02:00",
       "items": [
         {
           "asin": "B0DHZZ67HX",
@@ -131,7 +131,7 @@
           "guide_groups": [
             "phone-150-199"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
           "asin": "B0FHBQZST7",
@@ -148,12 +148,12 @@
           "guide_groups": [
             "phone-150-199"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
           "asin": "B0FMD7H9N5",
           "title": "Samsung Galaxy A17 5G A176 Dual Sim 4GB RAM 128GB - Grey - 128 GB [Energieklasse B] (SM-A176BZAAEUE)",
-          "price": 177.37,
+          "price": 176.37,
           "old_price": null,
           "discount": null,
           "image": "https://m.media-amazon.com/images/I/31LU6RJ4LcL._SL500_.jpg",
@@ -165,16 +165,16 @@
           "guide_groups": [
             "phone-150-199"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
-          "asin": "B0FMJNHRVV",
-          "title": "Samsung Galaxy A17 5G 17 cm [6.7] Dual SIM ibrida Android 15 USB tipo-C 128 GB 5000 mAh Nero (A...- [Versione Tedesca, Spagnola, Francese, UK, Belga, Olandese, Danese, Finlandese, Norvegese, Svedese]",
-          "price": 178.89,
+          "asin": "B0H2HBN61H",
+          "title": "realme C100 5G Smartphone - 4GB RAM + 128GB, Display 6.8 Pollici 144Hz, Fotocamera 50MP, Batteria 6600mAh con Ricarica Rapida 45W, Blooming Purple",
+          "price": 179.99,
           "old_price": null,
           "discount": null,
-          "image": "https://m.media-amazon.com/images/I/31wZscu42fL._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0FMJNHRVV?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "image": "https://m.media-amazon.com/images/I/41X-UQkDpoL._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0H2HBN61H?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
           "category": "smartphone",
           "macro_group": "guide_catalog",
           "seasonal_title": "",
@@ -182,7 +182,7 @@
           "guide_groups": [
             "phone-150-199"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
           "asin": "B0H2H614N5",
@@ -199,14 +199,14 @@
           "guide_groups": [
             "phone-150-199"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         }
       ]
     },
     "phone-200-249": {
       "kind": "smartphone",
       "query": "smartphone 5G 256GB",
-      "updated_at": "2026-09-08T22:53:26.748741+02:00",
+      "updated_at": "2026-09-09T10:53:26.751646+02:00",
       "items": [
         {
           "asin": "B0GKGH7CKL",
@@ -223,7 +223,7 @@
           "guide_groups": [
             "phone-200-249"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
           "asin": "B0GV4D2G6L",
@@ -240,7 +240,7 @@
           "guide_groups": [
             "phone-200-249"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
           "asin": "B0FX9W3V4T",
@@ -257,7 +257,7 @@
           "guide_groups": [
             "phone-200-249"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
           "asin": "B0FB37J6TR",
@@ -274,24 +274,7 @@
           "guide_groups": [
             "phone-200-249"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
-        },
-        {
-          "asin": "B0GL95YMGK",
-          "title": "OPPO A6 5G 6/256GB AURORA GOLD",
-          "price": 220.0,
-          "old_price": null,
-          "discount": null,
-          "image": "https://m.media-amazon.com/images/I/41I27Epj9xL._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0GL95YMGK?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-          "category": "smartphone",
-          "macro_group": "guide_catalog",
-          "seasonal_title": "",
-          "guide_catalog": true,
-          "guide_groups": [
-            "phone-200-249"
-          ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
           "asin": "B0F3JZVRRL",
@@ -308,23 +291,40 @@
           "guide_groups": [
             "phone-200-249"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
+        },
+        {
+          "asin": "B0FXBH3S2L",
+          "title": "XIAOMI REDMI Note 15 5G, Smartphone 8+256GB, Viola Nebbia, Resistenza IP65",
+          "price": 241.96,
+          "old_price": null,
+          "discount": null,
+          "image": "https://m.media-amazon.com/images/I/41LHk78tOYL._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0FXBH3S2L?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "category": "smartphone",
+          "macro_group": "guide_catalog",
+          "seasonal_title": "",
+          "guide_catalog": true,
+          "guide_groups": [
+            "phone-200-249"
+          ],
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         }
       ]
     },
     "phone-250-300": {
       "kind": "smartphone",
       "query": "smartphone 5G in offerta",
-      "updated_at": "2026-09-08T22:53:26.748741+02:00",
+      "updated_at": "2026-09-09T10:53:26.751646+02:00",
       "items": [
         {
-          "asin": "B0GF2H2LQC",
-          "title": "XIAOMI REDMI Note 15 5G, Smartphone 8+512GB, Nero, Resistenza IP65",
-          "price": 268.5,
+          "asin": "B0GF21DNTH",
+          "title": "XIAOMI REDMI Note 15 5G, Smartphone 8+512GB, Blu Ghiacciaio Resistenza IP65",
+          "price": 273.0,
           "old_price": 329.9,
-          "discount": 19.0,
-          "image": "https://m.media-amazon.com/images/I/41aUFwJf-ML._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0GF2H2LQC?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "discount": 17.0,
+          "image": "https://m.media-amazon.com/images/I/41T8FF3tVAL._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0GF21DNTH?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
           "category": "smartphone",
           "macro_group": "guide_catalog",
           "seasonal_title": "",
@@ -332,16 +332,16 @@
           "guide_groups": [
             "phone-250-300"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
-          "asin": "B0H4M73DJR",
-          "title": "XIAOMI Redmi Note 15 5G 8GB-512GB Viola Nebbia Dual SIM",
-          "price": 253.89,
+          "asin": "B0G2BFZRGL",
+          "title": "Redmi Note 15 5G 8+256 Glacier Blue (No power adapter included)",
+          "price": 258.0,
           "old_price": null,
           "discount": null,
-          "image": "https://m.media-amazon.com/images/I/41c7iHZQ42L._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0H4M73DJR?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "image": "https://m.media-amazon.com/images/I/41Z0WlRF50L._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0G2BFZRGL?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
           "category": "smartphone",
           "macro_group": "guide_catalog",
           "seasonal_title": "",
@@ -349,7 +349,7 @@
           "guide_groups": [
             "phone-250-300"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
           "asin": "B0FGD7NS4S",
@@ -366,7 +366,7 @@
           "guide_groups": [
             "phone-250-300"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
           "asin": "B0G26F45LN",
@@ -383,7 +383,7 @@
           "guide_groups": [
             "phone-250-300"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
           "asin": "B0G269WF6V",
@@ -400,16 +400,16 @@
           "guide_groups": [
             "phone-250-300"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
-          "asin": "B0CY8D7L7F",
-          "title": "Samsung Galaxy A35 128GB 6RAM 5G EU Black",
-          "price": 287.59,
+          "asin": "B0GXBGC7MG",
+          "title": "realme 14 5G Smartphone 8GB RAM + 256GB ROM, Snapdragon 6 Gen 4 e 120Hz AMOLED Schermo, Cellurale 6000mAh Batteria e Ricarica Rapida da 45W, IP69 Resistenza, GT Boost, AI OIS 50MP Fotocamera, Titanio",
+          "price": 259.99,
           "old_price": null,
           "discount": null,
-          "image": "https://m.media-amazon.com/images/I/41dpMxKdcML._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0CY8D7L7F?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "image": "https://m.media-amazon.com/images/I/415TjNqzPdL._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0GXBGC7MG?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
           "category": "smartphone",
           "macro_group": "guide_catalog",
           "seasonal_title": "",
@@ -417,14 +417,14 @@
           "guide_groups": [
             "phone-250-300"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         }
       ]
     },
     "phone-300-349": {
       "kind": "smartphone",
       "query": "smartphone 5G",
-      "updated_at": "2026-09-08T22:53:26.748741+02:00",
+      "updated_at": "2026-09-09T10:53:26.751646+02:00",
       "items": [
         {
           "asin": "B0GX76BDKR",
@@ -441,7 +441,7 @@
           "guide_groups": [
             "phone-300-349"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
           "asin": "B0GXF7LL58",
@@ -458,7 +458,7 @@
           "guide_groups": [
             "phone-300-349"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
           "asin": "B0GMJMT4Y3",
@@ -475,7 +475,7 @@
           "guide_groups": [
             "phone-300-349"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
           "asin": "B0GMHTMV1X",
@@ -492,24 +492,7 @@
           "guide_groups": [
             "phone-300-349"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
-        },
-        {
-          "asin": "B0G2BH3L3X",
-          "title": "Redmi Note 15 Pro 5G 12+512 Black (No power adapter included)",
-          "price": 345.89,
-          "old_price": 449.9,
-          "discount": 23.0,
-          "image": "https://m.media-amazon.com/images/I/31z784H5mxL._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0G2BH3L3X?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-          "category": "smartphone",
-          "macro_group": "guide_catalog",
-          "seasonal_title": "",
-          "guide_catalog": true,
-          "guide_groups": [
-            "phone-300-349"
-          ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
           "asin": "B0FXBM53CM",
@@ -526,23 +509,40 @@
           "guide_groups": [
             "phone-300-349"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
+        },
+        {
+          "asin": "B0G2BGDCS8",
+          "title": "Redmi Note 15 Pro 5G 8+256 Titanium (No power adapter included)",
+          "price": 301.0,
+          "old_price": null,
+          "discount": null,
+          "image": "https://m.media-amazon.com/images/I/410c7mDcR7L._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0G2BGDCS8?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "category": "smartphone",
+          "macro_group": "guide_catalog",
+          "seasonal_title": "",
+          "guide_catalog": true,
+          "guide_groups": [
+            "phone-300-349"
+          ],
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         }
       ]
     },
     "phone-350-499": {
       "kind": "smartphone",
       "query": "smartphone 512GB",
-      "updated_at": "2026-09-08T22:53:26.748741+02:00",
+      "updated_at": "2026-09-09T10:53:26.751646+02:00",
       "items": [
         {
-          "asin": "B0GVJGPRFG",
-          "title": "OPPO Reno15 FS 5G 512GB 8GB Aurora Blue",
-          "price": 356.0,
-          "old_price": null,
-          "discount": null,
-          "image": "https://m.media-amazon.com/images/I/31XyNchY8NL._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0GVJGPRFG?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "asin": "B0G2BH3L3X",
+          "title": "Redmi Note 15 Pro 5G 12+512 Black (No power adapter included)",
+          "price": 359.89,
+          "old_price": 449.9,
+          "discount": 20.0,
+          "image": "https://m.media-amazon.com/images/I/31z784H5mxL._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0G2BH3L3X?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
           "category": "smartphone",
           "macro_group": "guide_catalog",
           "seasonal_title": "",
@@ -550,7 +550,7 @@
           "guide_groups": [
             "phone-350-499"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
           "asin": "B0GVJMM7ZW",
@@ -567,7 +567,7 @@
           "guide_groups": [
             "phone-350-499"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
           "asin": "B0FZLLFFH5",
@@ -584,16 +584,16 @@
           "guide_groups": [
             "phone-350-499"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
-          "asin": "B0FWKDBX22",
-          "title": "Motorola edge 70 con Moto AI (12/512GB, Tripla fotocamera da 50MP+flicker sensor, selfie 50MP, 4800mAh Silicon-Carbon, Display 6.67\" Super HD 120Hz, Android 16), PANTONE Bronze Green",
-          "price": 378.5,
+          "asin": "B0FX9RP8FX",
+          "title": "XIAOMI REDMI Note 15 Pro, Smartphone 12+512GB, Nero, 6500 mAh",
+          "price": 359.9,
           "old_price": null,
           "discount": null,
-          "image": "https://m.media-amazon.com/images/I/41znHLv1lwL._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0FWKDBX22?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "image": "https://m.media-amazon.com/images/I/41ku1VNFCLL._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0FX9RP8FX?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
           "category": "smartphone",
           "macro_group": "guide_catalog",
           "seasonal_title": "",
@@ -601,7 +601,24 @@
           "guide_groups": [
             "phone-350-499"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
+        },
+        {
+          "asin": "B0GTLT9J1R",
+          "title": "XIAOMI Poco X8 Pro Smartphone 12GB + 512GB, processore Dimensity 8500-Ultra, batteria 6500 mAh, display AMOLED ultra luminoso, 50MP Sony IMX882, fotocamera principale con OIS, bianco",
+          "price": 378.0,
+          "old_price": null,
+          "discount": null,
+          "image": "https://m.media-amazon.com/images/I/41IoNqBn98L._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0GTLT9J1R?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "category": "smartphone",
+          "macro_group": "guide_catalog",
+          "seasonal_title": "",
+          "guide_catalog": true,
+          "guide_groups": [
+            "phone-350-499"
+          ],
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
           "asin": "B0FXBL91LN",
@@ -618,31 +635,14 @@
           "guide_groups": [
             "phone-350-499"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
-        },
-        {
-          "asin": "B0GHNGFXP5",
-          "title": "POCO X8 Pro, Smartphone 12+512GB, Nero, Dimensity 8500-Ultra",
-          "price": 479.9,
-          "old_price": null,
-          "discount": null,
-          "image": "https://m.media-amazon.com/images/I/41SxAxhn-mL._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0GHNGFXP5?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-          "category": "smartphone",
-          "macro_group": "guide_catalog",
-          "seasonal_title": "",
-          "guide_catalog": true,
-          "guide_groups": [
-            "phone-350-499"
-          ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         }
       ]
     },
     "phone-500-699": {
       "kind": "smartphone",
       "query": "smartphone premium 512GB",
-      "updated_at": "2026-09-08T22:53:26.748741+02:00",
+      "updated_at": "2026-09-09T10:53:26.751646+02:00",
       "items": [
         {
           "asin": "B0GFSWWDFD",
@@ -659,7 +659,7 @@
           "guide_groups": [
             "phone-500-699"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
           "asin": "B0GFSDV7HB",
@@ -676,24 +676,7 @@
           "guide_groups": [
             "phone-500-699"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
-        },
-        {
-          "asin": "B0H2TXL6WK",
-          "title": "realme 16 Pro+ 5G Smartphone, 12+512 GB, 200MP LumaColor Primary Camera 50MP Front Camera,6.8 144 Hz AMOLED Curved display, Snapdragon® 7 Gen 4, 7000mAh Battery, 80W SuperVOOC, IP69K, Grey",
-          "price": 509.99,
-          "old_price": null,
-          "discount": null,
-          "image": "https://m.media-amazon.com/images/I/41R1Wy9FXdL._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0H2TXL6WK?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-          "category": "smartphone",
-          "macro_group": "guide_catalog",
-          "seasonal_title": "",
-          "guide_catalog": true,
-          "guide_groups": [
-            "phone-500-699"
-          ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
           "asin": "B0H1R533FY",
@@ -710,7 +693,7 @@
           "guide_groups": [
             "phone-500-699"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
           "asin": "B0H1R3Z982",
@@ -727,7 +710,7 @@
           "guide_groups": [
             "phone-500-699"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
           "asin": "B0GMD5WYCW",
@@ -744,14 +727,31 @@
           "guide_groups": [
             "phone-500-699"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
+        },
+        {
+          "asin": "B0CVJ3DFXJ",
+          "title": "Apple iPhone 15 512GB - Azzurro (Ricondizionato)",
+          "price": 620.0,
+          "old_price": null,
+          "discount": null,
+          "image": "https://m.media-amazon.com/images/I/31tUkrp06RL._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0CVJ3DFXJ?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "category": "smartphone",
+          "macro_group": "guide_catalog",
+          "seasonal_title": "",
+          "guide_catalog": true,
+          "guide_groups": [
+            "phone-500-699"
+          ],
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         }
       ]
     },
     "phone-700-plus": {
       "kind": "smartphone",
       "query": "smartphone top di gamma",
-      "updated_at": "2026-09-08T22:53:26.748741+02:00",
+      "updated_at": "2026-09-09T10:53:26.751646+02:00",
       "items": [
         {
           "asin": "B0FQFQ7544",
@@ -768,7 +768,7 @@
           "guide_groups": [
             "phone-700-plus"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
           "asin": "B0FQFQ6TDZ",
@@ -785,7 +785,7 @@
           "guide_groups": [
             "phone-700-plus"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
           "asin": "B0GS668TBJ",
@@ -802,12 +802,12 @@
           "guide_groups": [
             "phone-700-plus"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
           "asin": "B0DPL2XFY3",
           "title": "Samsung Galaxy S25 Ultra Smartphone AI, 3 anni di Garanzia del produttore, Display 6.9'' QHD+ Dynamic AMOLED 2X, Fotocamera 200MP, RAM 12GB, 256GB, 5.000 mAh, Titanium Black [Versione italiana]",
-          "price": 889.99,
+          "price": 872.1,
           "old_price": null,
           "discount": null,
           "image": "https://m.media-amazon.com/images/I/41XqrKEEv7L._SL500_.jpg",
@@ -819,7 +819,7 @@
           "guide_groups": [
             "phone-700-plus"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
           "asin": "B0GPDC4R63",
@@ -836,14 +836,14 @@
           "guide_groups": [
             "phone-700-plus"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         }
       ]
     },
     "tv-24-32": {
       "kind": "tv",
       "query": "smart tv 32 pollici",
-      "updated_at": "2026-09-08T22:53:26.748741+02:00",
+      "updated_at": "2026-09-09T10:53:26.751646+02:00",
       "items": [
         {
           "asin": "B0F457M449",
@@ -860,7 +860,7 @@
           "guide_groups": [
             "tv-24-32"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
           "asin": "B0F4548TCQ",
@@ -877,7 +877,24 @@
           "guide_groups": [
             "tv-24-32"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
+        },
+        {
+          "asin": "B0GM1T3HF5",
+          "title": "Hisense Smart TV QLED 32\" FHD 32E5ST, 60Hz, Audio Dolby Atmos, VIDAA OS con 1000+ app, HDR10, Game Mode, Works with Alexa, wifi, lativù",
+          "price": 208.01,
+          "old_price": 219.0,
+          "discount": 5.0,
+          "image": "https://m.media-amazon.com/images/I/41XIXoGkegL._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0GM1T3HF5?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "category": "tv-audio",
+          "macro_group": "guide_catalog",
+          "seasonal_title": "",
+          "guide_catalog": true,
+          "guide_groups": [
+            "tv-24-32"
+          ],
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
           "asin": "B0GVHBB79G",
@@ -894,24 +911,7 @@
           "guide_groups": [
             "tv-24-32"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
-        },
-        {
-          "asin": "B0D44YKGLB",
-          "title": "Antteq TV 32 Pollici (81 cm) LED HD, Design Senza Cornice, USB-Media Player, HDMI, Triple Tuner DVB-T2/S2/C, H.265/HEVC 10bit, Audio Dolby, Modalità Hotel, Adatto agli Anziani (E32-AH1Q1L)",
-          "price": 112.99,
-          "old_price": null,
-          "discount": null,
-          "image": "https://m.media-amazon.com/images/I/41L146LWI-L._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0D44YKGLB?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-          "category": "tv-audio",
-          "macro_group": "guide_catalog",
-          "seasonal_title": "",
-          "guide_catalog": true,
-          "guide_groups": [
-            "tv-24-32"
-          ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
           "asin": "B0HC4MRHWQ",
@@ -928,7 +928,7 @@
           "guide_groups": [
             "tv-24-32"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
           "asin": "B0FDW68FQ3",
@@ -945,14 +945,14 @@
           "guide_groups": [
             "tv-24-32"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         }
       ]
     },
     "tv-40-43": {
       "kind": "tv",
       "query": "smart tv 43 pollici 4K",
-      "updated_at": "2026-09-08T22:53:26.748741+02:00",
+      "updated_at": "2026-09-09T10:53:26.751646+02:00",
       "items": [
         {
           "asin": "B0GM1NJDDK",
@@ -969,7 +969,7 @@
           "guide_groups": [
             "tv-40-43"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
           "asin": "B0D8J7L6N9",
@@ -986,12 +986,12 @@
           "guide_groups": [
             "tv-40-43"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
           "asin": "B0GR62X9MH",
           "title": "Hisense Smart TV 43\" 4K 43E6ST, 60Hz, DTS Virtual X, VIDAA OS con 1000+ app, HDR 10+, Game Mode Plus, Bluetooth, wifi, Alexa Built-in, AirPlay2, lativù",
-          "price": 269.0,
+          "price": 265.33,
           "old_price": null,
           "discount": null,
           "image": "https://m.media-amazon.com/images/I/41ljv3aObML._SL500_.jpg",
@@ -1003,7 +1003,7 @@
           "guide_groups": [
             "tv-40-43"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
           "asin": "B0F454D76T",
@@ -1020,14 +1020,14 @@
           "guide_groups": [
             "tv-40-43"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         }
       ]
     },
     "tv-48-50": {
       "kind": "tv",
       "query": "smart tv 50 pollici 4K",
-      "updated_at": "2026-09-08T22:53:26.748741+02:00",
+      "updated_at": "2026-09-09T10:53:26.751646+02:00",
       "items": [
         {
           "asin": "B0GZL6KZ7J",
@@ -1044,7 +1044,7 @@
           "guide_groups": [
             "tv-48-50"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
           "asin": "B0F383S1PS",
@@ -1061,7 +1061,7 @@
           "guide_groups": [
             "tv-48-50"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
           "asin": "B0GR5SM2WL",
@@ -1078,7 +1078,7 @@
           "guide_groups": [
             "tv-48-50"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
           "asin": "B0F1VZSZNY",
@@ -1095,7 +1095,7 @@
           "guide_groups": [
             "tv-48-50"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
           "asin": "B0F1MH6497",
@@ -1112,7 +1112,7 @@
           "guide_groups": [
             "tv-48-50"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
           "asin": "B0F45BXJ1C",
@@ -1129,14 +1129,14 @@
           "guide_groups": [
             "tv-48-50"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         }
       ]
     },
     "tv-55": {
       "kind": "tv",
       "query": "smart tv 55 pollici 4K",
-      "updated_at": "2026-09-08T22:53:26.748741+02:00",
+      "updated_at": "2026-09-09T10:53:26.751646+02:00",
       "items": [
         {
           "asin": "B0GM1TVSMG",
@@ -1153,24 +1153,7 @@
           "guide_groups": [
             "tv-55"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
-        },
-        {
-          "asin": "B0GQHGGWHX",
-          "title": "TCL 55V6D – Smart TV 4K HDR10+ da 55\" con Fire TV e Dolby Atmos",
-          "price": 334.0,
-          "old_price": 359.9,
-          "discount": 7.0,
-          "image": "https://m.media-amazon.com/images/I/41RPUDxWpXL._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0GQHGGWHX?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-          "category": "tv-audio",
-          "macro_group": "guide_catalog",
-          "seasonal_title": "",
-          "guide_catalog": true,
-          "guide_groups": [
-            "tv-55"
-          ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
           "asin": "B0F7RVDMKF",
@@ -1187,7 +1170,7 @@
           "guide_groups": [
             "tv-55"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
           "asin": "B0DV94JCVX",
@@ -1204,7 +1187,24 @@
           "guide_groups": [
             "tv-55"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
+        },
+        {
+          "asin": "B0GM1HHYWS",
+          "title": "Hisense Smart TV 55\" 4K TV 55E6ST, 60Hz, DTS Virtual X, VIDAA OS con 1000+ app, HDR 10+, Game Mode Plus, Bluetooth, wifi, Alexa Built-in, AirPlay2, lativù",
+          "price": 349.0,
+          "old_price": null,
+          "discount": null,
+          "image": "https://m.media-amazon.com/images/I/41ljv3aObML._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0GM1HHYWS?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "category": "tv-audio",
+          "macro_group": "guide_catalog",
+          "seasonal_title": "",
+          "guide_catalog": true,
+          "guide_groups": [
+            "tv-55"
+          ],
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
           "asin": "B0F457G5QG",
@@ -1221,16 +1221,16 @@
           "guide_groups": [
             "tv-55"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
-          "asin": "B0F1W75RH2",
-          "title": "Hisense TV 55\" QLED 4K 2025 55A72Q, Smart TV VIDAA U8, Dolby Vision, HDR 10+, Game Mode Plus, Dolby Atmos 2.1 con Subwoofer, Alexa Built-in, VIDAA Voice, Tuner DVB-T2/S2 HEVC 10, lativù 4K, 55''",
-          "price": 379.0,
+          "asin": "B0GQHGGWHX",
+          "title": "TCL 55V6D – Smart TV 4K HDR10+ da 55\" con Fire TV e Dolby Atmos",
+          "price": 359.0,
           "old_price": null,
           "discount": null,
-          "image": "https://m.media-amazon.com/images/I/41rwEohk-EL._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0F1W75RH2?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "image": "https://m.media-amazon.com/images/I/41RPUDxWpXL._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0GQHGGWHX?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
           "category": "tv-audio",
           "macro_group": "guide_catalog",
           "seasonal_title": "",
@@ -1238,23 +1238,23 @@
           "guide_groups": [
             "tv-55"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         }
       ]
     },
     "tv-65": {
       "kind": "tv",
       "query": "smart tv 65 pollici 4K",
-      "updated_at": "2026-09-08T22:53:26.748741+02:00",
+      "updated_at": "2026-09-09T10:53:26.751646+02:00",
       "items": [
         {
-          "asin": "B0GQF24H9M",
-          "title": "Hisense Smart TV MiniLED 144Hz 65\" 4K 65E8S",
-          "price": 699.0,
-          "old_price": 1199.0,
-          "discount": 42.0,
-          "image": "https://m.media-amazon.com/images/I/41syn-7MGkL._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0GQF24H9M?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "asin": "B0F5HYWHGJ",
+          "title": "LG NanoCell AI 65 Pollici, Serie NANO80 2025 Smart TV 4K - 65NANO80A6B",
+          "price": 549.0,
+          "old_price": 649.0,
+          "discount": 15.0,
+          "image": "https://m.media-amazon.com/images/I/51HF3IIehpL._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0F5HYWHGJ?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
           "category": "tv-audio",
           "macro_group": "guide_catalog",
           "seasonal_title": "",
@@ -1262,7 +1262,7 @@
           "guide_groups": [
             "tv-65"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
           "asin": "B0F457MQCQ",
@@ -1279,7 +1279,7 @@
           "guide_groups": [
             "tv-65"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
           "asin": "B0D8J994FH",
@@ -1296,7 +1296,7 @@
           "guide_groups": [
             "tv-65"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
           "asin": "B0DV9GHKQ6",
@@ -1313,7 +1313,7 @@
           "guide_groups": [
             "tv-65"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
           "asin": "B0GM1GRB7M",
@@ -1330,7 +1330,7 @@
           "guide_groups": [
             "tv-65"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
           "asin": "B0CZXMFPY6",
@@ -1347,15 +1347,32 @@
           "guide_groups": [
             "tv-65"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         }
       ]
     },
     "tv-70-75": {
       "kind": "tv",
       "query": "smart tv 75 pollici 4K",
-      "updated_at": "2026-09-08T22:53:26.748741+02:00",
+      "updated_at": "2026-09-09T10:53:26.751646+02:00",
       "items": [
+        {
+          "asin": "B0GYPJP1KL",
+          "title": "TCL 75A400 – Smart TV QLED 4K HDR10+ da 75\", design piatto e sottile",
+          "price": 629.4,
+          "old_price": 671.27,
+          "discount": 6.0,
+          "image": "https://m.media-amazon.com/images/I/51qgXWj8pnL._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0GYPJP1KL?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "category": "tv-audio",
+          "macro_group": "guide_catalog",
+          "seasonal_title": "",
+          "guide_catalog": true,
+          "guide_groups": [
+            "tv-70-75"
+          ],
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
+        },
         {
           "asin": "B0F74QS3PJ",
           "title": "TCL 75P6K – Smart TV 4K HDR Direct LED da 75\", Google TV con Dolby Audio",
@@ -1371,24 +1388,7 @@
           "guide_groups": [
             "tv-70-75"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
-        },
-        {
-          "asin": "B0DV9L8KLJ",
-          "title": "TCL 75V6C – Smart TV 4K HDR Direct LED da 75\", Google TV con Dolby Audio",
-          "price": 549.9,
-          "old_price": null,
-          "discount": null,
-          "image": "https://m.media-amazon.com/images/I/41lCUzpA6YL._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0DV9L8KLJ?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-          "category": "tv-audio",
-          "macro_group": "guide_catalog",
-          "seasonal_title": "",
-          "guide_catalog": true,
-          "guide_groups": [
-            "tv-70-75"
-          ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
           "asin": "B0F1WL42VS",
@@ -1405,7 +1405,7 @@
           "guide_groups": [
             "tv-70-75"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
           "asin": "B0F1W9LQDR",
@@ -1422,7 +1422,7 @@
           "guide_groups": [
             "tv-70-75"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
           "asin": "B0F45BLD1H",
@@ -1439,7 +1439,7 @@
           "guide_groups": [
             "tv-70-75"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
           "asin": "B0F1W2BHML",
@@ -1456,14 +1456,14 @@
           "guide_groups": [
             "tv-70-75"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         }
       ]
     },
     "tv-77-plus": {
       "kind": "tv",
       "query": "smart tv 77 pollici 4K",
-      "updated_at": "2026-09-08T22:53:26.748741+02:00",
+      "updated_at": "2026-09-09T10:53:26.751646+02:00",
       "items": [
         {
           "asin": "B0GWMVM78J",
@@ -1480,7 +1480,7 @@
           "guide_groups": [
             "tv-77-plus"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
           "asin": "B0GWN4SNXP",
@@ -1497,24 +1497,7 @@
           "guide_groups": [
             "tv-77-plus"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
-        },
-        {
-          "asin": "B0F1VWYVYR",
-          "title": "Hisense TV 85\" QLED 4K 2025 85E78Q, Smart TV VIDAA U8, Dolby Vision, HDR 10+, Game Mode Plus, Dolby Atmos, Alexa Built-in, VIDAA Voice, Tuner DVB-T2/S2 HEVC 10, lativù 4K, 85'', 2025 QLED 60Hz",
-          "price": 799.0,
-          "old_price": null,
-          "discount": null,
-          "image": "https://m.media-amazon.com/images/I/41rd2XY42mL._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0F1VWYVYR?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-          "category": "tv-audio",
-          "macro_group": "guide_catalog",
-          "seasonal_title": "",
-          "guide_catalog": true,
-          "guide_groups": [
-            "tv-77-plus"
-          ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
           "asin": "B0D1VV32HH",
@@ -1531,7 +1514,7 @@
           "guide_groups": [
             "tv-77-plus"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
           "asin": "B0FM49RMQR",
@@ -1548,7 +1531,7 @@
           "guide_groups": [
             "tv-77-plus"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         },
         {
           "asin": "B0GWMW9BM4",
@@ -1565,7 +1548,7 @@
           "guide_groups": [
             "tv-77-plus"
           ],
-          "published_at": "2026-09-08T22:53:26.748741+02:00"
+          "published_at": "2026-09-09T10:53:26.751646+02:00"
         }
       ]
     }
