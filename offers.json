@@ -1,5 +1,31 @@
 [
   {
+    "asin": "B0CPPG1JN7",
+    "title": "by Amazon - Pastiglie per Lavastoviglie All-in-One, 40 capsule",
+    "price": 4.48,
+    "old_price": 5.76,
+    "discount": 22.0,
+    "image": "https://m.media-amazon.com/images/I/41N5ZbeCi+L._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0CPPG1JN7?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "pulizia",
+    "macro_group": "cura_persona",
+    "seasonal_title": "",
+    "published_at": "2026-09-09T08:31:40.503961+02:00"
+  },
+  {
+    "asin": "B0B7VW62RH",
+    "title": "San Benedetto, Bibita Analcolica Gassata al Ginger Biondo Zero, 750 ml, Senza Zuccheri Aggiunti e Senza Calorie, Rinfrescante e Leggera",
+    "price": 0.75,
+    "old_price": 0.99,
+    "discount": 24.0,
+    "image": "https://m.media-amazon.com/images/I/311jR8K3sRL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0B7VW62RH?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "bevande_analcoliche",
+    "macro_group": "spesa_bevande",
+    "seasonal_title": "",
+    "published_at": "2026-09-09T08:27:39.455500+02:00"
+  },
+  {
     "asin": "B0HCPM7RMS",
     "title": "Aerosol Portatile Mesh BYDOC, Dispositivo medico classe IIA, Nebulizzatore silenzioso USB-C per adulti e bambini. Borsa di trasporto inclusa.",
     "price": 37.9,
@@ -1272,31 +1298,5 @@
     "macro_group": "famiglia_animali",
     "seasonal_title": "",
     "published_at": "2026-09-08T22:43:40.819886+02:00"
-  },
-  {
-    "asin": "B0CB1DC7GS",
-    "title": "INIU Power Bank, Piccolo 45W Ricarica Rapida 10000mAh Caricatore Portatile",
-    "price": 24.99,
-    "old_price": 31.99,
-    "discount": 22.0,
-    "image": "https://m.media-amazon.com/images/I/31T7E0l+PyL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0CB1DC7GS?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "viaggi",
-    "macro_group": "tempo_libero",
-    "seasonal_title": "",
-    "published_at": "2026-09-08T22:43:39.494065+02:00"
-  },
-  {
-    "asin": "B0FX9HMGWS",
-    "title": "INIU Piccolo 20000mAh Power Bank 22,5W Ricarica Rapida Caricatore Portatile",
-    "price": 27.5,
-    "old_price": 36.99,
-    "discount": 26.0,
-    "image": "https://m.media-amazon.com/images/I/31Wp-XoqU2L._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0FX9HMGWS?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "viaggi",
-    "macro_group": "tempo_libero",
-    "seasonal_title": "",
-    "published_at": "2026-09-08T22:43:39.440063+02:00"
   }
 ]
