@@ -1,5 +1,44 @@
 [
   {
+    "asin": "B072N597H5",
+    "title": "Super Mario Odyssey - Videogioco Nintendo - Ed. Italiana - Versione su scheda",
+    "price": 49.9,
+    "old_price": 60.51,
+    "discount": 18.0,
+    "image": "https://m.media-amazon.com/images/I/51iEqLYFwXL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B072N597H5?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "gaming",
+    "macro_group": "tech",
+    "seasonal_title": "",
+    "published_at": "2026-09-10T07:42:12.572673+02:00"
+  },
+  {
+    "asin": "B09SGDQXXQ",
+    "title": "Nintendo Switch Sports - Videogioco Nintendo - Ed. Italiana - Versione su scheda",
+    "price": 39.99,
+    "old_price": 50.51,
+    "discount": 21.0,
+    "image": "https://m.media-amazon.com/images/I/41kYQVdzCfL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B09SGDQXXQ?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "gaming",
+    "macro_group": "tech",
+    "seasonal_title": "",
+    "published_at": "2026-09-10T07:42:12.521715+02:00"
+  },
+  {
+    "asin": "B09N5KQQ2F",
+    "title": "Kirby E La Terra Perduta - Videogioco Nintendo - Ed. Italiana - Versione su scheda",
+    "price": 47.9,
+    "old_price": 60.51,
+    "discount": 21.0,
+    "image": "https://m.media-amazon.com/images/I/510TiQs8EeL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B09N5KQQ2F?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "gaming",
+    "macro_group": "tech",
+    "seasonal_title": "",
+    "published_at": "2026-09-10T07:42:12.467436+02:00"
+  },
+  {
     "asin": "B07N9CTXRP",
     "title": "Remington Piastra per Capelli - Uso da bagnato e asciutto - Per asciugare e lisciare i capelli, ingredienti microattivi anticrespo, display LCD, 140-230°C, Wet2Straightpiastra per capelli S7350",
     "price": 38.49,
@@ -1259,44 +1298,5 @@
     "macro_group": "fai_da_te_outdoor",
     "seasonal_title": "",
     "published_at": "2026-09-09T22:48:11.887114+02:00"
-  },
-  {
-    "asin": "B0FKBXRSTS",
-    "title": "Samsung Galaxy Tab S10 Lite, 3 anni di garanzia, WiFi, 6GB RAM, 128GB",
-    "price": 299.0,
-    "old_price": 399.0,
-    "discount": 25.0,
-    "image": "https://m.media-amazon.com/images/I/31LzD3ZK4dL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0FKBXRSTS?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "tablet_pro",
-    "macro_group": "tech",
-    "seasonal_title": "",
-    "published_at": "2026-09-09T22:48:10.588839+02:00"
-  },
-  {
-    "asin": "B0G8HP9S1N",
-    "title": "Pentola in Ghisa Smaltata, 26cm 5L Topbooc Pentole con Coperchio, Rosso",
-    "price": 45.12,
-    "old_price": 169.0,
-    "discount": 73.0,
-    "image": "https://m.media-amazon.com/images/I/41BZIGaDRAL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0G8HP9S1N?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "cucina_pro",
-    "macro_group": "casa_cucina",
-    "seasonal_title": "",
-    "published_at": "2026-09-09T22:46:12.540669+02:00"
-  },
-  {
-    "asin": "B0CT3SGHXL",
-    "title": "Garmin Forerunner 165, 43mm, Smartwatch GPS per la Corsa, Black",
-    "price": 187.0,
-    "old_price": 229.99,
-    "discount": 19.0,
-    "image": "https://m.media-amazon.com/images/I/318E4LcZCXL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0CT3SGHXL?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "wearables",
-    "macro_group": "tech",
-    "seasonal_title": "",
-    "published_at": "2026-09-09T22:46:10.073137+02:00"
   }
 ]
