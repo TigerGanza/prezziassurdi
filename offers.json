@@ -1,5 +1,44 @@
 [
   {
+    "asin": "B086RB9SXL",
+    "title": "Leffe Rouge, Birra Bottiglia - Pacco da 6x75cl",
+    "price": 17.34,
+    "old_price": 25.74,
+    "discount": 33.0,
+    "image": "https://m.media-amazon.com/images/I/41GgK3DRjmL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B086RB9SXL?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "birre",
+    "macro_group": "spesa_bevande",
+    "seasonal_title": "",
+    "published_at": "2026-09-10T21:42:12.309614+02:00"
+  },
+  {
+    "asin": "B0GKFB66JZ",
+    "title": "SONOFF SenseGuard DW Gen2 Zigbee - Sensore per finestra con allarme sabotaggio, contatto finestra per Smart Home e riscaldamento, stato apertura/chiusura, compatibile con Home Assistant, richiede hub",
+    "price": 29.79,
+    "old_price": 40.91,
+    "discount": 27.0,
+    "image": "https://m.media-amazon.com/images/I/21+hTodZHWL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0GKFB66JZ?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "sicurezza_casa",
+    "macro_group": "casa_cucina",
+    "seasonal_title": "",
+    "published_at": "2026-09-10T21:42:10.750477+02:00"
+  },
+  {
+    "asin": "B0BF5MC9QX",
+    "title": "Tapo T110 Sensore Contatto Smart Porte Finestre Avvisi Hub Richiesto",
+    "price": 14.99,
+    "old_price": 24.99,
+    "discount": 40.0,
+    "image": "https://m.media-amazon.com/images/I/41ETWqypoKL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0BF5MC9QX?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "sicurezza_casa",
+    "macro_group": "casa_cucina",
+    "seasonal_title": "",
+    "published_at": "2026-09-10T21:42:10.696074+02:00"
+  },
+  {
     "asin": "B0CZPMXGSH",
     "title": "Beats Solo 4 - Cuffie wireless bluetooth on-ear, compatibili con Apple e Android, fino a 50 ore di autonomia - Nero opaco",
     "price": 139.0,
@@ -1259,44 +1298,5 @@
     "macro_group": "cura_persona",
     "seasonal_title": "",
     "published_at": "2026-09-10T18:36:10.545832+02:00"
-  },
-  {
-    "asin": "B0GKVLMX57",
-    "title": "Gillette Lamette Mach 3, 20 Cartucce per Rasoio Barba Uomo, Multicolore",
-    "price": 32.45,
-    "old_price": 79.99,
-    "discount": 59.0,
-    "image": "https://m.media-amazon.com/images/I/51EGLGXvNuL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0GKVLMX57?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "igiene_personale",
-    "macro_group": "cura_persona",
-    "seasonal_title": "",
-    "published_at": "2026-09-10T18:36:10.490641+02:00"
-  },
-  {
-    "asin": "B073FJ9X2J",
-    "title": "Charmast Power Bank 26800mAh, Ultra Sottile Caricatore Portatile Nero",
-    "price": 23.46,
-    "old_price": 33.99,
-    "discount": 31.0,
-    "image": "https://m.media-amazon.com/images/I/31r6+mvSPgL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B073FJ9X2J?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "smartphone_accessori",
-    "macro_group": "tech",
-    "seasonal_title": "",
-    "published_at": "2026-09-10T18:34:10.247494+02:00"
-  },
-  {
-    "asin": "B0C2KKSTLP",
-    "title": "VIYISI Power Bank 30000mAh, Caricatore Portatile Ricarica Rapida 22,5W",
-    "price": 30.99,
-    "old_price": 46.99,
-    "discount": 34.0,
-    "image": "https://m.media-amazon.com/images/I/51K89k5-a+L._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0C2KKSTLP?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "smartphone_accessori",
-    "macro_group": "tech",
-    "seasonal_title": "",
-    "published_at": "2026-09-10T18:34:10.196665+02:00"
   }
 ]
