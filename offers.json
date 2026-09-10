@@ -1,5 +1,44 @@
 [
   {
+    "asin": "B0CD7PZLZ1",
+    "title": "Riso Scotti, Fusilli, Pasta Integrale di Riso Venere, Fonte di Fibre, Fosforo e Proteine, per un'Alimentazione Equilibrata, Formato 400 g",
+    "price": 1.39,
+    "old_price": 2.49,
+    "discount": 44.0,
+    "image": "https://m.media-amazon.com/images/I/41MuXTfZz4L._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0CD7PZLZ1?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "alimentari",
+    "macro_group": "spesa_bevande",
+    "seasonal_title": "",
+    "published_at": "2026-09-10T13:34:12.174662+02:00"
+  },
+  {
+    "asin": "B0GJ6Z9SQP",
+    "title": "Acer Aspire Go 15 | PC Portatile | 15.6\" | Ryzen 7 | 16GB | 1TB",
+    "price": 599.0,
+    "old_price": 749.0,
+    "discount": 20.0,
+    "image": "https://m.media-amazon.com/images/I/417yZ22d7+L._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0GJ6Z9SQP?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "laptop_gaming",
+    "macro_group": "tech",
+    "seasonal_title": "",
+    "published_at": "2026-09-10T13:34:10.214347+02:00"
+  },
+  {
+    "asin": "B0G5PZR2NN",
+    "title": "Dell 14 Laptop - AMD Ryzen AI 7 350, 16GB RAM, 1TB SSD",
+    "price": 859.0,
+    "old_price": 1229.0,
+    "discount": 30.0,
+    "image": "https://m.media-amazon.com/images/I/418hU8vmxrL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0G5PZR2NN?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "laptop_gaming",
+    "macro_group": "tech",
+    "seasonal_title": "",
+    "published_at": "2026-09-10T13:34:10.158628+02:00"
+  },
+  {
     "asin": "B0GZL46DJ2",
     "title": "Samsung Smart TV 75\" UE75U8090HUXZT Crystal UHD, Crystal 4K Processor, HDR10+, PurColor, Motion Xcelerator, Dynamic Sound Pack, Gaming Hub, TV Plus, Knox Security, Vision AI, 2026",
     "price": 699.0,
@@ -1259,44 +1298,5 @@
     "macro_group": "famiglia_animali",
     "seasonal_title": "",
     "published_at": "2026-09-10T11:12:09.731224+02:00"
-  },
-  {
-    "asin": "B0DRP5NGLQ",
-    "title": "ULANZI SL02 Flash Speedlite per Fotocamera",
-    "price": 24.64,
-    "old_price": 31.59,
-    "discount": 22.0,
-    "image": "https://m.media-amazon.com/images/I/31vPYxYpUvL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0DRP5NGLQ?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "foto_pro",
-    "macro_group": "tech",
-    "seasonal_title": "",
-    "published_at": "2026-09-10T11:10:11.976312+02:00"
-  },
-  {
-    "asin": "B0FDPWKL7N",
-    "title": "ULANZI SL03 Mini flash Speedlite per fotocamera, Flash macchina fotografica GN8 6500±300K, Angolo di 90° regolabile, 200lux@0.3m, compatibile con Sony/Canon/Fuji/Nikon con slitta a contatto singolo",
-    "price": 25.59,
-    "old_price": 41.01,
-    "discount": 38.0,
-    "image": "https://m.media-amazon.com/images/I/41L+IetU8wL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0FDPWKL7N?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "foto_pro",
-    "macro_group": "tech",
-    "seasonal_title": "",
-    "published_at": "2026-09-10T11:10:11.923126+02:00"
-  },
-  {
-    "asin": "B0CHWV5HTM",
-    "title": "Apple iPhone 15 (128 GB) - nero",
-    "price": 599.0,
-    "old_price": 719.0,
-    "discount": 17.0,
-    "image": "https://m.media-amazon.com/images/I/31jlnEYZNlL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0CHWV5HTM?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "smartphone_top",
-    "macro_group": "tech",
-    "seasonal_title": "",
-    "published_at": "2026-09-10T11:02:10.233035+02:00"
   }
 ]
