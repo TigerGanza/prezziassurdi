@@ -1,5 +1,44 @@
 [
   {
+    "asin": "B086XRP94M",
+    "title": "Kellogg's Krave Choco Nut Cereali | Gusto Cioccolato e Nocciola | Cereali per la Colazione | Senza coloranti né aromi artificiali | Confezione singola da 410g",
+    "price": 1.89,
+    "old_price": 2.35,
+    "discount": 20.0,
+    "image": "https://m.media-amazon.com/images/I/51pyx3B7GqL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B086XRP94M?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "alimentari",
+    "macro_group": "spesa_bevande",
+    "seasonal_title": "",
+    "published_at": "2026-09-12T06:41:59.678591+02:00"
+  },
+  {
+    "asin": "B0B2F9NVQM",
+    "title": "Kellogg's Special K Granola Cioccolato Fondente 320g",
+    "price": 1.79,
+    "old_price": 3.29,
+    "discount": 46.0,
+    "image": "https://m.media-amazon.com/images/I/41VLfaJzM4L._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0B2F9NVQM?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "alimentari",
+    "macro_group": "spesa_bevande",
+    "seasonal_title": "",
+    "published_at": "2026-09-12T06:41:59.617415+02:00"
+  },
+  {
+    "asin": "B0D3VCF5P2",
+    "title": "Philips Purificatore d'aria 4200, filtro HEPA, 156m², CADR 600m³/h",
+    "price": 414.99,
+    "old_price": 529.99,
+    "discount": 22.0,
+    "image": "https://m.media-amazon.com/images/I/41MphPgRUqL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0D3VCF5P2?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "comfort_casa",
+    "macro_group": "casa_cucina",
+    "seasonal_title": "",
+    "published_at": "2026-09-12T06:41:57.814430+02:00"
+  },
+  {
     "asin": "B095K1SCM3",
     "title": "Finish Powergel Detersivo Lavastoviglie Fresh, Gel Lavastoviglie, 120 Lavaggi, 4 confezioni da 30 Lavaggi di Liquido Lavastoviglie",
     "price": 17.96,
@@ -1259,44 +1298,5 @@
     "macro_group": "casa_cucina",
     "seasonal_title": "",
     "published_at": "2026-09-11T21:50:10.750074+02:00"
-  },
-  {
-    "asin": "B01K7GEG9W",
-    "title": "Logitech M220 SILENT Mouse Wireless",
-    "price": 12.99,
-    "old_price": 19.99,
-    "discount": 35.0,
-    "image": "https://m.media-amazon.com/images/I/31kK0qWctJL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B01K7GEG9W?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "periferiche",
-    "macro_group": "tech",
-    "seasonal_title": "",
-    "published_at": "2026-09-11T21:48:10.482693+02:00"
-  },
-  {
-    "asin": "B00552K0GM",
-    "title": "Logitech M185 Mouse Wireless, 2,4 GHz con Mini Ricevitore USB",
-    "price": 9.49,
-    "old_price": 14.99,
-    "discount": 37.0,
-    "image": "https://m.media-amazon.com/images/I/31U-r5U5hoL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B00552K0GM?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "periferiche",
-    "macro_group": "tech",
-    "seasonal_title": "",
-    "published_at": "2026-09-11T21:48:10.430303+02:00"
-  },
-  {
-    "asin": "B01A9GXEOI",
-    "title": "Logitech M171 Mouse Wireless per PC - Nero",
-    "price": 8.49,
-    "old_price": 13.99,
-    "discount": 39.0,
-    "image": "https://m.media-amazon.com/images/I/21yTI5RqsYL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B01A9GXEOI?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "periferiche",
-    "macro_group": "tech",
-    "seasonal_title": "",
-    "published_at": "2026-09-11T21:48:10.378111+02:00"
   }
 ]
