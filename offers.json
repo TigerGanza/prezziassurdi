@@ -1,5 +1,31 @@
 [
   {
+    "asin": "B0DC5PKVC2",
+    "title": "Kellogg's Coco Pops Barchette al Cioccolato 580g",
+    "price": 2.89,
+    "old_price": 3.9,
+    "discount": 26.0,
+    "image": "https://m.media-amazon.com/images/I/41wVTOBX7qL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0DC5PKVC2?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "alimentari",
+    "macro_group": "spesa_bevande",
+    "seasonal_title": "",
+    "published_at": "2026-09-12T17:31:58.720365+02:00"
+  },
+  {
+    "asin": "B07PBX3ZDC",
+    "title": "Kellogg's Special K | Gusto Cioccolato Fondente | Croccanti Fiocchi Multicereali e Deliziosi Riccioli di Cioccolato | Confezione Singola da 290g (1 x 290g)",
+    "price": 2.33,
+    "old_price": 4.19,
+    "discount": 44.0,
+    "image": "https://m.media-amazon.com/images/I/41smOfRYtkL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B07PBX3ZDC?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "alimentari",
+    "macro_group": "spesa_bevande",
+    "seasonal_title": "",
+    "published_at": "2026-09-12T17:31:58.660017+02:00"
+  },
+  {
     "asin": "B0D59KZY8P",
     "title": "KLOSTAIN Zaino da Viaggio Easyjet 45x36x20 Zaino da Viaggio Aereo Bagaglio a Mano 30L Borsa da Cabina Zaino per Uomo e Donna da Lavoro Viaggio e Trekking Scuola,15.6 Pollici Zaino Porta PC Nero",
     "price": 27.43,
@@ -1272,31 +1298,5 @@
     "macro_group": "spesa_bevande",
     "seasonal_title": "",
     "published_at": "2026-09-12T14:25:59.513052+02:00"
-  },
-  {
-    "asin": "B0848J9WZ4",
-    "title": "ALPRO SENZA ZUCCHERI, Bevanda alla SOIA, Naturalmente Senza Lattosio, con Vitamine B2, B12 e D2 - 8 confezioni x 1 Litro",
-    "price": 13.99,
-    "old_price": 21.41,
-    "discount": 35.0,
-    "image": "https://m.media-amazon.com/images/I/41M5rByqCGL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0848J9WZ4?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "bevande_analcoliche",
-    "macro_group": "spesa_bevande",
-    "seasonal_title": "",
-    "published_at": "2026-09-12T14:25:59.457350+02:00"
-  },
-  {
-    "asin": "B09Z693FH3",
-    "title": "ALPRO SENZA ZUCCHERI, Bevanda alla MANDORLA, Naturalmente Senza Lattosio, con Vitamine B2, B12, D2, E - 8 confezioni x 1 Litro",
-    "price": 14.99,
-    "old_price": 25.69,
-    "discount": 42.0,
-    "image": "https://m.media-amazon.com/images/I/41auY-eEnUL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B09Z693FH3?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "bevande_analcoliche",
-    "macro_group": "spesa_bevande",
-    "seasonal_title": "",
-    "published_at": "2026-09-12T14:25:59.408915+02:00"
   }
 ]
