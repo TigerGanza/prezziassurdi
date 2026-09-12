@@ -1,5 +1,44 @@
 [
   {
+    "asin": "B000KE380K",
+    "title": "De Cecco Spaghettini, Pasta di Semola Digrano Duro, 500g",
+    "price": 0.99,
+    "old_price": 1.35,
+    "discount": 27.0,
+    "image": "https://m.media-amazon.com/images/I/41TcO6aju8L._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B000KE380K?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "alimentari",
+    "macro_group": "spesa_bevande",
+    "seasonal_title": "",
+    "published_at": "2026-09-12T07:51:59.444808+02:00"
+  },
+  {
+    "asin": "B003TKXH5S",
+    "title": "La Molisana, Farfalle Rigate n. 66, Pasta da Solo Grano Italiano - Trafilata al Bronzo, Ruvida e Tenace con Eccellente Tenuta in Cottura - Confezione da 500 g",
+    "price": 0.74,
+    "old_price": 1.19,
+    "discount": 38.0,
+    "image": "https://m.media-amazon.com/images/I/41bERhrQPwL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B003TKXH5S?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "alimentari",
+    "macro_group": "spesa_bevande",
+    "seasonal_title": "",
+    "published_at": "2026-09-12T07:51:59.393072+02:00"
+  },
+  {
+    "asin": "B00DIRE6NO",
+    "title": "La Molisana, Penne Rigate n. 20, Pasta da Solo Grano Italiano - Trafilata al Bronzo, Ruvida e Tenace con Eccellente Tenuta in Cottura - Confezione da 500 g",
+    "price": 0.74,
+    "old_price": 1.19,
+    "discount": 38.0,
+    "image": "https://m.media-amazon.com/images/I/31QBRQMy31L._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B00DIRE6NO?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "alimentari",
+    "macro_group": "spesa_bevande",
+    "seasonal_title": "",
+    "published_at": "2026-09-12T07:51:59.337732+02:00"
+  },
+  {
     "asin": "B019OKSYTA",
     "title": "Chicco First Dreams Orsacchiotto Peluche Baby Bear, Soffice Pupazzo Proiettore con Luce Notturna Bambini, Effetti Luminosi e Rilassanti Melodie, Azzurro - Giochi Neonato 0 Mesi +",
     "price": 29.51,
@@ -1259,44 +1298,5 @@
     "macro_group": "casa_cucina",
     "seasonal_title": "",
     "published_at": "2026-09-11T22:58:13.045837+02:00"
-  },
-  {
-    "asin": "B004R8HO9Q",
-    "title": "Ballantine's Finest Blended Scotch Whisky, vol 40%, 100 CL",
-    "price": 15.2,
-    "old_price": 17.9,
-    "discount": 15.0,
-    "image": "https://m.media-amazon.com/images/I/31lzxeSWDZL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B004R8HO9Q?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "spirits",
-    "macro_group": "spesa_bevande",
-    "seasonal_title": "",
-    "published_at": "2026-09-11T22:56:11.899393+02:00"
-  },
-  {
-    "asin": "B0GWMVM78J",
-    "title": "LG OLED evo AI 77 Pollici, Serie C6 2026 Smart TV 4K - OLED77C64LA",
-    "price": 2599.0,
-    "old_price": 3599.0,
-    "discount": 28.0,
-    "image": "https://m.media-amazon.com/images/I/41KTDRXa+FL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0GWMVM78J?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "tv_premium",
-    "macro_group": "tech",
-    "seasonal_title": "",
-    "published_at": "2026-09-11T22:54:10.524486+02:00"
-  },
-  {
-    "asin": "B0GWN31T13",
-    "title": "LG OLED AI 48 Pollici, Serie B6E 2026 Smart TV 4K - OLED48B6ELC",
-    "price": 849.0,
-    "old_price": 1299.0,
-    "discount": 35.0,
-    "image": "https://m.media-amazon.com/images/I/414d9XKwNaL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0GWN31T13?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "tv_premium",
-    "macro_group": "tech",
-    "seasonal_title": "",
-    "published_at": "2026-09-11T22:54:10.473193+02:00"
   }
 ]
