@@ -1,5 +1,44 @@
 [
   {
+    "asin": "B002I2BMRS",
+    "title": "Caffè Vergnano 1882 - Caffè in Grani Granaroma",
+    "price": 13.49,
+    "old_price": 19.9,
+    "discount": 32.0,
+    "image": "https://m.media-amazon.com/images/I/31hlchFam3L._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B002I2BMRS?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "caffe_capsule",
+    "macro_group": "casa_cucina",
+    "seasonal_title": "",
+    "published_at": "2026-09-13T08:06:13.635520+02:00"
+  },
+  {
+    "asin": "B0FXN2P5Z2",
+    "title": "Lipton Tisana Menta Verde e Piperita Rinfrescante, 20 Filtri",
+    "price": 1.99,
+    "old_price": 2.59,
+    "discount": 23.0,
+    "image": "https://m.media-amazon.com/images/I/41WDAS0yQML._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0FXN2P5Z2?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "bevande_analcoliche",
+    "macro_group": "spesa_bevande",
+    "seasonal_title": "",
+    "published_at": "2026-09-13T08:04:00.923033+02:00"
+  },
+  {
+    "asin": "B0DJN3ZSTD",
+    "title": "STRELITZIA NICOLAI OFFERTA ULTIMI 30 PEZZI!!! VASO 30CM DIAMETRO, ALTEZZA 160/170CM, pianta vera",
+    "price": 88.9,
+    "old_price": 125.0,
+    "discount": 29.0,
+    "image": "https://m.media-amazon.com/images/I/51XFk33Up2L._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0DJN3ZSTD?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "fai-da-te-giardinaggio",
+    "macro_group": "fai_da_te_outdoor",
+    "seasonal_title": "",
+    "published_at": "2026-09-13T08:03:58.230927+02:00"
+  },
+  {
     "asin": "B0CH8GN5KL",
     "title": "Wilkinson Sword - MyIntuition Smooth Sensitive Quattro - Rasoio Usa & Getta - Rasoio a 4 Lame per Donna - 2 Strisce Lubrificanti con Aloe Vera e Vitamina E - Confezione 3+1",
     "price": 3.47,
@@ -1259,44 +1298,5 @@
     "macro_group": "spesa_bevande",
     "seasonal_title": "",
     "published_at": "2026-09-12T23:25:59.204357+02:00"
-  },
-  {
-    "asin": "B0GYP8RWY6",
-    "title": "COMFEE' Asciugatrice Pompa di Calore 8 kg Asciugatura 35' EcoDry",
-    "price": 329.9,
-    "old_price": 389.9,
-    "discount": 15.0,
-    "image": "https://m.media-amazon.com/images/I/41dIb6-i5hL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0GYP8RWY6?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "grandi_elettrodomestici",
-    "macro_group": "casa_cucina",
-    "seasonal_title": "",
-    "published_at": "2026-09-12T23:21:58.951747+02:00"
-  },
-  {
-    "asin": "B0FKBM7VZR",
-    "title": "Beko BMTAM83EB Asciugatrice 8 Kg Slim, Classe D",
-    "price": 399.0,
-    "old_price": 479.0,
-    "discount": 17.0,
-    "image": "https://m.media-amazon.com/images/I/41vd3Vep6cL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0FKBM7VZR?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "grandi_elettrodomestici",
-    "macro_group": "casa_cucina",
-    "seasonal_title": "",
-    "published_at": "2026-09-12T23:21:58.889322+02:00"
-  },
-  {
-    "asin": "B0FS7687C1",
-    "title": "Candy Smart Pro Asciugatrice a Pompa di Calore 8 Kg, Classe D, Bianco",
-    "price": 349.0,
-    "old_price": 532.43,
-    "discount": 34.0,
-    "image": "https://m.media-amazon.com/images/I/41DYV3bPAHL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0FS7687C1?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "grandi_elettrodomestici",
-    "macro_group": "casa_cucina",
-    "seasonal_title": "",
-    "published_at": "2026-09-12T23:21:58.831945+02:00"
   }
 ]
