@@ -1,5 +1,31 @@
 [
   {
+    "asin": "B0DGQSSKZW",
+    "title": "Barilla Pasta Al Bronzo Mezze Penne Rigate 100% Grano Italiano, 500 g",
+    "price": 0.79,
+    "old_price": 1.29,
+    "discount": 39.0,
+    "image": "https://m.media-amazon.com/images/I/416FtAtIIFL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0DGQSSKZW?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "alimentari",
+    "macro_group": "spesa_bevande",
+    "seasonal_title": "",
+    "published_at": "2026-09-13T13:27:55.389364+02:00"
+  },
+  {
+    "asin": "B0FG8P1896",
+    "title": "LG 29U511A Monitor UltraWide 21:9 29\" IPS, WFHD (2560x1080), HDR10, 100Hz, sRGB 99%, HDMI, DisplayPort, Uscita Cuffie, Schermo Antiriflesso, Reader Mode, Flicker Safe, Nero",
+    "price": 149.99,
+    "old_price": 199.99,
+    "discount": 25.0,
+    "image": "https://m.media-amazon.com/images/I/41Fj9CtptFL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0FG8P1896?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "periferiche",
+    "macro_group": "tech",
+    "seasonal_title": "",
+    "published_at": "2026-09-13T13:27:53.697695+02:00"
+  },
+  {
     "asin": "B0D715M1MW",
     "title": "Dove Bagnoschiuma Rilassante, Bagnodoccia Idratante, Formula Delicata sul Microbioma della Pelle, con Agenti Idratanti Vegetali, Senza Solfati SLES, Bagnodoccia Uomo e Donna, 6 Pezzi da 225 ml",
     "price": 9.18,
@@ -1272,31 +1298,5 @@
     "macro_group": "cura_persona",
     "seasonal_title": "",
     "published_at": "2026-09-13T09:59:56.469852+02:00"
-  },
-  {
-    "asin": "B0125U36Q2",
-    "title": "Ohuhu Rocket - Fornello da campeggio leggero in acciaio inox, a base di alcool, portatile, per cucinare all'aperto, picnic, barbecue, escursionismo, con borsa a rete",
-    "price": 18.04,
-    "old_price": 23.99,
-    "discount": 25.0,
-    "image": "https://m.media-amazon.com/images/I/41SJxd7lJJL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0125U36Q2?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "outdoor",
-    "macro_group": "fai_da_te_outdoor",
-    "seasonal_title": "",
-    "published_at": "2026-09-13T09:57:55.622750+02:00"
-  },
-  {
-    "asin": "B0G1CCWKJK",
-    "title": "Campingaz Fornello a gas Camping Connect | Con semplice collegamento a clic e doppia chiusura | Fornello da campeggio leggero a 1 fiamma | 1 bruciatore | Alta potenza 1250 W | Campeggio e festival",
-    "price": 25.65,
-    "old_price": 39.0,
-    "discount": 34.0,
-    "image": "https://m.media-amazon.com/images/I/317p9KQlEOL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0G1CCWKJK?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "outdoor",
-    "macro_group": "fai_da_te_outdoor",
-    "seasonal_title": "",
-    "published_at": "2026-09-13T09:57:55.569468+02:00"
   }
 ]
