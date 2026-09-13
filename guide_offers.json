@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "updated_at": "2026-09-13T08:08:16.764806+02:00",
+  "updated_at": "2026-09-13T08:56:13.098788+02:00",
   "groups": {
     "phone-under-150": {
       "kind": "smartphone",
       "query": "smartphone 5G",
-      "updated_at": "2026-09-13T08:07:45.928245+02:00",
+      "updated_at": "2026-09-13T08:55:40.644979+02:00",
       "items": [
         {
           "asin": "B0H4LMQGQ5",
@@ -22,7 +22,7 @@
           "guide_groups": [
             "phone-under-150"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0FC63CHHR",
@@ -39,7 +39,7 @@
           "guide_groups": [
             "phone-under-150"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0DS1V9BB5",
@@ -56,7 +56,7 @@
           "guide_groups": [
             "phone-under-150"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0GVJTRHZH",
@@ -73,7 +73,7 @@
           "guide_groups": [
             "phone-under-150"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0H3V12RSY",
@@ -90,7 +90,7 @@
           "guide_groups": [
             "phone-under-150"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0F6CBFVDG",
@@ -107,14 +107,14 @@
           "guide_groups": [
             "phone-under-150"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         }
       ]
     },
     "phone-150-199": {
       "kind": "smartphone",
       "query": "smartphone 5G 128GB",
-      "updated_at": "2026-09-13T08:07:45.928245+02:00",
+      "updated_at": "2026-09-13T08:55:40.644979+02:00",
       "items": [
         {
           "asin": "B0FHBQZST7",
@@ -131,7 +131,7 @@
           "guide_groups": [
             "phone-150-199"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B07KVTPV1G",
@@ -148,7 +148,7 @@
           "guide_groups": [
             "phone-150-199"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0H2HBN61H",
@@ -165,7 +165,7 @@
           "guide_groups": [
             "phone-150-199"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0H2H614N5",
@@ -182,16 +182,16 @@
           "guide_groups": [
             "phone-150-199"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
-          "asin": "B0GFT9R6KD",
-          "title": "realme C100 5G Smartphone 4+128GB, Purple",
+          "asin": "B0GFSVZ3VR",
+          "title": "realme C100 5G Smartphone 4+128GB, Green",
           "price": 179.99,
           "old_price": null,
           "discount": null,
-          "image": "https://m.media-amazon.com/images/I/41CPvsfuc9L._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0GFT9R6KD?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "image": "https://m.media-amazon.com/images/I/41Hi-N0vo0L._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0GFSVZ3VR?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
           "category": "smartphone",
           "macro_group": "guide_catalog",
           "seasonal_title": "",
@@ -199,12 +199,12 @@
           "guide_groups": [
             "phone-150-199"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0FMD7H9N5",
           "title": "Samsung Galaxy A17 5G A176 Dual Sim 4GB RAM 128GB - Grey - 128 GB [Energieklasse B] (SM-A176BZAAEUE)",
-          "price": 188.0,
+          "price": 187.89,
           "old_price": null,
           "discount": null,
           "image": "https://m.media-amazon.com/images/I/31LU6RJ4LcL._SL500_.jpg",
@@ -216,14 +216,14 @@
           "guide_groups": [
             "phone-150-199"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         }
       ]
     },
     "phone-200-249": {
       "kind": "smartphone",
       "query": "smartphone 5G 256GB",
-      "updated_at": "2026-09-13T08:07:45.928245+02:00",
+      "updated_at": "2026-09-13T08:55:40.644979+02:00",
       "items": [
         {
           "asin": "B0GXWWHSMP",
@@ -240,7 +240,7 @@
           "guide_groups": [
             "phone-200-249"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0GFSJZ3K6",
@@ -257,7 +257,7 @@
           "guide_groups": [
             "phone-200-249"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0F3JZVRRL",
@@ -274,7 +274,7 @@
           "guide_groups": [
             "phone-200-249"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0GTJNY35J",
@@ -291,7 +291,7 @@
           "guide_groups": [
             "phone-200-249"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0FX9W3V4T",
@@ -308,7 +308,7 @@
           "guide_groups": [
             "phone-200-249"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0FZLC196W",
@@ -325,23 +325,23 @@
           "guide_groups": [
             "phone-200-249"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         }
       ]
     },
     "phone-250-300": {
       "kind": "smartphone",
       "query": "smartphone 5G in offerta",
-      "updated_at": "2026-09-13T08:07:45.928245+02:00",
+      "updated_at": "2026-09-13T08:55:40.644979+02:00",
       "items": [
         {
-          "asin": "B0G2BFZRGL",
-          "title": "Redmi Note 15 5G 8+256 Glacier Blue (No power adapter included)",
-          "price": 258.0,
-          "old_price": null,
-          "discount": null,
-          "image": "https://m.media-amazon.com/images/I/41Z0WlRF50L._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0G2BFZRGL?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "asin": "B0GF2H2LQC",
+          "title": "XIAOMI REDMI Note 15 5G, Smartphone 8+512GB, Nero, Resistenza IP65",
+          "price": 266.75,
+          "old_price": 329.9,
+          "discount": 19.0,
+          "image": "https://m.media-amazon.com/images/I/41aUFwJf-ML._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0GF2H2LQC?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
           "category": "smartphone",
           "macro_group": "guide_catalog",
           "seasonal_title": "",
@@ -349,7 +349,7 @@
           "guide_groups": [
             "phone-250-300"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0FGD7NS4S",
@@ -366,24 +366,7 @@
           "guide_groups": [
             "phone-250-300"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
-        },
-        {
-          "asin": "B0G2BHL62V",
-          "title": "Redmi Note 15 5G 8+256 Black (No power adapter included)",
-          "price": 259.0,
-          "old_price": null,
-          "discount": null,
-          "image": "https://m.media-amazon.com/images/I/41qZji0hcmL._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0G2BHL62V?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-          "category": "smartphone",
-          "macro_group": "guide_catalog",
-          "seasonal_title": "",
-          "guide_catalog": true,
-          "guide_groups": [
-            "phone-250-300"
-          ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0G269WF6V",
@@ -400,7 +383,7 @@
           "guide_groups": [
             "phone-250-300"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0GXBGC7MG",
@@ -417,7 +400,24 @@
           "guide_groups": [
             "phone-250-300"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
+        },
+        {
+          "asin": "B0GYS37JM1",
+          "title": "Samsung Galaxy A27 5G, 128GB, RAM 6GB, Blue [Versione Italiana]",
+          "price": 269.0,
+          "old_price": null,
+          "discount": null,
+          "image": "https://m.media-amazon.com/images/I/410XYcSCMwL._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0GYS37JM1?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "category": "smartphone",
+          "macro_group": "guide_catalog",
+          "seasonal_title": "",
+          "guide_catalog": true,
+          "guide_groups": [
+            "phone-250-300"
+          ],
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0GYRYZQP3",
@@ -434,14 +434,14 @@
           "guide_groups": [
             "phone-250-300"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         }
       ]
     },
     "phone-300-349": {
       "kind": "smartphone",
       "query": "smartphone 5G",
-      "updated_at": "2026-09-13T08:07:45.928245+02:00",
+      "updated_at": "2026-09-13T08:55:40.644979+02:00",
       "items": [
         {
           "asin": "B0GXF7LL58",
@@ -458,7 +458,7 @@
           "guide_groups": [
             "phone-300-349"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0GX76BDKR",
@@ -475,7 +475,7 @@
           "guide_groups": [
             "phone-300-349"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0GMJMT4Y3",
@@ -492,7 +492,7 @@
           "guide_groups": [
             "phone-300-349"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0GMHTMV1X",
@@ -509,7 +509,7 @@
           "guide_groups": [
             "phone-300-349"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0FXBM53CM",
@@ -526,7 +526,7 @@
           "guide_groups": [
             "phone-300-349"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0G2BDLLPY",
@@ -543,14 +543,14 @@
           "guide_groups": [
             "phone-300-349"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         }
       ]
     },
     "phone-350-499": {
       "kind": "smartphone",
       "query": "smartphone 512GB",
-      "updated_at": "2026-09-13T08:07:45.928245+02:00",
+      "updated_at": "2026-09-13T08:55:40.644979+02:00",
       "items": [
         {
           "asin": "B0G2BH3L3X",
@@ -567,7 +567,7 @@
           "guide_groups": [
             "phone-350-499"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0FZLLFFH5",
@@ -584,7 +584,7 @@
           "guide_groups": [
             "phone-350-499"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0FWKFRBZM",
@@ -601,7 +601,7 @@
           "guide_groups": [
             "phone-350-499"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0FWKDBX22",
@@ -618,7 +618,7 @@
           "guide_groups": [
             "phone-350-499"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0H2TNB8C1",
@@ -635,7 +635,7 @@
           "guide_groups": [
             "phone-350-499"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0GTLT9J1R",
@@ -652,14 +652,14 @@
           "guide_groups": [
             "phone-350-499"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         }
       ]
     },
     "phone-500-699": {
       "kind": "smartphone",
       "query": "smartphone premium 512GB",
-      "updated_at": "2026-09-13T08:07:45.928245+02:00",
+      "updated_at": "2026-09-13T08:55:40.644979+02:00",
       "items": [
         {
           "asin": "B0GFSWWDFD",
@@ -676,7 +676,7 @@
           "guide_groups": [
             "phone-500-699"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0GTZMNKFS",
@@ -693,7 +693,7 @@
           "guide_groups": [
             "phone-500-699"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0CVJ3DFXJ",
@@ -710,7 +710,7 @@
           "guide_groups": [
             "phone-500-699"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0H1R533FY",
@@ -727,7 +727,7 @@
           "guide_groups": [
             "phone-500-699"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0H1R3Z982",
@@ -744,7 +744,7 @@
           "guide_groups": [
             "phone-500-699"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0GMDNRQL4",
@@ -761,15 +761,32 @@
           "guide_groups": [
             "phone-500-699"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         }
       ]
     },
     "phone-700-plus": {
       "kind": "smartphone",
       "query": "smartphone top di gamma",
-      "updated_at": "2026-09-13T08:07:45.928245+02:00",
+      "updated_at": "2026-09-13T08:55:40.644979+02:00",
       "items": [
+        {
+          "asin": "B0H6XQYLQ9",
+          "title": "POCO F9 Ultra, Smartphone 16+512GB, Ciliegia Scura,8050mAh, HyperCharge100W",
+          "price": 899.9,
+          "old_price": 1199.9,
+          "discount": 25.0,
+          "image": "https://m.media-amazon.com/images/I/41UskkBU8PL._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0H6XQYLQ9?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "category": "smartphone",
+          "macro_group": "guide_catalog",
+          "seasonal_title": "",
+          "guide_catalog": true,
+          "guide_groups": [
+            "phone-700-plus"
+          ],
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
+        },
         {
           "asin": "B0FQFQ7544",
           "title": "Apple iPhone 17 Pro 256 GB: display 6,3\", ProMotion fino a 120Hz, chip A19 Pro, autonomia senza precedenti, sistema di fotocamere Pro Fusion con fotocamera frontale Center Stage; Arancione cosmico",
@@ -785,7 +802,7 @@
           "guide_groups": [
             "phone-700-plus"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0FQFQ6TDZ",
@@ -802,7 +819,7 @@
           "guide_groups": [
             "phone-700-plus"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0GS668TBJ",
@@ -819,7 +836,7 @@
           "guide_groups": [
             "phone-700-plus"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0DPL2XFY3",
@@ -836,7 +853,7 @@
           "guide_groups": [
             "phone-700-plus"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0GPDC4R63",
@@ -853,14 +870,14 @@
           "guide_groups": [
             "phone-700-plus"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         }
       ]
     },
     "tv-24-32": {
       "kind": "tv",
       "query": "smart tv 32 pollici",
-      "updated_at": "2026-09-13T08:07:45.928245+02:00",
+      "updated_at": "2026-09-13T08:55:40.644979+02:00",
       "items": [
         {
           "asin": "B0F457M449",
@@ -877,7 +894,7 @@
           "guide_groups": [
             "tv-24-32"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0F4548TCQ",
@@ -894,7 +911,7 @@
           "guide_groups": [
             "tv-24-32"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0F54B34TH",
@@ -911,7 +928,7 @@
           "guide_groups": [
             "tv-24-32"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0GM1HFTNL",
@@ -928,7 +945,7 @@
           "guide_groups": [
             "tv-24-32"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B09T74KPR6",
@@ -945,7 +962,7 @@
           "guide_groups": [
             "tv-24-32"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0GM1T3HF5",
@@ -962,14 +979,14 @@
           "guide_groups": [
             "tv-24-32"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         }
       ]
     },
     "tv-40-43": {
       "kind": "tv",
       "query": "smart tv 43 pollici 4K",
-      "updated_at": "2026-09-13T08:07:45.928245+02:00",
+      "updated_at": "2026-09-13T08:55:40.644979+02:00",
       "items": [
         {
           "asin": "B0GM1NJDDK",
@@ -986,7 +1003,7 @@
           "guide_groups": [
             "tv-40-43"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0GR62X9MH",
@@ -1003,7 +1020,7 @@
           "guide_groups": [
             "tv-40-43"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0F454D76T",
@@ -1020,14 +1037,14 @@
           "guide_groups": [
             "tv-40-43"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         }
       ]
     },
     "tv-48-50": {
       "kind": "tv",
       "query": "smart tv 50 pollici 4K",
-      "updated_at": "2026-09-13T08:07:45.928245+02:00",
+      "updated_at": "2026-09-13T08:55:40.644979+02:00",
       "items": [
         {
           "asin": "B0F8QDY84D",
@@ -1044,7 +1061,7 @@
           "guide_groups": [
             "tv-48-50"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0F1VZSZNY",
@@ -1061,7 +1078,7 @@
           "guide_groups": [
             "tv-48-50"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0F1MH6497",
@@ -1078,7 +1095,7 @@
           "guide_groups": [
             "tv-48-50"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0F45BXJ1C",
@@ -1095,7 +1112,7 @@
           "guide_groups": [
             "tv-48-50"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0FKHFWWBT",
@@ -1112,7 +1129,7 @@
           "guide_groups": [
             "tv-48-50"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0GR5SM2WL",
@@ -1129,14 +1146,14 @@
           "guide_groups": [
             "tv-48-50"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         }
       ]
     },
     "tv-55": {
       "kind": "tv",
       "query": "smart tv 55 pollici 4K",
-      "updated_at": "2026-09-13T08:07:45.928245+02:00",
+      "updated_at": "2026-09-13T08:55:40.644979+02:00",
       "items": [
         {
           "asin": "B0GM1TVSMG",
@@ -1153,7 +1170,7 @@
           "guide_groups": [
             "tv-55"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0GQHGGWHX",
@@ -1170,7 +1187,7 @@
           "guide_groups": [
             "tv-55"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0F7RVDMKF",
@@ -1187,7 +1204,7 @@
           "guide_groups": [
             "tv-55"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0GPF1NRHV",
@@ -1204,7 +1221,7 @@
           "guide_groups": [
             "tv-55"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0DV94JCVX",
@@ -1221,7 +1238,7 @@
           "guide_groups": [
             "tv-55"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0F1W75RH2",
@@ -1238,14 +1255,14 @@
           "guide_groups": [
             "tv-55"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         }
       ]
     },
     "tv-65": {
       "kind": "tv",
       "query": "smart tv 65 pollici 4K",
-      "updated_at": "2026-09-13T08:07:45.928245+02:00",
+      "updated_at": "2026-09-13T08:55:40.644979+02:00",
       "items": [
         {
           "asin": "B0F457MQCQ",
@@ -1262,7 +1279,7 @@
           "guide_groups": [
             "tv-65"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0D8J994FH",
@@ -1279,7 +1296,7 @@
           "guide_groups": [
             "tv-65"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0DV9GHKQ6",
@@ -1296,7 +1313,7 @@
           "guide_groups": [
             "tv-65"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0CZXMFPY6",
@@ -1313,7 +1330,7 @@
           "guide_groups": [
             "tv-65"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0GM1GRB7M",
@@ -1330,14 +1347,14 @@
           "guide_groups": [
             "tv-65"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         }
       ]
     },
     "tv-70-75": {
       "kind": "tv",
       "query": "smart tv 75 pollici 4K",
-      "updated_at": "2026-09-13T08:07:45.928245+02:00",
+      "updated_at": "2026-09-13T08:55:40.644979+02:00",
       "items": [
         {
           "asin": "B0F8QB4KM3",
@@ -1354,24 +1371,7 @@
           "guide_groups": [
             "tv-70-75"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
-        },
-        {
-          "asin": "B0GYPJP1KL",
-          "title": "TCL 75A400 – Smart TV QLED 4K HDR10+ da 75\", design piatto e sottile",
-          "price": 581.98,
-          "old_price": 638.02,
-          "discount": 9.0,
-          "image": "https://m.media-amazon.com/images/I/51qgXWj8pnL._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0GYPJP1KL?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-          "category": "tv-audio",
-          "macro_group": "guide_catalog",
-          "seasonal_title": "",
-          "guide_catalog": true,
-          "guide_groups": [
-            "tv-70-75"
-          ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0DV9L8KLJ",
@@ -1388,7 +1388,7 @@
           "guide_groups": [
             "tv-70-75"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0F1WL42VS",
@@ -1405,7 +1405,24 @@
           "guide_groups": [
             "tv-70-75"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
+        },
+        {
+          "asin": "B0F1W9LQDR",
+          "title": "Hisense TV 75\" QLED 4K 2025 75A72Q, Smart TV VIDAA U8, Dolby Vision, HDR 10+, Game Mode Plus, Dolby Atmos 2.1 con Subwoofer, Alexa Built-in, VIDAA Voice, Tuner DVB-T2/S2 HEVC 10, lativù 4K, 75''",
+          "price": 599.0,
+          "old_price": null,
+          "discount": null,
+          "image": "https://m.media-amazon.com/images/I/41rwEohk-EL._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0F1W9LQDR?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "category": "tv-audio",
+          "macro_group": "guide_catalog",
+          "seasonal_title": "",
+          "guide_catalog": true,
+          "guide_groups": [
+            "tv-70-75"
+          ],
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0F45BLD1H",
@@ -1422,7 +1439,7 @@
           "guide_groups": [
             "tv-70-75"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0F1W2BHML",
@@ -1439,14 +1456,14 @@
           "guide_groups": [
             "tv-70-75"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         }
       ]
     },
     "tv-77-plus": {
       "kind": "tv",
       "query": "smart tv 77 pollici 4K",
-      "updated_at": "2026-09-13T08:07:45.928245+02:00",
+      "updated_at": "2026-09-13T08:55:40.644979+02:00",
       "items": [
         {
           "asin": "B0GWMVM78J",
@@ -1463,7 +1480,7 @@
           "guide_groups": [
             "tv-77-plus"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0GWN4SNXP",
@@ -1480,7 +1497,7 @@
           "guide_groups": [
             "tv-77-plus"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0F1VWYVYR",
@@ -1497,7 +1514,7 @@
           "guide_groups": [
             "tv-77-plus"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0D1VV32HH",
@@ -1514,7 +1531,7 @@
           "guide_groups": [
             "tv-77-plus"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0FM49RMQR",
@@ -1531,14 +1548,14 @@
           "guide_groups": [
             "tv-77-plus"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         }
       ]
     },
     "guide-notebook": {
       "kind": "notebook",
       "query": "notebook 16GB SSD",
-      "updated_at": "2026-09-13T08:07:45.928245+02:00",
+      "updated_at": "2026-09-13T08:55:40.644979+02:00",
       "items": [
         {
           "asin": "B0FZL8JLW9",
@@ -1555,7 +1572,7 @@
           "guide_groups": [
             "guide-notebook"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B09HMXSB2B",
@@ -1572,7 +1589,7 @@
           "guide_groups": [
             "guide-notebook"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0BFB11YY6",
@@ -1589,7 +1606,7 @@
           "guide_groups": [
             "guide-notebook"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0DFZ1TTJJ",
@@ -1606,7 +1623,7 @@
           "guide_groups": [
             "guide-notebook"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0CT62F6PF",
@@ -1623,20 +1640,20 @@
           "guide_groups": [
             "guide-notebook"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         }
       ]
     },
     "guide-desktop": {
       "kind": "desktop",
       "query": "PC desktop completo",
-      "updated_at": "2026-09-13T08:07:45.928245+02:00",
+      "updated_at": "2026-09-13T08:55:40.644979+02:00",
       "items": []
     },
     "guide-tablet": {
       "kind": "tablet",
       "query": "tablet 11 pollici",
-      "updated_at": "2026-09-13T08:07:45.928245+02:00",
+      "updated_at": "2026-09-13T08:55:40.644979+02:00",
       "items": [
         {
           "asin": "B0HC6RM5KD",
@@ -1653,7 +1670,7 @@
           "guide_groups": [
             "guide-tablet"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0FXXDXGLC",
@@ -1670,7 +1687,7 @@
           "guide_groups": [
             "guide-tablet"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0FXXJGTFF",
@@ -1687,7 +1704,7 @@
           "guide_groups": [
             "guide-tablet"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0H4LNK6X3",
@@ -1704,7 +1721,7 @@
           "guide_groups": [
             "guide-tablet"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0FCM6VN2S",
@@ -1721,7 +1738,7 @@
           "guide_groups": [
             "guide-tablet"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0FCMD2L95",
@@ -1738,14 +1755,14 @@
           "guide_groups": [
             "guide-tablet"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         }
       ]
     },
     "guide-monitor": {
       "kind": "monitor",
       "query": "monitor 27 pollici",
-      "updated_at": "2026-09-13T08:07:45.928245+02:00",
+      "updated_at": "2026-09-13T08:55:40.644979+02:00",
       "items": [
         {
           "asin": "B0CTJ1DBTD",
@@ -1762,7 +1779,7 @@
           "guide_groups": [
             "guide-monitor"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0DJTDVCVT",
@@ -1779,7 +1796,7 @@
           "guide_groups": [
             "guide-monitor"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0F9YSJJG2",
@@ -1796,7 +1813,7 @@
           "guide_groups": [
             "guide-monitor"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0F1YT4FCL",
@@ -1813,7 +1830,7 @@
           "guide_groups": [
             "guide-monitor"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0DXL2RV8J",
@@ -1830,7 +1847,7 @@
           "guide_groups": [
             "guide-monitor"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0CX9CVS9Q",
@@ -1847,14 +1864,14 @@
           "guide_groups": [
             "guide-monitor"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         }
       ]
     },
     "guide-smartwatch": {
       "kind": "smartwatch",
       "query": "smartwatch GPS",
-      "updated_at": "2026-09-13T08:07:45.928245+02:00",
+      "updated_at": "2026-09-13T08:55:40.644979+02:00",
       "items": [
         {
           "asin": "B0H5JCDKY2",
@@ -1871,7 +1888,7 @@
           "guide_groups": [
             "guide-smartwatch"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0HCN72RSZ",
@@ -1888,7 +1905,7 @@
           "guide_groups": [
             "guide-smartwatch"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0GK8GSFDL",
@@ -1905,7 +1922,7 @@
           "guide_groups": [
             "guide-smartwatch"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0GQLMGTTS",
@@ -1922,7 +1939,7 @@
           "guide_groups": [
             "guide-smartwatch"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0GQL9JZS7",
@@ -1939,7 +1956,7 @@
           "guide_groups": [
             "guide-smartwatch"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0G1ZGK7MV",
@@ -1956,14 +1973,14 @@
           "guide_groups": [
             "guide-smartwatch"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         }
       ]
     },
     "guide-console": {
       "kind": "console",
       "query": "console gaming",
-      "updated_at": "2026-09-13T08:07:45.928245+02:00",
+      "updated_at": "2026-09-13T08:55:40.644979+02:00",
       "items": [
         {
           "asin": "B0CLTBHXWQ",
@@ -1980,7 +1997,7 @@
           "guide_groups": [
             "guide-console"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B09CZ4M75Q",
@@ -1997,14 +2014,14 @@
           "guide_groups": [
             "guide-console"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         }
       ]
     },
     "guide-soundbar": {
       "kind": "soundbar",
       "query": "soundbar Dolby Atmos",
-      "updated_at": "2026-09-13T08:07:45.928245+02:00",
+      "updated_at": "2026-09-13T08:55:40.644979+02:00",
       "items": [
         {
           "asin": "B0F9WS1HQJ",
@@ -2021,7 +2038,7 @@
           "guide_groups": [
             "guide-soundbar"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0D96Q5P49",
@@ -2038,7 +2055,7 @@
           "guide_groups": [
             "guide-soundbar"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0CWVLR5YV",
@@ -2055,7 +2072,7 @@
           "guide_groups": [
             "guide-soundbar"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0F1D981ZR",
@@ -2072,7 +2089,7 @@
           "guide_groups": [
             "guide-soundbar"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0F1DBQXDT",
@@ -2089,7 +2106,7 @@
           "guide_groups": [
             "guide-soundbar"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0F6NK5773",
@@ -2106,14 +2123,14 @@
           "guide_groups": [
             "guide-soundbar"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         }
       ]
     },
     "guide-robot-vacuum": {
       "kind": "robot_vacuum",
       "query": "robot aspirapolvere lavapavimenti",
-      "updated_at": "2026-09-13T08:07:45.928245+02:00",
+      "updated_at": "2026-09-13T08:55:40.644979+02:00",
       "items": [
         {
           "asin": "B0G7Y6HNVQ",
@@ -2130,7 +2147,7 @@
           "guide_groups": [
             "guide-robot-vacuum"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0GXWXK6VF",
@@ -2147,7 +2164,7 @@
           "guide_groups": [
             "guide-robot-vacuum"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0GMH56TRH",
@@ -2164,7 +2181,7 @@
           "guide_groups": [
             "guide-robot-vacuum"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0GHN39ZGJ",
@@ -2181,7 +2198,7 @@
           "guide_groups": [
             "guide-robot-vacuum"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0FBGXW79K",
@@ -2198,7 +2215,7 @@
           "guide_groups": [
             "guide-robot-vacuum"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0GD79DTS7",
@@ -2215,14 +2232,14 @@
           "guide_groups": [
             "guide-robot-vacuum"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         }
       ]
     },
     "guide-washing-machine": {
       "kind": "washing_machine",
       "query": "lavatrice 9 kg",
-      "updated_at": "2026-09-13T08:07:45.928245+02:00",
+      "updated_at": "2026-09-13T08:55:40.644979+02:00",
       "items": [
         {
           "asin": "B0H4MDNWJK",
@@ -2239,7 +2256,7 @@
           "guide_groups": [
             "guide-washing-machine"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0FJ8X54GW",
@@ -2256,7 +2273,7 @@
           "guide_groups": [
             "guide-washing-machine"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0GXL1V692",
@@ -2273,7 +2290,7 @@
           "guide_groups": [
             "guide-washing-machine"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0FH2VVMBD",
@@ -2290,7 +2307,7 @@
           "guide_groups": [
             "guide-washing-machine"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0HHP54WN7",
@@ -2307,7 +2324,7 @@
           "guide_groups": [
             "guide-washing-machine"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0DJP8SMFL",
@@ -2324,14 +2341,14 @@
           "guide_groups": [
             "guide-washing-machine"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         }
       ]
     },
     "guide-fridge": {
       "kind": "fridge",
       "query": "frigorifero combinato No Frost",
-      "updated_at": "2026-09-13T08:07:45.928245+02:00",
+      "updated_at": "2026-09-13T08:55:40.644979+02:00",
       "items": [
         {
           "asin": "B09NL7DC7W",
@@ -2348,7 +2365,7 @@
           "guide_groups": [
             "guide-fridge"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0CBN9NBLZ",
@@ -2365,7 +2382,7 @@
           "guide_groups": [
             "guide-fridge"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0983Y1GLG",
@@ -2382,7 +2399,7 @@
           "guide_groups": [
             "guide-fridge"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0GVK48C6Z",
@@ -2399,14 +2416,14 @@
           "guide_groups": [
             "guide-fridge"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0FVMCCPFZ",
           "title": "Candy CCG3L517ES - Frigorifero combinato, 260 l, Low Frost, 4 ripiani, 3 balconi, cassetto verdura, controllo elettronico della temperatura, illuminazione LED, larghezza 55 x altezza 176 cm, porte",
-          "price": 277.67,
-          "old_price": 319.0,
-          "discount": 13.0,
+          "price": 315.89,
+          "old_price": null,
+          "discount": null,
           "image": "https://m.media-amazon.com/images/I/21pv12HBI9L._SL500_.jpg",
           "url": "https://www.amazon.it/dp/B0FVMCCPFZ?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
           "category": "casa",
@@ -2416,7 +2433,7 @@
           "guide_groups": [
             "guide-fridge"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0DMWH4VQJ",
@@ -2433,14 +2450,14 @@
           "guide_groups": [
             "guide-fridge"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         }
       ]
     },
     "guide-sneakers": {
       "kind": "sneakers",
       "query": "sneakers scarpe sportive",
-      "updated_at": "2026-09-13T08:07:45.928245+02:00",
+      "updated_at": "2026-09-13T08:55:40.644979+02:00",
       "items": [
         {
           "asin": "B077MLZZVM",
@@ -2457,7 +2474,7 @@
           "guide_groups": [
             "guide-sneakers"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B09YLFVFDR",
@@ -2474,7 +2491,7 @@
           "guide_groups": [
             "guide-sneakers"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0BXRWM3SG",
@@ -2491,16 +2508,16 @@
           "guide_groups": [
             "guide-sneakers"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
-          "asin": "B0DZCT6K33",
-          "title": "Hitmars Scarpe Running Donna Uomo Ginnastica Scarpe da Corsa Nero EU 43",
-          "price": 29.9,
-          "old_price": 35.59,
-          "discount": 16.0,
-          "image": "https://m.media-amazon.com/images/I/413UCEYAV9L._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0DZCT6K33?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "asin": "B0BZXMVK68",
+          "title": "Under Armour Uomo UA Charged Surge 4, Scarpe Uomo, Scarpe Running Uomo, Scarpe Uomo Sneakers",
+          "price": 48.99,
+          "old_price": 60.0,
+          "discount": 18.0,
+          "image": "https://m.media-amazon.com/images/I/31aAvCO6-+L._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0BZXMVK68?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
           "category": "moda",
           "macro_group": "guide_catalog",
           "seasonal_title": "",
@@ -2508,7 +2525,7 @@
           "guide_groups": [
             "guide-sneakers"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0H6G9W7KH",
@@ -2525,7 +2542,7 @@
           "guide_groups": [
             "guide-sneakers"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         },
         {
           "asin": "B0BQVS7J2Q",
@@ -2542,7 +2559,7 @@
           "guide_groups": [
             "guide-sneakers"
           ],
-          "published_at": "2026-09-13T08:07:45.928245+02:00"
+          "published_at": "2026-09-13T08:55:40.644979+02:00"
         }
       ]
     }
