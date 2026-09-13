@@ -1,5 +1,31 @@
 [
   {
+    "asin": "B07HMYHKXW",
+    "title": "iap PHARMA PARFUMS Nº 10, Profumo da Donna, 150 Ml",
+    "price": 11.38,
+    "old_price": 15.9,
+    "discount": 28.0,
+    "image": "https://m.media-amazon.com/images/I/31uvqUSlLEL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B07HMYHKXW?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "profumi",
+    "macro_group": "cura_persona",
+    "seasonal_title": "",
+    "published_at": "2026-09-13T11:27:55.986889+02:00"
+  },
+  {
+    "asin": "B08KRY3LGD",
+    "title": "QUASAR PULITO STELLARE Profumatore Multiuso - Fragranza Oriental, Profuma a Lungo, Deterge e Spolvera - 500 ml",
+    "price": 6.5,
+    "old_price": 7.39,
+    "discount": 12.0,
+    "image": "https://m.media-amazon.com/images/I/31mHfWDG7LL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B08KRY3LGD?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "pulizia",
+    "macro_group": "cura_persona",
+    "seasonal_title": "",
+    "published_at": "2026-09-13T11:25:53.498172+02:00"
+  },
+  {
     "asin": "B09F36XFZC",
     "title": "SBS Track My Lock, Lucchetto TSA con Localizzatore Finder Integrato",
     "price": 22.99,
@@ -1272,31 +1298,5 @@
     "macro_group": "cura_persona",
     "seasonal_title": "",
     "published_at": "2026-09-13T08:10:01.685030+02:00"
-  },
-  {
-    "asin": "B0C5HB6ZLM",
-    "title": "Faszin Piastra per Capelli Professionale in Titanio 30mm, 2 in 1",
-    "price": 39.99,
-    "old_price": 139.99,
-    "discount": 71.0,
-    "image": "https://m.media-amazon.com/images/I/41bu-l-3evL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0C5HB6ZLM?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "bellezza",
-    "macro_group": "cura_persona",
-    "seasonal_title": "",
-    "published_at": "2026-09-13T08:10:01.622927+02:00"
-  },
-  {
-    "asin": "B002I2BMRS",
-    "title": "Caffè Vergnano 1882 - Caffè in Grani Granaroma",
-    "price": 13.49,
-    "old_price": 19.9,
-    "discount": 32.0,
-    "image": "https://m.media-amazon.com/images/I/31hlchFam3L._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B002I2BMRS?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "caffe_capsule",
-    "macro_group": "casa_cucina",
-    "seasonal_title": "",
-    "published_at": "2026-09-13T08:06:13.635520+02:00"
   }
 ]
