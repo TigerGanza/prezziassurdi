@@ -1,5 +1,44 @@
 [
   {
+    "asin": "B01N905VOY",
+    "title": "UGREEN Scheda Audio USB Esterna Adattatore Jack 3,5mm",
+    "price": 9.97,
+    "old_price": 13.99,
+    "discount": 29.0,
+    "image": "https://m.media-amazon.com/images/I/41jdXmzEb2L._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B01N905VOY?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "audio_studio",
+    "macro_group": "tech",
+    "seasonal_title": "",
+    "published_at": "2026-09-14T18:47:54.329824+02:00"
+  },
+  {
+    "asin": "B0GKPVHX77",
+    "title": "NORDMUT® Tenda da Campeggio 4 Persone Impermeabile & Leggera – Tenda a Cupola con Anticamera Richiudibile – 2-4 Persone con Ottima Ventilazione & Piccolo Ingombro (Blu)",
+    "price": 109.97,
+    "old_price": 139.9,
+    "discount": 21.0,
+    "image": "https://m.media-amazon.com/images/I/41fNlzkPLBL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0GKPVHX77?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "outdoor",
+    "macro_group": "fai_da_te_outdoor",
+    "seasonal_title": "",
+    "published_at": "2026-09-14T18:45:54.454247+02:00"
+  },
+  {
+    "asin": "B0GXVWKVL1",
+    "title": "ULTIMEA Diffusori da scaffale attivi a 3 vie, 70W RMS, woofer 5,25\", app, Bluetooth 6.0, HDMI ARC, uscita subwoofer per home cinema, TV, PC e giradischi, monitor studio, BS-3",
+    "price": 189.99,
+    "old_price": 239.99,
+    "discount": 21.0,
+    "image": "https://m.media-amazon.com/images/I/31rbuXrQzeL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0GXVWKVL1?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "audio_hifi",
+    "macro_group": "tech",
+    "seasonal_title": "",
+    "published_at": "2026-09-14T18:45:53.308632+02:00"
+  },
+  {
     "asin": "B0H98PM1SV",
     "title": "Deumidificatore Casa Elettrico Anti Muffa 2200ml Portatile - Ultra Silenzioso, Timer 2-12h, Spegnimento Automatico | LED 7 Colori | Per Bagno, Camera, Armadio",
     "price": 79.99,
@@ -1259,44 +1298,5 @@
     "macro_group": "fai_da_te_outdoor",
     "seasonal_title": "",
     "published_at": "2026-09-14T15:51:52.612962+02:00"
-  },
-  {
-    "asin": "B0DJNSNW3R",
-    "title": "Barilla Legumotti Lenticchie Rosse, Ceci e Piselli, Ricchi di Proteine e Fibre, senza Glutine, 300g (Confezione da 4)",
-    "price": 8.0,
-    "old_price": 14.6,
-    "discount": 45.0,
-    "image": "https://m.media-amazon.com/images/I/41oV4Hxy9+L._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0DJNSNW3R?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "alimentari",
-    "macro_group": "spesa_bevande",
-    "seasonal_title": "",
-    "published_at": "2026-09-14T15:49:53.474054+02:00"
-  },
-  {
-    "asin": "B07H6DFXHC",
-    "title": "Barilla Legumotti Lenticchie Rosse e Ceci, 300g",
-    "price": 2.0,
-    "old_price": 3.65,
-    "discount": 45.0,
-    "image": "https://m.media-amazon.com/images/I/41ixkaVJVIL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B07H6DFXHC?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "alimentari",
-    "macro_group": "spesa_bevande",
-    "seasonal_title": "",
-    "published_at": "2026-09-14T15:49:53.419933+02:00"
-  },
-  {
-    "asin": "B07H6DFXH6",
-    "title": "Barilla Legumotti Lenticchie Rosse, Ceci e Piselli, 300g",
-    "price": 2.0,
-    "old_price": 3.65,
-    "discount": 45.0,
-    "image": "https://m.media-amazon.com/images/I/51gRlcJ0DXL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B07H6DFXH6?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "alimentari",
-    "macro_group": "spesa_bevande",
-    "seasonal_title": "",
-    "published_at": "2026-09-14T15:49:53.373567+02:00"
   }
 ]
