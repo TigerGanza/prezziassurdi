@@ -1,5 +1,31 @@
 [
   {
+    "asin": "B07KX7SH1C",
+    "title": "You+ME Marsupio 4-in-1 Neonato-Bimbo, Mesh, 3,5-14,5 kg, Grigio",
+    "price": 29.99,
+    "old_price": 39.95,
+    "discount": 25.0,
+    "image": "https://m.media-amazon.com/images/I/41zJ4B6-SxL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B07KX7SH1C?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "bambini_completo",
+    "macro_group": "famiglia_animali",
+    "seasonal_title": "",
+    "published_at": "2026-09-14T10:17:52.211670+02:00"
+  },
+  {
+    "asin": "B000070GBU",
+    "title": "Philips Cd-R Audio 80Min Jewel Box Conf. 10",
+    "price": 19.41,
+    "old_price": 26.11,
+    "discount": 26.0,
+    "image": "https://m.media-amazon.com/images/I/41ZOeK5SJ+L._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B000070GBU?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "musica",
+    "macro_group": "tempo_libero",
+    "seasonal_title": "",
+    "published_at": "2026-09-14T10:15:53.666461+02:00"
+  },
+  {
     "asin": "B08QVWS9VS",
     "title": "Nike DA2571 Zaino unisex per bambini Academy Team, nero/bianco, 22 l",
     "price": 24.99,
@@ -1272,31 +1298,5 @@
     "macro_group": "cura_persona",
     "seasonal_title": "",
     "published_at": "2026-09-14T07:18:18.066275+02:00"
-  },
-  {
-    "asin": "B09R4YWQWQ",
-    "title": "Barilla Pesto alla Genovese con Basilico Fresco Italiano, 190 g",
-    "price": 1.49,
-    "old_price": 2.84,
-    "discount": 48.0,
-    "image": "https://m.media-amazon.com/images/I/41m6qx7ttVL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B09R4YWQWQ?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "alimentari",
-    "macro_group": "spesa_bevande",
-    "seasonal_title": "",
-    "published_at": "2026-09-14T07:18:13.825684+02:00"
-  },
-  {
-    "asin": "B09R5165CJ",
-    "title": "Barilla Pesto alla Genovese senza Aglio con Basilico Fresco Italiano, 190 g",
-    "price": 1.49,
-    "old_price": 2.84,
-    "discount": 48.0,
-    "image": "https://m.media-amazon.com/images/I/41gB3k5TUBL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B09R5165CJ?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "alimentari",
-    "macro_group": "spesa_bevande",
-    "seasonal_title": "",
-    "published_at": "2026-09-14T07:18:10.474290+02:00"
   }
 ]
