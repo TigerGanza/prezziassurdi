@@ -1,5 +1,31 @@
 [
   {
+    "asin": "B00KWWY4Y4",
+    "title": "Pellini N.9 Cremoso Caffè in Grani per Espresso, 1kg",
+    "price": 17.99,
+    "old_price": 22.49,
+    "discount": 20.0,
+    "image": "https://m.media-amazon.com/images/I/31fsLfv6EsL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B00KWWY4Y4?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "bevande_analcoliche",
+    "macro_group": "spesa_bevande",
+    "seasonal_title": "",
+    "published_at": "2026-09-15T08:10:00.240767+02:00"
+  },
+  {
+    "asin": "B002I2BMRS",
+    "title": "Caffè Vergnano 1882 - Caffè in Grani Granaroma",
+    "price": 13.49,
+    "old_price": 19.9,
+    "discount": 32.0,
+    "image": "https://m.media-amazon.com/images/I/31hlchFam3L._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B002I2BMRS?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "bevande_analcoliche",
+    "macro_group": "spesa_bevande",
+    "seasonal_title": "",
+    "published_at": "2026-09-15T08:10:00.182705+02:00"
+  },
+  {
     "asin": "B0C66H6QH1",
     "title": "Scaldacera Professionale 500 ml Boston Tech HR101 – Scaldacera Elettrico con Controllo Temperatura, Contenitore Rimovibile in Alluminio, Fornetto per Ceretta Casa e Salone",
     "price": 22.95,
@@ -1272,31 +1298,5 @@
     "macro_group": "tech",
     "seasonal_title": "",
     "published_at": "2026-09-14T23:30:33.062772+02:00"
-  },
-  {
-    "asin": "B0F5HP24Y8",
-    "title": "Philips Lumea Serie 9900, dispositivo di depilazione IPL, alternativa alla depilazione laser, tecnologia SenseIQ e SkinAI, 2 accessori per corpo e viso, BRI950/02",
-    "price": 399.97,
-    "old_price": 609.99,
-    "discount": 34.0,
-    "image": "https://m.media-amazon.com/images/I/41zc4tlZNBL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0F5HP24Y8?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "beauty_pro",
-    "macro_group": "cura_persona",
-    "seasonal_title": "",
-    "published_at": "2026-09-14T23:24:36.100413+02:00"
-  },
-  {
-    "asin": "B0GF1ZGPKZ",
-    "title": "Haarlosy Epilatore Luce Pulsata con 3 IN 1 HR/SC/RA Finestra di 5cm² IFE03",
-    "price": 119.99,
-    "old_price": 199.99,
-    "discount": 40.0,
-    "image": "https://m.media-amazon.com/images/I/31FFe0xolsL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0GF1ZGPKZ?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "beauty_pro",
-    "macro_group": "cura_persona",
-    "seasonal_title": "",
-    "published_at": "2026-09-14T23:24:36.051293+02:00"
   }
 ]
