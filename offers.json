@@ -1,5 +1,44 @@
 [
   {
+    "asin": "B08VJ9Y6VX",
+    "title": "Tommy Hilfiger Pantaloncino da Bagno Uomo SF Medium Drawstring Lunghezza Media, Nero (Black), M",
+    "price": 30.19,
+    "old_price": 59.9,
+    "discount": 50.0,
+    "image": "https://m.media-amazon.com/images/I/31zfvifj6FL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B08VJ9Y6VX?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "fashion",
+    "macro_group": "tempo_libero",
+    "seasonal_title": "",
+    "published_at": "2026-09-15T22:03:55.524276+02:00"
+  },
+  {
+    "asin": "B0F4RRXXLW",
+    "title": "Tommy Hilfiger Uomo Sneakers con Suola Alta Harlem Street Profilo Medio, Nero (Black), 41",
+    "price": 59.0,
+    "old_price": 119.9,
+    "discount": 51.0,
+    "image": "https://m.media-amazon.com/images/I/31-e7hAcPPL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0F4RRXXLW?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "fashion",
+    "macro_group": "tempo_libero",
+    "seasonal_title": "",
+    "published_at": "2026-09-15T22:03:55.471672+02:00"
+  },
+  {
+    "asin": "B0083FN358",
+    "title": "Spontex 6 Stop Grease, Spugna Abrasiva in formato convenienza, Dotata di Tecnologia Stop Grease sulla Fibra, Formato da 6",
+    "price": 2.35,
+    "old_price": 2.99,
+    "discount": 21.0,
+    "image": "https://m.media-amazon.com/images/I/41a5fV1gyhL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0083FN358?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "pulizia_casa",
+    "macro_group": "casa_cucina",
+    "seasonal_title": "",
+    "published_at": "2026-09-15T22:03:52.947592+02:00"
+  },
+  {
     "asin": "B0CC5FMMXL",
     "title": "URAQT Computer di Bicicletta, Impermeabile Bici Computer con 19 Funzioni, Ciclocomputer con LCD Display Retroilluminato e Supporto, Controllo Tattile, per Distanza di Tracciamento, Velocità",
     "price": 9.39,
@@ -1259,44 +1298,5 @@
     "macro_group": "fai_da_te_outdoor",
     "seasonal_title": "",
     "published_at": "2026-09-15T19:11:59.837314+02:00"
-  },
-  {
-    "asin": "B0G1LZKVS5",
-    "title": "Aspirapolvere Senza Fili, 55KPA/650W/70Mins Scopa Elettrica Senza Fili, Autoportante Anti-groviglio/OLED Schermo/1,8L Cup Aspirapolvere senza fili potente, Adatto per Tappeti/Pavimenti/Capelli",
-    "price": 139.99,
-    "old_price": 209.99,
-    "discount": 33.0,
-    "image": "https://m.media-amazon.com/images/I/41f6JQljUtL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0G1LZKVS5?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "casa",
-    "macro_group": "casa_cucina",
-    "seasonal_title": "",
-    "published_at": "2026-09-15T19:05:59.360737+02:00"
-  },
-  {
-    "asin": "B07HR692MZ",
-    "title": "Ariete 2761 Handy Force - Scopa Elettrica con filo - Aspirapolvere Aspirabriciole - Tecnologia ciclonica senza sacco - Tubo telescopico - Filtro Hepa",
-    "price": 48.0,
-    "old_price": 73.9,
-    "discount": 35.0,
-    "image": "https://m.media-amazon.com/images/I/21oco1iYT4L._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B07HR692MZ?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "casa",
-    "macro_group": "casa_cucina",
-    "seasonal_title": "",
-    "published_at": "2026-09-15T19:05:59.308275+02:00"
-  },
-  {
-    "asin": "B01MTF06KN",
-    "title": "PHILIPS Aspirapolvere senza Sacco PowerPro Compact, PowerCyclone 5, 900W",
-    "price": 89.99,
-    "old_price": 144.99,
-    "discount": 38.0,
-    "image": "https://m.media-amazon.com/images/I/31aTPNH-8gL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B01MTF06KN?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "casa",
-    "macro_group": "casa_cucina",
-    "seasonal_title": "",
-    "published_at": "2026-09-15T19:05:59.249496+02:00"
   }
 ]
