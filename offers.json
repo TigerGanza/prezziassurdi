@@ -1,5 +1,57 @@
 [
   {
+    "asin": "B0FMJH4DPN",
+    "title": "SONOFF Zigbee/Thread PoE Dongle Max, supporta connessioni Ethernet, Wi-Fi e USB, Gateway Zigbee con EFR32MG24&ESP32D0, chiavetta Zigbee per Home Assistant o Zigbee2MQTT",
+    "price": 35.43,
+    "old_price": 48.38,
+    "discount": 27.0,
+    "image": "https://m.media-amazon.com/images/I/21bromHLlUL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0FMJH4DPN?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "smart_home",
+    "macro_group": "casa_cucina",
+    "seasonal_title": "",
+    "published_at": "2026-09-16T17:38:45.712495+02:00"
+  },
+  {
+    "asin": "B0DDXVMV2N",
+    "title": "SONOFF ZBMINIR2 Interruttore Zigbee, 2 Pezzi, Senza Neutro",
+    "price": 16.53,
+    "old_price": 23.48,
+    "discount": 30.0,
+    "image": "https://m.media-amazon.com/images/I/31qsKRNfZ9L._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0DDXVMV2N?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "smart_home",
+    "macro_group": "casa_cucina",
+    "seasonal_title": "",
+    "published_at": "2026-09-16T17:38:45.653818+02:00"
+  },
+  {
+    "asin": "B0GHN4N2FD",
+    "title": "AFERIY 1800W Power Station Portatile Centrale Elettrica Solare 1024Wh P180",
+    "price": 424.0,
+    "old_price": 599.0,
+    "discount": 29.0,
+    "image": "https://m.media-amazon.com/images/I/41VNx29JwLL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0GHN4N2FD?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "outdoor",
+    "macro_group": "fai_da_te_outdoor",
+    "seasonal_title": "",
+    "published_at": "2026-09-16T17:38:44.472888+02:00"
+  },
+  {
+    "asin": "B0F2JHZCQQ",
+    "title": "XIAOMI Smart Band 10 Ceramic Edition (Sport Tracker), 1.72\" AMOLED Display, autonomia 21 gg, ricarica rapida, 150+ sport, monitoraggio benessere e sonno, HyperOS 2.0, resistente 5ATM, Compass, Bianco",
+    "price": 46.99,
+    "old_price": 59.99,
+    "discount": 22.0,
+    "image": "https://m.media-amazon.com/images/I/31AxvU8MyML._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0F2JHZCQQ?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "casa",
+    "macro_group": "casa_cucina",
+    "seasonal_title": "",
+    "published_at": "2026-09-16T17:36:44.439032+02:00"
+  },
+  {
     "asin": "B0CCYFP62W",
     "title": "Sony SRS-XB100 - Speaker Wireless Bluetooth, Portatile, Leggero, Compatto, da Esterno, da Viaggio, IP67 Resistente Acqua e Polvere, Cinturino Versatile, Chiamate in Vivavoce - Nero",
     "price": 29.99,
@@ -1246,57 +1298,5 @@
     "macro_group": "spesa_bevande",
     "seasonal_title": "",
     "published_at": "2026-09-16T14:02:46.612273+02:00"
-  },
-  {
-    "asin": "B0D31NF44Q",
-    "title": "VASAGLE Mobile Bagno, Mobiletto Bagno Salvaspazio, Porta Carta Igienica e Scomparto per Scopino, Ante Scorrevoli, Ripiani Regolabili, accanto al WC, 20 x 60 x 80 cm, Bianco Nuvola BBC752W01",
-    "price": 42.42,
-    "old_price": 69.99,
-    "discount": 39.0,
-    "image": "https://m.media-amazon.com/images/I/41VbjOjOlOL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0D31NF44Q?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "casa",
-    "macro_group": "casa_cucina",
-    "seasonal_title": "",
-    "published_at": "2026-09-16T14:00:46.234908+02:00"
-  },
-  {
-    "asin": "B01NCS45TV",
-    "title": "SEVERIN Centrifuga Frutta e Verdura 400W Inox - ES 3566",
-    "price": 43.99,
-    "old_price": 69.99,
-    "discount": 37.0,
-    "image": "https://m.media-amazon.com/images/I/31vTy8YAjyL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B01NCS45TV?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "bevande_analcoliche",
-    "macro_group": "spesa_bevande",
-    "seasonal_title": "",
-    "published_at": "2026-09-16T13:50:45.503278+02:00"
-  },
-  {
-    "asin": "B0CT3TZ5NY",
-    "title": "Fabuloso Ammorbidente Concentrato Cocco & Fiori Bianchi, 1,9L",
-    "price": 3.34,
-    "old_price": 5.99,
-    "discount": 44.0,
-    "image": "https://m.media-amazon.com/images/I/41VO-n3Q1jL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0CT3TZ5NY?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "pulizia",
-    "macro_group": "cura_persona",
-    "seasonal_title": "",
-    "published_at": "2026-09-16T13:48:45.498788+02:00"
-  },
-  {
-    "asin": "B0FX4YY1JW",
-    "title": "Beck's Pils, Birra Lattina, Confezione da da 6x33cl (Confezione da 2)",
-    "price": 7.18,
-    "old_price": 14.76,
-    "discount": 51.0,
-    "image": "https://m.media-amazon.com/images/I/41FcPxMeaWL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0FX4YY1JW?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "birre",
-    "macro_group": "spesa_bevande",
-    "seasonal_title": "",
-    "published_at": "2026-09-16T13:46:47.511827+02:00"
   }
 ]
