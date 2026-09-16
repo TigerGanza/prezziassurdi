@@ -1,5 +1,44 @@
 [
   {
+    "asin": "B08X2FPFDQ",
+    "title": "Peroni Birra Lager, Cassa 15x66cl Bottiglia, Malto Italiano, Gusto Amaro, 4.7% Vol",
+    "price": 13.23,
+    "old_price": 20.99,
+    "discount": 37.0,
+    "image": "https://m.media-amazon.com/images/I/51BwSN-sd8L._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B08X2FPFDQ?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "birre",
+    "macro_group": "spesa_bevande",
+    "seasonal_title": "",
+    "published_at": "2026-09-16T07:42:45.771385+02:00"
+  },
+  {
+    "asin": "B0BBQ448FP",
+    "title": "Garnier Olia Midnight Tinta Capelli Colorazione Permanente, Nero Naturale",
+    "price": 6.23,
+    "old_price": 8.9,
+    "discount": 30.0,
+    "image": "https://m.media-amazon.com/images/I/5119PS4gASL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0BBQ448FP?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "bellezza",
+    "macro_group": "cura_persona",
+    "seasonal_title": "",
+    "published_at": "2026-09-16T07:42:44.529520+02:00"
+  },
+  {
+    "asin": "B07239YDMC",
+    "title": "Euphidra - ColorPro XD 400, Castano, Colorazione Permanente con Acido Ialuronico, Idrata Profondamente e Riequiibra la Struttura del Capello",
+    "price": 6.99,
+    "old_price": 11.2,
+    "discount": 38.0,
+    "image": "https://m.media-amazon.com/images/I/41Bb-qT+lgL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B07239YDMC?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "bellezza",
+    "macro_group": "cura_persona",
+    "seasonal_title": "",
+    "published_at": "2026-09-16T07:42:44.478623+02:00"
+  },
+  {
     "asin": "B074LXF65D",
     "title": "CÉRÉAL BUONI SENZA, Golosi al cioccolato fondente, Snack senza zuccheri aggiunti, Biscotti ricoperti di cioccolato senza glutine e senza lievito, 77 calorie per barretta, 102 gr, 6 barrette",
     "price": 2.54,
@@ -1259,44 +1298,5 @@
     "macro_group": "cura_persona",
     "seasonal_title": "",
     "published_at": "2026-09-15T22:50:46.299166+02:00"
-  },
-  {
-    "asin": "B0DJ8Z6HLW",
-    "title": "Puma Scarpe da Calcio Unisex Ultra 6 Match Fg/AG, Puma Nero Fizzy Verde Chiaro Terreno, 46 EU",
-    "price": 51.1,
-    "old_price": 84.95,
-    "discount": 40.0,
-    "image": "https://m.media-amazon.com/images/I/31yqfLr1bLL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0DJ8Z6HLW?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "sport_specifici",
-    "macro_group": "tempo_libero",
-    "seasonal_title": "",
-    "published_at": "2026-09-15T22:48:45.042104+02:00"
-  },
-  {
-    "asin": "B0D1YKQ1YM",
-    "title": "Puma Future 8 Play FG/AG JR - Scarpe da Calcio Unisex, Puma Black-Puma White-Glowing Red,",
-    "price": 29.99,
-    "old_price": 49.95,
-    "discount": 40.0,
-    "image": "https://m.media-amazon.com/images/I/31-B4lx3crL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0D1YKQ1YM?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "sport_specifici",
-    "macro_group": "tempo_libero",
-    "seasonal_title": "",
-    "published_at": "2026-09-15T22:48:44.985206+02:00"
-  },
-  {
-    "asin": "B0D1YLPZ88",
-    "title": "PUMA King Match Fg/AG, Unisex Scarpa da Calcio, Incandescente Red-Puma Bianco-Rosso Fuoco",
-    "price": 29.11,
-    "old_price": 79.95,
-    "discount": 64.0,
-    "image": "https://m.media-amazon.com/images/I/31Wt1NlUodL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0D1YLPZ88?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "sport_specifici",
-    "macro_group": "tempo_libero",
-    "seasonal_title": "",
-    "published_at": "2026-09-15T22:48:44.922162+02:00"
   }
 ]
