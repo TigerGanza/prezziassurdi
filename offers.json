@@ -1,5 +1,57 @@
 [
   {
+    "asin": "B0F8J4JSD3",
+    "title": "Barilla Pesto Basilico e “Mozzarella di Bufala Campana DOP”, 190 g",
+    "price": 2.19,
+    "old_price": 2.99,
+    "discount": 27.0,
+    "image": "https://m.media-amazon.com/images/I/41lpUANEyuL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0F8J4JSD3?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "cibo",
+    "macro_group": "spesa_bevande",
+    "seasonal_title": "",
+    "published_at": "2026-09-16T12:06:46.286685+02:00"
+  },
+  {
+    "asin": "B0C836V2NM",
+    "title": "Hisense MTM55205SE Frigorifero Doppia Porta a Libera Installazione Modello 2022, 206 L, Silver, 143.4 x‎ 54.2 x 55 cm",
+    "price": 244.0,
+    "old_price": 299.0,
+    "discount": 18.0,
+    "image": "https://m.media-amazon.com/images/I/31u3LS7N74L._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0C836V2NM?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "grandi_elettrodomestici",
+    "macro_group": "casa_cucina",
+    "seasonal_title": "",
+    "published_at": "2026-09-16T12:04:46.638310+02:00"
+  },
+  {
+    "asin": "B0CBVMBLZH",
+    "title": "Hisense MTM55205E Frigorifero Doppia Porta a Libera Installazione Modello 2023, 206 L, Bianco",
+    "price": 239.0,
+    "old_price": 299.0,
+    "discount": 20.0,
+    "image": "https://m.media-amazon.com/images/I/21MlceiXdoL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0CBVMBLZH?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "grandi_elettrodomestici",
+    "macro_group": "casa_cucina",
+    "seasonal_title": "",
+    "published_at": "2026-09-16T12:04:46.583234+02:00"
+  },
+  {
+    "asin": "B0CWH77DMX",
+    "title": "Roku Gin Sakura Bloom Edition, Gin Giapponese, 6 Botaniche, 43% Vol - 700ml",
+    "price": 26.4,
+    "old_price": 31.9,
+    "discount": 17.0,
+    "image": "https://m.media-amazon.com/images/I/41FcU7Dex4L._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0CWH77DMX?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "spirits",
+    "macro_group": "spesa_bevande",
+    "seasonal_title": "",
+    "published_at": "2026-09-16T12:04:45.288476+02:00"
+  },
+  {
     "asin": "B0DQWC5399",
     "title": "Braun Rasoio Elettrico Barba e Capelli Serie 7, Accessori AIO7565 Blu",
     "price": 74.99,
@@ -1246,57 +1298,5 @@
     "macro_group": "casa_cucina",
     "seasonal_title": "",
     "published_at": "2026-09-16T09:06:44.612023+02:00"
-  },
-  {
-    "asin": "B0FR1HP5L5",
-    "title": "KitchenAid 5KSB2073EPL Pure Power Batidora de Vaso, Motor Potente con Jarra de 2L sin BPA, 10 Velocidades, Programas para Hielo y Smoothies, Cuchilla Asimétrica Inox, Porcelain White",
-    "price": 91.73,
-    "old_price": 159.0,
-    "discount": 42.0,
-    "image": "https://m.media-amazon.com/images/I/31+p9FRW4fL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0FR1HP5L5?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "cucina_pro",
-    "macro_group": "casa_cucina",
-    "seasonal_title": "",
-    "published_at": "2026-09-16T09:06:44.552766+02:00"
-  },
-  {
-    "asin": "B07FTBGW9B",
-    "title": "Accessorio per Roboto da cucina KitchenAid - 5KSMMGA - Tritacarne per impastatrice - Con accessorio per insaccare salsicce - Tritaverdure - Acciaio inossidabile",
-    "price": 95.49,
-    "old_price": 169.0,
-    "discount": 43.0,
-    "image": "https://m.media-amazon.com/images/I/41C-L4nBh-L._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B07FTBGW9B?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "cucina_pro",
-    "macro_group": "casa_cucina",
-    "seasonal_title": "",
-    "published_at": "2026-09-16T09:06:44.499728+02:00"
-  },
-  {
-    "asin": "B0DJK5GH8F",
-    "title": "12 Pollici Motosega a Batteria, Motosega Elettrica Senza Fili 2x4000mAh, Potatore Senza Fili per Attrezzi da Giardino, Taglio del Legno, Fai da Te (1800W Brushless) - PowerCut X13",
-    "price": 104.99,
-    "old_price": 169.99,
-    "discount": 38.0,
-    "image": "https://m.media-amazon.com/images/I/51SJxm5NVWL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0DJK5GH8F?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "giardinaggio",
-    "macro_group": "fai_da_te_outdoor",
-    "seasonal_title": "",
-    "published_at": "2026-09-16T09:04:46.179894+02:00"
-  },
-  {
-    "asin": "B01LZ4YSVO",
-    "title": "San Benedetto, Bibita Analcolica Gassata al Ginger Zero, 750 ml, Senza Zuccheri Aggiunti e Senza Calorie, Rinfrescante e Leggera",
-    "price": 0.55,
-    "old_price": 0.71,
-    "discount": 23.0,
-    "image": "https://m.media-amazon.com/images/I/31YjIPXZs5L._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B01LZ4YSVO?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "cibo",
-    "macro_group": "spesa_bevande",
-    "seasonal_title": "",
-    "published_at": "2026-09-16T09:02:47.711892+02:00"
   }
 ]
