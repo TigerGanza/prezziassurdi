@@ -1,5 +1,44 @@
 [
   {
+    "asin": "B07MXYMPZG",
+    "title": "Regina Asciugoni Asciugatutto, 2 Rotoli",
+    "price": 1.99,
+    "old_price": 3.66,
+    "discount": 46.0,
+    "image": "https://m.media-amazon.com/images/I/41i4CY19OzL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B07MXYMPZG?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "pulizia_casa",
+    "macro_group": "casa_cucina",
+    "seasonal_title": "",
+    "published_at": "2026-09-16T17:42:45.211078+02:00"
+  },
+  {
+    "asin": "B01KAHEV8Y",
+    "title": "OFFERTA 20 DISSETA PIANTE GEL FLORTIS PER IRRIGAZIONE 20 30 GIORNI FIORI VACANZE",
+    "price": 45.0,
+    "old_price": 57.4,
+    "discount": 22.0,
+    "image": "https://m.media-amazon.com/images/I/61wWBF4+qPL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B01KAHEV8Y?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "giardinaggio",
+    "macro_group": "fai_da_te_outdoor",
+    "seasonal_title": "",
+    "published_at": "2026-09-16T17:40:46.952647+02:00"
+  },
+  {
+    "asin": "B0H35ZS4Z7",
+    "title": "GPS Tracker per Auto, Magnetico Nascosto Localizzatore Gps Senza SIM senza abbonamento, Auto Localizzatore Compatibile con Apple Find My App(IOS) per Bambini, Animali Domestici",
+    "price": 22.99,
+    "old_price": 32.99,
+    "discount": 30.0,
+    "image": "https://m.media-amazon.com/images/I/41X1WnbgK7L._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0H35ZS4Z7?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "pets_specifico",
+    "macro_group": "famiglia_animali",
+    "seasonal_title": "",
+    "published_at": "2026-09-16T17:40:44.408702+02:00"
+  },
+  {
     "asin": "B0FMJH4DPN",
     "title": "SONOFF Zigbee/Thread PoE Dongle Max, supporta connessioni Ethernet, Wi-Fi e USB, Gateway Zigbee con EFR32MG24&ESP32D0, chiavetta Zigbee per Home Assistant o Zigbee2MQTT",
     "price": 35.43,
@@ -1259,44 +1298,5 @@
     "macro_group": "casa_cucina",
     "seasonal_title": "",
     "published_at": "2026-09-16T14:24:09.603783+02:00"
-  },
-  {
-    "asin": "B00ZM0KEY0",
-    "title": "Huggies Extra Care Neonato, 24 Pannolini Taglia 2 (3-6Kg)",
-    "price": 4.69,
-    "old_price": 6.69,
-    "discount": 30.0,
-    "image": "https://m.media-amazon.com/images/I/51ecibFGwTL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B00ZM0KEY0?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "bambini_completo",
-    "macro_group": "famiglia_animali",
-    "seasonal_title": "",
-    "published_at": "2026-09-16T14:04:45.281781+02:00"
-  },
-  {
-    "asin": "B0BX4KHW98",
-    "title": "Tennent's Super Birra Lattina, Pacco da 24 x 44 cl",
-    "price": 32.88,
-    "old_price": 45.36,
-    "discount": 28.0,
-    "image": "https://m.media-amazon.com/images/I/41IFooQrOxL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0BX4KHW98?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "birre",
-    "macro_group": "spesa_bevande",
-    "seasonal_title": "",
-    "published_at": "2026-09-16T14:02:46.667559+02:00"
-  },
-  {
-    "asin": "B0GNSY1PDL",
-    "title": "Birra Ichnusa Non Filtrata, Cassa con 24 Lattine 24 da 44cl, Birra Lager Non Filtrata a Bassa Fermentazione, Gusto Morbido, Corposa ed Equilibrata, Gradazione 5,0% Vol",
-    "price": 23.28,
-    "old_price": 35.76,
-    "discount": 35.0,
-    "image": "https://m.media-amazon.com/images/I/41RcPTNf8hL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0GNSY1PDL?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "birre",
-    "macro_group": "spesa_bevande",
-    "seasonal_title": "",
-    "published_at": "2026-09-16T14:02:46.612273+02:00"
   }
 ]
