@@ -1,5 +1,44 @@
 [
   {
+    "asin": "B01GEMVI94",
+    "title": "San Benedetto, Thè Deteinato alla Pesca, 500 ml, Senza Teina e Glutine, Bevanda Fresca e Dissetante, Tappo Click, con Poche Calorie.",
+    "price": 0.51,
+    "old_price": 0.8,
+    "discount": 36.0,
+    "image": "https://m.media-amazon.com/images/I/312-o6BOSoL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B01GEMVI94?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "cibo",
+    "macro_group": "spesa_bevande",
+    "seasonal_title": "",
+    "published_at": "2026-09-17T08:32:44.857415+02:00"
+  },
+  {
+    "asin": "B0DSJ7QXQ2",
+    "title": "Supradyn Ricarica PRO B12, Integratore con Vitamina B12, Zinco e Probiotici, per Stanchezza Fisica e Mentale e Supporto al Sistema Immunitario per Adulti 50+, 10 Flaconcini",
+    "price": 9.29,
+    "old_price": 14.9,
+    "discount": 38.0,
+    "image": "https://m.media-amazon.com/images/I/414KNhMsI3L._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0DSJ7QXQ2?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "salute",
+    "macro_group": "cura_persona",
+    "seasonal_title": "",
+    "published_at": "2026-09-17T08:30:45.054059+02:00"
+  },
+  {
+    "asin": "B003QNU0EO",
+    "title": "Perrier-Jouët Champagne Grand Brut",
+    "price": 52.0,
+    "old_price": 61.0,
+    "discount": 15.0,
+    "image": "https://m.media-amazon.com/images/I/31UuUiWnXTL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B003QNU0EO?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "vini",
+    "macro_group": "spesa_bevande",
+    "seasonal_title": "",
+    "published_at": "2026-09-17T08:30:43.666423+02:00"
+  },
+  {
     "asin": "B0CYT793KM",
     "title": "GXTrust Acira Tastiera Meccanica 60% Mini Layout Italiano QWERTY, Nero",
     "price": 29.49,
@@ -1259,44 +1298,5 @@
     "macro_group": "casa_cucina",
     "seasonal_title": "",
     "published_at": "2026-09-16T23:14:45.931637+02:00"
-  },
-  {
-    "asin": "B0HBW7GSV6",
-    "title": "Dzaki Aspirapolvere Senza Fili 50KPa/55Min, Scopa Elettrica con Luce LED Verde, Spazzola Antigroviglio, Display LED, Autoportante, HEPA 5 Stadi, 2,7kg per Pavimenti/Tappeti/Peli Animali",
-    "price": 99.99,
-    "old_price": 333.3,
-    "discount": 70.0,
-    "image": "https://m.media-amazon.com/images/I/41CH4bTIeEL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0HBW7GSV6?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "casa",
-    "macro_group": "casa_cucina",
-    "seasonal_title": "",
-    "published_at": "2026-09-16T23:14:45.880587+02:00"
-  },
-  {
-    "asin": "B0H2Q6G2MK",
-    "title": "Aspirapolvere Senza Fili Scopa Elettrica - Potente Filo Batteria Cordless Vacuum Cleaner Scope Elettriche Sacco Portatile Ciclonico Silenzioso per Divano Tappeti Parquet Pavimenti Peli di Animali",
-    "price": 89.99,
-    "old_price": 449.95,
-    "discount": 80.0,
-    "image": "https://m.media-amazon.com/images/I/41ptLeMDnQL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0H2Q6G2MK?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "casa",
-    "macro_group": "casa_cucina",
-    "seasonal_title": "",
-    "published_at": "2026-09-16T23:14:45.819365+02:00"
-  },
-  {
-    "asin": "B0FWC5BMY8",
-    "title": "Dyson Cyclone V10 Submarine Aspirapolvere Senza Filo, 150 Air Watt",
-    "price": 379.0,
-    "old_price": 549.0,
-    "discount": 31.0,
-    "image": "https://m.media-amazon.com/images/I/31Sdzb3dVBL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0FWC5BMY8?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "casa_smart",
-    "macro_group": "casa_cucina",
-    "seasonal_title": "",
-    "published_at": "2026-09-16T23:10:43.737262+02:00"
   }
 ]
