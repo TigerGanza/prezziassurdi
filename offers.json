@@ -1,5 +1,31 @@
 [
   {
+    "asin": "B01G7FV14K",
+    "title": "Red Bull Energy Drink Original 355 ml 24 Lattine",
+    "price": 35.52,
+    "old_price": 44.16,
+    "discount": 20.0,
+    "image": "https://m.media-amazon.com/images/I/41cR4ElWZgL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B01G7FV14K?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "bevande_analcoliche",
+    "macro_group": "spesa_bevande",
+    "seasonal_title": "",
+    "published_at": "2026-09-17T07:52:45.914480+02:00"
+  },
+  {
+    "asin": "B0CL9VQSX7",
+    "title": "MasterChef Set Coltelli da Cucina con Ceppo Universale, Portacoltelli",
+    "price": 25.99,
+    "old_price": 34.99,
+    "discount": 26.0,
+    "image": "https://m.media-amazon.com/images/I/31rpeZx6kKL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0CL9VQSX7?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "cucina",
+    "macro_group": "casa_cucina",
+    "seasonal_title": "",
+    "published_at": "2026-09-17T07:52:43.454284+02:00"
+  },
+  {
     "asin": "B0BN41SRGX",
     "title": "Glade Automatic Spray, Profumatore per Ambienti, Sandalo, 4 Ricariche",
     "price": 11.56,
@@ -1272,31 +1298,5 @@
     "macro_group": "cura_persona",
     "seasonal_title": "",
     "published_at": "2026-09-16T22:50:44.850121+02:00"
-  },
-  {
-    "asin": "B0DG359RK1",
-    "title": "G3 Ferrari G20164 Impastatrice Planetaria 8L, 1800W, Doppio Gancio, Grigio",
-    "price": 144.0,
-    "old_price": 219.9,
-    "discount": 35.0,
-    "image": "https://m.media-amazon.com/images/I/416FSE23g3L._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0DG359RK1?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "cucina",
-    "macro_group": "casa_cucina",
-    "seasonal_title": "",
-    "published_at": "2026-09-16T22:50:43.532422+02:00"
-  },
-  {
-    "asin": "B0FMGXH38Q",
-    "title": "JBL Grip, Speaker Bluetooth Compatto, Nero",
-    "price": 72.5,
-    "old_price": 99.99,
-    "discount": 27.0,
-    "image": "https://m.media-amazon.com/images/I/41nvymJPlbL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0FMGXH38Q?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "musica",
-    "macro_group": "tempo_libero",
-    "seasonal_title": "",
-    "published_at": "2026-09-16T22:48:45.009085+02:00"
   }
 ]
