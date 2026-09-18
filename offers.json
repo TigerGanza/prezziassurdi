@@ -1,5 +1,31 @@
 [
   {
+    "asin": "B0CM9M9GZB",
+    "title": "R210MTS",
+    "price": 239.99,
+    "old_price": 292.03,
+    "discount": 18.0,
+    "image": "https://m.media-amazon.com/images/I/41QZ4KqbD2L._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0CM9M9GZB?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "bricolage",
+    "macro_group": "fai_da_te_outdoor",
+    "seasonal_title": "",
+    "published_at": "2026-09-18T16:27:03.251995+02:00"
+  },
+  {
+    "asin": "B09RK6MXTR",
+    "title": "HUTCHINSON - Camera d'aria - City/Trekking - Standard - Resistenza e antiforatura - Valvola Presta - Spessore 0,9 mm - 48 MM - 700 x 37-50 - Set Di 2",
+    "price": 5.99,
+    "old_price": 7.99,
+    "discount": 25.0,
+    "image": "https://m.media-amazon.com/images/I/41K6PUVvJEL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B09RK6MXTR?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "ciclismo",
+    "macro_group": "tempo_libero",
+    "seasonal_title": "",
+    "published_at": "2026-09-18T16:27:01.112322+02:00"
+  },
+  {
     "asin": "B0CXQ266C4",
     "title": "Miss Lulu Borsa a Tracolla Donna Piccola in Morbida Pelle PU Nera",
     "price": 16.99,
@@ -1272,31 +1298,5 @@
     "macro_group": "tech",
     "seasonal_title": "",
     "published_at": "2026-09-18T14:05:01.234229+02:00"
-  },
-  {
-    "asin": "B0FKNK6H9Q",
-    "title": "Splendid - Caffè in Cialde ESE - 50 Cialde - Intensità 12 - Miscela Espresso per Macchina Portafiltro Monodose - Gusto Deciso e Aroma Tostato",
-    "price": 7.99,
-    "old_price": 9.99,
-    "discount": 20.0,
-    "image": "https://m.media-amazon.com/images/I/41HvoU-58VL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0FKNK6H9Q?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "caffe_capsule",
-    "macro_group": "casa_cucina",
-    "seasonal_title": "",
-    "published_at": "2026-09-18T14:03:02.538720+02:00"
-  },
-  {
-    "asin": "B00S977MBQ",
-    "title": "BALLARINI Professionale 3000 Teglia da Forno, 40 x 30 x 3 cm, Ferro Blu",
-    "price": 10.37,
-    "old_price": 14.95,
-    "discount": 31.0,
-    "image": "https://m.media-amazon.com/images/I/31pPUcjCBPS._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B00S977MBQ?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "pizza",
-    "macro_group": "tempo_libero",
-    "seasonal_title": "",
-    "published_at": "2026-09-18T14:03:01.120004+02:00"
   }
 ]
