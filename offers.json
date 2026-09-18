@@ -1,5 +1,31 @@
 [
   {
+    "asin": "B00KWWY4Y4",
+    "title": "Pellini N.9 Cremoso Caffè in Grani per Espresso, 1kg",
+    "price": 17.99,
+    "old_price": 22.49,
+    "discount": 20.0,
+    "image": "https://m.media-amazon.com/images/I/31fsLfv6EsL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B00KWWY4Y4?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "caffe_capsule",
+    "macro_group": "casa_cucina",
+    "seasonal_title": "",
+    "published_at": "2026-09-18T14:17:01.182050+02:00"
+  },
+  {
+    "asin": "B0D7HKGVTJ",
+    "title": "PHILIPS Monitor 27E1N1800AE 27 pollici 3840x2160, UHD, 60Hz, IPS Panel, 4ms GtG, Speakers, Height Adjustment, (HDMI2x 2.0 DP 1x 1.4) HDR10, Nero",
+    "price": 169.0,
+    "old_price": 219.0,
+    "discount": 23.0,
+    "image": "https://m.media-amazon.com/images/I/410akWfJknL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0D7HKGVTJ?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "pc_components",
+    "macro_group": "tech",
+    "seasonal_title": "",
+    "published_at": "2026-09-18T14:15:03.354346+02:00"
+  },
+  {
     "asin": "B01CHVXNXA",
     "title": "Moulinex OW2101 Pain Doré Macchina del Pane, 720 W, 1 kg, 12 Programmi Automatici, 3 Livelli di Peso e Doratura, Schermo LCD, Macchina per Pane, Pizza, Pasta, Dolci, Marmellate, Ricettario Incluso",
     "price": 109.0,
@@ -1272,31 +1298,5 @@
     "macro_group": "tech",
     "seasonal_title": "",
     "published_at": "2026-09-18T11:49:03.227681+02:00"
-  },
-  {
-    "asin": "B0GTLD65SS",
-    "title": "70mai A810 Lite Dash Cam Auto 4K HDR +1080P, Doppia Telecamera Auto GPS",
-    "price": 109.99,
-    "old_price": 149.99,
-    "discount": 27.0,
-    "image": "https://m.media-amazon.com/images/I/51vsFHujGOL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0GTLD65SS?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "auto",
-    "macro_group": "fai_da_te_outdoor",
-    "seasonal_title": "",
-    "published_at": "2026-09-18T11:47:03.560568+02:00"
-  },
-  {
-    "asin": "B0CYT5VRCD",
-    "title": "GKU Dash Cam Auto 4K UHD 2160P, DashCam con WiFi 5.8GHz",
-    "price": 40.49,
-    "old_price": 69.99,
-    "discount": 42.0,
-    "image": "https://m.media-amazon.com/images/I/41Dj8n3OM4L._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0CYT5VRCD?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "auto",
-    "macro_group": "fai_da_te_outdoor",
-    "seasonal_title": "",
-    "published_at": "2026-09-18T11:47:03.513324+02:00"
   }
 ]
