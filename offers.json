@@ -1,5 +1,44 @@
 [
   {
+    "asin": "B089M9Q532",
+    "title": "Haribo Konfekt, Caramelle Gommose, Gusto Liquirizia, 175gr",
+    "price": 1.29,
+    "old_price": 1.65,
+    "discount": 22.0,
+    "image": "https://m.media-amazon.com/images/I/51Is9m2GTcL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B089M9Q532?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "cibo",
+    "macro_group": "spesa_bevande",
+    "seasonal_title": "",
+    "published_at": "2026-09-19T07:01:45.235595+02:00"
+  },
+  {
+    "asin": "B0BHYZVD52",
+    "title": "Sperlari - Caramelle Gran Gelèes Assortite Frutti del Sole, Intenso Sapore di Frutta: Pesca, Mandarino, Fragola e Ananas - Sacchetto da 1 kg",
+    "price": 5.15,
+    "old_price": 6.97,
+    "discount": 26.0,
+    "image": "https://m.media-amazon.com/images/I/41qBfUnHpxL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0BHYZVD52?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "cibo",
+    "macro_group": "spesa_bevande",
+    "seasonal_title": "",
+    "published_at": "2026-09-19T07:01:45.230302+02:00"
+  },
+  {
+    "asin": "B0FQP3XHY5",
+    "title": "Deplite 21J Epilatore Luce Pulsata con Funzione di Raffreddamento",
+    "price": 72.19,
+    "old_price": 89.99,
+    "discount": 20.0,
+    "image": "https://m.media-amazon.com/images/I/31BKrLWef6L._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0FQP3XHY5?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "beauty_pro",
+    "macro_group": "cura_persona",
+    "seasonal_title": "",
+    "published_at": "2026-09-19T06:59:45.690895+02:00"
+  },
+  {
     "asin": "B08GLZX94W",
     "title": "BaByliss Hydro Fusion Spazzola Rotante ad Aria Calda, Cilindro in Ceramica da 50 mm, Tecnologia Ionica Anti-Crespo, Styling Multidirezionale, 2 Temperature, Aria Fredda, AS773E",
     "price": 52.95,
@@ -1259,44 +1298,5 @@
     "macro_group": "tech",
     "seasonal_title": "",
     "published_at": "2026-09-18T21:55:44.109483+02:00"
-  },
-  {
-    "asin": "B0GRVZMCRS",
-    "title": "Droni con Camera, Drone per Bambini Schermo LCD Live Video, Motore Brushless, Sistema di Prevenzione Ostacoli, 3D Flips, Peso Inferiore a 250g, Supporta Schede SD fino a 32 GB Regali per Ragazzi",
-    "price": 63.1,
-    "old_price": 149.89,
-    "discount": 58.0,
-    "image": "https://m.media-amazon.com/images/I/41tkIe98zmL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0GRVZMCRS?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "hitech",
-    "macro_group": "tech",
-    "seasonal_title": "",
-    "published_at": "2026-09-18T21:55:44.104014+02:00"
-  },
-  {
-    "asin": "B0CW5TMTL8",
-    "title": "Eventek Termometro Infrarossi, -50 ° C ~ 600 ° C Termometro Laser Digitale Senza Contatto aiutante di cucina, Termometro per Cucina, Forno, Pizza, Freezer, Termometro per Carne Incluso (Non per Umani)",
-    "price": 19.99,
-    "old_price": 25.99,
-    "discount": 23.0,
-    "image": "https://m.media-amazon.com/images/I/41f1gfGW5jL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0CW5TMTL8?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "cucina_pro",
-    "macro_group": "casa_cucina",
-    "seasonal_title": "",
-    "published_at": "2026-09-18T21:53:45.652408+02:00"
-  },
-  {
-    "asin": "B0H7656PXT",
-    "title": "Lenovo IdeaPad Slim 3 Notebook 15\" IPS Intel Core 7 350, RAM 16GB, 512GB SSD, Windows 11 Home, WiFi 6, Laptop per Casa, Ufficio, Studio, Multitasking, Uso Quotidiano - Caricatore non incluso",
-    "price": 799.0,
-    "old_price": 1049.0,
-    "discount": 24.0,
-    "image": "https://m.media-amazon.com/images/I/41I2vS4aPzL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0H7656PXT?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "pc_casa_lavoro",
-    "macro_group": "tech",
-    "seasonal_title": "",
-    "published_at": "2026-09-18T21:47:45.987589+02:00"
   }
 ]
