@@ -1,8 +1,5 @@
 {
-  "updated_at": "2026-09-21T22:21:12.848689+02:00",
-  "merchant_counts": {
-    "unieuro": 15722,
-    "mediaworld": 15575
-  },
-  "comparison_count": 5639
+  "mode": "amazon_event_snapshot",
+  "compared_offer_count": 0,
+  "last_checked_at": null
 }
