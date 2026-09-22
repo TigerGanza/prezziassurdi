@@ -1,5 +1,35 @@
 [
   {
+    "asin": "B0D31V7S32",
+    "title": "adidas Uomo Grand Court Base 00S Shoes, Grey Two/Cloud White/Gum, 43 1/3 EU",
+    "price": 42.36,
+    "old_price": 65.0,
+    "discount": 35.0,
+    "image": "https://m.media-amazon.com/images/I/21B61ib326L._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0D31V7S32?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "scarpe_borse",
+    "macro_group": "tempo_libero",
+    "seasonal_title": "",
+    "published_at": "2026-09-22T21:09:51.854549+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": ""
+  },
+  {
+    "asin": "B0CKJBDXBL",
+    "title": "Puma Unisex Adults Club II Era Sneaker, Puma White-Puma Black-Vapor Gray, 44 EU",
+    "price": 39.9,
+    "old_price": 64.95,
+    "discount": 39.0,
+    "image": "https://m.media-amazon.com/images/I/31lXZ5YOOuL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0CKJBDXBL?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "scarpe_borse",
+    "macro_group": "tempo_libero",
+    "seasonal_title": "",
+    "published_at": "2026-09-22T21:09:51.829766+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": ""
+  },
+  {
     "asin": "B071JM699P",
     "title": "Amazon Basics - Matite HB2 in Grafite con Corpo in Legno, Già Temperate, con Gomma Senza Sbavature, per Scuola, Confezione da 150",
     "price": 9.55,
@@ -1583,59 +1613,5 @@
     "merchant_match_score": 94,
     "merchant_ean": "8003705113954",
     "merchant_prices_checked_at": "2026-09-22T16:03:48.707553+02:00"
-  },
-  {
-    "asin": "B0F2JFCG6L",
-    "title": "Philips epilatore Serie 2000, epilatore da donna con filo per corpo e zone sensibili, epilazione e rasatura, modello BRE237/00",
-    "price": 39.99,
-    "old_price": 52.99,
-    "discount": 25.0,
-    "image": "https://m.media-amazon.com/images/I/41hLY8zSrvL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0F2JFCG6L?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "bellezza",
-    "macro_group": "cura_persona",
-    "seasonal_title": "",
-    "published_at": "2026-09-22T16:01:51.577610+02:00",
-    "source_merchant": "amazon",
-    "source_external_id": ""
-  },
-  {
-    "asin": "B0GK1ZYPFF",
-    "title": "Philips Epilatore Serie 8000 - Epilatore elettrico Wet & Dry senza fili, per gambe e corpo, con ProGuide, 5 accessori, autonomia di 60 minuti, modello BRE709/00",
-    "price": 79.99,
-    "old_price": 119.99,
-    "discount": 33.0,
-    "image": "https://m.media-amazon.com/images/I/41DLCUHomIL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0GK1ZYPFF?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "bellezza",
-    "macro_group": "cura_persona",
-    "seasonal_title": "",
-    "published_at": "2026-09-22T16:01:51.179596+02:00",
-    "source_merchant": "amazon",
-    "source_external_id": "",
-    "merchant_offers": [
-      {
-        "merchant": "mediaworld",
-        "merchant_name": "MediaWorld",
-        "merchant_id": "18529",
-        "product_id": "562402",
-        "awin_product_id": "45833484255",
-        "title": "EPILATORE PHILIPS BRE709/00, 2 x velocità, Autonomia di 60 min, Batteria, Ricarica in 180 min Blue",
-        "brand": "Philips",
-        "mpn": "BRE709/00",
-        "ean": "8720689033039",
-        "price": 82.49,
-        "old_price": 122.99,
-        "discount": 32.9,
-        "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_181303176/fee_786_587_png",
-        "url": "https://www.awin1.com/pclick.php?p=45833484255&a=3086723&m=18529",
-        "category": "Cura della Persona;Cura del corpo e viso;Epilatori e Depilatori",
-        "category_path": "",
-        "last_updated": ""
-      }
-    ],
-    "merchant_match_score": 100,
-    "merchant_ean": "8720689033039",
-    "merchant_prices_checked_at": "2026-09-22T16:01:48.982810+02:00"
   }
 ]
