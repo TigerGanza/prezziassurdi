@@ -1,5 +1,35 @@
 [
   {
+    "asin": "B071JM699P",
+    "title": "Amazon Basics - Matite HB2 in Grafite con Corpo in Legno, Già Temperate, con Gomma Senza Sbavature, per Scuola, Confezione da 150",
+    "price": 9.55,
+    "old_price": 17.41,
+    "discount": 45.0,
+    "image": "https://m.media-amazon.com/images/I/41N5gLDbQuL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B071JM699P?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "scuola",
+    "macro_group": "tempo_libero",
+    "seasonal_title": "",
+    "published_at": "2026-09-22T21:05:52.316964+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": ""
+  },
+  {
+    "asin": "B0BRN3B9DM",
+    "title": "David Beckham, Eau de Toilette Classic Homme, Profumo Uomo, 50ml",
+    "price": 11.9,
+    "old_price": 22.15,
+    "discount": 46.0,
+    "image": "https://m.media-amazon.com/images/I/31R-ofOxxpL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0BRN3B9DM?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "profumi",
+    "macro_group": "cura_persona",
+    "seasonal_title": "",
+    "published_at": "2026-09-22T21:03:50.101043+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": ""
+  },
+  {
     "asin": "B09J2FDW6Z",
     "title": "ACWOO Rasoio Elettrico Donna, 4 in 1 Epilatore Senza Fili, Multifunzione a Secco e Bagnato, Epilatore Viso per Una Rasatura Delicata e Accurata, Impermeabile",
     "price": 9.99,
@@ -1607,35 +1637,5 @@
     "merchant_match_score": 100,
     "merchant_ean": "8720689033039",
     "merchant_prices_checked_at": "2026-09-22T16:01:48.982810+02:00"
-  },
-  {
-    "asin": "B07P6B9D5H",
-    "title": "La Molisana, Fusilli Integrali n. 28, Pasta Integrale da Solo Grano Italiano - Trafilata al Bronzo, Ricca di Fibre, Ruvida e Tenace con Eccellente Tenuta in Cottura - Confezione da 500g",
-    "price": 0.87,
-    "old_price": 1.45,
-    "discount": 40.0,
-    "image": "https://m.media-amazon.com/images/I/41KT10-JzWL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B07P6B9D5H?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "alimentari",
-    "macro_group": "spesa_bevande",
-    "seasonal_title": "",
-    "published_at": "2026-09-22T15:55:50.505971+02:00",
-    "source_merchant": "amazon",
-    "source_external_id": ""
-  },
-  {
-    "asin": "B0GXFH79XK",
-    "title": "VITAKRAFT Beef Stick con Tacchino Alimento Complementare Snack alla Carne per Cani - 12 g (Confezione da 10)",
-    "price": 3.4,
-    "old_price": 7.5,
-    "discount": 55.0,
-    "image": "https://m.media-amazon.com/images/I/41AP5HdPrzL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0GXFH79XK?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "animali",
-    "macro_group": "famiglia_animali",
-    "seasonal_title": "",
-    "published_at": "2026-09-22T15:49:49.897363+02:00",
-    "source_merchant": "amazon",
-    "source_external_id": ""
   }
 ]
