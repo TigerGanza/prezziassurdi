@@ -3,9 +3,9 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<meta name="description" content="Prezzi Assurdi è il motore di ricerca delle offerte: cerca prodotti, scopri occasioni e confronta le offerte pubblicate prima di andare su Amazon.">
+<meta name="description" content="Trova il miglior prezzo con Prezzi Assurdi: cerca un prodotto e confronta le offerte disponibili su Amazon, Unieuro e MediaWorld.">
 <link rel="canonical" href="https://prezziassurdi.com/">
-<meta property="og:title" content="Prezzi Assurdi | Motore di ricerca delle offerte">
+<meta property="og:title" content="Prezzi Assurdi | Trova il miglior prezzo">
 <meta property="og:description" content="Cerca un prodotto e trova subito le offerte pubblicate su Prezzi Assurdi.">
 <meta property="og:url" content="https://prezziassurdi.com/">
 <meta property="og:type" content="website">
@@ -14,7 +14,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="robots" content="index,follow,max-image-preview:large">
 <meta name="theme-color" content="#0c0d0f">
-<title>Prezzi Assurdi | Motore di ricerca delle offerte</title>
+<title>Prezzi Assurdi | Trova il miglior prezzo</title>
 <script type="application/ld+json">
 {
   "@context":"https://schema.org",
@@ -24,7 +24,7 @@
       "@id":"https://prezziassurdi.com/#website",
       "url":"https://prezziassurdi.com/",
       "name":"Prezzi Assurdi",
-      "description":"Motore di ricerca delle offerte selezionate da Prezzi Assurdi",
+      "description":"Motore di confronto prezzi su Amazon, Unieuro e MediaWorld",
       "inLanguage":"it-IT"
     },
     {
@@ -2253,6 +2253,43 @@ html[data-pa-season="black-friday"]{--pa-accent:#d8ba73;--pa-glow:#ba944b26}
 })();
 </script>
 <!-- /PA_STYLE_V1429 -->
+
+<!-- PA_PRICE_SEARCH_STYLE_V1450 -->
+<style>
+.pa-compare-stores{display:flex;align-items:center;gap:9px;flex-wrap:wrap;margin:13px 0 5px;padding:10px 0 2px;border-top:1px solid rgba(255,255,255,.12)}
+.pa-compare-stores-label{font-size:11px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#c7ccd4;margin-right:2px}
+.pa-store-logo{height:34px;min-width:78px;padding:5px 9px;border-radius:9px;background:#fff;display:inline-flex;align-items:center;justify-content:center;border:1px solid rgba(0,0,0,.08)}
+.pa-store-logo img{max-width:92px;max-height:22px;object-fit:contain}
+.pa-price-search-results{margin:18px 0 24px;padding:22px;border-radius:20px;background:#111827;color:#fff;border:1px solid #283548;box-shadow:0 18px 40px rgba(0,0,0,.18)}
+.pa-price-search-results[hidden]{display:none!important}
+.pa-price-search-head{display:flex;align-items:end;justify-content:space-between;gap:14px;flex-wrap:wrap;margin-bottom:15px}
+.pa-price-search-head h2{margin:0;font-size:clamp(24px,3.6vw,38px);letter-spacing:-.03em}
+.pa-price-search-head h2 span{color:#ffd83d}
+.pa-price-search-head p{margin:5px 0 0;color:#cbd5e1;font-size:13px;line-height:1.5}
+.pa-price-count{font-size:12px;color:#111;background:#ffd83d;border-radius:999px;padding:7px 10px;font-weight:950}
+.pa-price-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+.pa-search-product{background:#fff;color:#111;border-radius:16px;padding:15px;border:1px solid #e4e7ec;box-shadow:0 8px 20px rgba(0,0,0,.08)}
+.pa-search-title{display:flex;gap:10px;align-items:flex-start;margin-bottom:10px}
+.pa-search-icon{width:42px;height:42px;flex:0 0 42px;border-radius:12px;background:#fff3a6;display:grid;place-items:center;font-size:21px}
+.pa-search-title h3{font-size:16px;line-height:1.25;margin:0 0 4px}
+.pa-search-code{font-size:10px;color:#7b8492;word-break:break-word}
+.pa-store-price-row{display:grid;grid-template-columns:112px 92px 1fr auto;align-items:center;gap:8px;border-top:1px solid #eceff3;padding:9px 0}
+.pa-store-price-row:first-of-type{border-top:0}
+.pa-store-price-logo{display:flex;align-items:center;min-height:28px}
+.pa-store-price-logo img{max-width:96px;max-height:23px;object-fit:contain}
+.pa-store-price{font-size:19px;font-weight:950;color:#e11d2e;white-space:nowrap}
+.pa-best-price{justify-self:start;font-size:9px;font-weight:950;background:#ffd83d;border-radius:999px;padding:5px 7px;white-space:nowrap}
+.pa-store-price-row a{background:#111;color:#fff;border-radius:8px;padding:8px 10px;text-decoration:none;font-size:11px;font-weight:950;white-space:nowrap}
+.pa-missing-stores{display:flex;gap:6px;flex-wrap:wrap;margin-top:7px}
+.pa-missing-stores span{font-size:9px;color:#7b8492;background:#f4f5f7;border-radius:999px;padding:5px 7px}
+.pa-search-footer{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap;margin-top:15px;padding-top:14px;border-top:1px solid rgba(255,255,255,.13);color:#cbd5e1;font-size:11px}
+.pa-search-footer a{color:#111;background:#ffd83d;text-decoration:none;border-radius:999px;padding:9px 13px;font-weight:950}
+.pa-search-empty,.pa-search-loading{padding:22px;text-align:center;background:#fff;color:#111;border-radius:14px}
+.pa-search-empty b,.pa-search-loading b{display:block;font-size:18px;margin-bottom:6px}
+@media(max-width:780px){.pa-price-search-results{padding:15px;margin:13px 0 20px;border-radius:16px}.pa-price-grid{grid-template-columns:1fr}.pa-store-price-row{grid-template-columns:90px 84px 1fr auto}.pa-store-price-logo img{max-width:78px}.pa-best-price{font-size:8px}}
+@media(max-width:480px){.pa-store-price-row{grid-template-columns:78px 78px 1fr auto;gap:5px}.pa-store-price-row a{padding:7px 8px}.pa-compare-stores-label{width:100%}.pa-store-logo{min-width:72px}}
+</style>
+
 </head>
 
 <body>
@@ -2266,7 +2303,6 @@ html[data-pa-season="black-friday"]{--pa-accent:#d8ba73;--pa-glow:#ba944b26}
     <nav class="top-nav" aria-label="Navigazione principale">
       <a href="#offerte">Offerte</a>
       <a href="/guide/">Guide acquisto</a>
-      <a href="/confronta/">Confronta prezzi</a>
       <a href="#promozioni">Promozioni</a>
       <details class="nav-categories" id="navCategories">
         <summary>Categorie</summary>
@@ -2295,7 +2331,6 @@ html[data-pa-season="black-friday"]{--pa-accent:#d8ba73;--pa-glow:#ba944b26}
       <div class="mobile-nav-menu">
         <a href="#offerte" onclick="document.getElementById('mobileNav').removeAttribute('open')">Offerte</a>
         <a href="/guide/" onclick="document.getElementById('mobileNav').removeAttribute('open')">Guide acquisto</a>
-        <a href="/confronta/" onclick="document.getElementById('mobileNav').removeAttribute('open')">Confronta prezzi</a>
         <a href="#promozioni" onclick="document.getElementById('mobileNav').removeAttribute('open')">Promozioni</a>
         <a href="https://www.facebook.com/profile.php?id=61568690113413" target="_blank" rel="noopener" onclick="document.getElementById('mobileNav').removeAttribute('open')">Facebook ↗</a>
         <a href="https://t.me/prezziassurditop" target="_blank" rel="noopener" onclick="document.getElementById('mobileNav').removeAttribute('open')">Telegram ↗</a>
@@ -2322,26 +2357,35 @@ html[data-pa-season="black-friday"]{--pa-accent:#d8ba73;--pa-glow:#ba944b26}
         <div class="hero-brand-stamp">
           <img src="logo-prezzi-assurdi.png" alt="" aria-hidden="true">
         </div>
-        <div class="eyebrow">Offerte selezionate · ricerca immediata</div>
+        <div class="eyebrow">AMAZON · UNIEURO · MEDIAWORLD</div>
 
-        <h1>Il tuo prossimo acquisto,<br><span>a un prezzo assurdo.</span></h1>
+        <h1>Trova il <span>miglior prezzo.</span></h1>
 
         <div class="hero-copy">
-          Scopri le offerte selezionate e trova il prodotto giusto con le nostre guide all’acquisto.
+          Scrivi cosa cerchi: confrontiamo i prezzi disponibili sui tre negozi e ti mostriamo subito l’offerta più conveniente.
         </div>
 
         <div class="amazon-box">
           <div class="amazon-label">
-            <span>COSA STAI CERCANDO?</span>
-            <span class="amazon-paid">PRIMA CERCHIAMO QUI</span>
+            <span>COSA VUOI CONFRONTARE?</span>
+            <span class="amazon-paid">RICERCA MULTI-STORE</span>
           </div>
 
           <form class="amazon-search-form" onsubmit="searchPrezziAssurdi(event)">
             <input id="amazonSearchInput" type="search" autocomplete="off"
-                   placeholder="Cerca smartphone, TV, cuffie, casa..."
+                   placeholder="Es. Motorola Edge 60 Neo 256GB"
                    aria-label="Cerca offerte su Prezzi Assurdi">
-            <button class="amazon-search-btn" type="submit">CERCA →</button>
+            <button class="amazon-search-btn" type="submit">CONFRONTA PREZZI →</button>
           <a class="pa-guide-link" href="/guide/">Aiutami a scegliere →</a></form>
+
+
+          <!-- PA_HOME_SEARCH_STORES_V1450 -->
+          <div class="pa-compare-stores" aria-label="Negozi confrontati">
+            <span class="pa-compare-stores-label">Confronta i prezzi disponibili su</span>
+            <span class="pa-store-logo"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon"></span>
+            <span class="pa-store-logo"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Unieuro_Logo_2015.png" alt="Unieuro"></span>
+            <span class="pa-store-logo"><img src="https://cms-images.mmst.eu/hzxov1nxpus5/FeeaTPsFbPj8u1cfFmnrk/45e5d9ec059d12513e93c348d9b9e0cb/MW_logo_red.svg?q=80" alt="MediaWorld"></span>
+          </div>
 
           <div class="quick-label">Categorie popolari</div>
           <div class="amazon-quick">
@@ -2359,7 +2403,7 @@ html[data-pa-season="black-friday"]{--pa-accent:#d8ba73;--pa-glow:#ba944b26}
           <div id="amazonTrending" class="amazon-quick"></div>
 
           <div class="amazon-search-bottom">
-            <a id="amazonHomeLink" href="#" target="_blank" rel="nofollow sponsored noopener">Non trovi? Cerca direttamente su Amazon.it →</a>
+            <a id="amazonHomeLink" href="#" target="_blank" rel="nofollow sponsored noopener">Non trovi il prodotto? Cerca anche su Amazon.it →</a>
           </div>
         </div>
 <div class="pa-social" aria-label="Segui Prezzi Assurdi">
@@ -2389,13 +2433,11 @@ html[data-pa-season="black-friday"]{--pa-accent:#d8ba73;--pa-glow:#ba944b26}
     </div>
   </section>
 
-<!-- PA_MULTISTORE_STRIP_START -->
-<section class="pa-multistore-strip" aria-label="Amazon, Unieuro e MediaWorld" style="margin:14px 0 18px;background:#fff;border:1px solid #e7e7e7;border-radius:16px;padding:10px 14px;display:flex;align-items:center;justify-content:center;gap:12px;flex-wrap:wrap;box-shadow:0 8px 22px rgba(0,0,0,.05)">
-  <a href="/confronta/" aria-label="Confronta prezzi Amazon" title="Amazon" style="display:inline-flex;background:#fff;border:1px solid #eee;border-radius:9px;padding:6px 10px;align-items:center;justify-content:center"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="height:20px;max-width:92px;object-fit:contain"></a>
-  <a href="/confronta/" aria-label="Confronta prezzi Unieuro" title="Unieuro" style="display:inline-flex;background:#fff;border:1px solid #eee;border-radius:9px;padding:6px 10px;align-items:center;justify-content:center"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Unieuro_Logo_2015.png" alt="Unieuro" style="height:22px;max-width:100px;object-fit:contain"></a>
-  <a href="/confronta/" aria-label="Confronta prezzi MediaWorld" title="MediaWorld" style="display:inline-flex;background:#fff;border:1px solid #eee;border-radius:9px;padding:6px 10px;align-items:center;justify-content:center"><img src="https://cms-images.mmst.eu/hzxov1nxpus5/FeeaTPsFbPj8u1cfFmnrk/45e5d9ec059d12513e93c348d9b9e0cb/MW_logo_red.svg?q=80" alt="MediaWorld" style="height:22px;max-width:110px;object-fit:contain"></a>
-</section>
-<!-- PA_MULTISTORE_STRIP_END -->
+
+
+  <!-- PA_HOME_PRICE_RESULTS_V1450 -->
+  <section id="priceSearchPanel" class="pa-price-search-results" hidden aria-live="polite"></section>
+
   <section id="seasonBox" class="season" style="display:none"></section>
 
   <div class="sections-grid" id="offerte">
@@ -2437,7 +2479,7 @@ html[data-pa-season="black-friday"]{--pa-accent:#d8ba73;--pa-glow:#ba944b26}
 <div class="discount">Risparmi 167,91 €</div>
 <div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Confronta su</span><span title="Unieuro" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Unieuro_Logo_2015.png" alt="Unieuro" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span><span title="Amazon" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
 <a class="buy" href="https://prezziassurdi.com/offerte/WD61C003B6/">CONFRONTA PREZZI</a>
-<div class="meta">Pubblicata 4 h fa</div>
+<div class="meta">Pubblicata 5 h fa</div>
 </article>
 <article class="card">
 <span class="badge super">⚡ PREZZO ASSURDO</span>
@@ -2448,7 +2490,7 @@ html[data-pa-season="black-friday"]{--pa-accent:#d8ba73;--pa-glow:#ba944b26}
 <div class="discount">Risparmi 9,42 €</div>
 <div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="Amazon" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
 <a class="buy" href="https://www.amazon.it/dp/B0745GMDBW?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI L'OFFERTA</a>
-<div class="meta">Pubblicata 6 min fa</div>
+<div class="meta">Pubblicata 17 min fa</div>
 </article>
 <article class="card">
 <span class="badge super">⚡ PREZZO ASSURDO</span>
@@ -2459,7 +2501,7 @@ html[data-pa-season="black-friday"]{--pa-accent:#d8ba73;--pa-glow:#ba944b26}
 <div class="discount">Risparmi 55,00 €</div>
 <div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="Unieuro" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Unieuro_Logo_2015.png" alt="Unieuro" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
 <a class="buy" href="https://prezziassurdi.com/offerte/W62984B58D/?go=1">VEDI L'OFFERTA</a>
-<div class="meta">Pubblicata 4 h fa</div>
+<div class="meta">Pubblicata 5 h fa</div>
 </article>
 <article class="card">
 <span class="badge super">⚡ PREZZO ASSURDO</span>
@@ -2485,6 +2527,17 @@ html[data-pa-season="black-friday"]{--pa-accent:#d8ba73;--pa-glow:#ba944b26}
 <!-- PA_HOME_LATEST_START -->
 <article class="card">
 <span class="badge hot">🔥 HOT</span>
+<div class="photo"><a href="https://www.awin1.com/pclick.php?p=45389309204&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener" aria-label="Apri l'offerta PARTY SPEAKER HISENSE Party Rocker One Plus"><img src="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_145197253/fee_786_587_png" alt="PARTY SPEAKER HISENSE Party Rocker One Plus" loading="lazy"></a></div>
+<div class="category" aria-label="Negozio"><img src="https://cms-images.mmst.eu/hzxov1nxpus5/FeeaTPsFbPj8u1cfFmnrk/45e5d9ec059d12513e93c348d9b9e0cb/MW_logo_red.svg?q=80" alt="MediaWorld" style="height:17px;max-width:92px;object-fit:contain;display:block" loading="lazy" referrerpolicy="no-referrer"></div>
+<h3><a href="https://www.awin1.com/pclick.php?p=45389309204&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">PARTY SPEAKER HISENSE Party Rocker One Plus</a></h3>
+<div class="prices"><span class="price">246,76 €</span><span class="old">329,00 €</span></div>
+<div class="discount">Risparmi 82,24 €</div>
+<div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="MediaWorld" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://cms-images.mmst.eu/hzxov1nxpus5/FeeaTPsFbPj8u1cfFmnrk/45e5d9ec059d12513e93c348d9b9e0cb/MW_logo_red.svg?q=80" alt="MediaWorld" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
+<a class="buy" href="https://prezziassurdi.com/offerte/W18E8CA2C8/?go=1">VEDI L'OFFERTA</a>
+<div class="meta">Pubblicata 3 min fa</div>
+</article>
+<article class="card">
+<span class="badge hot">🔥 HOT</span>
 <div class="photo"><a href="https://www.amazon.it/dp/B00DQR49QA?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener" aria-label="Apri l'offerta Valdo Marca Oro Valdobbiadene Prosecco Superiore DOCG, 750 ml x 6"><img src="https://m.media-amazon.com/images/I/41rxc0rMTdL._SL500_.jpg" alt="Valdo Marca Oro Valdobbiadene Prosecco Superiore DOCG, 750 ml x 6" loading="lazy"></a></div>
 <div class="category" aria-label="Negozio"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="height:17px;max-width:92px;object-fit:contain;display:block" loading="lazy" referrerpolicy="no-referrer"></div>
 <h3><a href="https://www.amazon.it/dp/B00DQR49QA?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Valdo Marca Oro Valdobbiadene Prosecco Superiore DOCG, 750 ml x 6</a></h3>
@@ -2492,7 +2545,7 @@ html[data-pa-season="black-friday"]{--pa-accent:#d8ba73;--pa-glow:#ba944b26}
 <div class="discount">Risparmi 16,80 €</div>
 <div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="Amazon" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
 <a class="buy" href="https://www.amazon.it/dp/B00DQR49QA?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI L'OFFERTA</a>
-<div class="meta">Pubblicata 3 min fa</div>
+<div class="meta">Pubblicata 14 min fa</div>
 </article>
 <article class="card">
 <span class="badge super">⚡ PREZZO ASSURDO</span>
@@ -2503,7 +2556,7 @@ html[data-pa-season="black-friday"]{--pa-accent:#d8ba73;--pa-glow:#ba944b26}
 <div class="discount">Risparmi 4,91 €</div>
 <div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="Amazon" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
 <a class="buy" href="https://www.amazon.it/dp/B0199537YM?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI L'OFFERTA</a>
-<div class="meta">Pubblicata 3 min fa</div>
+<div class="meta">Pubblicata 14 min fa</div>
 </article>
 <article class="card">
 <span class="badge new">NUOVA</span>
@@ -2514,7 +2567,7 @@ html[data-pa-season="black-friday"]{--pa-accent:#d8ba73;--pa-glow:#ba944b26}
 <div class="discount">Risparmi 1,50 €</div>
 <div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="Amazon" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
 <a class="buy" href="https://www.amazon.it/dp/B0C3LCHC4C?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI L'OFFERTA</a>
-<div class="meta">Pubblicata 5 min fa</div>
+<div class="meta">Pubblicata 16 min fa</div>
 </article>
 <article class="card">
 <span class="badge hot">🔥 HOT</span>
@@ -2525,7 +2578,7 @@ html[data-pa-season="black-friday"]{--pa-accent:#d8ba73;--pa-glow:#ba944b26}
 <div class="discount">Risparmi 9,95 €</div>
 <div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="Amazon" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
 <a class="buy" href="https://www.amazon.it/dp/B019JNA68O?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI L'OFFERTA</a>
-<div class="meta">Pubblicata 7 min fa</div>
+<div class="meta">Pubblicata 18 min fa</div>
 </article>
 <article class="card">
 <span class="badge new">NUOVA</span>
@@ -2536,18 +2589,7 @@ html[data-pa-season="black-friday"]{--pa-accent:#d8ba73;--pa-glow:#ba944b26}
 <div class="discount">Risparmi 21,95 €</div>
 <div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="Amazon" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
 <a class="buy" href="https://www.amazon.it/dp/B07P91DQ22?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI L'OFFERTA</a>
-<div class="meta">Pubblicata 17 min fa</div>
-</article>
-<article class="card">
-<span class="badge hot">🔥 HOT</span>
-<div class="photo"><a href="https://www.amazon.it/dp/B0F4JD17CR?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener" aria-label="Apri l'offerta Seghetto Alternativo Elettrico: DEKOPRO 400W Seghetto per Legno Seghetti Alternativi"><img src="https://m.media-amazon.com/images/I/4157RHGh42L._SL500_.jpg" alt="Seghetto Alternativo Elettrico: DEKOPRO 400W Seghetto per Legno Seghetti Alternativi" loading="lazy"></a></div>
-<div class="category" aria-label="Negozio"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="height:17px;max-width:92px;object-fit:contain;display:block" loading="lazy" referrerpolicy="no-referrer"></div>
-<h3><a href="https://www.amazon.it/dp/B0F4JD17CR?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Seghetto Alternativo Elettrico: DEKOPRO 400W Seghetto per Legno Seghetti Alternativi</a></h3>
-<div class="prices"><span class="price">29,30 €</span><span class="old">39,99 €</span></div>
-<div class="discount">Risparmi 10,69 €</div>
-<div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="Amazon" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
-<a class="buy" href="https://www.amazon.it/dp/B0F4JD17CR?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI L'OFFERTA</a>
-<div class="meta">Pubblicata 17 min fa</div>
+<div class="meta">Pubblicata 28 min fa</div>
 </article>
 <!-- PA_HOME_LATEST_END -->
 </div>
@@ -3405,5 +3447,119 @@ document.addEventListener("visibilitychange",()=>{
 <!-- PA_HOME_ANALYTICS_START -->
 
 <!-- PA_HOME_ANALYTICS_END -->
+
+<!-- PA_PRICE_SEARCH_JS_V1450 -->
+<script>
+(()=>{
+  const SHARDS=8;
+  const LOGOS={"a": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg", "u": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Unieuro_Logo_2015.png", "w": "https://cms-images.mmst.eu/hzxov1nxpus5/FeeaTPsFbPj8u1cfFmnrk/45e5d9ec059d12513e93c348d9b9e0cb/MW_logo_red.svg?q=80"};
+  const LABELS={a:'Amazon',u:'Unieuro',w:'MediaWorld'};
+  let indexPromise=null;
+
+  function norm(v){
+    return String(v||'').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'')
+      .replace(/[^a-z0-9]+/g,' ').trim().replace(/\s+/g,' ');
+  }
+  function aliases(v){
+    return norm(v).replace(/\bcellular[ei]\b/g,'smartphone').replace(/\btelefon[oi]\b/g,'smartphone')
+      .replace(/\btelevisor[ei]\b/g,'tv').replace(/\bsmart tv\b/g,'tv')
+      .replace(/\bauricolar[ei]\b/g,'cuffie').replace(/\bcomputer portatile\b/g,'notebook')
+      .replace(/\bpc portatile\b/g,'notebook').replace(/\bair fryer\b/g,'friggitrice aria');
+  }
+  function esc(v){return String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));}
+  function euro(v){return Number(v).toLocaleString('it-IT',{style:'currency',currency:'EUR'});}
+  function offerUrl(row){
+    if(!Array.isArray(row))return '#';
+    if((row[0]==='u'||row[0]==='w') && row.length>=5){
+      return `https://www.awin1.com/pclick.php?p=${encodeURIComponent(row[2])}&a=${encodeURIComponent(row[3])}&m=${encodeURIComponent(row[4])}`;
+    }
+    return String(row[2]||'#');
+  }
+  async function loadIndex(){
+    if(indexPromise)return indexPromise;
+    indexPromise=(async()=>{
+      const settled=await Promise.allSettled(Array.from({length:SHARDS},(_,i)=>
+        fetch(`/search/index-${i}.json`,{cache:'default'}).then(r=>{if(!r.ok)throw new Error(`HTTP ${r.status}`);return r.json();})
+      ));
+      const all=[];
+      settled.forEach(x=>{if(x.status==='fulfilled' && Array.isArray(x.value?.items))all.push(...x.value.items);});
+      if(!all.length)throw new Error('Indice prezzi non disponibile');
+      return all;
+    })();
+    return indexPromise;
+  }
+  function scoreItem(item,query){
+    const q=aliases(query), tokens=q.split(' ').filter(Boolean);
+    if(!tokens.length)return 0;
+    const title=norm(item.t), brand=norm(item.b), ean=norm(item.e), mpn=norm(item.n), extra=norm(item.x);
+    const hay=`${title} ${brand} ${ean} ${mpn} ${extra}`;
+    if(!tokens.every(t=>hay.includes(t)))return 0;
+    let score=100+(Array.isArray(item.o)?item.o.length*8:0);
+    if(ean && q===ean)score+=9000;
+    if(mpn && q.replace(/ /g,'')===mpn.replace(/ /g,''))score+=8000;
+    if(title===q)score+=1200;else if(title.startsWith(q))score+=700;else if(title.includes(q))score+=450;
+    if(brand && q.startsWith(brand))score+=120;
+    score+=tokens.reduce((sum,t)=>sum+(title.includes(t)?25:0),0);
+    return score;
+  }
+  function resultCard(item){
+    const rows=(Array.isArray(item.o)?item.o:[]).filter(r=>Array.isArray(r)&&Number(r[1])>0).sort((a,b)=>Number(a[1])-Number(b[1]));
+    if(!rows.length)return '';
+    const best=Number(rows[0][1]), multi=rows.length>=2, present=new Set(rows.map(r=>r[0]));
+    const code=[item.b,item.n,item.e].filter(Boolean).join(' · ');
+    const priceRows=rows.map(row=>{
+      const label=LABELS[row[0]]||'Negozio', logo=LOGOS[row[0]]||'';
+      const isBest=multi && Math.abs(Number(row[1])-best)<0.005;
+      return `<div class="pa-store-price-row"><div class="pa-store-price-logo">${logo?`<img src="${esc(logo)}" alt="${esc(label)}">`:esc(label)}</div><div class="pa-store-price">${euro(row[1])}</div><div>${isBest?'<span class="pa-best-price">MIGLIOR PREZZO</span>':''}</div><a href="${esc(offerUrl(row))}" target="_blank" rel="nofollow sponsored noopener">Vedi →</a></div>`;
+    }).join('');
+    const missing=[['a','Amazon'],['u','Unieuro'],['w','MediaWorld']].filter(([k])=>!present.has(k)).map(([,name])=>`<span>${esc(name)}: prezzo non rilevato</span>`).join('');
+    return `<article class="pa-search-product"><div class="pa-search-title"><div class="pa-search-icon">💶</div><div><h3>${esc(item.t||'Prodotto')}</h3>${code?`<div class="pa-search-code">${esc(code)}</div>`:''}</div></div>${priceRows}${missing?`<div class="pa-missing-stores">${missing}</div>`:''}</article>`;
+  }
+  async function run(query){
+    const panel=document.getElementById('priceSearchPanel');
+    if(!panel)return;
+    panel.hidden=false;
+    panel.innerHTML='<div class="pa-search-loading"><b>🔎 Sto confrontando i prezzi…</b><span>Controllo i prodotti disponibili nel catalogo Prezzi Assurdi.</span></div>';
+    try{
+      const items=await loadIndex(), ranked=[];
+      for(const item of items){const s=scoreItem(item,query);if(s>0)ranked.push([s,item]);}
+      ranked.sort((a,b)=>b[0]-a[0] || (b[1].o?.length||0)-(a[1].o?.length||0));
+      const results=ranked.slice(0,12).map(x=>x[1]);
+      const amazonLink=typeof amazonSearchUrl==='function'?amazonSearchUrl(query):`https://www.amazon.it/s?k=${encodeURIComponent(query)}`;
+      if(!results.length){
+        panel.innerHTML=`<div class="pa-price-search-head"><div><h2>Nessun confronto preciso per <span>“${esc(query)}”</span></h2><p>Prova con marca + modello, per esempio “Motorola Edge 60 Neo 256GB”.</p></div></div><div class="pa-search-empty"><b>Il prodotto non è ancora nel nostro indice.</b><span>Puoi cercarlo su Amazon oppure usare le guide per restringere la scelta.</span></div><div class="pa-search-footer"><span>Meglio nessun confronto che abbinare due varianti diverse.</span><a href="${esc(amazonLink)}" target="_blank" rel="nofollow sponsored noopener">CERCA SU AMAZON →</a></div>`;
+        return;
+      }
+      panel.innerHTML=`<div class="pa-price-search-head"><div><h2>Confronto per <span>“${esc(query)}”</span></h2><p>Stesso prodotto raggruppato per EAN/modello quando il match è sicuro.</p></div><div class="pa-price-count">${results.length} risultati</div></div><div class="pa-price-grid">${results.map(resultCard).join('')}</div><div class="pa-search-footer"><span>Prezzi disponibili nel catalogo Prezzi Assurdi. Verifica sempre prezzo, variante e disponibilità finali sul negozio.</span><a href="${esc(amazonLink)}" target="_blank" rel="nofollow sponsored noopener">CERCA ANCHE SU AMAZON →</a></div>`;
+      if(typeof gtag==='function')gtag('event','price_compare_search',{search_term:query,result_count:results.length});
+    }catch(err){
+      const amazonLink=typeof amazonSearchUrl==='function'?amazonSearchUrl(query):`https://www.amazon.it/s?k=${encodeURIComponent(query)}`;
+      panel.innerHTML=`<div class="pa-search-empty"><b>Confronto temporaneamente non disponibile.</b><span>Le offerte del sito restano consultabili normalmente.</span><div style="margin-top:12px"><a href="${esc(amazonLink)}" target="_blank" rel="nofollow sponsored noopener">CERCA SU AMAZON →</a></div></div>`;
+    }
+  }
+  window.paRunPriceSearch=run;
+  window.searchPrezziAssurdi=async function(event){
+    if(event)event.preventDefault();
+    const input=document.getElementById('amazonSearchInput'), query=String(input?.value||'').trim();
+    if(!query){if(input){input.focus();input.placeholder='Scrivi marca e modello del prodotto…';}return;}
+    const hidden=document.getElementById('search');if(hidden)hidden.value=query;
+    try{selectedCategory='all';buildChips();renderAll();}catch(_){}
+    try{const u=new URL(location.href);u.searchParams.set('q',query);history.replaceState(null,'',u.pathname+'?'+u.searchParams.toString());}catch(_){}
+    await run(query);
+    document.getElementById('priceSearchPanel')?.scrollIntoView({behavior:'smooth',block:'start'});
+  };
+  window.quickSiteSearch=function(query){
+    const input=document.getElementById('amazonSearchInput');if(input)input.value=query;
+    const hidden=document.getElementById('search');if(hidden)hidden.value=query;
+    try{selectedCategory='all';buildChips();renderAll();}catch(_){}
+    run(query).then(()=>document.getElementById('priceSearchPanel')?.scrollIntoView({behavior:'smooth',block:'start'}));
+  };
+  document.addEventListener('DOMContentLoaded',()=>{
+    const q=new URLSearchParams(location.search).get('q');
+    if(q){const input=document.getElementById('amazonSearchInput');if(input)input.value=q;run(q);}
+  });
+})();
+</script>
+
 </body>
 </html>
