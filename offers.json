@@ -1,5 +1,20 @@
 [
   {
+    "asin": "B0GD7K5NSF",
+    "title": "King C. Gillette Rasoio Elettrico Barba Pro Max con Accessori",
+    "price": 54.99,
+    "old_price": 70.99,
+    "discount": 23.0,
+    "image": "https://m.media-amazon.com/images/I/412YhJg8f-L._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0GD7K5NSF?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "beauty_pro",
+    "macro_group": "cura_persona",
+    "seasonal_title": "",
+    "published_at": "2026-09-23T12:10:33.500502+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": ""
+  },
+  {
     "asin": "B0D6VW3SXQ",
     "title": "Forever Speed Kit Irrigazione a Goccia 315PCS Impianto Irrigazione Giardino, 60M+15M Tubi di Irrigazione, Irrigazione Spruzzatura Raffreddamento a Goccia kit Irrigazione per Prato, Giardino, Orto",
     "price": 45.99,
@@ -1698,45 +1713,6 @@
     ],
     "merchant_match_score": 100,
     "merchant_ean": "8806095465173",
-    "merchant_prices_checked_at": "2026-09-23T00:29:34.361192+02:00"
-  },
-  {
-    "asin": "W06EA4139C",
-    "title": "ASUS USB-BT500 Bluetooth 3 Mbit/s",
-    "price": 6.72,
-    "old_price": 19.0,
-    "discount": 64.6,
-    "image": "https://www.unieuro.it/medias/sys_master/root/hf4/hc5/50830000717854/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-a6efcdfc6e245c7ec7b26770457726ed-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-    "url": "https://www.awin1.com/pclick.php?p=43435184266&a=3086723&m=10139",
-    "category": "altro",
-    "macro_group": "awin_discovery",
-    "seasonal_title": "Offerta Unieuro",
-    "published_at": "2026-09-23T00:29:37.314033+02:00",
-    "source_merchant": "unieuro",
-    "source_external_id": "ASU90IG05J0MO0R00",
-    "merchant_offers": [
-      {
-        "merchant": "unieuro",
-        "merchant_name": "Unieuro",
-        "merchant_id": "10139",
-        "product_id": "ASU90IG05J0MO0R00",
-        "awin_product_id": "43435184266",
-        "title": "ASUS USB-BT500 Bluetooth 3 Mbit/s",
-        "brand": "Asus",
-        "mpn": "90IG05J0-MO0R00",
-        "ean": "4718017476799",
-        "price": 6.72,
-        "old_price": 19.0,
-        "discount": 64.6,
-        "image": "https://www.unieuro.it/medias/sys_master/root/hf4/hc5/50830000717854/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-a6efcdfc6e245c7ec7b26770457726ed-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-        "url": "https://www.awin1.com/pclick.php?p=43435184266&a=3086723&m=10139",
-        "category": "Chiavette wireless",
-        "category_path": "",
-        "last_updated": ""
-      }
-    ],
-    "merchant_match_score": 100,
-    "merchant_ean": "4718017476799",
     "merchant_prices_checked_at": "2026-09-23T00:29:34.361192+02:00"
   }
 ]
