@@ -1,5 +1,20 @@
 [
   {
+    "asin": "B0GQCH1SVS",
+    "title": "TP-Link RE715X Ripetitore Wi-Fi 6 AX3000Mbps Dual-Band, Porta Gigabit",
+    "price": 69.99,
+    "old_price": 91.99,
+    "discount": 24.0,
+    "image": "https://m.media-amazon.com/images/I/41Hh2itxeTL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0GQCH1SVS?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "rete_wifi",
+    "macro_group": "tech",
+    "seasonal_title": "",
+    "published_at": "2026-09-23T13:42:47.726655+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": ""
+  },
+  {
     "asin": "B0FGKCT4CG",
     "title": "Tavernello Classico Vino Rosso d'Italia, Vino Equilibrato e Profumato, 11.5% Vol, Bag in Box da 3 L",
     "price": 4.99,
@@ -1507,44 +1522,5 @@
     "published_at": "2026-09-23T07:18:44.178050+02:00",
     "source_merchant": "amazon",
     "source_external_id": ""
-  },
-  {
-    "asin": "B0C4YNQMFF",
-    "title": "Casio FX-991 CW (Modello 2024) Calcolatrice Scientifica, 540 Funzioni e e Display Naturale",
-    "price": 24.82,
-    "old_price": 34.99,
-    "discount": 29.0,
-    "image": "https://m.media-amazon.com/images/I/41vrDoUxZCL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0C4YNQMFF?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "scuola",
-    "macro_group": "tempo_libero",
-    "seasonal_title": "",
-    "published_at": "2026-09-23T07:18:35.078022+02:00",
-    "source_merchant": "amazon",
-    "source_external_id": "",
-    "merchant_offers": [
-      {
-        "merchant": "unieuro",
-        "merchant_name": "Unieuro",
-        "merchant_id": "10139",
-        "product_id": "CAOFX991CW",
-        "awin_product_id": "35958542128",
-        "title": "Casio FX-991CW calcolatrice Tasca Calcolatrice scientifica Nero",
-        "brand": "Casio",
-        "mpn": "FX-991CW",
-        "ean": "4549526617881",
-        "price": 24.82,
-        "old_price": 34.99,
-        "discount": 29.1,
-        "image": "https://www.unieuro.it/medias/sys_master/root/he6/h32/50581264826398/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-88149c1ca81668ed680e292f206a9e80-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-        "url": "https://www.awin1.com/pclick.php?p=35958542128&a=3086723&m=10139",
-        "category": "Calcolatrici",
-        "category_path": "",
-        "last_updated": ""
-      }
-    ],
-    "merchant_match_score": 100,
-    "merchant_ean": "4549526617881",
-    "merchant_prices_checked_at": "2026-09-23T07:18:30.235474+02:00"
   }
 ]
