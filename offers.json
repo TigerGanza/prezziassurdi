@@ -1,5 +1,44 @@
 [
   {
+    "asin": "B0CQ2HF1S5",
+    "title": "HP OfficeJet Pro 8122e 405U3B, Stampante Multifunzione a Getto d'Inchiostro A4 a Colori, Fronte e Retro Automatico, 20 ppm, Wi-Fi, Smart, 3 Mesi di Inchiostro Instant Ink Inclusi, Grigia",
+    "price": 109.0,
+    "old_price": 159.9,
+    "discount": 32.0,
+    "image": "https://m.media-amazon.com/images/I/31913hZkVUL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0CQ2HF1S5?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "ufficio",
+    "macro_group": "tempo_libero",
+    "seasonal_title": "",
+    "published_at": "2026-09-23T16:26:36.987136+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "merchant_offers": [
+      {
+        "merchant": "unieuro",
+        "merchant_name": "Unieuro",
+        "merchant_id": "10139",
+        "product_id": "HEWOJPRO8122E",
+        "awin_product_id": "38045402285",
+        "title": "HP OfficeJet Pro 8122e Wireless All-in-One Colore Stampante, Instant Ink; Stampa fronte/retro",
+        "brand": "HP",
+        "mpn": "405U3B",
+        "ean": "0196337163874",
+        "price": 109.0,
+        "old_price": 159.99,
+        "discount": 31.9,
+        "image": "https://www.unieuro.it/medias/sys_master/root/he5/h52/50072738234398/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-6fc3134a2b69a997e808e59053aa6156-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
+        "url": "https://www.awin1.com/pclick.php?p=38045402285&a=3086723&m=10139",
+        "category": "Multifunzione Inkjet",
+        "category_path": "",
+        "last_updated": ""
+      }
+    ],
+    "merchant_match_score": 100,
+    "merchant_ean": "0196337163874",
+    "merchant_prices_checked_at": "2026-09-23T16:26:33.832323+02:00"
+  },
+  {
     "asin": "B0H3NV7VMT",
     "title": "Muvano Pulitore a Vapore Portatile, Istantaneo da 10s, Pulitore a Vapore Multiuso Pressurizzato da 450ml, con 11 Accessori, Pulitore Multiuso per Cucina, Bagno, Piastrelle",
     "price": 54.14,
@@ -1524,21 +1563,6 @@
     "macro_group": "casa_cucina",
     "seasonal_title": "",
     "published_at": "2026-09-23T11:16:33.043448+02:00",
-    "source_merchant": "amazon",
-    "source_external_id": ""
-  },
-  {
-    "asin": "B07YBJ2XC4",
-    "title": "T-shirt Levi's Kids Boys Batwing",
-    "price": 12.79,
-    "old_price": 20.0,
-    "discount": 36.0,
-    "image": "https://m.media-amazon.com/images/I/31qz+YbgecL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B07YBJ2XC4?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "moda_bambino",
-    "macro_group": "tempo_libero",
-    "seasonal_title": "",
-    "published_at": "2026-09-23T11:14:38.708561+02:00",
     "source_merchant": "amazon",
     "source_external_id": ""
   }
