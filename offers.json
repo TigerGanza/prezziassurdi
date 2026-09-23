@@ -1,5 +1,20 @@
 [
   {
+    "asin": "B002TQOIZQ",
+    "title": "Post-it Foglietti Adesivi, 12 Blocchetti + 12 GRATIS (2400 Fogli), 76x76 mm",
+    "price": 18.99,
+    "old_price": 26.99,
+    "discount": 30.0,
+    "image": "https://m.media-amazon.com/images/I/31OAxxJcTPL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B002TQOIZQ?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "ufficio",
+    "macro_group": "tempo_libero",
+    "seasonal_title": "",
+    "published_at": "2026-09-23T12:18:32.783236+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": ""
+  },
+  {
     "asin": "B0GD7K5NSF",
     "title": "King C. Gillette Rasoio Elettrico Barba Pro Max con Accessori",
     "price": 54.99,
@@ -1646,73 +1661,5 @@
     "merchant_match_score": 100,
     "merchant_ean": "8052679550128",
     "merchant_prices_checked_at": "2026-09-23T02:29:39.406265+02:00"
-  },
-  {
-    "asin": "W5C00A13B9",
-    "title": "Samsung Music Frame Speaker HW-LS60D/ZF, Wireless Music Streaming, Dolby Atmos 3D, Frame Design con sfondo personalizzabile, Wide Sweet Spot, 2024",
-    "price": 179.0,
-    "old_price": 499.9,
-    "discount": 64.2,
-    "image": "https://www.unieuro.it/medias/sys_master/root/h04/hb2/50510395867166/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-0caeeaf47358d4a3ac1637bfb0a08b66-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-    "url": "https://www.awin1.com/pclick.php?p=43152280250&a=3086723&m=10139",
-    "category": "tv-audio",
-    "macro_group": "awin_discovery",
-    "seasonal_title": "Offerta Unieuro",
-    "published_at": "2026-09-23T00:29:39.513511+02:00",
-    "source_merchant": "unieuro",
-    "source_external_id": "SAMHWLS60DZF",
-    "merchant_offers": [
-      {
-        "merchant": "unieuro",
-        "merchant_name": "Unieuro",
-        "merchant_id": "10139",
-        "product_id": "SAMHWLS60DZF",
-        "awin_product_id": "43152280250",
-        "title": "Samsung Music Frame Speaker HW-LS60D/ZF, Wireless Music Streaming, Dolby Atmos 3D, Frame Design con sfondo personalizzabile, Wide Sweet Spot, 2024",
-        "brand": "Samsung",
-        "mpn": "SAMHW-LS60D/ZF",
-        "ean": "8806095465173",
-        "price": 179.0,
-        "old_price": 499.9,
-        "discount": 64.2,
-        "image": "https://www.unieuro.it/medias/sys_master/root/h04/hb2/50510395867166/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-0caeeaf47358d4a3ac1637bfb0a08b66-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-        "url": "https://www.awin1.com/pclick.php?p=43152280250&a=3086723&m=10139",
-        "category": "Soundbar",
-        "category_path": "",
-        "last_updated": ""
-      },
-      {
-        "merchant": "mediaworld",
-        "merchant_name": "MediaWorld",
-        "merchant_id": "18529",
-        "product_id": "366112",
-        "awin_product_id": "44730339148",
-        "title": "SPEAKER SAMSUNG Music Frame 2.0 canali, Potenza Max 120 W, Cassa wireless, Black",
-        "brand": "Samsung",
-        "mpn": "HW-LS60D/ZF",
-        "ean": "8806095465173",
-        "price": 183.99,
-        "old_price": null,
-        "discount": null,
-        "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_154160438/fee_786_587_png",
-        "url": "https://www.awin1.com/pclick.php?p=44730339148&a=3086723&m=18529",
-        "category": "TV e Home Cinema;Home Cinema;Soundbar",
-        "category_path": "",
-        "last_updated": ""
-      },
-      {
-        "merchant": "amazon",
-        "merchant_name": "Amazon",
-        "price": 179.0,
-        "old_price": null,
-        "discount": null,
-        "url": "https://www.amazon.it/dp/B0CXY22YM4?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-        "title": "Samsung Speaker Music Frame HW-LS60D/ZF, 6 Speaker, Wireless, Audio 3D con Dolby Atmos, Q-Simphony, SpaceFit Sound Pro, Compatibile con Alexa e Google Assistant, Personalizzabile",
-        "image": "https://m.media-amazon.com/images/I/31jKChCWLcL._SL500_.jpg"
-      }
-    ],
-    "merchant_match_score": 100,
-    "merchant_ean": "8806095465173",
-    "merchant_prices_checked_at": "2026-09-23T00:29:34.361192+02:00"
   }
 ]
