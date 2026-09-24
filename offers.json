@@ -1,5 +1,44 @@
 [
   {
+    "asin": "B0CF58PC87",
+    "title": "Krups NESCAFÉ DOLCE GUSTO PICCOLO XS by bianco macchina per capsule di caffè manuale",
+    "price": 56.6,
+    "old_price": 69.0,
+    "discount": 18.0,
+    "image": "https://m.media-amazon.com/images/I/41K55w4FBVL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0CF58PC87?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "caffe_capsule",
+    "macro_group": "casa_cucina",
+    "seasonal_title": "",
+    "published_at": "2026-09-24T09:36:00.143607+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "merchant_offers": [
+      {
+        "merchant": "unieuro",
+        "merchant_name": "Unieuro",
+        "merchant_id": "10139",
+        "product_id": "KRUKP8501",
+        "awin_product_id": "46005750412",
+        "title": "Krups NESCAFÉ DOLCE GUSTO NESCAFÉ® DOLCE GUSTO® NEO Latte - Macchina da Caffè e altre bevande - Per capsule compostabili e bustine a base carta - Bianco",
+        "brand": "Krups",
+        "mpn": "KP8501",
+        "ean": "3045380024489",
+        "price": 79.99,
+        "old_price": 119.99,
+        "discount": 33.3,
+        "image": "https://www.unieuro.it/medias/sys_master/root/hc6/h99/65077688401950/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-ce1eed94125bba83918352db5e0d4281-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
+        "url": "https://www.awin1.com/pclick.php?p=46005750412&a=3086723&m=10139",
+        "category": "Macchine caffè",
+        "category_path": "",
+        "last_updated": ""
+      }
+    ],
+    "merchant_match_score": 94,
+    "merchant_ean": "3045380024489",
+    "merchant_prices_checked_at": "2026-09-24T09:35:58.064537+02:00"
+  },
+  {
     "asin": "B086XRQ73N",
     "title": "Pringles Paprika Snack Salato al Gusto Paprika 175g",
     "price": 1.69,
@@ -1817,21 +1856,6 @@
     "macro_group": "tech",
     "seasonal_title": "",
     "published_at": "2026-09-23T22:00:34.516725+02:00",
-    "source_merchant": "amazon",
-    "source_external_id": ""
-  },
-  {
-    "asin": "B0GGRY9J2V",
-    "title": "Candy RapidÓ Asciugatrice 8 Kg a Pompa di Calore Inverter, Wi-Fi + App hOn, EasyCase, Cicli Rapidi, Funzione Kilo Detector, Classe C, 85 x 59.6 x 61.1 cm (AxLxP), Libera Installazione, RO EH8N3TE-S",
-    "price": 399.0,
-    "old_price": 549.99,
-    "discount": 27.0,
-    "image": "https://m.media-amazon.com/images/I/41NPK1furLL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0GGRY9J2V?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "lavaggio_stiro",
-    "macro_group": "casa_cucina",
-    "seasonal_title": "",
-    "published_at": "2026-09-23T21:56:34.048260+02:00",
     "source_merchant": "amazon",
     "source_external_id": ""
   }
