@@ -1,5 +1,35 @@
 [
   {
+    "asin": "B00DUUNI9C",
+    "title": "Hansaplast Cerotti UNIVERSAL, Cerotti impermeabili con elevato potere adesivo, Cerotti traspiranti per tutti i tipi di ferite, 1 confezione da 20 pezzi in 4 formati",
+    "price": 1.99,
+    "old_price": 2.99,
+    "discount": 33.0,
+    "image": "https://m.media-amazon.com/images/I/41g28aEYwEL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B00DUUNI9C?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "salute",
+    "macro_group": "cura_persona",
+    "seasonal_title": "",
+    "published_at": "2026-09-24T14:56:00.848731+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": ""
+  },
+  {
+    "asin": "B0D6LDQYGW",
+    "title": "Barilla Sugo Ragù alla Bolognese, Sugo Pronto, Confezione da, 300g",
+    "price": 1.99,
+    "old_price": 2.75,
+    "discount": 28.0,
+    "image": "https://m.media-amazon.com/images/I/411PBgS0CQL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0D6LDQYGW?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "alimentari",
+    "macro_group": "spesa_bevande",
+    "seasonal_title": "",
+    "published_at": "2026-09-24T14:52:57.751497+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": ""
+  },
+  {
     "asin": "B007CSTBQC",
     "title": "Remington Ferro Arricciacapelli - Per boccoli definiti 19 mm- Rivestimento antistatico in ceramica e tormalina, nero-crema, Arricciacapelli Pro Spiral Curl CI5319",
     "price": 22.99,
@@ -1779,59 +1809,5 @@
     "published_at": "2026-09-24T09:52:07.038828+02:00",
     "source_merchant": "amazon",
     "source_external_id": ""
-  },
-  {
-    "asin": "B077PVL62D",
-    "title": "Klarstein Maischfest Fermentatore - Tino di Fermentazione, Apparecchio per Birra, Contenitore di Fermentazione, 30 L, Rubinetto di Scarico, Acciaio Inox, Argento",
-    "price": 113.09,
-    "old_price": 154.99,
-    "discount": 27.0,
-    "image": "https://m.media-amazon.com/images/I/41MbMQea2NL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B077PVL62D?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "birre",
-    "macro_group": "spesa_bevande",
-    "seasonal_title": "",
-    "published_at": "2026-09-24T09:52:01.167314+02:00",
-    "source_merchant": "amazon",
-    "source_external_id": ""
-  },
-  {
-    "asin": "B0CF58PC87",
-    "title": "Krups NESCAFÉ DOLCE GUSTO PICCOLO XS by bianco macchina per capsule di caffè manuale",
-    "price": 56.6,
-    "old_price": 69.0,
-    "discount": 18.0,
-    "image": "https://m.media-amazon.com/images/I/41K55w4FBVL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0CF58PC87?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "caffe_capsule",
-    "macro_group": "casa_cucina",
-    "seasonal_title": "",
-    "published_at": "2026-09-24T09:36:00.143607+02:00",
-    "source_merchant": "amazon",
-    "source_external_id": "",
-    "merchant_offers": [
-      {
-        "merchant": "unieuro",
-        "merchant_name": "Unieuro",
-        "merchant_id": "10139",
-        "product_id": "KRUKP8501",
-        "awin_product_id": "46005750412",
-        "title": "Krups NESCAFÉ DOLCE GUSTO NESCAFÉ® DOLCE GUSTO® NEO Latte - Macchina da Caffè e altre bevande - Per capsule compostabili e bustine a base carta - Bianco",
-        "brand": "Krups",
-        "mpn": "KP8501",
-        "ean": "3045380024489",
-        "price": 79.99,
-        "old_price": 119.99,
-        "discount": 33.3,
-        "image": "https://www.unieuro.it/medias/sys_master/root/hc6/h99/65077688401950/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-ce1eed94125bba83918352db5e0d4281-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-        "url": "https://www.awin1.com/pclick.php?p=46005750412&a=3086723&m=10139",
-        "category": "Macchine caffè",
-        "category_path": "",
-        "last_updated": ""
-      }
-    ],
-    "merchant_match_score": 94,
-    "merchant_ean": "3045380024489",
-    "merchant_prices_checked_at": "2026-09-24T09:35:58.064537+02:00"
   }
 ]
