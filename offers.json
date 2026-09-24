@@ -1,5 +1,44 @@
 [
   {
+    "asin": "WAAD9B7B06",
+    "title": "CELLY Cuffie stereo wireless CUFFIE WIRELESS, Bianco",
+    "price": 13.99,
+    "old_price": 19.99,
+    "discount": 30.0,
+    "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_157480077/fee_786_587_png",
+    "url": "https://www.awin1.com/pclick.php?p=41795328957&a=3086723&m=18529",
+    "category": "tv-audio",
+    "macro_group": "awin_discovery",
+    "seasonal_title": "Offerta MediaWorld",
+    "published_at": "2026-09-24T07:29:34.953880+02:00",
+    "source_merchant": "mediaworld",
+    "source_external_id": "426534",
+    "merchant_offers": [
+      {
+        "merchant": "mediaworld",
+        "merchant_name": "MediaWorld",
+        "merchant_id": "18529",
+        "product_id": "426534",
+        "awin_product_id": "41795328957",
+        "title": "CELLY Cuffie stereo wireless CUFFIE WIRELESS, Bianco",
+        "brand": "Celly",
+        "mpn": "ARCHBEATWH",
+        "ean": "8021735211679",
+        "price": 13.99,
+        "old_price": 19.99,
+        "discount": 30.0,
+        "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_157480077/fee_786_587_png",
+        "url": "https://www.awin1.com/pclick.php?p=41795328957&a=3086723&m=18529",
+        "category": "Telefonia;Accessori Smartphone;Auricolari e Vivavoce",
+        "category_path": "",
+        "last_updated": ""
+      }
+    ],
+    "merchant_match_score": 100,
+    "merchant_ean": "8021735211679",
+    "merchant_prices_checked_at": "2026-09-24T07:29:25.164268+02:00"
+  },
+  {
     "asin": "B0BLNWFZ7Z",
     "title": "Pril Gel All in One Sciogli Grasso Detersivo Lavastoviglie Liquido Multi-Azione Sporco Difficile, Confezione da 35 lavaggi",
     "price": 4.27,
@@ -1726,21 +1765,6 @@
     "macro_group": "cura_persona",
     "seasonal_title": "",
     "published_at": "2026-09-23T19:30:36.369001+02:00",
-    "source_merchant": "amazon",
-    "source_external_id": ""
-  },
-  {
-    "asin": "B00ZM0KDS2",
-    "title": "Huggies Extra Care Neonato, 28 Pannolini, Taglia 1 (2-5Kg)",
-    "price": 4.69,
-    "old_price": 6.69,
-    "discount": 30.0,
-    "image": "https://m.media-amazon.com/images/I/51CpzYivPDL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B00ZM0KDS2?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "bambini_completo",
-    "macro_group": "famiglia_animali",
-    "seasonal_title": "",
-    "published_at": "2026-09-23T19:26:38.789621+02:00",
     "source_merchant": "amazon",
     "source_external_id": ""
   }
