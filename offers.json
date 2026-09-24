@@ -1,5 +1,35 @@
 [
   {
+    "asin": "B08X2FGPWK",
+    "title": "Peroni Nastro Azzurro 0.0 Birra Analcolica Lager, Gusto Secco, 24x33cl",
+    "price": 17.04,
+    "old_price": 23.92,
+    "discount": 29.0,
+    "image": "https://m.media-amazon.com/images/I/41Llv9IyY+L._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B08X2FGPWK?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "birre",
+    "macro_group": "spesa_bevande",
+    "seasonal_title": "",
+    "published_at": "2026-09-24T12:54:12.170306+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": ""
+  },
+  {
+    "asin": "B00CWNMR5Y",
+    "title": "Amazon Basics Confezione da 4 batterie AA NiMH ricaricabili, 2000 mAh, 1,2 V, ricaricabili fino a 1000 volte, precaricate",
+    "price": 6.18,
+    "old_price": 9.87,
+    "discount": 37.0,
+    "image": "https://m.media-amazon.com/images/I/41rTNsiLtpL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B00CWNMR5Y?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "energia_ricarica",
+    "macro_group": "tech",
+    "seasonal_title": "",
+    "published_at": "2026-09-24T12:54:02.831470+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": ""
+  },
+  {
     "asin": "B07SM8XP6Z",
     "title": "Toshiba MW2-MG20P(BK) 3-in-1 Forno Microonde Grill Combinato, 20 L, 5 Livelli di Potenza Regolabili, Timer, 800 W, Grill 1000 W, Nero",
     "price": 81.9,
@@ -1777,36 +1807,6 @@
     "macro_group": "cura_persona",
     "seasonal_title": "",
     "published_at": "2026-09-24T06:24:31.894438+02:00",
-    "source_merchant": "amazon",
-    "source_external_id": ""
-  },
-  {
-    "asin": "B0012ML1F8",
-    "title": "Barilla Pesto alla Calabrese, Sugo Pronto con Peperoni Rossi, 190 g",
-    "price": 1.49,
-    "old_price": 2.34,
-    "discount": 36.0,
-    "image": "https://m.media-amazon.com/images/I/41LP21KV6iL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0012ML1F8?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "cibo",
-    "macro_group": "spesa_bevande",
-    "seasonal_title": "",
-    "published_at": "2026-09-24T06:12:33.926695+02:00",
-    "source_merchant": "amazon",
-    "source_external_id": ""
-  },
-  {
-    "asin": "B077GWFZGQ",
-    "title": "Barilla Pesto al Basilico 100% Vegetale, Senza Aglio, 195 g",
-    "price": 1.49,
-    "old_price": 2.84,
-    "discount": 48.0,
-    "image": "https://m.media-amazon.com/images/I/41ksgkIQdvL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B077GWFZGQ?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "cibo",
-    "macro_group": "spesa_bevande",
-    "seasonal_title": "",
-    "published_at": "2026-09-24T06:12:33.910157+02:00",
     "source_merchant": "amazon",
     "source_external_id": ""
   }
