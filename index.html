@@ -2337,6 +2337,7 @@ body{background:var(--pa-v5-bg)!important}
 .pa-live-store{background:#fff;border:1px solid #e5e7eb;border-radius:999px;padding:6px 10px;display:inline-flex;align-items:center;gap:6px;font-size:10px;font-weight:900;opacity:.45;animation:paStorePulse 1.5s ease-in-out infinite}
 .pa-live-store:nth-child(2){animation-delay:.25s}.pa-live-store:nth-child(3){animation-delay:.5s}
 .pa-live-store img{max-width:72px;max-height:18px;object-fit:contain}
+.pa-image-fallback{display:grid;place-items:center;width:100%;height:100%;font-size:42px;color:#111}
 .pa-live-dots::after{content:"";animation:paDots 1.2s steps(4,end) infinite}
 @keyframes paSpin{to{transform:rotate(360deg)}}
 @keyframes paStorePulse{0%,100%{opacity:.35;transform:scale(.97)}50%{opacity:1;transform:scale(1.03)}}
@@ -2352,7 +2353,7 @@ body{background:var(--pa-v5-bg)!important}
 <header class="pa-v5-header">
   <div class="container header-inner pa-v5-header-inner">
     <a class="brand pa-v5-brand" href="/" aria-label="Prezzi Assurdi - Home">
-      <img class="site-logo pa-v5-logo" src="/logo-prezzi-assurdi.png" alt="Prezzi Assurdi">
+      <img referrerpolicy="no-referrer" class="site-logo pa-v5-logo" src="/logo-prezzi-assurdi.png" alt="Prezzi Assurdi">
     </a>
 
     <form class="pa-v5-header-search" onsubmit="return paHeaderSearch(event)">
@@ -2417,7 +2418,7 @@ body{background:var(--pa-v5-bg)!important}
     <div class="hero-grid">
       <div class="hero-main">
         <div class="hero-brand-stamp">
-          <img src="logo-prezzi-assurdi.png" alt="" aria-hidden="true">
+          <img referrerpolicy="no-referrer" src="logo-prezzi-assurdi.png" alt="" aria-hidden="true">
         </div>
         <div class="eyebrow">AMAZON · UNIEURO · MEDIAWORLD</div>
 
@@ -2442,9 +2443,9 @@ body{background:var(--pa-v5-bg)!important}
           <!-- PA_HOME_SEARCH_STORES_V1450 -->
           <div class="pa-compare-stores" aria-label="Negozi confrontati">
             <span class="pa-compare-stores-label">Confronta i prezzi disponibili su</span>
-            <span class="pa-store-logo"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon"></span>
-            <span class="pa-store-logo"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Unieuro_Logo_2015.png" alt="Unieuro"></span>
-            <span class="pa-store-logo"><img src="https://cms-images.mmst.eu/hzxov1nxpus5/FeeaTPsFbPj8u1cfFmnrk/45e5d9ec059d12513e93c348d9b9e0cb/MW_logo_red.svg?q=80" alt="MediaWorld"></span>
+            <span class="pa-store-logo"><img referrerpolicy="no-referrer" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon"></span>
+            <span class="pa-store-logo"><img referrerpolicy="no-referrer" src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Unieuro_Logo_2015.png" alt="Unieuro"></span>
+            <span class="pa-store-logo"><img referrerpolicy="no-referrer" src="https://cms-images.mmst.eu/hzxov1nxpus5/FeeaTPsFbPj8u1cfFmnrk/45e5d9ec059d12513e93c348d9b9e0cb/MW_logo_red.svg?q=80" alt="MediaWorld"></span>
           </div>
 
           <div class="quick-label">Categorie popolari</div>
@@ -2592,6 +2593,30 @@ body{background:var(--pa-v5-bg)!important}
       <div id="latest" class="grid">
 <!-- PA_HOME_LATEST_START -->
 <article class="card">
+<span class="badge hot">🔥 HOT</span>
+<span class="pa-discount-percent"><small>SCONTO</small>-29%</span>
+<div class="photo"><a href="https://www.amazon.it/dp/B0BLNWFZ7Z?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener" aria-label="Apri l'offerta Pril Gel All in One Sciogli Grasso Detersivo Lavastoviglie Liquido Multi Azione Sporco…"><img src="https://m.media-amazon.com/images/I/41FPGyX7nFL._SL500_.jpg" alt="Pril Gel All in One Sciogli Grasso Detersivo Lavastoviglie Liquido Multi Azione Sporco…" loading="lazy"></a></div>
+<div class="category" aria-label="Negozio"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="height:17px;max-width:92px;object-fit:contain;display:block" loading="lazy" referrerpolicy="no-referrer"></div>
+<h3><a href="https://www.amazon.it/dp/B0BLNWFZ7Z?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Pril Gel All in One Sciogli Grasso Detersivo Lavastoviglie Liquido Multi Azione Sporco…</a></h3>
+<div class="prices"><span class="price">4,27 €</span><span class="old">5,99 €</span></div>
+<div class="discount">Risparmi 1,72 €</div>
+<div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="Amazon" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
+<a class="buy" href="https://www.amazon.it/dp/B0BLNWFZ7Z?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI L'OFFERTA</a>
+<div class="meta">Pubblicata 8 min fa</div>
+</article>
+<article class="card">
+<span class="badge super">⚡ PREZZO ASSURDO</span>
+<span class="pa-discount-percent"><small>SCONTO</small>-44%</span>
+<div class="photo"><a href="https://www.amazon.it/dp/B0DW4C81PY?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener" aria-label="Apri l'offerta Fairy Platinum Pastiglie Lavastoviglie Tutto in Uno, 180 Caps, Limone"><img src="https://m.media-amazon.com/images/I/51o3uVQ7XCL._SL500_.jpg" alt="Fairy Platinum Pastiglie Lavastoviglie Tutto in Uno, 180 Caps, Limone" loading="lazy"></a></div>
+<div class="category" aria-label="Negozio"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="height:17px;max-width:92px;object-fit:contain;display:block" loading="lazy" referrerpolicy="no-referrer"></div>
+<h3><a href="https://www.amazon.it/dp/B0DW4C81PY?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Fairy Platinum Pastiglie Lavastoviglie Tutto in Uno, 180 Caps, Limone</a></h3>
+<div class="prices"><span class="price">29,99 €</span><span class="old">54,00 €</span></div>
+<div class="discount">Risparmi 24,01 €</div>
+<div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="Amazon" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
+<a class="buy" href="https://www.amazon.it/dp/B0DW4C81PY?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI L'OFFERTA</a>
+<div class="meta">Pubblicata 8 min fa</div>
+</article>
+<article class="card">
 <span class="badge super">⚡ PREZZO ASSURDO</span>
 <span class="pa-discount-percent"><small>SCONTO</small>-57%</span>
 <div class="photo"><a href="https://www.amazon.it/dp/B0F1C2P82S?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener" aria-label="Apri l'offerta BOSS Bottled Beyond Eau de Parfum da Uomo"><img src="https://m.media-amazon.com/images/I/31vO64kFOFL._SL500_.jpg" alt="BOSS Bottled Beyond Eau de Parfum da Uomo" loading="lazy"></a></div>
@@ -2601,7 +2626,7 @@ body{background:var(--pa-v5-bg)!important}
 <div class="discount">Risparmi 75,23 €</div>
 <div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="Amazon" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
 <a class="buy" href="https://www.amazon.it/dp/B0F1C2P82S?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI L'OFFERTA</a>
-<div class="meta">Pubblicata 9 min fa</div>
+<div class="meta">Pubblicata 17 min fa</div>
 </article>
 <article class="card">
 <span class="badge hot">🔥 HOT</span>
@@ -2613,7 +2638,7 @@ body{background:var(--pa-v5-bg)!important}
 <div class="discount">Risparmi 1.648,00 €</div>
 <div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="Amazon" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
 <a class="buy" href="https://www.amazon.it/dp/B0GWMZ8X4W?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI L'OFFERTA</a>
-<div class="meta">Pubblicata 11 min fa</div>
+<div class="meta">Pubblicata 19 min fa</div>
 </article>
 <article class="card">
 <span class="badge hot">🔥 HOT</span>
@@ -2625,7 +2650,7 @@ body{background:var(--pa-v5-bg)!important}
 <div class="discount">Risparmi 1,20 €</div>
 <div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="Amazon" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
 <a class="buy" href="https://www.amazon.it/dp/B06Y46CR1X?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI L'OFFERTA</a>
-<div class="meta">Pubblicata 14 min fa</div>
+<div class="meta">Pubblicata 23 min fa</div>
 </article>
 <article class="card">
 <span class="badge hot">🔥 HOT</span>
@@ -2637,30 +2662,6 @@ body{background:var(--pa-v5-bg)!important}
 <div class="discount">Risparmi 0,90 €</div>
 <div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="Amazon" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
 <a class="buy" href="https://www.amazon.it/dp/B0946DX223?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI L'OFFERTA</a>
-<div class="meta">Pubblicata 14 min fa</div>
-</article>
-<article class="card">
-<span class="badge super">⚡ PREZZO ASSURDO</span>
-<span class="pa-discount-percent"><small>SCONTO</small>-40%</span>
-<div class="photo"><a href="https://www.amazon.it/dp/B01MA29FK1?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener" aria-label="Apri l'offerta Mulino Bianco Biscotti Buongrano con 100% Farina Integrale, 350 gr"><img src="https://m.media-amazon.com/images/I/510AV5UwOmL._SL500_.jpg" alt="Mulino Bianco Biscotti Buongrano con 100% Farina Integrale, 350 gr" loading="lazy"></a></div>
-<div class="category" aria-label="Negozio"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="height:17px;max-width:92px;object-fit:contain;display:block" loading="lazy" referrerpolicy="no-referrer"></div>
-<h3><a href="https://www.amazon.it/dp/B01MA29FK1?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Mulino Bianco Biscotti Buongrano con 100% Farina Integrale, 350 gr</a></h3>
-<div class="prices"><span class="price">1,24 €</span><span class="old">2,05 €</span></div>
-<div class="discount">Risparmi 0,81 €</div>
-<div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="Amazon" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
-<a class="buy" href="https://www.amazon.it/dp/B01MA29FK1?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI L'OFFERTA</a>
-<div class="meta">Pubblicata 23 min fa</div>
-</article>
-<article class="card">
-<span class="badge hot">🔥 HOT</span>
-<span class="pa-discount-percent"><small>SCONTO</small>-29%</span>
-<div class="photo"><a href="https://www.amazon.it/dp/B0C8CZMMN9?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener" aria-label="Apri l'offerta OTTO KONING Borraccia Termica 500 ml Acciaio Inox 18/8 Senza BPA"><img src="https://m.media-amazon.com/images/I/21VMIrRHZKL._SL500_.jpg" alt="OTTO KONING Borraccia Termica 500 ml Acciaio Inox 18/8 Senza BPA" loading="lazy"></a></div>
-<div class="category" aria-label="Negozio"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="height:17px;max-width:92px;object-fit:contain;display:block" loading="lazy" referrerpolicy="no-referrer"></div>
-<h3><a href="https://www.amazon.it/dp/B0C8CZMMN9?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">OTTO KONING Borraccia Termica 500 ml Acciaio Inox 18/8 Senza BPA</a></h3>
-<div class="prices"><span class="price">9,99 €</span><span class="old">13,99 €</span></div>
-<div class="discount">Risparmi 4,00 €</div>
-<div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="Amazon" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
-<a class="buy" href="https://www.amazon.it/dp/B0C8CZMMN9?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI L'OFFERTA</a>
 <div class="meta">Pubblicata 23 min fa</div>
 </article>
 <!-- PA_HOME_LATEST_END -->
@@ -3014,7 +3015,7 @@ function renderPromotions(promotions){
   }
   box.innerHTML=featured.map(p=>`
     <a class="promo-strip" href="${esc(p.url||"#")}" target="_blank" rel="nofollow sponsored noopener" style="--promo-accent:${esc(p.accent||"#111")}">
-      <img src="${esc(p.image||"")}" alt="${esc(p.title||"Promozione")}" loading="lazy">
+      <img referrerpolicy="no-referrer" src="${esc(p.image||"")}" alt="${esc(p.title||"Promozione")}" loading="lazy">
       <div class="promo-strip-copy">
         <div class="promo-strip-kicker">${esc(p.eyebrow||"PROMOZIONE")}</div>
         <h3>${esc(p.title||"Promozione")}</h3>
@@ -3214,7 +3215,7 @@ function card(p){
   const manual=Boolean(p.manual_link);
   const details=offerPageUrl(p);
   const visual=p.image
-    ? `<img src="${esc(p.image)}" alt="${esc(p.title)}" loading="lazy">`
+    ? `<img referrerpolicy="no-referrer" src="${esc(p.image)}" alt="${esc(p.title)}" loading="lazy">`
     : `<div style="font-size:44px">🛒</div>`;
   return `
     <article class="card">
@@ -3360,7 +3361,7 @@ function renderHero(){
     <div class="hero-deal-grid">
       <a class="deal-image hero-image-link" href="${esc(offerPageUrl(best)||best.url||"#")}" ${offerPageUrl(best)?"":'target="_blank" rel="nofollow sponsored noopener"'}>
         ${best.image
-          ? `<img src="${esc(best.image)}" alt="${esc(best.title)}">`
+          ? `<img referrerpolicy="no-referrer" src="${esc(best.image)}" alt="${esc(best.title)}">`
           : `<div style="font-size:70px">🛒</div>`}
       </a>
 
@@ -3535,6 +3536,18 @@ document.addEventListener("visibilitychange",()=>{
 
 <!-- PA_HOME_ANALYTICS_END --><!-- PA_HOME_V5_JS_START -->
 <script id="pa-home-v5-js">
+document.addEventListener('error',function(event){
+  const img=event.target;
+  if(!(img instanceof HTMLImageElement)||img.dataset.paBrokenHandled)return;
+  img.dataset.paBrokenHandled='1';
+  const holder=img.closest('.photo,.deal-image,.quick-photo,.top-choice-photo,.pa-search-photo,.cmp-photo');
+  if(!holder)return;
+  img.remove();
+  const fallback=document.createElement('span');
+  fallback.className='pa-image-fallback';
+  fallback.textContent='🛒';
+  holder.appendChild(fallback);
+},true);
 function paHeaderSearch(event){
   if(event)event.preventDefault();
   const src=document.getElementById('paHeaderSearchInput');
@@ -3653,12 +3666,12 @@ document.addEventListener('DOMContentLoaded',function(){
     if(!rows.length)return '';
     const best=Number(rows[0][1]), multi=rows.length>=2, present=new Set(rows.map(r=>r[0]));
     const code=[item.b,item.n,item.e].filter(Boolean).join(' · ');
-    const photo=item.i?`<div class="pa-search-photo"><img src="${esc(item.i)}" alt="${esc(item.t||'Prodotto')}" loading="lazy"></div>`:`<div class="pa-search-icon">💶</div>`;
+    const photo=item.i?`<div class="pa-search-photo"><img src="${esc(item.i)}" alt="${esc(item.t||'Prodotto')}" loading="lazy" referrerpolicy="no-referrer"></div>`:`<div class="pa-search-icon">💶</div>`;
     const priceRows=rows.map(row=>{
       const label=LABELS[row[0]]||'Negozio', logo=LOGOS[row[0]]||'';
       const isBest=multi && Math.abs(Number(row[1])-best)<0.005;
       const variant=row[3]?`<small class="pa-store-variant">${esc(row[3])}</small>`:'';
-      return `<div class="pa-store-price-row"><div class="pa-store-price-logo">${logo?`<img src="${esc(logo)}" alt="${esc(label)}">`:esc(label)}</div><div class="pa-store-price-wrap"><div class="pa-store-price">${euro(row[1])}</div>${variant}</div><div>${isBest?'<span class="pa-best-price">MIGLIOR PREZZO</span>':''}</div><a href="${esc(offerUrl(row))}" target="_blank" rel="nofollow sponsored noopener">Vedi →</a></div>`;
+      return `<div class="pa-store-price-row"><div class="pa-store-price-logo">${logo?`<img referrerpolicy="no-referrer" src="${esc(logo)}" alt="${esc(label)}">`:esc(label)}</div><div class="pa-store-price-wrap"><div class="pa-store-price">${euro(row[1])}</div>${variant}</div><div>${isBest?'<span class="pa-best-price">MIGLIOR PREZZO</span>':''}</div><a href="${esc(offerUrl(row))}" target="_blank" rel="nofollow sponsored noopener">Vedi →</a></div>`;
     }).join('');
     const missing=(store==='all'?[['a','Amazon'],['u','Unieuro'],['w','MediaWorld']]:[[store,storeLabel(store)]]).filter(([k])=>!present.has(k)).map(([,name])=>`<span>${esc(name)}: prezzo non rilevato</span>`).join('');
     return `<article class="pa-search-product"><div class="pa-search-title">${photo}<div><h3>${esc(item.t||'Prodotto')}</h3>${code?`<div class="pa-search-code">${esc(code)}</div>`:''}</div></div>${priceRows}${missing?`<div class="pa-missing-stores">${missing}</div>`:''}</article>`;
@@ -3696,7 +3709,7 @@ document.addEventListener('DOMContentLoaded',function(){
     const stores=store==='all'?['a','u','w']:[store];
     const pills=stores.map(key=>{
       const logo=LOGOS[key]||'', label=LABELS[key]||storeLabel(key);
-      return `<span class="pa-live-store">${logo?`<img src="${esc(logo)}" alt="${esc(label)}">`:esc(label)}</span>`;
+      return `<span class="pa-live-store">${logo?`<img referrerpolicy="no-referrer" src="${esc(logo)}" alt="${esc(label)}">`:esc(label)}</span>`;
     }).join('');
     return `<div class="pa-search-loading pa-live-loader" role="status" aria-live="polite"><div class="pa-live-spinner" aria-hidden="true"></div><div class="pa-live-title">Ricerca live su ${esc(scope)}<span class="pa-live-dots"></span></div><div class="pa-live-stores">${pills}</div><div id="paLiveProgress" class="pa-live-subtitle">Interrogo Amazon, Unieuro e MediaWorld…</div></div>`;
   }
