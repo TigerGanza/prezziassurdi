@@ -2329,6 +2329,19 @@ body{background:var(--pa-v5-bg)!important}
 .pa-search-footer a{color:#111;background:#ffd83d;text-decoration:none;border-radius:999px;padding:9px 13px;font-weight:950}
 .pa-search-empty,.pa-search-loading{padding:22px;text-align:center;background:#fff;color:#111;border-radius:14px}
 .pa-search-empty b,.pa-search-loading b{display:block;font-size:18px;margin-bottom:6px}
+.pa-live-loader{display:flex;flex-direction:column;align-items:center;gap:12px;padding:28px 16px;min-height:150px;justify-content:center}
+.pa-live-spinner{width:42px;height:42px;border:4px solid #e5e7eb;border-top-color:#ffd83d;border-right-color:#e11d2e;border-radius:50%;animation:paSpin .8s linear infinite}
+.pa-live-title{font-size:21px;font-weight:950}
+.pa-live-subtitle{font-size:13px;color:#4b5563}
+.pa-live-stores{display:flex;gap:8px;align-items:center;justify-content:center;flex-wrap:wrap}
+.pa-live-store{background:#fff;border:1px solid #e5e7eb;border-radius:999px;padding:6px 10px;display:inline-flex;align-items:center;gap:6px;font-size:10px;font-weight:900;opacity:.45;animation:paStorePulse 1.5s ease-in-out infinite}
+.pa-live-store:nth-child(2){animation-delay:.25s}.pa-live-store:nth-child(3){animation-delay:.5s}
+.pa-live-store img{max-width:72px;max-height:18px;object-fit:contain}
+.pa-live-dots::after{content:"";animation:paDots 1.2s steps(4,end) infinite}
+@keyframes paSpin{to{transform:rotate(360deg)}}
+@keyframes paStorePulse{0%,100%{opacity:.35;transform:scale(.97)}50%{opacity:1;transform:scale(1.03)}}
+@keyframes paDots{0%{content:""}25%{content:"."}50%{content:".."}75%,100%{content:"..."}}
+@media(prefers-reduced-motion:reduce){.pa-live-spinner,.pa-live-store,.pa-live-dots::after{animation:none}}
 @media(max-width:780px){.pa-price-search-results{padding:15px;margin:13px 0 20px;border-radius:16px}.pa-price-grid{grid-template-columns:1fr}.pa-store-price-row{grid-template-columns:90px 84px 1fr auto}.pa-store-price-logo img{max-width:78px}.pa-best-price{font-size:8px}}
 @media(max-width:480px){.pa-store-price-row{grid-template-columns:78px 78px 1fr auto;gap:5px}.pa-store-price-row a{padding:7px 8px}.pa-compare-stores-label{width:100%}.pa-store-logo{min-width:72px}}
 </style>
@@ -2579,6 +2592,30 @@ body{background:var(--pa-v5-bg)!important}
       <div id="latest" class="grid">
 <!-- PA_HOME_LATEST_START -->
 <article class="card">
+<span class="badge hot">🔥 HOT</span>
+<span class="pa-discount-percent"><small>SCONTO</small>-34%</span>
+<div class="photo"><a href="https://www.amazon.it/dp/B06Y46CR1X?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener" aria-label="Apri l'offerta Hansaplast SENSITIVE Cerotti extra delicati specifici per pelli sensibili"><img src="https://m.media-amazon.com/images/I/41h25st4unL._SL500_.jpg" alt="Hansaplast SENSITIVE Cerotti extra delicati specifici per pelli sensibili" loading="lazy"></a></div>
+<div class="category" aria-label="Negozio"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="height:17px;max-width:92px;object-fit:contain;display:block" loading="lazy" referrerpolicy="no-referrer"></div>
+<h3><a href="https://www.amazon.it/dp/B06Y46CR1X?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Hansaplast SENSITIVE Cerotti extra delicati specifici per pelli sensibili</a></h3>
+<div class="prices"><span class="price">2,29 €</span><span class="old">3,49 €</span></div>
+<div class="discount">Risparmi 1,20 €</div>
+<div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="Amazon" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
+<a class="buy" href="https://www.amazon.it/dp/B06Y46CR1X?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI L'OFFERTA</a>
+<div class="meta">Pubblicata 5 min fa</div>
+</article>
+<article class="card">
+<span class="badge hot">🔥 HOT</span>
+<span class="pa-discount-percent"><small>SCONTO</small>-39%</span>
+<div class="photo"><a href="https://www.amazon.it/dp/B0946DX223?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener" aria-label="Apri l'offerta Hansaplast Cerotti UNIVERSAL, Cerotti impermeabili con elevato potere adesivo"><img src="https://m.media-amazon.com/images/I/31UETPoCtmL._SL500_.jpg" alt="Hansaplast Cerotti UNIVERSAL, Cerotti impermeabili con elevato potere adesivo" loading="lazy"></a></div>
+<div class="category" aria-label="Negozio"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="height:17px;max-width:92px;object-fit:contain;display:block" loading="lazy" referrerpolicy="no-referrer"></div>
+<h3><a href="https://www.amazon.it/dp/B0946DX223?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Hansaplast Cerotti UNIVERSAL, Cerotti impermeabili con elevato potere adesivo</a></h3>
+<div class="prices"><span class="price">1,39 €</span><span class="old">2,29 €</span></div>
+<div class="discount">Risparmi 0,90 €</div>
+<div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="Amazon" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
+<a class="buy" href="https://www.amazon.it/dp/B0946DX223?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI L'OFFERTA</a>
+<div class="meta">Pubblicata 5 min fa</div>
+</article>
+<article class="card">
 <span class="badge super">⚡ PREZZO ASSURDO</span>
 <span class="pa-discount-percent"><small>SCONTO</small>-40%</span>
 <div class="photo"><a href="https://www.amazon.it/dp/B01MA29FK1?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener" aria-label="Apri l'offerta Mulino Bianco Biscotti Buongrano con 100% Farina Integrale, 350 gr"><img src="https://m.media-amazon.com/images/I/510AV5UwOmL._SL500_.jpg" alt="Mulino Bianco Biscotti Buongrano con 100% Farina Integrale, 350 gr" loading="lazy"></a></div>
@@ -2588,7 +2625,7 @@ body{background:var(--pa-v5-bg)!important}
 <div class="discount">Risparmi 0,81 €</div>
 <div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="Amazon" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
 <a class="buy" href="https://www.amazon.it/dp/B01MA29FK1?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI L'OFFERTA</a>
-<div class="meta">Pubblicata 5 min fa</div>
+<div class="meta">Pubblicata 13 min fa</div>
 </article>
 <article class="card">
 <span class="badge hot">🔥 HOT</span>
@@ -2600,7 +2637,7 @@ body{background:var(--pa-v5-bg)!important}
 <div class="discount">Risparmi 4,00 €</div>
 <div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="Amazon" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
 <a class="buy" href="https://www.amazon.it/dp/B0C8CZMMN9?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI L'OFFERTA</a>
-<div class="meta">Pubblicata 5 min fa</div>
+<div class="meta">Pubblicata 13 min fa</div>
 </article>
 <article class="card">
 <span class="badge hot">🔥 HOT</span>
@@ -2612,7 +2649,7 @@ body{background:var(--pa-v5-bg)!important}
 <div class="discount">Risparmi 5,71 €</div>
 <div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="Amazon" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
 <a class="buy" href="https://www.amazon.it/dp/B0CQR5JLXL?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI L'OFFERTA</a>
-<div class="meta">Pubblicata 7 min fa</div>
+<div class="meta">Pubblicata 15 min fa</div>
 </article>
 <article class="card">
 <span class="badge hot">🔥 HOT</span>
@@ -2624,31 +2661,7 @@ body{background:var(--pa-v5-bg)!important}
 <div class="discount">Risparmi 14,85 €</div>
 <div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="Amazon" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
 <a class="buy" href="https://www.amazon.it/dp/B0GXVLC1CX?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI L'OFFERTA</a>
-<div class="meta">Pubblicata 15 min fa</div>
-</article>
-<article class="card">
-<span class="badge super">⚡ PREZZO ASSURDO</span>
-<span class="pa-discount-percent"><small>SCONTO</small>-55%</span>
-<div class="photo"><a href="https://www.amazon.it/dp/B0FZJW6QRX?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener" aria-label="Apri l'offerta MAXGROOM Rasoio Elettrico Donna per Parti Intime 3 in 1, Bianco"><img src="https://m.media-amazon.com/images/I/41v8TGTrRXL._SL500_.jpg" alt="MAXGROOM Rasoio Elettrico Donna per Parti Intime 3 in 1, Bianco" loading="lazy"></a></div>
-<div class="category" aria-label="Negozio"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="height:17px;max-width:92px;object-fit:contain;display:block" loading="lazy" referrerpolicy="no-referrer"></div>
-<h3><a href="https://www.amazon.it/dp/B0FZJW6QRX?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">MAXGROOM Rasoio Elettrico Donna per Parti Intime 3 in 1, Bianco</a></h3>
-<div class="prices"><span class="price">27,07 €</span><span class="old">59,99 €</span></div>
-<div class="discount">Risparmi 32,92 €</div>
-<div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="Amazon" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
-<a class="buy" href="https://www.amazon.it/dp/B0FZJW6QRX?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI L'OFFERTA</a>
-<div class="meta">Pubblicata 15 min fa</div>
-</article>
-<article class="card">
-<span class="badge super">⚡ PREZZO ASSURDO</span>
-<span class="pa-discount-percent"><small>SCONTO</small>-40%</span>
-<div class="photo"><a href="https://www.amazon.it/dp/B001RYWCWM?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener" aria-label="Apri l'offerta Wilkinson Sword Xtreme 3 Beauty 4+2 Rasoio usa &amp; getta da donna Confezione con 4 rasoi…"><img src="https://m.media-amazon.com/images/I/4159eDrvD0L._SL500_.jpg" alt="Wilkinson Sword Xtreme 3 Beauty 4+2 Rasoio usa &amp; getta da donna Confezione con 4 rasoi…" loading="lazy"></a></div>
-<div class="category" aria-label="Negozio"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="height:17px;max-width:92px;object-fit:contain;display:block" loading="lazy" referrerpolicy="no-referrer"></div>
-<h3><a href="https://www.amazon.it/dp/B001RYWCWM?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Wilkinson Sword Xtreme 3 Beauty 4+2 Rasoio usa &amp; getta da donna Confezione con 4 rasoi…</a></h3>
-<div class="prices"><span class="price">3,55 €</span><span class="old">5,90 €</span></div>
-<div class="discount">Risparmi 2,35 €</div>
-<div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="Amazon" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
-<a class="buy" href="https://www.amazon.it/dp/B001RYWCWM?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI L'OFFERTA</a>
-<div class="meta">Pubblicata 15 min fa</div>
+<div class="meta">Pubblicata 23 min fa</div>
 </article>
 <!-- PA_HOME_LATEST_END -->
 </div>
@@ -3678,17 +3691,46 @@ document.addEventListener('DOMContentLoaded',function(){
     }
     panel.innerHTML=`<div class="pa-price-search-head"><div><h2>Ricerca su ${esc(storeLabel(store))} per <span>“${esc(query)}”</span></h2><p>Risultati aggiornati al momento della richiesta; il prodotto viene mostrato solo quando la corrispondenza è sufficientemente sicura.</p></div><div class="pa-price-count">${results.length} risultati</div></div><div class="pa-price-grid">${results.map(item=>resultCard(item,store)).join('')}</div><div class="pa-search-footer"><span>${esc(meta||'Prezzi rilevati al momento della ricerca. Verifica disponibilità finale sul negozio.')}</span><a href="${esc(amazonLink)}" target="_blank" rel="nofollow sponsored noopener">APRI AMAZON →</a></div>`;
   }
+  function liveLoadingHtml(store){
+    const scope=store==='all'?'tutti gli store':storeLabel(store);
+    const stores=store==='all'?['a','u','w']:[store];
+    const pills=stores.map(key=>{
+      const logo=LOGOS[key]||'', label=LABELS[key]||storeLabel(key);
+      return `<span class="pa-live-store">${logo?`<img src="${esc(logo)}" alt="${esc(label)}">`:esc(label)}</span>`;
+    }).join('');
+    return `<div class="pa-search-loading pa-live-loader" role="status" aria-live="polite"><div class="pa-live-spinner" aria-hidden="true"></div><div class="pa-live-title">Ricerca live su ${esc(scope)}<span class="pa-live-dots"></span></div><div class="pa-live-stores">${pills}</div><div id="paLiveProgress" class="pa-live-subtitle">Interrogo Amazon, Unieuro e MediaWorld…</div></div>`;
+  }
+  function startLiveProgress(store){
+    const el=document.getElementById('paLiveProgress');
+    if(!el)return ()=>{};
+    const labels=store==='all'?['Interrogo Amazon…','Controllo Unieuro…','Verifico MediaWorld…','Confronto i prezzi migliori…']:[`Controllo ${storeLabel(store)}…`,`Confronto i prezzi disponibili…`];
+    let i=0;el.textContent=labels[0];
+    const timer=setInterval(()=>{i=(i+1)%labels.length;const node=document.getElementById('paLiveProgress');if(node)node.textContent=labels[i];},700);
+    return ()=>clearInterval(timer);
+  }
   async function run(query,store=selectedStore){
     const panel=document.getElementById('priceSearchPanel');
     if(!panel)return;
     panel.hidden=false;
-    panel.innerHTML=`<div class="pa-search-loading"><b>🔎 Ricerca live su ${esc(storeLabel(store))} in corso…</b><span>Controllo il catalogo disponibile dello store selezionato.</span></div>`;
+    panel.setAttribute('aria-busy','true');
+    panel.innerHTML=liveLoadingHtml(store);
+    const stopProgress=startLiveProgress(store);
+    requestAnimationFrame(()=>panel.scrollIntoView({behavior:'smooth',block:'center'}));
     try{
       const data=await loadLive(query,store);
       const meta=data.note||data.updated_label||'Amazon interrogato live · Unieuro/MediaWorld aggiornati dal feed Awin più recente.';
       const detailed=Array.isArray(data.results)?data.results.slice(0,12):[];
-      const rawResults=data.best_by_store?[data.best_by_store,...detailed]:detailed;
+      // Il confronto principale deve mostrare una sola scheda: il prezzo minimo
+      // trovato per ciascun negozio. I risultati dettagliati restano un fallback
+      // solo per le versioni API che non forniscono best_by_store.
+      const bestPayload=data.best_by_store;
+      const bestResults=Array.isArray(bestPayload)
+        ? bestPayload.filter(item=>Array.isArray(item?.o))
+        : (Array.isArray(bestPayload?.o)?[bestPayload]:[]);
+      const rawResults=bestResults.length?bestResults:detailed;
       const results=rawResults.filter(item=>itemMatchesStore(item,store));
+      stopProgress();
+      panel.removeAttribute('aria-busy');
       renderSearch(query,results,meta,store);
       if(typeof gtag==='function')gtag('event','price_compare_search_live',{search_term:query,result_count:results.length});
       return;
@@ -3697,8 +3739,12 @@ document.addEventListener('DOMContentLoaded',function(){
     }
     try{
       const results=await staticResults(query,store);
+      stopProgress();
+      panel.removeAttribute('aria-busy');
       renderSearch(query,results,'Modalità di riserva: indice Prezzi Assurdi. Il servizio live non ha risposto.',store);
     }catch(err){
+      stopProgress();
+      panel.removeAttribute('aria-busy');
       const amazonLink=typeof amazonSearchUrl==='function'?amazonSearchUrl(query):`https://www.amazon.it/s?k=${encodeURIComponent(query)}`;
       panel.innerHTML=`<div class="pa-search-empty"><b>Confronto temporaneamente non disponibile.</b><span>Riprova tra poco.</span><div style="margin-top:12px"><a href="${esc(amazonLink)}" target="_blank" rel="nofollow sponsored noopener">CERCA SU AMAZON →</a></div></div>`;
     }
