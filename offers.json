@@ -1,5 +1,35 @@
 [
   {
+    "asin": "B07CZL6Z7Z",
+    "title": "Wet n Wild, Makeup Brush, Pennello per Blush, Ideale per Applicazione sulle Guance, Facili da Usare, per Makeup & Accessori",
+    "price": 2.2,
+    "old_price": 3.99,
+    "discount": 45.0,
+    "image": "https://m.media-amazon.com/images/I/21E0nVyaBXL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B07CZL6Z7Z?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "bellezza",
+    "macro_group": "cura_persona",
+    "seasonal_title": "",
+    "published_at": "2026-09-25T17:23:34.286940+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": ""
+  },
+  {
+    "asin": "B00KWWY4Y4",
+    "title": "Pellini N.9 Cremoso Caffè in Grani per Espresso, 1kg",
+    "price": 17.99,
+    "old_price": 22.49,
+    "discount": 20.0,
+    "image": "https://m.media-amazon.com/images/I/31fsLfv6EsL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B00KWWY4Y4?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "bevande_analcoliche",
+    "macro_group": "spesa_bevande",
+    "seasonal_title": "",
+    "published_at": "2026-09-25T17:19:26.690646+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": ""
+  },
+  {
     "asin": "B00S977MBQ",
     "title": "BALLARINI Professionale 3000 Teglia da Forno, 40 x 30 x 3 cm, Ferro, Nero",
     "price": 10.37,
@@ -1717,35 +1747,5 @@
     "merchant_match_score": 100,
     "merchant_ean": "8003437861277",
     "merchant_prices_checked_at": "2026-09-25T11:41:25.630330+02:00"
-  },
-  {
-    "asin": "B07ZTPVNRG",
-    "title": "Antica Villa delle Rose Amarone della Valpolicella DOCG - Vino Rosso, 750 ml",
-    "price": 24.39,
-    "old_price": 32.9,
-    "discount": 26.0,
-    "image": "https://m.media-amazon.com/images/I/31npk1qn5NL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B07ZTPVNRG?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "vini",
-    "macro_group": "spesa_bevande",
-    "seasonal_title": "",
-    "published_at": "2026-09-25T11:39:24.301239+02:00",
-    "source_merchant": "amazon",
-    "source_external_id": ""
-  },
-  {
-    "asin": "B0CKVD62NX",
-    "title": "RØDE NT1 Signature Series, microfono a condensatore a diaframma largo con supporto antiurto, filtro anti-pop e cavo XLR per produzione musicale, registrazione vocale, streaming e podcasting (Nero)",
-    "price": 125.0,
-    "old_price": 169.99,
-    "discount": 26.0,
-    "image": "https://m.media-amazon.com/images/I/41n-E8tvomL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0CKVD62NX?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "audio_studio",
-    "macro_group": "tech",
-    "seasonal_title": "",
-    "published_at": "2026-09-25T11:37:26.614194+02:00",
-    "source_merchant": "amazon",
-    "source_external_id": ""
   }
 ]
