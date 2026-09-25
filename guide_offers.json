@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updated_at": "2026-09-24T21:55:15.782825+02:00",
+  "updated_at": "2026-09-25T07:12:29.933807+02:00",
   "groups": {
     "phone-under-150": {
       "kind": "smartphone",
       "query": "smartphone 5G",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B0DPKQTZVK",
           "title": "Motorola moto g05 (4/128GB, Fotocamera 50MP + sensore antisfarfallio, Display 6.67\" HD+ 90Hz, batteria 5200mAh, MediaTek Helio G81, Android 15), Forest Green",
-          "price": 135.0,
+          "price": 134.9,
           "old_price": 139.9,
           "discount": 4.0,
           "image": "https://m.media-amazon.com/images/I/41dYG5UCeLL._SL500_.jpg",
@@ -22,7 +22,7 @@
           "guide_groups": [
             "phone-under-150"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0CX8YNC87",
@@ -39,12 +39,46 @@
           "guide_groups": [
             "phone-under-150"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
+        },
+        {
+          "asin": "B0H4LJ4XX1",
+          "title": "Ulefone Armor Note 22 Smartphone Offerta Android 16, 20GB+32GB/2TB TF Cellulari Octa-Core, 5.0\", 4G Dual SIM Telefono Cellulare Offerta, WiFi 5G/3.5mm/ Face ID/3 Slot Eer Carte/3 Anni di Garanzia",
+          "price": 107.82,
+          "old_price": null,
+          "discount": null,
+          "image": "https://m.media-amazon.com/images/I/41njY3DMvPL._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0H4LJ4XX1?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "category": "smartphone",
+          "macro_group": "guide_catalog",
+          "seasonal_title": "",
+          "guide_catalog": true,
+          "guide_groups": [
+            "phone-under-150"
+          ],
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
+        },
+        {
+          "asin": "B0FX9HRG3B",
+          "title": "Blackview Telefono Movil Baratos Buenos Android 16,32MP+13MP 32+128GB/2TB TF Celulares,Smartphone Libres Oferta 6.88\"/5000mAh/3.5mm/5G WiFi/Face ID/Bloqueo Huellas Dactilares,3 Años Garantía",
+          "price": 129.9,
+          "old_price": null,
+          "discount": null,
+          "image": "https://m.media-amazon.com/images/I/41VJz4NXY+L._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0FX9HRG3B?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "category": "smartphone",
+          "macro_group": "guide_catalog",
+          "seasonal_title": "",
+          "guide_catalog": true,
+          "guide_groups": [
+            "phone-under-150"
+          ],
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B09QH6KD26",
           "title": "XIAOMI Redmi Note 11S - Smartphone 6+128GB, Display AMOLED 6.43” 90Hz FHD+, MediaTek Helio G96, fotocamera professionale 108MP, 5000mAh, Graphite Grey (versione IT + 2 anni di garanzia)",
-          "price": 149.73,
+          "price": 149.86,
           "old_price": null,
           "discount": null,
           "image": "https://m.media-amazon.com/images/I/41rEYpA20yL._SL500_.jpg",
@@ -56,38 +90,21 @@
           "guide_groups": [
             "phone-under-150"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
-        },
-        {
-          "asin": "B0FHQFFDJ6",
-          "title": "XIAOMI POCO C85, Smartphone 6+128GB, Verde, 6000mAh",
-          "price": 149.9,
-          "old_price": null,
-          "discount": null,
-          "image": "https://m.media-amazon.com/images/I/41khMq3785L._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0FHQFFDJ6?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-          "category": "smartphone",
-          "macro_group": "guide_catalog",
-          "seasonal_title": "",
-          "guide_catalog": true,
-          "guide_groups": [
-            "phone-under-150"
-          ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "phone-150-199": {
       "kind": "smartphone",
       "query": "smartphone 5G 128GB",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B0H5RBGGXC",
           "title": "HONOR 600 SMART 5G BLACK 4+128GB",
-          "price": 191.0,
+          "price": 191.8,
           "old_price": 279.9,
-          "discount": 32.0,
+          "discount": 31.0,
           "image": "https://m.media-amazon.com/images/I/41-xHutfOhL._SL500_.jpg",
           "url": "https://www.amazon.it/dp/B0H5RBGGXC?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
           "category": "smartphone",
@@ -97,24 +114,7 @@
           "guide_groups": [
             "phone-150-199"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
-        },
-        {
-          "asin": "B0H6QH3CF1",
-          "title": "REDMI 17C 5G, Smartphone 4+128GB, Marrone, Batteria 6000mAh, Ricarica 33W",
-          "price": 199.9,
-          "old_price": 229.9,
-          "discount": 13.0,
-          "image": "https://m.media-amazon.com/images/I/41z6HHuR0dL._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0H6QH3CF1?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-          "category": "smartphone",
-          "macro_group": "guide_catalog",
-          "seasonal_title": "",
-          "guide_catalog": true,
-          "guide_groups": [
-            "phone-150-199"
-          ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0H6QLWL31",
@@ -131,7 +131,7 @@
           "guide_groups": [
             "phone-150-199"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0H6QC7T4P",
@@ -148,7 +148,7 @@
           "guide_groups": [
             "phone-150-199"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0GPWHLPHY",
@@ -165,7 +165,24 @@
           "guide_groups": [
             "phone-150-199"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
+        },
+        {
+          "asin": "B0D5K131DK",
+          "title": "XIAOMI Redmi 13C 5G 6.74 128GB Star Black",
+          "price": 156.58,
+          "old_price": null,
+          "discount": null,
+          "image": "https://m.media-amazon.com/images/I/41FiRa2lcSL._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0D5K131DK?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "category": "smartphone",
+          "macro_group": "guide_catalog",
+          "seasonal_title": "",
+          "guide_catalog": true,
+          "guide_groups": [
+            "phone-150-199"
+          ],
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0FHBQZST7",
@@ -182,14 +199,14 @@
           "guide_groups": [
             "phone-150-199"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "phone-200-249": {
       "kind": "smartphone",
       "query": "smartphone 5G 256GB",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B0GXWWHSMP",
@@ -206,7 +223,7 @@
           "guide_groups": [
             "phone-200-249"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0F6C9JQ8L",
@@ -223,7 +240,7 @@
           "guide_groups": [
             "phone-200-249"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0GTJNY35J",
@@ -240,7 +257,7 @@
           "guide_groups": [
             "phone-200-249"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0GYPP5Z3N",
@@ -257,16 +274,16 @@
           "guide_groups": [
             "phone-200-249"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
-          "asin": "B0G2BHL62V",
-          "title": "Redmi Note 15 5G 8+256 Black (No power adapter included)",
-          "price": 245.0,
+          "asin": "B0FXBMFSLR",
+          "title": "XIAOMI REDMI Note 15 5G, Smartphone 8+256GB, Nero, Resistenza IP65",
+          "price": 242.4,
           "old_price": null,
           "discount": null,
-          "image": "https://m.media-amazon.com/images/I/41qZji0hcmL._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0G2BHL62V?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "image": "https://m.media-amazon.com/images/I/41aUFwJf-ML._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0FXBMFSLR?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
           "category": "smartphone",
           "macro_group": "guide_catalog",
           "seasonal_title": "",
@@ -274,12 +291,12 @@
           "guide_groups": [
             "phone-200-249"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0GKGH7CKL",
           "title": "Motorola moto g77 con 3 anni di garanzia (8/256GB, Fotocamera 108+8MP+flicker sensor, Display 6.78\" pOLED 120Hz, 5100mAh, MediaTek Dimensity 6400, Android 16), Shaded Spruce",
-          "price": 246.48,
+          "price": 249.54,
           "old_price": null,
           "discount": null,
           "image": "https://m.media-amazon.com/images/I/416WBiVhc6L._SL500_.jpg",
@@ -291,14 +308,14 @@
           "guide_groups": [
             "phone-200-249"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "phone-250-300": {
       "kind": "smartphone",
       "query": "smartphone 5G in offerta",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B0GYRYZQP3",
@@ -315,7 +332,24 @@
           "guide_groups": [
             "phone-250-300"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
+        },
+        {
+          "asin": "B0GF2H2LQC",
+          "title": "XIAOMI REDMI Note 15 5G, Smartphone 8+512GB, Nero, Resistenza IP65",
+          "price": 263.9,
+          "old_price": 329.9,
+          "discount": 20.0,
+          "image": "https://m.media-amazon.com/images/I/41aUFwJf-ML._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0GF2H2LQC?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "category": "smartphone",
+          "macro_group": "guide_catalog",
+          "seasonal_title": "",
+          "guide_catalog": true,
+          "guide_groups": [
+            "phone-250-300"
+          ],
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0GF21DNTH",
@@ -332,24 +366,7 @@
           "guide_groups": [
             "phone-250-300"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
-        },
-        {
-          "asin": "B0GF2H2LQC",
-          "title": "XIAOMI REDMI Note 15 5G, Smartphone 8+512GB, Nero, Resistenza IP65",
-          "price": 286.47,
-          "old_price": 329.9,
-          "discount": 13.0,
-          "image": "https://m.media-amazon.com/images/I/41aUFwJf-ML._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0GF2H2LQC?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-          "category": "smartphone",
-          "macro_group": "guide_catalog",
-          "seasonal_title": "",
-          "guide_catalog": true,
-          "guide_groups": [
-            "phone-250-300"
-          ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0H711ZWF6",
@@ -366,24 +383,7 @@
           "guide_groups": [
             "phone-250-300"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
-        },
-        {
-          "asin": "B0G2BFZRGL",
-          "title": "Redmi Note 15 5G 8+256 Glacier Blue (No power adapter included)",
-          "price": 253.89,
-          "old_price": null,
-          "discount": null,
-          "image": "https://m.media-amazon.com/images/I/41Z0WlRF50L._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0G2BFZRGL?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-          "category": "smartphone",
-          "macro_group": "guide_catalog",
-          "seasonal_title": "",
-          "guide_catalog": true,
-          "guide_groups": [
-            "phone-250-300"
-          ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0FGD7NS4S",
@@ -400,14 +400,31 @@
           "guide_groups": [
             "phone-250-300"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
+        },
+        {
+          "asin": "B0G269WF6V",
+          "title": "XIAOMI POCO M8 5G, Smartphone 8+512GB, Nero, Snapdragon® 6 Gen 3",
+          "price": 259.9,
+          "old_price": null,
+          "discount": null,
+          "image": "https://m.media-amazon.com/images/I/41kJMLwMOgL._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0G269WF6V?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "category": "smartphone",
+          "macro_group": "guide_catalog",
+          "seasonal_title": "",
+          "guide_catalog": true,
+          "guide_groups": [
+            "phone-250-300"
+          ],
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "phone-300-349": {
       "kind": "smartphone",
       "query": "smartphone 5G",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B0GXF7LL58",
@@ -424,7 +441,7 @@
           "guide_groups": [
             "phone-300-349"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0GX76BDKR",
@@ -441,7 +458,7 @@
           "guide_groups": [
             "phone-300-349"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0GMHTMV1X",
@@ -458,7 +475,7 @@
           "guide_groups": [
             "phone-300-349"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0H4H8T7ZK",
@@ -475,7 +492,7 @@
           "guide_groups": [
             "phone-300-349"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0FXBM53CM",
@@ -492,12 +509,12 @@
           "guide_groups": [
             "phone-300-349"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0G2BDLLPY",
           "title": "Redmi Note 15 Pro 5G 8+256 Black (No power adapter included)",
-          "price": 302.0,
+          "price": 319.0,
           "old_price": null,
           "discount": null,
           "image": "https://m.media-amazon.com/images/I/41cUOdK6sEL._SL500_.jpg",
@@ -509,14 +526,14 @@
           "guide_groups": [
             "phone-300-349"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "phone-350-499": {
       "kind": "smartphone",
       "query": "smartphone 512GB",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B0G2BH3L3X",
@@ -533,7 +550,7 @@
           "guide_groups": [
             "phone-350-499"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0H4H89QXV",
@@ -550,7 +567,24 @@
           "guide_groups": [
             "phone-350-499"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
+        },
+        {
+          "asin": "B0FX9RP8FX",
+          "title": "XIAOMI REDMI Note 15 Pro, Smartphone 12+512GB, Nero, 6500 mAh",
+          "price": 353.5,
+          "old_price": null,
+          "discount": null,
+          "image": "https://m.media-amazon.com/images/I/41ku1VNFCLL._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0FX9RP8FX?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "category": "smartphone",
+          "macro_group": "guide_catalog",
+          "seasonal_title": "",
+          "guide_catalog": true,
+          "guide_groups": [
+            "phone-350-499"
+          ],
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0FZLLFFH5",
@@ -567,7 +601,7 @@
           "guide_groups": [
             "phone-350-499"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0FWKFRBZM",
@@ -584,16 +618,16 @@
           "guide_groups": [
             "phone-350-499"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
-          "asin": "B0G3TSD4FD",
-          "title": "Redmi Note 15 Pro+ 5G 12+512 Black (No power adapter included)",
-          "price": 398.99,
+          "asin": "B0H2TXSQD6",
+          "title": "realme 16 Pro 5G Smartphone 8+512 GB, 200MP AI Camera, 6.78 144Hz AMOLED Display, 6500mAH Battery, 45W Ultra Charge, Dimensity 7300-Max, IP69, Pebble Grey",
+          "price": 389.49,
           "old_price": null,
           "discount": null,
-          "image": "https://m.media-amazon.com/images/I/41L6Tx0PUvL._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0G3TSD4FD?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "image": "https://m.media-amazon.com/images/I/417xthG6kEL._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0H2TXSQD6?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
           "category": "smartphone",
           "macro_group": "guide_catalog",
           "seasonal_title": "",
@@ -601,31 +635,14 @@
           "guide_groups": [
             "phone-350-499"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
-        },
-        {
-          "asin": "B0GTLT9J1R",
-          "title": "XIAOMI Poco X8 Pro Smartphone 12GB + 512GB, processore Dimensity 8500-Ultra, batteria 6500 mAh, display AMOLED ultra luminoso, 50MP Sony IMX882, fotocamera principale con OIS, bianco",
-          "price": 399.89,
-          "old_price": null,
-          "discount": null,
-          "image": "https://m.media-amazon.com/images/I/41IoNqBn98L._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0GTLT9J1R?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-          "category": "smartphone",
-          "macro_group": "guide_catalog",
-          "seasonal_title": "",
-          "guide_catalog": true,
-          "guide_groups": [
-            "phone-350-499"
-          ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "phone-500-699": {
       "kind": "smartphone",
       "query": "smartphone premium 512GB",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B0GFSWWDFD",
@@ -642,7 +659,7 @@
           "guide_groups": [
             "phone-500-699"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0GFSDV7HB",
@@ -659,16 +676,16 @@
           "guide_groups": [
             "phone-500-699"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
-          "asin": "B0H1R533FY",
-          "title": "HONOR 600 5G Smartphone, 8+512GB, Pantalla AMOLED 6,57\" 120Hz, Cámara 200MP, Batería 6400mAh, Carga 80W, IP68/IP69K (Orange, 512, GB, 8, GB)",
-          "price": 514.0,
-          "old_price": null,
-          "discount": null,
-          "image": "https://m.media-amazon.com/images/I/41hM1ydqYbL._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0H1R533FY?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "asin": "B0CVJ3DFXJ",
+          "title": "Apple iPhone 15 512GB - Azzurro (Ricondizionato)",
+          "price": 584.63,
+          "old_price": 619.0,
+          "discount": 6.0,
+          "image": "https://m.media-amazon.com/images/I/31tUkrp06RL._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0CVJ3DFXJ?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
           "category": "smartphone",
           "macro_group": "guide_catalog",
           "seasonal_title": "",
@@ -676,16 +693,16 @@
           "guide_groups": [
             "phone-500-699"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
-          "asin": "B0H1R3Z982",
-          "title": "HONOR 600 5G Smartphone, 8+512GB, Pantalla AMOLED 6,57\" 120Hz, Cámara 200MP, Batería 6400mAh, Carga 80W, IP68/IP69K (Golden White, 512, GB, 8, GB)",
-          "price": 519.0,
+          "asin": "B0GZP15632",
+          "title": "XIAOMI Poco X8 Pro Max Smartphone 12 GB + 512 GB, processore Dimensity 9500s, batteria da 8500 mAh, display AMOLED ultra luminoso, fotocamera principale Light Fusion 600 da 50 MP con OIS, bianco",
+          "price": 511.99,
           "old_price": null,
           "discount": null,
-          "image": "https://m.media-amazon.com/images/I/41Vu83N+-aL._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0H1R3Z982?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "image": "https://m.media-amazon.com/images/I/41a0E6VOAiL._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0GZP15632?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
           "category": "smartphone",
           "macro_group": "guide_catalog",
           "seasonal_title": "",
@@ -693,7 +710,24 @@
           "guide_groups": [
             "phone-500-699"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
+        },
+        {
+          "asin": "B0GCD9KWCJ",
+          "title": "realme 16 Pro+ 5G Smartphone 12+512 GB, Fotocamera da 200MP LumaColor, 6,8\" Display Curvo Display, Refresco a 144Hz, Snapdragon® 7 Gen 4, Batteria 7000mAh, Ricarica SuperVOOC 80W, IP69K, Grigio",
+          "price": 519.99,
+          "old_price": null,
+          "discount": null,
+          "image": "https://m.media-amazon.com/images/I/41R1Wy9FXdL._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0GCD9KWCJ?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "category": "smartphone",
+          "macro_group": "guide_catalog",
+          "seasonal_title": "",
+          "guide_catalog": true,
+          "guide_groups": [
+            "phone-500-699"
+          ],
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0GMDNRQL4",
@@ -710,31 +744,14 @@
           "guide_groups": [
             "phone-500-699"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
-        },
-        {
-          "asin": "B0GMD5WYCW",
-          "title": "realme 16 Pro+ 5G Smartphone 12GB + 512GB, 200MP LumaColor, 7000mAh e 80W",
-          "price": 519.99,
-          "old_price": null,
-          "discount": null,
-          "image": "https://m.media-amazon.com/images/I/41kr9wr9+5L._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0GMD5WYCW?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-          "category": "smartphone",
-          "macro_group": "guide_catalog",
-          "seasonal_title": "",
-          "guide_catalog": true,
-          "guide_groups": [
-            "phone-500-699"
-          ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "phone-700-plus": {
       "kind": "smartphone",
       "query": "smartphone top di gamma",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B0FHL2XPXS",
@@ -751,7 +768,24 @@
           "guide_groups": [
             "phone-700-plus"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
+        },
+        {
+          "asin": "B0DPL2XFY3",
+          "title": "Samsung Galaxy S25 Ultra Smartphone AI, 3 anni di Garanzia del produttore, Display 6.9'' QHD+ Dynamic AMOLED 2X, Fotocamera 200MP, RAM 12GB, 256GB, 5.000 mAh, Titanium Black [Versione italiana]",
+          "price": 730.9,
+          "old_price": 879.99,
+          "discount": 17.0,
+          "image": "https://m.media-amazon.com/images/I/41XqrKEEv7L._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0DPL2XFY3?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "category": "smartphone",
+          "macro_group": "guide_catalog",
+          "seasonal_title": "",
+          "guide_catalog": true,
+          "guide_groups": [
+            "phone-700-plus"
+          ],
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0H29DLCJ5",
@@ -768,7 +802,7 @@
           "guide_groups": [
             "phone-700-plus"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0H6XQYLQ9",
@@ -785,12 +819,12 @@
           "guide_groups": [
             "phone-700-plus"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0GPDC4R63",
           "title": "Samsung Galaxy S26 Ultra 256GB Black",
-          "price": 937.0,
+          "price": 935.5,
           "old_price": null,
           "discount": null,
           "image": "https://m.media-amazon.com/images/I/41OwYNY77AL._SL500_.jpg",
@@ -802,14 +836,14 @@
           "guide_groups": [
             "phone-700-plus"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "tv-24-32": {
       "kind": "tv",
       "query": "smart tv 32 pollici",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B0F457M449",
@@ -826,7 +860,7 @@
           "guide_groups": [
             "tv-24-32"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0F4548TCQ",
@@ -843,7 +877,7 @@
           "guide_groups": [
             "tv-24-32"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0HHS16TTB",
@@ -860,7 +894,7 @@
           "guide_groups": [
             "tv-24-32"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B09T74KPR6",
@@ -877,7 +911,7 @@
           "guide_groups": [
             "tv-24-32"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0GM1HFTNL",
@@ -894,14 +928,14 @@
           "guide_groups": [
             "tv-24-32"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "tv-40-43": {
       "kind": "tv",
       "query": "smart tv 43 pollici 4K",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B0GHYQLKC8",
@@ -918,7 +952,7 @@
           "guide_groups": [
             "tv-40-43"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0GR62X9MH",
@@ -935,7 +969,7 @@
           "guide_groups": [
             "tv-40-43"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0GM1NJDDK",
@@ -952,7 +986,7 @@
           "guide_groups": [
             "tv-40-43"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0F454D76T",
@@ -969,14 +1003,14 @@
           "guide_groups": [
             "tv-40-43"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "tv-48-50": {
       "kind": "tv",
       "query": "smart tv 50 pollici 4K",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B0FKHFWWBT",
@@ -993,7 +1027,7 @@
           "guide_groups": [
             "tv-48-50"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0GM1R36YW",
@@ -1010,7 +1044,7 @@
           "guide_groups": [
             "tv-48-50"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0F45BXJ1C",
@@ -1027,7 +1061,7 @@
           "guide_groups": [
             "tv-48-50"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0GR5SM2WL",
@@ -1044,7 +1078,7 @@
           "guide_groups": [
             "tv-48-50"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0F1W8PDP7",
@@ -1061,7 +1095,7 @@
           "guide_groups": [
             "tv-48-50"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0F8QDY84D",
@@ -1078,21 +1112,21 @@
           "guide_groups": [
             "tv-48-50"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "tv-55": {
       "kind": "tv",
       "query": "smart tv 55 pollici 4K",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B0F8QFPB14",
           "title": "TCL 55T69C – Smart TV QLED 4K HDR10+ da 55\", Google TV con Dolby Atmos",
-          "price": 369.0,
+          "price": 379.0,
           "old_price": 499.0,
-          "discount": 26.0,
+          "discount": 24.0,
           "image": "https://m.media-amazon.com/images/I/51f19DPJvBL._SL500_.jpg",
           "url": "https://www.amazon.it/dp/B0F8QFPB14?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
           "category": "tv-audio",
@@ -1102,14 +1136,14 @@
           "guide_groups": [
             "tv-55"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0GM1TVSMG",
           "title": "Hisense Smart TV QLED 55\" 4K TV 55E7DS, 60Hz, Audio Dolby Atmos, VIDAA OS con 1000+ app, Dolby Vision IQ, HDR 10+, Game Mode Plus, Bluetooth, wifi, Alexa Built-in, AirPlay2, lativù",
-          "price": 407.94,
+          "price": 405.0,
           "old_price": 449.0,
-          "discount": 9.0,
+          "discount": 10.0,
           "image": "https://m.media-amazon.com/images/I/41qV1gYX+5L._SL500_.jpg",
           "url": "https://www.amazon.it/dp/B0GM1TVSMG?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
           "category": "tv-audio",
@@ -1119,7 +1153,7 @@
           "guide_groups": [
             "tv-55"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0F7RVDMKF",
@@ -1136,7 +1170,7 @@
           "guide_groups": [
             "tv-55"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0GQHGGWHX",
@@ -1153,7 +1187,7 @@
           "guide_groups": [
             "tv-55"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0DV94JCVX",
@@ -1170,16 +1204,16 @@
           "guide_groups": [
             "tv-55"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
-          "asin": "B0GR9JWH4T",
-          "title": "TCL 55T8D – Smart TV QD‑Mini LED 4K HDR10+ da 55\", pensato per il gaming, 144Hz VRR",
-          "price": 403.26,
+          "asin": "B0GM1HHYWS",
+          "title": "Hisense Smart TV 55\" 4K TV 55E6ST, 60Hz, DTS Virtual X, VIDAA OS con 1000+ app, HDR 10+, Game Mode Plus, Bluetooth, wifi, Alexa Built-in, AirPlay2, lativù",
+          "price": 379.0,
           "old_price": null,
           "discount": null,
-          "image": "https://m.media-amazon.com/images/I/41hnuzkEqHL._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0GR9JWH4T?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "image": "https://m.media-amazon.com/images/I/41SLFDpXI9L._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0GM1HHYWS?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
           "category": "tv-audio",
           "macro_group": "guide_catalog",
           "seasonal_title": "",
@@ -1187,14 +1221,14 @@
           "guide_groups": [
             "tv-55"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "tv-65": {
       "kind": "tv",
       "query": "smart tv 65 pollici 4K",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B0GQF24H9M",
@@ -1211,7 +1245,7 @@
           "guide_groups": [
             "tv-65"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0F457MQCQ",
@@ -1228,7 +1262,7 @@
           "guide_groups": [
             "tv-65"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0D8J994FH",
@@ -1245,7 +1279,7 @@
           "guide_groups": [
             "tv-65"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0DV9GHKQ6",
@@ -1262,7 +1296,7 @@
           "guide_groups": [
             "tv-65"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0F454CH49",
@@ -1279,14 +1313,31 @@
           "guide_groups": [
             "tv-65"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
+        },
+        {
+          "asin": "B0F1N62VSW",
+          "title": "Hisense TV 65\" QLED 4K 144Hz 2025 65E7Q PRO, Smart TV VIDAA U8, Dolby Vision IQ, HDR 10+ Adaptive, 144hz Game Mode PRO, Dolby Atmos, Alexa Built-in, VIDAA Voice, Tuner DVB-T2/S2 HEVC 10, lativù 4K",
+          "price": 599.0,
+          "old_price": null,
+          "discount": null,
+          "image": "https://m.media-amazon.com/images/I/410spBmtteL._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0F1N62VSW?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "category": "tv-audio",
+          "macro_group": "guide_catalog",
+          "seasonal_title": "",
+          "guide_catalog": true,
+          "guide_groups": [
+            "tv-65"
+          ],
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "tv-70-75": {
       "kind": "tv",
       "query": "smart tv 75 pollici 4K",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B0H2MDWYFD",
@@ -1303,7 +1354,7 @@
           "guide_groups": [
             "tv-70-75"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0F74QS3PJ",
@@ -1320,7 +1371,7 @@
           "guide_groups": [
             "tv-70-75"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0DV9L8KLJ",
@@ -1337,7 +1388,7 @@
           "guide_groups": [
             "tv-70-75"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0F1WL42VS",
@@ -1354,7 +1405,7 @@
           "guide_groups": [
             "tv-70-75"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0F1W9LQDR",
@@ -1371,7 +1422,7 @@
           "guide_groups": [
             "tv-70-75"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0F45BLD1H",
@@ -1388,21 +1439,21 @@
           "guide_groups": [
             "tv-70-75"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "tv-77-plus": {
       "kind": "tv",
       "query": "smart tv 77 pollici 4K",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B0GWMVM78J",
           "title": "LG OLED evo AI 77 Pollici, Serie C6 2026 Smart TV 4K - OLED77C64LA",
-          "price": 2699.0,
+          "price": 2599.0,
           "old_price": 3599.0,
-          "discount": 25.0,
+          "discount": 28.0,
           "image": "https://m.media-amazon.com/images/I/41KTDRXa+FL._SL500_.jpg",
           "url": "https://www.amazon.it/dp/B0GWMVM78J?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
           "category": "tv-audio",
@@ -1412,7 +1463,7 @@
           "guide_groups": [
             "tv-77-plus"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0GWN4SNXP",
@@ -1429,7 +1480,7 @@
           "guide_groups": [
             "tv-77-plus"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0F1N92VWF",
@@ -1446,7 +1497,7 @@
           "guide_groups": [
             "tv-77-plus"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0D1VV32HH",
@@ -1463,7 +1514,7 @@
           "guide_groups": [
             "tv-77-plus"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0GWMW9BM4",
@@ -1480,7 +1531,7 @@
           "guide_groups": [
             "tv-77-plus"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
@@ -2516,8 +2567,25 @@
     "guide-console-ps": {
       "kind": "console",
       "query": "PlayStation 5 console",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
+        {
+          "asin": "B08H93ZRK9",
+          "title": "Sony PlayStation 5",
+          "price": 624.99,
+          "old_price": null,
+          "discount": null,
+          "image": "https://m.media-amazon.com/images/I/21+StSIuk0L._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B08H93ZRK9?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "category": "gaming",
+          "macro_group": "guide_catalog",
+          "seasonal_title": "",
+          "guide_catalog": true,
+          "guide_groups": [
+            "guide-console-ps"
+          ],
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
+        },
         {
           "asin": "B0CLTBHXWQ",
           "title": "Playstation 5 Console Edizione Digital Slim",
@@ -2533,7 +2601,7 @@
           "guide_groups": [
             "guide-console-ps"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0CLT54ZNZ",
@@ -2550,7 +2618,7 @@
           "guide_groups": [
             "guide-console-ps"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0BN48Z569",
@@ -2567,7 +2635,7 @@
           "guide_groups": [
             "guide-console-ps"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0CQPMYTVM",
@@ -2584,7 +2652,7 @@
           "guide_groups": [
             "guide-console-ps"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B08H98GVK8",
@@ -2601,31 +2669,14 @@
           "guide_groups": [
             "guide-console-ps"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
-        },
-        {
-          "asin": "B0BJFLXC3P",
-          "title": "PlayStation 5 Standard Console + God of War Ragnarök",
-          "price": 854.9,
-          "old_price": null,
-          "discount": null,
-          "image": "https://m.media-amazon.com/images/I/41gQ226BJ6L._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0BJFLXC3P?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-          "category": "gaming",
-          "macro_group": "guide_catalog",
-          "seasonal_title": "",
-          "guide_catalog": true,
-          "guide_groups": [
-            "guide-console-ps"
-          ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "guide-console-xbox": {
       "kind": "console",
       "query": "Xbox Series console",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B0DHW4MDMW",
@@ -2642,7 +2693,7 @@
           "guide_groups": [
             "guide-console-xbox"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B08G9J44ZN",
@@ -2659,12 +2710,12 @@
           "guide_groups": [
             "guide-console-xbox"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0CD7YZKCC",
           "title": "Microsoft Console Xbox Series S 1TB Nero (UE) (Xbox Series S)",
-          "price": 484.99,
+          "price": 449.99,
           "old_price": null,
           "discount": null,
           "image": "https://m.media-amazon.com/images/I/31-v9BNB24L._SL500_.jpg",
@@ -2676,7 +2727,7 @@
           "guide_groups": [
             "guide-console-xbox"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0DCPC3455",
@@ -2693,14 +2744,14 @@
           "guide_groups": [
             "guide-console-xbox"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "guide-console-nintendo": {
       "kind": "console",
       "query": "Nintendo Switch console",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B092JL5NS2",
@@ -2717,14 +2768,14 @@
           "guide_groups": [
             "guide-console-nintendo"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B098BYN3X3",
           "title": "Nintendo - Console Nintendo Switch – Modello OLED Blu Neon/Rosso Neon - schermo OLED 7\" - 64GB",
-          "price": 316.0,
+          "price": 315.0,
           "old_price": 329.99,
-          "discount": 4.0,
+          "discount": 5.0,
           "image": "https://m.media-amazon.com/images/I/31Qx-JgEQjL._SL500_.jpg",
           "url": "https://www.amazon.it/dp/B098BYN3X3?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
           "category": "gaming",
@@ -2734,12 +2785,12 @@
           "guide_groups": [
             "guide-console-nintendo"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B07WKNQ8JT",
           "title": "Nintendo - Console Nintendo Switch - Blu/Rosso Neon [ed. 2021] - schermo LCD 6,2\" - 32GB",
-          "price": 192.99,
+          "price": 185.99,
           "old_price": null,
           "discount": null,
           "image": "https://m.media-amazon.com/images/I/41Y+oL2TwiL._SL500_.jpg",
@@ -2751,7 +2802,7 @@
           "guide_groups": [
             "guide-console-nintendo"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B098RJXBTY",
@@ -2768,24 +2819,7 @@
           "guide_groups": [
             "guide-console-nintendo"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
-        },
-        {
-          "asin": "B098TVDYZ3",
-          "title": "Nintendo Switch (OLED) console de jeux portables 17,8 cm (7\") 64 Go Écran tactile Wifi Blanc",
-          "price": 349.9,
-          "old_price": null,
-          "discount": null,
-          "image": "https://m.media-amazon.com/images/I/31YjBzlaQrL._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B098TVDYZ3?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-          "category": "gaming",
-          "macro_group": "guide_catalog",
-          "seasonal_title": "",
-          "guide_catalog": true,
-          "guide_groups": [
-            "guide-console-nintendo"
-          ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0F3GWXLTS",
@@ -2802,32 +2836,32 @@
           "guide_groups": [
             "guide-console-nintendo"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
+        },
+        {
+          "asin": "B0F2JCL3NZ",
+          "title": "Console Nintendo Switch 2 + Mario Kart World (Gioco digitale incluso)",
+          "price": 476.81,
+          "old_price": null,
+          "discount": null,
+          "image": "https://m.media-amazon.com/images/I/41w8+VQ81QL._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0F2JCL3NZ?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "category": "gaming",
+          "macro_group": "guide_catalog",
+          "seasonal_title": "",
+          "guide_catalog": true,
+          "guide_groups": [
+            "guide-console-nintendo"
+          ],
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "guide-notebook-main": {
       "kind": "notebook",
       "query": "notebook 16GB RAM SSD",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
-        {
-          "asin": "B09HMXSB2B",
-          "title": "Lenovo, Pc portatile Intel Core i5 Pronto All'Uso con Pacchetto libre office, Notebook Con Display HD da 14\", Ram 16Gb, SSD 512Gb, Garanzia Italiana (Ricondizionato)",
-          "price": 299.99,
-          "old_price": null,
-          "discount": null,
-          "image": "https://m.media-amazon.com/images/I/315M4G4q--L._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B09HMXSB2B?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-          "category": "informatica",
-          "macro_group": "guide_catalog",
-          "seasonal_title": "",
-          "guide_catalog": true,
-          "guide_groups": [
-            "guide-notebook-main"
-          ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
-        },
         {
           "asin": "B0G25CCDDW",
           "title": "HP EliteBook - Pc Portatile 14\" - Intel i5-8265U 4 Core 1.60Ghz - SSD 512Gb Ram 16Gb - Notebook con Win 11 e Libre Office - Laptop Pronto all'uso (Ricondizionato)",
@@ -2843,7 +2877,24 @@
           "guide_groups": [
             "guide-notebook-main"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
+        },
+        {
+          "asin": "B09HMXSB2B",
+          "title": "Lenovo, Pc portatile Intel Core i5 Pronto All'Uso con Pacchetto libre office, Notebook Con Display HD da 14\", Ram 16Gb, SSD 512Gb, Garanzia Italiana (Ricondizionato)",
+          "price": 335.0,
+          "old_price": null,
+          "discount": null,
+          "image": "https://m.media-amazon.com/images/I/315M4G4q--L._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B09HMXSB2B?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "category": "informatica",
+          "macro_group": "guide_catalog",
+          "seasonal_title": "",
+          "guide_catalog": true,
+          "guide_groups": [
+            "guide-notebook-main"
+          ],
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0H3TZJS7L",
@@ -2860,7 +2911,7 @@
           "guide_groups": [
             "guide-notebook-main"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0GL2Q9WBM",
@@ -2877,7 +2928,7 @@
           "guide_groups": [
             "guide-notebook-main"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0DFQGDPJD",
@@ -2894,7 +2945,7 @@
           "guide_groups": [
             "guide-notebook-main"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0BCG8WJ75",
@@ -2911,14 +2962,14 @@
           "guide_groups": [
             "guide-notebook-main"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "guide-notebook-gaming": {
       "kind": "notebook",
       "query": "notebook gaming RTX",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B082WFPT28",
@@ -2935,7 +2986,7 @@
           "guide_groups": [
             "guide-notebook-gaming"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0GQZLXHMY",
@@ -2952,7 +3003,7 @@
           "guide_groups": [
             "guide-notebook-gaming"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0GQZ5W9D1",
@@ -2969,7 +3020,7 @@
           "guide_groups": [
             "guide-notebook-gaming"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0GQZP88V8",
@@ -2986,7 +3037,7 @@
           "guide_groups": [
             "guide-notebook-gaming"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0GQZCJCH1",
@@ -3003,16 +3054,16 @@
           "guide_groups": [
             "guide-notebook-gaming"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
-          "asin": "B0GQZP2PTK",
+          "asin": "B0GQZP4WN2",
           "title": "HP OMEN, Notebook Gaming, 16\", NVIDIA RTX 5070 8GB",
-          "price": 1379.99,
+          "price": 1449.99,
           "old_price": null,
           "discount": null,
           "image": "https://m.media-amazon.com/images/I/41+JkCg82rL._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0GQZP2PTK?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "url": "https://www.amazon.it/dp/B0GQZP4WN2?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
           "category": "informatica",
           "macro_group": "guide_catalog",
           "seasonal_title": "",
@@ -3020,14 +3071,14 @@
           "guide_groups": [
             "guide-notebook-gaming"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "guide-desktop-main": {
       "kind": "desktop",
       "query": "PC desktop completo 16GB SSD",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B0H6MSH5DV",
@@ -3044,7 +3095,7 @@
           "guide_groups": [
             "guide-desktop-main"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0GNNJ8NJG",
@@ -3061,7 +3112,7 @@
           "guide_groups": [
             "guide-desktop-main"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0GNNHV66L",
@@ -3078,7 +3129,7 @@
           "guide_groups": [
             "guide-desktop-main"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0F2TRKHNG",
@@ -3095,14 +3146,14 @@
           "guide_groups": [
             "guide-desktop-main"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "guide-desktop-gaming": {
       "kind": "desktop",
       "query": "PC gaming completo RTX",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B0GVJMLFTM",
@@ -3119,7 +3170,7 @@
           "guide_groups": [
             "guide-desktop-gaming"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0FCS7DM66",
@@ -3136,7 +3187,7 @@
           "guide_groups": [
             "guide-desktop-gaming"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B06XRK8V2Q",
@@ -3153,7 +3204,7 @@
           "guide_groups": [
             "guide-desktop-gaming"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0HBBHMZY5",
@@ -3170,7 +3221,24 @@
           "guide_groups": [
             "guide-desktop-gaming"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
+        },
+        {
+          "asin": "B0FRNDCLFC",
+          "title": "PC Gaming Fisso Intel Core Ultra 7 • RTX 5060 • RAM 32GB • SSD 500GB",
+          "price": 2009.0,
+          "old_price": null,
+          "discount": null,
+          "image": "https://m.media-amazon.com/images/I/412QqRMAgEL._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0FRNDCLFC?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "category": "informatica",
+          "macro_group": "guide_catalog",
+          "seasonal_title": "",
+          "guide_catalog": true,
+          "guide_groups": [
+            "guide-desktop-gaming"
+          ],
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0FKTF4MQ9",
@@ -3187,14 +3255,14 @@
           "guide_groups": [
             "guide-desktop-gaming"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "guide-desktop-mini": {
       "kind": "desktop",
       "query": "mini PC Ryzen 16GB SSD",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B0D1MKTH6G",
@@ -3211,7 +3279,7 @@
           "guide_groups": [
             "guide-desktop-mini"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0DC6V781B",
@@ -3228,7 +3296,7 @@
           "guide_groups": [
             "guide-desktop-mini"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0FDVJR31B",
@@ -3245,7 +3313,7 @@
           "guide_groups": [
             "guide-desktop-mini"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0H9XZ1JVZ",
@@ -3262,7 +3330,7 @@
           "guide_groups": [
             "guide-desktop-mini"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0FH4R9BYX",
@@ -3279,7 +3347,7 @@
           "guide_groups": [
             "guide-desktop-mini"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B09X2PMLD9",
@@ -3296,14 +3364,14 @@
           "guide_groups": [
             "guide-desktop-mini"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "guide-tablet-main": {
       "kind": "tablet",
       "query": "tablet 8GB 128GB",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B0FXXDXGLC",
@@ -3320,7 +3388,7 @@
           "guide_groups": [
             "guide-tablet-main"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0FXXJZG55",
@@ -3337,7 +3405,7 @@
           "guide_groups": [
             "guide-tablet-main"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0FCM6VN2S",
@@ -3354,7 +3422,7 @@
           "guide_groups": [
             "guide-tablet-main"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0GSW16RGP",
@@ -3371,7 +3439,7 @@
           "guide_groups": [
             "guide-tablet-main"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0FQNVVFM9",
@@ -3388,16 +3456,16 @@
           "guide_groups": [
             "guide-tablet-main"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
-          "asin": "B0G6BS48TS",
-          "title": "Tablet Lenovo ZAFR0389ES 11\" 8 GB RAM 128 GB Grigio",
-          "price": 163.28,
+          "asin": "B0FQPJ6NN6",
+          "title": "Samsung Galaxy Tab A11 8.7\" WiFi 128GB Tablet Android, 8GB RAM, 3D Sound, Grigio, 25W Fast Mains Charger, FR Version",
+          "price": 219.5,
           "old_price": null,
           "discount": null,
-          "image": "https://m.media-amazon.com/images/I/41KmS+InBZL._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0G6BS48TS?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "image": "https://m.media-amazon.com/images/I/41Ma-baCnYL._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0FQPJ6NN6?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
           "category": "informatica",
           "macro_group": "guide_catalog",
           "seasonal_title": "",
@@ -3405,14 +3473,14 @@
           "guide_groups": [
             "guide-tablet-main"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "guide-tablet-cellular": {
       "kind": "tablet",
       "query": "tablet 5G LTE",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B0FXXJZG55",
@@ -3429,7 +3497,7 @@
           "guide_groups": [
             "guide-tablet-cellular"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B09FKZ2YQ6",
@@ -3446,7 +3514,7 @@
           "guide_groups": [
             "guide-tablet-cellular"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0H6M62J13",
@@ -3463,7 +3531,7 @@
           "guide_groups": [
             "guide-tablet-cellular"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0G2RVP16M",
@@ -3480,7 +3548,7 @@
           "guide_groups": [
             "guide-tablet-cellular"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0FCMD2L95",
@@ -3497,7 +3565,7 @@
           "guide_groups": [
             "guide-tablet-cellular"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0G2RMVLMC",
@@ -3514,14 +3582,14 @@
           "guide_groups": [
             "guide-tablet-cellular"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "guide-monitor-qhd": {
       "kind": "monitor",
       "query": "monitor 27 QHD 144Hz",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B0FWCLJ51V",
@@ -3538,7 +3606,7 @@
           "guide_groups": [
             "guide-monitor-qhd"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0GSH1P5LX",
@@ -3555,7 +3623,7 @@
           "guide_groups": [
             "guide-monitor-qhd"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0FQ5B9BB1",
@@ -3572,7 +3640,7 @@
           "guide_groups": [
             "guide-monitor-qhd"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0H37LKT3Y",
@@ -3589,7 +3657,7 @@
           "guide_groups": [
             "guide-monitor-qhd"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0GY867X53",
@@ -3606,7 +3674,7 @@
           "guide_groups": [
             "guide-monitor-qhd"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0GW8PLMZM",
@@ -3623,14 +3691,14 @@
           "guide_groups": [
             "guide-monitor-qhd"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "guide-monitor-4k": {
       "kind": "monitor",
       "query": "monitor 32 4K",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B0D49P13QH",
@@ -3647,7 +3715,7 @@
           "guide_groups": [
             "guide-monitor-4k"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0GSZ5VP98",
@@ -3664,7 +3732,7 @@
           "guide_groups": [
             "guide-monitor-4k"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0H878MK2H",
@@ -3681,16 +3749,16 @@
           "guide_groups": [
             "guide-monitor-4k"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
-          "asin": "B0FX2212CK",
-          "title": "CUNPU Monitor 32 pollici Ultra HD 4K, 3840x2160, sRGB100%, 1,07 Miliardi di Colori, 60Hz, HDMI 2.0, DisplayPort, Uscita Cuffie, Stand Pivot, Nero",
-          "price": 179.9,
-          "old_price": null,
-          "discount": null,
-          "image": "https://m.media-amazon.com/images/I/41ZMP7ojcwL._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0FX2212CK?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "asin": "B0FN549BVL",
+          "title": "LG 32U721SA Monitor Smart 32\" 4K, HDR, webOS con app di streaming, Wi-Fi, Bluetooth, AirPlay, Screen Share, Browser Internet, Speaker Stereo 10W, USB-C (65W), HDMI, Hub USB, Telecomando, Bianco",
+          "price": 299.99,
+          "old_price": 308.0,
+          "discount": 3.0,
+          "image": "https://m.media-amazon.com/images/I/41-uPrEW-OL._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0FN549BVL?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
           "category": "informatica",
           "macro_group": "guide_catalog",
           "seasonal_title": "",
@@ -3698,7 +3766,7 @@
           "guide_groups": [
             "guide-monitor-4k"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B08HSZ3ZSD",
@@ -3715,7 +3783,7 @@
           "guide_groups": [
             "guide-monitor-4k"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0F1SJRZ8T",
@@ -3732,14 +3800,14 @@
           "guide_groups": [
             "guide-monitor-4k"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "guide-monitor-ultrawide": {
       "kind": "monitor",
       "query": "monitor ultrawide 34",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B0D969VDC6",
@@ -3756,7 +3824,7 @@
           "guide_groups": [
             "guide-monitor-ultrawide"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0FG8P1896",
@@ -3773,7 +3841,7 @@
           "guide_groups": [
             "guide-monitor-ultrawide"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B09T9J4GLT",
@@ -3790,7 +3858,7 @@
           "guide_groups": [
             "guide-monitor-ultrawide"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0GXBNBQYL",
@@ -3807,7 +3875,7 @@
           "guide_groups": [
             "guide-monitor-ultrawide"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B08MQLFVMX",
@@ -3824,7 +3892,7 @@
           "guide_groups": [
             "guide-monitor-ultrawide"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0FJ88FHX3",
@@ -3841,14 +3909,14 @@
           "guide_groups": [
             "guide-monitor-ultrawide"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "guide-smartwatch-main": {
       "kind": "smartwatch",
       "query": "smartwatch GPS AMOLED NFC",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B0G1ZGK7MV",
@@ -3865,7 +3933,7 @@
           "guide_groups": [
             "guide-smartwatch-main"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0GT9K3YBY",
@@ -3882,7 +3950,7 @@
           "guide_groups": [
             "guide-smartwatch-main"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0GTZJFPDV",
@@ -3899,7 +3967,7 @@
           "guide_groups": [
             "guide-smartwatch-main"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0H3L5RXKL",
@@ -3916,7 +3984,7 @@
           "guide_groups": [
             "guide-smartwatch-main"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0FSQBP9ZR",
@@ -3933,7 +4001,7 @@
           "guide_groups": [
             "guide-smartwatch-main"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0FNQVCPV6",
@@ -3950,32 +4018,15 @@
           "guide_groups": [
             "guide-smartwatch-main"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "guide-smartwatch-premium": {
       "kind": "smartwatch",
       "query": "Apple Watch Galaxy Watch Garmin",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
-        {
-          "asin": "B0CG6LMQHH",
-          "title": "Garmin vívoactive 5, 42mm, Smartwatch GPS, Orchid",
-          "price": 199.0,
-          "old_price": 239.99,
-          "discount": 17.0,
-          "image": "https://m.media-amazon.com/images/I/31L8TqC61nL._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0CG6LMQHH?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-          "category": "informatica",
-          "macro_group": "guide_catalog",
-          "seasonal_title": "",
-          "guide_catalog": true,
-          "guide_groups": [
-            "guide-smartwatch-premium"
-          ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
-        },
         {
           "asin": "B0H1FBRQD9",
           "title": "Garmin Forerunner 70, Smartwatch per la corsa, 43mm, GPS multi-band, Display AMOLED, HRV Status, Funzioni di Allenamento Avanzate, Coach, Autonomia fino a 13 giorni (Black)",
@@ -3991,14 +4042,31 @@
           "guide_groups": [
             "guide-smartwatch-premium"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
+        },
+        {
+          "asin": "B0F38GR9PZ",
+          "title": "Garmin vívoactive 6, 42mm, Smartwatch GPS, Pink Dawn",
+          "price": 269.67,
+          "old_price": 299.99,
+          "discount": 10.0,
+          "image": "https://m.media-amazon.com/images/I/410-jjGrSmL._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0F38GR9PZ?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "category": "informatica",
+          "macro_group": "guide_catalog",
+          "seasonal_title": "",
+          "guide_catalog": true,
+          "guide_groups": [
+            "guide-smartwatch-premium"
+          ],
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0DSC8JF59",
           "title": "Garmin Instinct 3, 45mm Smartwatch GPS Ultra Resistente, Black",
-          "price": 315.99,
+          "price": 317.99,
           "old_price": 349.99,
-          "discount": 10.0,
+          "discount": 9.0,
           "image": "https://m.media-amazon.com/images/I/41OJgKr7V1L._SL500_.jpg",
           "url": "https://www.amazon.it/dp/B0DSC8JF59?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
           "category": "informatica",
@@ -4008,16 +4076,16 @@
           "guide_groups": [
             "guide-smartwatch-premium"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
-          "asin": "B0D4B3CK2N",
-          "title": "Samsung Galaxy Watch7 Smartwatch Galaxy AI, Analisi del Sonno, Controllo con doppio avvicinamento di dita, Batteria a lunga durata, GPS, BT, Ghiera Touch in Alluminio 40mm Green [Versione italiana]",
-          "price": 122.18,
+          "asin": "B0CXF7ZMN9",
+          "title": "Apple Watch Series 9 GPS 45 mm Alluminio Mezzanotte (Ricondizionato)",
+          "price": 189.99,
           "old_price": null,
           "discount": null,
-          "image": "https://m.media-amazon.com/images/I/41ZJwGQndcL._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0D4B3CK2N?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "image": "https://m.media-amazon.com/images/I/41tZJRvFBjL._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0CXF7ZMN9?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
           "category": "informatica",
           "macro_group": "guide_catalog",
           "seasonal_title": "",
@@ -4025,24 +4093,7 @@
           "guide_groups": [
             "guide-smartwatch-premium"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
-        },
-        {
-          "asin": "B0CG6NBJ61",
-          "title": "Garmin vívoactive 5, 42mm, Smartwatch GPS, Ivory",
-          "price": 149.4,
-          "old_price": null,
-          "discount": null,
-          "image": "https://m.media-amazon.com/images/I/313+hRMT9NL._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0CG6NBJ61?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-          "category": "informatica",
-          "macro_group": "guide_catalog",
-          "seasonal_title": "",
-          "guide_catalog": true,
-          "guide_groups": [
-            "guide-smartwatch-premium"
-          ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0F38FCHD2",
@@ -4059,20 +4110,20 @@
           "guide_groups": [
             "guide-smartwatch-premium"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "guide-console-handheld": {
       "kind": "console",
       "query": "Steam Deck ROG Ally console portatile",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": []
     },
     "guide-soundbar-main": {
       "kind": "soundbar",
       "query": "soundbar HDMI eARC subwoofer",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B0GL177V7T",
@@ -4089,7 +4140,7 @@
           "guide_groups": [
             "guide-soundbar-main"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0D96Q5P49",
@@ -4106,7 +4157,7 @@
           "guide_groups": [
             "guide-soundbar-main"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0CY5N3F4G",
@@ -4123,7 +4174,7 @@
           "guide_groups": [
             "guide-soundbar-main"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0CCRDYSNS",
@@ -4140,7 +4191,7 @@
           "guide_groups": [
             "guide-soundbar-main"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0H1CVJ3P4",
@@ -4157,7 +4208,7 @@
           "guide_groups": [
             "guide-soundbar-main"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0H4RXPM4B",
@@ -4174,14 +4225,14 @@
           "guide_groups": [
             "guide-soundbar-main"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "guide-soundbar-atmos": {
       "kind": "soundbar",
       "query": "soundbar Dolby Atmos",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B0F9WS1HQJ",
@@ -4198,7 +4249,7 @@
           "guide_groups": [
             "guide-soundbar-atmos"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0D8BSWNBD",
@@ -4215,7 +4266,7 @@
           "guide_groups": [
             "guide-soundbar-atmos"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0D96Q5P49",
@@ -4232,7 +4283,7 @@
           "guide_groups": [
             "guide-soundbar-atmos"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0CY5N3F4G",
@@ -4249,7 +4300,7 @@
           "guide_groups": [
             "guide-soundbar-atmos"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0F6NK5773",
@@ -4266,7 +4317,7 @@
           "guide_groups": [
             "guide-soundbar-atmos"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0D15MC2Q8",
@@ -4283,14 +4334,14 @@
           "guide_groups": [
             "guide-soundbar-atmos"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "guide-headphones": {
       "kind": "headphones",
       "query": "cuffie bluetooth ANC wireless",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B0FNWJ4FV3",
@@ -4307,7 +4358,7 @@
           "guide_groups": [
             "guide-headphones"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0C3HCD34R",
@@ -4324,7 +4375,7 @@
           "guide_groups": [
             "guide-headphones"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0C6KFZC9Z",
@@ -4341,7 +4392,7 @@
           "guide_groups": [
             "guide-headphones"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0DWF6QCGX",
@@ -4358,24 +4409,7 @@
           "guide_groups": [
             "guide-headphones"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
-        },
-        {
-          "asin": "B0F4884LN3",
-          "title": "Soundcore Q20i di Anker, Cuffie Bluetooth Over-Ear con Cancellazione Rumore",
-          "price": 34.99,
-          "old_price": 49.99,
-          "discount": 30.0,
-          "image": "https://m.media-amazon.com/images/I/31Usbi4DUIL._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0F4884LN3?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-          "category": "tv-audio",
-          "macro_group": "guide_catalog",
-          "seasonal_title": "",
-          "guide_catalog": true,
-          "guide_groups": [
-            "guide-headphones"
-          ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0C3KWT5V6",
@@ -4392,15 +4426,49 @@
           "guide_groups": [
             "guide-headphones"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
+        },
+        {
+          "asin": "B0F4884LN3",
+          "title": "Soundcore Q20i di Anker, Cuffie Bluetooth Over-Ear con Cancellazione Rumore",
+          "price": 34.99,
+          "old_price": 49.99,
+          "discount": 30.0,
+          "image": "https://m.media-amazon.com/images/I/31Usbi4DUIL._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0F4884LN3?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "category": "tv-audio",
+          "macro_group": "guide_catalog",
+          "seasonal_title": "",
+          "guide_catalog": true,
+          "guide_groups": [
+            "guide-headphones"
+          ],
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "guide-robot-main": {
       "kind": "robot_vacuum",
       "query": "robot aspirapolvere LiDAR lavapavimenti",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
+        {
+          "asin": "B0GQHBTNP8",
+          "title": "Lefant M3 Robot Aspirapolvere Lavapavimenti con Mappatura 12000Pa, Grigio",
+          "price": 299.99,
+          "old_price": 1099.99,
+          "discount": 73.0,
+          "image": "https://m.media-amazon.com/images/I/514PeHIWXCL._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0GQHBTNP8?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "category": "casa",
+          "macro_group": "guide_catalog",
+          "seasonal_title": "",
+          "guide_catalog": true,
+          "guide_groups": [
+            "guide-robot-main"
+          ],
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
+        },
         {
           "asin": "B0GXWXK6VF",
           "title": "iRobot Roomba® Plus 576 Combo robot aspirapolvere lavapavimenti, 25.000 Pa",
@@ -4416,7 +4484,7 @@
           "guide_groups": [
             "guide-robot-main"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0GHMV8ML5",
@@ -4433,7 +4501,7 @@
           "guide_groups": [
             "guide-robot-main"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0FBGXW79K",
@@ -4450,41 +4518,7 @@
           "guide_groups": [
             "guide-robot-main"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
-        },
-        {
-          "asin": "B0GSRVQB6D",
-          "title": "dreame L40 Ultra A Robot Aspirapolvere Lavapavimenti, Aspirazione 24.000 Pa",
-          "price": 329.0,
-          "old_price": 399.0,
-          "discount": 18.0,
-          "image": "https://m.media-amazon.com/images/I/31wMiIlHu2L._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0GSRVQB6D?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-          "category": "casa",
-          "macro_group": "guide_catalog",
-          "seasonal_title": "",
-          "guide_catalog": true,
-          "guide_groups": [
-            "guide-robot-main"
-          ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
-        },
-        {
-          "asin": "B0GY89Y1G5",
-          "title": "Vexilar Upgrade 10,000Pa Robot Aspirapolvere Lavapavimenti con Mappatura, 3 Ore, Silenzioso W9 Aspirapolvere Robot Lavapavimenti Potente Laser per Pavimenti/Tappeti,Controllo Vocale/APP/Telecomando",
-          "price": 135.99,
-          "old_price": 159.99,
-          "discount": 15.0,
-          "image": "https://m.media-amazon.com/images/I/41oSH9O2dpL._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0GY89Y1G5?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-          "category": "casa",
-          "macro_group": "guide_catalog",
-          "seasonal_title": "",
-          "guide_catalog": true,
-          "guide_groups": [
-            "guide-robot-main"
-          ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0GJRWS8BQ",
@@ -4501,14 +4535,31 @@
           "guide_groups": [
             "guide-robot-main"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
+        },
+        {
+          "asin": "B0GX69BV78",
+          "title": "R11 Robot Aspirapolvere Lavapavimenti con Mappatura, 20000Pa, Stazione di Autosvuotamento 120 Giorni, Navigazione Lidar, WiFi APP 5G/2.4G, Aspirapolvere Robot Autocaricante, per Tappeti/Pavimenti/Peli",
+          "price": 169.98,
+          "old_price": 179.99,
+          "discount": 6.0,
+          "image": "https://m.media-amazon.com/images/I/41YiPDI0h7L._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0GX69BV78?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "category": "casa",
+          "macro_group": "guide_catalog",
+          "seasonal_title": "",
+          "guide_catalog": true,
+          "guide_groups": [
+            "guide-robot-main"
+          ],
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "guide-robot-station": {
       "kind": "robot_vacuum",
       "query": "robot aspirapolvere stazione svuotamento automatico",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B0CTCXKL52",
@@ -4525,7 +4576,7 @@
           "guide_groups": [
             "guide-robot-station"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0DWK7NXXT",
@@ -4542,7 +4593,7 @@
           "guide_groups": [
             "guide-robot-station"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0FBGXW79K",
@@ -4559,24 +4610,7 @@
           "guide_groups": [
             "guide-robot-station"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
-        },
-        {
-          "asin": "B0HC1448VB",
-          "title": "Vexilar W15 Robot Aspirapolvere Lavapavimenti con Mappatura 15000Pa,3 Ore Autonomia,Svuotamento Automatico,Senza Sacco,Aspirapolvere Robot Lavapavimenti Mappatura con Stazione per Tappeti/Pavimenti",
-          "price": 219.99,
-          "old_price": 259.99,
-          "discount": 15.0,
-          "image": "https://m.media-amazon.com/images/I/41QrnOi7BDL._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0HC1448VB?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-          "category": "casa",
-          "macro_group": "guide_catalog",
-          "seasonal_title": "",
-          "guide_catalog": true,
-          "guide_groups": [
-            "guide-robot-station"
-          ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0F4JZNGT8",
@@ -4593,7 +4627,7 @@
           "guide_groups": [
             "guide-robot-station"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0DZ6QQMFJ",
@@ -4610,14 +4644,31 @@
           "guide_groups": [
             "guide-robot-station"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
+        },
+        {
+          "asin": "B0GH7DZTVH",
+          "title": "Vexilar Robot Aspirapolvere Lavapavimenti",
+          "price": 259.99,
+          "old_price": null,
+          "discount": null,
+          "image": "https://m.media-amazon.com/images/I/413-FHRDzSL._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0GH7DZTVH?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "category": "casa",
+          "macro_group": "guide_catalog",
+          "seasonal_title": "",
+          "guide_catalog": true,
+          "guide_groups": [
+            "guide-robot-station"
+          ],
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "guide-washing-main": {
       "kind": "washing_machine",
       "query": "lavatrice 9 kg 1400 giri classe A",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B0H4MDNWJK",
@@ -4634,7 +4685,7 @@
           "guide_groups": [
             "guide-washing-main"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0GXL6W6SK",
@@ -4651,7 +4702,7 @@
           "guide_groups": [
             "guide-washing-main"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0FJ8X54GW",
@@ -4668,7 +4719,7 @@
           "guide_groups": [
             "guide-washing-main"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0GXL1V692",
@@ -4685,7 +4736,7 @@
           "guide_groups": [
             "guide-washing-main"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0FRGH1PGD",
@@ -4702,7 +4753,7 @@
           "guide_groups": [
             "guide-washing-main"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0FRG6QKCQ",
@@ -4719,32 +4770,15 @@
           "guide_groups": [
             "guide-washing-main"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "guide-washing-slim": {
       "kind": "washing_machine",
       "query": "lavatrice slim classe A",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
-        {
-          "asin": "B0BLZM3C67",
-          "title": "Candy RapidÓ Lavatrice Slim 7 Kg, Libera Installazione, Carica Frontale, Classe A, 1200 Giri, 9 Programmi Rapidi, Funzione Vapore, Wi-Fi + BLE e App hOn, 60 x 45 x 85 cm, Bianca - RO4 1274DWMST/1-S",
-          "price": 309.99,
-          "old_price": 503.19,
-          "discount": 38.0,
-          "image": "https://m.media-amazon.com/images/I/419dI33-kHL._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0BLZM3C67?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-          "category": "casa",
-          "macro_group": "guide_catalog",
-          "seasonal_title": "",
-          "guide_catalog": true,
-          "guide_groups": [
-            "guide-washing-slim"
-          ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
-        },
         {
           "asin": "B0GZPD6BKB",
           "title": "Candy ProWash 300 Lavatrice Slim 7 Kg, 1200 Giri, Classe A-15%, Bianca",
@@ -4760,16 +4794,16 @@
           "guide_groups": [
             "guide-washing-slim"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
-          "asin": "B0DP1TV8WX",
-          "title": "Hoover H-Wash 500 Lavatrice Slim 7 kg, 1200 Giri, Classe A, Motore Inverter Eco-Power, Wi-Fi + Bluetooth, Care, Vapore, Profondità Slim 45,4 cm, 85 x 60 x 45,4 cm (AxLxP), Bianco, HW4 27AMC7/1-S",
-          "price": 319.99,
-          "old_price": 389.94,
-          "discount": 18.0,
-          "image": "https://m.media-amazon.com/images/I/41+-OUfdr-L._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0DP1TV8WX?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "asin": "B08DMT1YV7",
+          "title": "Hisense WF5I8043BWF Lavatrice slim a Carica Frontale 8 kg, Classe A-30%, 1400 rpm, 15 Programmi, Connectivity, Vapore, Refresh, Display Touch, Maxi Cestello, Programma Rapido, Alta sostenibilità",
+          "price": 365.47,
+          "old_price": 499.0,
+          "discount": 27.0,
+          "image": "https://m.media-amazon.com/images/I/41ZwjGZA9UL._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B08DMT1YV7?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
           "category": "casa",
           "macro_group": "guide_catalog",
           "seasonal_title": "",
@@ -4777,7 +4811,7 @@
           "guide_groups": [
             "guide-washing-slim"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0GXLC9FMN",
@@ -4794,7 +4828,7 @@
           "guide_groups": [
             "guide-washing-slim"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0HDPP5MDR",
@@ -4811,7 +4845,24 @@
           "guide_groups": [
             "guide-washing-slim"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
+        },
+        {
+          "asin": "B0F62YFRS9",
+          "title": "INDESIT MTWC 71296 W IT - Lavatrice 7 kg Carica Frontale, Classe A",
+          "price": 248.0,
+          "old_price": null,
+          "discount": null,
+          "image": "https://m.media-amazon.com/images/I/41kN5kCaM6L._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0F62YFRS9?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "category": "casa",
+          "macro_group": "guide_catalog",
+          "seasonal_title": "",
+          "guide_catalog": true,
+          "guide_groups": [
+            "guide-washing-slim"
+          ],
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0BHTF9JLL",
@@ -4828,14 +4879,14 @@
           "guide_groups": [
             "guide-washing-slim"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "guide-fridge-main": {
       "kind": "fridge",
       "query": "frigorifero combinato No Frost",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B09NL7DC7W",
@@ -4852,7 +4903,7 @@
           "guide_groups": [
             "guide-fridge-main"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B08N6Z4NW2",
@@ -4869,7 +4920,7 @@
           "guide_groups": [
             "guide-fridge-main"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0983Y1GLG",
@@ -4886,7 +4937,7 @@
           "guide_groups": [
             "guide-fridge-main"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0DKP167VK",
@@ -4903,24 +4954,7 @@
           "guide_groups": [
             "guide-fridge-main"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
-        },
-        {
-          "asin": "B0CBN9NBLZ",
-          "title": "Hisense RB390N4CCD1 Frigorifero Combinato Total No Frost, Inox, 1.86x60cm, Classe D, 304L",
-          "price": 475.43,
-          "old_price": 549.99,
-          "discount": 14.0,
-          "image": "https://m.media-amazon.com/images/I/31DpN00BsGL._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0CBN9NBLZ?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-          "category": "casa",
-          "macro_group": "guide_catalog",
-          "seasonal_title": "",
-          "guide_catalog": true,
-          "guide_groups": [
-            "guide-fridge-main"
-          ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0GVK48C6Z",
@@ -4937,14 +4971,31 @@
           "guide_groups": [
             "guide-fridge-main"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
+        },
+        {
+          "asin": "B0CBN9NBLZ",
+          "title": "Hisense RB390N4CCD1 Frigorifero Combinato Total No Frost, Inox, 1.86x60cm, Classe D, 304L",
+          "price": 476.89,
+          "old_price": 549.99,
+          "discount": 13.0,
+          "image": "https://m.media-amazon.com/images/I/31DpN00BsGL._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0CBN9NBLZ?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "category": "casa",
+          "macro_group": "guide_catalog",
+          "seasonal_title": "",
+          "guide_catalog": true,
+          "guide_groups": [
+            "guide-fridge-main"
+          ],
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "guide-fridge-large": {
       "kind": "fridge",
       "query": "frigorifero americano side by side No Frost",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B0D3VGSNWN",
@@ -4961,7 +5012,7 @@
           "guide_groups": [
             "guide-fridge-large"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B082XTFHK2",
@@ -4978,7 +5029,7 @@
           "guide_groups": [
             "guide-fridge-large"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0BPZPT31H",
@@ -4995,7 +5046,7 @@
           "guide_groups": [
             "guide-fridge-large"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0DKKHLRHY",
@@ -5012,24 +5063,7 @@
           "guide_groups": [
             "guide-fridge-large"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
-        },
-        {
-          "asin": "B0DJR4ZJ2T",
-          "title": "Haier HFR3718ENM - Frigorifero americano, 402 litri, No Frost, colore Inox, Classe energetica E",
-          "price": 647.97,
-          "old_price": null,
-          "discount": null,
-          "image": "https://m.media-amazon.com/images/I/21ZJ+RjM4yL._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0DJR4ZJ2T?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-          "category": "casa",
-          "macro_group": "guide_catalog",
-          "seasonal_title": "",
-          "guide_catalog": true,
-          "guide_groups": [
-            "guide-fridge-large"
-          ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B00U8KST0K",
@@ -5046,14 +5080,31 @@
           "guide_groups": [
             "guide-fridge-large"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
+        },
+        {
+          "asin": "B0HDBTK76P",
+          "title": "CHiQ Frigorifero Americano 525L con No Frost e Distributore d'Acqua, Nero",
+          "price": 689.99,
+          "old_price": null,
+          "discount": null,
+          "image": "https://m.media-amazon.com/images/I/31oXQQEcOOL._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0HDBTK76P?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "category": "casa",
+          "macro_group": "guide_catalog",
+          "seasonal_title": "",
+          "guide_catalog": true,
+          "guide_groups": [
+            "guide-fridge-large"
+          ],
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "guide-airfryer": {
       "kind": "air_fryer",
       "query": "friggitrice ad aria doppio cestello 8L",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B0DL5SL2NR",
@@ -5070,24 +5121,7 @@
           "guide_groups": [
             "guide-airfryer"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
-        },
-        {
-          "asin": "B0CV15NV77",
-          "title": "LEHMANN LEHMANN Friggitrice ad Aria XXL 8L con Divisorio Rimovibile, Air Fryer Doppia Zona Flessibile 1800 W, 12 Modalità Intelligenti & 76-200°C, Pannello Digitale, Lavabile in Lavastoviglie",
-          "price": 59.99,
-          "old_price": 74.99,
-          "discount": 20.0,
-          "image": "https://m.media-amazon.com/images/I/41+CKJXIhWL._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0CV15NV77?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-          "category": "cucina",
-          "macro_group": "guide_catalog",
-          "seasonal_title": "",
-          "guide_catalog": true,
-          "guide_groups": [
-            "guide-airfryer"
-          ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0DGM8MKZB",
@@ -5104,7 +5138,24 @@
           "guide_groups": [
             "guide-airfryer"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
+        },
+        {
+          "asin": "B0CCP2S4LC",
+          "title": "Ardes Friggisana Infinity ARFRYA05L - Friggitrice ad aria 8 litri - Airfryer +35% di spazio e tecnologia Rapid Air - Air fryer 10 in 1, temperatura e timer regolabili, display touch",
+          "price": 67.34,
+          "old_price": null,
+          "discount": null,
+          "image": "https://m.media-amazon.com/images/I/41xnyHU87EL._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0CCP2S4LC?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "category": "cucina",
+          "macro_group": "guide_catalog",
+          "seasonal_title": "",
+          "guide_catalog": true,
+          "guide_groups": [
+            "guide-airfryer"
+          ],
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B07Y9SKZBY",
@@ -5121,7 +5172,7 @@
           "guide_groups": [
             "guide-airfryer"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0G7HYYBTB",
@@ -5138,7 +5189,7 @@
           "guide_groups": [
             "guide-airfryer"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0BVRDK173",
@@ -5155,14 +5206,14 @@
           "guide_groups": [
             "guide-airfryer"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "guide-cordless-vacuum": {
       "kind": "cordless_vacuum",
       "query": "aspirapolvere senza fili 60 minuti",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B0H2Q6G2MK",
@@ -5179,31 +5230,14 @@
           "guide_groups": [
             "guide-cordless-vacuum"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
-        },
-        {
-          "asin": "B0GSYWYT1K",
-          "title": "Proscenic P15+ Aspirapolvere Senza Fili 650W 70 Min 55Kpa Scopa Elettrica Senza Fili Potente Autonomia Asta Telescopica Regolabile Design Autoportante Tecnologia GreenEye per Pavimenti e Tappeti",
-          "price": 113.99,
-          "old_price": 159.99,
-          "discount": 29.0,
-          "image": "https://m.media-amazon.com/images/I/41BTViOlyGL._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0GSYWYT1K?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-          "category": "casa",
-          "macro_group": "guide_catalog",
-          "seasonal_title": "",
-          "guide_catalog": true,
-          "guide_groups": [
-            "guide-cordless-vacuum"
-          ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0GK6Q2WC4",
           "title": "FDUXUD Aspirapolvere Senza Fili 650W/55KPa/70min, 1.8 L, Modalità Uragano",
-          "price": 126.34,
+          "price": 129.99,
           "old_price": 169.99,
-          "discount": 26.0,
+          "discount": 24.0,
           "image": "https://m.media-amazon.com/images/I/41MVIomqBJL._SL500_.jpg",
           "url": "https://www.amazon.it/dp/B0GK6Q2WC4?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
           "category": "casa",
@@ -5213,16 +5247,16 @@
           "guide_groups": [
             "guide-cordless-vacuum"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
-          "asin": "B0F13KXRG8",
-          "title": "aspirapolvere senza fili 55KPa/650W/70Min Per Animali/Pavimenti/Tappeti",
-          "price": 120.02,
-          "old_price": 139.99,
-          "discount": 14.0,
-          "image": "https://m.media-amazon.com/images/I/41J8IkoFa6L._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0F13KXRG8?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "asin": "B0GPWHRFX6",
+          "title": "Proscenic P20+ Aspirapolvere Senza Fili Potente 680W/70 Min/70000Pa, Scopa Elettrica Senza Fili con Bacchetta Pieghevole, Spazzola Antigroviglio, Aspirapolvere Lavapavimenti, per Pavimenti/Tappeti",
+          "price": 159.99,
+          "old_price": 189.99,
+          "discount": 16.0,
+          "image": "https://m.media-amazon.com/images/I/41O5GyDc3zL._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0GPWHRFX6?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
           "category": "casa",
           "macro_group": "guide_catalog",
           "seasonal_title": "",
@@ -5230,7 +5264,7 @@
           "guide_groups": [
             "guide-cordless-vacuum"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0H82L4RKL",
@@ -5247,12 +5281,29 @@
           "guide_groups": [
             "guide-cordless-vacuum"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
+        },
+        {
+          "asin": "B0F13KXRG8",
+          "title": "aspirapolvere senza fili 55KPa/650W/70Min Per Animali/Pavimenti/Tappeti",
+          "price": 139.99,
+          "old_price": null,
+          "discount": null,
+          "image": "https://m.media-amazon.com/images/I/41J8IkoFa6L._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0F13KXRG8?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "category": "casa",
+          "macro_group": "guide_catalog",
+          "seasonal_title": "",
+          "guide_catalog": true,
+          "guide_groups": [
+            "guide-cordless-vacuum"
+          ],
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0H6WY9Z49",
           "title": "Vexilar V15Max Aspirapolvere Senza Fili 65KPa, 60 Min Eco, Tubo Flessibile",
-          "price": 129.99,
+          "price": 159.99,
           "old_price": null,
           "discount": null,
           "image": "https://m.media-amazon.com/images/I/41hnSGg5N1L._SL500_.jpg",
@@ -5264,7 +5315,7 @@
           "guide_groups": [
             "guide-cordless-vacuum"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
@@ -5455,7 +5506,7 @@
     "integratori-proteine-0": {
       "kind": "supplement",
       "query": "proteine whey concentrate",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B09HMSF7FG",
@@ -5472,14 +5523,14 @@
           "guide_groups": [
             "integratori-proteine-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "integratori-proteine-1": {
       "kind": "supplement",
       "query": "proteine whey isolate",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B09MFQ7YHL",
@@ -5496,7 +5547,7 @@
           "guide_groups": [
             "integratori-proteine-1"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B07R16QQY8",
@@ -5513,7 +5564,7 @@
           "guide_groups": [
             "integratori-proteine-1"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B00SP309XM",
@@ -5530,7 +5581,7 @@
           "guide_groups": [
             "integratori-proteine-1"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B06XSNSL6G",
@@ -5547,14 +5598,14 @@
           "guide_groups": [
             "integratori-proteine-1"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "integratori-proteine-2": {
       "kind": "supplement",
       "query": "caseina micellare",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B00SP334TS",
@@ -5571,7 +5622,24 @@
           "guide_groups": [
             "integratori-proteine-2"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
+        },
+        {
+          "asin": "B08P7SX7FW",
+          "title": "GymBeam Caseina Micellare 1000g - Caseine di Alta Qualità - Polvere di Caseina per Crescita e la Rigenerazione Muscolare - A Basso Contenuto di Grassi, Deliziosa e Ben Solubile (1000 g, Chocolate)",
+          "price": 26.95,
+          "old_price": 30.99,
+          "discount": 13.0,
+          "image": "https://m.media-amazon.com/images/I/31tV+9g0CGL._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B08P7SX7FW?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "category": "cura-persona",
+          "macro_group": "guide_catalog",
+          "seasonal_title": "",
+          "guide_catalog": true,
+          "guide_groups": [
+            "integratori-proteine-2"
+          ],
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B08P7XJ7S6",
@@ -5588,7 +5656,7 @@
           "guide_groups": [
             "integratori-proteine-2"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B07KZ6YYDG",
@@ -5605,12 +5673,12 @@
           "guide_groups": [
             "integratori-proteine-2"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0FH7BB8LX",
           "title": "GymBeam Caseina Micellare 1000g - Caseine di Alta Qualità - Polvere di Caseina per Crescita e la Rigenerazione Muscolare - A Basso Contenuto di Grassi, Deliziosa e Ben Solubile (1000 g, Fragola)",
-          "price": 26.95,
+          "price": 24.95,
           "old_price": null,
           "discount": null,
           "image": "https://m.media-amazon.com/images/I/31jaNeKivfL._SL500_.jpg",
@@ -5622,24 +5690,7 @@
           "guide_groups": [
             "integratori-proteine-2"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
-        },
-        {
-          "asin": "B0FH7FCBB2",
-          "title": "GymBeam Caseina Micellare 1000g - Caseine di Alta Qualità - Polvere di Caseina per Crescita e la Rigenerazione Muscolare - A Basso Contenuto di Grassi, Deliziosa e Ben Solubile (1000 g, Neutro)",
-          "price": 26.95,
-          "old_price": null,
-          "discount": null,
-          "image": "https://m.media-amazon.com/images/I/31jaNeKivfL._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0FH7FCBB2?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-          "category": "cura-persona",
-          "macro_group": "guide_catalog",
-          "seasonal_title": "",
-          "guide_catalog": true,
-          "guide_groups": [
-            "integratori-proteine-2"
-          ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B07ZV17XFL",
@@ -5656,14 +5707,14 @@
           "guide_groups": [
             "integratori-proteine-2"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "integratori-proteine-3": {
       "kind": "supplement",
       "query": "proteine vegetali polvere",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B0B9CJ2WJ2",
@@ -5680,7 +5731,7 @@
           "guide_groups": [
             "integratori-proteine-3"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0GN9NYKSD",
@@ -5697,7 +5748,7 @@
           "guide_groups": [
             "integratori-proteine-3"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0FRVF72Z4",
@@ -5714,14 +5765,14 @@
           "guide_groups": [
             "integratori-proteine-3"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "integratori-eaa-0": {
       "kind": "supplement",
       "query": "EAA aminoacidi essenziali",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B0CG6QRT5D",
@@ -5738,7 +5789,7 @@
           "guide_groups": [
             "integratori-eaa-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0DXKPDNG8",
@@ -5755,7 +5806,7 @@
           "guide_groups": [
             "integratori-eaa-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0C8BD2PX5",
@@ -5772,7 +5823,7 @@
           "guide_groups": [
             "integratori-eaa-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B08P1TLZ6V",
@@ -5789,7 +5840,24 @@
           "guide_groups": [
             "integratori-eaa-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
+        },
+        {
+          "asin": "B0C8BH3R4X",
+          "title": "Bandini® EAA Aminoacidi Essenziali 1300mg | 150 Compresse | Essential Amino",
+          "price": 15.9,
+          "old_price": null,
+          "discount": null,
+          "image": "https://m.media-amazon.com/images/I/41j1A7WBwSL._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0C8BH3R4X?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "category": "cura-persona",
+          "macro_group": "guide_catalog",
+          "seasonal_title": "",
+          "guide_catalog": true,
+          "guide_groups": [
+            "integratori-eaa-0"
+          ],
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B08P1TG2PB",
@@ -5806,31 +5874,14 @@
           "guide_groups": [
             "integratori-eaa-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
-        },
-        {
-          "asin": "B08P1VPR2H",
-          "title": "GymBeam EAA Amminoacidi Essenziali in Polvere, Fonte Completa di BCAA, Vitale per Rigenerazione e Crescita Muscolare, Partecipa alla Formazione di Ormoni ed Enzimi, Delizioso (500 g, Mango Maracuja)",
-          "price": 19.95,
-          "old_price": null,
-          "discount": null,
-          "image": "https://m.media-amazon.com/images/I/311UZnelMFL._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B08P1VPR2H?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-          "category": "cura-persona",
-          "macro_group": "guide_catalog",
-          "seasonal_title": "",
-          "guide_catalog": true,
-          "guide_groups": [
-            "integratori-eaa-0"
-          ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "integratori-bcaa-0": {
       "kind": "supplement",
       "query": "BCAA aminoacidi",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B0B1G6D1FB",
@@ -5847,7 +5898,7 @@
           "guide_groups": [
             "integratori-bcaa-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B074V4L4SB",
@@ -5864,7 +5915,7 @@
           "guide_groups": [
             "integratori-bcaa-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B09Z754YFF",
@@ -5881,7 +5932,7 @@
           "guide_groups": [
             "integratori-bcaa-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B074V4PMRZ",
@@ -5898,7 +5949,7 @@
           "guide_groups": [
             "integratori-bcaa-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B06WWDPNSS",
@@ -5915,7 +5966,7 @@
           "guide_groups": [
             "integratori-bcaa-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0B1FZ6HGX",
@@ -5932,14 +5983,14 @@
           "guide_groups": [
             "integratori-bcaa-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "integratori-creatina-0": {
       "kind": "supplement",
       "query": "creatina monoidrato",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B00SP2ZKW8",
@@ -5956,15 +6007,32 @@
           "guide_groups": [
             "integratori-creatina-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "integratori-preworkout-0": {
       "kind": "supplement",
       "query": "pre workout integratore",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
+        {
+          "asin": "B00TFB0YTM",
+          "title": "Optimum Nutrition Gold Standard Pre-Workout in Polvere, 330g, 30 Porzioni",
+          "price": 25.42,
+          "old_price": 32.99,
+          "discount": 23.0,
+          "image": "https://m.media-amazon.com/images/I/41xqI7nbLDL._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B00TFB0YTM?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "category": "cura-persona",
+          "macro_group": "guide_catalog",
+          "seasonal_title": "",
+          "guide_catalog": true,
+          "guide_groups": [
+            "integratori-preworkout-0"
+          ],
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
+        },
         {
           "asin": "B0FGQTTQ5J",
           "title": "Pre Workout Pre Allenamento 30 Stick 300g Integratore Sport con Creatina Citrullina Beta Alanina Taurina Caffeina Vitamine B6 B12 Energia e Concentrazione Prima dello Sport Aroma Lampone Blu",
@@ -5980,7 +6048,7 @@
           "guide_groups": [
             "integratori-preworkout-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0DBJ4F6TW",
@@ -5997,7 +6065,7 @@
           "guide_groups": [
             "integratori-preworkout-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0DBJ49DCV",
@@ -6014,41 +6082,7 @@
           "guide_groups": [
             "integratori-preworkout-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
-        },
-        {
-          "asin": "B00TFB0YTM",
-          "title": "Optimum Nutrition Gold Standard Pre-Workout in Polvere, 330g, 30 Porzioni",
-          "price": 30.11,
-          "old_price": 32.99,
-          "discount": 9.0,
-          "image": "https://m.media-amazon.com/images/I/41xqI7nbLDL._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B00TFB0YTM?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-          "category": "cura-persona",
-          "macro_group": "guide_catalog",
-          "seasonal_title": "",
-          "guide_catalog": true,
-          "guide_groups": [
-            "integratori-preworkout-0"
-          ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
-        },
-        {
-          "asin": "B0F674KMT3",
-          "title": "Nutreika Pre Workout Potente + Creatina Monoidrata Pura e Caffeina | Preworkout Forte in Polvere Concentrata 300g - Energia, Forza, Focus per Palestra, Clean Formula Made in Italy",
-          "price": 26.12,
-          "old_price": 27.49,
-          "discount": 5.0,
-          "image": "https://m.media-amazon.com/images/I/51zn+EBbj+L._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0F674KMT3?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-          "category": "cura-persona",
-          "macro_group": "guide_catalog",
-          "seasonal_title": "",
-          "guide_catalog": true,
-          "guide_groups": [
-            "integratori-preworkout-0"
-          ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0CW9VLJXR",
@@ -6065,14 +6099,31 @@
           "guide_groups": [
             "integratori-preworkout-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
+        },
+        {
+          "asin": "B0CPM8SPNF",
+          "title": "Italian Elite® Pre Workout Extreme, stimola Forza, Energia, Resistenza, Pump Muscolare e Focus Mentale per l'allenamento. 120 cpr con Beta Alanina Arginina Caffeina Glutammina Carnitina Vitamine",
+          "price": 21.9,
+          "old_price": null,
+          "discount": null,
+          "image": "https://m.media-amazon.com/images/I/41mtVxn7LAL._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0CPM8SPNF?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "category": "cura-persona",
+          "macro_group": "guide_catalog",
+          "seasonal_title": "",
+          "guide_catalog": true,
+          "guide_groups": [
+            "integratori-preworkout-0"
+          ],
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "integratori-preworkout-1": {
       "kind": "supplement",
       "query": "pre workout senza caffeina",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B0FNWW1QDL",
@@ -6089,7 +6140,7 @@
           "guide_groups": [
             "integratori-preworkout-1"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0FNWT8J3F",
@@ -6106,7 +6157,7 @@
           "guide_groups": [
             "integratori-preworkout-1"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0FNWVJYYM",
@@ -6123,7 +6174,7 @@
           "guide_groups": [
             "integratori-preworkout-1"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0CW9VLJXR",
@@ -6140,7 +6191,7 @@
           "guide_groups": [
             "integratori-preworkout-1"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0CW9XWGMW",
@@ -6157,7 +6208,7 @@
           "guide_groups": [
             "integratori-preworkout-1"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0B5HGZ9LM",
@@ -6174,14 +6225,14 @@
           "guide_groups": [
             "integratori-preworkout-1"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "integratori-caffeina-0": {
       "kind": "supplement",
       "query": "caffeina integratore compresse",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B0FS1JLD1P",
@@ -6198,7 +6249,7 @@
           "guide_groups": [
             "integratori-caffeina-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0CGRXZP5C",
@@ -6215,7 +6266,7 @@
           "guide_groups": [
             "integratori-caffeina-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B01IFKOYYY",
@@ -6232,7 +6283,24 @@
           "guide_groups": [
             "integratori-caffeina-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
+        },
+        {
+          "asin": "B0FC6NWFXS",
+          "title": "Caffeina Integratore Pura – 400 compresse – 200 mg – Alto Dosaggio",
+          "price": 11.95,
+          "old_price": null,
+          "discount": null,
+          "image": "https://m.media-amazon.com/images/I/41x0fmbXnML._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0FC6NWFXS?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "category": "cura-persona",
+          "macro_group": "guide_catalog",
+          "seasonal_title": "",
+          "guide_catalog": true,
+          "guide_groups": [
+            "integratori-caffeina-0"
+          ],
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0F37GFSRM",
@@ -6249,7 +6317,7 @@
           "guide_groups": [
             "integratori-caffeina-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0BPCVSZHJ",
@@ -6266,31 +6334,14 @@
           "guide_groups": [
             "integratori-caffeina-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
-        },
-        {
-          "asin": "B017N2SXYW",
-          "title": "vit4ever Compresse di Caffeina da 200 mg ciascuna – 500 Compresse",
-          "price": 14.99,
-          "old_price": null,
-          "discount": null,
-          "image": "https://m.media-amazon.com/images/I/412kIds2eJL._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B017N2SXYW?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-          "category": "cura-persona",
-          "macro_group": "guide_catalog",
-          "seasonal_title": "",
-          "guide_catalog": true,
-          "guide_groups": [
-            "integratori-caffeina-0"
-          ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "integratori-betaalanina-0": {
       "kind": "supplement",
       "query": "beta alanina integratore",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B00H3BZ44G",
@@ -6307,14 +6358,14 @@
           "guide_groups": [
             "integratori-betaalanina-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B086VHSFXQ",
           "title": "EthicSport Beta Alanina – Formula pura in capsule vegetali – Supporto tecnico per sportivi ad alta intensità – 90 capsule – Doping free tested*",
-          "price": 16.7,
+          "price": 16.85,
           "old_price": 18.02,
-          "discount": 7.0,
+          "discount": 6.0,
           "image": "https://m.media-amazon.com/images/I/41vVw3rBJKL._SL500_.jpg",
           "url": "https://www.amazon.it/dp/B086VHSFXQ?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
           "category": "cura-persona",
@@ -6324,14 +6375,14 @@
           "guide_groups": [
             "integratori-betaalanina-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0746SMXZS",
           "title": "Net Integratori Beta Alanina 1250 – 90 compresse – Formula Pura 100% ad Alto Dosaggio – Integratore Workout intensi e Endurance per Trofismo Muscolare e Acido Lattico",
-          "price": 15.91,
+          "price": 15.9,
           "old_price": 16.65,
-          "discount": 4.0,
+          "discount": 5.0,
           "image": "https://m.media-amazon.com/images/I/41mMhCEyAIL._SL500_.jpg",
           "url": "https://www.amazon.it/dp/B0746SMXZS?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
           "category": "cura-persona",
@@ -6341,7 +6392,7 @@
           "guide_groups": [
             "integratori-betaalanina-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B07F2DGH4M",
@@ -6358,7 +6409,7 @@
           "guide_groups": [
             "integratori-betaalanina-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B00EONN0EW",
@@ -6375,7 +6426,7 @@
           "guide_groups": [
             "integratori-betaalanina-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B074PNFRLP",
@@ -6392,14 +6443,14 @@
           "guide_groups": [
             "integratori-betaalanina-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "integratori-citrullina-0": {
       "kind": "supplement",
       "query": "citrullina malato integratore",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B0H1QVZLJ2",
@@ -6416,7 +6467,7 @@
           "guide_groups": [
             "integratori-citrullina-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0CPM3157M",
@@ -6433,7 +6484,7 @@
           "guide_groups": [
             "integratori-citrullina-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0BK8STFVG",
@@ -6450,7 +6501,7 @@
           "guide_groups": [
             "integratori-citrullina-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0CWV4873N",
@@ -6467,7 +6518,7 @@
           "guide_groups": [
             "integratori-citrullina-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0DGGHS7N6",
@@ -6484,14 +6535,14 @@
           "guide_groups": [
             "integratori-citrullina-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "integratori-ciclodestrine-0": {
       "kind": "supplement",
       "query": "ciclodestrine integratore sport",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B0763S87WQ",
@@ -6508,7 +6559,7 @@
           "guide_groups": [
             "integratori-ciclodestrine-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0H6MW9MPY",
@@ -6525,7 +6576,7 @@
           "guide_groups": [
             "integratori-ciclodestrine-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B01I8K2JTI",
@@ -6542,7 +6593,7 @@
           "guide_groups": [
             "integratori-ciclodestrine-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B07NF34FKJ",
@@ -6559,31 +6610,14 @@
           "guide_groups": [
             "integratori-ciclodestrine-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
-        },
-        {
-          "asin": "B0CW9Y87DS",
-          "title": "GymBeam Dextrin 1000 g, Ciclodestrine in Polvere, Fonte Energetica di Carboidrati a Rilascio Rapido e Graduale, Destrina Ciclica Altamente Ramificata, Ben Assorbibile e Digeribile",
-          "price": 28.95,
-          "old_price": null,
-          "discount": null,
-          "image": "https://m.media-amazon.com/images/I/31kl7GdvxRL._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0CW9Y87DS?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-          "category": "cura-persona",
-          "macro_group": "guide_catalog",
-          "seasonal_title": "",
-          "guide_catalog": true,
-          "guide_groups": [
-            "integratori-ciclodestrine-0"
-          ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "integratori-maltodestrine-0": {
       "kind": "supplement",
       "query": "maltodestrine sport polvere",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B009AXWS8A",
@@ -6600,7 +6634,7 @@
           "guide_groups": [
             "integratori-maltodestrine-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0H2NMSVLP",
@@ -6617,7 +6651,7 @@
           "guide_groups": [
             "integratori-maltodestrine-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B00SP30CH0",
@@ -6634,7 +6668,7 @@
           "guide_groups": [
             "integratori-maltodestrine-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0H2DKJZJQ",
@@ -6651,7 +6685,7 @@
           "guide_groups": [
             "integratori-maltodestrine-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0BB15J4HX",
@@ -6668,7 +6702,7 @@
           "guide_groups": [
             "integratori-maltodestrine-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B077H2GM7Q",
@@ -6685,14 +6719,14 @@
           "guide_groups": [
             "integratori-maltodestrine-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "integratori-glutammina-0": {
       "kind": "supplement",
       "query": "L glutammina integratore",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B09FFM5M38",
@@ -6709,7 +6743,7 @@
           "guide_groups": [
             "integratori-glutammina-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B08P5TXMTK",
@@ -6726,7 +6760,7 @@
           "guide_groups": [
             "integratori-glutammina-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0DSJVWHLV",
@@ -6743,7 +6777,7 @@
           "guide_groups": [
             "integratori-glutammina-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B07WZBFPG7",
@@ -6760,7 +6794,7 @@
           "guide_groups": [
             "integratori-glutammina-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B06XR3X8BJ",
@@ -6777,7 +6811,7 @@
           "guide_groups": [
             "integratori-glutammina-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B09X5YYC15",
@@ -6794,14 +6828,14 @@
           "guide_groups": [
             "integratori-glutammina-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "integratori-omega3-0": {
       "kind": "supplement",
       "query": "omega 3 EPA DHA integratore",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B0DCP2BQBP",
@@ -6818,7 +6852,7 @@
           "guide_groups": [
             "integratori-omega3-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B09VTBBM6L",
@@ -6835,7 +6869,7 @@
           "guide_groups": [
             "integratori-omega3-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B01K28121U",
@@ -6852,7 +6886,7 @@
           "guide_groups": [
             "integratori-omega3-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B018UFDCRY",
@@ -6869,7 +6903,7 @@
           "guide_groups": [
             "integratori-omega3-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0DH3KQN49",
@@ -6886,7 +6920,7 @@
           "guide_groups": [
             "integratori-omega3-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0GQVYDCNT",
@@ -6903,14 +6937,14 @@
           "guide_groups": [
             "integratori-omega3-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "integratori-multivitaminici-0": {
       "kind": "supplement",
       "query": "multivitaminico integratore",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B088RKJ39K",
@@ -6927,7 +6961,7 @@
           "guide_groups": [
             "integratori-multivitaminici-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B09W5L8Y1W",
@@ -6944,7 +6978,7 @@
           "guide_groups": [
             "integratori-multivitaminici-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B01INBIB2Q",
@@ -6961,7 +6995,7 @@
           "guide_groups": [
             "integratori-multivitaminici-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0D2RNPY7Q",
@@ -6978,7 +7012,7 @@
           "guide_groups": [
             "integratori-multivitaminici-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B075RCPZ3P",
@@ -6995,7 +7029,7 @@
           "guide_groups": [
             "integratori-multivitaminici-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B08FMKKMNQ",
@@ -7012,14 +7046,14 @@
           "guide_groups": [
             "integratori-multivitaminici-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "integratori-magnesio-0": {
       "kind": "supplement",
       "query": "magnesio citrato integratore",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B0GVKC2C3T",
@@ -7036,7 +7070,7 @@
           "guide_groups": [
             "integratori-magnesio-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B094P4HN3Y",
@@ -7053,7 +7087,7 @@
           "guide_groups": [
             "integratori-magnesio-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B07MK35YHP",
@@ -7070,7 +7104,7 @@
           "guide_groups": [
             "integratori-magnesio-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B07VGG81ZB",
@@ -7087,7 +7121,7 @@
           "guide_groups": [
             "integratori-magnesio-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0B1QR7DWZ",
@@ -7104,7 +7138,7 @@
           "guide_groups": [
             "integratori-magnesio-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B07DLV7V5D",
@@ -7121,14 +7155,14 @@
           "guide_groups": [
             "integratori-magnesio-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "integratori-magnesio-1": {
       "kind": "supplement",
       "query": "magnesio bisglicinato integratore",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B0G3CZ9XQM",
@@ -7145,7 +7179,7 @@
           "guide_groups": [
             "integratori-magnesio-1"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0CKFHG8NQ",
@@ -7162,7 +7196,7 @@
           "guide_groups": [
             "integratori-magnesio-1"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0CRHVM1N8",
@@ -7179,7 +7213,7 @@
           "guide_groups": [
             "integratori-magnesio-1"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0DYDQVML5",
@@ -7196,14 +7230,14 @@
           "guide_groups": [
             "integratori-magnesio-1"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0HBBQQTHV",
           "title": "MAGNESIO BISGLICINATO - 180 COMPRESSE (Scorta 3 Mesi) | Bisglicinato Capsule | Completo, con Vitamina B6, 300mg di Magnesio Elementare | Glicinato, chelato | Vegano",
-          "price": 8.99,
-          "old_price": 9.99,
-          "discount": 10.0,
+          "price": 9.99,
+          "old_price": null,
+          "discount": null,
           "image": "https://m.media-amazon.com/images/I/41pSFvH482L._SL500_.jpg",
           "url": "https://www.amazon.it/dp/B0HBBQQTHV?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
           "category": "cura-persona",
@@ -7213,7 +7247,7 @@
           "guide_groups": [
             "integratori-magnesio-1"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B07LH73GZ9",
@@ -7230,14 +7264,14 @@
           "guide_groups": [
             "integratori-magnesio-1"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "integratori-potassio-0": {
       "kind": "supplement",
       "query": "potassio integratore",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B0CMVBP21R",
@@ -7254,7 +7288,7 @@
           "guide_groups": [
             "integratori-potassio-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0924PV4SK",
@@ -7271,7 +7305,7 @@
           "guide_groups": [
             "integratori-potassio-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B01LY3VGB3",
@@ -7288,7 +7322,7 @@
           "guide_groups": [
             "integratori-potassio-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0DTB4QJXN",
@@ -7305,7 +7339,7 @@
           "guide_groups": [
             "integratori-potassio-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0DPGJXVZ1",
@@ -7322,7 +7356,7 @@
           "guide_groups": [
             "integratori-potassio-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B084SB7N4V",
@@ -7339,19 +7373,19 @@
           "guide_groups": [
             "integratori-potassio-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "integratori-elettroliti-0": {
       "kind": "supplement",
       "query": "elettroliti sport integratore",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B0GVNZBYT8",
           "title": "Liquid I.V. Integratore Elettroliti per Idratazione, Lemon Lime, 16 stick",
-          "price": 12.38,
+          "price": 12.41,
           "old_price": 17.9,
           "discount": 31.0,
           "image": "https://m.media-amazon.com/images/I/51A0qEbOWRL._SL500_.jpg",
@@ -7363,24 +7397,7 @@
           "guide_groups": [
             "integratori-elettroliti-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
-        },
-        {
-          "asin": "B0DXFJV7HG",
-          "title": "Enervit Pure-Pro Electrolytes Boost, Elettroliti, Integratore di Sali di Sodio e Magnesio, Gusto Limone, Riduzione Stanchezza, Per Workout Intensi, 0 CALORIES & SUGAR FREE, 16 Bustine da 4g",
-          "price": 11.2,
-          "old_price": 14.0,
-          "discount": 20.0,
-          "image": "https://m.media-amazon.com/images/I/41YlrElr9gL._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0DXFJV7HG?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-          "category": "cura-persona",
-          "macro_group": "guide_catalog",
-          "seasonal_title": "",
-          "guide_catalog": true,
-          "guide_groups": [
-            "integratori-elettroliti-0"
-          ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0GQHRJ5PK",
@@ -7397,14 +7414,14 @@
           "guide_groups": [
             "integratori-elettroliti-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B08DJ8V6QQ",
           "title": "+Watt Sali+ Electrolyte - Soluzione ipotonica di carboidrati ed elettroliti per il supporto energetico - Doypack da 600 g - Gusto Arancia",
-          "price": 12.97,
+          "price": 12.95,
           "old_price": 14.0,
-          "discount": 7.0,
+          "discount": 8.0,
           "image": "https://m.media-amazon.com/images/I/41hnP6QhsKL._SL500_.jpg",
           "url": "https://www.amazon.it/dp/B08DJ8V6QQ?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
           "category": "cura-persona",
@@ -7414,7 +7431,7 @@
           "guide_groups": [
             "integratori-elettroliti-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B015SMEPHS",
@@ -7431,7 +7448,7 @@
           "guide_groups": [
             "integratori-elettroliti-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B008AGN094",
@@ -7448,14 +7465,31 @@
           "guide_groups": [
             "integratori-elettroliti-0"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
+        },
+        {
+          "asin": "B0DJSV4PGT",
+          "title": "Elettroliti Integratore 900mg con Magnesio e Potassio Sodio Cloruro e Calcio integratore - 400 Compresse per una Fornitura di 13 Mesi - Integratori Sport - Electrolytes da Nutravita",
+          "price": 17.99,
+          "old_price": null,
+          "discount": null,
+          "image": "https://m.media-amazon.com/images/I/41PlrCcc6jL._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0DJSV4PGT?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "category": "cura-persona",
+          "macro_group": "guide_catalog",
+          "seasonal_title": "",
+          "guide_catalog": true,
+          "guide_groups": [
+            "integratori-elettroliti-0"
+          ],
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "guide-fashion-sneakers": {
       "kind": "fashion",
       "query": "sneakers uomo donna",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B0CKJCWPW8",
@@ -7472,7 +7506,7 @@
           "guide_groups": [
             "guide-fashion-sneakers"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0CHNDR32Q",
@@ -7489,7 +7523,7 @@
           "guide_groups": [
             "guide-fashion-sneakers"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0H71B9LJJ",
@@ -7506,7 +7540,7 @@
           "guide_groups": [
             "guide-fashion-sneakers"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0H6FXFJ5D",
@@ -7523,7 +7557,7 @@
           "guide_groups": [
             "guide-fashion-sneakers"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0H6G9W7KH",
@@ -7540,14 +7574,14 @@
           "guide_groups": [
             "guide-fashion-sneakers"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "guide-fashion-running": {
       "kind": "fashion",
       "query": "scarpe running trail sneakers",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B0F4GW3G1R",
@@ -7564,7 +7598,24 @@
           "guide_groups": [
             "guide-fashion-running"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
+        },
+        {
+          "asin": "B0G5YPXWPZ",
+          "title": "SAGUARO Barefoot Shoes Uomo Scarpe Barefoot Donna Suola in Goccia Zero Sneakers Leggere Scarpe Trail Running Minimalista Antiscivolo — Adatte per Tempo Libero Città Viaggio Nero, Gr.45",
+          "price": 42.39,
+          "old_price": 52.99,
+          "discount": 20.0,
+          "image": "https://m.media-amazon.com/images/I/41eZGeVmQNL._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0G5YPXWPZ?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "category": "casa",
+          "macro_group": "guide_catalog",
+          "seasonal_title": "",
+          "guide_catalog": true,
+          "guide_groups": [
+            "guide-fashion-running"
+          ],
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0D3BDRNPZ",
@@ -7581,7 +7632,7 @@
           "guide_groups": [
             "guide-fashion-running"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0H6FRXG21",
@@ -7598,16 +7649,16 @@
           "guide_groups": [
             "guide-fashion-running"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
-          "asin": "B0H6FHFXB6",
-          "title": "Hitmars Scarpe Running Uomo Ginnastica Donna Scarpe da Corsa Trekking Sneakers Trail Sportive Fitness Correre Running Shoes Camminare Negro EU 42",
-          "price": 31.68,
-          "old_price": 35.59,
-          "discount": 11.0,
-          "image": "https://m.media-amazon.com/images/I/31E5kc2SXkL._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0H6FHFXB6?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "asin": "B0D5MRP79D",
+          "title": "WOWEI Scarpe da Running Donna Scarpe Ginnastica Corsa Sportive Sneakers Traspiranti Leggero Air Scarpe Camminata Jogging Trail Gym Fitness Tennis all'Aperto (Lauf-T2, 39EU)",
+          "price": 18.83,
+          "old_price": null,
+          "discount": null,
+          "image": "https://m.media-amazon.com/images/I/416augox+eL._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0D5MRP79D?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
           "category": "casa",
           "macro_group": "guide_catalog",
           "seasonal_title": "",
@@ -7615,16 +7666,16 @@
           "guide_groups": [
             "guide-fashion-running"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
-          "asin": "B0H6FCGC3V",
-          "title": "Hitmars Scarpe Running Uomo Ginnastica Donna Scarpe da Corsa Trekking Sneakers Trail Sportive Fitness Correre Running Shoes Camminare Verde EU 43",
-          "price": 31.68,
-          "old_price": 35.59,
-          "discount": 11.0,
-          "image": "https://m.media-amazon.com/images/I/41zRLrAy9yL._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0H6FCGC3V?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "asin": "B0GH72WFZJ",
+          "title": "Mnking Scarpe da Ginnastica Uomo Donna Scarpe Corsa Sportive Running Fitness Trail Mesh Leggera Respirabile Gym Sneaker Basse Nero Bianco EU39",
+          "price": 25.99,
+          "old_price": null,
+          "discount": null,
+          "image": "https://m.media-amazon.com/images/I/41l0DDR7LGL._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0GH72WFZJ?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
           "category": "casa",
           "macro_group": "guide_catalog",
           "seasonal_title": "",
@@ -7632,31 +7683,14 @@
           "guide_groups": [
             "guide-fashion-running"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
-        },
-        {
-          "asin": "B0H6FH4N4Y",
-          "title": "Hitmars Scarpe Running Uomo Ginnastica Donna Scarpe da Corsa Trekking Sneakers Trail Sportive Fitness Correre Running Shoes Negro Blanco EU 42",
-          "price": 31.68,
-          "old_price": 35.59,
-          "discount": 11.0,
-          "image": "https://m.media-amazon.com/images/I/41LJR7fc71L._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0H6FH4N4Y?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-          "category": "casa",
-          "macro_group": "guide_catalog",
-          "seasonal_title": "",
-          "guide_catalog": true,
-          "guide_groups": [
-            "guide-fashion-running"
-          ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "guide-fashion-tshirt": {
       "kind": "fashion",
       "query": "t shirt uomo donna moda",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B0H73MJGSS",
@@ -7673,7 +7707,7 @@
           "guide_groups": [
             "guide-fashion-tshirt"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0H73PB3P4",
@@ -7690,7 +7724,7 @@
           "guide_groups": [
             "guide-fashion-tshirt"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0FDH3263R",
@@ -7707,7 +7741,7 @@
           "guide_groups": [
             "guide-fashion-tshirt"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0GHWK5Q99",
@@ -7724,7 +7758,7 @@
           "guide_groups": [
             "guide-fashion-tshirt"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0FKYDPBPR",
@@ -7741,7 +7775,7 @@
           "guide_groups": [
             "guide-fashion-tshirt"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0FKYH1V63",
@@ -7758,14 +7792,14 @@
           "guide_groups": [
             "guide-fashion-tshirt"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "guide-fashion-sweat": {
       "kind": "fashion",
       "query": "felpa hoodie uomo donna",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B0GS9QTP4N",
@@ -7782,7 +7816,7 @@
           "guide_groups": [
             "guide-fashion-sweat"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0HK41388L",
@@ -7799,7 +7833,7 @@
           "guide_groups": [
             "guide-fashion-sweat"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0F32DRXB1",
@@ -7816,7 +7850,7 @@
           "guide_groups": [
             "guide-fashion-sweat"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0F32F6W7R",
@@ -7833,7 +7867,7 @@
           "guide_groups": [
             "guide-fashion-sweat"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0HKMSRBYR",
@@ -7850,7 +7884,7 @@
           "guide_groups": [
             "guide-fashion-sweat"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0HKMSL6QZ",
@@ -7867,14 +7901,14 @@
           "guide_groups": [
             "guide-fashion-sweat"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "guide-fashion-jeans": {
       "kind": "fashion",
       "query": "jeans pantaloni uomo donna",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B0B254DFH7",
@@ -7891,7 +7925,7 @@
           "guide_groups": [
             "guide-fashion-jeans"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0B24YSZM6",
@@ -7908,7 +7942,7 @@
           "guide_groups": [
             "guide-fashion-jeans"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0GLPVCZJF",
@@ -7925,7 +7959,7 @@
           "guide_groups": [
             "guide-fashion-jeans"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0H1MBDJKF",
@@ -7942,7 +7976,7 @@
           "guide_groups": [
             "guide-fashion-jeans"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0H1MC7TQ9",
@@ -7959,7 +7993,7 @@
           "guide_groups": [
             "guide-fashion-jeans"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0GVH6Q3FK",
@@ -7976,14 +8010,14 @@
           "guide_groups": [
             "guide-fashion-jeans"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "guide-fashion-outerwear": {
       "kind": "fashion",
       "query": "giacca piumino cappotto uomo donna",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B0DJPNSRDK",
@@ -8000,7 +8034,7 @@
           "guide_groups": [
             "guide-fashion-outerwear"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0FX9NZ92S",
@@ -8017,16 +8051,16 @@
           "guide_groups": [
             "guide-fashion-outerwear"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
-          "asin": "B09JSLHMFB",
+          "asin": "B09JSL8JTH",
           "title": "Earnmore Nuova Giacca Invernale Imbottita in Cotone da Donna, Giacca Imbottita Slim Aderente di Media Lunghezza da Donna, Giacca Imbottita in Caldo Piumino",
           "price": 33.55,
           "old_price": null,
           "discount": null,
-          "image": "https://m.media-amazon.com/images/I/41fJfqqFkyL._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B09JSLHMFB?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "image": "https://m.media-amazon.com/images/I/41R5FBuU0EL._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B09JSL8JTH?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
           "category": "casa",
           "macro_group": "guide_catalog",
           "seasonal_title": "",
@@ -8034,24 +8068,7 @@
           "guide_groups": [
             "guide-fashion-outerwear"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
-        },
-        {
-          "asin": "B0CNRXLCPW",
-          "title": "Cappotto con cappuccio riscaldato a 19 zone di riscaldamento, piumino riscaldato for uomo e donna, 3 livelli di riscaldamento, giacche calde con ricarica USB 4 interruttori ( Color : Black , Size : 3X",
-          "price": 33.99,
-          "old_price": null,
-          "discount": null,
-          "image": "https://m.media-amazon.com/images/I/51wJyv+-guL._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0CNRXLCPW?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-          "category": "casa",
-          "macro_group": "guide_catalog",
-          "seasonal_title": "",
-          "guide_catalog": true,
-          "guide_groups": [
-            "guide-fashion-outerwear"
-          ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0FXH2TTYK",
@@ -8068,7 +8085,7 @@
           "guide_groups": [
             "guide-fashion-outerwear"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0CLGHWZ2Z",
@@ -8085,14 +8102,31 @@
           "guide_groups": [
             "guide-fashion-outerwear"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
+        },
+        {
+          "asin": "B0CNRXCBWW",
+          "title": "Cappotto Riscaldato con Cappuccio, Giacca Riscaldata a 21 Zone di Riscaldamento for Uomo e Donna, Gilet Riscaldato con Ricarica USB Piumino Caldo con Cappuccio for Pesca Moto Caccia Sci Campeggio ( Co",
+          "price": 40.99,
+          "old_price": null,
+          "discount": null,
+          "image": "https://m.media-amazon.com/images/I/51NRIIr9hlL._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0CNRXCBWW?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "category": "casa",
+          "macro_group": "guide_catalog",
+          "seasonal_title": "",
+          "guide_catalog": true,
+          "guide_groups": [
+            "guide-fashion-outerwear"
+          ],
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "guide-fashion-dresses": {
       "kind": "fashion",
       "query": "vestito abito donna moda",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B0GJZ4LQ3P",
@@ -8109,7 +8143,7 @@
           "guide_groups": [
             "guide-fashion-dresses"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0GJZR43NF",
@@ -8126,7 +8160,7 @@
           "guide_groups": [
             "guide-fashion-dresses"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0C7W3D2FL",
@@ -8143,7 +8177,7 @@
           "guide_groups": [
             "guide-fashion-dresses"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0GDXF6D4V",
@@ -8160,7 +8194,7 @@
           "guide_groups": [
             "guide-fashion-dresses"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0GDXHLLJ5",
@@ -8177,16 +8211,16 @@
           "guide_groups": [
             "guide-fashion-dresses"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
-          "asin": "B0GWMZ5Y3X",
-          "title": "Vestito Donna Estivo 2026 Moda, Abito Donna Estivo Elegante Vestiti con Tasche, Abiti in Lino di Cotone, Senza Maniche Scollo Girocollo Vestitini Leggera Traspirante Vestito per Mare Spiaggia Vacanza",
-          "price": 18.98,
+          "asin": "B0GDX9Z574",
+          "title": "Zeagoo Abito Estivo Donna Scollo a V Vestito Maniche Volant Elegante Tasche",
+          "price": 16.99,
           "old_price": null,
           "discount": null,
-          "image": "https://m.media-amazon.com/images/I/312xBs+hsvL._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0GWMZ5Y3X?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "image": "https://m.media-amazon.com/images/I/51nWe5pnj6L._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0GDX9Z574?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
           "category": "casa",
           "macro_group": "guide_catalog",
           "seasonal_title": "",
@@ -8194,14 +8228,14 @@
           "guide_groups": [
             "guide-fashion-dresses"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "guide-fashion-bags": {
       "kind": "fashion",
       "query": "borsa zaino moda donna uomo",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B09MHJZ8L9",
@@ -8218,7 +8252,7 @@
           "guide_groups": [
             "guide-fashion-bags"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0BZR1Y5Z8",
@@ -8235,7 +8269,7 @@
           "guide_groups": [
             "guide-fashion-bags"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0FGVNMS3Q",
@@ -8252,7 +8286,7 @@
           "guide_groups": [
             "guide-fashion-bags"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0GNHWJSFB",
@@ -8269,7 +8303,7 @@
           "guide_groups": [
             "guide-fashion-bags"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0FMJZ3HZL",
@@ -8286,7 +8320,7 @@
           "guide_groups": [
             "guide-fashion-bags"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0DFC7Q2GK",
@@ -8303,14 +8337,14 @@
           "guide_groups": [
             "guide-fashion-bags"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "guide-fashion-accessories": {
       "kind": "fashion",
       "query": "cintura portafoglio occhiali da sole moda",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B0GMHVZX7X",
@@ -8327,7 +8361,7 @@
           "guide_groups": [
             "guide-fashion-accessories"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0DRF7K1TL",
@@ -8344,7 +8378,7 @@
           "guide_groups": [
             "guide-fashion-accessories"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0DRF7F57Z",
@@ -8361,7 +8395,7 @@
           "guide_groups": [
             "guide-fashion-accessories"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0D9N3WY86",
@@ -8378,14 +8412,14 @@
           "guide_groups": [
             "guide-fashion-accessories"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "guide-fashion-underwear": {
       "kind": "fashion",
       "query": "intimo pigiama uomo donna",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B0FL1X9CRM",
@@ -8402,7 +8436,7 @@
           "guide_groups": [
             "guide-fashion-underwear"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0FW57N1GC",
@@ -8419,7 +8453,7 @@
           "guide_groups": [
             "guide-fashion-underwear"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0FW58MG2K",
@@ -8436,7 +8470,7 @@
           "guide_groups": [
             "guide-fashion-underwear"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0FW58FGPP",
@@ -8453,7 +8487,7 @@
           "guide_groups": [
             "guide-fashion-underwear"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0FW575GGX",
@@ -8470,7 +8504,7 @@
           "guide_groups": [
             "guide-fashion-underwear"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0FW58J9WR",
@@ -8487,14 +8521,14 @@
           "guide_groups": [
             "guide-fashion-underwear"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "guide-fashion-swim": {
       "kind": "fashion",
       "query": "costume da bagno bikini uomo donna",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B0GYRQTZZX",
@@ -8511,7 +8545,7 @@
           "guide_groups": [
             "guide-fashion-swim"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0GYRSDFM6",
@@ -8528,7 +8562,7 @@
           "guide_groups": [
             "guide-fashion-swim"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0GYRS8TRK",
@@ -8545,7 +8579,7 @@
           "guide_groups": [
             "guide-fashion-swim"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0GYRNRVFF",
@@ -8562,7 +8596,7 @@
           "guide_groups": [
             "guide-fashion-swim"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0GYP8FG6M",
@@ -8579,7 +8613,7 @@
           "guide_groups": [
             "guide-fashion-swim"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0H41GLYGD",
@@ -8596,14 +8630,14 @@
           "guide_groups": [
             "guide-fashion-swim"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "guide-fashion-jewelry": {
       "kind": "fashion",
       "query": "collana bracciale orecchini bijoux moda",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B0GGZVPLRP",
@@ -8620,7 +8654,24 @@
           "guide_groups": [
             "guide-fashion-jewelry"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
+        },
+        {
+          "asin": "B0H4Z8KPNS",
+          "title": "Abbigliamento hawaiano da donna, set completo 6 pezzi: collana floreale, fascia per capelli, bracciali, occhiali a cuore e orecchini. Materiale morbido e traspirante, perfetto per feste in spiaggia",
+          "price": 9.16,
+          "old_price": null,
+          "discount": null,
+          "image": "https://m.media-amazon.com/images/I/51KIDdiCC5L._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0H4Z8KPNS?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "category": "casa",
+          "macro_group": "guide_catalog",
+          "seasonal_title": "",
+          "guide_catalog": true,
+          "guide_groups": [
+            "guide-fashion-jewelry"
+          ],
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0DHR9WCK1",
@@ -8637,7 +8688,7 @@
           "guide_groups": [
             "guide-fashion-jewelry"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0DHRCK3Z4",
@@ -8654,7 +8705,7 @@
           "guide_groups": [
             "guide-fashion-jewelry"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0DHRB42PX",
@@ -8671,7 +8722,7 @@
           "guide_groups": [
             "guide-fashion-jewelry"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0HDSK4Z4Y",
@@ -8688,31 +8739,14 @@
           "guide_groups": [
             "guide-fashion-jewelry"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
-        },
-        {
-          "asin": "B0FSWDDGV8",
-          "title": "Porta Gioielli 3 Livelli - Organizer Gioielli in Velluto Beige, Espositore Collane e Bracciali, Portagioie con Porta Orecchini, Porta Collane da Appendere, Porta Gioie per Anelli e Orologi",
-          "price": 11.99,
-          "old_price": null,
-          "discount": null,
-          "image": "https://m.media-amazon.com/images/I/41IUq-ZmD7L._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0FSWDDGV8?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-          "category": "casa",
-          "macro_group": "guide_catalog",
-          "seasonal_title": "",
-          "guide_catalog": true,
-          "guide_groups": [
-            "guide-fashion-jewelry"
-          ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     },
     "guide-fashion-kids": {
       "kind": "fashion",
       "query": "abbigliamento bambino ragazzo moda",
-      "updated_at": "2026-09-24T21:53:53.368804+02:00",
+      "updated_at": "2026-09-25T07:10:57.754984+02:00",
       "items": [
         {
           "asin": "B0FLDT42FD",
@@ -8729,7 +8763,7 @@
           "guide_groups": [
             "guide-fashion-kids"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0F8QVH146",
@@ -8746,7 +8780,7 @@
           "guide_groups": [
             "guide-fashion-kids"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0GDMDTNB3",
@@ -8763,16 +8797,16 @@
           "guide_groups": [
             "guide-fashion-kids"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
-          "asin": "B0H4VJ49G9",
-          "title": "Pantaloni da jogging larghi per ragazze adolescenti a gamba larga con striscia laterale per bambini estate scuola pantaloni della tuta da corsa atletica pantaloni lunghi palestra sport alla moda",
-          "price": 13.73,
+          "asin": "B0FD9K1MHL",
+          "title": "Haloumoning Maglietta da ragazzo, a maniche lunghe, con blocco colorato, per bambini, casual, scollo rotondo, per autunno, alla moda, 5-14 anni, Blu, 10-12 anni",
+          "price": 13.99,
           "old_price": null,
           "discount": null,
-          "image": "https://m.media-amazon.com/images/I/315YMUKcnjL._SL500_.jpg",
-          "url": "https://www.amazon.it/dp/B0H4VJ49G9?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+          "image": "https://m.media-amazon.com/images/I/31-Y3Z0vnXL._SL500_.jpg",
+          "url": "https://www.amazon.it/dp/B0FD9K1MHL?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
           "category": "casa",
           "macro_group": "guide_catalog",
           "seasonal_title": "",
@@ -8780,7 +8814,7 @@
           "guide_groups": [
             "guide-fashion-kids"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0CLRXYJ2K",
@@ -8797,7 +8831,7 @@
           "guide_groups": [
             "guide-fashion-kids"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         },
         {
           "asin": "B0D98BT8RH",
@@ -8814,7 +8848,7 @@
           "guide_groups": [
             "guide-fashion-kids"
           ],
-          "published_at": "2026-09-24T21:53:53.368804+02:00"
+          "published_at": "2026-09-25T07:10:57.754984+02:00"
         }
       ]
     }
