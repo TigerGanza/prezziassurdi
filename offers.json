@@ -1,5 +1,20 @@
 [
   {
+    "asin": "B0D7H9F4RD",
+    "title": "MYCARBON Bilancia per Valigie Elettronica 50KG Funzione Tara LCD Display",
+    "price": 11.99,
+    "old_price": 15.0,
+    "discount": 20.0,
+    "image": "https://m.media-amazon.com/images/I/413IiZdj6EL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0D7H9F4RD?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "viaggi",
+    "macro_group": "tempo_libero",
+    "seasonal_title": "",
+    "published_at": "2026-09-25T10:31:27.463625+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": ""
+  },
+  {
     "asin": "B01M04FDC8",
     "title": "Tognana Grancucina, Caffettiera Moka, 2 Tazze, Mirror-Alluminio, Grigio",
     "price": 10.99,
@@ -1766,63 +1781,5 @@
     "published_at": "2026-09-24T23:22:23.287297+02:00",
     "source_merchant": "amazon",
     "source_external_id": ""
-  },
-  {
-    "asin": "B0H4MDNWJK",
-    "title": "Bosch WAN28229IT Serie 4 Lavatrice 9kg 1400 giri/min Bianco Classe A",
-    "price": 419.0,
-    "old_price": 599.0,
-    "discount": 30.0,
-    "image": "https://m.media-amazon.com/images/I/31a7XKbZhKL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0H4MDNWJK?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "lavaggio_stiro",
-    "macro_group": "casa_cucina",
-    "seasonal_title": "",
-    "published_at": "2026-09-24T23:16:22.917861+02:00",
-    "source_merchant": "amazon",
-    "source_external_id": "",
-    "merchant_offers": [
-      {
-        "merchant": "mediaworld",
-        "merchant_name": "MediaWorld",
-        "merchant_id": "18529",
-        "product_id": "560554",
-        "awin_product_id": "43672378427",
-        "title": "BOSCH WAN28229IT LAVATRICE, Caricamento frontale, 9 kg, 15 programmi, Profondità 59 cm, Giri 1400 rpm, Bianco, livello rumorosità centrifuga 72 dB(A), Classe A",
-        "brand": "Bosch",
-        "mpn": "WAN28229IT",
-        "ean": "4242005532605",
-        "price": 419.49,
-        "old_price": null,
-        "discount": null,
-        "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_168608066/fee_786_587_png",
-        "url": "https://www.awin1.com/pclick.php?p=43672378427&a=3086723&m=18529",
-        "category": "Grandi Elettrodomestici;Lavatrici;Lavatrici Carica Frontale",
-        "category_path": "",
-        "last_updated": ""
-      },
-      {
-        "merchant": "unieuro",
-        "merchant_name": "Unieuro",
-        "merchant_id": "10139",
-        "product_id": "BOHWAN28229IT",
-        "awin_product_id": "43687177053",
-        "title": "Bosch Serie 4 WAN28229IT Lavatrice a carica frontale 9kg 1400g/min Bianco Classe A",
-        "brand": "Bosch",
-        "mpn": "WAN28229IT",
-        "ean": "4242005532605",
-        "price": 469.9,
-        "old_price": 799.9,
-        "discount": 41.3,
-        "image": "https://www.unieuro.it/medias/sys_master/root/h48/h48/63218515607582/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-52060d6a34d197766b25283caf5d4f5c-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-        "url": "https://www.awin1.com/pclick.php?p=43687177053&a=3086723&m=10139",
-        "category": "Lavatrici",
-        "category_path": "",
-        "last_updated": ""
-      }
-    ],
-    "merchant_match_score": 100,
-    "merchant_ean": "4242005532605",
-    "merchant_prices_checked_at": "2026-09-24T23:16:20.848750+02:00"
   }
 ]
