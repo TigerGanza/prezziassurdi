@@ -97,7 +97,7 @@ h2,h3{margin:0 0 9px;line-height:1.22} h2{font-weight:950;letter-spacing:-.7px} 
 .guide-filter-groups{padding:8px 10px 4px;max-height:calc(100vh - 220px);overflow:auto;scrollbar-width:thin}
 .guide-filter-group{border-bottom:1px solid rgba(255,255,255,.08);padding:2px 0} .guide-filter-group:last-child{border-bottom:0} .guide-filter-group summary{list-style:none;cursor:pointer;display:flex;align-items:center;justify-content:space-between;gap:8px;padding:12px 7px;color:#f5f7fa;font-size:11px;font-weight:950} .guide-filter-group summary::-webkit-details-marker{display:none} .guide-filter-group summary::after{content:'＋';color:#8f98a5;font-size:14px} .guide-filter-group[open] summary::after{content:'−';color:var(--yellow)}
 .guide-filter-options{display:grid;gap:5px;padding:0 3px 11px} .guide-filter-btn{appearance:none;width:100%;display:flex;align-items:center;justify-content:space-between;gap:10px;border:1px solid rgba(255,255,255,.07);background:rgba(255,255,255,.045);color:#dde2e9;border-radius:11px;padding:9px 10px;text-align:left;font-size:10px;font-weight:800;transition:.15s ease} .guide-filter-btn:hover{border-color:rgba(255,216,61,.42);background:rgba(255,255,255,.07)} .guide-filter-btn.active{background:rgba(255,216,61,.15);color:#fff;border-color:rgba(255,216,61,.55);box-shadow:inset 3px 0 0 var(--yellow)} .guide-filter-btn:disabled{opacity:.34;cursor:not-allowed} .guide-filter-btn .option-check{width:16px;height:16px;border:1px solid rgba(255,255,255,.25);border-radius:5px;display:inline-flex;align-items:center;justify-content:center;flex:0 0 auto;margin-right:7px} .guide-filter-btn.active .option-check{background:var(--yellow);border-color:var(--yellow);color:#111} .guide-filter-btn.active .option-check::after{content:'✓';font-size:10px;font-weight:950} .guide-filter-option-label{display:flex;align-items:center;min-width:0} .guide-filter-option-count{flex:0 0 auto;min-width:25px;text-align:center;padding:3px 6px;border-radius:999px;background:rgba(255,255,255,.08);color:#aeb6c1;font-size:9px;font-weight:900} .guide-filter-btn.active .guide-filter-option-count{background:rgba(255,216,61,.18);color:var(--yellow)}
-.guide-filter-footer{padding:12px 14px 14px;border-top:1px solid rgba(255,255,255,.08)} .guide-filter-reset{appearance:none;width:100%;border:1px solid rgba(255,255,255,.12);background:rgba(255,255,255,.05);color:#e5e8ed;border-radius:10px;padding:10px 12px;font-size:10px;font-weight:900} .guide-filter-note{margin:9px 0 0;color:#7f8997;font-size:8.5px;line-height:1.45}
+.guide-filter-footer{padding:12px 14px 14px;border-top:1px solid rgba(255,255,255,.08)} .guide-filter-apply{appearance:none;width:100%;border:1px solid var(--yellow);background:var(--yellow);color:#111;border-radius:10px;padding:11px 12px;font-size:11px;font-weight:950;letter-spacing:.2px;cursor:pointer} .guide-filter-reset{appearance:none;width:100%;border:1px solid rgba(255,255,255,.12);background:rgba(255,255,255,.05);color:#e5e8ed;border-radius:10px;padding:10px 12px;font-size:10px;font-weight:900;margin-top:7px} .guide-filter-note{margin:9px 0 0;color:#7f8997;font-size:8.5px;line-height:1.45}
 .guide-filter-no-results{margin:0 0 20px;padding:16px;border-radius:14px;border:1px dashed rgba(255,216,61,.42);background:rgba(255,216,61,.07);color:#fff;text-align:center;font-size:12px;line-height:1.5}
 .guide-band[hidden],article[data-guide-card][hidden]{display:none!important}
 .editorial-panel,.category-offers-panel{position:relative;overflow:hidden;isolation:isolate;border:1px solid rgba(255,255,255,.09);border-radius:22px;padding:19px;background:#11151c;color:#fff;box-shadow:0 18px 44px rgba(0,0,0,.20)} .editorial-panel::before,.category-offers-panel::before{content:"";position:absolute;inset:0;z-index:-2;background:url("https://prezziassurdi.com/assets/promo-cinematic.png") center/cover no-repeat} .category-offers-panel::before{background-image:url("https://prezziassurdi.com/assets/offers-section-cinematic.png")} .editorial-panel::after,.category-offers-panel::after{content:"";position:absolute;inset:0;z-index:-1;background:rgba(7,9,13,.82)} .editorial-panel .note{color:#d5dae2;margin-top:4px} .category-offers-panel .grid{margin-top:12px}
@@ -276,6 +276,7 @@ html[data-pa-season="black-friday"]{--pa-accent:#d8ba73;--pa-glow:#ba944b26}
     document.querySelectorAll('.guide-toolbar').forEach(function(toolbar){
       var panel = toolbar.closest('main').querySelector('[data-guide-filter-panel]') || toolbar;
       var buttons = Array.prototype.slice.call(panel.querySelectorAll('[data-guide-filter-key]'));
+      var applyBtn = panel.querySelector('[data-guide-filter-apply]');
       var reset = panel.querySelector('[data-guide-filter-reset]');
       var count = panel.querySelector('[data-guide-filter-count]');
       var selectedBadge = document.querySelector('[data-guide-mobile-selected]');
@@ -389,8 +390,11 @@ html[data-pa-season="black-friday"]{--pa-accent:#d8ba73;--pa-glow:#ba944b26}
           if(button.disabled) return;
           button.classList.toggle('active');
           button.setAttribute('aria-pressed', button.classList.contains('active') ? 'true' : 'false');
-          apply();
         });
+      });
+      if(applyBtn) applyBtn.addEventListener('click', function(){
+        apply();
+        setDrawer(false);
       });
       if(reset){
         reset.addEventListener('click', function(){
