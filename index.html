@@ -2324,6 +2324,11 @@ body{background:var(--pa-v5-bg)!important}
 .pa-store-price-row a{background:#111;color:#fff;border-radius:8px;padding:8px 10px;text-decoration:none;font-size:11px;font-weight:950;white-space:nowrap}
 .pa-missing-stores{display:flex;gap:6px;flex-wrap:wrap;margin-top:7px}
 .pa-missing-stores span{font-size:9px;color:#7b8492;background:#f4f5f7;border-radius:999px;padding:5px 7px}
+.pa-store-checks{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;margin:0 0 14px}
+.pa-store-check{display:flex;align-items:center;gap:7px;min-width:0;padding:9px;border-radius:11px;background:#f8fafc;border:1px solid #e5e7eb;color:#4b5563;font-size:10px;font-weight:800;line-height:1.25}
+.pa-store-check img{width:66px;max-height:17px;object-fit:contain;flex:0 0 auto}
+.pa-store-check-text{min-width:0}.pa-store-check-text b{display:block;color:#111;font-size:10px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.pa-store-check-text small{display:block;color:#667085;font-size:9px;margin-top:2px}
+.pa-store-check.ok{border-color:#86efac;background:#f0fdf4}.pa-store-check.warn{border-color:#fcd34d;background:#fffbeb}.pa-store-check.off{border-color:#fecaca;background:#fff7f7}
 .pa-search-footer{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap;margin-top:15px;padding-top:14px;border-top:1px solid rgba(255,255,255,.13);color:#cbd5e1;font-size:11px}
 .pa-search-footer a{color:#111;background:#ffd83d;text-decoration:none;border-radius:999px;padding:9px 13px;font-weight:950}
 .pa-search-empty,.pa-search-loading{padding:22px;text-align:center;background:#fff;color:#111;border-radius:14px}
@@ -2345,7 +2350,7 @@ body{background:var(--pa-v5-bg)!important}
 @keyframes paStorePulse{0%,100%{opacity:.35;transform:scale(.97)}50%{opacity:1;transform:scale(1.03)}}
 @keyframes paDots{0%{content:""}25%{content:"."}50%{content:".."}75%,100%{content:"..."}}
 @media(prefers-reduced-motion:reduce){.pa-live-spinner,.pa-live-store,.pa-live-dots::after{animation:none}}
-@media(max-width:780px){.pa-price-search-results{padding:15px;margin:13px 0 20px;border-radius:16px}.pa-price-grid{grid-template-columns:1fr}.pa-store-price-row{grid-template-columns:90px 84px 1fr auto}.pa-store-price-logo img{max-width:78px}.pa-best-price{font-size:8px}}
+@media(max-width:780px){.pa-price-search-results{padding:15px;margin:13px 0 20px;border-radius:16px}.pa-price-grid{grid-template-columns:1fr}.pa-store-checks{grid-template-columns:1fr}.pa-store-price-row{grid-template-columns:90px 84px 1fr auto}.pa-store-price-logo img{max-width:78px}.pa-best-price{font-size:8px}}
 @media(max-width:480px){.pa-store-price-row{grid-template-columns:78px 78px 1fr auto;gap:5px}.pa-store-price-row a{padding:7px 8px}.pa-store-logo{min-width:72px}}
 </style>
 
@@ -2532,7 +2537,7 @@ body{background:var(--pa-v5-bg)!important}
 <div class="discount">Risparmi 15,00 €</div>
 <div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="Amazon" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
 <a class="buy" href="https://www.amazon.it/dp/B0F1K3BQ1Y?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI L'OFFERTA</a>
-<div class="meta">Pubblicata 46 min fa</div>
+<div class="meta">Pubblicata 50 min fa</div>
 </article>
 <article class="card">
 <span class="badge super">⚡ PREZZO ASSURDO</span>
@@ -2603,7 +2608,7 @@ body{background:var(--pa-v5-bg)!important}
 <div class="discount">Risparmi 2,20 €</div>
 <div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="Amazon" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
 <a class="buy" href="https://www.amazon.it/dp/B003848SAY?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI L'OFFERTA</a>
-<div class="meta">Pubblicata 4 min fa</div>
+<div class="meta">Pubblicata 9 min fa</div>
 </article>
 <article class="card">
 <span class="badge new">NUOVA</span>
@@ -2615,7 +2620,7 @@ body{background:var(--pa-v5-bg)!important}
 <div class="discount">Risparmi 2,60 €</div>
 <div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="Amazon" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
 <a class="buy" href="https://www.amazon.it/dp/B00XUPI4DW?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI L'OFFERTA</a>
-<div class="meta">Pubblicata 4 min fa</div>
+<div class="meta">Pubblicata 9 min fa</div>
 </article>
 <article class="card">
 <span class="badge new">NUOVA</span>
@@ -2627,7 +2632,7 @@ body{background:var(--pa-v5-bg)!important}
 <div class="discount">Risparmi 2,50 €</div>
 <div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="Amazon" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
 <a class="buy" href="https://www.amazon.it/dp/B014LBWJ2K?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI L'OFFERTA</a>
-<div class="meta">Pubblicata 4 min fa</div>
+<div class="meta">Pubblicata 9 min fa</div>
 </article>
 <article class="card">
 <span class="badge super">⚡ PREZZO ASSURDO</span>
@@ -2639,7 +2644,7 @@ body{background:var(--pa-v5-bg)!important}
 <div class="discount">Risparmi 9,01 €</div>
 <div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="Amazon" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
 <a class="buy" href="https://www.amazon.it/dp/B07JW4W1FL?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI L'OFFERTA</a>
-<div class="meta">Pubblicata 6 min fa</div>
+<div class="meta">Pubblicata 10 min fa</div>
 </article>
 <article class="card">
 <span class="badge new">NUOVA</span>
@@ -2651,7 +2656,7 @@ body{background:var(--pa-v5-bg)!important}
 <div class="discount">Risparmi 7,21 €</div>
 <div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="Amazon" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
 <a class="buy" href="https://www.amazon.it/dp/B0H883ZHZ9?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI L'OFFERTA</a>
-<div class="meta">Pubblicata 7 min fa</div>
+<div class="meta">Pubblicata 12 min fa</div>
 </article>
 <article class="card">
 <span class="badge new">NUOVA</span>
@@ -2663,7 +2668,7 @@ body{background:var(--pa-v5-bg)!important}
 <div class="discount">Risparmi 18,00 €</div>
 <div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="Amazon" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
 <a class="buy" href="https://www.amazon.it/dp/B0G2X8XJ9V?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI L'OFFERTA</a>
-<div class="meta">Pubblicata 8 min fa</div>
+<div class="meta">Pubblicata 12 min fa</div>
 </article>
 <!-- PA_HOME_LATEST_END -->
 </div>
@@ -3667,7 +3672,7 @@ document.addEventListener('DOMContentLoaded',function(){
     score+=tokens.reduce((sum,t)=>sum+(title.includes(t)?25:0),0);
     return score;
   }
-  function resultCard(item,store='all'){
+  function resultCard(item,store='all',storeBestOnly=false){
     const rows=(Array.isArray(item.o)?item.o:[]).filter(r=>Array.isArray(r)&&Number(r[1])>0&&rowMatchesStore(r,store)).sort((a,b)=>Number(a[1])-Number(b[1]));
     if(!rows.length)return '';
     const best=Number(rows[0][1]), multi=rows.length>=2, present=new Set(rows.map(r=>r[0]));
@@ -3679,12 +3684,28 @@ document.addEventListener('DOMContentLoaded',function(){
       const variant=row[3]?`<small class="pa-store-variant">${esc(row[3])}</small>`:'';
       return `<div class="pa-store-price-row"><div class="pa-store-price-logo">${logo?`<img referrerpolicy="no-referrer" src="${esc(logo)}" alt="${esc(label)}">`:esc(label)}</div><div class="pa-store-price-wrap"><div class="pa-store-price">${euro(row[1])}</div>${variant}</div><div>${isBest?'<span class="pa-best-price">MIGLIOR PREZZO</span>':''}</div><a href="${esc(offerUrl(row))}" target="_blank" rel="nofollow sponsored noopener">Vedi →</a></div>`;
     }).join('');
-    const missing=(store==='all'?[['a','Amazon'],['u','Unieuro'],['w','MediaWorld']]:[[store,storeLabel(store)]]).filter(([k])=>!present.has(k)).map(([,name])=>`<span>${esc(name)}: prodotto non disponibile</span>`).join('');
+    const missing=storeBestOnly?'':(store==='all'?[['a','Amazon'],['u','Unieuro'],['w','MediaWorld']]:[[store,storeLabel(store)]]).filter(([k])=>!present.has(k)).map(([,name])=>`<span>${esc(name)}: prodotto non disponibile</span>`).join('');
     return `<article class="pa-search-product"><div class="pa-search-title">${photo}<div><h3>${esc(item.t||'Prodotto')}</h3>${code?`<div class="pa-search-code">${esc(code)}</div>`:''}</div></div>${priceRows}${missing?`<div class="pa-missing-stores">${missing}</div>`:''}</article>`;
+  }
+  function storeStatusHtml(statuses,store='all'){
+    if(!statuses||typeof statuses!=='object')return '';
+    const keys=store==='all'?['a','u','w']:[store];
+    const checks=keys.map(key=>{
+      const status=statuses[key]||{}, label=LABELS[key]||storeLabel(key), logo=LOGOS[key]||'';
+      let cls='warn', message='Controllo non disponibile';
+      if(status.timed_out){cls='off';message='Tempo massimo superato';}
+      else if(status.found){cls='ok';message=status.affiliate_ready?'Trovato · link affiliato':'Trovato';}
+      else if(status.queried){cls='warn';message='Nessuna corrispondenza';}
+      else if((key==='u'||key==='w')&&Number(status.catalog_products)===0){cls='off';message='Feed Awin non configurato';}
+      else if(status.requested===false){message='Non richiesto';}
+      const source=status.source?`<small>${esc(status.source)}</small>`:'';
+      return `<div class="pa-store-check ${cls}">${logo?`<img referrerpolicy="no-referrer" src="${esc(logo)}" alt="${esc(label)}">`:''}<div class="pa-store-check-text"><b>${esc(label)} · ${esc(message)}</b>${source}</div></div>`;
+    }).join('');
+    return checks?`<div class="pa-store-checks" aria-label="Esito ricerca per negozio">${checks}</div>`:'';
   }
   async function loadLive(query,store='all'){
     if(!LIVE_API)throw new Error('API live non configurata');
-    const ctl=new AbortController(), timer=setTimeout(()=>ctl.abort(),14000);
+    const ctl=new AbortController(), timer=setTimeout(()=>ctl.abort(),20000);
     try{
       const sep=LIVE_API.includes('?')?'&':'?';
       const storeParam=store&&store!=='all'?`&store=${encodeURIComponent(API_STORES[store]||store)}`:'';
@@ -3701,16 +3722,18 @@ document.addEventListener('DOMContentLoaded',function(){
     ranked.sort((a,b)=>b[0]-a[0] || (b[1].o?.length||0)-(a[1].o?.length||0));
     return ranked.slice(0,12).map(x=>x[1]);
   }
-  function renderSearch(query,results,meta,store='all',fallback=false){
+  function renderSearch(query,results,meta,store='all',fallback=false,storeBestOnly=false,statuses=null){
     const panel=document.getElementById('priceSearchPanel');
     const amazonLink=typeof amazonSearchUrl==='function'?amazonSearchUrl(query):`https://www.amazon.it/s?k=${encodeURIComponent(query)}`;
+    const statusHtml=storeStatusHtml(statuses,store);
     if(!results.length){
-      panel.innerHTML=`<div class="pa-price-search-head"><div><h2>Nessun confronto preciso per <span>“${esc(query)}”</span></h2><p>Prova con marca + modello, per esempio “Motorola Edge 60 Neo 256GB”.</p></div></div><div class="pa-search-empty"><b>Nessun prodotto corrispondente.</b><span>Meglio non mostrare articoli sbagliati o varianti incompatibili.</span></div><div class="pa-search-footer"><span>${esc(meta||'Ricerca completata')}</span><a href="${esc(amazonLink)}" target="_blank" rel="nofollow sponsored noopener">CERCA SU AMAZON →</a></div>`;
+      panel.innerHTML=`<div class="pa-price-search-head"><div><h2>Nessun confronto preciso per <span>“${esc(query)}”</span></h2><p>Prova con marca + modello, per esempio “Motorola Edge 60 Neo 256GB”.</p></div></div>${statusHtml}<div class="pa-search-empty"><b>Nessun prodotto corrispondente.</b><span>Non mostro articoli sbagliati: guarda sopra l'esito reale di ogni negozio.</span></div><div class="pa-search-footer"><span>${esc(meta||'Ricerca completata')}</span><a href="${esc(amazonLink)}" target="_blank" rel="nofollow sponsored noopener">CERCA SU AMAZON →</a></div>`;
       return;
     }
     const notice=fallback?`<div class="pa-search-fallback"><b>Nessun confronto preciso per “${esc(query)}”</b><span>Mostro comunque i prodotti compatibili presenti nel catalogo Prezzi Assurdi.</span></div>`:'';
-    const heading=fallback?'Risultati compatibili dal catalogo':`Ricerca su ${esc(storeLabel(store))} per`;
-    panel.innerHTML=`${notice}<div class="pa-price-search-head"><div><h2>${heading} ${fallback?'':`<span>“${esc(query)}”</span>`}</h2><p>Risultati aggiornati al momento della richiesta; il prodotto viene mostrato solo quando la corrispondenza è sufficientemente sicura.</p></div><div class="pa-price-count">${results.length} risultati</div></div><div class="pa-price-grid">${results.map(item=>resultCard(item,store)).join('')}</div><div class="pa-search-footer"><span>${esc(meta||'Prezzi rilevati al momento della ricerca. Verifica disponibilità finale sul negozio.')}</span><a href="${esc(amazonLink)}" target="_blank" rel="nofollow sponsored noopener">APRI AMAZON →</a></div>`;
+    const heading=fallback?'Risultati compatibili dal catalogo':(storeBestOnly&&store==='all'?'Miglior risultato per ogni negozio':`Ricerca su ${esc(storeLabel(store))} per`);
+    const titleSuffix=(fallback||storeBestOnly&&store==='all')?'':`<span>“${esc(query)}”</span>`;
+    panel.innerHTML=`${notice}<div class="pa-price-search-head"><div><h2>${heading} ${titleSuffix}</h2><p>Risultati aggiornati al momento della richiesta. Ogni scheda indica il prodotto e il negozio effettivamente trovati.</p></div><div class="pa-price-count">${results.length} risultati</div></div>${statusHtml}<div class="pa-price-grid">${results.map(item=>resultCard(item,store,storeBestOnly)).join('')}</div><div class="pa-search-footer"><span>${esc(meta||'Prezzi rilevati al momento della ricerca. Verifica disponibilità finale sul negozio.')}</span><a href="${esc(amazonLink)}" target="_blank" rel="nofollow sponsored noopener">APRI AMAZON →</a></div>`;
   }
   function liveLoadingHtml(store){
     const scope=store==='all'?'tutti gli store':storeLabel(store);
@@ -3750,20 +3773,19 @@ document.addEventListener('DOMContentLoaded',function(){
         : (Array.isArray(bestPayload?.o)?[bestPayload]:[]);
       const rawResults=bestResults.length?bestResults:detailed;
       const results=rawResults.filter(item=>itemMatchesStore(item,store));
+      const statuses=data.store_status||null;
       if(!results.length){
-        const catalogResults=await staticResults(query,store);
         stopProgress();
         panel.removeAttribute('aria-busy');
-        if(catalogResults.length){
-          renderSearch(query,catalogResults,'Confronto live senza corrispondenza precisa; risultati compatibili dal catalogo locale.',store,true);
-        }else{
-          renderSearch(query,results,meta,store);
-        }
+        // Se l'API ha risposto, il suo esito per i tre store è autorevole.
+        // Non sovrascriviamolo con un indice statico parziale che potrebbe
+        // far sembrare uno store non cercato o mostrare dati ormai vecchi.
+        renderSearch(query,results,meta,store,false,bestResults.length>0,statuses);
         return;
       }
       stopProgress();
       panel.removeAttribute('aria-busy');
-      renderSearch(query,results,meta,store);
+      renderSearch(query,results,meta,store,false,bestResults.length>0,statuses);
       if(typeof gtag==='function')gtag('event','price_compare_search_live',{search_term:query,result_count:results.length});
       return;
     }catch(err){
