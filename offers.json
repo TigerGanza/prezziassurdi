@@ -1,5 +1,20 @@
 [
   {
+    "asin": "B0FGKHZWHP",
+    "title": "Tavernello Classico Vino Bianco d'Italia, Vino Secco con Profumi Fruttati, 10.5% Vol, Bag in Box da 3 L",
+    "price": 4.99,
+    "old_price": 5.89,
+    "discount": 15.0,
+    "image": "https://m.media-amazon.com/images/I/41RsPYbUPOL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0FGKHZWHP?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "vini",
+    "macro_group": "spesa_bevande",
+    "seasonal_title": "",
+    "published_at": "2026-09-27T14:32:46.834960+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": ""
+  },
+  {
     "asin": "B000SHMQW0",
     "title": "illy, Caffè Macinato per Espresso Tostato INTENSO, Confezione da 250g",
     "price": 6.61,
@@ -1790,63 +1805,5 @@
     "published_at": "2026-09-27T08:56:50.473475+02:00",
     "source_merchant": "amazon",
     "source_external_id": ""
-  },
-  {
-    "asin": "B00I3LV2U0",
-    "title": "Sony MDR-EX15AP - Cuffie in-ear con microfono, Auricolari in silicone, Blu",
-    "price": 7.99,
-    "old_price": 10.0,
-    "discount": 20.0,
-    "image": "https://m.media-amazon.com/images/I/419n-FAwEDL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B00I3LV2U0?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "audio_hifi",
-    "macro_group": "tech",
-    "seasonal_title": "",
-    "published_at": "2026-09-27T08:56:50.338306+02:00",
-    "source_merchant": "amazon",
-    "source_external_id": "",
-    "merchant_offers": [
-      {
-        "merchant": "unieuro",
-        "merchant_name": "Unieuro",
-        "merchant_id": "10139",
-        "product_id": "SONMDREX15APLI",
-        "awin_product_id": "16847492579",
-        "title": "Sony MDR-EX15AP Auricolare Cablato In-ear Musica e Chiamate Blu",
-        "brand": "Sony",
-        "mpn": "MDREX15APLI.CE7",
-        "ean": "4905524946727",
-        "price": 7.99,
-        "old_price": 9.99,
-        "discount": 20.0,
-        "image": "https://www.unieuro.it/medias/sys_master/root/h83/hbc/34905192923166/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-c4b0c27cc7de85a5cfec13bd75b1d0ef-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-        "url": "https://www.awin1.com/pclick.php?p=16847492579&a=3086723&m=10139",
-        "category": "Cuffie e Auricolari",
-        "category_path": "",
-        "last_updated": ""
-      },
-      {
-        "merchant": "mediaworld",
-        "merchant_name": "MediaWorld",
-        "merchant_id": "18529",
-        "product_id": "705239",
-        "awin_product_id": "35321337377",
-        "title": "SONY MDREX15APLI.CE7 AURICOLARI, AZZURRO",
-        "brand": "Sony",
-        "mpn": "MDREX15APLI.CE7",
-        "ean": "4905524946727",
-        "price": 8.49,
-        "old_price": null,
-        "discount": null,
-        "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_84961979/fee_786_587_png",
-        "url": "https://www.awin1.com/pclick.php?p=35321337377&a=3086723&m=18529",
-        "category": "Audio, Cuffie e Navigatori;Auricolari e Buds;Auricolari",
-        "category_path": "",
-        "last_updated": ""
-      }
-    ],
-    "merchant_match_score": 90,
-    "merchant_ean": "4905524946727",
-    "merchant_prices_checked_at": "2026-09-27T08:56:46.582480+02:00"
   }
 ]
