@@ -1,5 +1,20 @@
 [
   {
+    "asin": "B00SP30R34",
+    "title": "Bulk Soya Protein Isolate Powder, Unflavoured, Non aromatizzato, 1 kg",
+    "price": 15.99,
+    "old_price": 22.99,
+    "discount": 30.0,
+    "image": "https://m.media-amazon.com/images/I/31U3j1OvQEL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B00SP30R34?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "integratori_proteine",
+    "macro_group": "tempo_libero",
+    "seasonal_title": "",
+    "published_at": "2026-09-28T21:42:48.472274+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": ""
+  },
+  {
     "asin": "B0H38XY58T",
     "title": "Orologio Smartwatch Uomo Cardiofrequenzimetro Salute: 1.39 Intelligenti Orologi con Bluetooth ECG HRV SpO2 Sonno Pressione Sanguigna Modalità Sportive Fitness Watch Compatibile Android e iOS (Nero)",
     "price": 36.99,
@@ -1683,64 +1698,6 @@
     ],
     "merchant_match_score": 94,
     "merchant_ean": "8715946702605",
-    "merchant_prices_checked_at": "2026-09-28T15:22:45.256108+02:00"
-  },
-  {
-    "asin": "B0B8X3XJ9L",
-    "title": "Epson Workforce WF-2950DWF Stampante Multifunzione A4 a getto d'inchiostro (Stampa Fronte Retro, Scansione, Copia, Fax) Display LCD 6.1cm, ADF, WiFi, Stampa da mobile e su Cloud, AirPrint",
-    "price": 79.99,
-    "old_price": 119.99,
-    "discount": 33.0,
-    "image": "https://m.media-amazon.com/images/I/41B-zgV2eQL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0B8X3XJ9L?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "ufficio",
-    "macro_group": "tempo_libero",
-    "seasonal_title": "",
-    "published_at": "2026-09-28T15:22:50.579257+02:00",
-    "source_merchant": "amazon",
-    "source_external_id": "",
-    "merchant_offers": [
-      {
-        "merchant": "mediaworld",
-        "merchant_name": "MediaWorld",
-        "merchant_id": "18529",
-        "product_id": "182562",
-        "awin_product_id": "37037362922",
-        "title": "Stampante Inkjet Multifunzione 4 in 1 a colori EPSON WorkForce WF-2950DWF, A4, Fronte retro automatico, WiFi, Nera",
-        "brand": "Epson",
-        "mpn": "C11CK62402",
-        "ean": "8715946702568",
-        "price": 79.99,
-        "old_price": 89.49,
-        "discount": 10.6,
-        "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_139624412/fee_786_587_png",
-        "url": "https://www.awin1.com/pclick.php?p=37037362922&a=3086723&m=18529",
-        "category": "Periferiche PC;Stampanti;Stampanti Multifunzione",
-        "category_path": "",
-        "last_updated": ""
-      },
-      {
-        "merchant": "unieuro",
-        "merchant_name": "Unieuro",
-        "merchant_id": "10139",
-        "product_id": "EPSWF2950DWF",
-        "awin_product_id": "34624273213",
-        "title": "Epson WorkForce WF-2950DWF",
-        "brand": "Epson",
-        "mpn": "C11CK62402",
-        "ean": "8715946702568",
-        "price": 79.99,
-        "old_price": 119.99,
-        "discount": 33.3,
-        "image": "https://www.unieuro.it/medias/sys_master/root/h06/hef/64609400782878/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-298c81789fc6e7a80991c417f08e32be-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-        "url": "https://www.awin1.com/pclick.php?p=34624273213&a=3086723&m=10139",
-        "category": "Multifunzione Inkjet",
-        "category_path": "",
-        "last_updated": ""
-      }
-    ],
-    "merchant_match_score": 94,
-    "merchant_ean": "8715946702568",
     "merchant_prices_checked_at": "2026-09-28T15:22:45.256108+02:00"
   }
 ]
