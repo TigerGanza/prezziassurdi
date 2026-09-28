@@ -1,5 +1,20 @@
 [
   {
+    "asin": "B09NWH749R",
+    "title": "Samsung Forno a Microonde a Libera Installazione Cottura Essenziale, MS20A3010AL, Microonde 700 W, 20 L, 44l x 25,9h x 33,7p cm, Nero",
+    "price": 75.49,
+    "old_price": 97.01,
+    "discount": 22.0,
+    "image": "https://m.media-amazon.com/images/I/31UFKUGUNAL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B09NWH749R?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "cucina",
+    "macro_group": "casa_cucina",
+    "seasonal_title": "",
+    "published_at": "2026-09-28T14:36:48.597765+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": ""
+  },
+  {
     "asin": "B003A5ZBY2",
     "title": "BLACK+DECKER, Compressore portatile 11 BAR. ASI300-QS",
     "price": 59.99,
@@ -1775,63 +1790,5 @@
     "published_at": "2026-09-28T06:12:49.625469+02:00",
     "source_merchant": "amazon",
     "source_external_id": ""
-  },
-  {
-    "asin": "W8E85644EC",
-    "title": "Rowenta UB572LE0 messa in piega Spazzola per arricciare Airflow Nero",
-    "price": 35.99,
-    "old_price": 59.99,
-    "discount": 40.0,
-    "image": "https://www.unieuro.it/medias/sys_master/root/h37/h91/49180137816094/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-7067b905943119edc90cbb60b76308b9-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-    "url": "https://www.awin1.com/pclick.php?p=41995009742&a=3086723&m=10139",
-    "category": "altro",
-    "macro_group": "awin_discovery",
-    "seasonal_title": "Offerta Unieuro",
-    "published_at": "2026-09-28T02:53:37.680492+02:00",
-    "source_merchant": "unieuro",
-    "source_external_id": "ROAUB572L",
-    "merchant_offers": [
-      {
-        "merchant": "mediaworld",
-        "merchant_name": "MediaWorld",
-        "merchant_id": "18529",
-        "product_id": "456089",
-        "awin_product_id": "45418446879",
-        "title": "Multi Styler ROWENTA POWERBRUSH UB572L, Potenza massima 55 W, in Ceramica, Temperatura max 170 °C, 2 temperature, Tecnologia a ioni, SKI PATROL + NERO GLAMA",
-        "brand": "Rowenta",
-        "mpn": "1830009468",
-        "ean": "3121040094686",
-        "price": 33.99,
-        "old_price": null,
-        "discount": null,
-        "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_161651953/fee_786_587_png",
-        "url": "https://www.awin1.com/pclick.php?p=45418446879&a=3086723&m=18529",
-        "category": "Cura della Persona;Cura dei Capelli;Spazzole modellanti",
-        "category_path": "",
-        "last_updated": ""
-      },
-      {
-        "merchant": "unieuro",
-        "merchant_name": "Unieuro",
-        "merchant_id": "10139",
-        "product_id": "ROAUB572L",
-        "awin_product_id": "41995009742",
-        "title": "Rowenta UB572LE0 messa in piega Spazzola per arricciare Airflow Nero",
-        "brand": "Rowenta",
-        "mpn": "UB572L",
-        "ean": "3121040094686",
-        "price": 35.99,
-        "old_price": 59.99,
-        "discount": 40.0,
-        "image": "https://www.unieuro.it/medias/sys_master/root/h37/h91/49180137816094/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-7067b905943119edc90cbb60b76308b9-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-        "url": "https://www.awin1.com/pclick.php?p=41995009742&a=3086723&m=10139",
-        "category": "Piastre per capelli",
-        "category_path": "",
-        "last_updated": ""
-      }
-    ],
-    "merchant_match_score": 100,
-    "merchant_ean": "3121040094686",
-    "merchant_prices_checked_at": "2026-09-28T02:53:31.500798+02:00"
   }
 ]
