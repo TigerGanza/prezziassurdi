@@ -1,5 +1,35 @@
 [
   {
+    "asin": "B0GZZWTZSV",
+    "title": "P10 Pro Tablet Android 16, Tablet 10 Pollici con Gemini AI, 120Hz, Octa-Core T7250, 48GB RAM+128GB ROM/2TB TF, 8800mAh, 13MP+5MP, Face ID/GPS/FM/Jack 3,5 mm, Tablets con Tastiera e Penna, Blu",
+    "price": 159.99,
+    "old_price": 209.99,
+    "discount": 24.0,
+    "image": "https://m.media-amazon.com/images/I/51Z9u8dw2jL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0GZZWTZSV?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "tablet_pro",
+    "macro_group": "tech",
+    "seasonal_title": "",
+    "published_at": "2026-09-28T17:28:54.361584+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": ""
+  },
+  {
+    "asin": "B0DPKT9SH7",
+    "title": "WHATOOK Mini ventilatore da tavolo silenzioso:100 velocità e batteria da 2000 mAh, piccolo ricaricabile ventilatore USB con display a LED, ventilatore portatile pieghevole per ufficio, casa(Nero)",
+    "price": 18.04,
+    "old_price": 23.99,
+    "discount": 25.0,
+    "image": "https://m.media-amazon.com/images/I/41xxJseKcjL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0DPKT9SH7?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "clima_aria",
+    "macro_group": "casa_cucina",
+    "seasonal_title": "",
+    "published_at": "2026-09-28T17:28:45.638166+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": ""
+  },
+  {
     "asin": "B0F4TFS88H",
     "title": "Samsung Crystal UHD 4K Smart TV 43'' UE43U8090FUXZT, Crystal 4K Processor, HDR, Smart Experience, OTS Lite & Adaptive Sound, Metal Stream Design, 2025",
     "price": 299.0,
@@ -1822,59 +1852,5 @@
     "published_at": "2026-09-28T10:52:46.711355+02:00",
     "source_merchant": "amazon",
     "source_external_id": ""
-  },
-  {
-    "asin": "B00EKTDJYG",
-    "title": "Vileda 3Action SuperMocio Fiocco, XL, 59% Fibre di Cellulosa, Multicolore, 6x15x38 cm",
-    "price": 2.99,
-    "old_price": 3.79,
-    "discount": 21.0,
-    "image": "https://m.media-amazon.com/images/I/51qCErEq2ZL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B00EKTDJYG?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "pulizia_casa",
-    "macro_group": "casa_cucina",
-    "seasonal_title": "",
-    "published_at": "2026-09-28T10:40:46.884239+02:00",
-    "source_merchant": "amazon",
-    "source_external_id": ""
-  },
-  {
-    "asin": "B0CCS7S9D9",
-    "title": "Samsung Lavatrice Crystal Clean WW90CGC04DTEET Libera installazione, 9 Kg, Wifi, Ecobubble, Vapore, Carica Frontale, 60l x 85h x 55p cm",
-    "price": 385.0,
-    "old_price": 511.59,
-    "discount": 25.0,
-    "image": "https://m.media-amazon.com/images/I/419iXeIwPZL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0CCS7S9D9?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "lavaggio_stiro",
-    "macro_group": "casa_cucina",
-    "seasonal_title": "",
-    "published_at": "2026-09-28T10:30:48.399344+02:00",
-    "source_merchant": "amazon",
-    "source_external_id": "",
-    "merchant_offers": [
-      {
-        "merchant": "unieuro",
-        "merchant_name": "Unieuro",
-        "merchant_id": "10139",
-        "product_id": "SAMWW90CGC04DAEET",
-        "awin_product_id": "36340230787",
-        "title": "Samsung Lavatrice Crystal Clean™ 9 kg WW90CGC04DAEET",
-        "brand": "Samsung",
-        "mpn": "WW90CGC04DAEET",
-        "ean": "8806095210698",
-        "price": 898.9,
-        "old_price": null,
-        "discount": null,
-        "image": "https://www.unieuro.it/medias/sys_master/root/hc7/h15/51955114213406/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-778fbaa6a4251677c8cb72baa9bdef61-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-        "url": "https://www.awin1.com/pclick.php?p=36340230787&a=3086723&m=10139",
-        "category": "Lavatrici",
-        "category_path": "",
-        "last_updated": ""
-      }
-    ],
-    "merchant_match_score": 94,
-    "merchant_ean": "8806095210698",
-    "merchant_prices_checked_at": "2026-09-28T10:30:45.695647+02:00"
   }
 ]
