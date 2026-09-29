@@ -1,5 +1,35 @@
 [
   {
+    "asin": "B0083MONTG",
+    "title": "MUGLER Angel, Eau de Parfum, Profumo Donna, Profumo Ambrato e Gourmand, Fragranza Affascinante, Profumo Iconico, Magnetico, Ricaricabile, Lusso Sostenibile, 50ml",
+    "price": 79.07,
+    "old_price": 120.0,
+    "discount": 34.0,
+    "image": "https://m.media-amazon.com/images/I/31DbJ8RznNL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0083MONTG?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "profumi",
+    "macro_group": "cura_persona",
+    "seasonal_title": "",
+    "published_at": "2026-09-29T06:28:46.089379+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": ""
+  },
+  {
+    "asin": "B07KFCFLGF",
+    "title": "Bakaji Coperta Elettrica Termica in Tessuto Poliestere Coprimaterasso Scaldaletto Elettrico con Telecomando Termocoperta Scalda Letto 3 Impostazioni Calore (150 x 80 cm Singolo)",
+    "price": 19.95,
+    "old_price": 24.9,
+    "discount": 20.0,
+    "image": "https://m.media-amazon.com/images/I/41-JB7iWyJL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B07KFCFLGF?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "comfort_casa",
+    "macro_group": "casa_cucina",
+    "seasonal_title": "",
+    "published_at": "2026-09-29T06:26:47.772437+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": ""
+  },
+  {
     "asin": "B0C4B8N1Z8",
     "title": "Naturaverde | Crema Viso Idratante al Mirtillo, 50ml",
     "price": 5.5,
@@ -1751,35 +1781,5 @@
     "merchant_match_score": 94,
     "merchant_ean": "6936520897599",
     "merchant_prices_checked_at": "2026-09-28T19:52:42.969179+02:00"
-  },
-  {
-    "asin": "B01GZFMKJW",
-    "title": "Fifa 17 /PS4 UK (Multilingue ITA)",
-    "price": 19.9,
-    "old_price": 27.9,
-    "discount": 29.0,
-    "image": "https://m.media-amazon.com/images/I/61I6gQezG2L._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B01GZFMKJW?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "gaming",
-    "macro_group": "tech",
-    "seasonal_title": "",
-    "published_at": "2026-09-28T19:48:46.757349+02:00",
-    "source_merchant": "amazon",
-    "source_external_id": ""
-  },
-  {
-    "asin": "B00WGUES6E",
-    "title": "Casamigos Blanco, Premium Tequila - 70cl",
-    "price": 29.08,
-    "old_price": 38.0,
-    "discount": 23.0,
-    "image": "https://m.media-amazon.com/images/I/31PHvorsGyL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B00WGUES6E?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "spirits",
-    "macro_group": "spesa_bevande",
-    "seasonal_title": "",
-    "published_at": "2026-09-28T19:46:52.897458+02:00",
-    "source_merchant": "amazon",
-    "source_external_id": ""
   }
 ]
