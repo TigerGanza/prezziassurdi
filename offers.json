@@ -1,5 +1,20 @@
 [
   {
+    "asin": "B0CYQSH13V",
+    "title": "Citrosil Sgrassatore Disinfettante Superfici, essenze di limone, 650 ml",
+    "price": 2.39,
+    "old_price": 3.69,
+    "discount": 35.0,
+    "image": "https://m.media-amazon.com/images/I/31UpdAMrh7L._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0CYQSH13V?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "pulizia_casa",
+    "macro_group": "casa_cucina",
+    "seasonal_title": "",
+    "published_at": "2026-09-30T08:30:57.099683+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": ""
+  },
+  {
     "asin": "B0DBMJFBJW",
     "title": "Lagostina Goccia Set 3 Padelle 20/24/28 cm, Rivestimento in Ceramica Antiaderente, Scorrevolezza Ottimale, Pulizia Facile, Thermo-Signal, Compatibile con Induzione",
     "price": 49.99,
@@ -1766,63 +1781,5 @@
     "published_at": "2026-09-29T21:17:18.046063+02:00",
     "source_merchant": "amazon",
     "source_external_id": ""
-  },
-  {
-    "asin": "B0DTQDPW1X",
-    "title": "Amazon Echo Show 11 (ultimo modello) - Schermo Full HD da 11\" con colori vibranti, area di visione più ampia, audio spaziale, Bianco ghiaccio, con Accesso Anticipato ad Alexa+",
-    "price": 154.99,
-    "old_price": 269.99,
-    "discount": 43.0,
-    "image": "https://m.media-amazon.com/images/I/31f-tqGceSL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0DTQDPW1X?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "smart_home",
-    "macro_group": "casa_cucina",
-    "seasonal_title": "",
-    "published_at": "2026-09-29T21:13:28.253913+02:00",
-    "source_merchant": "amazon",
-    "source_external_id": "",
-    "merchant_offers": [
-      {
-        "merchant": "mediaworld",
-        "merchant_name": "MediaWorld",
-        "merchant_id": "18529",
-        "product_id": "553981",
-        "awin_product_id": "43226464800",
-        "title": "ASSISTENTE VOCALE AMAZON Echo Show 11 , Potenza totale 30, Graphite",
-        "brand": "Amazon",
-        "mpn": "CQ17725",
-        "ean": "0840414668317",
-        "price": 154.99,
-        "old_price": 239.49,
-        "discount": 35.3,
-        "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_174746280/fee_786_587_png",
-        "url": "https://www.awin1.com/pclick.php?p=43226464800&a=3086723&m=18529",
-        "category": "Telefonia;Accessori Smartphone;Casse Bluetooth",
-        "category_path": "",
-        "last_updated": ""
-      },
-      {
-        "merchant": "unieuro",
-        "merchant_name": "Unieuro",
-        "merchant_id": "10139",
-        "product_id": "AXAECHOSHOW11G",
-        "awin_product_id": "43152287739",
-        "title": "Amazon Echo Show 11",
-        "brand": "Amazon",
-        "mpn": "B0DTQCWJBR",
-        "ean": "0840414668317",
-        "price": 154.99,
-        "old_price": 269.9,
-        "discount": 42.6,
-        "image": "https://www.unieuro.it/medias/sys_master/root/hbb/hea/50911142019102/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-ec453d37e8bb611f0a9f4c9f9326a897-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-        "url": "https://www.awin1.com/pclick.php?p=43152287739&a=3086723&m=10139",
-        "category": "Smart speaker",
-        "category_path": "",
-        "last_updated": ""
-      }
-    ],
-    "merchant_match_score": 94,
-    "merchant_ean": "0840414668317",
-    "merchant_prices_checked_at": "2026-09-29T21:13:14.949505+02:00"
   }
 ]
