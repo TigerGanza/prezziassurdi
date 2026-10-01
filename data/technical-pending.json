@@ -1,19 +1,12 @@
 {
   "version": 1,
-  "generated_at": "2026-10-01T20:42:05+02:00",
+  "generated_at": "2026-10-01T20:57:05+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
     "smartphone-in-offerta": [
       {
         "title": "Proiettore [Android 14 & Ottica Corta]Proiettore Portatile Wi-Fi 6 Mini Projector Two-Way Bluetooth 5.4 Pot Rotazione Videoproiettore Controllabile Tramite App per Casa/HDMI/USB/Sm",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Apple AirPods Max Cuffie wireless over-ear, Cancellazione attiva del rumore di livello pro, Modalità Trasparenza, Audio spaziale personalizzato, Ricarica USB-C, Cuffie Bluetooth pe",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -214,6 +207,13 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
+      },
+      {
+        "title": "REDMI Note 17 5G, Smartphone 6+256GB, Black, Batteria da 7700 mAh",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
       }
     ],
     "migliori-smartphone-sotto-300-euro": [
@@ -396,13 +396,6 @@
     "tv-in-offerta": [
       {
         "title": "Amazon Ember serie 4 da 43\" con Fire TV (ultimo modello), smart TV 4K UHD, HDR10+, processore veloce, Dolby Audio, modalità ambiente, TV in diretta gratuita, trova serie TV più vel",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "LG QNED evo AI MiniLED 100 Pollici, Serie QNED87B 2026 Smart TV 4K - 100QNED87B6",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -599,6 +592,13 @@
       },
       {
         "title": "XIAOMI TV F 65 2025, 65 pollici (165 cm),4K UHD,Smart TV, Fire TV,Triple Tuner DVB-C/S/S2/T/T2, HDR10,MEMC, Modalità Game Boost 120Hz, Controllo Vocale Alexa, 2GB+32GB, Compatibile",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "TCL 65PF650 – Smart TV 4K Ultra HD da 65\", Fire TV",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -913,13 +913,6 @@
       }
     ],
     "migliori-tablet": [
-      {
-        "title": "HUAWEI Tablet Matepad T10 LTE 9.7\" 2GB 32GB Blu",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Tablet Android da 11 Pollici, Octa-Core, 24GB(4+20) RAM+128GB Memoria, Batteria 8200mAh, Widevine L1, Espandibile fino a 1TB, Doppia Fotocamera, Android Tablet per Studio, Lavoro e",
         "merchant": "",
@@ -1757,6 +1750,13 @@
     ],
     "cuffie-bluetooth-in-offerta": [
       {
+        "title": "Turtle Beach Stealth 500 Cuffie da gioco wireless Xbox nere con batteria da 40 ore per Xbox Series X/S, Xbox One e funziona tramite Bluetooth con PC e dispositivi mobili",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Cuffie Bluetooth Auricolari Bluetooth 5.3, 2026 HiFi Stereo Cuffie Wireless",
         "merchant": "amazon",
         "ean": "",
@@ -1772,13 +1772,6 @@
       },
       {
         "title": "TIMU Cuffie Bluetooth Over Ear, Cuffie Wireless Bluetooth 5.4, 100 Ore di Autonomia, Audio Alta Risoluzione, 3 Modalità EQ, Pieghevoli con Microfono per Viaggi/Ufficio/PC",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Apple AirPods Max Cuffie wireless over-ear, Cancellazione attiva del rumore di livello pro, Modalità Trasparenza, Audio spaziale personalizzato, Ricarica USB-C, Cuffie Bluetooth pe",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -2777,6 +2770,13 @@
     ],
     "migliori-moda": [
       {
+        "title": "PUMA Smash V2, Scarpe da trail running Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "MAXGROOM Rasoio Elettrico Donna per Parti Intime 3 in 1, Bianco",
         "merchant": "amazon",
         "ean": "",
@@ -2974,13 +2974,6 @@
       },
       {
         "title": "Mnking Scarpe da Ginnastica Uomo Donna Scarpe Corsa Sportive Running Fitness Trail Mesh Leggera Respirabile Gym Sneaker Basse Nero Bianco EU39",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "JOMIX Scarpe da Ginnastica Uomo Sneaker Sportive Corsa Running Sneakers Casual Traspirante per Correre Camminare Trail Trekking SU138-13 (Bianco, 43)",
         "merchant": "",
         "ean": "",
         "mpn": "",
