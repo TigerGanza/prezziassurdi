@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-01T18:21:45+02:00",
+  "generated_at": "2026-10-01T18:36:45+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -686,6 +686,20 @@
     ],
     "migliori-notebook": [
       {
+        "title": "Dell 15 Laptop - Intel Core i5-1334U, 8GB RAM, 512GB SSD",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Dell 15 Laptop - Intel Core i5-1334U, 16GB RAM, 512GB SSD",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "ASUS Vivobook 16 F1605VA#B0FZL8JLW9, Notebook con display 16\" Anti-glare, 60Hz,Intel® Core™ 9 Processor 270H,RAM 16GB, 1TB SSD, WIN11 Home, Argento",
         "merchant": "",
         "ean": "",
@@ -1035,13 +1049,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Baseus Nomos Air 12 in 1 Docking Station 2 Monitor per Windows",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Lenovo Notebook Ram 16GB CPU Intel i5-1342H Monitor 15.6\" Full HD SSD 512 GB LAN, HDMI, USB Win 11 Pro e Libre Office Pc portatile pronto all'uso - Colore Nero",
         "merchant": "",
         "ean": "",
@@ -1225,6 +1232,13 @@
       },
       {
         "title": "OMEN by HP Monitor da gaming 27'' FHD 240 Hz – OMEN 27s",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "ASUS ZenScreen MB16AWP Monitor PC 39,6 cm (15.6'') 1920 x 1080 Pixel Full HD LED Nero",
         "merchant": "unieuro",
         "ean": "",
         "mpn": "",
@@ -2847,13 +2861,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "ZOXOZ Pantaloni Sportivi Uomo Cotone Pantaloni Elasticizzati Uomo Jogging con Elastico in Vita con Tasche Zip Nero M",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
         "ean": "",
@@ -2974,6 +2981,13 @@
       },
       {
         "title": "Reebok Scarpe da Ginnastica Unisex Royal Prime Run, Nero/Nero, 36 EU, Nero, 36 EU",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Lotto Sneaker Unisex, Rosso/Bianco, 41 EU, Rosso Bianco, 41 EU",
         "merchant": "",
         "ean": "",
         "mpn": "",
