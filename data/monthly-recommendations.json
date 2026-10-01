@@ -29,6 +29,84 @@
       "source_url": "https://www.samsung.com/it/smartphones/galaxy-s25/",
       "verified_at": "2026-10-01",
       "search_url": "https://prezziassurdi.com/?q=Samsung%20Galaxy%20S25&store=all"
+    },
+    {
+      "guide_slugs": ["migliori-robot-aspirapolvere"],
+      "needs": ["animali", "sacchetto"],
+      "role": "Base con sacchetto e gestione peli",
+      "brand": "Dreame",
+      "model": "L40 Ultra AE",
+      "reason": "Candidato per chi preferisce una base con sacchetto: la scheda ufficiale dichiara svuotamento automatico con sacchetto, spazzola TriCut 3.0 e potenza di aspirazione fino a 19.000 Pa.",
+      "limit": "La fonte usata non dichiara qui il limite di superamento soglie; misurale prima dell'acquisto. Il robot è alto 97 mm dichiarati.",
+      "source_name": "Dreame Italia – L40 Ultra AE",
+      "source_url": "https://it.dreametech.com/products/robot-aspirapolvere-dreame-l40-ultra-ae-nero",
+      "verified_at": "2026-09-30",
+      "search_url": "https://prezziassurdi.com/?q=Dreame%20L40%20Ultra%20AE&store=all"
+    },
+    {
+      "guide_slugs": ["migliori-robot-aspirapolvere"],
+      "needs": ["animali", "senza-sacchetto"],
+      "role": "Base senza sacchetto e animali",
+      "brand": "MOVA",
+      "model": "V70 Ultra Complete",
+      "reason": "Candidato per chi non vuole sacchetti: la scheda ufficiale dichiara base EcoCyclone lavabile senza sacchetto, modalità Pet Care e potenza di aspirazione fino a 40.000 Pa.",
+      "limit": "Il ciclone senza sacchetto richiede pulizia periodica. La soglia dichiarata va confrontata con gradini e dislivelli reali della casa.",
+      "source_name": "MOVA Italia – V70 Ultra Complete",
+      "source_url": "https://it.mova.tech/products/v70-ultra-complete-robot-aspirapolvere",
+      "verified_at": "2026-09-30",
+      "search_url": "https://prezziassurdi.com/?q=MOVA%20V70%20Ultra%20Complete&store=all"
+    },
+    {
+      "guide_slugs": ["tv-in-offerta", "offerte-tv-55-65-pollici"],
+      "needs": ["cinema", "gaming"],
+      "role": "OLED per cinema e gaming",
+      "brand": "LG",
+      "model": "OLED evo AI C5 65 pollici",
+      "reason": "Candidato per cinema e gaming: la scheda ufficiale dichiara pannello OLED 4K, Dolby Vision, VRR fino a 144 Hz e quattro porte HDMI 2.1 con 4K a 120 Hz.",
+      "limit": "È un modello da 65 pollici: verifica lo spazio disponibile e la distanza di visione prima dell'acquisto.",
+      "source_name": "LG Italia – OLED65C5ELB",
+      "source_url": "https://www.lg.com/it/tv-soundbar/oled-evo/oled65c5elb/",
+      "verified_at": "2026-10-01",
+      "search_url": "https://prezziassurdi.com/?q=LG%20OLED65C5ELB&store=all"
+    },
+    {
+      "guide_slugs": ["tv-in-offerta", "offerte-tv-55-65-pollici"],
+      "needs": ["luminoso", "gaming"],
+      "role": "Mini LED per stanza luminosa",
+      "brand": "Samsung",
+      "model": "Neo QLED QN90F 65 pollici",
+      "reason": "Candidato per ambienti luminosi e gaming: la scheda ufficiale dichiara pannello Neo QLED Mini LED, trattamento Glare Free e refresh fino a 165 Hz.",
+      "limit": "Il numero di porte HDMI 2.1 va verificato sulla variante esatta prima dell'acquisto.",
+      "source_name": "Samsung Italia – QE65QN90FATXZT",
+      "source_url": "https://www.samsung.com/it/tvs/qled-tv/qn90f-65-inch-neo-qled-4k-mini-led-smart-tv-qe65qn90fatxzt/",
+      "verified_at": "2026-10-01",
+      "search_url": "https://prezziassurdi.com/?q=Samsung%20QE65QN90FATXZT&store=all"
+    },
+    {
+      "guide_slugs": ["migliori-soundbar"],
+      "needs": ["cinema", "dialoghi", "immersivo"],
+      "role": "Surround con posteriori inclusi",
+      "brand": "Samsung",
+      "model": "HW-Q930F/ZF",
+      "reason": "Candidato cinema e dialoghi: la scheda ufficiale dichiara 9.1.4 canali, subwoofer e diffusori posteriori inclusi, Dolby Atmos e Active Voice Amplifier Pro.",
+      "limit": "La configurazione richiede spazio anche per due diffusori posteriori e una presa di corrente per ciascun elemento wireless.",
+      "source_name": "Samsung Italia – HW-Q930F/ZF",
+      "source_url": "https://www.samsung.com/it/audio-devices/soundbar/q-series-soundbar-hw-q930f-black-hw-q930f-zf/",
+      "verified_at": "2026-10-01",
+      "search_url": "https://prezziassurdi.com/?q=Samsung%20HW-Q930F&store=all"
+    },
+    {
+      "guide_slugs": ["migliori-soundbar"],
+      "needs": ["cinema", "immersivo"],
+      "role": "Atmos con posteriori inclusi",
+      "brand": "LG",
+      "model": "S80TR",
+      "reason": "Candidato per un impianto Atmos con posteriori inclusi: la scheda ufficiale dichiara 5.1.3 canali, Dolby Atmos, canale centrale up-firing e AI Room Calibration Pro.",
+      "limit": "Controlla ingombri e posizione dei posteriori: la resa dipende anche dalla stanza e dal loro posizionamento.",
+      "source_name": "LG Italia – S80TR",
+      "source_url": "https://www.lg.com/it/audio/soundbar/s80tr/",
+      "verified_at": "2026-10-01",
+      "search_url": "https://prezziassurdi.com/?q=LG%20S80TR&store=all"
     }
   ]
 }
