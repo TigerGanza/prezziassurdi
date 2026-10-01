@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-01T13:51:43+02:00",
+  "generated_at": "2026-10-01T14:01:43+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -2847,6 +2847,13 @@
     ],
     "migliori-moda": [
       {
+        "title": "Columbia Powder Lite II, Giacca con Cappuccio da Uomo",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Tommy Hilfiger Orologio Multifunzione Analogico al Quarzo da Uomo con Cinturino in Acciaio Inossidabile o in Silicone",
         "merchant": "amazon",
         "ean": "",
@@ -3044,13 +3051,6 @@
       },
       {
         "title": "Hitmars Scarpe Running Uomo con Chiusura a Rotella Nero 44",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Reebok Scarpe da Ginnastica Unisex Royal Prime Run, Nero/Nero, 36 EU, Nero, 36 EU",
         "merchant": "",
         "ean": "",
         "mpn": "",
