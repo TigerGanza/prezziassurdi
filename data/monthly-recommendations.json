@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "month": "2026-10",
+  "label": "Ottobre 2026",
+  "policy": "Le scelte mensili non sono una classifica assoluta. Ogni proposta richiede modello, ruolo, motivazione, limite, fonte tecnica ufficiale e data di verifica. Prezzi e disponibilità restano dinamici nei cataloghi partner.",
+  "entries": [
+    {
+      "guide_slugs": ["smartphone-in-offerta", "migliori-smartphone-sotto-300-euro"],
+      "needs": ["foto", "valore"],
+      "role": "Foto/video e software",
+      "brand": "Google",
+      "model": "Pixel 9a",
+      "reason": "Candidato per foto/video: la scheda ufficiale dichiara fotocamera principale da 48 MP con OIS/EIS, ultrawide da 13 MP e video 4K fino a 60 fps; ha anche IP68 e 5.100 mAh.",
+      "limit": "Memoria massima dichiarata 256 GB; verifica prezzo e disponibilità della variante prima dell'acquisto.",
+      "source_name": "Google Store Italia – Pixel 9a",
+      "source_url": "https://store.google.com/it/product/pixel_9a_specs?hl=it",
+      "verified_at": "2026-10-01",
+      "search_url": "https://prezziassurdi.com/?q=Google%20Pixel%209a&store=all"
+    },
+    {
+      "guide_slugs": ["smartphone-in-offerta", "migliori-smartphone-sotto-300-euro"],
+      "needs": ["compatto", "gaming"],
+      "role": "Compatto e prestazioni",
+      "brand": "Samsung",
+      "model": "Galaxy S25",
+      "reason": "Candidato compatto/prestazioni: la scheda ufficiale dichiara display da 6,2 pollici, Snapdragon 8 Elite for Galaxy, IP68 e tagli fino a 512 GB.",
+      "limit": "Batteria tipica dichiarata da 4.000 mAh: non è la scelta da proporre a chi mette l'autonomia assoluta al primo posto.",
+      "source_name": "Samsung Italia – Galaxy S25",
+      "source_url": "https://www.samsung.com/it/smartphones/galaxy-s25/",
+      "verified_at": "2026-10-01",
+      "search_url": "https://prezziassurdi.com/?q=Samsung%20Galaxy%20S25&store=all"
+    }
+  ]
+}
