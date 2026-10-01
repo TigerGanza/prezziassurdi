@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-01T20:12:05+02:00",
+  "generated_at": "2026-10-01T20:27:05+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -2826,13 +2826,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Columbia Powder Lite II, Giacca con Cappuccio da Uomo",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
         "ean": "",
@@ -2974,6 +2967,13 @@
       },
       {
         "title": "Mnking Scarpe da Ginnastica Uomo Donna Scarpe Corsa Sportive Running Fitness Trail Mesh Leggera Respirabile Gym Sneaker Basse Nero Bianco EU39",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "JOMIX Scarpe da Ginnastica Uomo Sneaker Sportive Corsa Running Sneakers Casual Traspirante per Correre Camminare Trail Trekking SU138-13 (Bianco, 43)",
         "merchant": "",
         "ean": "",
         "mpn": "",
