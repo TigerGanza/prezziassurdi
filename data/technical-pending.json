@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-01T19:26:40+02:00",
+  "generated_at": "2026-10-01T19:32:05+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -388,6 +388,13 @@
     ],
     "tv-in-offerta": [
       {
+        "title": "Amazon Ember serie 4 da 43\" con Fire TV (ultimo modello), smart TV 4K UHD, HDR10+, processore veloce, Dolby Audio, modalità ambiente, TV in diretta gratuita, trova serie TV più vel",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "LG QNED evo AI MiniLED 100 Pollici, Serie QNED87B 2026 Smart TV 4K - 100QNED87B6",
         "merchant": "amazon",
         "ean": "",
@@ -585,13 +592,6 @@
       },
       {
         "title": "XIAOMI TV F 65 2025, 65 pollici (165 cm),4K UHD,Smart TV, Fire TV,Triple Tuner DVB-C/S/S2/T/T2, HDR10,MEMC, Modalità Game Boost 120Hz, Controllo Vocale Alexa, 2GB+32GB, Compatibile",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "TCL 65PF650 – Smart TV 4K Ultra HD da 65\", Fire TV",
         "merchant": "",
         "ean": "",
         "mpn": "",
