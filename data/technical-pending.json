@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-01T13:36:46+02:00",
+  "generated_at": "2026-10-01T13:51:43+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -1310,20 +1310,6 @@
     ],
     "migliori-smartwatch": [
       {
-        "title": "Smartwatch Uomo GPS,1.43\" HD Chiamate Bluetooth, Orologio Tattico Sportivo Impermeabile 5ATM, Tracker Attività con Sonno/Cardiofrequenzimetro/Torcia/Bussola,160+ Modalità Sport per",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "2026 Smartwatch Uomo Donna, 100+ Sportive Fitness Tracker con Sonno Contapassi Cardiofrequenzimetro, 1.85\" Smartwatch con Effettua/Risposta Chiamate, Impermeabil IP68 Smart Watch p",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "2026 Smartwatch Uomo GPS,2.06\" HD AMOLED Orologio Smartwatch con Chiamate",
         "merchant": "",
         "ean": "",
@@ -1514,6 +1500,20 @@
       },
       {
         "title": "Smartwatch Huawei Watch GT Runner 2 da 1,32 pollici",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Marsyu Nuovo Smartwatch per la Salute con ECG+PPG, HRV, Esame di Lipidi nel Sangue e Acido Urico, Torcia, Interfaccia Utente, Chiamate Vocali, Orologio Intelligente per Uomini e Do",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Nuovo arrivo OnePlus Watch 4 Smartwatch con display AMOLED da 1,5”, Snapdragon W5 Gen 1, fino a 16 giorni di autonomia, GPS, NFC, Smartwatch da uomo.",
         "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
@@ -2272,6 +2272,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "Rowenta X Force Flex 14.60, Aspirapolvere Senza Fili, Fino a 200 Air Watt, Tecnologia Flex, Kit Animal Care, RH99A9",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Roborock F25 ACE Combo Aspirapolvere Senza Fili e Lavapavimenti 5 in 1, 20.000 Pa, Autopulizia con asciugatura a 90°C, Zero Grovigli, 180° UltraPiatto, P",
         "merchant": "unieuro",
         "ean": "",
@@ -2840,6 +2847,13 @@
     ],
     "migliori-moda": [
       {
+        "title": "Tommy Hilfiger Orologio Multifunzione Analogico al Quarzo da Uomo con Cinturino in Acciaio Inossidabile o in Silicone",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Puma Future 8 Match FG/AG JR - Scarpe da Calcio Unisex, Puma Black-Puma White-Glowing Red,",
         "merchant": "amazon",
         "ean": "",
@@ -3037,13 +3051,6 @@
       },
       {
         "title": "Reebok Scarpe da Ginnastica Unisex Royal Prime Run, Nero/Nero, 36 EU, Nero, 36 EU",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Lotto Sneaker Unisex, Rosso/Bianco, 41 EU, Rosso Bianco, 41 EU",
         "merchant": "",
         "ean": "",
         "mpn": "",
