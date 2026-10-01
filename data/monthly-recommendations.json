@@ -159,6 +159,66 @@
       "source_url": "https://www.lg.com/it/monitor/gaming/27gs95qe-b/",
       "verified_at": "2026-10-01",
       "search_url": "https://prezziassurdi.com/?q=LG%2027GS95QE-B&store=all"
+    },
+    {
+      "guide_slugs": ["migliori-smartwatch"],
+      "needs": ["sport", "salute"],
+      "role": "Sport e dati salute su Android Samsung",
+      "brand": "Samsung",
+      "model": "Galaxy Watch8 44 mm Bluetooth",
+      "reason": "Candidato per sport e monitoraggi: la scheda Samsung dichiara GPS a doppia banda L1/L5, sensori cardiaci elettrico e ottico, bioimpedenza, temperatura e NFC.",
+      "limit": "Funziona con smartphone Samsung Galaxy con Android 12 o superiore: verifica compatibilità e dimensione 44 mm prima dell'acquisto.",
+      "source_name": "Samsung Italia – Galaxy Watch8 44 mm Bluetooth",
+      "source_url": "https://www.samsung.com/it/watches/galaxy-watch/galaxy-watch8-44mm-graphite-bluetooth-sm-l330ndaaitv/",
+      "verified_at": "2026-10-01",
+      "search_url": "https://prezziassurdi.com/?q=Samsung%20Galaxy%20Watch8%2044mm&store=all"
+    },
+    {
+      "guide_slugs": ["cuffie-bluetooth-in-offerta"],
+      "needs": ["anc"],
+      "role": "Cuffie over-ear con Noise Cancelling",
+      "brand": "Sony",
+      "model": "WH-1000XM6",
+      "reason": "Candidato per isolamento e viaggi: Sony dichiara Noise Cancelling, connessione multipoint, codec SBC/AAC/LDAC/LC3 e fino a 30 ore di riproduzione con NC attivo.",
+      "limit": "Sono cuffie ad archetto da circa 254 g: verifica comfort e ingombro rispetto a auricolari in-ear prima dell'acquisto.",
+      "source_name": "Sony Italia – WH-1000XM6, specifiche",
+      "source_url": "https://www.sony.it/electronics/support/wireless-headphones-bluetooth-headphones/wh-1000xm6/specifications",
+      "verified_at": "2026-10-01",
+      "search_url": "https://prezziassurdi.com/?q=Sony%20WH-1000XM6&store=all"
+    },
+    {
+      "guide_slugs": ["aspirapolvere-senza-fili-in-offerta"],
+      "needs": ["animali"],
+      "role": "Spazzola anti-groviglio per peli",
+      "brand": "Dyson",
+      "model": "Gen5detect Absolute",
+      "reason": "Candidato per chi ha peli in casa: la variante Absolute indicata da Dyson include mini turbospazzola anti-groviglio e spazzola Digital Motorbar.",
+      "limit": "Accessori e colore dipendono dalla variante: controlla che l'offerta sia effettivamente la versione Absolute con le spazzole dichiarate.",
+      "source_name": "Dyson Italia – Gen5detect Absolute",
+      "source_url": "https://www.dyson.it/aspirapolvere/senza-filo/gen5detect/absolute-rame-blu",
+      "verified_at": "2026-10-01",
+      "search_url": "https://prezziassurdi.com/?q=Dyson%20Gen5detect%20Absolute&store=all"
+    },
+    {
+      "guide_slugs": ["migliori-lavatrici"], "needs": ["famiglia"], "role": "Carico elevato per famiglia", "brand": "Bosch", "model": "Serie 8 WGB264A0IT", "reason": "Bosch dichiara carico da 11 kg, centrifuga fino a 1.400 giri/min, classe energetica A e AquaStop.", "limit": "La profondità dichiarata è 590 mm: misura vano, sportello e collegamenti prima dell'acquisto.", "source_name": "Bosch Italia – WGB264A0IT", "source_url": "https://www.bosch-home.com/it/it/mkt-product/lavatrici-e-asciugatrici/lavatrici/lavatrici-a-carica-frontale/WGB264A0IT", "verified_at": "2026-10-01", "search_url": "https://prezziassurdi.com/?q=Bosch%20WGB264A0IT&store=all"
+    },
+    {
+      "guide_slugs": ["migliori-frigoriferi"], "needs": ["famiglia", "no-frost"], "role": "Combinato capiente No Frost", "brand": "Samsung", "model": "Bespoke AI RB38C7B6AS9/EF", "reason": "Samsung dichiara 387 L totali, No Frost Premium, Twin Cooling Plus, classe A e rumorosità di 35 dBA.", "limit": "È alto 2.030 mm e profondo 658 mm: controlla spazio, passaggi e apertura porte.", "source_name": "Samsung Italia – RB38C7B6AS9/EF", "source_url": "https://www.samsung.com/it/refrigerators/bottom-mount-freezer/bespoke-bmfreezer-with-smartthings-ai-energy-mode-387l-silver-rb38c7b6as9-ef/", "verified_at": "2026-10-01", "search_url": "https://prezziassurdi.com/?q=Samsung%20RB38C7B6AS9&store=all"
+    },
+    {
+      "guide_slugs": ["friggitrici-ad-aria-offerte-confronto"], "needs": ["famiglia", "doppio"], "role": "Doppio cestello per famiglia", "brand": "Ninja", "model": "Foodi MAX Dual Zone AF400EU", "reason": "La guida ufficiale Ninja identifica AF400EU come friggitrice ad aria Dual Zone da 9,5 L con due zone di cottura.", "limit": "Verifica le dimensioni esterne della variante e lo spazio sul piano cucina prima dell'acquisto.", "source_name": "Ninja Italia – guida AF400EU", "source_url": "https://ninjakitchen.it/INTERSHOP/web/WFS/SharkNinja-IT-Site/it_IT/ninjait/EUR/ViewProductAttachment-OpenFile?FileName=AF400EU_IG_IT_MP_220311_Mv1_LR.pdf&UnitName=SharkNinja-IT", "verified_at": "2026-10-01", "search_url": "https://prezziassurdi.com/?q=Ninja%20AF400EU&store=all"
+    },
+    {
+      "guide_slugs": ["migliori-console-gaming"], "needs": ["4k", "disco"], "role": "Console con dischi e giochi in 4K", "brand": "Sony", "model": "PlayStation 5 Slim 1 TB", "reason": "La pagina PlayStation Italia per Console PS5 1 TB indica 1 TB di archiviazione e compatibilità con titoli PS5 e PS4 su dischi Blu-ray; le funzioni PS5 ufficiali includono output 4K, fino a 120 fps con output a 120 Hz nei giochi supportati, feedback aptico e grilletti adattivi.", "limit": "Verifica nell'offerta che sia la console con unità disco e il codice modello esatto: esistono anche versioni digitali e bundle diversi.", "source_name": "PlayStation Italia – PS5", "source_url": "https://www.playstation.com/it-it/ps5/", "verified_at": "2026-10-01", "search_url": "https://prezziassurdi.com/?q=PlayStation%205%20Slim%201TB&store=all"
+    },
+    {
+      "guide_slugs": ["migliori-sneakers"], "needs": ["corsa"], "role": "Running su strada", "brand": "Nike", "model": "Pegasus 41", "reason": "Nike descrive Pegasus 41 come scarpa da running su strada con due unità Air Zoom, schiuma ReactX, tomaia in mesh tecnico e suola in gomma con motivo waffle.", "limit": "La selezione riguarda corsa su strada: non sostituisce una scarpa trail e non permette di dedurre la calzata personale.", "source_name": "Nike Italia – Pegasus 41", "source_url": "https://www.nike.com/it/t/scarpa-da-running-su-strada-pegasus-41-aFqqhluh", "verified_at": "2026-10-01", "search_url": "https://prezziassurdi.com/?q=Nike%20Pegasus%2041&store=all"
+    },
+    {
+      "guide_slugs": ["migliori-sneakers"], "needs": ["quotidiano"], "role": "Sneaker lifestyle con materiali dichiarati", "brand": "adidas", "model": "Samba OG", "reason": "La scheda adidas della variante B75807 dichiara tomaia in pelle pieno fiore, rivestimenti in suede, fodera sintetica e suola in gomma.", "limit": "Materiali e codice modello non dicono come calza: controlla guida taglie, variante e condizioni di reso prima dell'acquisto.", "source_name": "adidas Italia – Samba OG B75807", "source_url": "https://www.adidas.it/scarpe-samba-og/B75807.html", "verified_at": "2026-10-01", "search_url": "https://prezziassurdi.com/?q=adidas%20Samba%20OG%20B75807&store=all"
+    },
+    {
+      "guide_slugs": ["migliori-moda"], "needs": ["uso", "materiali"], "role": "Materiali della variante verificati", "brand": "adidas", "model": "Samba OG", "reason": "La scheda ufficiale adidas della variante B75807 dichiara tomaia in pelle pieno fiore con rivestimenti in suede, fodera sintetica e suola in gomma.", "limit": "La scelta di stile e la vestibilità restano personali: verifica guida taglie, variante e reso prima di acquistare.", "source_name": "adidas Italia – Samba OG B75807", "source_url": "https://www.adidas.it/scarpe-samba-og/B75807.html", "verified_at": "2026-10-01", "search_url": "https://prezziassurdi.com/?q=adidas%20Samba%20OG%20B75807&store=all"
     }
   ]
 }
