@@ -19,7 +19,7 @@
 :root{--bg:#0d1015;--paper:#fff;--ink:#171717;--muted:#c9ced6;--line:#e6e1d8;--yellow:#ffd83d;--green:#14864d;--glass:rgba(15,18,24,.86)}
 *{box-sizing:border-box} html{scroll-behavior:smooth} body{margin:0;font-family:Manrope,system-ui,-apple-system,"Segoe UI",Arial,sans-serif;background:linear-gradient(180deg,rgba(7,9,13,.91),rgba(7,9,13,.95)),url("https://prezziassurdi.com/assets/footer-cinematic.png") center/cover fixed no-repeat;color:#fff;-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
 a{color:inherit;text-decoration:none} header{background:rgba(9,11,15,.94);color:#fff;border-bottom:1px solid rgba(255,255,255,.09);backdrop-filter:blur(14px);position:relative;z-index:10}
-.wrap{max-width:1080px;margin:auto;padding:0 20px} .top{min-height:72px;display:flex;align-items:center;justify-content:space-between;gap:18px}
+.wrap{width:min(calc(100% - 40px),1180px);margin:auto} .top{min-height:72px;display:flex;align-items:center;justify-content:space-between;gap:18px}
 h1,h2,h3,.section-title,.guide-directory-card h2,.guide-band-title,.price,.deal-price{font-family:Outfit,Manrope,system-ui,sans-serif}
 .brand{display:flex;align-items:center;gap:12px;font-weight:950;letter-spacing:-1px} .brand img{width:52px;height:52px;object-fit:contain}
 .page-nav{display:flex;align-items:center;justify-content:flex-end;gap:13px;flex-wrap:wrap} .home{font-size:12px;color:#d5d8de;font-weight:800;letter-spacing:.2px} .home:hover{color:var(--yellow)} main{padding:48px 0 60px} .crumb{font-size:12px;color:#bbc1ca;margin-bottom:18px} .crumb a:hover{color:var(--yellow)}
@@ -104,6 +104,9 @@ h2,h3{margin:0 0 9px;line-height:1.22} h2{font-weight:950;letter-spacing:-.7px} 
 .social-share{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px} .social-share a{display:inline-flex;align-items:center;justify-content:center;padding:9px 12px;border-radius:999px;border:1px solid rgba(255,255,255,.14);background:rgba(255,255,255,.06);color:#fff;font-size:10px;font-weight:900} .social-share a:hover{border-color:rgba(255,216,61,.55);color:var(--yellow)}
 .faq{display:grid;gap:10px} .faq details{position:relative;overflow:hidden;isolation:isolate;background:#11151c;color:#fff;border:1px solid rgba(255,255,255,.09);border-radius:14px;padding:14px 16px} .faq details::before{content:"";position:absolute;inset:0;z-index:-2;background:url("https://prezziassurdi.com/assets/footer-cinematic.png") center/cover no-repeat} .faq details::after{content:"";position:absolute;inset:0;z-index:-1;background:rgba(7,9,13,.88)} .faq summary{cursor:pointer;font-weight:900} .faq p{color:#d5dae2;line-height:1.6;margin:9px 0 0}
 footer{padding:25px 20px 40px;text-align:center;color:#aab0b9;font-size:11px}
+@media(min-width:1440px){.wrap{width:min(calc(100% - 56px),1360px)}}
+@media(min-width:1920px){.wrap{width:min(calc(100% - 80px),1720px)}}
+@media(min-width:2560px){.wrap{width:min(calc(100% - 112px),1920px)}}
 @media(max-width:900px){.guide-results-layout{display:block}.guide-filter-mobile-toggle{display:flex;align-items:center;justify-content:space-between;width:100%;margin:0 0 14px;padding:13px 15px;border:1px solid rgba(255,255,255,.12);border-radius:14px;background:#11151c;color:#fff;font-size:12px;font-weight:950;box-shadow:0 10px 24px rgba(0,0,0,.18)}.guide-filter-mobile-toggle b{color:var(--yellow)}.guide-filter-overlay{display:block;position:fixed;inset:0;z-index:998;background:rgba(0,0,0,.66);opacity:0;pointer-events:none;transition:.2s ease}.guide-filter-overlay.is-open{opacity:1;pointer-events:auto}.guide-filter-panel{position:fixed;left:0;top:0;bottom:0;width:min(88vw,350px);height:100dvh;z-index:999;border-radius:0 20px 20px 0;transform:translateX(-105%);transition:transform .22s ease;overflow:auto}.guide-filter-panel.is-open{transform:translateX(0)}.guide-filter-close{display:inline-flex;align-items:center;justify-content:center}.guide-filter-groups{max-height:none;overflow:visible}.guide-filter-lock{overflow:hidden}}
 @media(max-width:800px){.grid{grid-template-columns:repeat(2,1fr)}.single,.guide-layout,.guides-grid{grid-template-columns:1fr}.single .photo{height:260px}.top-choices,.quick-picks,.expert-grid{grid-template-columns:1fr}.hero-stat{min-width:0}.guide-filter-panel{top:68px}}
 @media(max-width:520px){.top{align-items:flex-start;padding-top:12px;padding-bottom:12px}.brand img{width:43px;height:43px}.page-nav{justify-content:flex-start;gap:8px}.home{font-size:10px}main{padding-top:26px}.hero{padding:25px 20px;border-radius:21px}.hero.theme-hero{padding:28px 20px 24px}.hero-mark{font-size:48px;right:12px;bottom:10px}.grid,.guide-band .grid{grid-template-columns:1fr}.guide-amazon,.band-amazon{display:block;box-shadow:0 5px 0 #111}.guide-amazon a,.band-amazon a{display:block;margin-top:10px;text-align:center}.guide-band-head{display:block}.guide-band-head p{margin-top:7px}.single{padding:18px}.guide-directory-card{padding:18px;min-height:230px}.guide-directory-card::after{font-size:42px}}
@@ -255,28 +258,22 @@ html[data-pa-season="black-friday"]{--pa-accent:#d8ba73;--pa-glow:#ba944b26}
 <a class="cta" href="https://prezziassurdi.com/offerte/B07RLVXH4Y/">VEDI DETTAGLI →</a>
 </article>
 <article class="card">
-<div class="photo"><img src="https://m.media-amazon.com/images/I/41ToFXQaVZL._SL500_.jpg" alt="Magnesio Bisglicinato 1432mg per Dose con Vitamina B6, 180 Capsule, 3 Mesi" loading="lazy"></div>
-<h3><a href="https://www.amazon.it/dp/B0CKFHG8NQ?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Magnesio Bisglicinato 1432mg per Dose con Vitamina B6, 180 Capsule, 3 Mesi</a></h3>
-<div class="price">13,53 €<span class="old">23,99 €</span></div><div class="discount">Sconto dichiarato: -44%</div>
-<a class="cta" href="https://www.amazon.it/dp/B0CKFHG8NQ?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://m.media-amazon.com/images/I/51t4xcELQ7L._SL500_.jpg" alt="Magnesio Biglicinato e Potassio Citrato Bundle, 180 Capsule + 180 Compresse" loading="lazy"></div>
-<h3><a href="https://www.amazon.it/dp/B0GVKC2C3T?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Magnesio Biglicinato e Potassio Citrato Bundle, 180 Capsule + 180 Compresse</a></h3>
-<div class="price">26,82 €<span class="old">47,98 €</span></div><div class="discount">Sconto dichiarato: -44%</div>
-<a class="cta" href="https://www.amazon.it/dp/B0GVKC2C3T?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/51-cOu8oKtL._SL500_.jpg" alt="Equilibra Multivitamine e Minerali Rilascio Fino a 8 Ore, 30 Compresse" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B088RKJ39K?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Equilibra Multivitamine e Minerali Rilascio Fino a 8 Ore, 30 Compresse</a></h3>
-<div class="price">5,55 €<span class="old">8,99 €</span></div><div class="discount">Sconto dichiarato: -38%</div>
+<div class="price">5,26 €<span class="old">8,99 €</span></div><div class="discount">Sconto dichiarato: -41%</div>
 <a class="cta" href="https://www.amazon.it/dp/B088RKJ39K?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
 </article>
 <article class="card">
-<div class="photo"><img src="https://m.media-amazon.com/images/I/51A0qEbOWRL._SL500_.jpg" alt="Liquid I.V. Integratore Elettroliti per Idratazione, Lemon Lime, 16 stick" loading="lazy"></div>
-<h3><a href="https://www.amazon.it/dp/B0GVNZBYT8?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Liquid I.V. Integratore Elettroliti per Idratazione, Lemon Lime, 16 stick</a></h3>
-<div class="price">11,25 €<span class="old">17,90 €</span></div><div class="discount">Sconto dichiarato: -37%</div>
-<a class="cta" href="https://www.amazon.it/dp/B0GVNZBYT8?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
+<div class="photo"><img src="https://m.media-amazon.com/images/I/51uplZbVPRL._SL500_.jpg" alt="Equilibra Magnesio e Potassio Sport, Con Elettroliti e Carboidrati,10 Buste" loading="lazy"></div>
+<h3><a href="https://www.amazon.it/dp/B0GQHRJ5PK?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Equilibra Magnesio e Potassio Sport, Con Elettroliti e Carboidrati,10 Buste</a></h3>
+<div class="price">7,34 €<span class="old">11,55 €</span></div><div class="discount">Sconto dichiarato: -36%</div>
+<a class="cta" href="https://www.amazon.it/dp/B0GQHRJ5PK?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
+</article>
+<article class="card">
+<div class="photo"><img src="https://m.media-amazon.com/images/I/41o+S2e9E9L._SL500_.jpg" alt="Equilibra Integratori Alimentari, Multivitamine e Minerali" loading="lazy"></div>
+<h3><a href="https://www.amazon.it/dp/B09W5L8Y1W?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Equilibra Integratori Alimentari, Multivitamine e Minerali</a></h3>
+<div class="price">6,16 €<span class="old">9,49 €</span></div><div class="discount">Sconto dichiarato: -35%</div>
+<a class="cta" href="https://www.amazon.it/dp/B09W5L8Y1W?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
 </article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/41Jm+1mQp3L._SL500_.jpg" alt="Enervit, Maltodextrine, Integratore Energetico con 99, 9% di Maltodestrine, Insapore" loading="lazy"></div>
@@ -321,12 +318,6 @@ html[data-pa-season="black-friday"]{--pa-accent:#d8ba73;--pa-glow:#ba944b26}
 <a class="cta" href="https://www.amazon.it/dp/B0D1W2T5CY?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
 </article>
 <article class="card">
-<div class="photo"><img src="https://m.media-amazon.com/images/I/31Wvp8PJhNL._SL500_.jpg" alt="Enervit Pure Pro 100% Plant Protein, Proteine Vegane Isolate di Pisello e Fava" loading="lazy"></div>
-<h3><a href="https://www.amazon.it/dp/B0DWNH7RXS?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Enervit Pure Pro 100% Plant Protein, Proteine Vegane Isolate di Pisello e Fava</a></h3>
-<div class="price">32,38 €<span class="old">44,90 €</span></div><div class="discount">Sconto dichiarato: -28%</div>
-<a class="cta" href="https://www.amazon.it/dp/B0DWNH7RXS?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/31zb-JoH16L._SL500_.jpg" alt="Bulk Caseina micellare, Cioccolato, 500g" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B00SP334TS?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Bulk Caseina micellare, Cioccolato, 500g</a></h3>
 <div class="price">15,99 €<span class="old">21,88 €</span></div><div class="discount">Sconto dichiarato: -27%</div>
@@ -339,10 +330,22 @@ html[data-pa-season="black-friday"]{--pa-accent:#d8ba73;--pa-glow:#ba944b26}
 <a class="cta" href="https://www.amazon.it/dp/B09VTBBM6L?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
 </article>
 <article class="card">
+<div class="photo"><img src="https://m.media-amazon.com/images/I/41xi-p6DIbL._SL500_.jpg" alt="Optimum Nutrition ON Platinum PUMP Pre Workout" loading="lazy"></div>
+<h3><a href="https://www.amazon.it/dp/B09P47NZGL?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Optimum Nutrition ON Platinum PUMP Pre Workout</a></h3>
+<div class="price">26,99 €<span class="old">35,98 €</span></div><div class="discount">Sconto dichiarato: -25%</div>
+<a class="cta" href="https://www.amazon.it/dp/B09P47NZGL?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
+</article>
+<article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/41gGUCo0lvL._SL500_.jpg" alt="Caffeina Pura – 400 compresse – 200 mg per compressa – Alto Dosaggio" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B0F37GFSRM?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Caffeina Pura – 400 compresse – 200 mg per compressa – Alto Dosaggio</a></h3>
 <div class="price">9,95 €<span class="old">12,95 €</span></div><div class="discount">Sconto dichiarato: -23%</div>
 <a class="cta" href="https://www.amazon.it/dp/B0F37GFSRM?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
+</article>
+<article class="card">
+<div class="photo"><img src="https://m.media-amazon.com/images/I/519IfUQihBL._SL500_.jpg" alt="Powerade Mountain Blast Zero Sport Drink – 12 Bottiglie da 500 ml, Bevanda Isotonica" loading="lazy"></div>
+<h3><a href="https://prezziassurdi.com/offerte/B0C4PVYYYX/">Powerade Mountain Blast Zero Sport Drink – 12 Bottiglie da 500 ml, Bevanda Isotonica</a></h3>
+<div class="price">10,20 €<span class="old">13,20 €</span></div><div class="discount">Sconto dichiarato: -23%</div>
+<a class="cta" href="https://prezziassurdi.com/offerte/B0C4PVYYYX/">VEDI DETTAGLI →</a>
 </article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/31RBxtQ7QEL._SL500_.jpg" alt="Bulk Beta Alanina in Polvere, Senza Aroma, 500g" loading="lazy"></div>
@@ -369,22 +372,22 @@ html[data-pa-season="black-friday"]{--pa-accent:#d8ba73;--pa-glow:#ba944b26}
 <a class="cta" href="https://www.amazon.it/dp/B084G5XC29?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
 </article>
 <article class="card">
-<div class="photo"><img src="https://m.media-amazon.com/images/I/41o+S2e9E9L._SL500_.jpg" alt="Equilibra Integratori Alimentari, Multivitamine e Minerali" loading="lazy"></div>
-<h3><a href="https://www.amazon.it/dp/B09W5L8Y1W?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Equilibra Integratori Alimentari, Multivitamine e Minerali</a></h3>
-<div class="price">7,61 €<span class="old">9,49 €</span></div><div class="discount">Sconto dichiarato: -20%</div>
-<a class="cta" href="https://www.amazon.it/dp/B09W5L8Y1W?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
+<div class="photo"><img src="https://m.media-amazon.com/images/I/319fQE5g-dL._SL500_.jpg" alt="YAMAMOTO NUTRITION Essential AMINO 240 Compresse" loading="lazy"></div>
+<h3><a href="https://www.amazon.it/dp/B0CTXMR1F3?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">YAMAMOTO NUTRITION Essential AMINO 240 Compresse</a></h3>
+<div class="price">23,73 €<span class="old">29,90 €</span></div><div class="discount">Sconto dichiarato: -21%</div>
+<a class="cta" href="https://www.amazon.it/dp/B0CTXMR1F3?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
+</article>
+<article class="card">
+<div class="photo"><img src="https://m.media-amazon.com/images/I/41YlrElr9gL._SL500_.jpg" alt="Enervit Pure Pro Electrolytes Boost, Elettroliti" loading="lazy"></div>
+<h3><a href="https://www.amazon.it/dp/B0DXFJV7HG?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Enervit Pure Pro Electrolytes Boost, Elettroliti</a></h3>
+<div class="price">11,20 €<span class="old">14,00 €</span></div><div class="discount">Sconto dichiarato: -20%</div>
+<a class="cta" href="https://www.amazon.it/dp/B0DXFJV7HG?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
 </article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/414jsdkp38L._SL500_.jpg" alt="Bandini® AMINOACIDI RAMIFICATI BCAA 211 + Vitamina B1 e B6 | 500 Compresse" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B0B1G6D1FB?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Bandini® AMINOACIDI RAMIFICATI BCAA 211 + Vitamina B1 e B6 | 500 Compresse</a></h3>
 <div class="price">23,90 €<span class="old">29,90 €</span></div><div class="discount">Sconto dichiarato: -20%</div>
 <a class="cta" href="https://www.amazon.it/dp/B0B1G6D1FB?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://m.media-amazon.com/images/I/41mJfdlPsTL._SL500_.jpg" alt="Optimum Nutrition Gold Standard 100% Proteine Caseina in Polvere" loading="lazy"></div>
-<h3><a href="https://www.amazon.it/dp/B002DYJ0M0?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Optimum Nutrition Gold Standard 100% Proteine Caseina in Polvere</a></h3>
-<div class="price">69,99 €<span class="old">87,99 €</span></div><div class="discount">Sconto dichiarato: -20%</div>
-<a class="cta" href="https://www.amazon.it/dp/B002DYJ0M0?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
 </article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/417M1CLEjBL._SL500_.jpg" alt="Elettroliti, 5 Sali Minerali, Magnesio, Potassio, Sodio, Calcio, Cloruro" loading="lazy"></div>
@@ -405,6 +408,12 @@ html[data-pa-season="black-friday"]{--pa-accent:#d8ba73;--pa-glow:#ba944b26}
 <a class="cta" href="https://www.amazon.it/dp/B0CPM3157M?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
 </article>
 <article class="card">
+<div class="photo"><img src="https://m.media-amazon.com/images/I/31ijfoyI7sL._SL500_.jpg" alt="GlycoBol® integratore alimentare a base di ciclodestrine altamente ramificate Cluster…" loading="lazy"></div>
+<h3><a href="https://www.amazon.it/dp/B01I8K2JTI?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">GlycoBol® integratore alimentare a base di ciclodestrine altamente ramificate Cluster…</a></h3>
+<div class="price">18,69 €<span class="old">22,52 €</span></div><div class="discount">Sconto dichiarato: -17%</div>
+<a class="cta" href="https://www.amazon.it/dp/B01I8K2JTI?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
+</article>
+<article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/419j1PXSxiL._SL500_.jpg" alt="Nutravita Omega 3 2000mg 90 Capsule" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B0GQVYDCNT?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Nutravita Omega 3 2000mg 90 Capsule</a></h3>
 <div class="price">7,59 €<span class="old">8,99 €</span></div><div class="discount">Sconto dichiarato: -16%</div>
@@ -417,16 +426,16 @@ html[data-pa-season="black-friday"]{--pa-accent:#d8ba73;--pa-glow:#ba944b26}
 <a class="cta" href="https://www.amazon.it/dp/B07MK35YHP?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
 </article>
 <article class="card">
-<div class="photo"><img src="https://m.media-amazon.com/images/I/314W0GXKfJL._SL500_.jpg" alt="SUPREMAGY MAGNESIO BISGLICINATO 450mg (Fornitura 4 Mesi) 240 CPR Magnesio Completo" loading="lazy"></div>
-<h3><a href="https://www.amazon.it/dp/B0DYDQVML5?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">SUPREMAGY MAGNESIO BISGLICINATO 450mg (Fornitura 4 Mesi) 240 CPR Magnesio Completo</a></h3>
+<div class="photo"><img src="https://m.media-amazon.com/images/I/314W0GXKfJL._SL500_.jpg" alt="Supremagy Magnesio Bisglicinato 2250mg | 240 CPR (fino a 4 mesi)" loading="lazy"></div>
+<h3><a href="https://www.amazon.it/dp/B0DYDQVML5?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Supremagy Magnesio Bisglicinato 2250mg | 240 CPR (fino a 4 mesi)</a></h3>
 <div class="price">16,97 €<span class="old">19,90 €</span></div><div class="discount">Sconto dichiarato: -15%</div>
 <a class="cta" href="https://www.amazon.it/dp/B0DYDQVML5?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
 </article>
 <article class="card">
-<div class="photo"><img src="https://m.media-amazon.com/images/I/51uplZbVPRL._SL500_.jpg" alt="Equilibra Magnesio e Potassio Sport, Con Elettroliti e Carboidrati,10 Buste" loading="lazy"></div>
-<h3><a href="https://www.amazon.it/dp/B0GQHRJ5PK?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Equilibra Magnesio e Potassio Sport, Con Elettroliti e Carboidrati,10 Buste</a></h3>
-<div class="price">9,90 €<span class="old">11,55 €</span></div><div class="discount">Sconto dichiarato: -14%</div>
-<a class="cta" href="https://www.amazon.it/dp/B0GQHRJ5PK?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
+<div class="photo"><img src="https://m.media-amazon.com/images/I/41anLSIx-3L._SL500_.jpg" alt="EAA Aminoacidi Essenziali RTP con Vitamina B6, 500 Compresse" loading="lazy"></div>
+<h3><a href="https://www.amazon.it/dp/B0H2FJ8V6V?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">EAA Aminoacidi Essenziali RTP con Vitamina B6, 500 Compresse</a></h3>
+<div class="price">23,66 €<span class="old">27,90 €</span></div><div class="discount">Sconto dichiarato: -15%</div>
+<a class="cta" href="https://www.amazon.it/dp/B0H2FJ8V6V?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
 </article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/41HsK2nfhmL._SL500_.jpg" alt="Magnesio Bisglicinato 1500mg con Vitamina B6 – Supporta Stress e Stanchezza" loading="lazy"></div>
@@ -447,22 +456,64 @@ html[data-pa-season="black-friday"]{--pa-accent:#d8ba73;--pa-glow:#ba944b26}
 <a class="cta" href="https://www.amazon.it/dp/B0763S87WQ?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
 </article>
 <article class="card">
-<div class="photo"><img src="https://m.media-amazon.com/images/I/31tV+9g0CGL._SL500_.jpg" alt="GymBeam Caseina Micellare 1000g Caseine di Alta Qualità Polvere di Caseina per…" loading="lazy"></div>
-<h3><a href="https://www.amazon.it/dp/B08P7SX7FW?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">GymBeam Caseina Micellare 1000g Caseine di Alta Qualità Polvere di Caseina per…</a></h3>
-<div class="price">26,95 €<span class="old">30,99 €</span></div><div class="discount">Sconto dichiarato: -13%</div>
-<a class="cta" href="https://www.amazon.it/dp/B08P7SX7FW?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/31i-6x9ZKfL._SL500_.jpg" alt="YAMAMOTO NUTRITION Essential AMINO 600 Compresse" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B0CG6QRT5D?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">YAMAMOTO NUTRITION Essential AMINO 600 Compresse</a></h3>
-<div class="price">52,37 €<span class="old">59,90 €</span></div><div class="discount">Sconto dichiarato: -13%</div>
+<div class="price">52,36 €<span class="old">59,90 €</span></div><div class="discount">Sconto dichiarato: -13%</div>
 <a class="cta" href="https://www.amazon.it/dp/B0CG6QRT5D?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
+</article>
+<article class="card">
+<div class="photo"><img src="https://m.media-amazon.com/images/I/41+0Lj2HzwL._SL500_.jpg" alt="Optimum Nutrition Gold Standard 100% Proteine Caseina in Polvere" loading="lazy"></div>
+<h3><a href="https://www.amazon.it/dp/B002DYJ0N4?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Optimum Nutrition Gold Standard 100% Proteine Caseina in Polvere</a></h3>
+<div class="price">69,99 €<span class="old">79,99 €</span></div><div class="discount">Sconto dichiarato: -13%</div>
+<a class="cta" href="https://www.amazon.it/dp/B002DYJ0N4?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
+</article>
+<article class="card">
+<div class="photo"><img src="https://m.media-amazon.com/images/I/41VSJrsRGzL._SL500_.jpg" alt="Omega 3 2000 mg | 240 capsule | Alta concentrazione di 660 mg di EPA e 440 mg di DHA…" loading="lazy"></div>
+<h3><a href="https://www.amazon.it/dp/B0DH3KQN49?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Omega 3 2000 mg | 240 capsule | Alta concentrazione di 660 mg di EPA e 440 mg di DHA…</a></h3>
+<div class="price">14,97 €<span class="old">16,95 €</span></div><div class="discount">Sconto dichiarato: -12%</div>
+<a class="cta" href="https://www.amazon.it/dp/B0DH3KQN49?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
+</article>
+<article class="card">
+<div class="photo"><img src="https://m.media-amazon.com/images/I/41bzfy7fbuL._SL500_.jpg" alt="Bcaa 4:1:1 Yamamoto Nutrition (200 tablets)" loading="lazy"></div>
+<h3><a href="https://www.amazon.it/dp/B06WWDPNSS?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Bcaa 4:1:1 Yamamoto Nutrition (200 tablets)</a></h3>
+<div class="price">17,55 €<span class="old">19,90 €</span></div><div class="discount">Sconto dichiarato: -12%</div>
+<a class="cta" href="https://www.amazon.it/dp/B06WWDPNSS?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
 </article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/31A-NycQI8L._SL500_.jpg" alt="Citrullina Malato 3000 mg RTP, 180 Compresse" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B0H1QVZLJ2?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Citrullina Malato 3000 mg RTP, 180 Compresse</a></h3>
 <div class="price">15,10 €<span class="old">16,90 €</span></div><div class="discount">Sconto dichiarato: -11%</div>
 <a class="cta" href="https://www.amazon.it/dp/B0H1QVZLJ2?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
+</article>
+<article class="card">
+<div class="photo"><img src="https://m.media-amazon.com/images/I/41bmcQ9YZTL._SL500_.jpg" alt="YAMAMOTO NUTRITION GlycoBol 500 grammi" loading="lazy"></div>
+<h3><a href="https://www.amazon.it/dp/B093F2S46S?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">YAMAMOTO NUTRITION GlycoBol 500 grammi</a></h3>
+<div class="price">19,82 €<span class="old">22,32 €</span></div><div class="discount">Sconto dichiarato: -11%</div>
+<a class="cta" href="https://www.amazon.it/dp/B093F2S46S?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
+</article>
+<article class="card">
+<div class="photo"><img src="https://m.media-amazon.com/images/I/41ys69AEPrL._SL500_.jpg" alt="Potassium CITRATE integratore di potassio da fonte organica 90 compresse" loading="lazy"></div>
+<h3><a href="https://www.amazon.it/dp/B01LY3VGB3?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Potassium CITRATE integratore di potassio da fonte organica 90 compresse</a></h3>
+<div class="price">7,92 €<span class="old">8,81 €</span></div><div class="discount">Sconto dichiarato: -10%</div>
+<a class="cta" href="https://www.amazon.it/dp/B01LY3VGB3?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
+</article>
+<article class="card">
+<div class="photo"><img src="https://m.media-amazon.com/images/I/41fWXe2Q8FL._SL500_.jpg" alt="YAMAMOTO Nutrition, Multi VITAMIN 60 Compresse" loading="lazy"></div>
+<h3><a href="https://www.amazon.it/dp/B01INBIB2Q?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">YAMAMOTO Nutrition, Multi VITAMIN 60 Compresse</a></h3>
+<div class="price">10,71 €<span class="old">11,92 €</span></div><div class="discount">Sconto dichiarato: -10%</div>
+<a class="cta" href="https://www.amazon.it/dp/B01INBIB2Q?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
+</article>
+<article class="card">
+<div class="photo"><img src="https://m.media-amazon.com/images/I/41ToFXQaVZL._SL500_.jpg" alt="Magnesio Bisglicinato 1432mg per Dose con Vitamina B6, 180 Capsule, 3 Mesi" loading="lazy"></div>
+<h3><a href="https://www.amazon.it/dp/B0CKFHG8NQ?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Magnesio Bisglicinato 1432mg per Dose con Vitamina B6, 180 Capsule, 3 Mesi</a></h3>
+<div class="price">13,53 €<span class="old">14,99 €</span></div><div class="discount">Sconto dichiarato: -10%</div>
+<a class="cta" href="https://www.amazon.it/dp/B0CKFHG8NQ?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
+</article>
+<article class="card">
+<div class="photo"><img src="https://m.media-amazon.com/images/I/411LuZKWYNL._SL500_.jpg" alt="Bcaa 8:1:1 integratore alimentare di aminoacidi a catena ramificata con vitamine B1 e…" loading="lazy"></div>
+<h3><a href="https://www.amazon.it/dp/B074V4PMRZ?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Bcaa 8:1:1 integratore alimentare di aminoacidi a catena ramificata con vitamine B1 e…</a></h3>
+<div class="price">15,74 €<span class="old">17,49 €</span></div><div class="discount">Sconto dichiarato: -10%</div>
+<a class="cta" href="https://www.amazon.it/dp/B074V4PMRZ?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
 </article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/51tJMiWWfKL._SL500_.jpg" alt="Pre Workout Pre Allenamento 30 Stick 300g Integratore Sport con Creatina Citrullina…" loading="lazy"></div>
@@ -495,6 +546,12 @@ html[data-pa-season="black-friday"]{--pa-accent:#d8ba73;--pa-glow:#ba944b26}
 <a class="cta" href="https://www.amazon.it/dp/B0FNWVJYYM?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
 </article>
 <article class="card">
+<div class="photo"><img src="https://m.media-amazon.com/images/I/41BEw0Ts0GL._SL500_.jpg" alt="Bcaa POWDER 8:1:1 integratore di aminoacidi ramificati in rapporto 8:1:1 300 g…" loading="lazy"></div>
+<h3><a href="https://www.amazon.it/dp/B074V4MFXC?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Bcaa POWDER 8:1:1 integratore di aminoacidi ramificati in rapporto 8:1:1 300 g…</a></h3>
+<div class="price">23,11 €<span class="old">25,66 €</span></div><div class="discount">Sconto dichiarato: -10%</div>
+<a class="cta" href="https://www.amazon.it/dp/B074V4MFXC?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
+</article>
+<article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/31DaZWDJCwL._SL500_.jpg" alt="GymBeam Caseina Micellare 1000g Caseine di Alta Qualità Polvere di Caseina per…" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B08P7XJ7S6?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">GymBeam Caseina Micellare 1000g Caseine di Alta Qualità Polvere di Caseina per…</a></h3>
 <div class="price">26,95 €<span class="old">29,94 €</span></div><div class="discount">Sconto dichiarato: -10%</div>
@@ -525,6 +582,12 @@ html[data-pa-season="black-friday"]{--pa-accent:#d8ba73;--pa-glow:#ba944b26}
 <a class="cta" href="https://www.amazon.it/dp/B0FS1JLD1P?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
 </article>
 <article class="card">
+<div class="photo"><img src="https://m.media-amazon.com/images/I/41vVw3rBJKL._SL500_.jpg" alt="EthicSport Beta Alanina – Formula pura in capsule vegetali – Supporto tecnico per…" loading="lazy"></div>
+<h3><a href="https://www.amazon.it/dp/B086VHSFXQ?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">EthicSport Beta Alanina – Formula pura in capsule vegetali – Supporto tecnico per…</a></h3>
+<div class="price">16,70 €<span class="old">18,01 €</span></div><div class="discount">Sconto dichiarato: -7%</div>
+<a class="cta" href="https://www.amazon.it/dp/B086VHSFXQ?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
+</article>
+<article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/31-mZmQtMiL._SL500_.jpg" alt="Bulk Creatina Monoidrato Polvere, Senza aroma, 500 g" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B00SP2ZKW8?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Bulk Creatina Monoidrato Polvere, Senza aroma, 500 g</a></h3>
 <div class="price">14,99 €<span class="old">15,99 €</span></div><div class="discount">Sconto dichiarato: -6%</div>
@@ -543,70 +606,10 @@ html[data-pa-season="black-friday"]{--pa-accent:#d8ba73;--pa-glow:#ba944b26}
 <a class="cta" href="https://www.amazon.it/dp/B0DXKPDNG8?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
 </article>
 <article class="card">
-<div class="photo"><img src="https://m.media-amazon.com/images/I/41AxU9LxWaL._SL500_.jpg" alt="PROLABS – Proteine in Polvere POWER WHEY AMINO SUPPORT Concentrate Ricche di…" loading="lazy"></div>
-<h3><a href="https://www.amazon.it/dp/B09HMSF7FG?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">PROLABS – Proteine in Polvere POWER WHEY AMINO SUPPORT Concentrate Ricche di…</a></h3>
-<div class="price">25,54 €<span class="old">26,80 €</span></div><div class="discount">Sconto dichiarato: -5%</div>
-<a class="cta" href="https://www.amazon.it/dp/B09HMSF7FG?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/51zn+EBbj+L._SL500_.jpg" alt="Nutreika Pre Workout Potente + Creatina Monoidrata Pura e Caffeina" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B0F674KMT3?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Nutreika Pre Workout Potente + Creatina Monoidrata Pura e Caffeina</a></h3>
 <div class="price">26,12 €<span class="old">27,49 €</span></div><div class="discount">Sconto dichiarato: -5%</div>
 <a class="cta" href="https://www.amazon.it/dp/B0F674KMT3?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://m.media-amazon.com/images/I/41NQ7Z+awsL._SL500_.jpg" alt="Bandini® EAA Aminoacidi Essenziali 480 COMPRESSE Con 9 Amminoacidi" loading="lazy"></div>
-<h3><a href="https://www.amazon.it/dp/B0C8BD2PX5?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Bandini® EAA Aminoacidi Essenziali 480 COMPRESSE Con 9 Amminoacidi</a></h3>
-<div class="price">28,40 €<span class="old">29,90 €</span></div><div class="discount">Sconto dichiarato: -5%</div>
-<a class="cta" href="https://www.amazon.it/dp/B0C8BD2PX5?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://m.media-amazon.com/images/I/419VzTqDNgL._SL500_.jpg" alt="Optimum Nutrition Gold Standard 100% Whey Proteine Isolate in Polvere" loading="lazy"></div>
-<h3><a href="https://www.amazon.it/dp/B07R16QQY8?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Optimum Nutrition Gold Standard 100% Whey Proteine Isolate in Polvere</a></h3>
-<div class="price">56,99 €<span class="old">59,99 €</span></div><div class="discount">Sconto dichiarato: -5%</div>
-<a class="cta" href="https://www.amazon.it/dp/B07R16QQY8?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://cdn.manomano.com/pim-media/images/master/9b84882e882724042a30eff896f8dd8c90a037bc.jpg" alt="Condensatore Elettrolitico 220uf 16v 105º 6x12mm 220mf16v105" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=45852970868&amp;a=3086723&amp;m=17962" target="_blank" rel="nofollow sponsored noopener">Condensatore Elettrolitico 220uf 16v 105º 6x12mm 220mf16v105</a></h3>
-<div class="price">1,90 €</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=45852970868&amp;a=3086723&amp;m=17962" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://cdn.manomano.com/pim-media/images/master/6dcef1f92f41eb4c733eeb655603c7f81bdbe216.jpg" alt="Condensatore Elettrolitico 1000uf 35vdc 105âºc Dimensioni 13x20mm Radiale…" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=45056878366&amp;a=3086723&amp;m=17962" target="_blank" rel="nofollow sponsored noopener">Condensatore Elettrolitico 1000uf 35vdc 105âºc Dimensioni 13x20mm Radiale…</a></h3>
-<div class="price">1,92 €</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=45056878366&amp;a=3086723&amp;m=17962" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://cdn.manomano.com/pim-media/images/master/cfb84ca331a31e431efd9c47b2d3fdadec7e8fc1.jpg" alt="Condensatore Elettrolitico 1800uf 6,3v 105âº Dimensioni 10x17mm 1800mf6,3v105" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=45623038973&amp;a=3086723&amp;m=17962" target="_blank" rel="nofollow sponsored noopener">Condensatore Elettrolitico 1800uf 6,3v 105âº Dimensioni 10x17mm 1800mf6,3v105</a></h3>
-<div class="price">2,25 €</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=45623038973&amp;a=3086723&amp;m=17962" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://m.media-amazon.com/images/I/31OPhA+epsL._SL500_.jpg" alt="ISOSTAD Hydro Tabs Elettroliti Gusto Limone, 18 Tavolette" loading="lazy"></div>
-<h3><a href="https://www.amazon.it/dp/B0GLQKF793?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">ISOSTAD Hydro Tabs Elettroliti Gusto Limone, 18 Tavolette</a></h3>
-<div class="price">6,69 €</div>
-<a class="cta" href="https://www.amazon.it/dp/B0GLQKF793?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://m.media-amazon.com/images/I/311cek2KYrL._SL500_.jpg" alt="GymBeam L Glutammina in Polvere, Amminoacidi Essenziali" loading="lazy"></div>
-<h3><a href="https://www.amazon.it/dp/B08P5TXMTK?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">GymBeam L Glutammina in Polvere, Amminoacidi Essenziali</a></h3>
-<div class="price">7,50 €</div>
-<a class="cta" href="https://www.amazon.it/dp/B08P5TXMTK?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://m.media-amazon.com/images/I/21SmmvMQu8L._SL500_.jpg" alt="GymBeam Caffeina in Capsule, Stimolante Energetico per lo Sport e l&#x27;Esercizio" loading="lazy"></div>
-<h3><a href="https://www.amazon.it/dp/B0D1CLLZRF?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">GymBeam Caffeina in Capsule, Stimolante Energetico per lo Sport e l&#x27;Esercizio</a></h3>
-<div class="price">7,79 €</div>
-<a class="cta" href="https://www.amazon.it/dp/B0D1CLLZRF?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://m.media-amazon.com/images/I/41J7vzCP45L._SL500_.jpg" alt="DailiVIT+ Integratore Multivitaminico, con 13 Vitamine e 9 Minerali" loading="lazy"></div>
-<h3><a href="https://www.amazon.it/dp/B07J9Q14B5?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">DailiVIT+ Integratore Multivitaminico, con 13 Vitamine e 9 Minerali</a></h3>
-<div class="price">7,95 €</div>
-<a class="cta" href="https://www.amazon.it/dp/B07J9Q14B5?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
 </article></div>
 </section>
 <section class="editorial-panel" style="margin-top:18px">
