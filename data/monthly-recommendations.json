@@ -107,6 +107,58 @@
       "source_url": "https://www.lg.com/it/audio/soundbar/s80tr/",
       "verified_at": "2026-10-01",
       "search_url": "https://prezziassurdi.com/?q=LG%20S80TR&store=all"
+    },
+    {
+      "guide_slugs": ["migliori-notebook"],
+      "needs": ["studio", "lavoro"],
+      "role": "Notebook leggero per studio e lavoro",
+      "brand": "ASUS",
+      "model": "Zenbook S 14 (UX5406)",
+      "reason": "Candidato per studio e lavoro mobile: la scheda ASUS Italia indica display OLED da 14 pollici, processori Intel Core Ultra e NPU Intel AI Boost; le configurazioni cambiano tra UX5406SA e UX5406AA.",
+      "limit": "CPU, grafica e NPU cambiano in base alla variante: confronta codice esatto, RAM e SSD dell'offerta prima dell'acquisto.",
+      "source_name": "ASUS Italia – Zenbook S 14 UX5406, specifiche",
+      "source_url": "https://www.asus.com/it/laptops/for-home/zenbook/asus-zenbook-s-14-ux5406/techspec/",
+      "verified_at": "2026-10-01",
+      "search_url": "https://prezziassurdi.com/?q=ASUS%20Zenbook%20S%2014%20UX5406&store=all"
+    },
+    {
+      "guide_slugs": ["migliori-pc-desktop"],
+      "needs": ["upgrade"],
+      "role": "Mini PC aggiornabile",
+      "brand": "Lenovo",
+      "model": "IdeaCentre Mini Gen 10 (Intel)",
+      "reason": "Candidato per chi cerca un PC desktop molto compatto: Lenovo Italia lo descrive come mini desktop da 1 L, aggiornabile, con processori Intel Core secondo configurazione.",
+      "limit": "Non è una raccomandazione per gaming: processore, RAM, SSD e grafica dipendono dalla configurazione selezionata e vanno letti nell'offerta esatta.",
+      "source_name": "Lenovo Italia – IdeaCentre Mini Gen 10 (Intel)",
+      "source_url": "https://www.lenovo.com/it/it/p/desktops/ideacentre/500-series/lenovo-ideacentre-mini-gen-10-1l-intel/len102d0048",
+      "verified_at": "2026-10-01",
+      "search_url": "https://prezziassurdi.com/?q=Lenovo%20IdeaCentre%20Mini%20Gen%2010&store=all"
+    },
+    {
+      "guide_slugs": ["migliori-tablet"],
+      "needs": ["studio", "disegno"],
+      "role": "Appunti e penna inclusa",
+      "brand": "Samsung",
+      "model": "Galaxy Tab S10 FE",
+      "reason": "Candidato per studio e appunti: la fonte Samsung dichiara display LCD da 10,9 pollici fino a 90 Hz, Exynos 1580 e S Pen inclusa.",
+      "limit": "Memoria, connettività Wi‑Fi/5G e peso cambiano tra le versioni: verifica la configurazione prima dell'acquisto.",
+      "source_name": "Samsung Italia – caratteristiche Galaxy Tab S10 FE",
+      "source_url": "https://www.samsung.com/it/support/mobile-devices/what-are-the-features-of-the-galaxy-tab-s10-fe-plus-and-s10-fe/",
+      "verified_at": "2026-10-01",
+      "search_url": "https://prezziassurdi.com/?q=Samsung%20Galaxy%20Tab%20S10%20FE&store=all"
+    },
+    {
+      "guide_slugs": ["migliori-monitor"],
+      "needs": ["gaming", "foto"],
+      "role": "OLED QHD ad alto refresh",
+      "brand": "LG",
+      "model": "UltraGear OLED 27GS95QE-B",
+      "reason": "Candidato per gaming e lavoro sul colore: la scheda LG Italia dichiara OLED QHD da 27 pollici, 240 Hz, 0,03 ms GtG, HDR True Black 400 e copertura DCI-P3 al 98,5% tipico.",
+      "limit": "Per foto/video professionali vanno comunque verificati flusso colore, calibrazione e collegamenti necessari: questi aspetti non sono sostituiti dalla sola copertura dichiarata.",
+      "source_name": "LG Italia – UltraGear OLED 27GS95QE-B",
+      "source_url": "https://www.lg.com/it/monitor/gaming/27gs95qe-b/",
+      "verified_at": "2026-10-01",
+      "search_url": "https://prezziassurdi.com/?q=LG%2027GS95QE-B&store=all"
     }
   ]
 }
