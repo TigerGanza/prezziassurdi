@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-01T14:51:44+02:00",
+  "generated_at": "2026-10-01T15:06:45+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -2059,6 +2059,20 @@
       }
     ],
     "migliori-robot-aspirapolvere": [
+      {
+        "title": "DREAME L50 Ultra AE-A Robot Aspirapolvere e Lavapavimenti,Dotato di Sistema di Auto-Svuotamento e Auto-Pulizia dei Moci a 100 °C,Aspirazione da 28.000Pa,Rilevamento Degli Ostacoli ",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "dreame X50s Ultra Robot Aspirapolvere Lavapavimenti, Aspirazione 35.000 Pa",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "roborock Qrevo Curv 2 Flow Robot Aspirapolvere Lavapavimenti con Rullo",
         "merchant": "amazon",
