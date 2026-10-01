@@ -1,5 +1,20 @@
 [
   {
+    "asin": "B0DTTNFT97",
+    "title": "Polaroid - Now Generazione 3 - Fotocamera istantanea - Blu Artico (9157)",
+    "price": 97.95,
+    "old_price": 129.99,
+    "discount": 25.0,
+    "image": "https://m.media-amazon.com/images/I/311s9rdGQeL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0DTTNFT97?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "fotografia",
+    "macro_group": "tech",
+    "seasonal_title": "",
+    "published_at": "2026-10-01T11:32:22.500291+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": ""
+  },
+  {
     "asin": "B0F29L9N87",
     "title": "Cantina San Paolo Kossler Gewurztraminer Doc - 750 ML",
     "price": 10.5,
@@ -1671,44 +1686,5 @@
     "published_at": "2026-09-30T21:43:32.940872+02:00",
     "source_merchant": "amazon",
     "source_external_id": ""
-  },
-  {
-    "asin": "B0BNJ682K3",
-    "title": "Braun MultiQuick 1 MQ10.001M, Frullatore a Immersione Extra Leggero con Piede in Acciaio Inossidabile, Minipimer con Sistema EasyTwist, Inclusi Bicchiere per Mescolare 600ml e Misurare, 450W, Bianco",
-    "price": 23.0,
-    "old_price": 38.99,
-    "discount": 41.0,
-    "image": "https://m.media-amazon.com/images/I/21LjHww4gYL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0BNJ682K3?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "cucina",
-    "macro_group": "casa_cucina",
-    "seasonal_title": "",
-    "published_at": "2026-09-30T21:41:21.968951+02:00",
-    "source_merchant": "amazon",
-    "source_external_id": "",
-    "merchant_offers": [
-      {
-        "merchant": "unieuro",
-        "merchant_name": "Unieuro",
-        "merchant_id": "10139",
-        "product_id": "BRAMQ10001P",
-        "awin_product_id": "34624273217",
-        "title": "Braun MultiQuick 1 - Minipimer, Frullatore a immersione, 450W, Bianco (MQ10.001PWH)",
-        "brand": "Braun",
-        "ean": "8021098002310",
-        "mpn": "0X22111471",
-        "price": 16.9,
-        "old_price": 31.99,
-        "discount": 47.2,
-        "image": "https://www.unieuro.it/medias/sys_master/root/he3/h0e/61661302259742/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-9604d12b212bc3d4cbf336578cd4b580-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-        "url": "https://www.awin1.com/pclick.php?p=34624273217&a=3086723&m=10139",
-        "category": "Frullatori",
-        "category_path": "",
-        "last_updated": ""
-      }
-    ],
-    "merchant_match_score": 90,
-    "merchant_ean": "8021098002310",
-    "merchant_prices_checked_at": "2026-09-30T16:00:30.297351+02:00"
   }
 ]
