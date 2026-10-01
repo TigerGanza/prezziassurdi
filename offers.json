@@ -1,5 +1,35 @@
 [
   {
+    "asin": "B0F29L9N87",
+    "title": "Cantina San Paolo Kossler Gewurztraminer Doc - 750 ML",
+    "price": 10.5,
+    "old_price": 12.35,
+    "discount": 15.0,
+    "image": "https://m.media-amazon.com/images/I/313LyNG0TyL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0F29L9N87?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "vini",
+    "macro_group": "spesa_bevande",
+    "seasonal_title": "",
+    "published_at": "2026-10-01T11:24:26.985177+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": ""
+  },
+  {
+    "asin": "B07FKD5FVW",
+    "title": "Buff® | Original EcoStretch Scaldacollo Nero per Uomo Donna Adulto Sciarpa Tubolare Multifunzione per Collo e Testa per Correre e Camminare Ideale per Escursionismo e Running, Sostenibile e Leggero",
+    "price": 12.99,
+    "old_price": 19.95,
+    "discount": 35.0,
+    "image": "https://m.media-amazon.com/images/I/21V92Q4OrTL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B07FKD5FVW?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "articoli_neve",
+    "macro_group": "fai_da_te_outdoor",
+    "seasonal_title": "",
+    "published_at": "2026-10-01T11:24:22.482468+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": ""
+  },
+  {
     "asin": "B01MU4E73A",
     "title": "Multicentrum Adulti Integratore Multivitaminico Completo, 90 Compresse",
     "price": 20.99,
@@ -1680,35 +1710,5 @@
     "merchant_match_score": 90,
     "merchant_ean": "8021098002310",
     "merchant_prices_checked_at": "2026-09-30T16:00:30.297351+02:00"
-  },
-  {
-    "asin": "B0H296KXVV",
-    "title": "Samsung Galaxy Z Fold8, 512GB, Graphite [Versione Italiana]",
-    "price": 1985.0,
-    "old_price": 2299.0,
-    "discount": 14.0,
-    "image": "https://m.media-amazon.com/images/I/31XrQRkHpqL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0H296KXVV?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "smartphone_top",
-    "macro_group": "tech",
-    "seasonal_title": "",
-    "published_at": "2026-09-30T21:33:23.870846+02:00",
-    "source_merchant": "amazon",
-    "source_external_id": ""
-  },
-  {
-    "asin": "B07D8WQRVW",
-    "title": "DANISH ENDURANCE Calze Trekking Leggere, 3 Paia, Nero, 39-42",
-    "price": 24.95,
-    "old_price": 38.95,
-    "discount": 36.0,
-    "image": "https://m.media-amazon.com/images/I/314PrzBVVgL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B07D8WQRVW?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "sport_specifici",
-    "macro_group": "tempo_libero",
-    "seasonal_title": "",
-    "published_at": "2026-09-30T21:29:43.759110+02:00",
-    "source_merchant": "amazon",
-    "source_external_id": ""
   }
 ]
