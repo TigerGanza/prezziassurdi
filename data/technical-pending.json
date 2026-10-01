@@ -1,10 +1,17 @@
 {
   "version": 1,
-  "generated_at": "2026-10-01T14:21:43+02:00",
+  "generated_at": "2026-10-01T14:31:43+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
     "smartphone-in-offerta": [
+      {
+        "title": "Apple AirPods Max Cuffie wireless over-ear, Cancellazione attiva del rumore di livello pro, Modalità Trasparenza, Audio spaziale personalizzato, Ricarica USB-C, Cuffie Bluetooth pe",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Gqudyi Nuovo 5g Gt10 PRO 6.8 Pollici Smartphone Android 13 Telefono Cellulare 6gb + 128gb 6800mah 50mp 72mp Dual Sim Dual Standby Riconoscimento Facciale(Size:6GB+128GB,Color:Bianc",
         "merchant": "",
@@ -207,13 +214,6 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "REDMI Note 17 5G, Smartphone 6+256GB, Celestial Purple, Batteria da 7700mAh",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
       }
     ],
     "migliori-smartphone-sotto-300-euro": [
@@ -387,6 +387,13 @@
       }
     ],
     "tv-in-offerta": [
+      {
+        "title": "LG QNED evo AI MiniLED 100 Pollici, Serie QNED87B 2026 Smart TV 4K - 100QNED87B6",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "XIAOMI TV F Pro 32 2025, 32 pollici (81 cm), QLED, Smart TV, Fire TV, Triple Tuner DVB-C/S/S2/T/T2,Dolby Audio, DTS Virtual:X, DTS-HD, Controllo Vocale Alexa, Compatibile con Apple",
         "merchant": "",
@@ -585,13 +592,6 @@
       },
       {
         "title": "TCL 65PF650 – Smart TV 4K Ultra HD da 65\", Fire TV",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "TCL 65V6C – Smart TV 4K HDR Direct LED da 65\", Google TV con Dolby Audio",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -1841,6 +1841,13 @@
     ],
     "cuffie-bluetooth-in-offerta": [
       {
+        "title": "Apple AirPods Max Cuffie wireless over-ear, Cancellazione attiva del rumore di livello pro, Modalità Trasparenza, Audio spaziale personalizzato, Ricarica USB-C, Cuffie Bluetooth pe",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Seven Zaino Scuola Pro XXL Detach con Cuffie Wireless, Nero Fucsia, Tasca Interna Porta PC e Tasca Laterale per Borraccia, 33 L, Scuola Media e Superiore, Zaino Ragazza",
         "merchant": "amazon",
         "ean": "",
@@ -2038,13 +2045,6 @@
       },
       {
         "title": "Celly MAGPOCKET3IN1WH Caricabatterie per dispositivi mobili Cuffie, Smartphone, Orologio intelligente Bianco USB Carica wireless Ricarica rapida Interno",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Philips TAT1209BK/00 cuffia e auricolare True Wireless Stereo (TWS) In ear Musica e Chiamate Bluetooth Nero",
         "merchant": "unieuro",
         "ean": "",
         "mpn": "",
