@@ -1,5 +1,35 @@
 [
   {
+    "asin": "B000JCDV2S",
+    "title": "Calvin Klein CK One Eau de Toilette Unisex 50 ml",
+    "price": 18.05,
+    "old_price": 24.5,
+    "discount": 26.0,
+    "image": "https://m.media-amazon.com/images/I/41HUVeJCbHL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B000JCDV2S?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "profumi",
+    "macro_group": "cura_persona",
+    "seasonal_title": "",
+    "published_at": "2026-10-01T14:46:24.789206+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": ""
+  },
+  {
+    "asin": "B000C1UFPM",
+    "title": "Guy Laroche Fidji Eau de Toilette, profumo donna floreale e fresco, 100ml",
+    "price": 24.57,
+    "old_price": 53.0,
+    "discount": 54.0,
+    "image": "https://m.media-amazon.com/images/I/31i2ZsPKeQL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B000C1UFPM?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "profumi",
+    "macro_group": "cura_persona",
+    "seasonal_title": "",
+    "published_at": "2026-10-01T14:46:24.764224+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": ""
+  },
+  {
     "asin": "B001GLG7C2",
     "title": "Laphroaig, Islay Single Malt Scotch Whisky 10 years, 100% orzo maltato - 1 bottiglia da 700ml",
     "price": 31.9,
@@ -1574,69 +1604,5 @@
     "merchant_match_score": 100,
     "merchant_ean": "5054645728947",
     "merchant_prices_checked_at": "2026-10-01T06:06:24.279586+02:00"
-  },
-  {
-    "asin": "W62C0EB39A",
-    "title": "Samsung Series 6 DV90DG6845LE asciugatrice Libera installazione Caricamento frontale 9 kg Bianco",
-    "price": 599.9,
-    "old_price": 1449.0,
-    "discount": 58.6,
-    "image": "https://www.unieuro.it/medias/sys_master/root/he9/he0/51948343197726/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-20bb06f17138fa42ed6049a296eee14c-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-    "url": "https://www.awin1.com/pclick.php?p=45279405513&a=3086723&m=10139",
-    "category": "casa",
-    "macro_group": "awin_discovery",
-    "seasonal_title": "Offerta Unieuro",
-    "published_at": "2026-10-01T06:42:30.833048+02:00",
-    "source_merchant": "unieuro",
-    "source_external_id": "SAMDV90DG6845LEU3",
-    "merchant_offers": [
-      {
-        "merchant": "unieuro",
-        "merchant_name": "Unieuro",
-        "merchant_id": "10139",
-        "product_id": "SAMDV90DG6845LEU3",
-        "awin_product_id": "45279405513",
-        "title": "Samsung Series 6 DV90DG6845LE asciugatrice Libera installazione Caricamento frontale 9 kg Bianco",
-        "brand": "Samsung",
-        "ean": "8806097342014",
-        "mpn": "DV90DG6845LEU3",
-        "price": 599.9,
-        "old_price": 1449.0,
-        "discount": 58.6,
-        "image": "https://www.unieuro.it/medias/sys_master/root/he9/he0/51948343197726/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-20bb06f17138fa42ed6049a296eee14c-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-        "url": "https://www.awin1.com/pclick.php?p=45279405513&a=3086723&m=10139",
-        "category": "Asciugatrici",
-        "category_path": "",
-        "last_updated": ""
-      },
-      {
-        "merchant": "amazon",
-        "merchant_name": "Amazon",
-        "price": 648.94,
-        "old_price": 799.0,
-        "discount": 19.0,
-        "url": "https://www.amazon.it/dp/B0DWT89QC2?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-        "title": "Samsung Asciugatrice AI Control DV90DG6845LE/U3, 9 kg, Pompa di Calore, Wifi, AI Dry+, Air Wash, Tecnologia Optimal Dry, Carica Frontale, 60L x 85H x 60P cm",
-        "image": "https://m.media-amazon.com/images/I/41raRKq2goL._SL500_.jpg"
-      }
-    ],
-    "merchant_match_score": 100,
-    "merchant_ean": "8806097342014",
-    "merchant_prices_checked_at": "2026-10-01T06:06:24.279586+02:00"
-  },
-  {
-    "asin": "B08R6ZQF5R",
-    "title": "Neutro Roberts, Sapone Liquido Antibatterico, 6 x 200 ml",
-    "price": 8.22,
-    "old_price": 13.99,
-    "discount": 41.0,
-    "image": "https://m.media-amazon.com/images/I/31um9Qc-i+L._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B08R6ZQF5R?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "igiene_personale",
-    "macro_group": "cura_persona",
-    "seasonal_title": "",
-    "published_at": "2026-10-01T06:39:45.245378+02:00",
-    "source_merchant": "amazon",
-    "source_external_id": ""
   }
 ]
