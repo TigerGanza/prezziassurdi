@@ -24,7 +24,7 @@
     "migliori-sneakers": {"title": "Dati sneakers verificabili", "description": "Modello, materiali e indicazioni di calzata sono registrati solo quando disponibili.", "fields": ["Materiali", "Calzata", "Suola", "Uso", "Taglie", "Cura"]}
   },
   "products": [
-    {"guide_slug": "migliori-robot-aspirapolvere", "brand": "Dreame", "model": "L40 Ultra AE", "aliases": ["dreame l40 ultra ae"], "mpn": [], "eans": [], "verified_at": "2026-09-30", "source": {"name": "Dreame Italia – L40 Ultra AE", "url": "https://it.dreametech.com/products/robot-aspirapolvere-dreame-l40-ultra-ae-nero"}},
-    {"guide_slug": "migliori-robot-aspirapolvere", "brand": "MOVA", "model": "V70 Ultra Complete", "aliases": ["mova v70 ultra complete"], "mpn": ["RLV77CE"], "eans": [], "verified_at": "2026-09-30", "source": {"name": "MOVA Italia – V70 Ultra Complete", "url": "https://it.mova.tech/products/v70-ultra-complete-robot-aspirapolvere"}}
+    {"guide_slug": "migliori-robot-aspirapolvere", "brand": "Dreame", "model": "L40 Ultra AE", "aliases": ["dreame l40 ultra ae"], "mpn": [], "eans": [], "highlights": ["19.000 Pa dichiarati", "Altezza robot 97 mm", "Base con sacchetto"], "verified_at": "2026-09-30", "source": {"name": "Dreame Italia – L40 Ultra AE", "url": "https://it.dreametech.com/products/robot-aspirapolvere-dreame-l40-ultra-ae-nero"}},
+    {"guide_slug": "migliori-robot-aspirapolvere", "brand": "MOVA", "model": "V70 Ultra Complete", "aliases": ["mova v70 ultra complete"], "mpn": ["RLV77CE"], "eans": [], "highlights": ["40.000 Pa dichiarati", "Altezza robot 88 mm", "Base senza sacchetto"], "verified_at": "2026-09-30", "source": {"name": "MOVA Italia – V70 Ultra Complete", "url": "https://it.mova.tech/products/v70-ultra-complete-robot-aspirapolvere"}}
   ]
 }
