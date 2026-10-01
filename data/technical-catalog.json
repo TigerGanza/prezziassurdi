@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "updated_at": "2026-09-30",
+  "record_policy": "Un record prodotto è valido solo con modello, fonte.url e verified_at. EAN e MPN sono aggiunti quando disponibili; i titoli dei feed non sono una fonte tecnica.",
+  "guide_profiles": {
+    "smartphone-in-offerta": {"title": "Schede smartphone verificabili", "description": "Filtri e confronti usano solo specifiche dichiarate nella scheda tecnica del modello.", "fields": ["Chipset", "RAM e memoria", "Display", "Batteria e ricarica", "Fotocamere", "IP", "SIM e microSD"]},
+    "migliori-smartphone-sotto-300-euro": {"title": "Schede smartphone verificabili", "description": "La fascia prezzo è separata dalle caratteristiche tecniche, per non confondere valore e qualità.", "fields": ["Chipset", "RAM e memoria", "Display", "Batteria e ricarica", "Fotocamere", "IP", "SIM e microSD"]},
+    "tv-in-offerta": {"title": "Schede TV verificabili", "description": "Pollici, pannello e porte contano più del solo sconto.", "fields": ["Pollici", "Pannello", "Risoluzione e HDR", "Frequenza", "HDMI 2.1 / VRR", "Audio", "Dimensioni"]},
+    "offerte-tv-55-65-pollici": {"title": "Schede TV verificabili", "description": "Confronto tecnico per la fascia 55–65 pollici.", "fields": ["Pollici", "Pannello", "Risoluzione e HDR", "Frequenza", "HDMI 2.1 / VRR", "Audio", "Dimensioni"]},
+    "migliori-notebook": {"title": "Schede notebook verificabili", "description": "Il confronto distingue lavoro, studio, mobilità e creatività.", "fields": ["CPU", "GPU", "RAM", "SSD", "Display", "Peso", "Batteria", "Porte"]},
+    "migliori-pc-desktop": {"title": "Schede PC verificabili", "description": "Componenti, aggiornabilità e porte vengono separati dal prezzo.", "fields": ["CPU", "GPU", "RAM", "SSD", "Alimentatore", "Connettività", "Espandibilità"]},
+    "migliori-tablet": {"title": "Schede tablet verificabili", "description": "Serve per confrontare schermo, memoria e accessori realmente compatibili.", "fields": ["Chipset", "Display", "RAM e memoria", "Batteria", "Penna", "Tastiera", "Connettività"]},
+    "migliori-monitor": {"title": "Schede monitor verificabili", "description": "Dimensione e refresh non bastano: pannello, risoluzione e porte cambiano l'uso reale.", "fields": ["Pollici", "Risoluzione", "Pannello", "Hz", "Tempo risposta", "Luminosità/HDR", "Porte", "Ergonomia"]},
+    "migliori-smartwatch": {"title": "Schede smartwatch verificabili", "description": "Compatibilità con lo smartphone e sensori sono verificati separatamente.", "fields": ["Compatibilità", "Display", "GPS", "Sensori", "Autonomia", "Resistenza acqua", "Chiamate/NFC"]},
+    "migliori-console-gaming": {"title": "Schede console verificabili", "description": "Versione, archiviazione e servizi inclusi devono essere chiari prima dell'acquisto.", "fields": ["Versione", "Archiviazione", "Lettore disco", "Risoluzione/Hz", "Controller", "Porte", "Dimensioni"]},
+    "migliori-soundbar": {"title": "Schede soundbar verificabili", "description": "Canali, subwoofer e collegamenti definiscono la compatibilità con la TV.", "fields": ["Canali", "Subwoofer", "Dolby Atmos/DTS:X", "HDMI eARC", "Bluetooth/Wi‑Fi", "Porte", "Dimensioni"]},
+    "cuffie-bluetooth-in-offerta": {"title": "Schede cuffie verificabili", "description": "Codec, ANC e autonomia vengono separati dalle promesse commerciali.", "fields": ["Formato", "ANC", "Codec", "Multipoint", "Autonomia", "Microfoni", "Resistenza acqua"]},
+    "migliori-robot-aspirapolvere": {"title": "Schede robot verificabili", "description": "Navigazione, base e lavaggio vengono registrati per modello e fonte.", "fields": ["Navigazione", "Ostacoli", "Altezza", "Soglie", "Spazzola", "Lavaggio", "Base", "Sacchetto"]},
+    "aspirapolvere-senza-fili-in-offerta": {"title": "Schede aspirapolvere verificabili", "description": "Potenza dichiarata, autonomia e spazzole aiutano a scegliere in base a casa e animali.", "fields": ["Potenza", "Autonomia", "Batteria estraibile", "Spazzole", "Peso", "Capacità", "Accessori"]},
+    "migliori-lavatrici": {"title": "Schede lavatrici verificabili", "description": "Misure, carico, consumi e rumorosità evitano acquisti incompatibili con lo spazio disponibile.", "fields": ["Carico", "Dimensioni", "Classe energetica", "Consumi", "Rumorosità", "Centrifuga", "Programmi"]},
+    "migliori-frigoriferi": {"title": "Schede frigoriferi verificabili", "description": "Capienza e ingombro reale sono prioritari rispetto alle etichette promozionali.", "fields": ["Capienza", "Dimensioni", "Classe energetica", "Rumorosità", "No Frost", "Zona freezer", "Porte"]},
+    "friggitrici-ad-aria-offerte-confronto": {"title": "Schede friggitrici verificabili", "description": "Capacità utile e misure esterne devono essere confrontate prima della potenza.", "fields": ["Capacità", "Dimensioni", "Potenza", "Temperatura", "Programmi", "Cestelli", "Lavaggio"]},
+    "migliori-moda": {"title": "Dati prodotto verificabili", "description": "Taglia, materiali, vestibilità e reso restano le informazioni più utili per scegliere.", "fields": ["Materiali", "Vestibilità", "Taglie", "Cura", "Reso"]},
+    "migliori-sneakers": {"title": "Dati sneakers verificabili", "description": "Modello, materiali e indicazioni di calzata sono registrati solo quando disponibili.", "fields": ["Materiali", "Calzata", "Suola", "Uso", "Taglie", "Cura"]}
+  },
+  "products": [
+    {"guide_slug": "migliori-robot-aspirapolvere", "brand": "Dreame", "model": "L40 Ultra AE", "aliases": ["dreame l40 ultra ae"], "mpn": [], "eans": [], "verified_at": "2026-09-30", "source": {"name": "Dreame Italia – L40 Ultra AE", "url": "https://it.dreametech.com/products/robot-aspirapolvere-dreame-l40-ultra-ae-nero"}},
+    {"guide_slug": "migliori-robot-aspirapolvere", "brand": "MOVA", "model": "V70 Ultra Complete", "aliases": ["mova v70 ultra complete"], "mpn": ["RLV77CE"], "eans": [], "verified_at": "2026-09-30", "source": {"name": "MOVA Italia – V70 Ultra Complete", "url": "https://it.mova.tech/products/v70-ultra-complete-robot-aspirapolvere"}}
+  ]
+}
