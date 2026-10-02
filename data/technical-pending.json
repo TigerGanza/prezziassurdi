@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-03T01:15:29+02:00",
+  "generated_at": "2026-10-03T01:30:30+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -395,13 +395,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Samsung 65\" QE65QN82HAUXZT Neo QLED 4K QD Mini LED Smart TV Vision AI 2026",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "XIAOMI TV F Pro 32 2025, 32 pollici (81 cm), QLED, Smart TV, Fire TV, Triple Tuner DVB-C/S/S2/T/T2,Dolby Audio, DTS Virtual:X, DTS-HD, Controllo Vocale Alexa, Compatibile con Apple",
         "merchant": "",
         "ean": "",
@@ -596,16 +589,16 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      }
-    ],
-    "offerte-tv-55-65-pollici": [
+      },
       {
-        "title": "Samsung 65\" QE65QN82HAUXZT Neo QLED 4K QD Mini LED Smart TV Vision AI 2026",
-        "merchant": "amazon",
+        "title": "TCL 65V6C – Smart TV 4K HDR Direct LED da 65\", Google TV con Dolby Audio",
+        "merchant": "",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      },
+      }
+    ],
+    "offerte-tv-55-65-pollici": [
       {
         "title": "TCL 55T69C – Smart TV QLED 4K HDR10+ da 55\", Google TV con Dolby Atmos",
         "merchant": "",
