@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-02T18:53:29+02:00",
+  "generated_at": "2026-10-02T19:05:04+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -2840,6 +2840,13 @@
     ],
     "migliori-moda": [
       {
+        "title": "GUESS Camden Shoulder Bag, Borsa a Tracolla Donna, Espresso, Taglia Unica",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Google Pixel Watch 4 (45 mm) - Smartwatch Android con tracker per fitness e benessere, e assistente virtuale Gemini - Cassa in alluminio nero opaco - Cinturino sportivo nero ossidi",
         "merchant": "amazon",
         "ean": "",
@@ -2897,20 +2904,6 @@
       },
       {
         "title": "Liabel Maglietta Intima Uomo Cotone Offerta 3 e 6 Pezzi Maglia Uomo in Puro Cotone Pettinato - Maglia Intima Uomo Girocollo - 3828/23 (3 Pezzi Assortito, XXL)",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Sidas Borsa per Scarponi da Sci e Snowboard, Boot Bag Blue Nylon, 4 Rinforzi integrati sotto la Borsa, Membrane di evacuazione per eliminare l'umidità, 40 x 42,5 x 24 cm",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "AUMTISC Borsa per Kit da Sci - Borsa per Scarponi Combinata e Imbottita per 1 Paio di Scarponi - Borsa da Sci Regolabile Fino a 200 cm(Blu,imbottito-3mm)",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -3044,6 +3037,13 @@
       },
       {
         "title": "Lotto Sneaker Unisex, Rosso/Bianco, 41 EU, Rosso Bianco, 41 EU",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Hitmars Scarpe Running Uomo Ginnastica Donna Scarpe da Corsa Trekking Sneakers Trail Sportive Fitness Correre Running Shoes Camminare Verde EU 42",
         "merchant": "",
         "ean": "",
         "mpn": "",
