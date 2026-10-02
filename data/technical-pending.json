@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-02T23:45:32+02:00",
+  "generated_at": "2026-10-03T00:00:31+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -132,13 +132,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Samsung Galaxy A27 5G, 128GB, RAM 6GB, Light Pink [Versione Italiana]",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "REDMI Note 17 5G, Smartphone 6+128GB, Black, Batteria da 7700 mAh",
         "merchant": "",
         "ean": "",
@@ -160,14 +153,21 @@
         "status": "da_verificare"
       },
       {
-        "title": "realme P3 5G Smartphone 12+512 GB",
+        "title": "XIAOMI REDMI 15 5G, Smartphone 8+256GB, Verde, Display FHD+ da 6,9\" 144Hz",
         "merchant": "",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "realme 14 5G Smartphone 8GB RAM + 256GB ROM, Snapdragon 6 Gen 4 e 120Hz AMOLED Schermo, Cellurale 6000mAh Batteria e Ricarica Rapida da 45W, IP69 Resistenza, GT Boost, AI OIS 50MP ",
+        "title": "XIAOMI POCO M8 5G, Smartphone 8+256GB, Verde, Snapdragon® 6 Gen 3",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "realme P3 5G Smartphone 12+512 GB",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -344,13 +344,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Samsung Galaxy A27 5G, 128GB, RAM 6GB, Light Pink [Versione Italiana]",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "REDMI Note 17 5G, Smartphone 6+128GB, Black, Batteria da 7700 mAh",
         "merchant": "",
         "ean": "",
@@ -372,14 +365,21 @@
         "status": "da_verificare"
       },
       {
-        "title": "realme P3 5G Smartphone 12+512 GB",
+        "title": "XIAOMI REDMI 15 5G, Smartphone 8+256GB, Verde, Display FHD+ da 6,9\" 144Hz",
         "merchant": "",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "realme 14 5G Smartphone 8GB RAM + 256GB ROM, Snapdragon 6 Gen 4 e 120Hz AMOLED Schermo, Cellurale 6000mAh Batteria e Ricarica Rapida da 45W, IP69 Resistenza, GT Boost, AI OIS 50MP ",
+        "title": "XIAOMI POCO M8 5G, Smartphone 8+256GB, Verde, Snapdragon® 6 Gen 3",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "realme P3 5G Smartphone 12+512 GB",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -1075,14 +1075,14 @@
         "status": "da_verificare"
       },
       {
-        "title": "Samsung Galaxy Tab A11 8.7\" WiFi 128GB Tablet Android, 8GB RAM, 3D Sound, Grigio, 25W Fast Mains Charger, FR Version",
+        "title": "Lenovo Idea Tab - Tablet Touch con IA integrata 11'' 2.5K, 90Hz (MediaTek Dimensity 6300, 8Core, RAM 8GB, UFS 2.2 128GB, Android 15, Wifi5 + Bluetooth) Lenovo Tab Pen - Grigio",
         "merchant": "",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "Samsung SM-X115 Galaxy Tab A9 8.7'' LTE 8GB RAM 128GB Graphite EU",
+        "title": "Samsung Galaxy Tab A11 8.7\" WiFi 128GB Tablet Android, 8GB RAM, 3D Sound, Grigio, 25W Fast Mains Charger, FR Version",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -1196,6 +1196,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "KTC Monitor Gaming 27 Pollici, QHD 2560×1440, 200Hz (OC 210Hz), Fast IPS, 1ms MPRT, HDR400, 450 cd/m², 131% sRGB 97% DCI-P3, ΔE<2, Adaptive Sync, Altoparlanti Integrati, VESA 100×1",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Philips Gaming Monitor 27M2N3500NF 27 pollici, , 2560x1440, WQHD, 144Hz, IPS Panel, 0.5ms MPRT, , (HDMI1x 2.0 DP 1x 1.4) Adaptive Sync, HDR10, G-Sync Compatible, Grigio Scuro",
         "merchant": "",
         "ean": "",
@@ -1204,13 +1211,6 @@
       },
       {
         "title": "Lenovo LOQ 27Q-10 Monitor Gaming 27\" 180Hz, 0.5 ms, IPS QHD 2K (2560x1440) AMD FreeSync Premium, DP 1.4, 2x HDMI 2.1, Regolabile, VESA 100x100 - Ideale per Esport, FPS e Console",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "ASUS VA27AQSE, Monitor Business da 27\" QHD IPS (2560 x 1440), Nero",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -1457,7 +1457,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "Samsung Galaxy Watch7 Smartwatch Galaxy AI, Analisi del Sonno, Controllo con doppio avvicinamento di dita, Batteria a lunga durata, GPS, BT, Ghiera Touch in Alluminio 44mm Green [V",
+        "title": "Samsung Galaxy Watch7 Smartwatch Galaxy AI, Analisi del Sonno, Controllo con doppio avvicinamento di dita, Batteria a lunga durata, GPS, BT, Ghiera Touch in Alluminio 40mm Cream [V",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -1549,13 +1549,6 @@
       }
     ],
     "migliori-console-gaming": [
-      {
-        "title": "Sony BRAVIA 8 OLED 77 Pollici 4K HDR Google Smart TV (2024) | Gaming Menu per PlayStation 5, IMAX Enhanced, Dolby Vision Atmos, Chromecast, AirPlay, 120Hz 77XR80",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Playstation 5 Console Edizione Digital Slim",
         "merchant": "",
@@ -2123,14 +2116,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "Lefant M210 Omni Robot Aspirapolvere Lavapavimenti Rullo 20.000Pa",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "ECOVACS T90 PRO OMNI Robot Aspirapolvere Lavapavimenti OZMO ROLLER 30000Pa",
+        "title": "ECOVACS T50 PRO OMNI Gen3 Robot Aspirapolvere Lavapavimenti 25000 Pa",
         "merchant": "",
         "ean": "",
         "mpn": "",
