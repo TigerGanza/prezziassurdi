@@ -1,17 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-10-02T08:58:37+02:00",
+  "generated_at": "2026-10-02T09:13:37+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
     "smartphone-in-offerta": [
-      {
-        "title": "REDMI Note 17 Pro 5G, Smartphone 12+256GB, Purple, Batteria da 8340 mAh",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Ulefone Armor Note 22 Smartphone Offerta Android 16, 20GB+32GB/2TB TF Cellulari Octa-Core, 5.0\", 4G Dual SIM Telefono Cellulare Offerta, WiFi 5G/3.5mm/ Face ID/3 Slot Eer Carte/3 A",
         "merchant": "",
@@ -210,6 +203,13 @@
       },
       {
         "title": "REDMI Note 17 5G, Smartphone 6+256GB, Black, Batteria da 7700 mAh",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "REDMI Note 17 5G, Smartphone 6+256GB, Celestial Purple, Batteria da 7700mAh",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -2104,13 +2104,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Tineco Floor ONE S7 Stretch Ultra Lavapavimenti aspirapolvere senza fili",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Aspirapolvere Senza Fili Scopa Elettrica - Potente Filo Batteria Cordless Vacuum Cleaner Scope Elettriche Sacco Portatile Ciclonico Silenzioso per Divano Tappeti Parquet Pavimenti ",
         "merchant": "",
         "ean": "",
@@ -2819,13 +2812,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Reusch Guanti invernali per uomo e donna | caldi, impermeabili e antivento",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
         "ean": "",
@@ -2946,6 +2932,13 @@
       },
       {
         "title": "Reebok Scarpe da Ginnastica Unisex Royal Prime Run, Nero/Nero, 36 EU, Nero, 36 EU",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Lotto Sneaker Unisex, Rosso/Bianco, 41 EU, Rosso Bianco, 41 EU",
         "merchant": "",
         "ean": "",
         "mpn": "",
