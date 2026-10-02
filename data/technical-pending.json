@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-02T08:28:37+02:00",
+  "generated_at": "2026-10-02T08:43:37+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -2183,13 +2183,6 @@
     ],
     "migliori-lavatrici": [
       {
-        "title": "Candy RapidÓ Lavatrice Slim 7 Kg, Libera Installazione, Carica Frontale, Classe A, 1200 Giri, 9 Programmi Rapidi, Funzione Vapore, Wi-Fi + BLE e App hOn, 60 x 45 x 85 cm, Bianca - ",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Bosch WAN28229IT Serie 4 Lavatrice 9kg 1400 giri/min Bianco Classe A",
         "merchant": "",
         "ean": "",
@@ -2247,6 +2240,13 @@
       },
       {
         "title": "Haier I-Pro Serie 7 Plus, Lavatrice a carica frontale 9 KG, Libera Installazione, Classe A-25%, 1400 giri, Opzione Vapore, 14 programmi, App hOn, AxLxP 85x60x53 cm, Bianca - HW90-B",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Candy RapidÓ Lavatrice Slim 7 Kg, Libera Installazione, Carica Frontale, Classe A, 1200 Giri, 9 Programmi Rapidi, Funzione Vapore, Wi-Fi + BLE e App hOn, 60 x 45 x 85 cm, Bianca - ",
         "merchant": "",
         "ean": "",
         "mpn": "",
