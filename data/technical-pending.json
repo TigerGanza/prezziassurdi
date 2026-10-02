@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-02T20:20:05+02:00",
+  "generated_at": "2026-10-02T20:40:03+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -388,6 +388,13 @@
     ],
     "tv-in-offerta": [
       {
+        "title": "Samsung 65\" QE65QN82HAUXZT Neo QLED 4K QD Mini LED Smart TV Vision AI 2026",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Amazon Ember serie QLED da 50\" con Fire TV (ultimo modello), smart TV 4K Ultra HD, HDR10+, Dolby Vision, processore quad-core, controllo vocale con Alexa, trova serie TV più veloce",
         "merchant": "amazon",
         "ean": "",
@@ -589,16 +596,16 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "TCL 65V6C – Smart TV 4K HDR Direct LED da 65\", Google TV con Dolby Audio",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
       }
     ],
     "offerte-tv-55-65-pollici": [
+      {
+        "title": "Samsung 65\" QE65QN82HAUXZT Neo QLED 4K QD Mini LED Smart TV Vision AI 2026",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "TCL 55T69C – Smart TV QLED 4K HDR10+ da 55\", Google TV con Dolby Atmos",
         "merchant": "",
@@ -2224,7 +2231,7 @@
     "aspirapolvere-senza-fili-in-offerta": [
       {
         "title": "Aspirapolvere Senza Fili Scopa Elettrica - Potente Filo Batteria Cordless Vacuum Cleaner Scope Elettriche Sacco Portatile Ciclonico Silenzioso per Divano Tappeti Parquet Pavimenti ",
-        "merchant": "",
+        "merchant": "amazon",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
@@ -2882,20 +2889,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "PLAYMOBIL Pirates 71533 MyFigures: Pirati, Montaggio Creativo di Personaggi Pirati Personalizzati, Incluso Mappa del Tesoro e Spille per Il Cappello da Pirata, Giocattolo per Bambi",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Reusch Guanti invernali da donna | caldi, idrorepellenti e traspiranti",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
         "ean": "",
@@ -3051,6 +3044,20 @@
       },
       {
         "title": "Mnking Scarpe da Ginnastica Uomo Donna Scarpe Corsa Sportive Running Fitness Trail Mesh Leggera Respirabile Gym Sneaker Basse Nero Bianco EU39",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Reebok Donna Lavante Trail 2 Sneaker, GREY6/ATOMIC Aqua/Dream Purple, 40 EU",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "WORLD SELL T-Shirt Uomo/Donna Personalizzata Fronte e Retro – 100% Cotone – Made in Italy – Maglietta Personalizzabile con Testo, Logo o Immagine (IT, Testo, S, Regular, Regular, N",
         "merchant": "",
         "ean": "",
         "mpn": "",
