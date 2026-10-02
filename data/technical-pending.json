@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-02T20:40:03+02:00",
+  "generated_at": "2026-10-02T20:50:03+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -983,6 +983,13 @@
       }
     ],
     "migliori-tablet": [
+      {
+        "title": "TECLAST P50T Tablet 11\" 90Hz Android16, 2GHz 16GB+128GB con 10 Accessori",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Tablet Android da 11 Pollici, Octa-Core, 24GB(4+20) RAM+128GB Memoria, Batteria 8200mAh, Widevine L1, Espandibile fino a 1TB, Doppia Fotocamera, Android Tablet per Studio, Lavoro e",
         "merchant": "",
@@ -2882,13 +2889,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Google Pixel Watch 4 (45 mm) - Smartwatch Android con tracker per fitness e benessere, e assistente virtuale Gemini - Cassa in alluminio nero opaco - Cinturino sportivo nero ossidi",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
         "ean": "",
@@ -3058,6 +3058,13 @@
       },
       {
         "title": "WORLD SELL T-Shirt Uomo/Donna Personalizzata Fronte e Retro – 100% Cotone – Made in Italy – Maglietta Personalizzabile con Testo, Logo o Immagine (IT, Testo, S, Regular, Regular, N",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "fashwork Maglietta Personalizzata Uomo Donna, T-Shirt Personalizzabile con Stampa Foto, Scritta o Logo Fronte Retro, Maglia Manica Corta in 100% Cotone per Regali Personalizzati Ne",
         "merchant": "",
         "ean": "",
         "mpn": "",
