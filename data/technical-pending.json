@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-03T12:16:06+02:00",
+  "generated_at": "2026-10-03T12:31:02+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -686,6 +686,13 @@
     ],
     "migliori-notebook": [
       {
+        "title": "Alienware 15 Gaming Laptop - Intel Core 7 240H, NVIDIA RTX 5060",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "ASUS Vivobook 16 F1605VA#B0FZL8JLW9, Notebook con display 16\" Anti-glare, 60Hz,Intel® Core™ 9 Processor 270H,RAM 16GB, 1TB SSD, WIN11 Home, Argento",
         "merchant": "",
         "ean": "",
@@ -736,13 +743,6 @@
       },
       {
         "title": "Lenovo V15 G5 IRL, Laptop professionale 15.6\" Full HD con processore Intel i5, memoria RAM DDR5 16GB e archiviazione SSD Rapida 512GB, Windows 11 Pro – Nero",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Alienware 15 Gaming Laptop - Intel Core 7 240H, NVIDIA RTX 5060",
         "merchant": "",
         "ean": "",
         "mpn": "",
