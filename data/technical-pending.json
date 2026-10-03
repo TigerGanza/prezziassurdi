@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-03T02:55:31+02:00",
+  "generated_at": "2026-10-03T03:10:29+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -2839,6 +2839,13 @@
       },
       {
         "title": "Moulinex Easy Fry Max Friggitrice ad aria 5L Coal Grey",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Moulinex EZ245320 friggitrice Singolo 5 L Indipendente Friggitrice ad aria calda Nero, Verde",
         "merchant": "unieuro",
         "ean": "",
         "mpn": "",
