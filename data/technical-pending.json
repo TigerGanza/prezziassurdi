@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-03T17:21:04+02:00",
+  "generated_at": "2026-10-03T17:36:05+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -1732,6 +1732,13 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
+      },
+      {
+        "title": "LG Soundbar S40T, 300W su 2.1 canali, Dolby Digital, DTS, Subwoofer wireless, Bluetooth",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
       }
     ],
     "cuffie-bluetooth-in-offerta": [
@@ -2190,6 +2197,13 @@
     ],
     "migliori-lavatrici": [
       {
+        "title": "Midea Lavatrice Slim 7 kg 1200 Giri 40 cm",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Bosch WAN28229IT Serie 4 Lavatrice 9kg 1400 giri/min Bianco Classe A",
         "merchant": "",
         "ean": "",
@@ -2391,16 +2405,30 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "Smeg LB2T92ASIT lavatrice Caricamento frontale 9 kg 1200 Giri/min Bianco",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
       }
     ],
     "migliori-frigoriferi": [
+      {
+        "title": "Midea MERB276FGE02A 270L Frigorifero Combinato, Total No Frost, Altezza 180 cm, All-Around Cooling, Display Digitale, 199L Frigo + 71L Congelatore, Inox",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Hisense RB329N4ACE Frigorifero Combinato a libera installazione, Total No frost con ventilazione multiflow, Inox Look, Altezza 180 cm, capacità netta 255 L",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Gorenje NRK620EAXL4 Frigorifero Combinato, Libera installazione,Total No frost, Ventilazione MultiFlow, Doppia porta reversibile, Inox, Altezza 200 cm, Capacità 336 litri, Controll",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "BEKO RCSA300K40GN - Frigorifero Combinato Libera Installazione 291 Litri, 4 Ripiani in Vetro, Frigo con Congelatore 3 Cassetti, Elettrodomestici Cucina, Classe E, 54L x 181,4H x 57",
         "merchant": "",
@@ -2423,13 +2451,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Midea MERB276FGE02A 270L Frigorifero Combinato, Total No Frost, Altezza 180 cm, All-Around Cooling, Display Digitale, 199L Frigo + 71L Congelatore, Inox",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Midea 338 L Frigorifero Combinato, Total No Frost, MERB345MGC46EU",
         "merchant": "",
         "ean": "",
@@ -2438,13 +2459,6 @@
       },
       {
         "title": "Candy CCG3L517ES - Frigorifero combinato, 260 l, Low Frost, 4 ripiani, 3 balconi, cassetto verdura, controllo elettronico della temperatura, illuminazione LED, larghezza 55 x altez",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Hisense RB329N4ACE Frigorifero Combinato a libera installazione, Total No frost con ventilazione multiflow, Inox Look, Altezza 180 cm, capacità netta 255 L",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -2599,13 +2613,6 @@
       },
       {
         "title": "Samsung Frigorifero Combinato EcoFlex AI 2m 387L RB38C607AS9",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Samsung RB38T607BS9 frigorifero Combinato EcoFlex Libera installazione con congelatore 2m 387 L Classe B, Inox",
         "merchant": "unieuro",
         "ean": "",
         "mpn": "",
