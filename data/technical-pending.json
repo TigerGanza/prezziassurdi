@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-03T03:10:29+02:00",
+  "generated_at": "2026-10-03T03:25:29+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -2854,6 +2854,13 @@
     ],
     "migliori-moda": [
       {
+        "title": "BORSA SMARTPHONE CASE&ME WAX Dry Bag Impermeabile",
+        "merchant": "mediaworld",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "PUMA Puma Catch Soleil Metallic WHI, Scarpe da Ginnastica Donna, Puma Black-Puma Gold, 41 EU",
         "merchant": "amazon",
         "ean": "",
@@ -2862,13 +2869,6 @@
       },
       {
         "title": "Tommy Jeans Maglietta Maniche Lunghe Uomo TJM Original Maniche Lunghe, Nero (Tommy Black), L",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Tommy Jeans Tjm Xslim Jersey Tee Dm0dm04411, Maglietta a Maniche Corte Uomo, Nero (Tommy Black), L",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
