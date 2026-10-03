@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-03T03:40:29+02:00",
+  "generated_at": "2026-10-03T03:55:29+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -2861,20 +2861,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "PUMA Puma Catch Soleil Metallic WHI, Scarpe da Ginnastica Donna, Puma Black-Puma Gold, 41 EU",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Tommy Jeans Maglietta Maniche Lunghe Uomo TJM Original Maniche Lunghe, Nero (Tommy Black), L",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
         "ean": "",
@@ -3058,6 +3044,20 @@
       },
       {
         "title": "JOPHY & CO. T-Shirt Personalizzabile in Cotone, Maglietta Personalizzata con Stampa per Uomo e Donna, Idea Regalo Originale (IT, Testo, M, Regular, Regular, Bianco)",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "T-shirt cotone personalizzabile, maglia unisex personalizzata con stampa per Uomo e Donna, maglietta personalizzata su richiesta 100% made in Italy",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Vintage New York City with USA Flag Tee Shirt, New York City Maglietta",
         "merchant": "",
         "ean": "",
         "mpn": "",
