@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-03T19:08:48+02:00",
+  "generated_at": "2026-10-03T19:23:41+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -388,6 +388,13 @@
     ],
     "tv-in-offerta": [
       {
+        "title": "LG OLED evo AI 83 Pollici, Serie C6 2026 Smart TV 4K - OLED83C66LB",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "XIAOMI TV F Pro 32 2025, 32 pollici (81 cm), QLED, Smart TV, Fire TV, Triple Tuner DVB-C/S/S2/T/T2,Dolby Audio, DTS Virtual:X, DTS-HD, Controllo Vocale Alexa, Compatibile con Apple",
         "merchant": "",
         "ean": "",
@@ -585,13 +592,6 @@
       },
       {
         "title": "TCL 65C69BPRO TV 65 Pollici QLED 4K Ultra HD Smart TV, Serie C69B PRO, Google TV, WiFi, HDR, HDMI, USB, Bluetooth, Televisore 4K",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Hisense Smart TV QLED 65\" 4K 65E7DS",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -1750,6 +1750,20 @@
     ],
     "cuffie-bluetooth-in-offerta": [
       {
+        "title": "Google Pixel Buds Pro 2 - Auricolari wireless con cancellazione attiva del rumore - Cuffie Bluetooth - Grigio creta",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Google Pixel Buds 2a - Auricolari wireless con cancellazione attiva del rumore - Leggeri, comodi e sicuri - Resistenti all'acqua - Compatibili con Bluetooth - Grigio verde",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Bowers & Wilkins Cuffie Wireless Px 8, Nere",
         "merchant": "amazon",
         "ean": "",
@@ -1940,20 +1954,6 @@
       },
       {
         "title": "Philips 4000 series TAH4209BL/00 cuffia e auricolare Wireless A Padiglione Musica e Chiamate Bluetooth Blu",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Philips 4000 series TAH4209PK/00 cuffia e auricolare Wireless A Padiglione Musica e Chiamate Bluetooth Rosa",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Philips Serie 4000 TAH4209BK/00 cuffia e auricolare Wireless A Padiglione Musica e Chiamate Bluetooth Nero",
         "merchant": "unieuro",
         "ean": "",
         "mpn": "",
@@ -2770,6 +2770,13 @@
     ],
     "migliori-moda": [
       {
+        "title": "Champion Legacy Boy - Big Logo Hoodie, Felpa con Cappuccio Bambino, Black (KK001),",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Tommy Jeans Maglietta Maniche Lunghe Uomo TJM Original Maniche Lunghe, Nero (Tommy Black), S",
         "merchant": "amazon",
         "ean": "",
@@ -2967,13 +2974,6 @@
       },
       {
         "title": "T-shirt cotone personalizzabile, maglia unisex personalizzata con stampa per Uomo e Donna, maglietta personalizzata su richiesta 100% made in Italy",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Vintage New York City with USA Flag Tee Shirt, New York City Maglietta",
         "merchant": "",
         "ean": "",
         "mpn": "",
