@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-04T19:33:59+02:00",
+  "generated_at": "2026-10-04T19:50:55+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -14,13 +14,6 @@
       },
       {
         "title": "realme 16 Pro+ 5G Smartphone 12+512GB, Grey",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Sony Xperia 10 IV 5G - Smartphone 128GB, 6GB RAM, Dual Sim, White (Ricondizionato)",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -214,16 +207,16 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      }
-    ],
-    "migliori-smartphone-sotto-300-euro": [
+      },
       {
-        "title": "Sony Xperia 10 IV 5G - Smartphone 128GB, 6GB RAM, Dual Sim, White (Ricondizionato)",
-        "merchant": "amazon",
+        "title": "REDMI Note 17 5G, Smartphone 6+256GB, Celestial Purple, Batteria da 7700mAh",
+        "merchant": "",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      },
+      }
+    ],
+    "migliori-smartphone-sotto-300-euro": [
       {
         "title": "Ulefone Armor Note 22 Smartphone Offerta Android 16, 20GB+32GB/2TB TF Cellulari Octa-Core, 5.0\", 4G Dual SIM Telefono Cellulare Offerta, WiFi 5G/3.5mm/ Face ID/3 Slot Eer Carte/3 A",
         "merchant": "",
@@ -1096,13 +1089,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "BEYNIVAN Tablet 11 Pollici Android 15 Tablet in Offerta con 4G LTE/5G WiFi, 36GB RAM+256GB ROM,8000mAh,Foto AI 16MP+8MP,Face ID/GPS/BT 5.0/TÜV,tablets con Tastiera,Grigio",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "XIAOMI REDMI Pad 2 Pro 5G, Tablet 6+128GB, Graphite Gray, Dolby Atmos",
         "merchant": "",
         "ean": "",
@@ -1464,14 +1450,14 @@
         "status": "da_verificare"
       },
       {
-        "title": "Samsung Galaxy Watch7 Smartwatch Galaxy AI, Analisi del Sonno, Controllo con doppio avvicinamento di dita, Batteria a lunga durata, GPS, BT, Ghiera Touch in Alluminio 44mm Green [V",
+        "title": "Garmin Forerunner 70, Smartwatch per la corsa, 43mm, GPS multi-band, Display AMOLED, HRV Status, Funzioni di Allenamento Avanzate, Coach, Autonomia fino a 13 giorni (Black)",
         "merchant": "",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "Apple Watch Series 9 GPS 45 mm Alluminio Mezzanotte (Ricondizionato)",
+        "title": "Samsung Galaxy Watch7 Smartwatch Galaxy AI, Analisi del Sonno, Controllo con doppio avvicinamento di dita, Batteria a lunga durata, GPS, BT, Ghiera Touch in Alluminio 44mm Green [V",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -1883,6 +1869,13 @@
     ],
     "cuffie-bluetooth-in-offerta": [
       {
+        "title": "Nothing Ear (3) Auricolari Wireless In-Ear, Cancellazione Adattiva del Rumore, Audio Hi-Res compatibile con LDAC, Super Mic, IP54, Ricarica Rapida, 22 Ore di Autonomia, Android e i",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "2026 Cuffie Bluetooth, 48 Ore Auricolari Bluetooth 5.4 Touch Screen, ANC/ENC Cancellazione Rumore Cuffie Senza Fili, 5 Equalizzatore, Stereo Hi-Fi Cuffie Wireless, IPX7 Impermeabil",
         "merchant": "",
         "ean": "",
@@ -2084,13 +2077,6 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "JVC HA A3T Auricolare True Wireless Stereo (TWS) In ear Musica e Chiamate Bluetooth Nero",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
       }
     ],
     "migliori-robot-aspirapolvere": [
@@ -2279,7 +2265,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "Aspirapolvere Senza Fili 50KPa 650W 65Min Autoportante LED, Antigroviglio",
+        "title": "Zynet V5 Aspirabriciole Senza Fili 28000Pa 7 in 1 60 Min Aspirapolvere Auto",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -2336,13 +2322,6 @@
       }
     ],
     "migliori-lavatrici": [
-      {
-        "title": "Candy ProWash 300 Lavatrice 10 Kg, 1400 Giri, Classe A-20%, Bianca",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Bosch WAN28229IT Serie 4 Lavatrice 9kg 1400 giri/min Bianco Classe A",
         "merchant": "",
@@ -2541,6 +2520,13 @@
       },
       {
         "title": "Samsung WW90DG5G34AEET lavatrice Caricamento frontale 9 kg 1400 Giri/min Bianco",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Whirlpool Lavatrice smart connessa con WiFi 10 kg WPM 011G ADS IT",
         "merchant": "unieuro",
         "ean": "",
         "mpn": "",
@@ -2782,6 +2768,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "BLUNORD Friggitrice ad Aria 8L, Air Fryer 2200W con Doppia Resistenza 1700+500W, Display Digitale con Icone, 8 Programmi, Cestello Antiaderente",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "PremierTech Friggitrice ad Aria 8 Litri Doppio Cestello 8 Programmi PT8LAF",
         "merchant": "",
         "ean": "",
@@ -2790,13 +2783,6 @@
       },
       {
         "title": "Friggitrice Ad Aria 9L | Friggitrice Aria Doppio Cestello con 2x4,5L Cestello, 8-in-1 Airfryer Controllo Indipendente Temperatura 50-200℃, Grande Doppia Zona 2600W Air Fryer LED Sc",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Ariete 4640/10 Air Fryer Vertical DUO, Friggitrice ad aria doppia verticale, 2460W, 11L, Due cestelli, Sync e Dual, 6 programmi, Funzione Grill, Fino a 200°C",
         "merchant": "",
         "ean": "",
         "mpn": "",
