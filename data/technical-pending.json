@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-04T13:48:41+02:00",
+  "generated_at": "2026-10-04T14:03:42+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -2197,13 +2197,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Haier HW100-B14979 Serie I-Pro 7 Lavatrice 10 Kg a Carica Frontale, 1400 Giri, Trattamento Antibatterico, 59.5x61.7x85 Cm, Bianco, Classe A [Classe di efficienza energetica A]",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Bosch WAN28229IT Serie 4 Lavatrice 9kg 1400 giri/min Bianco Classe A",
         "merchant": "",
         "ean": "",
@@ -2398,16 +2391,16 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      }
-    ],
-    "migliori-frigoriferi": [
+      },
       {
-        "title": "Haier Cube 83 Serie 3 Frigorifero Multidoor 4 Porte 467 Litri, No Frost",
-        "merchant": "amazon",
+        "title": "Smeg LB2T92ASIT lavatrice Caricamento frontale 9 kg 1200 Giri/min Bianco",
+        "merchant": "unieuro",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      },
+      }
+    ],
+    "migliori-frigoriferi": [
       {
         "title": "BEKO RCSA300K40GN - Frigorifero Combinato Libera Installazione 291 Litri, 4 Ripiani in Vetro, Frigo con Congelatore 3 Cassetti, Elettrodomestici Cucina, Classe E, 54L x 181,4H x 57",
         "merchant": "",
@@ -2606,6 +2599,13 @@
       },
       {
         "title": "Samsung Frigorifero Combinato EcoFlex AI 2m 387L RB38C607AS9",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Samsung RB38T607BS9 frigorifero Combinato EcoFlex Libera installazione con congelatore 2m 387 L Classe B, Inox",
         "merchant": "unieuro",
         "ean": "",
         "mpn": "",
