@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-04T11:48:41+02:00",
+  "generated_at": "2026-10-04T12:03:41+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -2169,27 +2169,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Midea Lavatrice 10 kg Classe A-10% 1400 Giri Silent Inverter Motor",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "LG AI DD F4R7010TSWG Lavatrice 10 kg Classe A -10%, 1400 Giri, Carica Frontale con Oblò in Vetro Temperato, Funzione TurboWash 360, Vapore su 7 Programmi, Wi-Fi, Libera installazio",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Candy ProWash 300 Lavatrice 10 Kg, 1400 Giri, Classe A-20%, Bianca",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Bosch WAN28229IT Serie 4 Lavatrice 9kg 1400 giri/min Bianco Classe A",
         "merchant": "",
         "ean": "",
@@ -2366,6 +2345,27 @@
       },
       {
         "title": "LG F4NX5009TKB Lavatrice Intelligente 9 kg Classe A 40% Bianoc/Nero",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Samsung Lavatrice AI Control Ecodosatore 11Kg WW11DG6B85LHU3",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Samsung WF20DG8650BV lavatrice Caricamento frontale 20 kg 1000 Giri/min Nero",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Smeg LB2T92ASIT lavatrice Caricamento frontale 9 kg 1200 Giri/min Bianco",
         "merchant": "unieuro",
         "ean": "",
         "mpn": "",
