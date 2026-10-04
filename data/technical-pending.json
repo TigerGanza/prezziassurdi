@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-04T09:03:52+02:00",
+  "generated_at": "2026-10-04T09:13:42+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -2190,20 +2190,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "COMFEE' Lavatrice 9 kg Classe A-10% 1400 Giri Motore Inverter Silenzioso",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Candy Smart Lavatrice 9 Kg, 1200 Giri, Classe B, Bianca",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Bosch WAN28229IT Serie 4 Lavatrice 9kg 1400 giri/min Bianco Classe A",
         "merchant": "",
         "ean": "",
@@ -2225,6 +2211,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "Candy Smart Lavatrice 9 Kg, 1200 Giri, Classe B, Bianca",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Samsung WW90J5355FW Lavatrice 9 kg, 1200 Giri, Classe A+++, EcoBubble, Carica Frontale, Lavatrice a Libera Installazione, Bianca",
         "merchant": "",
         "ean": "",
@@ -2240,6 +2233,13 @@
       },
       {
         "title": "Candy ProWash 500 Lavatrice 8 Kg, 1400 Giri, Classe A-10%, Bianco",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "COMFEE' Lavatrice 9 kg Classe A-10% 1400 Giri Motore Inverter Silenzioso",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -2388,20 +2388,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Hisense Rib312F4Awe Frigorifero Combinato Da Incasso, Tecnologia No Frost, Capacità 246 L, Illuminazione Led, Display Elettronico Per Controllo Temperatura, Bianco, ‎54.5 x 54 x 17",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Bosch KGN392LAG Serie 4 Frigorifero Total No Frost 203x60cm Silver",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "BEKO RCSA300K40GN - Frigorifero Combinato Libera Installazione 291 Litri, 4 Ripiani in Vetro, Frigo con Congelatore 3 Cassetti, Elettrodomestici Cucina, Classe E, 54L x 181,4H x 57",
         "merchant": "",
         "ean": "",
@@ -2445,6 +2431,13 @@
       },
       {
         "title": "Hisense RB329N4ACE Frigorifero Combinato a libera installazione, Total No frost con ventilazione multiflow, Inox Look, Altezza 180 cm, capacità netta 255 L",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Hisense Rib312F4Awe Frigorifero Combinato Da Incasso, Tecnologia No Frost, Capacità 246 L, Illuminazione Led, Display Elettronico Per Controllo Temperatura, Bianco, ‎54.5 x 54 x 17",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -2578,6 +2571,13 @@
       },
       {
         "title": "Samsung Frigorifero Doppia Porta EcoFlex AI 305L RT31CG5624S9",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Samsung RB38C603DEL frigorifero Combinato EcoFlex AI Libera installazione con congelatore Wifi 2m 390 L Classe D, Sabbia",
         "merchant": "unieuro",
         "ean": "",
         "mpn": "",
