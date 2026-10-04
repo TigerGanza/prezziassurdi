@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-04T12:48:41+02:00",
+  "generated_at": "2026-10-04T13:03:41+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -2735,6 +2735,13 @@
     ],
     "migliori-moda": [
       {
+        "title": "Amazon Essentials - Borsa da toilette da viaggio, modello dopp kit, di grandi dimensioni, 25,4 cm, Nero",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Sony SRS-XB100 - Speaker Wireless Bluetooth, Portatile, Leggero, Compatto, da Esterno, da Viaggio, IP67 Resistente Acqua e Polvere, Cinturino Versatile, Chiamate in Vivavoce - Nero",
         "merchant": "amazon",
         "ean": "",
@@ -2932,13 +2939,6 @@
       },
       {
         "title": "Kricely Scarpe Trail Running Uomo Scarpe Trekking Scarpe da Escursionismo Outdoor Traspirante Scarpe da Ginnastica Fitness Running Sneakers Giallo Fluorescente 40",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "ASOCO DREAM Scarpe da Trail Running Uomo Scarpe da Passeggio Leggero Traspirante Scarpe da Ginnastica Antiscivolo Fitness Running Sneakers,Nero Arancione,45 EU",
         "merchant": "",
         "ean": "",
         "mpn": "",
