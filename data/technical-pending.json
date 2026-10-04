@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-04T17:23:41+02:00",
+  "generated_at": "2026-10-04T17:38:41+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -1691,6 +1691,13 @@
       }
     ],
     "migliori-soundbar": [
+      {
+        "title": "JBL Cinema SB 550, Soundbar 3.1 Canali con Subwoofer Wireless, Bluetooth per Streaming Wireless, Dolby Atmos Integrato, Connessione HDMI ARC e Ottica, Design Compatto, Telecomando,",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Samsung Soundbar HW-B66CF/ZF Serie B, 4 Speaker, Wireless, Dolby 5.1ch, Audio a 3.1 Canali, DTS 5.1ch, Surround Sound Expansion, Voice Enhance Mode, Black, 2025",
         "merchant": "",
