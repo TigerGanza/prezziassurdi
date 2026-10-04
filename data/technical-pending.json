@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-04T19:50:55+02:00",
+  "generated_at": "2026-10-04T20:06:19+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -884,6 +884,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "Generico PC Desktop AGM Core i5 12400 / RAM 16GB / Ssd 512GB / grafica UHD 730 / Computer fisso",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "STGSivir PC Gaming Fisso, Core i7, RTX 2060 Super 8G, 16G RAM, 1T SSD",
         "merchant": "",
         "ean": "",
@@ -1429,14 +1436,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "Garmin vívoactive 5, 42mm, Smartwatch GPS, Orchid",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Garmin Forerunner 55, 42mm. Smartwatch GPS per la Corsa, Whitestone",
+        "title": "Garmin Forerunner 55, 42mm. Smartwatch GPS per la Corsa, Black",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -1444,13 +1444,6 @@
       },
       {
         "title": "Garmin Instinct 3 Solar, 45mm, Smartwatch GPS Ultra Resistente, Black",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Garmin Forerunner 70, Smartwatch per la corsa, 43mm, GPS multi-band, Display AMOLED, HRV Status, Funzioni di Allenamento Avanzate, Coach, Autonomia fino a 13 giorni (Black)",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -1543,6 +1536,20 @@
       {
         "title": "Nuovo arrivo OnePlus Watch 4 Smartwatch con display AMOLED da 1,5”, Snapdragon W5 Gen 1, fino a 16 giorni di autonomia, GPS, NFC, Smartwatch da uomo.",
         "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Garmin Forerunner 265, Orologio Sportivo GPS per Corsa, Fitness, Maratona, Nuoto, con Monitoraggio Frequenza Cardiaca e Ossigeno nel Sangue, Smartwatch",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Samsung Galaxy Watch6 Classic Smartwatch Fitness Tracker Ghiera Interattiva in Acciao Inox 47mm Graphite",
+        "merchant": "unieuro",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
@@ -2081,6 +2088,27 @@
     ],
     "migliori-robot-aspirapolvere": [
       {
+        "title": "ECOVACS T90 PRO OMNI Robot Aspirapolvere Lavapavimenti OZMO ROLLER 30000Pa",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "ECOVACS T50 OMNI Gen3 Robot Aspirapolvere Lavapavimenti 25000 Pa",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "ECOVACS T90 MAX OMNI Robot Aspirapolvere Lavapavimenti, Upgrade del T50",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "ECOVACS T50 PRO OMNI Gen3 Robot Aspirapolvere Lavapavimenti 25000 Pa",
         "merchant": "amazon",
         "ean": "",
@@ -2145,13 +2173,6 @@
       },
       {
         "title": "dreame D20 Pro Plus Robot Aspirapolvere Lavapavimenti, DuoBrush per Peli",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "ECOVACS T90 PRO OMNI Robot Aspirapolvere Lavapavimenti OZMO ROLLER 30000Pa",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -2265,7 +2286,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "Zynet V5 Aspirabriciole Senza Fili 28000Pa 7 in 1 60 Min Aspirapolvere Auto",
+        "title": "FDUXUD Aspirapolvere Senza Fili 650W/55KPa/70min, 1.8 L, Modalità Uragano",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -2768,7 +2789,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "BLUNORD Friggitrice ad Aria 8L, Air Fryer 2200W con Doppia Resistenza 1700+500W, Display Digitale con Icone, 8 Programmi, Cestello Antiaderente",
+        "title": "Cecotec Friggitrice ad Aria 10L - Air Fryer Cecofry&Grill Duoheat 10000. 2800W, 3in1: Friggitrice, Grill, Piastra. Parete divisoria mobile, Doppia Temp 40-200°C, Cottura uniforme e",
         "merchant": "",
         "ean": "",
         "mpn": "",
