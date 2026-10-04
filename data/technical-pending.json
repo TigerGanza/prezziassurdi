@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-04T14:18:41+02:00",
+  "generated_at": "2026-10-04T14:33:41+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -1021,6 +1021,20 @@
     ],
     "migliori-monitor": [
       {
+        "title": "MSI MAG 276CFA E20 Monitor Gaming 27\", Pannello Rapid VA 1920x1080, 200 Hz, 0,5 ms (GtG)",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "msi MAG 256FA E20 Monitor Gaming 24,5\" 1920x1080 FHD Rapid IPS, 200 Hz, 0,5 ms, HDR Ready, AMD FreeSync Premium, Eye Care, AI Vision, HDMI 2.0b, DP 1.2a, senza cornice, compatibile",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "KOORUI Monitor Gaming 27 Pollici Curvo 180Hz QHD 1ms Adaptive Sync HDMI/DP",
         "merchant": "amazon",
         "ean": "",
@@ -1212,20 +1226,6 @@
       {
         "title": "Per Mercedes Benz Classe C GLC Classe G Classe E 2015 2019 1PC Tappetino Touch Mouse Multimediale per Auto Interruttore di Controllo Nuovo Accessorio Monitor Auto Aggiornato",
         "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "OMEN by HP Monitor da gaming 27'' FHD 240 Hz – OMEN 27s",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "ASUS ZenScreen MB16AWP Monitor PC 39,6 cm (15.6'') 1920 x 1080 Pixel Full HD LED Nero",
-        "merchant": "unieuro",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
