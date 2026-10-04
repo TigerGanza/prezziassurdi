@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-04T21:34:58+02:00",
+  "generated_at": "2026-10-04T21:55:07+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -528,13 +528,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "TCL 55T6C – Smart TV QLED 4K HDR10+ da 55\", Fire TV con Dolby Atmos",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "TCL 55V6C – Smart TV 4K HDR Direct LED da 55\", Google TV con Dolby Audio",
         "merchant": "",
         "ean": "",
@@ -589,6 +582,13 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
+      },
+      {
+        "title": "TCL 65C69BPRO TV 65 Pollici QLED 4K Ultra HD Smart TV, Serie C69B PRO, Google TV, WiFi, HDR, HDMI, USB, Bluetooth, Televisore 4K",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
       }
     ],
     "offerte-tv-55-65-pollici": [
@@ -608,13 +608,6 @@
       },
       {
         "title": "LG UHD AI 55 Pollici, Serie UA75 2025 Smart TV 4K Ultra HD - 55UA75006LA",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "TCL 55T6C – Smart TV QLED 4K HDR10+ da 55\", Fire TV con Dolby Atmos",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -884,13 +877,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Generico PC Desktop AGM Core i5 12400 / RAM 16GB / Ssd 512GB / grafica UHD 730 / Computer fisso",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "STGSivir PC Gaming Fisso, Core i7, RTX 2060 Super 8G, 16G RAM, 1T SSD",
         "merchant": "",
         "ean": "",
@@ -1068,14 +1054,14 @@
         "status": "da_verificare"
       },
       {
-        "title": "Lenovo Idea Tab - Tablet Touch con IA integrata 11'' 2.5K, 90Hz (MediaTek Dimensity 6300, 8Core, RAM 8GB, UFS 2.2 128GB, Android 15, Wifi5 + Bluetooth) Lenovo Tab Pen - Grigio",
+        "title": "Tablet Samsung SM-X130 8,7\" Octa Core 8 GB RAM 128 GB Argentato",
         "merchant": "",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "Tablet Samsung SM-X130 8,7\" Octa Core 8 GB RAM 128 GB Argentato",
+        "title": "Lenovo Idea Tab - Tablet Touch con IA integrata 11'' 2.5K, 90Hz (MediaTek Dimensity 6300, 8Core, RAM 8GB, UFS 2.2 128GB, Android 15, Wifi5 + Bluetooth) Lenovo Tab Pen - Grigio",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -1090,6 +1076,13 @@
       },
       {
         "title": "Samsung SM-X115 Galaxy Tab A9 8.7'' LTE 8GB RAM 128GB Graphite EU",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "BEYNIVAN Tablet 11 Pollici Android 15 Tablet in Offerta con 4G LTE/5G WiFi, 36GB RAM+256GB ROM,8000mAh,Foto AI 16MP+8MP,Face ID/GPS/BT 5.0/TÜV,tablets con Tastiera,Grigio",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -1132,6 +1125,13 @@
       }
     ],
     "migliori-monitor": [
+      {
+        "title": "Alienware 34 Monitor Gaming - AW3425DW, WQHD (3440x1440), 240Hz, QD OLED",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "MSI MAG 276CFA E20 Monitor Gaming 27\", Pannello Rapid VA 1920x1080, 200 Hz, 0,5 ms (GtG)",
         "merchant": "amazon",
@@ -1334,13 +1334,6 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "OMEN by HP Monitor da gaming 27'' FHD 240 Hz – OMEN 27s",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
       }
     ],
     "migliori-smartwatch": [
@@ -1436,6 +1429,20 @@
         "status": "da_verificare"
       },
       {
+        "title": "Garmin vívoactive 5, 42mm, Smartwatch GPS, Orchid",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Garmin Forerunner 265, Smartwatch per la corsa, 46mm, GPS multi-band, Display AMOLED, VO2max, HRV Status, Dinamiche di corsa al polso, Tempi di recupero, Autonomia fino a 13 giorni",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Garmin Forerunner 55, 42mm. Smartwatch GPS per la Corsa, Black",
         "merchant": "",
         "ean": "",
@@ -1450,7 +1457,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "Samsung Galaxy Watch7 Smartwatch Galaxy AI, Analisi del Sonno, Controllo con doppio avvicinamento di dita, Batteria a lunga durata, GPS, BT, Ghiera Touch in Alluminio 44mm Green [V",
+        "title": "Garmin Forerunner 70, Smartwatch per la corsa, 43mm, GPS multi-band, Display AMOLED, HRV Status, Funzioni di Allenamento Avanzate, Coach, Autonomia fino a 13 giorni (Black)",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -1539,20 +1546,6 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "Garmin Forerunner 265, Orologio Sportivo GPS per Corsa, Fitness, Maratona, Nuoto, con Monitoraggio Frequenza Cardiaca e Ossigeno nel Sangue, Smartwatch",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Samsung Galaxy Watch6 Classic Smartwatch Fitness Tracker Ghiera Interattiva in Acciao Inox 47mm Graphite",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
       }
     ],
     "migliori-console-gaming": [
@@ -1572,6 +1565,13 @@
       },
       {
         "title": "PlayStation 5 Standard Console + God of War Ragnarök",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "SONY Console PlayStation 5 Edition Digital",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -1635,6 +1635,13 @@
       },
       {
         "title": "Nintendo - Console Nintendo Switch Lite Blu - schermo LCD 5,5\" - 32GB",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Nintendo Switch 2017 con Joy-Con - Blu e Rosso (Ricondizionato)",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -2116,27 +2123,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "iRobot Roomba® Plus 416 Combo robot aspirapolvere lavapavimenti, 20.000 Pa",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Vexilar Upgrade 10,000Pa Robot Aspirapolvere Lavapavimenti con Mappatura, 3 Ore, Silenzioso W9 Aspirapolvere Robot Lavapavimenti Potente Laser per Pavimenti/Tappeti,Controllo Vocal",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "iRobot Roomba® 115 Combo robot aspirapolvere lavapavimenti, 15.000 Pa",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Lefant M210 PRO OMNI Robot Aspirapolvere Lavapavimenti con Rullo 20.000Pa",
         "merchant": "",
         "ean": "",
@@ -2173,6 +2159,20 @@
       },
       {
         "title": "dreame D20 Pro Plus Robot Aspirapolvere Lavapavimenti, DuoBrush per Peli",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Lefant M210 Omni Robot Aspirapolvere Lavapavimenti Rullo 20.000Pa",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Vexilar Upgrade 10,000Pa Robot Aspirapolvere Lavapavimenti con Mappatura, 3 Ore, Silenzioso W9 Aspirapolvere Robot Lavapavimenti Potente Laser per Pavimenti/Tappeti,Controllo Vocal",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -2286,7 +2286,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "FDUXUD Aspirapolvere Senza Fili 650W/55KPa/70min, 1.8 L, Modalità Uragano",
+        "title": "Aspirapolvere Senza Fili 50KPa 650W 65Min Autoportante LED, Antigroviglio",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -2491,13 +2491,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Samsung Lavatrice BESPOKE AI™ Ecodosatore 11Kg WW11DB7B94GEU3",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Samsung Lavatrice Crystal Clean 8 kg WW80CGC04DAEET",
         "merchant": "unieuro",
         "ean": "",
@@ -2526,13 +2519,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Samsung WF20DG8650BV lavatrice Caricamento frontale 20 kg 1000 Giri/min Nero",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Smeg LB2T92ASIT lavatrice Caricamento frontale 9 kg 1200 Giri/min Bianco",
         "merchant": "unieuro",
         "ean": "",
@@ -2548,6 +2534,20 @@
       },
       {
         "title": "Whirlpool Lavatrice smart connessa con WiFi 10 kg WPM 011G ADS IT",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Samsung Lavatrice AI Control Ecodosatore 10Kg WW10FG6U94LBU3",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Whirlpool Lavatrice a libera installazione WSB 624 S IT",
         "merchant": "unieuro",
         "ean": "",
         "mpn": "",
@@ -2796,14 +2796,14 @@
         "status": "da_verificare"
       },
       {
-        "title": "PremierTech Friggitrice ad Aria 8 Litri Doppio Cestello 8 Programmi PT8LAF",
+        "title": "BLUNORD Friggitrice ad Aria 8L, Air Fryer 2200W con Doppia Resistenza 1700+500W, Display Digitale con Icone, 8 Programmi, Cestello Antiaderente",
         "merchant": "",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "Friggitrice Ad Aria 9L | Friggitrice Aria Doppio Cestello con 2x4,5L Cestello, 8-in-1 Airfryer Controllo Indipendente Temperatura 50-200℃, Grande Doppia Zona 2600W Air Fryer LED Sc",
+        "title": "PremierTech Friggitrice ad Aria 8 Litri Doppio Cestello 8 Programmi PT8LAF",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -2880,13 +2880,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Moulinex Dual Easy Fry Friggitrice ad aria 8.3L",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Moulinex Dual Easy Fry XXL , Friggitrice ad Aria, 11L, 2 Cestelli, Modalità Sync",
         "merchant": "unieuro",
         "ean": "",
@@ -2902,13 +2895,6 @@
       },
       {
         "title": "Moulinex Easy Fry Max Friggitrice ad aria 5L Coal Grey",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Moulinex EZ245320 friggitrice Singolo 5 L Indipendente Friggitrice ad aria calda Nero, Verde",
         "merchant": "unieuro",
         "ean": "",
         "mpn": "",
@@ -3120,7 +3106,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "SAGUARO Barefoot Shoes Uomo Scarpe Barefoot Donna Suola in Goccia Zero Sneakers Leggere Scarpe Trail Running Minimalista Antiscivolo — Adatte per Tempo Libero Città Viaggio Verde, ",
+        "title": "Donna Scarpe da Running Ginnastica Camminata Sportive Trekking Tennis Trail Jogging Palestra Mesh Basket Sport Outdoor Fitness Sport Platform Sneakers Nero 38 EU",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -3249,13 +3235,6 @@
       },
       {
         "title": "Hitmars Scarpe Running Uomo con Chiusura a Rotella Nero 44",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "SAGUARO Barefoot Shoes Uomo Scarpe Barefoot Donna Suola in Goccia Zero Sneakers Leggere Scarpe Trail Running Minimalista Antiscivolo — Adatte per Tempo Libero Città Viaggio Verde, ",
         "merchant": "",
         "ean": "",
         "mpn": "",
