@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-04T19:23:57+02:00",
+  "generated_at": "2026-10-04T19:33:59+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -388,6 +388,13 @@
     ],
     "tv-in-offerta": [
       {
+        "title": "TCL 55T69C – Smart TV QLED 4K HDR10+ da 55\", Google TV con Dolby Atmos",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "XIAOMI TV F Pro 32 2025, 32 pollici (81 cm), QLED, Smart TV, Fire TV, Triple Tuner DVB-C/S/S2/T/T2,Dolby Audio, DTS Virtual:X, DTS-HD, Controllo Vocale Alexa, Compatibile con Apple",
         "merchant": "",
         "ean": "",
@@ -589,16 +596,16 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "TCL 65C69BPRO TV 65 Pollici QLED 4K Ultra HD Smart TV, Serie C69B PRO, Google TV, WiFi, HDR, HDMI, USB, Bluetooth, Televisore 4K",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
       }
     ],
     "offerte-tv-55-65-pollici": [
+      {
+        "title": "TCL 55T69C – Smart TV QLED 4K HDR10+ da 55\", Google TV con Dolby Atmos",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Hisense Smart TV QLED 55\" 4K 55E7DS",
         "merchant": "",
