@@ -1,10 +1,17 @@
 {
   "version": 1,
-  "generated_at": "2026-10-04T12:18:41+02:00",
+  "generated_at": "2026-10-04T12:33:51+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
     "smartphone-in-offerta": [
+      {
+        "title": "Sony Xperia 10 IV 5G - Smartphone 128GB, 6GB RAM, Dual Sim, White (Ricondizionato)",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "HONOR Magic6 Pro Smartphone 5G 12GB+512GB Telefono Cellulare 6.8 pollici 120Hz 50MP Tripla Fotocamera 180MP Teleobiettivo Fotocamera Qualcomm Snapdragon 8Gen 5600mAh IP68 Dual SIM ",
         "merchant": "amazon",
@@ -207,16 +214,16 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "REDMI Note 17 5G, Smartphone 6+256GB, Celestial Purple, Batteria da 7700mAh",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
       }
     ],
     "migliori-smartphone-sotto-300-euro": [
+      {
+        "title": "Sony Xperia 10 IV 5G - Smartphone 128GB, 6GB RAM, Dual Sim, White (Ricondizionato)",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Ulefone Armor Note 22 Smartphone Offerta Android 16, 20GB+32GB/2TB TF Cellulari Octa-Core, 5.0\", 4G Dual SIM Telefono Cellulare Offerta, WiFi 5G/3.5mm/ Face ID/3 Slot Eer Carte/3 A",
         "merchant": "",
@@ -2162,6 +2169,13 @@
     ],
     "migliori-lavatrici": [
       {
+        "title": "Candy ProWash 300 Lavatrice 10 Kg, 1400 Giri, Classe A-20%, Bianca",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Haier HW100-B14979 Serie I-Pro 7 Lavatrice 10 Kg a Carica Frontale, 1400 Giri, Trattamento Antibatterico, 59.5x61.7x85 Cm, Bianco, Classe A [Classe di efficienza energetica A]",
         "merchant": "amazon",
         "ean": "",
@@ -2359,13 +2373,6 @@
       },
       {
         "title": "Samsung WF20DG8650BV lavatrice Caricamento frontale 20 kg 1000 Giri/min Nero",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Smeg LB2T92ASIT lavatrice Caricamento frontale 9 kg 1200 Giri/min Bianco",
         "merchant": "unieuro",
         "ean": "",
         "mpn": "",
