@@ -1,5 +1,22 @@
 [
   {
+    "asin": "B0FP292F8Q",
+    "title": "Shadowhawk Torcia LED Ricaricabile Potente Professionale 1000000 Lumen",
+    "price": 28.99,
+    "old_price": 40.99,
+    "discount": 29.0,
+    "image": "https://m.media-amazon.com/images/I/51yTk5v+kwL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0FP292F8Q?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "outdoor",
+    "macro_group": "fai_da_te_outdoor",
+    "seasonal_title": "",
+    "published_at": "2026-10-05T12:47:22.163392+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B0C793Z5HW",
     "title": "MAUQI Oscar 74 Filtro Anticalcare Compatibile con Tutte le Macchine da Caffè Nespresso, DeLonghi, Lavazza, Bialetti (2pz)",
     "price": 11.99,
@@ -2136,49 +2153,6 @@
     ],
     "merchant_match_score": 100,
     "merchant_ean": "5715685004520",
-    "merchant_prices_checked_at": "2026-10-05T00:35:30.301629+02:00"
-  },
-  {
-    "asin": "WD4A275855",
-    "title": "FILTRO FOTO POLAROID FILTER SET NOW NOW+ GEN3",
-    "price": 9.99,
-    "old_price": 19.99,
-    "discount": 50.0,
-    "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_159013841/fee_786_587_png",
-    "url": "https://www.awin1.com/pclick.php?p=42126921183&a=3086723&m=18529",
-    "category": "casa",
-    "macro_group": "awin_discovery",
-    "seasonal_title": "Offerta MediaWorld",
-    "published_at": "2026-10-05T01:32:26.019533+02:00",
-    "source_merchant": "mediaworld",
-    "source_external_id": "497876",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "mediaworld",
-        "merchant_name": "MediaWorld",
-        "merchant_id": "18529",
-        "product_id": "497876",
-        "awin_product_id": "42126921183",
-        "title": "FILTRO FOTO POLAROID FILTER SET NOW NOW+ GEN3",
-        "brand": "Polaroid",
-        "ean": "9120134282125",
-        "mpn": "PZ6558",
-        "price": 9.99,
-        "old_price": 19.99,
-        "discount": 50.0,
-        "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_159013841/fee_786_587_png",
-        "url": "https://www.awin1.com/pclick.php?p=42126921183&a=3086723&m=18529",
-        "category": "Fotografia, Video e Droni;Accessori Fotografia;Altri accessori Fotografia",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {}
-      }
-    ],
-    "merchant_match_score": 100,
-    "merchant_ean": "9120134282125",
     "merchant_prices_checked_at": "2026-10-05T00:35:30.301629+02:00"
   }
 ]
