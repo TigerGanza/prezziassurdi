@@ -1,5 +1,22 @@
 [
   {
+    "asin": "B0DT17H8RF",
+    "title": "Tommy Hilfiger Uomo Cintura Hudson 3,0 cm Cintura in Pelle, Nero (Black), 105 cm",
+    "price": 35.26,
+    "old_price": 59.9,
+    "discount": 41.0,
+    "image": "https://m.media-amazon.com/images/I/31PEsPt8fPL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0DT17H8RF?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "moda_uomo",
+    "macro_group": "tempo_libero",
+    "seasonal_title": "",
+    "published_at": "2026-10-05T13:32:19.583370+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B0FDKZ5Z6Z",
     "title": "L'Oréal Paris Crema Viso Giorno Revitalift Laser, Per Tutti i Tipi di Pelle, Azione Antirughe e Anti-Età, Pelle più Soda e Tonica, Con Acido Ialuronico, Vitamina C e Pro-Retinolo, 50 ml",
     "price": 9.79,
@@ -1884,49 +1901,6 @@
     ],
     "merchant_match_score": 100,
     "merchant_ean": "8018080491054",
-    "merchant_prices_checked_at": "2026-10-05T02:15:24.078974+02:00"
-  },
-  {
-    "asin": "W72338ED5E",
-    "title": "COSTRUZIONI MATTEL MEGA Pokem BoscoIncantato",
-    "price": 9.99,
-    "old_price": 18.49,
-    "discount": 46.0,
-    "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_151551139/fee_786_587_png",
-    "url": "https://www.awin1.com/pclick.php?p=40939100104&a=3086723&m=18529",
-    "category": "bambini",
-    "macro_group": "awin_discovery",
-    "seasonal_title": "Offerta MediaWorld",
-    "published_at": "2026-10-05T03:02:26.604202+02:00",
-    "source_merchant": "mediaworld",
-    "source_external_id": "426891",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "mediaworld",
-        "merchant_name": "MediaWorld",
-        "merchant_id": "18529",
-        "product_id": "426891",
-        "awin_product_id": "40939100104",
-        "title": "COSTRUZIONI MATTEL MEGA Pokem BoscoIncantato",
-        "brand": "Mattel",
-        "ean": "0194735190751",
-        "mpn": "HTH69",
-        "price": 9.99,
-        "old_price": 18.49,
-        "discount": 46.0,
-        "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_151551139/fee_786_587_png",
-        "url": "https://www.awin1.com/pclick.php?p=40939100104&a=3086723&m=18529",
-        "category": "Giocattoli, Outdoor e Fitness;Giocattoli e Collezionabili;Costruzioni e Kit Miniature",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {}
-      }
-    ],
-    "merchant_match_score": 100,
-    "merchant_ean": "0194735190751",
     "merchant_prices_checked_at": "2026-10-05T02:15:24.078974+02:00"
   }
 ]
