@@ -1,5 +1,22 @@
 [
   {
+    "asin": "B00354H02O",
+    "title": "Ravensburger - Labyrinth Classico, Gioco da tavolo +7 anni, 2-4 giocatori",
+    "price": 23.99,
+    "old_price": 34.99,
+    "discount": 31.0,
+    "image": "https://m.media-amazon.com/images/I/51cRMbsrKEL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B00354H02O?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "bambini_giochi",
+    "macro_group": "famiglia_animali",
+    "seasonal_title": "",
+    "published_at": "2026-10-05T13:37:21.364527+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B0DT17H8RF",
     "title": "Tommy Hilfiger Uomo Cintura Hudson 3,0 cm Cintura in Pelle, Nero (Black), 105 cm",
     "price": 35.26,
@@ -1858,49 +1875,6 @@
     ],
     "merchant_match_score": 100,
     "merchant_ean": "",
-    "merchant_prices_checked_at": "2026-10-05T02:15:24.078974+02:00"
-  },
-  {
-    "asin": "WFD9716CCA",
-    "title": "Cellularline Power Bank Glam",
-    "price": 10.99,
-    "old_price": 44.99,
-    "discount": 75.6,
-    "image": "https://www.unieuro.it/medias/sys_master/root/h19/h57/51909534351390/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-1b7a8626ee89285e4ca9c7e160c020d3-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-    "url": "https://www.awin1.com/pclick.php?p=42125164093&a=3086723&m=10139",
-    "category": "informatica",
-    "macro_group": "awin_discovery",
-    "seasonal_title": "Offerta Unieuro",
-    "published_at": "2026-10-05T03:02:33.515838+02:00",
-    "source_merchant": "unieuro",
-    "source_external_id": "CEEPBGLAM10000PDR",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "unieuro",
-        "merchant_name": "Unieuro",
-        "merchant_id": "10139",
-        "product_id": "CEEPBGLAM10000PDR",
-        "awin_product_id": "42125164093",
-        "title": "Cellularline Power Bank Glam",
-        "brand": "Cellularline",
-        "ean": "8018080491054",
-        "mpn": "PBGLAM10000PDR",
-        "price": 10.99,
-        "old_price": 44.99,
-        "discount": 75.6,
-        "image": "https://www.unieuro.it/medias/sys_master/root/h19/h57/51909534351390/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-1b7a8626ee89285e4ca9c7e160c020d3-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-        "url": "https://www.awin1.com/pclick.php?p=42125164093&a=3086723&m=10139",
-        "category": "Powerbank",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {}
-      }
-    ],
-    "merchant_match_score": 100,
-    "merchant_ean": "8018080491054",
     "merchant_prices_checked_at": "2026-10-05T02:15:24.078974+02:00"
   }
 ]
