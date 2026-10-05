@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-05T23:07:46+02:00",
+  "generated_at": "2026-10-06T00:17:46+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -1573,14 +1573,21 @@
     ],
     "migliori-soundbar": [
       {
-        "title": "Samsung Soundbar HW-B66CF/ZF Serie B, 4 Speaker, Wireless, Dolby 5.1ch, Audio a 3.1 Canali, DTS 5.1ch, Surround Sound Expansion, Voice Enhance Mode, Black, 2025",
-        "merchant": "",
+        "title": "ULTIMEA 2.1 Canali Soundbar, 240W Sound Bar con Subwoofer Wireless, VoiceMX e BassMX, App Controllo, Bassi Regolabili, HDMI, Ottico, Bluetooth 6.0, Poseidon M30",
+        "merchant": "amazon",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
         "title": "TCL S55HE Soundbar 2.1, 220W, Dolby Atmos, DTS Virtual:X, subwoofer wireless, Bluetooth 5.3, HDMI eARC, USB, ottico, montaggio a parete, telecomando incluso",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Samsung Soundbar HW-B66CF/ZF Serie B, 4 Speaker, Wireless, Dolby 5.1ch, Audio a 3.1 Canali, DTS 5.1ch, Surround Sound Expansion, Voice Enhance Mode, Black, 2025",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -2162,14 +2169,21 @@
     ],
     "migliori-lavatrici": [
       {
-        "title": "Samsung Lavatrice Crystal Clean WW90CGC04DTEET Libera installazione, 9 Kg, Wifi, Ecobubble, Vapore, Carica Frontale, 60l x 85h x 55p cm",
+        "title": "Midea Lavatrice 10 kg Classe A-10% 1400 Giri Silent Inverter Motor",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "COMFEE' Lavatrice Ultra Slim 6 kg Classe A-10% Motore BLDC",
+        "title": "LG AI DD F4R7010TSWG Lavatrice 10 kg Classe A -10%, 1400 Giri, Carica Frontale con Oblò in Vetro Temperato, Funzione TurboWash 360, Vapore su 7 Programmi, Wi-Fi, Libera installazio",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Samsung Lavatrice Crystal Clean WW90CGC04DTEET Libera installazione, 9 Kg, Wifi, Ecobubble, Vapore, Carica Frontale, 60l x 85h x 55p cm",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -2247,6 +2261,13 @@
       },
       {
         "title": "Hisense WF5I8043BWF Lavatrice slim a Carica Frontale 8 kg, Classe A-30%, 1400 rpm, 15 Programmi, Connectivity, Vapore, Refresh, Display Touch, Maxi Cestello, Programma Rapido, Alta",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "COMFEE' Lavatrice Ultra Slim 6 kg Classe A-10% Motore BLDC",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -2352,20 +2373,6 @@
       },
       {
         "title": "Smeg LB2T92ASIT lavatrice Caricamento frontale 9 kg 1200 Giri/min Bianco",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Samsung WW90DG5G34AEET lavatrice Caricamento frontale 9 kg 1400 Giri/min Bianco",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Whirlpool Lavatrice smart connessa con WiFi 10 kg WPM 011G ADS IT",
         "merchant": "unieuro",
         "ean": "",
         "mpn": "",
