@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-05T05:27:45+02:00",
+  "generated_at": "2026-10-05T06:37:45+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
     "smartphone-in-offerta": [
       {
-        "title": "REDMI Note 17 Pro 5G, Smartphone 8+512GB, Black, Batteria da 8340 mAh",
+        "title": "OnePlus 10 Pro 5G 12 GB di RAM 256 GB di Archiviazione, smartphone senza SIM Emerald Forest (Ricondizionato)",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "realme 16 Pro+ 5G Smartphone 12+512GB, Grey",
+        "title": "OnePlus 9 Pro 5G Smartphone con Fotocamera Hasselblad, 8 GB RAM + 128 GB, Nero (Stellar Black) (Ricondizionato)",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -217,6 +217,20 @@
       }
     ],
     "migliori-smartphone-sotto-300-euro": [
+      {
+        "title": "OnePlus 10 Pro 5G 12 GB di RAM 256 GB di Archiviazione, smartphone senza SIM Emerald Forest (Ricondizionato)",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "OnePlus 9 Pro 5G Smartphone con Fotocamera Hasselblad, 8 GB RAM + 128 GB, Nero (Stellar Black) (Ricondizionato)",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Ulefone Armor Note 22 Smartphone Offerta Android 16, 20GB+32GB/2TB TF Cellulari Octa-Core, 5.0\", 4G Dual SIM Telefono Cellulare Offerta, WiFi 5G/3.5mm/ Face ID/3 Slot Eer Carte/3 A",
         "merchant": "",
@@ -2088,13 +2102,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "ECOVACS T50 PRO OMNI Gen3 Robot Aspirapolvere Lavapavimenti 25000 Pa",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Lefant M210 PRO OMNI Robot Aspirapolvere Lavapavimenti con Rullo 20.000Pa",
         "merchant": "",
         "ean": "",
@@ -2138,6 +2145,13 @@
       },
       {
         "title": "Lefant M210 Omni Robot Aspirapolvere Lavapavimenti Rullo 20.000Pa",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "ECOVACS T50 PRO OMNI Gen3 Robot Aspirapolvere Lavapavimenti 25000 Pa",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -2528,13 +2542,6 @@
     ],
     "migliori-frigoriferi": [
       {
-        "title": "Samsung EcoFlex AI RB38C672CSA/EF Frigorifero Combinato, WiFi, SpaceMax, Total No Frost, All Around Cooling, Motore Digital Inverter Garantito 20 Anni, 390 L, LxAxP: 59,5 x 203 x 6",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "BEKO RCSA300K40GN - Frigorifero Combinato Libera Installazione 291 Litri, 4 Ripiani in Vetro, Frigo con Congelatore 3 Cassetti, Elettrodomestici Cucina, Classe E, 54L x 181,4H x 57",
         "merchant": "",
         "ean": "",
@@ -2736,6 +2743,13 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
+      },
+      {
+        "title": "Samsung RB38T607BS9 frigorifero Combinato EcoFlex Libera installazione con congelatore 2m 387 L Classe B, Inox",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
       }
     ],
     "friggitrici-ad-aria-offerte-confronto": [
@@ -2875,6 +2889,20 @@
     ],
     "migliori-moda": [
       {
+        "title": "MATEIN Zaino Porta PC 15.6 Pollici, Zaino PC Impermeabile per Università",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "MATEIN Zaino Porta PC Porta Pranzo Termico, Zaino Lavoro Uomo Donna Grande",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "JJXX Abbie Donna Felpa con Cappuccio in Cotone Relaxed Fit, Nera",
         "merchant": "amazon",
         "ean": "",
@@ -2918,13 +2946,6 @@
       },
       {
         "title": "Salomon Original Gearbag Borsa per Scarponi da Sci Unisex, Utilizzo semplice, Resistenza nel tempo ottimizzata, Accesso facile",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Columbia Trail Traveler Marsupio, borsa da viaggio sicura e resistente all'acqua per l'escursionismo",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -3072,13 +3093,6 @@
       },
       {
         "title": "Kricely Scarpe Trail Running Uomo Scarpe Trekking Scarpe da Escursionismo Outdoor Traspirante Scarpe da Ginnastica Fitness Running Sneakers Giallo Fluorescente 40",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "ASOCO DREAM Scarpe da Trail Running Uomo Scarpe da Passeggio Leggero Traspirante Scarpe da Ginnastica Antiscivolo Fitness Running Sneakers,Nero Arancione,45 EU",
         "merchant": "",
         "ean": "",
         "mpn": "",
