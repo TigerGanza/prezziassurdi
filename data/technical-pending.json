@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-05T06:37:45+02:00",
+  "generated_at": "2026-10-05T07:47:45+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -395,7 +395,7 @@
     ],
     "tv-in-offerta": [
       {
-        "title": "TCL 55T69C – Smart TV QLED 4K HDR10+ da 55\", Google TV con Dolby Atmos",
+        "title": "LG OLED evo AI 48 Pollici, Serie G5 2025 Smart TV 4K - OLED48G56LS",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -528,6 +528,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "TCL 55T69C – Smart TV QLED 4K HDR10+ da 55\", Google TV con Dolby Atmos",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Hisense Smart TV QLED 55\" 4K 55E7DS",
         "merchant": "",
         "ean": "",
@@ -596,19 +603,12 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "TCL 65C69BPRO TV 65 Pollici QLED 4K Ultra HD Smart TV, Serie C69B PRO, Google TV, WiFi, HDR, HDMI, USB, Bluetooth, Televisore 4K",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
       }
     ],
     "offerte-tv-55-65-pollici": [
       {
         "title": "TCL 55T69C – Smart TV QLED 4K HDR10+ da 55\", Google TV con Dolby Atmos",
-        "merchant": "amazon",
+        "merchant": "",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
@@ -1331,6 +1331,13 @@
     ],
     "migliori-smartwatch": [
       {
+        "title": "HUAWEI WATCH FIT 5 Smartwatch, Schermo AMOLED HD da 1,82\", Nero",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "2026 Smartwatch Uomo GPS,2.06\" HD AMOLED Orologio Smartwatch con Chiamate",
         "merchant": "",
         "ean": "",
@@ -1381,13 +1388,6 @@
       },
       {
         "title": "Amazfit Active Max 48mm Smartwatch 1,5'' AMOLED, 25 Giorni Autonomia, Mappe Offline, NFC, GPS, 4GB di Memoria, 170+ Sportive, 5 ATM, Monitoraggio Fitness, Sonno & Battito per Andro",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "HUAWEI WATCH FIT 5 Smartwatch, Schermo AMOLED HD da 1,82\", Nero",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -1869,7 +1869,14 @@
     ],
     "cuffie-bluetooth-in-offerta": [
       {
-        "title": "Nothing Ear (3) Auricolari Wireless In-Ear, Cancellazione Adattiva del Rumore, Audio Hi-Res compatibile con LDAC, Super Mic, IP54, Ricarica Rapida, 22 Ore di Autonomia, Android e i",
+        "title": "Philips TAH4209BK Cuffie On-Ear wireless bluetooth leggere con isolamento acustico passivo - 55 ore di riproduzione, suono naturale, chiamate chiare, bassi dinamici, 2 ore di caric",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Uliptz Cuffie Wireless Bluetooth, 65 Ore Autonomia Stereo HiFi Over Ear",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -2070,13 +2077,6 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "Philips TAT1209BK/00 cuffia e auricolare True Wireless Stereo (TWS) In ear Musica e Chiamate Bluetooth Nero",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
       }
     ],
     "migliori-robot-aspirapolvere": [
@@ -2089,13 +2089,6 @@
       },
       {
         "title": "ECOVACS T50 OMNI Gen3 Robot Aspirapolvere Lavapavimenti 25000 Pa",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "ECOVACS T90 MAX OMNI Robot Aspirapolvere Lavapavimenti, Upgrade del T50",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
