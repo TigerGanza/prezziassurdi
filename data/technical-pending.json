@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-05T10:13:02+02:00",
+  "generated_at": "2026-10-05T11:27:45+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -111,21 +111,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "Motorola moto g67 (8/256GB, Fotocamera 50MP+8MP+flicker sensor, Display 6.78\" Extreme AMOLED 120Hz, 5100mAh, MediaTek Dimensity 6300, Android 16), PANTONE Artic Seal",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "realme 14T 8+ 256 GB Telefono 5G, Dual SIM, Chipset 5G Dimensity 6300, Batteria da 5260 mAh, Display eSport AMOLED da 6,67\" a 120 Hz, IP69, NFC, Viola Lightning",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Motorola moto g77 con 3 anni di garanzia (8/256GB, Fotocamera 108+8MP+flicker sensor, Display 6.78\" pOLED 120Hz, 5100mAh, MediaTek Dimensity 6400, Android 16), Shaded Spruce",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -146,6 +132,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "XIAOMI REDMI Note 15, Smartphone 8+256GB, Verde Foresta,6000mAh",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "XIAOMI REDMI NOTE 15 5G (6.77'' - 8/256GB) BLUE",
         "merchant": "",
         "ean": "",
@@ -153,7 +146,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "Samsung Galaxy A27 5G, 128GB, RAM 6GB, Light Pink [Versione Italiana]",
+        "title": "Redmi Note 15 5G 8+256 Black (No power adapter included)",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -195,7 +188,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "Samsung Galaxy A27 5G, 256GB, RAM 8GB, Black [Versione Italiana]",
+        "title": "XIAOMI REDMI Note 14 5G, Smartphone 8+256GB, Verde, Batteria da 5500mAh",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -203,6 +196,13 @@
       },
       {
         "title": "Samsung Galaxy A57 5G 128GB Grey 8GB RAM 5.000mAh",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Samsung Galaxy A57 5G 128Go 8Go RAM 5.000 mAh Awesome Navy",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -316,21 +316,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "Motorola moto g67 (8/256GB, Fotocamera 50MP+8MP+flicker sensor, Display 6.78\" Extreme AMOLED 120Hz, 5100mAh, MediaTek Dimensity 6300, Android 16), PANTONE Artic Seal",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "realme 14T 8+ 256 GB Telefono 5G, Dual SIM, Chipset 5G Dimensity 6300, Batteria da 5260 mAh, Display eSport AMOLED da 6,67\" a 120 Hz, IP69, NFC, Viola Lightning",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Motorola moto g77 con 3 anni di garanzia (8/256GB, Fotocamera 108+8MP+flicker sensor, Display 6.78\" pOLED 120Hz, 5100mAh, MediaTek Dimensity 6400, Android 16), Shaded Spruce",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -351,6 +337,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "XIAOMI REDMI Note 15, Smartphone 8+256GB, Verde Foresta,6000mAh",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "XIAOMI REDMI NOTE 15 5G (6.77'' - 8/256GB) BLUE",
         "merchant": "",
         "ean": "",
@@ -358,7 +351,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "Samsung Galaxy A27 5G, 128GB, RAM 6GB, Light Pink [Versione Italiana]",
+        "title": "Redmi Note 15 5G 8+256 Black (No power adapter included)",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -394,6 +387,13 @@
       },
       {
         "title": "XIAOMI REDMI 15 5G, Smartphone 8+256GB, Verde, Display FHD+ da 6,9\" 144Hz",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "XIAOMI REDMI Note 14 5G, Smartphone 8+256GB, Verde, Batteria da 5500mAh",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -444,7 +444,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "Metz 32 Pollici Smart TV con Google TV Televisore LED, Gen 6 QLED +, HDR 10 Dolby Audio Bluetooth 5,1 EyeCare DVB-T/T2/C/S/S2 Ci+ HEVC Main10 (32MQH7000Z, 2026 Nuovo Modello)",
+        "title": "LG 32LQ63006LA Smart TV 32\" Full HD, TV LED 2022 con Processore α5 Gen 5 con AI, webOS 22, HDR, Wi-Fi, Bluetooth, Game Optimizer, Google Stadia e GeForce NOW, Compatibile con Googl",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -452,13 +452,6 @@
       },
       {
         "title": "Amazon Ember serie 4 da 43\" con Fire TV (ultimo modello), smart TV 4K UHD, HDR10+, processore veloce, Dolby Audio, modalità ambiente, TV in diretta gratuita, trova serie TV più vel",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Samsung 43\" UE43M72HAUXZT Mini LED 4K Smart TV Vision AI 2026",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -493,21 +486,14 @@
         "status": "da_verificare"
       },
       {
+        "title": "Hisense Smart TV QLED 43\" 4K 43A7S",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Amazon Ember serie 4 da 50\" con Fire TV (ultimo modello), smart TV 4K UHD, HDR10+, processore veloce, Dolby Audio, modalità ambiente, TV in diretta gratuita, trova serie TV più vel",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Samsung 50\" UE50M72HAUXZT Mini LED 4K Smart TV Vision AI 2026",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "TCL 50V6D – Smart TV 4K HDR10+ da 50\" con Fire TV e Dolby Atmos",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -535,7 +521,14 @@
         "status": "da_verificare"
       },
       {
-        "title": "TCL 55T69C – Smart TV QLED 4K HDR10+ da 55\", Google TV con Dolby Atmos",
+        "title": "Hisense Smart TV 50\" UHD 4K 50E6ST",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "TCL 50T69C – Smart TV QLED 4K HDR10+ da 50\", Google TV con Dolby Atmos",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -610,16 +603,16 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      }
-    ],
-    "offerte-tv-55-65-pollici": [
+      },
       {
-        "title": "TCL 55T69C – Smart TV QLED 4K HDR10+ da 55\", Google TV con Dolby Atmos",
+        "title": "TCL 65C69BPRO TV 65 Pollici QLED 4K Ultra HD Smart TV, Serie C69B PRO, Google TV, WiFi, HDR, HDMI, USB, Bluetooth, Televisore 4K",
         "merchant": "",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      },
+      }
+    ],
+    "offerte-tv-55-65-pollici": [
       {
         "title": "Hisense Smart TV QLED 55\" 4K 55E7DS",
         "merchant": "",
@@ -742,6 +735,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "HP 250 G9, Notebook Display 15.6'' FHD, Intel Core i5-12th 10 Core 4.4Ghz, Ram 16GB, SSD 512GB, Windows 11",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Alienware 15 Gaming Laptop - Intel Core 5 210H, 16GB RAM, 512GB SSD",
         "merchant": "",
         "ean": "",
@@ -749,21 +749,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "HP Victus 15-fa2001slx, Notebook, Intel Core i5-13450HX, 16 GB RAM, 512 GB SSD, NVIDIA RTX 3050 6GB, 15,6\" FHD IPS 144Hz, Laptop, 720p TNR Cam, FreeDOS 3.0, Portatile, Grigio",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "TULPAR T5 V23.4 Gaming Laptop | 15,6'' FHD 1920X1080 144Hz IPS Display LED | Intel Core i7 12700H | 16GB RAM | 1TB SSD | Nvidia RTX 4060 | Windows 11 | Gaming Notebook",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "HP HyperX OMEN 15-ga0005slx, Notebook, Intel Core 5-210H, 16 GB RAM, 512 GB SSD, NVIDIA RTX 5050 8GB, 15,6\" 2K VRR 165Hz, Laptop, 1080p TNR Cam, FreeDOS 3.0, Portatile, Nero",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -778,6 +764,20 @@
       },
       {
         "title": "msi Cyborg 15 B2RWEKG-080IT, Notebook Gaming 15.6\" FHD 144Hz, Intel Core 7 240H, Nvidia RTX 5050 8GB GDDR7, 1TB PCIe4, 16GB DDR5 5600MHz, WiFi 6E, Win 11 Home [Layout e Garanzia IT",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "HP Victus 15-fa2001slx, Notebook, Intel Core i5-13450HX, 16 GB RAM, 512 GB SSD, NVIDIA RTX 3050 6GB, 15,6\" FHD IPS 144Hz, Laptop, 720p TNR Cam, FreeDOS 3.0, Portatile, Grigio",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "HP Victus 15-fb3000sl, Notebook, AMD Ryzen AI 7 350, 16GB RAM, 1TB SSD, Display 15.6 FHD IPS 144Hz, NVIDIA RTX 5060 8GB, Cam IR TNR 1080p, 3 Mesi di PC Game Pass Inclusi, Windows 1",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -1061,13 +1061,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Lenovo Idea Tab - Tablet Touch con IA integrata 11'' 2.5K, 90Hz (MediaTek Dimensity 6300, 8Core, RAM 8GB, UFS 2.2 128GB, Android 15, Wifi5 + Bluetooth) Lenovo Tab Pen - Grigio",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Samsung Galaxy Tab A11 8.7\" WiFi 128GB Tablet Android, 8GB RAM, 3D Sound, Grigio, 25W Fast Mains Charger, FR Version",
         "merchant": "",
         "ean": "",
@@ -1075,14 +1068,14 @@
         "status": "da_verificare"
       },
       {
-        "title": "Samsung SM-X115 Galaxy Tab A9 8.7'' LTE 8GB RAM 128GB Graphite EU",
+        "title": "Lenovo Idea Tab - Tablet Touch con IA integrata 11'' 2.5K, 90Hz (MediaTek Dimensity 6300, 8Core, RAM 8GB, UFS 2.2 128GB, Android 15, Wifi5 + Bluetooth) Lenovo Tab Pen - Grigio",
         "merchant": "",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "BEYNIVAN Tablet 11 Pollici Android 15 Tablet in Offerta con 4G LTE/5G WiFi, 36GB RAM+256GB ROM,8000mAh,Foto AI 16MP+8MP,Face ID/GPS/BT 5.0/TÜV,tablets con Tastiera,Grigio",
+        "title": "Lenovo Tab Plus, Tablet Display 2K da 11.5\", Processore MediaTek Helio G99, RAM 8GB, Memoria 128GB, WiFi, Tablet Android 13 - Luna Grey, Esclusiva Amazon",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -1111,6 +1104,13 @@
       },
       {
         "title": "Samsung Galaxy Tab A11+ 5G 6+128GB Grau",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Lenovo Tablet Idea Tab 11\" 5G 256GB/8GB + Penna Grigio",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -1182,13 +1182,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "MSI PRO MP275QA E14 Monitor 27\" WQHD, 2560x1440 IPS, 144 Hz, 1 ms",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "LG UltraGear 27GS75Q Monitor Gaming 27\" IPS QHD (2560x1440), 200Hz (OC), 1ms (GtG), G-Sync Compatible, AMD FreeSync, HDR10, HDMI 2.0, DisplayPort 1.4, Flicker Safe, Nero",
         "merchant": "",
         "ean": "",
@@ -1211,6 +1204,13 @@
       },
       {
         "title": "Dell 27 Monitor - SE2726D, QHD (2560x1440), 144Hz, IPS, 1ms MPRT",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "AOC Gaming Monitor Q27G4XF 27 pollici 2560x1440, WQHD, 180Hz, Fast IPS Panel, 1ms GtG, Height Adjustment, (HDMI1x 2.0 DP 1x 1.4) HDR10, G-Sync Compatible, Nero",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -1252,7 +1252,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "Samsung Monitor ViewFinity S7 (S32D702), Flat, 32'', 3840x2160 (UHD 4K), HDR10, 60Hz, 5ms, HDMI, Display Port, Ingresso Audio, PIP, PBP, Easy Setup Stand",
+        "title": "LG 32U721SA Monitor Smart 32\" 4K, HDR, webOS con app di streaming, Wi-Fi, Bluetooth, AirPlay, Screen Share, Browser Internet, Speaker Stereo 10W, USB-C (65W), HDMI, Hub USB, Teleco",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -1294,7 +1294,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "Samsung Monitor HRM ViewFinity S50GC (S34C502), Flat, 34'', 3440x1440 (WQHD), 21:9, HDR10, VA, 100 Hz, 5 ms, FreeSync, HDMI, Display Port, Ingresso Audio, PIP, PBP, Eye Saver Mode,",
+        "title": "AOC Gaming Monitor CU34G4 34 pollici Curvo 3440x1440, UW-QHD, 180Hz, Fast VA Panel, 1ms GtG, Height Adjustment, (HDMI2x 2.0 DP 1x 1.4) HDR10, FreeSync Premium, Nero",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -1443,14 +1443,14 @@
         "status": "da_verificare"
       },
       {
-        "title": "Garmin Forerunner 70, Smartwatch per la corsa, 43mm, GPS multi-band, Display AMOLED, HRV Status, Funzioni di Allenamento Avanzate, Coach, Autonomia fino a 13 giorni (Black)",
+        "title": "Samsung Galaxy Watch Ultra2, 47 mm, Titanium Silver, LTE[Versione Italiana]",
         "merchant": "",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "Samsung Galaxy Watch7 Smartwatch Galaxy AI, Analisi del Sonno, Controllo con doppio avvicinamento di dita, Batteria a lunga durata, GPS, BT, Ghiera Touch in Alluminio 44mm Green [V",
+        "title": "Apple Watch Series 9 GPS 45 mm Alluminio Mezzanotte (Ricondizionato)",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -1564,13 +1564,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "SONY Console PlayStation 5 Edition Digital",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Playstation 5 Console Slim + 1 DualSense White",
         "merchant": "",
         "ean": "",
@@ -1634,6 +1627,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "Nintendo Switch 2017 con Joy-Con - Blu e Rosso (Ricondizionato)",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Console Nintendo Switch – modello OLED, Bianco",
         "merchant": "",
         "ean": "",
@@ -1656,20 +1656,6 @@
       },
       {
         "title": "Nintendo - Console Nintendo Switch - Blu/Rosso Neon [ed. 2021] - schermo LCD 6,2\" - 32GB",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Nintendo Switch 2 Console",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "WD_BLACK SN770M NVMe SSD 2TB (Fino a 5.150MB/s, M.2 2230, PCIe Gen 4.0, TLC 3D NAND, Ideale per console portatili da gaming, Asus ROG Ally, Steam Deck, Microsoft Surface) POWERED B",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -2123,13 +2109,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Lefant M210 Omni Robot Aspirapolvere Lavapavimenti Rullo 20.000Pa",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "ECOVACS T90 PRO OMNI Robot Aspirapolvere Lavapavimenti OZMO ROLLER 30000Pa",
         "merchant": "",
         "ean": "",
@@ -2138,6 +2117,13 @@
       },
       {
         "title": "ECOVACS T50 PRO OMNI Gen3 Robot Aspirapolvere Lavapavimenti 25000 Pa",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "iRobot Roomba® 115 Combo robot aspirapolvere lavapavimenti, 15.000 Pa",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -2159,13 +2145,6 @@
       },
       {
         "title": "XIAOMI X20+ Robot aspirapolvere con lavaggio e panno sollevabile, 6000 Pa",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "roborock Q7 L5+ Robot Aspirapolvere con Stazione Svuotamento Automatico",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -2258,7 +2237,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "Aspirapolvere Senza Fili 50KPa 650W 65Min Autoportante LED, Antigroviglio",
+        "title": "FDUXUD Aspirapolvere Senza Fili 650W/55KPa/70min, 1.8 L, Modalità Uragano",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -2358,14 +2337,14 @@
         "status": "da_verificare"
       },
       {
-        "title": "Candy ProWash 500 Lavatrice 8 Kg, 1400 Giri, Classe A-10%, Bianco",
+        "title": "COMFEE' Lavatrice 9 kg Classe A-10% 1400 Giri Motore Inverter Silenzioso",
         "merchant": "",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "COMFEE' Lavatrice 9 kg Classe A-10% 1400 Giri Motore Inverter Silenzioso",
+        "title": "Hotpoint Ariston NFR89W IT - Lavatrice 9 kg",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -2386,14 +2365,14 @@
         "status": "da_verificare"
       },
       {
-        "title": "Hisense WF1I7022BWJ NUOVA Lavatrice Slim 7 kg, 1200 RPM, 15 Programmi, Display Touch, Motore Inverter, Fine Programmata, AutoMix Dispenser, Classe A, White/Black",
+        "title": "Indesit BWSA 7126X SV IT – Lavatrice 7 Kg, 1200 Giri/min, Classe A",
         "merchant": "",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "Midea Lavatrice Slim 7 kg Classe A 1400 Giri Motore BLDC",
+        "title": "Hisense WF1I7022BWJ NUOVA Lavatrice Slim 7 kg, 1200 RPM, 15 Programmi, Display Touch, Motore Inverter, Fine Programmata, AutoMix Dispenser, Classe A, White/Black",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -2570,13 +2549,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Midea MDRB424FGE02IW 310L Frigorifero Combinato, Libera Installazione, Total No Frost, Ventilazione MultiFlow, Doppia Porta Reversibile, Controllo Touch",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Hisense RB329N4ACE Frigorifero Combinato a libera installazione, Total No frost con ventilazione multiflow, Inox Look, Altezza 180 cm, capacità netta 255 L",
         "merchant": "",
         "ean": "",
@@ -2592,6 +2564,13 @@
       },
       {
         "title": "Samsung EcoFlex AI RB34C775CS9/EF Frigorifero Combinato, WiFi, SpaceMax, Total No Frost, All Around Cooling, Motore Digital Inverter Garantito 20 Anni, 344 L, LxAxP: 59,5 x 185,3 x",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Candy Combined CCH2T618EXBF, Frigorifero Combi, Capacità 293L, Total No Frost, Cassetto Verdolino, Controllo elettronico della temperatura, 60 x 186 cm, Illuminazione LED, Porta Re",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -2761,13 +2740,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Black+Decker – Friggitrice ad Aria BXAF8000E | 2000W | 8 Litri | Doppia Resistenza | 8 Programmi | Funzioni Defrost y Dehydrate | Display Touch | Cestello con finestra | Antiaderen",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Cecotec Friggitrice ad Aria 10L - Air Fryer Cecofry&Grill Duoheat 10000. 2800W, 3in1: Friggitrice, Grill, Piastra. Parete divisoria mobile, Doppia Temp 40-200°C, Cottura uniforme e",
         "merchant": "",
         "ean": "",
@@ -2783,6 +2755,13 @@
       },
       {
         "title": "PremierTech Friggitrice ad Aria 8 Litri Doppio Cestello 8 Programmi PT8LAF",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Ariete 4640/10 Air Fryer Vertical DUO, Friggitrice ad aria doppia verticale, 2460W, 11L, Due cestelli, Sync e Dual, 6 programmi, Funzione Grill, Fino a 200°C",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -2911,41 +2890,6 @@
       },
       {
         "title": "MATEIN Zaino Porta PC Porta Pranzo Termico, Zaino Lavoro Uomo Donna Grande",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "JJXX Abbie Donna Felpa con Cappuccio in Cotone Relaxed Fit, Nera",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "adidas Donna Essentials Linear Full Zip French Terry Hoodie Sweatshirt, Black/White, L",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Only Onlbrooke L/S O-Neck Flower Swt, Felpa Donna, Black/Print:Sleeve Flower, S",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Swarovski Braccialetto Idyllia, Taglio misto, Freccia, Bianco, Placcato rodio",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Equilibra Aloe Contorno Occhi Effetto Lifting 15ml, Riduce Borse e Occhiaie",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -3085,7 +3029,42 @@
         "status": "da_verificare"
       },
       {
+        "title": "Hitmars Scarpe Running Uomo Ginnastica Donna Scarpe da Corsa Trekking Sneakers Trail Sportive Fitness Correre Running Shoes Camminare Verde EU 42",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Donna Scarpe da Running Ginnastica Camminata Sportive Trekking Tennis Trail Jogging Palestra Mesh Basket Sport Outdoor Fitness Sport Platform Sneakers Nero 38 EU",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Reebok Donna Lavante Trail 2 Sneaker, GREY6/ATOMIC Aqua/Dream Purple, 40 EU",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Kricely Scarpe Trail Running Uomo Scarpe Trekking Scarpe da Escursionismo Outdoor Traspirante Scarpe da Ginnastica Fitness Running Sneakers Giallo Fluorescente 40",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "ASOCO DREAM Scarpe da Trail Running Uomo Scarpe da Passeggio Leggero Traspirante Scarpe da Ginnastica Antiscivolo Fitness Running Sneakers,Nero Arancione,45 EU",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Maglietta Divertente Uomo Donna - Non Volevo Venire - Idea Regalo Ironica e Simpatica per Amici, Compleanni, Feste Minimal Frasi Scritte Divertenti Unisex Nera (IT, Testo, XXL, Reg",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -3220,7 +3199,21 @@
         "status": "da_verificare"
       },
       {
+        "title": "Hitmars Scarpe Running Uomo Ginnastica Donna Scarpe da Corsa Trekking Sneakers Trail Sportive Fitness Correre Running Shoes Camminare Verde EU 42",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Donna Scarpe da Running Ginnastica Camminata Sportive Trekking Tennis Trail Jogging Palestra Mesh Basket Sport Outdoor Fitness Sport Platform Sneakers Nero 38 EU",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Reebok Donna Lavante Trail 2 Sneaker, GREY6/ATOMIC Aqua/Dream Purple, 40 EU",
         "merchant": "",
         "ean": "",
         "mpn": "",
