@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-06T01:27:46+02:00",
+  "generated_at": "2026-10-06T02:42:46+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -2721,6 +2721,13 @@
     ],
     "migliori-moda": [
       {
+        "title": "Joia Home 23PRSB02G zaino Zaino da viaggio Grigio Tessuto",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Swiffer Duster, Ricariche Piumini Catturapolvere, 63 Panni, Giga Pack",
         "merchant": "amazon",
         "ean": "",
@@ -2792,13 +2799,6 @@
       },
       {
         "title": "Amazon Essentials Pigiama Unisex in Cotone Aderente per Bambini, Motivo: Orsetto Festivo, 6-7",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Pantaloni della tuta da jogging Gerber per neonati, confezione da 3, verde/nero, 12 mesi",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
