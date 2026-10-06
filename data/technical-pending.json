@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-06T09:31:16+02:00",
+  "generated_at": "2026-10-06T10:41:17+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -381,6 +381,20 @@
     ],
     "tv-in-offerta": [
       {
+        "title": "LG QNED AI MiniLED 50 Pollici, Serie QNED7EB 2026 Smart TV 4K - 50QNED7EB3C",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "LG QNED evo AI MiniLED 65 Pollici, Serie QNED86B 2026 Smart TV 4K - 65QNED86B6B",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "TCL 65PF650 – Smart TV 4K Ultra HD da 65\", Fire TV",
         "merchant": "amazon",
         "ean": "",
@@ -575,23 +589,16 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "XIAOMI TV F 65 2025, 65 pollici (165 cm),4K UHD,Smart TV, Fire TV,Triple Tuner DVB-C/S/S2/T/T2, HDR10,MEMC, Modalità Game Boost 120Hz, Controllo Vocale Alexa, 2GB+32GB, Compatibile",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Samsung 75\" UE75U7000HUXZT Crystal UHD 4K 144Hz, Smart TV Vision AI 2026",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
       }
     ],
     "offerte-tv-55-65-pollici": [
+      {
+        "title": "LG QNED evo AI MiniLED 65 Pollici, Serie QNED86B 2026 Smart TV 4K - 65QNED86B6B",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "TCL 65PF650 – Smart TV 4K Ultra HD da 65\", Fire TV",
         "merchant": "amazon",
@@ -673,13 +680,6 @@
     "migliori-notebook": [
       {
         "title": "ASUS Vivobook 15 F1504MA#B0H25ZD3SC, Notebook con display 15.6\" IPS, Anti-glare, 60Hz,Intel® Core™ 5 Processor 320,RAM 16GB, 512GB SSD, WIN11 Home, Argento",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "ASUS TUF Gaming F16 FX608JMI#B0GQH7ZDN4, Notebook con display 16\" IPS Anti-glare, 144Hz, Intel® Core™ i7 Processor 14650HX, Nvidia GeForce RTX 5060, RAM 16GB, 1TB SSD, WIN11 Home, ",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -2749,6 +2749,13 @@
     ],
     "migliori-moda": [
       {
+        "title": "Champion Beachshorts Costume da Bagno da Uomo, Nero (Kk001), XS",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Rasoio Elettrico Donna 2‑in‑1 per Parti Intime, Epilatore Femminile Lame Ceramiche, Depilatore Motore Potente 7000 giri/min, IPX7 Impermeabile, Ricaricabile USB‑C, per Corpo, Gambe",
         "merchant": "amazon",
         "ean": "",
@@ -2765,13 +2772,6 @@
       {
         "title": "Ansell HyFlex 48-101 Guanti da Lavoro Sottili, Fodera Elastica con Rivestimento in Poliuretano, Protezione Professionale per Usi Generali e Manipolazioni Delicate, Nero, Taglia M (",
         "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Joia Home 23PRSB02G zaino Zaino da viaggio Grigio Tessuto",
-        "merchant": "unieuro",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
