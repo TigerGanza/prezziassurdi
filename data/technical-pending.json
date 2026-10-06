@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-07T00:01:17+02:00",
+  "generated_at": "2026-10-07T01:11:16+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -2169,20 +2169,6 @@
     ],
     "migliori-lavatrici": [
       {
-        "title": "Whirlpool FFB R849 BSV IT - Lavatrice 9 kg",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Whirlpool WAM 76WBC IT – Lavatrice 7 kg",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Bosch WAN28229IT Serie 4 Lavatrice 9kg 1400 giri/min Bianco Classe A",
         "merchant": "",
         "ean": "",
@@ -2373,6 +2359,20 @@
       },
       {
         "title": "Samsung WW90DG5G34AEET lavatrice Caricamento frontale 9 kg 1400 Giri/min Bianco",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Whirlpool Lavatrice smart connessa con WiFi 10 kg WPM 011G ADS IT",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Samsung Lavatrice AI Control Ecodosatore 10Kg WW10FG6U94LBU3",
         "merchant": "unieuro",
         "ean": "",
         "mpn": "",
