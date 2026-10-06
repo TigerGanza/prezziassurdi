@@ -1,10 +1,17 @@
 {
   "version": 1,
-  "generated_at": "2026-10-06T14:21:17+02:00",
+  "generated_at": "2026-10-06T15:31:17+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
     "smartphone-in-offerta": [
+      {
+        "title": "Proiettore [Android 14 & Ottica Corta]Proiettore Portatile Wi-Fi 6 Mini Projector Two-Way Bluetooth 5.4 Pot Rotazione Videoproiettore Controllabile Tramite App per Casa/HDMI/USB/Sm",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Ulefone Armor Note 22 Smartphone Offerta Android 16, 20GB+32GB/2TB TF Cellulari Octa-Core, 5.0\", 4G Dual SIM Telefono Cellulare Offerta, WiFi 5G/3.5mm/ Face ID/3 Slot Eer Carte/3 A",
         "merchant": "",
@@ -207,16 +214,16 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "REDMI Note 17 Pro 5G, Smartphone 8+512GB, Black, Batteria da 8340 mAh",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
       }
     ],
     "migliori-smartphone-sotto-300-euro": [
+      {
+        "title": "Proiettore [Android 14 & Ottica Corta]Proiettore Portatile Wi-Fi 6 Mini Projector Two-Way Bluetooth 5.4 Pot Rotazione Videoproiettore Controllabile Tramite App per Casa/HDMI/USB/Sm",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Ulefone Armor Note 22 Smartphone Offerta Android 16, 20GB+32GB/2TB TF Cellulari Octa-Core, 5.0\", 4G Dual SIM Telefono Cellulare Offerta, WiFi 5G/3.5mm/ Face ID/3 Slot Eer Carte/3 A",
         "merchant": "",
@@ -380,20 +387,6 @@
       }
     ],
     "tv-in-offerta": [
-      {
-        "title": "LG QNED AI MiniLED 50 Pollici, Serie QNED7EB 2026 Smart TV 4K - 50QNED7EB3C",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "LG QNED evo AI MiniLED 65 Pollici, Serie QNED86B 2026 Smart TV 4K - 65QNED86B6B",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Hisense Smart TV 32\" HD Ready 32E4ST",
         "merchant": "",
@@ -589,16 +582,23 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      }
-    ],
-    "offerte-tv-55-65-pollici": [
+      },
       {
-        "title": "LG QNED evo AI MiniLED 65 Pollici, Serie QNED86B 2026 Smart TV 4K - 65QNED86B6B",
-        "merchant": "amazon",
+        "title": "XIAOMI TV F 65 2025, 65 pollici (165 cm),4K UHD,Smart TV, Fire TV,Triple Tuner DVB-C/S/S2/T/T2, HDR10,MEMC, Modalità Game Boost 120Hz, Controllo Vocale Alexa, 2GB+32GB, Compatibile",
+        "merchant": "",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
+      {
+        "title": "Samsung 75\" UE75U7000HUXZT Crystal UHD 4K 144Hz, Smart TV Vision AI 2026",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      }
+    ],
+    "offerte-tv-55-65-pollici": [
       {
         "title": "TCL 55T69C – Smart TV QLED 4K HDR10+ da 55\", Google TV con Dolby Atmos",
         "merchant": "",
@@ -1394,7 +1394,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "2026 Nuovo Smartwatch da Uomo con Chiamate Bluetooth, ECG, PPG, Orologio Sportivo da Esterno, Impermeabile IP68, Torcia, Tracker Fitness, Display da 1,7 Pollici, Batteria Grande da",
+        "title": "Smartwatch Donna Oro Rosa Lusso Schermo Rotondo 1,39\" Chiamata Bluetooth Impermeabile IP67 Monitor Battito Cardiaco SpO2 Sonno Orologio Fitness Elegante Regalo per iOS Android",
         "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
@@ -2742,6 +2742,13 @@
     ],
     "migliori-moda": [
       {
+        "title": "21J Epilatore Luce Pulsata con Raffreddamento a Ghiaccio 8°C, Epilatore Laser a 9 Livelli e Luce Rossa 600NM, Epilatore a Luce Pulsata Touchscreen per Uomini,Donne,Viso, Braccia, Z",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Un Barista Non Invecchia Ma Migliora Barman Maglietta",
         "merchant": "amazon",
         "ean": "",
@@ -2750,13 +2757,6 @@
       },
       {
         "title": "tillvex Gazebo 3x3m impermeabile | Gazebo pieghevole pop-up regolabile in altezza | Tenda da giardino protezione UV 50+ | Tenda Padiglione con borsa (Bianco)",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Champion Beachshorts Costume da Bagno da Uomo, Nero (Kk001), XS",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
