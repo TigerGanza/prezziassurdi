@@ -1,17 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-10-06T07:06:17+02:00",
+  "generated_at": "2026-10-06T08:16:16+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
     "smartphone-in-offerta": [
-      {
-        "title": "realme 16 Pro+ 5G Smartphone 12+512GB, Gold",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Ulefone Armor Note 22 Smartphone Offerta Android 16, 20GB+32GB/2TB TF Cellulari Octa-Core, 5.0\", 4G Dual SIM Telefono Cellulare Offerta, WiFi 5G/3.5mm/ Face ID/3 Slot Eer Carte/3 A",
         "merchant": "",
@@ -210,6 +203,13 @@
       },
       {
         "title": "Samsung Galaxy A36 256GB 5G Android 15 Smartphone 8GB RAM AI Display 6.7'' Super AMOLED Fotocamera 50MP 5.000 mAh (Nero)",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "REDMI Note 17 Pro 5G, Smartphone 8+512GB, Black, Batteria da 8340 mAh",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -907,6 +907,20 @@
     ],
     "migliori-tablet": [
       {
+        "title": "P10 Pro Tablet Android 16, Tablet 10 Pollici con Gemini AI, 120Hz, Octa-Core T7250, 48GB RAM+128GB ROM/2TB TF, 8800mAh, 13MP+5MP, Face ID/GPS/FM/Jack 3,5 mm, Tablets con Tastiera e",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Tablet Android 15 Gemini AI 10 pollici,30GB+64GB,6000mAh,Widevine L1, Viola",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Tablet Android da 11 Pollici, Octa-Core, 24GB(4+20) RAM+128GB Memoria, Batteria 8200mAh, Widevine L1, Espandibile fino a 1TB, Doppia Fotocamera, Android Tablet per Studio, Lavoro e",
         "merchant": "",
         "ean": "",
@@ -1020,6 +1034,13 @@
       }
     ],
     "migliori-monitor": [
+      {
+        "title": "Gawfolk Monitor PC da gioco curvo ultra‑wide UWQHD da 34 pollici, 165Hz",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Boifun Baby Monitor con Telecamera Rotante 360° HD, Schermo IPS 5”, Audio Bidirezionale, Rilevamento Temperatura, Batteria 3050mAh, Zoom 3X, Visione Notturna,Modalità VOX, Ninne Na",
         "merchant": "amazon",
@@ -1218,13 +1239,6 @@
       },
       {
         "title": "DMD Nuovo Mouse Touch Multimediale per Auto Aggiornato per Mercedes Benz Classe C 2015 2018, Interruttore di Controllo Pad, Accessori per Monitor Auto",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Per Mercedes Benz Classe C GLC Classe G Classe E 2015 2019 1PC Tappetino Touch Mouse Multimediale per Auto Interruttore di Controllo Nuovo Accessorio Monitor Auto Aggiornato",
         "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
@@ -2190,13 +2204,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Samsung Lavatrice Crystal Clean WW90CGC04DTEET Libera installazione, 9 Kg, Wifi, Ecobubble, Vapore, Carica Frontale, 60l x 85h x 55p cm",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Bosch WAN28229IT Serie 4 Lavatrice 9kg 1400 giri/min Bianco Classe A",
         "merchant": "",
         "ean": "",
@@ -2380,6 +2387,13 @@
       },
       {
         "title": "Smeg LB2T92ASIT lavatrice Caricamento frontale 9 kg 1200 Giri/min Bianco",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Samsung WW90DG5G34AEET lavatrice Caricamento frontale 9 kg 1400 Giri/min Bianco",
         "merchant": "unieuro",
         "ean": "",
         "mpn": "",
@@ -2763,27 +2777,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Pantaloni della tuta da jogging Gerber per bambino, confezione da 3, verde/nero, 18 mesi",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "LOKLiK iCraft Plotter Machine - Macchina da taglio per personalizzare tessuti, tazze, borse, adesivi e decorazioni. Funziona con film flex, carta, pelle, cartone e altro. (Blu)",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "AiQInu Organizer Valigia 10 Pezzi Set, Packing Cube Set Viaggio Organizer Salvaspazio per Vestiti,Scarpe,Intimo,Prodotti Cosmetici",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
         "ean": "",
@@ -2932,6 +2925,27 @@
       },
       {
         "title": "ASOCO DREAM Scarpe da Trail Running Uomo Scarpe da Passeggio Leggero Traspirante Scarpe da Ginnastica Antiscivolo Fitness Running Sneakers,Nero Arancione,39 EU",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Kricely Scarpe Trail Running Uomo Scarpe Trekking Scarpe da Escursionismo Outdoor Traspirante Scarpe da Ginnastica Fitness Running Sneakers Giallo Fluorescente 40",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Magliette Divertenti Scritte Ironiche - Essere Normale Maglietta",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "T-shirt cotone personalizzabile, maglia unisex personalizzata con stampa per Uomo e Donna, maglietta personalizzata su richiesta 100% made in Italy",
         "merchant": "",
         "ean": "",
         "mpn": "",
