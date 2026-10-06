@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-06T11:51:17+02:00",
+  "generated_at": "2026-10-06T13:01:17+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -1021,13 +1021,6 @@
     ],
     "migliori-monitor": [
       {
-        "title": "Gawfolk Monitor PC da gioco curvo ultra‑wide UWQHD da 34 pollici, 165Hz",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Lenovo Notebook Ram 16GB CPU Intel i5-1342H Monitor 15.6\" Full HD SSD 512 GB LAN, HDMI, USB Win 11 Pro e Libre Office Pc portatile pronto all'uso - Colore Nero",
         "merchant": "",
         "ean": "",
@@ -1226,6 +1219,13 @@
       {
         "title": "Dopesplay Monitor portatile da 15,6 pollici FHD 1080P IPS Extender schermo esterno Monitor plug play per laptop Switch Gaming Mac",
         "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "OMEN by HP Monitor da gaming 27'' FHD 240 Hz – OMEN 27s",
+        "merchant": "unieuro",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
@@ -1948,20 +1948,6 @@
     ],
     "migliori-robot-aspirapolvere": [
       {
-        "title": "dreame L40s Pro Ultra Robot Aspirapolvere Lavapavimenti, Aspiraz. 19.000 Pa",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "MONSGA Robot Aspirapolvere Lavapavimenti 3-in-1, 5000Pa, Autonomia 140min",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Lefant M210 PRO OMNI Robot Aspirapolvere Lavapavimenti con Rullo 20.000Pa",
         "merchant": "",
         "ean": "",
@@ -2183,6 +2169,13 @@
     ],
     "migliori-lavatrici": [
       {
+        "title": "Haier, I-Pro Serie 3, HW80-B14939-IT, Lavatrice a carica frontale, 8 KG, Classe A, 1400 giri, 67dB, Vapore, 14 programmi, Partenza ritardata, Bianco, AxLxP 85x59,5x62 cm",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Bosch WAN28229IT Serie 4 Lavatrice 9kg 1400 giri/min Bianco Classe A",
         "merchant": "",
         "ean": "",
@@ -2384,16 +2377,16 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "Samsung Lavatrice AI Control Ecodosatore 10Kg WW10FG6U94LBU3",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
       }
     ],
     "migliori-frigoriferi": [
+      {
+        "title": "Haier Cube 83 Serie 3 Frigorifero Multidoor 4 Porte 467 Litri, No Frost",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "BEKO RCSA300K40GN - Frigorifero Combinato Libera Installazione 291 Litri, 4 Ripiani in Vetro, Frigo con Congelatore 3 Cassetti, Elettrodomestici Cucina, Classe E, 54L x 181,4H x 57",
         "merchant": "",
@@ -2596,25 +2589,18 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "Samsung RB38T607BS9 frigorifero Combinato EcoFlex Libera installazione con congelatore 2m 387 L Classe B, Inox",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
       }
     ],
     "friggitrici-ad-aria-offerte-confronto": [
       {
-        "title": "LEHMANN Friggitrice ad Aria 8 Litri, Air Fryer XXL con Inserto Divisorio per Doppio Scomparto, Finestra di Visualizzazione, 12 Programmi & Regolazione Manuale 76–200°C, Lavabile in",
-        "merchant": "",
+        "title": "Moulinex Easy Fry XL Surface, Friggitrice ad Aria 1 kg, Nero, AL4018",
+        "merchant": "amazon",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "Moulinex Easy Fry XL Surface, Friggitrice ad Aria 1 kg, Nero, AL4018",
+        "title": "LEHMANN Friggitrice ad Aria 8 Litri, Air Fryer XXL con Inserto Divisorio per Doppio Scomparto, Finestra di Visualizzazione, 12 Programmi & Regolazione Manuale 76–200°C, Lavabile in",
         "merchant": "",
         "ean": "",
         "mpn": "",
