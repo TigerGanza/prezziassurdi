@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-07T11:07:18+02:00",
+  "generated_at": "2026-10-07T12:17:19+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -381,6 +381,13 @@
     ],
     "tv-in-offerta": [
       {
+        "title": "Haier Smart TV 43\" QLED 4K UHD, Google TV, HDR10",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "TCL 32SF560 – Smart TV Full HD QLED HDR da 32\", Fire TV",
         "merchant": "",
         "ean": "",
@@ -582,13 +589,6 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "XIAOMI TV F 65 2025, 65 pollici (165 cm),4K UHD,Smart TV, Fire TV,Triple Tuner DVB-C/S/S2/T/T2, HDR10,MEMC, Modalità Game Boost 120Hz, Controllo Vocale Alexa, 2GB+32GB, Compatibile",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
       }
     ],
     "offerte-tv-55-65-pollici": [
@@ -785,13 +785,6 @@
       }
     ],
     "migliori-pc-desktop": [
-      {
-        "title": "Dell 27 All-in-One Desktop - Intel Core 7 150U, 16GB RAM, 1TB SSD",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Betashop PC Fisso Completo - Computer Desktop i7-4790 • RAM 32GB • SSD 1TB (512 SSD + 512HDD) • Grafica Integrata HD 430 • Wi-Fi • Masterizzatore DVD • HDMI • USB 3.0 • Windows 11 ",
         "merchant": "",
@@ -1948,6 +1941,27 @@
     ],
     "migliori-robot-aspirapolvere": [
       {
+        "title": "ECOVACS X12S OMNICYCLONE Care kit Robot Aspirapolvere Lavapavimenti",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "ECOVACS T90 MAX PRO Robot Aspirapolvere Lavapavimenti 40.000 Pa",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "ECOVACS T90 PRO OMNI Care Kit Robot Aspirapolvere Lavapavimenti 30000 Pa",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Lefant M210 PRO OMNI Robot Aspirapolvere Lavapavimenti con Rullo 20.000Pa",
         "merchant": "",
         "ean": "",
@@ -2756,13 +2770,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Buff® | Original EcoStretch Scaldacollo Nero per Uomo Donna Adulto Sciarpa Tubolare Multifunzione per Collo e Testa per Correre e Camminare Ideale per Escursionismo e Running, Sost",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
         "ean": "",
@@ -2932,6 +2939,13 @@
       },
       {
         "title": "Marvel Avengers Team Retro Comic Vintage Maglietta",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "VENEZIANO T-Shirt Cotone Personalizzabile, Maglia Unisex Personalizzata con Stampa per Uomo e Donna, Maglietta Personalizzata su Richiesta 100% Made in Italy",
         "merchant": "",
         "ean": "",
         "mpn": "",
