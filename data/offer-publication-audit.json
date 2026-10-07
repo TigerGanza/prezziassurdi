@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-07T03:36:17+02:00",
+  "generated_at": "2026-10-07T04:46:16+02:00",
   "checked_offers": 100,
   "ready_cards": 100,
   "quarantined_cards": 0,
@@ -8,7 +8,7 @@
   "invalid_links": 0,
   "prices_over_48h": 0,
   "without_check_time": 0,
-  "possible_price_errors": 7,
+  "possible_price_errors": 9,
   "verified_price_errors": 0,
   "policy": "L'audit controlla i dati disponibili nel feed e nelle offerte pubblicate. Non effettua verifiche HTTP massive sui negozi e non nasconde automaticamente possibili errori di prezzo."
 }
