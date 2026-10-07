@@ -1,5 +1,22 @@
 [
   {
+    "asin": "B0GDXB1LGY",
+    "title": "Wasa Protein+, Fette Croccanti, Ricche di Proteine 20g per 100g, con Semi di Lino, Semi di Papavero e Sale Marino, 200g (Confezione da 6)",
+    "price": 11.34,
+    "old_price": 21.84,
+    "discount": 48.0,
+    "image": "https://m.media-amazon.com/images/I/51817josOmL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0GDXB1LGY?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "cibo",
+    "macro_group": "spesa_bevande",
+    "seasonal_title": "",
+    "published_at": "2026-10-07T06:35:51.685317+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B0DLBMDQFY",
     "title": "NIVEA Crema Corpo Nutriente al Burro di Cacao, 400 ml",
     "price": 5.25,
@@ -2437,48 +2454,5 @@
     "source_external_id": "",
     "quality_status": "ready",
     "quality_issues": []
-  },
-  {
-    "asin": "B0DHSBBV6R",
-    "title": "LEGO Speed Champions Auto da corsa F1 Ferrari SF-24-77242",
-    "price": 18.89,
-    "old_price": 26.99,
-    "discount": 30.0,
-    "image": "https://m.media-amazon.com/images/I/51CDBilTucL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0DHSBBV6R?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "bambini_giochi",
-    "macro_group": "famiglia_animali",
-    "seasonal_title": "",
-    "published_at": "2026-10-06T21:21:04.121981+02:00",
-    "source_merchant": "amazon",
-    "source_external_id": "",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "mediaworld",
-        "merchant_name": "MediaWorld",
-        "merchant_id": "18529",
-        "product_id": "575965",
-        "awin_product_id": "44723057124",
-        "title": "COSTRUZIONI LEGO Speed Champions Auto da corsa LEGO® F1 ACADEMY™ - 77258",
-        "brand": "Lego",
-        "ean": "5702018068267",
-        "mpn": "77258",
-        "price": 24.49,
-        "old_price": 27.49,
-        "discount": 10.9,
-        "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_173746531/fee_786_587_png",
-        "url": "https://www.awin1.com/pclick.php?p=44723057124&a=3086723&m=18529",
-        "category": "Giocattoli, Outdoor e Fitness;LEGO;LEGO Altre serie",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {}
-      }
-    ],
-    "merchant_match_score": 94,
-    "merchant_ean": "5702018068267",
-    "merchant_prices_checked_at": "2026-10-06T21:19:16.587193+02:00"
   }
 ]
