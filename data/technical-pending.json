@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-07T23:11:31+02:00",
+  "generated_at": "2026-10-08T00:31:36+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -686,6 +686,20 @@
     ],
     "migliori-notebook": [
       {
+        "title": "Acer Nitro V 17 AI | Notebook Gaming | 17.3\" | Ryzen 7 | NVIDIA RTX 5070",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Acer Nitro V 16 | Notebook Gaming | 16\" | Core 9 | RTX 5060 | 16GB | 512GB",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "ASUS Vivobook 16 F1605VA#B0FZL8JLW9, Notebook con display 16\" Anti-glare, 60Hz,Intel® Core™ 9 Processor 270H,RAM 16GB, 1TB SSD, WIN11 Home, Argento",
         "merchant": "",
         "ean": "",
@@ -1169,13 +1183,6 @@
       },
       {
         "title": "AOC Gaming CU34G2XPD - Monitor curvo da 34 pollici WQHD, 180 Hz, 1 ms, FreeSync Premium (3440x1440, HDMI, DisplayPort, hub USB) nero/rosso",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "msi MAG 27CQ6F Monitor Gaming da 27\" WQHD Curvo - Pannello VA Rapid 1500R (2560 x 1440), 180 Hz / 0.5ms (GtG, Min.), Adaptive-Sync - DP 1.4a, HDMI 2.0b CEC",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -2903,6 +2910,20 @@
     ],
     "migliori-moda": [
       {
+        "title": "Asics Game FF Padel Sneaker",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "RingConn Gen 2 Air Smart Ring, Anello Intelligente AI Ultra Sottile, 10 Giorni di Batteria, Tracker Fitness/Stress/Frequenza Cardiaca per Donne e Uomini, iOS/Android Compatibile (G",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Lamicall Occhiali da Sole Ciclismo Polarizzati [24g Ultraleggero]Anti-UV400",
         "merchant": "amazon",
         "ean": "",
@@ -2918,20 +2939,6 @@
       },
       {
         "title": "PUMA Cilia Mode, Sneaker Donna, Black Silver, 39 EU",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Columbia Powder Lite II, Giacca con Cappuccio da Donna",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "O'NEAL | Guanti Moto & Motocross | MX MTB FR Downhill | Vestibilità, Materiale Permeabile all'Aria | Guanto Element RACEWEAR V.24 | Adulti | Nero | Taglia L",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -3114,6 +3121,13 @@
       }
     ],
     "migliori-sneakers": [
+      {
+        "title": "Asics Game FF Padel Sneaker",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "PUMA Cilia Mode, Sneaker Donna, Black Silver, 39 EU",
         "merchant": "amazon",
