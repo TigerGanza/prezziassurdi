@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-07T21:46:29+02:00",
+  "generated_at": "2026-10-07T23:11:31+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -167,7 +167,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "XIAOMI REDMI 15 5G, Smartphone 8+256GB, Verde, Display FHD+ da 6,9\" 144Hz",
+        "title": "realme P3 5G Smartphone 12+512 GB",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -379,7 +379,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "XIAOMI REDMI 15 5G, Smartphone 8+256GB, Verde, Display FHD+ da 6,9\" 144Hz",
+        "title": "realme P3 5G Smartphone 12+512 GB",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -940,13 +940,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "CyberpowerPC Luxe PC Gaming - Intel Core i7-12700KF, Nvidia RTX 5070 12GB, 32GB RAM, 1TB NVMe SSD, 650W 80+ PSU, Wi-Fi, RGB Raffreddatore per CPU a liquido, Windows 11, V100R RGB",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "GMKtec Mini PC Ryzen - AMD Ryzen 5 3500U (4C/8T, 4.5GHz) | NucBox G10 | 16 GB DDR4 + 256 GB SSD | Win 11 Pro | WiFi 5, USB 3.2, USB-C, BT 5.0 | Mini computer per ufficio",
         "merchant": "",
         "ean": "",
@@ -1019,28 +1012,14 @@
     ],
     "migliori-tablet": [
       {
+        "title": "Gleeso Tablet 10 Pollici｜Tablet con Android 16｜Android Tablet con 24GB RAM 1TB TF｜6000mAh｜Sblocco Facciale｜BT 5.4/WiFi 5G｜8MP Fotocamera, Portatile Tablet per Studenti e Aziende - ",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "HONOR Pad X8b (4/128GB) WIFI SPACE GRAY",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Microsoft Surface Pro (alimentatore non incluso) | Copilot+ PC | 13” OLED Touchscreen | Snapdragon® X Elite | 16GB RAM | 1TB SSD | Ultimo modello 11esima edizione | Nero",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Microsoft Surface Pro, 13\" | Snapdragon X2 Elite | 16GB RAM, 512GB SSD",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Microsoft Surface Pro | 13\" OLED | Snapdragon® X2 Plus (10 Core) | 16GB di RAM | 256GB di SSD | Platino | Dispositivo + Tastiera + Slim Pen | Windows 11 Home | Ultimo modello (12ª ",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -1266,13 +1245,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Dell 27 Plus USB-C Monitor - S2725DC, QHD (2560x1440), 144Hz, IPS, 1ms MPRT",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Lenovo LOQ 27Q-10 Monitor Gaming 27\" 180Hz, 0.5 ms, IPS QHD 2K (2560x1440) AMD FreeSync Premium, DP 1.4, 2x HDMI 2.1, Regolabile, VESA 100x100 - Ideale per Esport, FPS e Console",
         "merchant": "",
         "ean": "",
@@ -1288,6 +1260,13 @@
       },
       {
         "title": "Philips Gaming Monitor 27M2N3500NF 27 pollici, , 2560x1440, WQHD, 144Hz, IPS Panel, 0.5ms MPRT, , (HDMI1x 2.0 DP 1x 1.4) Adaptive Sync, HDR10, G-Sync Compatible, Grigio Scuro",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Dell 27 Monitor - SE2726D, QHD (2560x1440), 144Hz, IPS, 1ms MPRT",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -1478,6 +1457,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "Garmin vívoactive 6, Esclusiva Amazon, 42mm, Smartwatch GPS, Pebble Grey",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Garmin Forerunner 55, 42mm. Smartwatch GPS per la Corsa, Black",
         "merchant": "",
         "ean": "",
@@ -1506,14 +1492,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "Garmin Instinct 3 Solar, 45mm, Smartwatch GPS Ultra Resistente, Black",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Samsung Galaxy Watch7 Smartwatch Galaxy AI, Analisi del Sonno, Controllo con doppio avvicinamento di dita, Batteria a lunga durata, GPS, BT, Ghiera Touch in Alluminio 44mm Green [V",
+        "title": "Garmin Forerunner 265, Smartwatch per la corsa, 46mm, GPS multi-band, Display AMOLED, VO2max, HRV Status, Dinamiche di corsa al polso, Tempi di recupero, Autonomia fino a 13 giorni",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -1918,13 +1897,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Soundcore di Anker P31i Cuffie Bluetooth con Cancellazione Adattiva Rumore",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Xiaomi Redmi Buds 8, Cuffie Bluetooth, 50dB ANC, 11h+44h Batteria, Nero",
         "merchant": "",
         "ean": "",
@@ -2119,6 +2091,13 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
+      },
+      {
+        "title": "Philips TAT1209BK/00 cuffia e auricolare True Wireless Stereo (TWS) In ear Musica e Chiamate Bluetooth Nero",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
       }
     ],
     "migliori-robot-aspirapolvere": [
@@ -2194,6 +2173,13 @@
       },
       {
         "title": "Vexilar W8 Robot Aspirapolvere Lavapavimenti 8,000Pa 2,5 Ore, Silenzioso Aspirapolvere Robot Potente per Pavimenti/Tappeti,Controllo Vocale/APP/Telecomando",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Tapo RV30 Max Robot Aspirapolvere Lavapavimenti con Mappatura 5300Pa, Doppia Navigazione LiDAR +IMU, Zone No-Go e Muri Virtuali, Controllo APP&Alexa&Google, Arrampicarsi fino a 22m",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -2917,6 +2903,27 @@
     ],
     "migliori-moda": [
       {
+        "title": "Lamicall Occhiali da Sole Ciclismo Polarizzati [24g Ultraleggero]Anti-UV400",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Skechers Uno Stand On Air, Scarpe da ginnastica Donna, Off White Durabuck, 37 EU",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "PUMA Cilia Mode, Sneaker Donna, Black Silver, 39 EU",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Columbia Powder Lite II, Giacca con Cappuccio da Donna",
         "merchant": "amazon",
         "ean": "",
@@ -2925,13 +2932,6 @@
       },
       {
         "title": "O'NEAL | Guanti Moto & Motocross | MX MTB FR Downhill | Vestibilità, Materiale Permeabile all'Aria | Guanto Element RACEWEAR V.24 | Adulti | Nero | Taglia L",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Skechers Graceful Get Connected, Sneaker Donna, Black Mesh Trim, 37 EU",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -3111,25 +3111,11 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "VENEZIANO T-Shirt Cotone Personalizzabile, Maglia Unisex Personalizzata con Stampa per Uomo e Donna, Maglietta Personalizzata su Richiesta 100% Made in Italy",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "WORLD SELL T-Shirt Uomo/Donna Personalizzata Fronte e Retro – 100% Cotone – Made in Italy – Maglietta Personalizzabile con Testo, Logo o Immagine (IT, Testo, S, Regular, Regular, N",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
       }
     ],
     "migliori-sneakers": [
       {
-        "title": "Skechers Graceful Get Connected, Sneaker Donna, Black Mesh Trim, 37 EU",
+        "title": "PUMA Cilia Mode, Sneaker Donna, Black Silver, 39 EU",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
