@@ -2380,9 +2380,44 @@ body{background:var(--pa-v5-bg)!important}
 <!-- PA_PRIME_EVENT_2026_STYLE_START -->
 <style id="pa-prime-event-2026-style">.pa-prime-event-strip{display:flex;align-items:center;justify-content:space-between;gap:18px;margin:14px 0;padding:15px 18px;border:1px solid #f0cb48;border-radius:17px;background:linear-gradient(112deg,#0b1c34,#16426d);color:#fff;box-shadow:0 12px 28px rgba(11,28,52,.14)}.pa-prime-event-strip b{display:block;font-size:17px;letter-spacing:-.4px}.pa-prime-event-strip span{display:block;margin-top:3px;color:#dae7f5;font-size:11px;line-height:1.35}.pa-prime-event-actions{display:flex;gap:8px;flex-wrap:wrap;justify-content:flex-end}.pa-prime-event-actions a{display:inline-flex;align-items:center;justify-content:center;min-height:38px;padding:0 12px;border-radius:9px;background:#ffe018;color:#101827!important;text-decoration:none;font-size:10px;font-weight:950;white-space:nowrap}.pa-prime-event-actions a.secondary{border:1px solid rgba(255,255,255,.35);background:transparent;color:#fff!important}@media(max-width:700px){.pa-prime-event-strip{align-items:flex-start;flex-direction:column;gap:11px}.pa-prime-event-actions{justify-content:flex-start;width:100%}}</style>
 <!-- PA_PRIME_EVENT_2026_STYLE_END -->
+<!-- PA_SEASONAL_SITE_STYLE_START -->
+<style id="pa-seasonal-site-style">
+body[data-pa-season="halloween"]{--pa-season-paper:#fcf5ee;--pa-season-dark:#1b1227;--pa-season-surface:#382148;--pa-season-accent:#ffbc60;--pa-season-ink:#241628}
+
+body[data-pa-season] {--yellow:var(--pa-season-accent);--pa-v5-yellow:var(--pa-season-accent);--pa-v5-blue:var(--pa-season-dark);--pa-v5-blue2:var(--pa-season-surface)}
+body[data-pa-season][data-pa-layout="home"] {background:var(--pa-season-paper)!important}
+body[data-pa-season] > header {border-bottom:3px solid var(--pa-season-accent)!important}
+body[data-pa-season][data-pa-layout="page"] > header {background:var(--pa-season-dark)!important;color:#fff!important}
+body[data-pa-season][data-pa-layout="page"] > header a {color:#fff!important}
+body[data-pa-season] .hero-main {background:radial-gradient(circle at 88% 10%,#ffffff15,transparent 36%),linear-gradient(135deg,var(--pa-season-dark),var(--pa-season-surface))!important}
+body[data-pa-season] .hero-main h1 span {color:var(--pa-season-accent)!important}
+body[data-pa-season][data-pa-layout="page"] .hero::after {background:linear-gradient(90deg,var(--pa-season-dark),var(--pa-season-surface))!important;opacity:.88}
+body[data-pa-season] .top-choices-wrap,body[data-pa-season] .guide-band {border-color:var(--pa-season-accent)!important}
+body[data-pa-season] .pa-v5-social-footer {background:linear-gradient(135deg,var(--pa-season-dark),var(--pa-season-surface))!important}
+body[data-pa-season] .card .buy,body[data-pa-season] .feature .deal-buy,body[data-pa-season] .amazon-search-btn {background:var(--pa-season-accent)!important;color:var(--pa-season-ink)!important}
+body[data-pa-season] .pa-v5-header-search:focus-within {border-color:var(--pa-season-dark)}
+body[data-pa-season] .pa-season-banner,body[data-pa-season] .pa-season-banner * {box-sizing:border-box}
+body[data-pa-season] .pa-season-banner {position:relative;isolation:isolate;display:flex;align-items:center;gap:20px;width:100%;max-width:100%;margin:0 0 22px;padding:22px 26px;border:1px solid var(--pa-season-accent);border-radius:20px;background:linear-gradient(115deg,var(--pa-season-dark),var(--pa-season-surface));color:#fff;overflow:hidden}
+body[data-pa-season] .pa-season-art {flex:0 0 72px;width:72px;height:72px;display:flex;align-items:center;justify-content:center;border-radius:20px;background:#ffffff0d;color:var(--pa-season-accent)}
+body[data-pa-season] .pa-season-art svg {display:block;width:56px!important;height:56px!important;max-width:none!important;max-height:none!important}
+body[data-pa-season] .pa-season-copy {flex:1 1 300px;min-width:0}
+body[data-pa-season] .pa-season-kicker {display:block;margin:0 0 5px;color:var(--pa-season-accent);font:800 10px/1.5 system-ui,sans-serif;letter-spacing:1.3px;text-transform:uppercase}
+body[data-pa-season] .pa-season-title {display:block;margin:0;color:#fff!important;font:800 24px/1.2 system-ui,sans-serif;letter-spacing:-.5px;overflow-wrap:anywhere}
+body[data-pa-season] .pa-season-description {display:block;margin:7px 0 0;color:#f3f3f6!important;font:400 13px/1.55 system-ui,sans-serif;max-width:70ch;overflow-wrap:anywhere}
+body[data-pa-season] .pa-season-link {display:flex;align-items:center;justify-content:center;flex:0 0 auto;min-height:46px;padding:12px 18px;border-radius:12px;background:var(--pa-season-accent)!important;color:var(--pa-season-ink)!important;font:800 12px/1.4 system-ui,sans-serif;text-decoration:none!important;text-align:center;white-space:normal}
+body[data-pa-season] .pa-season-link:focus-visible {outline:3px solid #fff;outline-offset:4px}
+body[data-pa-season] .pa-season-link:hover {box-shadow:0 0 0 3px #ffffff40}
+body[data-pa-season] .pa-season-topics {display:flex;flex-wrap:wrap;gap:9px;margin:18px 0 24px}
+body[data-pa-season] .pa-season-topics a {display:inline-flex;align-items:center;min-height:44px;padding:10px 14px;border:1px solid var(--pa-season-accent);border-radius:12px;background:var(--pa-season-dark);color:#fff!important;font:700 12px/1.4 system-ui,sans-serif;text-decoration:none}
+body[data-pa-season] .pa-season-topics a:focus-visible {outline:3px solid var(--pa-season-accent);outline-offset:3px}
+@media(max-width:800px){body[data-pa-season] .pa-season-banner{flex-wrap:wrap;padding:20px;gap:14px}body[data-pa-season] .pa-season-copy{flex-basis:calc(100% - 90px)}body[data-pa-season] .pa-season-link{flex:1 1 100%}}
+@media(max-width:480px){body[data-pa-season] .pa-season-banner{padding:16px;gap:12px;border-radius:16px}body[data-pa-season] .pa-season-art{flex-basis:48px;width:48px;height:48px;border-radius:13px}body[data-pa-season] .pa-season-art svg{width:38px!important;height:38px!important}body[data-pa-season] .pa-season-copy{flex-basis:calc(100% - 60px)}body[data-pa-season] .pa-season-title{font-size:21px}body[data-pa-season] .pa-season-kicker{font-size:9px;letter-spacing:.7px}}
+@media print{body[data-pa-season] .pa-season-banner{display:none}}
+</style>
+<!-- PA_SEASONAL_SITE_STYLE_END -->
 </head>
 
-<body>
+<body data-pa-season="halloween" data-pa-layout="home">
 <header class="pa-v5-header">
   <div class="container header-inner pa-v5-header-inner">
     <a class="brand pa-v5-brand" href="/" aria-label="Prezzi Assurdi - Home">
@@ -2445,10 +2480,13 @@ body{background:var(--pa-v5-bg)!important}
   </div>
 </header>
 
-<main class="container">
+<main class="container"><!-- PA_SEASONAL_SITE_BANNER_START -->
+<section class="pa-season-banner" aria-label="Offerte Halloween"><div class="pa-season-art" aria-hidden="true"><svg viewBox="0 0 64 64" fill="none" stroke="#ffbc60" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M32 18c-4-8 0-12 7-13M32 19c-19-8-31 2-27 21 3 16 14 19 27 16 13 3 24 0 27-16 4-19-8-29-27-21Z"/><path d="M19 31l-4 7h9Zm26 0-5 7h9ZM20 45l6 5 6-4 6 4 6-5M24 22c-9 10-8 21-3 29M40 22c9 10 8 21 3 29"/></svg></div><div class="pa-season-copy"><span class="pa-season-kicker">Calendario Prezzi Assurdi · 07/10/2026 – 02/11/2026</span><strong class="pa-season-title">Offerte Halloween</strong><span class="pa-season-description">Costumi, maschere, zucche e decorazioni: prepara la tua festa.</span></div><a class="pa-season-link" href="https://prezziassurdi.com/eventi/halloween/">Scopri le proposte →</a></section>
+<!-- PA_SEASONAL_SITE_BANNER_END -->
 <!-- PA_PRIME_EVENT_2026_START -->
 <section class="pa-prime-event-strip" aria-label="Festa delle Offerte Prime 2026"><div><b>⚡ Festa delle Offerte Prime · 6–7 ottobre</b><span>Countdown, offerte selezionate e controlli utili prima dell'acquisto.</span></div><div class="pa-prime-event-actions"><a class="secondary" href="https://prezziassurdi.com/festa-offerte-prime-2026/">SCOPRI L'EVENTO</a><a href="https://www.amazon.it/prime?tag=prezziassur00-21" target="_blank" rel="nofollow sponsored noopener">AMAZON PRIME →</a></div></section>
 <!-- PA_PRIME_EVENT_2026_END -->
+
 
 
 
@@ -5573,6 +5611,8 @@ body{background:var(--pa-v5-bg)!important}
 
 
 
+
+
 <!-- PA_HOME_TRUST_V1469_START -->
 <section class="pa-home-trust" aria-label="Come verifichiamo le offerte">
   <div><strong>Prezzo e orario visibili</strong><span>Ogni card indica quando il prezzo è stato rilevato.</span></div>
@@ -5629,7 +5669,7 @@ body{background:var(--pa-v5-bg)!important}
 <div class="discount">Risparmi 120,00 €</div>
 <div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="Amazon" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
 <a class="buy" href="https://www.amazon.it/dp/B0G4CQMBVF?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI L'OFFERTA</a>
-<div class="meta">Prezzo controllato 50 min fa</div>
+<div class="meta">Prezzo controllato 1 h fa</div>
 </article>
 <article class="card" data-pa-home-card data-pa-category="bambini" data-pa-category-label="Bambini" data-pa-store="amazon" data-pa-price="16.49" data-pa-discount="45" data-pa-date="1791384422.499226">
 <span class="badge super">⚡ PREZZO ASSURDO</span>
@@ -5676,7 +5716,7 @@ body{background:var(--pa-v5-bg)!important}
 <div class="discount">Risparmi 66,02 €</div>
 <div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="Amazon" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
 <a class="buy" href="https://www.amazon.it/dp/B0GJRXHDFC?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI L'OFFERTA</a>
-<div class="meta">Prezzo controllato 15 min fa · verifica disponibilità e venditore sul negozio</div>
+<div class="meta">Prezzo controllato 27 min fa · verifica disponibilità e venditore sul negozio</div>
 </article><article class="card" data-pa-home-card data-pa-category="informatica" data-pa-category-label="Informatica" data-pa-store="amazon" data-pa-price="14.24" data-pa-discount="23" data-pa-date="1791375714.511633">
 <span class="badge hot">⚠️ POSSIBILE ERRORE</span>
 <span class="pa-discount-percent"><small>SCONTO</small>-23%</span>
@@ -5700,6 +5740,66 @@ body{background:var(--pa-v5-bg)!important}
       </div>
       <div id="latest" class="grid">
 <!-- PA_HOME_LATEST_START -->
+<article class="card" data-pa-home-card data-pa-category="altro" data-pa-category-label="Offerta" data-pa-store="amazon" data-pa-price="17.79" data-pa-discount="23" data-pa-date="1791392929.473857">
+<span class="badge new">NUOVA</span>
+<span class="pa-discount-percent"><small>SCONTO</small>-23%</span>
+<div class="photo"><a href="https://www.amazon.it/dp/B0DNN133FN?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener" aria-label="Apri l'offerta Solegro Spumante Blanc de Blancs Millesimato Extra Dry, Fresco e Fruttato"><img src="https://m.media-amazon.com/images/I/41++S70lBDL._SL500_.jpg" alt="Solegro Spumante Blanc de Blancs Millesimato Extra Dry, Fresco e Fruttato" loading="lazy" onerror="this.outerHTML=&quot;&lt;div style=\&quot;min-height:150px;display:grid;place-items:center;text-align:center;padding:14px;background:linear-gradient(135deg,#f6f8fb,#e9edf4);color:#556070;font-weight:800\&quot;&gt;&lt;span style=\&quot;font-size:26px\&quot;&gt;PREZZI&lt;br&gt;ASSURDI&lt;/span&gt;&lt;small style=\&quot;font-weight:600\&quot;&gt;Immagine prodotto in verifica&lt;/small&gt;&lt;/div&gt;&quot;"></a></div>
+<div class="category" aria-label="Negozio"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="height:17px;max-width:92px;object-fit:contain;display:block" loading="lazy" referrerpolicy="no-referrer"></div>
+<h3><a href="https://www.amazon.it/dp/B0DNN133FN?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Solegro Spumante Blanc de Blancs Millesimato Extra Dry, Fresco e Fruttato</a></h3>
+<div class="prices"><span class="price">17,79 €</span><span class="old">22,98 €</span></div>
+<div class="discount">Risparmi 5,19 €</div>
+<div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="Amazon" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
+<a class="buy" href="https://www.amazon.it/dp/B0DNN133FN?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI L'OFFERTA</a>
+<div class="meta">Prezzo controllato 1 min fa</div>
+</article>
+<article class="card" data-pa-home-card data-pa-category="cura-persona" data-pa-category-label="Cura persona e profumi" data-pa-store="amazon" data-pa-price="38.99" data-pa-discount="22" data-pa-date="1791392650.315096">
+<span class="badge new">NUOVA</span>
+<span class="pa-discount-percent"><small>SCONTO</small>-22%</span>
+<div class="photo"><a href="https://www.amazon.it/dp/B0D9K9TG8Y?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener" aria-label="Apri l'offerta KOTAMU Cera Brasiliana Kit di Cera Nero Digitale per Donne e Uomini"><img src="https://m.media-amazon.com/images/I/51vOq5F3XmL._SL500_.jpg" alt="KOTAMU Cera Brasiliana Kit di Cera Nero Digitale per Donne e Uomini" loading="lazy" onerror="this.outerHTML=&quot;&lt;div style=\&quot;min-height:150px;display:grid;place-items:center;text-align:center;padding:14px;background:linear-gradient(135deg,#f6f8fb,#e9edf4);color:#556070;font-weight:800\&quot;&gt;&lt;span style=\&quot;font-size:26px\&quot;&gt;PREZZI&lt;br&gt;ASSURDI&lt;/span&gt;&lt;small style=\&quot;font-weight:600\&quot;&gt;Immagine prodotto in verifica&lt;/small&gt;&lt;/div&gt;&quot;"></a></div>
+<div class="category" aria-label="Negozio"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="height:17px;max-width:92px;object-fit:contain;display:block" loading="lazy" referrerpolicy="no-referrer"></div>
+<h3><a href="https://www.amazon.it/dp/B0D9K9TG8Y?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">KOTAMU Cera Brasiliana Kit di Cera Nero Digitale per Donne e Uomini</a></h3>
+<div class="prices"><span class="price">38,99 €</span><span class="old">49,99 €</span></div>
+<div class="discount">Risparmi 11,00 €</div>
+<div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="Amazon" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
+<a class="buy" href="https://www.amazon.it/dp/B0D9K9TG8Y?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI L'OFFERTA</a>
+<div class="meta">Prezzo controllato 5 min fa</div>
+</article>
+<article class="card" data-pa-home-card data-pa-category="cucina" data-pa-category-label="Cucina" data-pa-store="amazon" data-pa-price="10.99" data-pa-discount="21" data-pa-date="1791392627.762872">
+<span class="badge new">NUOVA</span>
+<span class="pa-discount-percent"><small>SCONTO</small>-21%</span>
+<div class="photo"><a href="https://www.amazon.it/dp/B008DHZW50?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener" aria-label="Apri l'offerta STANLEY Contenitore multiuso con 9 cassetti grandi, 1 93 978"><img src="https://m.media-amazon.com/images/I/41XLXMLgjyL._SL500_.jpg" alt="STANLEY Contenitore multiuso con 9 cassetti grandi, 1 93 978" loading="lazy" onerror="this.outerHTML=&quot;&lt;div style=\&quot;min-height:150px;display:grid;place-items:center;text-align:center;padding:14px;background:linear-gradient(135deg,#f6f8fb,#e9edf4);color:#556070;font-weight:800\&quot;&gt;&lt;span style=\&quot;font-size:26px\&quot;&gt;PREZZI&lt;br&gt;ASSURDI&lt;/span&gt;&lt;small style=\&quot;font-weight:600\&quot;&gt;Immagine prodotto in verifica&lt;/small&gt;&lt;/div&gt;&quot;"></a></div>
+<div class="category" aria-label="Negozio"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="height:17px;max-width:92px;object-fit:contain;display:block" loading="lazy" referrerpolicy="no-referrer"></div>
+<h3><a href="https://www.amazon.it/dp/B008DHZW50?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">STANLEY Contenitore multiuso con 9 cassetti grandi, 1 93 978</a></h3>
+<div class="prices"><span class="price">10,99 €</span><span class="old">13,99 €</span></div>
+<div class="discount">Risparmi 3,00 €</div>
+<div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="Amazon" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
+<a class="buy" href="https://www.amazon.it/dp/B008DHZW50?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI L'OFFERTA</a>
+<div class="meta">Prezzo controllato 5 min fa</div>
+</article>
+<article class="card" data-pa-home-card data-pa-category="fai-da-te" data-pa-category-label="Fai da te" data-pa-store="amazon" data-pa-price="13.85" data-pa-discount="38" data-pa-date="1791392627.748243">
+<span class="badge hot">🔥 HOT</span>
+<span class="pa-discount-percent"><small>SCONTO</small>-38%</span>
+<div class="photo"><a href="https://www.amazon.it/dp/B002KHLRTE?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener" aria-label="Apri l'offerta Organizzatore di utensili STANLEY SORTMASTER a 12 scomparti"><img src="https://m.media-amazon.com/images/I/41bfjcue7fL._SL500_.jpg" alt="Organizzatore di utensili STANLEY SORTMASTER a 12 scomparti" loading="lazy" onerror="this.outerHTML=&quot;&lt;div style=\&quot;min-height:150px;display:grid;place-items:center;text-align:center;padding:14px;background:linear-gradient(135deg,#f6f8fb,#e9edf4);color:#556070;font-weight:800\&quot;&gt;&lt;span style=\&quot;font-size:26px\&quot;&gt;PREZZI&lt;br&gt;ASSURDI&lt;/span&gt;&lt;small style=\&quot;font-weight:600\&quot;&gt;Immagine prodotto in verifica&lt;/small&gt;&lt;/div&gt;&quot;"></a></div>
+<div class="category" aria-label="Negozio"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="height:17px;max-width:92px;object-fit:contain;display:block" loading="lazy" referrerpolicy="no-referrer"></div>
+<h3><a href="https://www.amazon.it/dp/B002KHLRTE?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Organizzatore di utensili STANLEY SORTMASTER a 12 scomparti</a></h3>
+<div class="prices"><span class="price">13,85 €</span><span class="old">22,33 €</span></div>
+<div class="discount">Risparmi 8,48 €</div>
+<div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="Amazon" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
+<a class="buy" href="https://www.amazon.it/dp/B002KHLRTE?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI L'OFFERTA</a>
+<div class="meta">Prezzo controllato 5 min fa</div>
+</article>
+<article class="card" data-pa-home-card data-pa-category="cura-persona" data-pa-category-label="Cura persona e profumi" data-pa-store="amazon" data-pa-price="12.65" data-pa-discount="28" data-pa-date="1791392328.633647">
+<span class="badge hot">🔥 HOT</span>
+<span class="pa-discount-percent"><small>SCONTO</small>-28%</span>
+<div class="photo"><a href="https://www.amazon.it/dp/B0DPXX8Y8J?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener" aria-label="Apri l'offerta Wella Professionals Ultimate Smooth Shampoo Shampoo Idratante con Squalano e Omega 9…"><img src="https://m.media-amazon.com/images/I/31v7+WJwLVL._SL500_.jpg" alt="Wella Professionals Ultimate Smooth Shampoo Shampoo Idratante con Squalano e Omega 9…" loading="lazy" onerror="this.outerHTML=&quot;&lt;div style=\&quot;min-height:150px;display:grid;place-items:center;text-align:center;padding:14px;background:linear-gradient(135deg,#f6f8fb,#e9edf4);color:#556070;font-weight:800\&quot;&gt;&lt;span style=\&quot;font-size:26px\&quot;&gt;PREZZI&lt;br&gt;ASSURDI&lt;/span&gt;&lt;small style=\&quot;font-weight:600\&quot;&gt;Immagine prodotto in verifica&lt;/small&gt;&lt;/div&gt;&quot;"></a></div>
+<div class="category" aria-label="Negozio"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="height:17px;max-width:92px;object-fit:contain;display:block" loading="lazy" referrerpolicy="no-referrer"></div>
+<h3><a href="https://www.amazon.it/dp/B0DPXX8Y8J?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Wella Professionals Ultimate Smooth Shampoo Shampoo Idratante con Squalano e Omega 9…</a></h3>
+<div class="prices"><span class="price">12,65 €</span><span class="old">17,50 €</span></div>
+<div class="discount">Risparmi 4,85 €</div>
+<div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="Amazon" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
+<a class="buy" href="https://www.amazon.it/dp/B0DPXX8Y8J?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI L'OFFERTA</a>
+<div class="meta">Prezzo controllato 10 min fa</div>
+</article>
 <article class="card" data-pa-home-card data-pa-category="cucina" data-pa-category-label="Cucina" data-pa-store="amazon" data-pa-price="140.99" data-pa-discount="29" data-pa-date="1791392222.150715">
 <span class="badge hot">🔥 HOT</span>
 <span class="pa-discount-percent"><small>SCONTO</small>-29%</span>
@@ -5710,67 +5810,7 @@ body{background:var(--pa-v5-bg)!important}
 <div class="discount">Risparmi 58,01 €</div>
 <div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="Amazon" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
 <a class="buy" href="https://www.amazon.it/dp/B0GT64C7L7?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI L'OFFERTA</a>
-<div class="meta">Prezzo controllato 1 min fa</div>
-</article>
-<article class="card" data-pa-home-card data-pa-category="cucina" data-pa-category-label="Cucina" data-pa-store="amazon" data-pa-price="152.0" data-pa-discount="28" data-pa-date="1791392222.120252">
-<span class="badge hot">🔥 HOT</span>
-<span class="pa-discount-percent"><small>SCONTO</small>-28%</span>
-<div class="photo"><a href="https://www.amazon.it/dp/B0D1KQ78V9?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener" aria-label="Apri l'offerta Hisense FV78D4AWE Congelatore Monoporta Verticale a libera installazione, 3 Cassetti"><img src="https://m.media-amazon.com/images/I/31GNJCW4N4L._SL500_.jpg" alt="Hisense FV78D4AWE Congelatore Monoporta Verticale a libera installazione, 3 Cassetti" loading="lazy" onerror="this.outerHTML=&quot;&lt;div style=\&quot;min-height:150px;display:grid;place-items:center;text-align:center;padding:14px;background:linear-gradient(135deg,#f6f8fb,#e9edf4);color:#556070;font-weight:800\&quot;&gt;&lt;span style=\&quot;font-size:26px\&quot;&gt;PREZZI&lt;br&gt;ASSURDI&lt;/span&gt;&lt;small style=\&quot;font-weight:600\&quot;&gt;Immagine prodotto in verifica&lt;/small&gt;&lt;/div&gt;&quot;"></a></div>
-<div class="category" aria-label="Negozio"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="height:17px;max-width:92px;object-fit:contain;display:block" loading="lazy" referrerpolicy="no-referrer"></div>
-<h3><a href="https://www.amazon.it/dp/B0D1KQ78V9?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Hisense FV78D4AWE Congelatore Monoporta Verticale a libera installazione, 3 Cassetti</a></h3>
-<div class="prices"><span class="price">152,00 €</span><span class="old">212,00 €</span></div>
-<div class="discount">Risparmi 60,00 €</div>
-<div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="Amazon" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
-<a class="buy" href="https://www.amazon.it/dp/B0D1KQ78V9?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI L'OFFERTA</a>
-<div class="meta">Prezzo controllato 1 min fa</div>
-</article>
-<article class="card" data-pa-home-card data-pa-category="cura-persona" data-pa-category-label="Cura persona e profumi" data-pa-store="amazon" data-pa-price="1.45" data-pa-discount="27" data-pa-date="1791392214.058735">
-<span class="badge hot">🔥 HOT</span>
-<span class="pa-discount-percent"><small>SCONTO</small>-27%</span>
-<div class="photo"><a href="https://www.amazon.it/dp/B0CD2M9V1C?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener" aria-label="Apri l'offerta Vidal Bagnoschiuma Emotions, Formula Rivitalizzante, Exotic Love"><img src="https://m.media-amazon.com/images/I/31ksHZLxlZL._SL500_.jpg" alt="Vidal Bagnoschiuma Emotions, Formula Rivitalizzante, Exotic Love" loading="lazy" onerror="this.outerHTML=&quot;&lt;div style=\&quot;min-height:150px;display:grid;place-items:center;text-align:center;padding:14px;background:linear-gradient(135deg,#f6f8fb,#e9edf4);color:#556070;font-weight:800\&quot;&gt;&lt;span style=\&quot;font-size:26px\&quot;&gt;PREZZI&lt;br&gt;ASSURDI&lt;/span&gt;&lt;small style=\&quot;font-weight:600\&quot;&gt;Immagine prodotto in verifica&lt;/small&gt;&lt;/div&gt;&quot;"></a></div>
-<div class="category" aria-label="Negozio"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="height:17px;max-width:92px;object-fit:contain;display:block" loading="lazy" referrerpolicy="no-referrer"></div>
-<h3><a href="https://www.amazon.it/dp/B0CD2M9V1C?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Vidal Bagnoschiuma Emotions, Formula Rivitalizzante, Exotic Love</a></h3>
-<div class="prices"><span class="price">1,45 €</span><span class="old">1,99 €</span></div>
-<div class="discount">Risparmi 0,54 €</div>
-<div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="Amazon" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
-<a class="buy" href="https://www.amazon.it/dp/B0CD2M9V1C?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI L'OFFERTA</a>
-<div class="meta">Prezzo controllato 1 min fa</div>
-</article>
-<article class="card" data-pa-home-card data-pa-category="integratori" data-pa-category-label="Migliori INTEGRATORI" data-pa-store="amazon" data-pa-price="20.89" data-pa-discount="30" data-pa-date="1791391941.669208">
-<span class="badge hot">🔥 HOT</span>
-<span class="pa-discount-percent"><small>SCONTO</small>-30%</span>
-<div class="photo"><a href="https://www.amazon.it/dp/B0FZLF3FJK?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener" aria-label="Apri l'offerta ESN EAA+, Tè freddo alla pesca, 400 g"><img src="https://m.media-amazon.com/images/I/41jQfYdPQYL._SL500_.jpg" alt="ESN EAA+, Tè freddo alla pesca, 400 g" loading="lazy" onerror="this.outerHTML=&quot;&lt;div style=\&quot;min-height:150px;display:grid;place-items:center;text-align:center;padding:14px;background:linear-gradient(135deg,#f6f8fb,#e9edf4);color:#556070;font-weight:800\&quot;&gt;&lt;span style=\&quot;font-size:26px\&quot;&gt;PREZZI&lt;br&gt;ASSURDI&lt;/span&gt;&lt;small style=\&quot;font-weight:600\&quot;&gt;Immagine prodotto in verifica&lt;/small&gt;&lt;/div&gt;&quot;"></a></div>
-<div class="category" aria-label="Negozio"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="height:17px;max-width:92px;object-fit:contain;display:block" loading="lazy" referrerpolicy="no-referrer"></div>
-<h3><a href="https://www.amazon.it/dp/B0FZLF3FJK?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">ESN EAA+, Tè freddo alla pesca, 400 g</a></h3>
-<div class="prices"><span class="price">20,89 €</span><span class="old">29,90 €</span></div>
-<div class="discount">Risparmi 9,01 €</div>
-<div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="Amazon" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
-<a class="buy" href="https://www.amazon.it/dp/B0FZLF3FJK?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI L'OFFERTA</a>
-<div class="meta">Prezzo controllato 4 min fa</div>
-</article>
-<article class="card" data-pa-home-card data-pa-category="gaming" data-pa-category-label="Gaming" data-pa-store="amazon" data-pa-price="56.23" data-pa-discount="29" data-pa-date="1791391923.935264">
-<span class="badge hot">🔥 HOT</span>
-<span class="pa-discount-percent"><small>SCONTO</small>-29%</span>
-<div class="photo"><a href="https://www.amazon.it/dp/B00BGCIGOS?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener" aria-label="Apri l'offerta Simoni Racing BPU320N Volante sportivo nero"><img src="https://m.media-amazon.com/images/I/411aXnWJCtL._SL500_.jpg" alt="Simoni Racing BPU320N Volante sportivo nero" loading="lazy" onerror="this.outerHTML=&quot;&lt;div style=\&quot;min-height:150px;display:grid;place-items:center;text-align:center;padding:14px;background:linear-gradient(135deg,#f6f8fb,#e9edf4);color:#556070;font-weight:800\&quot;&gt;&lt;span style=\&quot;font-size:26px\&quot;&gt;PREZZI&lt;br&gt;ASSURDI&lt;/span&gt;&lt;small style=\&quot;font-weight:600\&quot;&gt;Immagine prodotto in verifica&lt;/small&gt;&lt;/div&gt;&quot;"></a></div>
-<div class="category" aria-label="Negozio"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="height:17px;max-width:92px;object-fit:contain;display:block" loading="lazy" referrerpolicy="no-referrer"></div>
-<h3><a href="https://www.amazon.it/dp/B00BGCIGOS?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Simoni Racing BPU320N Volante sportivo nero</a></h3>
-<div class="prices"><span class="price">56,23 €</span><span class="old">79,50 €</span></div>
-<div class="discount">Risparmi 23,27 €</div>
-<div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="Amazon" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
-<a class="buy" href="https://www.amazon.it/dp/B00BGCIGOS?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI L'OFFERTA</a>
-<div class="meta">Prezzo controllato 5 min fa</div>
-</article>
-<article class="card" data-pa-home-card data-pa-category="bambini" data-pa-category-label="Bambini" data-pa-store="amazon" data-pa-price="157.49" data-pa-discount="25" data-pa-date="1791391642.844887">
-<span class="badge hot">🔥 HOT</span>
-<span class="pa-discount-percent"><small>SCONTO</small>-25%</span>
-<div class="photo"><a href="https://www.amazon.it/dp/B0GHG2W8WS?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener" aria-label="Apri l'offerta Momcozy M5 Smart Tiralatte Elettrico Indossabile con App Mani Libere 24mm"><img src="https://m.media-amazon.com/images/I/41DkUCpR8KL._SL500_.jpg" alt="Momcozy M5 Smart Tiralatte Elettrico Indossabile con App Mani Libere 24mm" loading="lazy" onerror="this.outerHTML=&quot;&lt;div style=\&quot;min-height:150px;display:grid;place-items:center;text-align:center;padding:14px;background:linear-gradient(135deg,#f6f8fb,#e9edf4);color:#556070;font-weight:800\&quot;&gt;&lt;span style=\&quot;font-size:26px\&quot;&gt;PREZZI&lt;br&gt;ASSURDI&lt;/span&gt;&lt;small style=\&quot;font-weight:600\&quot;&gt;Immagine prodotto in verifica&lt;/small&gt;&lt;/div&gt;&quot;"></a></div>
-<div class="category" aria-label="Negozio"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="height:17px;max-width:92px;object-fit:contain;display:block" loading="lazy" referrerpolicy="no-referrer"></div>
-<h3><a href="https://www.amazon.it/dp/B0GHG2W8WS?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Momcozy M5 Smart Tiralatte Elettrico Indossabile con App Mani Libere 24mm</a></h3>
-<div class="prices"><span class="price">157,49 €</span><span class="old">209,99 €</span></div>
-<div class="discount">Risparmi 52,50 €</div>
-<div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="Amazon" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
-<a class="buy" href="https://www.amazon.it/dp/B0GHG2W8WS?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI L'OFFERTA</a>
-<div class="meta">Prezzo controllato 9 min fa</div>
+<div class="meta">Prezzo controllato 12 min fa</div>
 </article>
 <!-- PA_HOME_LATEST_END -->
 </div>
