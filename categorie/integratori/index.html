@@ -235,13 +235,50 @@ html[data-pa-season="black-friday"]{--pa-accent:#d8ba73;--pa-glow:#ba944b26}
 })();
 </script>
 <!-- /PA_STYLE_V1429 -->
+<!-- PA_SEASONAL_SITE_STYLE_START -->
+<style id="pa-seasonal-site-style">
+body[data-pa-season="halloween"]{--pa-season-paper:#fcf5ee;--pa-season-dark:#1b1227;--pa-season-surface:#382148;--pa-season-accent:#ffbc60;--pa-season-ink:#241628}
+
+body[data-pa-season] {--yellow:var(--pa-season-accent);--pa-v5-yellow:var(--pa-season-accent);--pa-v5-blue:var(--pa-season-dark);--pa-v5-blue2:var(--pa-season-surface)}
+body[data-pa-season][data-pa-layout="home"] {background:var(--pa-season-paper)!important}
+body[data-pa-season] > header {border-bottom:3px solid var(--pa-season-accent)!important}
+body[data-pa-season][data-pa-layout="page"] > header {background:var(--pa-season-dark)!important;color:#fff!important}
+body[data-pa-season][data-pa-layout="page"] > header a {color:#fff!important}
+body[data-pa-season] .hero-main {background:radial-gradient(circle at 88% 10%,#ffffff15,transparent 36%),linear-gradient(135deg,var(--pa-season-dark),var(--pa-season-surface))!important}
+body[data-pa-season] .hero-main h1 span {color:var(--pa-season-accent)!important}
+body[data-pa-season][data-pa-layout="page"] .hero::after {background:linear-gradient(90deg,var(--pa-season-dark),var(--pa-season-surface))!important;opacity:.88}
+body[data-pa-season] .top-choices-wrap,body[data-pa-season] .guide-band {border-color:var(--pa-season-accent)!important}
+body[data-pa-season] .pa-v5-social-footer {background:linear-gradient(135deg,var(--pa-season-dark),var(--pa-season-surface))!important}
+body[data-pa-season] .card .buy,body[data-pa-season] .feature .deal-buy,body[data-pa-season] .amazon-search-btn {background:var(--pa-season-accent)!important;color:var(--pa-season-ink)!important}
+body[data-pa-season] .pa-v5-header-search:focus-within {border-color:var(--pa-season-dark)}
+body[data-pa-season] .pa-season-banner,body[data-pa-season] .pa-season-banner * {box-sizing:border-box}
+body[data-pa-season] .pa-season-banner {position:relative;isolation:isolate;display:flex;align-items:center;gap:20px;width:100%;max-width:100%;margin:0 0 22px;padding:22px 26px;border:1px solid var(--pa-season-accent);border-radius:20px;background:linear-gradient(115deg,var(--pa-season-dark),var(--pa-season-surface));color:#fff;overflow:hidden}
+body[data-pa-season] .pa-season-art {flex:0 0 72px;width:72px;height:72px;display:flex;align-items:center;justify-content:center;border-radius:20px;background:#ffffff0d;color:var(--pa-season-accent)}
+body[data-pa-season] .pa-season-art svg {display:block;width:56px!important;height:56px!important;max-width:none!important;max-height:none!important}
+body[data-pa-season] .pa-season-copy {flex:1 1 300px;min-width:0}
+body[data-pa-season] .pa-season-kicker {display:block;margin:0 0 5px;color:var(--pa-season-accent);font:800 10px/1.5 system-ui,sans-serif;letter-spacing:1.3px;text-transform:uppercase}
+body[data-pa-season] .pa-season-title {display:block;margin:0;color:#fff!important;font:800 24px/1.2 system-ui,sans-serif;letter-spacing:-.5px;overflow-wrap:anywhere}
+body[data-pa-season] .pa-season-description {display:block;margin:7px 0 0;color:#f3f3f6!important;font:400 13px/1.55 system-ui,sans-serif;max-width:70ch;overflow-wrap:anywhere}
+body[data-pa-season] .pa-season-link {display:flex;align-items:center;justify-content:center;flex:0 0 auto;min-height:46px;padding:12px 18px;border-radius:12px;background:var(--pa-season-accent)!important;color:var(--pa-season-ink)!important;font:800 12px/1.4 system-ui,sans-serif;text-decoration:none!important;text-align:center;white-space:normal}
+body[data-pa-season] .pa-season-link:focus-visible {outline:3px solid #fff;outline-offset:4px}
+body[data-pa-season] .pa-season-link:hover {box-shadow:0 0 0 3px #ffffff40}
+body[data-pa-season] .pa-season-topics {display:flex;flex-wrap:wrap;gap:9px;margin:18px 0 24px}
+body[data-pa-season] .pa-season-topics a {display:inline-flex;align-items:center;min-height:44px;padding:10px 14px;border:1px solid var(--pa-season-accent);border-radius:12px;background:var(--pa-season-dark);color:#fff!important;font:700 12px/1.4 system-ui,sans-serif;text-decoration:none}
+body[data-pa-season] .pa-season-topics a:focus-visible {outline:3px solid var(--pa-season-accent);outline-offset:3px}
+@media(max-width:800px){body[data-pa-season] .pa-season-banner{flex-wrap:wrap;padding:20px;gap:14px}body[data-pa-season] .pa-season-copy{flex-basis:calc(100% - 90px)}body[data-pa-season] .pa-season-link{flex:1 1 100%}}
+@media(max-width:480px){body[data-pa-season] .pa-season-banner{padding:16px;gap:12px;border-radius:16px}body[data-pa-season] .pa-season-art{flex-basis:48px;width:48px;height:48px;border-radius:13px}body[data-pa-season] .pa-season-art svg{width:38px!important;height:38px!important}body[data-pa-season] .pa-season-copy{flex-basis:calc(100% - 60px)}body[data-pa-season] .pa-season-title{font-size:21px}body[data-pa-season] .pa-season-kicker{font-size:9px;letter-spacing:.7px}}
+@media print{body[data-pa-season] .pa-season-banner{display:none}}
+</style>
+<!-- PA_SEASONAL_SITE_STYLE_END -->
 </head>
-<body>
+<body data-pa-season="halloween" data-pa-layout="page">
 <header><div class="wrap top">
 <a class="brand" href="https://prezziassurdi.com/"><img src="https://prezziassurdi.com/logo-prezzi-assurdi.png" alt="Prezzi Assurdi"><span>PREZZI ASSURDI</span></a>
 <nav class="page-nav" aria-label="Navigazione pagine"><a class="home" href="https://prezziassurdi.com/offerte/">Offerte per negozio</a><a class="home" href="https://prezziassurdi.com/">← Torna al motore di ricerca</a></nav>
 </div></header>
-<main><div class="wrap">
+<main><div class="wrap"><!-- PA_SEASONAL_SITE_BANNER_START -->
+<section class="pa-season-banner" aria-label="Offerte Halloween"><div class="pa-season-art" aria-hidden="true"><svg viewBox="0 0 64 64" fill="none" stroke="#ffbc60" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M32 18c-4-8 0-12 7-13M32 19c-19-8-31 2-27 21 3 16 14 19 27 16 13 3 24 0 27-16 4-19-8-29-27-21Z"/><path d="M19 31l-4 7h9Zm26 0-5 7h9ZM20 45l6 5 6-4 6 4 6-5M24 22c-9 10-8 21-3 29M40 22c9 10 8 21 3 29"/></svg></div><div class="pa-season-copy"><span class="pa-season-kicker">Calendario Prezzi Assurdi · 07/10/2026 – 02/11/2026</span><strong class="pa-season-title">Offerte Halloween</strong><span class="pa-season-description">Costumi, maschere, zucche e decorazioni: prepara la tua festa.</span></div><a class="pa-season-link" href="https://prezziassurdi.com/eventi/halloween/">Scopri le proposte →</a></section>
+<!-- PA_SEASONAL_SITE_BANNER_END -->
 <div class="crumb"><a href="https://prezziassurdi.com/">Home</a> › Migliori INTEGRATORI</div>
 <section class="hero">
 <div style="font-size:13px;font-weight:900;color:#ffd83d">PREZZI ASSURDI · CATEGORIA</div>
@@ -282,6 +319,12 @@ html[data-pa-season="black-friday"]{--pa-accent:#d8ba73;--pa-glow:#ba944b26}
 <a class="cta" href="https://www.amazon.it/dp/B01K28121U?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
 </article>
 <article class="card">
+<div class="photo"><img src="https://m.media-amazon.com/images/I/511jBT8H1FL._SL500_.jpg" alt="Equilibra Multivitamine e Minerali 50+ Rilascio 8 Ore, 30 Compresse" loading="lazy"></div>
+<h3><a href="https://www.amazon.it/dp/B088RKRR6Q?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Equilibra Multivitamine e Minerali 50+ Rilascio 8 Ore, 30 Compresse</a></h3>
+<div class="price">5,50 €<span class="old">8,99 €</span></div><div class="discount">Sconto dichiarato: -39%</div>
+<a class="cta" href="https://www.amazon.it/dp/B088RKRR6Q?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
+</article>
+<article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/51uplZbVPRL._SL500_.jpg" alt="Equilibra Magnesio e Potassio Sport, Con Elettroliti e Carboidrati,10 Buste" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B0GQHRJ5PK?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Equilibra Magnesio e Potassio Sport, Con Elettroliti e Carboidrati,10 Buste</a></h3>
 <div class="price">7,34 €<span class="old">11,55 €</span></div><div class="discount">Sconto dichiarato: -36%</div>
@@ -292,6 +335,12 @@ html[data-pa-season="black-friday"]{--pa-accent:#d8ba73;--pa-glow:#ba944b26}
 <h3><a href="https://www.amazon.it/dp/B018UFDCRY?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Matt, Olio di Pesce Omega 3 EPA/DHA 3000, Integratore, 60 Gellule</a></h3>
 <div class="price">10,42 €<span class="old">16,38 €</span></div><div class="discount">Sconto dichiarato: -36%</div>
 <a class="cta" href="https://www.amazon.it/dp/B018UFDCRY?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
+</article>
+<article class="card">
+<div class="photo"><img src="https://m.media-amazon.com/images/I/41m9qZd6B2L._SL500_.jpg" alt="Equilibra Magnesio Bisglicinato 250mg, 180 Capsule, Scorta 6 mesi" loading="lazy"></div>
+<h3><a href="https://www.amazon.it/dp/B0FBC3N44M?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Equilibra Magnesio Bisglicinato 250mg, 180 Capsule, Scorta 6 mesi</a></h3>
+<div class="price">15,84 €<span class="old">24,90 €</span></div><div class="discount">Sconto dichiarato: -36%</div>
+<a class="cta" href="https://www.amazon.it/dp/B0FBC3N44M?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
 </article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/41sDKrYubXL._SL500_.jpg" alt="Omega 3 Vegan 90 Softgel, 2000mg, 600mg DHA, 300mg EPA, da Olio Algale" loading="lazy"></div>
@@ -316,6 +365,12 @@ html[data-pa-season="black-friday"]{--pa-accent:#d8ba73;--pa-glow:#ba944b26}
 <h3><a href="https://www.amazon.it/dp/B0CYD8VCQH?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">foodboost Maltodestrine in Polvere 1,5 kg Sforzo Intermedio</a></h3>
 <div class="price">11,82 €<span class="old">18,00 €</span></div><div class="discount">Sconto dichiarato: -34%</div>
 <a class="cta" href="https://www.amazon.it/dp/B0CYD8VCQH?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
+</article>
+<article class="card">
+<div class="photo"><img src="https://m.media-amazon.com/images/I/41jQfYdPQYL._SL500_.jpg" alt="ESN EAA+, Tè freddo alla pesca, 400 g" loading="lazy"></div>
+<h3><a href="https://prezziassurdi.com/offerte/B0FZLF3FJK/">ESN EAA+, Tè freddo alla pesca, 400 g</a></h3>
+<div class="price">20,89 €<span class="old">29,90 €</span></div><div class="discount">Sconto dichiarato: -30%</div>
+<a class="cta" href="https://prezziassurdi.com/offerte/B0FZLF3FJK/">VEDI DETTAGLI →</a>
 </article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/41xqI7nbLDL._SL500_.jpg" alt="Optimum Nutrition Gold Standard Pre Workout in Polvere, 330g, 30 Porzioni" loading="lazy"></div>
@@ -354,12 +409,6 @@ html[data-pa-season="black-friday"]{--pa-accent:#d8ba73;--pa-glow:#ba944b26}
 <a class="cta" href="https://www.amazon.it/dp/B07NS14648?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
 </article>
 <article class="card">
-<div class="photo"><img src="https://m.media-amazon.com/images/I/51BNs-C7bKL._SL500_.jpg" alt="Italian Elite® Thermo Shape Pro 120 cpr. Integratore Alimentare con Estratti Vegetali…" loading="lazy"></div>
-<h3><a href="https://www.amazon.it/dp/B0CQW8K7SN?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Italian Elite® Thermo Shape Pro 120 cpr. Integratore Alimentare con Estratti Vegetali…</a></h3>
-<div class="price">25,43 €<span class="old">33,90 €</span></div><div class="discount">Sconto dichiarato: -25%</div>
-<a class="cta" href="https://www.amazon.it/dp/B0CQW8K7SN?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/41xi-p6DIbL._SL500_.jpg" alt="Optimum Nutrition ON Platinum PUMP Pre Workout" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B09P47NZGL?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Optimum Nutrition ON Platinum PUMP Pre Workout</a></h3>
 <div class="price">26,99 €<span class="old">35,98 €</span></div><div class="discount">Sconto dichiarato: -25%</div>
@@ -388,6 +437,12 @@ html[data-pa-season="black-friday"]{--pa-accent:#d8ba73;--pa-glow:#ba944b26}
 <h3><a href="https://www.amazon.it/dp/B07VGG81ZB?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Magnesio Citrato Capsule, 444 mg Magnesio Elementare, 240 Capsule</a></h3>
 <div class="price">13,44 €<span class="old">16,99 €</span></div><div class="discount">Sconto dichiarato: -21%</div>
 <a class="cta" href="https://www.amazon.it/dp/B07VGG81ZB?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
+</article>
+<article class="card">
+<div class="photo"><img src="https://m.media-amazon.com/images/I/41a0d-zHFJL._SL500_.jpg" alt="Omega 3 Olio di Pesce Certificato IFOS 2000mg, 660mg EPA e 440mg DHA" loading="lazy"></div>
+<h3><a href="https://www.amazon.it/dp/B084G5XC29?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Omega 3 Olio di Pesce Certificato IFOS 2000mg, 660mg EPA e 440mg DHA</a></h3>
+<div class="price">18,99 €<span class="old">23,99 €</span></div><div class="discount">Sconto dichiarato: -21%</div>
+<a class="cta" href="https://www.amazon.it/dp/B084G5XC29?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
 </article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/319fQE5g-dL._SL500_.jpg" alt="YAMAMOTO NUTRITION Essential AMINO 240 Compresse" loading="lazy"></div>
@@ -450,12 +505,6 @@ html[data-pa-season="black-friday"]{--pa-accent:#d8ba73;--pa-glow:#ba944b26}
 <a class="cta" href="https://www.amazon.it/dp/B0924PV4SK?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
 </article>
 <article class="card">
-<div class="photo"><img src="https://m.media-amazon.com/images/I/419j1PXSxiL._SL500_.jpg" alt="Nutravita Omega 3 2000mg 90 Capsule" loading="lazy"></div>
-<h3><a href="https://www.amazon.it/dp/B0GQVYDCNT?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Nutravita Omega 3 2000mg 90 Capsule</a></h3>
-<div class="price">7,59 €<span class="old">8,99 €</span></div><div class="discount">Sconto dichiarato: -16%</div>
-<a class="cta" href="https://www.amazon.it/dp/B0GQVYDCNT?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/41iw3av0ouL._SL500_.jpg" alt="TRUE NATURE Potassio 2.222 mg al giorno 400 capsule Scorta per 6 mesi" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B0DLL1NLB8?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">TRUE NATURE Potassio 2.222 mg al giorno 400 capsule Scorta per 6 mesi</a></h3>
 <div class="price">22,79 €<span class="old">26,99 €</span></div><div class="discount">Sconto dichiarato: -16%</div>
@@ -504,6 +553,12 @@ html[data-pa-season="black-friday"]{--pa-accent:#d8ba73;--pa-glow:#ba944b26}
 <a class="cta" href="https://www.amazon.it/dp/B0DYDQVML5?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
 </article>
 <article class="card">
+<div class="photo"><img src="https://m.media-amazon.com/images/I/41TsdE2mHUL._SL500_.jpg" alt="GEN GERMAN ELITE NUTRITION Beta Alanina 500 g Polvere +99% di Purezza" loading="lazy"></div>
+<h3><a href="https://www.amazon.it/dp/B08GGG4ZM9?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">GEN GERMAN ELITE NUTRITION Beta Alanina 500 g Polvere +99% di Purezza</a></h3>
+<div class="price">16,98 €<span class="old">19,99 €</span></div><div class="discount">Sconto dichiarato: -15%</div>
+<a class="cta" href="https://www.amazon.it/dp/B08GGG4ZM9?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
+</article>
+<article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/41mtVxn7LAL._SL500_.jpg" alt="Italian Elite® Pre Workout Extreme, stimola Forza, Energia, Resistenza" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B0CPM8SPNF?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Italian Elite® Pre Workout Extreme, stimola Forza, Energia, Resistenza</a></h3>
 <div class="price">18,62 €<span class="old">21,90 €</span></div><div class="discount">Sconto dichiarato: -15%</div>
@@ -514,6 +569,12 @@ html[data-pa-season="black-friday"]{--pa-accent:#d8ba73;--pa-glow:#ba944b26}
 <h3><a href="https://www.amazon.it/dp/B07MYM59LD?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">GEN GERMAN ELITE NUTRITION L Citrullina DL Malato 2:1 – 500 g Polvere</a></h3>
 <div class="price">18,68 €<span class="old">21,99 €</span></div><div class="discount">Sconto dichiarato: -15%</div>
 <a class="cta" href="https://www.amazon.it/dp/B07MYM59LD?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
+</article>
+<article class="card">
+<div class="photo"><img src="https://m.media-amazon.com/images/I/41co60k+QTL._SL500_.jpg" alt="PBN Proteine di Caseina Micellare, Vaniglia, 1kg" loading="lazy"></div>
+<h3><a href="https://www.amazon.it/dp/B07KZ6YYDG?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">PBN Proteine di Caseina Micellare, Vaniglia, 1kg</a></h3>
+<div class="price">20,17 €<span class="old">23,73 €</span></div><div class="discount">Sconto dichiarato: -15%</div>
+<a class="cta" href="https://www.amazon.it/dp/B07KZ6YYDG?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
 </article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/41qMY4B4xgL._SL500_.jpg" alt="vit4ever Potassio 365 Capsule" loading="lazy"></div>
@@ -564,8 +625,8 @@ html[data-pa-season="black-friday"]{--pa-accent:#d8ba73;--pa-glow:#ba944b26}
 <a class="cta" href="https://www.amazon.it/dp/B0CKWMWCRT?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
 </article>
 <article class="card">
-<div class="photo"><img src="https://m.media-amazon.com/images/I/31A-NycQI8L._SL500_.jpg" alt="Citrullina Malato 3000 mg RTP, 180 Compresse" loading="lazy"></div>
-<h3><a href="https://www.amazon.it/dp/B0H1QVZLJ2?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Citrullina Malato 3000 mg RTP, 180 Compresse</a></h3>
+<div class="photo"><img src="https://m.media-amazon.com/images/I/31A-NycQI8L._SL500_.jpg" alt="Citrullina Malato Pura 3000 mg RTP, Alto Dosaggio, 180 Compresse" loading="lazy"></div>
+<h3><a href="https://www.amazon.it/dp/B0H1QVZLJ2?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Citrullina Malato Pura 3000 mg RTP, Alto Dosaggio, 180 Compresse</a></h3>
 <div class="price">15,10 €<span class="old">16,90 €</span></div><div class="discount">Sconto dichiarato: -11%</div>
 <a class="cta" href="https://www.amazon.it/dp/B0H1QVZLJ2?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
 </article>
@@ -576,40 +637,16 @@ html[data-pa-season="black-friday"]{--pa-accent:#d8ba73;--pa-glow:#ba944b26}
 <a class="cta" href="https://www.amazon.it/dp/B093F2S46S?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
 </article>
 <article class="card">
+<div class="photo"><img src="https://m.media-amazon.com/images/I/31XzwFx8V5L._SL500_.jpg" alt="GymBeam Beta Alanina in Polvere Pura 100%, 1500mg per Dose" loading="lazy"></div>
+<h3><a href="https://www.amazon.it/dp/B07F2DGH4M?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">GymBeam Beta Alanina in Polvere Pura 100%, 1500mg per Dose</a></h3>
+<div class="price">7,16 €<span class="old">7,95 €</span></div><div class="discount">Sconto dichiarato: -10%</div>
+<a class="cta" href="https://www.amazon.it/dp/B07F2DGH4M?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
+</article>
+<article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/21V0LeOc8YL._SL500_.jpg" alt="GymBeam Integratore di Potassio 60 cps, 300mg per Capsula" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B0CN9JW2MX?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">GymBeam Integratore di Potassio 60 cps, 300mg per Capsula</a></h3>
 <div class="price">8,09 €<span class="old">8,99 €</span></div><div class="discount">Sconto dichiarato: -10%</div>
 <a class="cta" href="https://www.amazon.it/dp/B0CN9JW2MX?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://m.media-amazon.com/images/I/31DSTcqdHEL._SL500_.jpg" alt="GymBeam Integratore a base di Magnesio Citrato" loading="lazy"></div>
-<h3><a href="https://www.amazon.it/dp/B0D1FQ5B3Q?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">GymBeam Integratore a base di Magnesio Citrato</a></h3>
-<div class="price">10,35 €<span class="old">11,50 €</span></div><div class="discount">Sconto dichiarato: -10%</div>
-<a class="cta" href="https://www.amazon.it/dp/B0D1FQ5B3Q?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://m.media-amazon.com/images/I/41fWXe2Q8FL._SL500_.jpg" alt="YAMAMOTO Nutrition, Multi VITAMIN 60 Compresse" loading="lazy"></div>
-<h3><a href="https://www.amazon.it/dp/B01INBIB2Q?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">YAMAMOTO Nutrition, Multi VITAMIN 60 Compresse</a></h3>
-<div class="price">10,71 €<span class="old">11,92 €</span></div><div class="discount">Sconto dichiarato: -10%</div>
-<a class="cta" href="https://www.amazon.it/dp/B01INBIB2Q?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://m.media-amazon.com/images/I/41ToFXQaVZL._SL500_.jpg" alt="Magnesio Bisglicinato 1432mg per Dose con Vitamina B6, 180 Capsule, 3 Mesi" loading="lazy"></div>
-<h3><a href="https://www.amazon.it/dp/B0CKFHG8NQ?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Magnesio Bisglicinato 1432mg per Dose con Vitamina B6, 180 Capsule, 3 Mesi</a></h3>
-<div class="price">13,53 €<span class="old">14,99 €</span></div><div class="discount">Sconto dichiarato: -10%</div>
-<a class="cta" href="https://www.amazon.it/dp/B0CKFHG8NQ?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://m.media-amazon.com/images/I/41E73v3bK-L._SL500_.jpg" alt="Multivitaminico Completo Donna e Uomo da 120 Gommose, 2 Mesi di Fornitura" loading="lazy"></div>
-<h3><a href="https://www.amazon.it/dp/B086T13DD6?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Multivitaminico Completo Donna e Uomo da 120 Gommose, 2 Mesi di Fornitura</a></h3>
-<div class="price">15,33 €<span class="old">16,99 €</span></div><div class="discount">Sconto dichiarato: -10%</div>
-<a class="cta" href="https://www.amazon.it/dp/B086T13DD6?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://m.media-amazon.com/images/I/411LuZKWYNL._SL500_.jpg" alt="Bcaa 8:1:1 integratore alimentare di aminoacidi a catena ramificata con vitamine B1 e…" loading="lazy"></div>
-<h3><a href="https://www.amazon.it/dp/B074V4PMRZ?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Bcaa 8:1:1 integratore alimentare di aminoacidi a catena ramificata con vitamine B1 e…</a></h3>
-<div class="price">15,74 €<span class="old">17,49 €</span></div><div class="discount">Sconto dichiarato: -10%</div>
-<a class="cta" href="https://www.amazon.it/dp/B074V4PMRZ?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
 </article></div>
 </section>
 <section class="editorial-panel" style="margin-top:18px">

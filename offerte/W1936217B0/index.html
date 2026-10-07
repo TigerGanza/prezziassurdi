@@ -237,13 +237,50 @@ html[data-pa-season="black-friday"]{--pa-accent:#d8ba73;--pa-glow:#ba944b26}
 })();
 </script>
 <!-- /PA_STYLE_V1429 -->
+<!-- PA_SEASONAL_SITE_STYLE_START -->
+<style id="pa-seasonal-site-style">
+body[data-pa-season="halloween"]{--pa-season-paper:#fcf5ee;--pa-season-dark:#1b1227;--pa-season-surface:#382148;--pa-season-accent:#ffbc60;--pa-season-ink:#241628}
+
+body[data-pa-season] {--yellow:var(--pa-season-accent);--pa-v5-yellow:var(--pa-season-accent);--pa-v5-blue:var(--pa-season-dark);--pa-v5-blue2:var(--pa-season-surface)}
+body[data-pa-season][data-pa-layout="home"] {background:var(--pa-season-paper)!important}
+body[data-pa-season] > header {border-bottom:3px solid var(--pa-season-accent)!important}
+body[data-pa-season][data-pa-layout="page"] > header {background:var(--pa-season-dark)!important;color:#fff!important}
+body[data-pa-season][data-pa-layout="page"] > header a {color:#fff!important}
+body[data-pa-season] .hero-main {background:radial-gradient(circle at 88% 10%,#ffffff15,transparent 36%),linear-gradient(135deg,var(--pa-season-dark),var(--pa-season-surface))!important}
+body[data-pa-season] .hero-main h1 span {color:var(--pa-season-accent)!important}
+body[data-pa-season][data-pa-layout="page"] .hero::after {background:linear-gradient(90deg,var(--pa-season-dark),var(--pa-season-surface))!important;opacity:.88}
+body[data-pa-season] .top-choices-wrap,body[data-pa-season] .guide-band {border-color:var(--pa-season-accent)!important}
+body[data-pa-season] .pa-v5-social-footer {background:linear-gradient(135deg,var(--pa-season-dark),var(--pa-season-surface))!important}
+body[data-pa-season] .card .buy,body[data-pa-season] .feature .deal-buy,body[data-pa-season] .amazon-search-btn {background:var(--pa-season-accent)!important;color:var(--pa-season-ink)!important}
+body[data-pa-season] .pa-v5-header-search:focus-within {border-color:var(--pa-season-dark)}
+body[data-pa-season] .pa-season-banner,body[data-pa-season] .pa-season-banner * {box-sizing:border-box}
+body[data-pa-season] .pa-season-banner {position:relative;isolation:isolate;display:flex;align-items:center;gap:20px;width:100%;max-width:100%;margin:0 0 22px;padding:22px 26px;border:1px solid var(--pa-season-accent);border-radius:20px;background:linear-gradient(115deg,var(--pa-season-dark),var(--pa-season-surface));color:#fff;overflow:hidden}
+body[data-pa-season] .pa-season-art {flex:0 0 72px;width:72px;height:72px;display:flex;align-items:center;justify-content:center;border-radius:20px;background:#ffffff0d;color:var(--pa-season-accent)}
+body[data-pa-season] .pa-season-art svg {display:block;width:56px!important;height:56px!important;max-width:none!important;max-height:none!important}
+body[data-pa-season] .pa-season-copy {flex:1 1 300px;min-width:0}
+body[data-pa-season] .pa-season-kicker {display:block;margin:0 0 5px;color:var(--pa-season-accent);font:800 10px/1.5 system-ui,sans-serif;letter-spacing:1.3px;text-transform:uppercase}
+body[data-pa-season] .pa-season-title {display:block;margin:0;color:#fff!important;font:800 24px/1.2 system-ui,sans-serif;letter-spacing:-.5px;overflow-wrap:anywhere}
+body[data-pa-season] .pa-season-description {display:block;margin:7px 0 0;color:#f3f3f6!important;font:400 13px/1.55 system-ui,sans-serif;max-width:70ch;overflow-wrap:anywhere}
+body[data-pa-season] .pa-season-link {display:flex;align-items:center;justify-content:center;flex:0 0 auto;min-height:46px;padding:12px 18px;border-radius:12px;background:var(--pa-season-accent)!important;color:var(--pa-season-ink)!important;font:800 12px/1.4 system-ui,sans-serif;text-decoration:none!important;text-align:center;white-space:normal}
+body[data-pa-season] .pa-season-link:focus-visible {outline:3px solid #fff;outline-offset:4px}
+body[data-pa-season] .pa-season-link:hover {box-shadow:0 0 0 3px #ffffff40}
+body[data-pa-season] .pa-season-topics {display:flex;flex-wrap:wrap;gap:9px;margin:18px 0 24px}
+body[data-pa-season] .pa-season-topics a {display:inline-flex;align-items:center;min-height:44px;padding:10px 14px;border:1px solid var(--pa-season-accent);border-radius:12px;background:var(--pa-season-dark);color:#fff!important;font:700 12px/1.4 system-ui,sans-serif;text-decoration:none}
+body[data-pa-season] .pa-season-topics a:focus-visible {outline:3px solid var(--pa-season-accent);outline-offset:3px}
+@media(max-width:800px){body[data-pa-season] .pa-season-banner{flex-wrap:wrap;padding:20px;gap:14px}body[data-pa-season] .pa-season-copy{flex-basis:calc(100% - 90px)}body[data-pa-season] .pa-season-link{flex:1 1 100%}}
+@media(max-width:480px){body[data-pa-season] .pa-season-banner{padding:16px;gap:12px;border-radius:16px}body[data-pa-season] .pa-season-art{flex-basis:48px;width:48px;height:48px;border-radius:13px}body[data-pa-season] .pa-season-art svg{width:38px!important;height:38px!important}body[data-pa-season] .pa-season-copy{flex-basis:calc(100% - 60px)}body[data-pa-season] .pa-season-title{font-size:21px}body[data-pa-season] .pa-season-kicker{font-size:9px;letter-spacing:.7px}}
+@media print{body[data-pa-season] .pa-season-banner{display:none}}
+</style>
+<!-- PA_SEASONAL_SITE_STYLE_END -->
 </head>
-<body>
+<body data-pa-season="halloween" data-pa-layout="page">
 <header><div class="wrap top">
 <a class="brand" href="https://prezziassurdi.com/"><img src="https://prezziassurdi.com/logo-prezzi-assurdi.png" alt="Prezzi Assurdi"><span>PREZZI ASSURDI</span></a>
 <nav class="page-nav" aria-label="Navigazione pagine"><a class="home" href="https://prezziassurdi.com/offerte/">Offerte per negozio</a><a class="home" href="https://prezziassurdi.com/">← Torna al motore di ricerca</a></nav>
 </div></header>
-<main><div class="wrap">
+<main><div class="wrap"><!-- PA_SEASONAL_SITE_BANNER_START -->
+<section class="pa-season-banner" aria-label="Offerte Halloween"><div class="pa-season-art" aria-hidden="true"><svg viewBox="0 0 64 64" fill="none" stroke="#ffbc60" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M32 18c-4-8 0-12 7-13M32 19c-19-8-31 2-27 21 3 16 14 19 27 16 13 3 24 0 27-16 4-19-8-29-27-21Z"/><path d="M19 31l-4 7h9Zm26 0-5 7h9ZM20 45l6 5 6-4 6 4 6-5M24 22c-9 10-8 21-3 29M40 22c9 10 8 21 3 29"/></svg></div><div class="pa-season-copy"><span class="pa-season-kicker">Calendario Prezzi Assurdi · 07/10/2026 – 02/11/2026</span><strong class="pa-season-title">Offerte Halloween</strong><span class="pa-season-description">Costumi, maschere, zucche e decorazioni: prepara la tua festa.</span></div><a class="pa-season-link" href="https://prezziassurdi.com/eventi/halloween/">Scopri le proposte →</a></section>
+<!-- PA_SEASONAL_SITE_BANNER_END -->
 <div class="crumb"><a href="https://prezziassurdi.com/">Home</a> › W1936217B0</div>
 <section class="single">
 <div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/S70d16dbf1617445faf600631bacfa951G.jpg" alt="SOFTWARE Aggiornato Più Venduto VAG COM VCDS Scanner OBD2 HEX V2 Interfaccia Multilingue Per…" loading="lazy" onerror="this.outerHTML=&quot;&lt;div style=\&quot;min-height:150px;display:grid;place-items:center;text-align:center;padding:14px;background:linear-gradient(135deg,#f6f8fb,#e9edf4);color:#556070;font-weight:800\&quot;&gt;&lt;span style=\&quot;font-size:26px\&quot;&gt;PREZZI&lt;br&gt;ASSURDI&lt;/span&gt;&lt;small style=\&quot;font-weight:600\&quot;&gt;Immagine prodotto in verifica&lt;/small&gt;&lt;/div&gt;&quot;"></div>
