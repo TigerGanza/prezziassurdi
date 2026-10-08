@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-08T12:07:51+02:00",
+  "generated_at": "2026-10-08T13:17:51+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -682,6 +682,13 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
+      },
+      {
+        "title": "Toshiba 55QV2463DA QLED TV 139,7 cm (55'') 4K Ultra HD Smart TV Nero 250 cd/m²",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
       }
     ],
     "migliori-notebook": [
@@ -791,28 +798,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "FUCHU Nuovo Laptop da Ufficio con Intel Atom A3950, 12GB RAM, 2TB SSD, PC da Gaming, Display HD 1920*1080, Computer per Studio, PC 14.1\" con Windows 11 Pro, Ultra Sottile",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "FUCHU Laptop da 14.1 pollici Intel Atom A3950 Windows 11 Laptop 12GB RAM 1TB 2TB SSD Computer portatile Notebook da gioco Ufficio Tempo libero PC 1920*1080 HD 4K",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "FUCHU Laptop 2026 NUOVISSIMO Computer Portatile Aziendale Intel da 14.1 Pollici, 12GB RAM, 256GB/512GB/1TB SSD, Windows 11, Notebook per Studio, Intrattenimento e Lavoro",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "FUCHU Intel Core i3 6100U Laptop Windows 11 pro 16GB RAM 1TB 2TB M.2 SSD 14.1 pollici Computer ultra sottile Gaming PC Ufficio Studio Business",
         "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
@@ -826,7 +812,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "Laptop FUCHU da 14,1'' con Windows 11, Intel Atom X7 A3950 180 ° Laptop Pieghevole Sottile 12GB RAM 512GB 1TB SSD 1920*1080 Computer per Ufficio e Studio",
+        "title": "Ninkear S14 Laptop 14' 2.2K IPS AMD Ryzen 5 6600H 6 Core 4.55GHz 16GB LPDDR5X 1TB PCIe SSD WiFi 6 BT5.3 PD65W Ricarica Rapida 1kg Ultra Leggero Type C Windows 11,180 ° Hinge Finger",
         "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
@@ -840,35 +826,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "Laptop FUCHU con Intel Core I3 6100U, 16GB RAM, 512GB/1TB/2TB SSD, Windows 11, Schermo 14.1 Pollici, per Ufficio, Studio e Lavoro",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "NUOVO Laptop 2026 con Windows 11, Intel ATOM X7 A3950, 12GB RAM, 512GB/1TB SSD, 1920*1080, Computer per Ufficio e Studio",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "FUCHU Laptop Portatile da 14.1 Pollici Windows 11 Intel Atom A3950 12GB RAM 2TB M.2 SSD PC Ultra Sottile per Ufficio Studio Gaming 1920*1080 HD",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Laptop da Ufficio e Studio FUCHU Windows 11 Intel Atom X7 A3950 180 ° Laptop pieghevole sottile da gaming 12GB RAM 512GB 1TB SSD 1920*1080",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Ninkear T40 Tablet Mini Laptop 14 pollici 2 in 1 Intel N100 16GB+512GB 1200P IPS Touch Screen Windows 11 Notebook Spedizione Gratuita",
+        "title": "Ninkear A15 Pro Laptop AMD Ryzen 5 5500U 16GB RAM 1TB SSD 16 pollici 2.5K 120Hz IPS Corpo in metallo Windows 11 WiFi6 Impronta digitale 65W Ricarica veloce Business Ufficio",
         "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
@@ -989,7 +947,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "FUCHU Intel Core i3 6100U Laptop Windows 11 pro 16GB RAM 1TB 2TB M.2 SSD 14.1 pollici Computer ultra sottile Gaming PC Ufficio Studio Business",
+        "title": "CHUWI Aubox Mini PC AMD Ryzen7 8745HS con Oculink DDR5 Senza RAM Senza ROM Senza Sistema Operativo Computer Desktop da Gaming WiFi 6 BT 5.2",
         "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
@@ -1003,7 +961,14 @@
         "status": "da_verificare"
       },
       {
-        "title": "Mini PC SOYO M5 Mini AMD Ryzen 3 4300U LPDDR4 16GB RAM 512GB ROM Computer Desktop con Windows 11 Pro",
+        "title": "Chuwi Ubox Mini PC AMD Ryzen 5 6600H 16GB LPDDR5 512GB SSD Windows 11 Pro Decodifica 4K 144Hz Wifi 6 Bt 5.2 Estensione M.2 1T*2 650g",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Mini PC SOYO M5 Mini AMD Ryzen 3 4300U LPDDR4 16GB RAM 512GB ROM Wifi 5 BT5.0 Windows 11 Pro Computer Desktop",
         "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
@@ -1011,6 +976,27 @@
       },
       {
         "title": "Mini PC CHUWI LarkBox X con Intel i3 1220P, 8GB di RAM, SSD da 256GB, WiFi 6, computer desktop",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Scheda grafica SOYO NVIDIA GeForce RTX 3070 per gaming, 8GB GDDR6, 256Bit, desktop, PCI E 4.0, 8Pin+8Pin, per computer desktop da casa e ufficio",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "SOYO S5 Air Mini PC AMD Ryzen 5 7535HS 16GB LPDDR5 512GB M.2 SSD Windows 11 Pro AMD Radeon Graphics Mini Computer Desktop Doppia HDMI Type C RJ45 Micro PC per Casa, Ufficio e Gamin",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "KAMRUI H1 AMD Ryzen 7 7735HS Mini PC da Gaming 24GB RAM LPDDR5 512GB SSD Mini PC Triplo Display 4K WiFi6 BT5.2 Mini PC Desktop",
         "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
@@ -1145,14 +1131,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "Tablet Teclast P50 11 pollici Android 16 Max 12GB (4GB+8GB Espandibili) RAM 128GB ROM Processore Octa Core T7250 WiFi Dual Band/BT5.0",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Ninkear T40 Tablet Mini Laptop 14 pollici 2 in 1 Intel N100 16GB+512GB 1200P IPS Touch Screen Windows 11 Notebook Spedizione Gratuita",
+        "title": "Xiaomi Redmi Pad 2 Versione Globale Wi Fi, Display Cristallino 2.5K da 11 Pollici, MediaTek Helio G100 Ultra, Tablet Mi con Display 90Hz, Batteria 9000mAh",
         "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
@@ -1336,13 +1315,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Dopesplay Monitor portatile da 15,6 pollici FHD 1080P IPS Extender schermo esterno Monitor plug play per laptop Switch Gaming Mac",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Junsun DVR per moto da 8,1 pollici Dual 2K con Carplay, Android Auto, GPS, display di navigazione, impermeabile IPX7, dashcam portatile, monitor touchscreen digitale, Moto BT",
         "merchant": "aliexpress",
         "ean": "",
@@ -1350,15 +1322,29 @@
         "status": "da_verificare"
       },
       {
-        "title": "OMEN by HP Monitor da gaming 27'' FHD 240 Hz – OMEN 27s",
-        "merchant": "unieuro",
+        "title": "Schermo Carplay automatico Android per navigazione GPS DVR portatile da 7 \"IPX7 impermeabile per fotocamere moto videoregistratore monitor BT",
+        "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "ASUS ZenScreen MB16AWP Monitor PC 39,6 cm (15.6'') 1920 x 1080 Pixel Full HD LED Nero",
-        "merchant": "unieuro",
+        "title": "Dopesplay Monitor portatile da 15,6 pollici FHD 1080P IPS Extender schermo esterno Monitor plug play per laptop Switch Gaming Mac",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Srnubi 8 \"Carplay Moto Navigazione GPS IP67 Impermeabile 4K Moto DVR Wireless Carplay Android Auto Moto Registratore Monitor",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Tomostrong 6.25' Navigatore GPS per Moto Schermo Impermeabile IP67 Supporto Wireless Carplay Moto Android Auto Doppio BT DVR Registratore di Guida Monitor Moto",
+        "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
@@ -1520,6 +1506,20 @@
         "status": "da_verificare"
       },
       {
+        "title": "Smartwatch HUAWEI WATCH FIT 5 Pro Originale",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "HUAWEI WATCH GT 6 Pro Smartwatch HUAWEI con display AMOLED da 1,47”, 21 giorni di autonomia, HarmonyOS 6.0, NFC, chiamate Bluetooth, HUAWEI WATCH GT 6Pro",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Smartwatch HUAWEI WATCH GT Runner 2",
         "merchant": "aliexpress",
         "ean": "",
@@ -1528,6 +1528,13 @@
       },
       {
         "title": "Smartwatch CMF Watch 3 Pro con Display AMOLED da 1,43 Pollici, 13 Giorni di Autonomia, Doppio GPS, Chiamate Bluetooth con Cancellazione del Rumore AI, Monitoraggio della Frequenza ",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Garmin Forerunner 255 Sport Smartwatch 46mm 1.3 '' schermo a colori 14 giorni durata della batteria 4GB RAM NFC Bluetooth Wifi 5ATM impermeabile",
         "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
@@ -1548,29 +1555,8 @@
         "status": "da_verificare"
       },
       {
-        "title": "Nuovo arrivo OnePlus Watch 4 Smartwatch con display AMOLED da 1,5”, Snapdragon W5 Gen 1, fino a 16 giorni di autonomia, GPS, NFC, Smartwatch da uomo.",
+        "title": "HONOR Watch X5i, Versione Globale, Smartwatch HONOR 2026, Schermo AMOLED con Cornice Sottile da 1,97 Pollici, 21 Giorni di Autonomia, 109 Modalità Sportive",
         "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Garmin Forerunner 265, Orologio Sportivo GPS per Corsa, Fitness, Maratona, Nuoto, con Monitoraggio Frequenza Cardiaca e Ossigeno nel Sangue, Smartwatch",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Samsung Galaxy Watch6 Classic Smartwatch Fitness Tracker Ghiera Interattiva in Acciao Inox 47mm Graphite",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Apple Watch Series 10 Serie 10 GPS + Cellular 46mm Cassa in Titanio color Ardesia con Loop in maglia milanese ardesia S/M",
-        "merchant": "unieuro",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
@@ -1825,13 +1811,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "ULTIMEA Aura S4T 350W Soundbar 7.1ch per TV con Subwoofer, 4 Altoparlanti Surround e Staffe di Montaggio, Sistema Home Theater Surround",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Samsung Soundbar HW B750F/ZF, Audio 5.1 canali , Wireless Dolby 5.1ch, 2025",
         "merchant": "unieuro",
         "ean": "",
@@ -1974,6 +1953,20 @@
         "status": "da_verificare"
       },
       {
+        "title": "Oneodio SuperEQ D72 Auricolari Open Ear Wireless Bluetooth 5.4 Cuffie con archetto da collo IPX4 Auricolari sportivi a conduzione aerea Controllo APP",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "LEXIN MeshCom citofono per cuffie Bluetooth e MESH per moto, con sistema di comunicazione Mesh, Audio citofono parallelo, 24 Riders",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Panasonic Cuffie a Padiglione Wireless RB HX220BDEK, Nero",
         "merchant": "unieuro",
         "ean": "",
@@ -2087,20 +2080,6 @@
       },
       {
         "title": "Celly MAGPOCKET3IN1WH Caricabatterie per dispositivi mobili Cuffie, Smartphone, Orologio intelligente Bianco USB Carica wireless Ricarica rapida Interno",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Philips TAT1209BK/00 cuffia e auricolare True Wireless Stereo (TWS) In ear Musica e Chiamate Bluetooth Nero",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "JVC HA A3T Auricolare True Wireless Stereo (TWS) In ear Musica e Chiamate Bluetooth Nero",
         "merchant": "unieuro",
         "ean": "",
         "mpn": "",
@@ -2235,7 +2214,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "Robot Aspirapolvere ABIR X9, Doppio Lidar, Aspirazione 6500pa, Pulizia UV, Mappa Multi Piano, Area Restringibile tramite APP, Lavapavimenti Intelligente per Casa",
+        "title": "Robot lavavetri Liectroux S11, spruzzo d’acqua in 4 direzioni, pulizia di vetri, pavimenti, pareti e piastrelle, robot aspirapolvere per finestre,navigazione intelligente,sicurezza",
         "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
@@ -2328,7 +2307,28 @@
         "status": "da_verificare"
       },
       {
+        "title": "Aspirapolvere senza fili LAMZIEN, con luce LED verde, potenza di aspirazione di 40000 PA, batteria ricaricabile, autonomia di 40 minuti, ideale per peli di animali domestici, tappe",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "400W 33000PA Potenza di aspirazione JR600 Cordless Wireless Aspirapolvere portatili per elettrodomestici per animali domestici 1L Tazza per la polvere Batteria rimovibile",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Supporto per aspirapolvere senza fili, porta aspirapolvere da casa, organizer per aspirapolvere V6 V8 V10 V11 V12 V15, bianco 127 cm",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Tecnologia centrifuga Tineco Floor ONE S7 PRO, aspirapolvere e lavapavimenti wireless con display LED, rimuove lo sporco appiccicoso e i peli di animali.",
         "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
@@ -2945,13 +2945,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Asics Game FF Padel Sneaker",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
         "ean": "",
@@ -3118,18 +3111,18 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
+      },
+      {
+        "title": "fashwork Maglietta Personalizzata Uomo Donna, T-Shirt Personalizzabile con Stampa Foto, Scritta o Logo Fronte Retro, Maglia Manica Corta in 100% Cotone per Regali Personalizzati Ne",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
       }
     ],
     "migliori-sneakers": [
       {
         "title": "QQSQ Scarpe Antinfortunistiche Uomo Scarpe da Lavoro Donna Leggere Traspiranti Comode Sneakers Antiscivolo Scarpe Sicurezza con Punta in Acciaio Regolazione Rapida dei Lacc Nero, 4",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Asics Game FF Padel Sneaker",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
