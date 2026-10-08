@@ -1,5 +1,22 @@
 [
   {
+    "asin": "B0BVMJMZY7",
+    "title": "Scottex Amore di Casa Carta da Cucina, Carta Assorbente Cucina, 21 Rotoli",
+    "price": 15.72,
+    "old_price": 29.99,
+    "discount": 48.0,
+    "image": "https://m.media-amazon.com/images/I/41JSN+SiDmL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0BVMJMZY7?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "pulizia",
+    "macro_group": "cura_persona",
+    "seasonal_title": "",
+    "published_at": "2026-10-08T14:32:28.017356+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B00MYDLL2C",
     "title": "Yamaha A-S701 Amplificatore Integrato, Argento",
     "price": 639.95,
@@ -2353,54 +2370,6 @@
         "last_updated": "",
         "attributes": {
           "power_w": 500.0
-        }
-      }
-    ],
-    "merchant_match_score": 100,
-    "merchant_ean": "",
-    "merchant_prices_checked_at": "2026-10-08T00:39:18.811325+02:00"
-  },
-  {
-    "asin": "W0DC057584",
-    "title": "LASER TREE Testa Laser Blu 80W con Assistenza ad Aria | Incisione e Taglio CNC su Metallo/Legno | Controllo TTL con Precisione di 0,01mm",
-    "price": 142.99,
-    "old_price": 1021.02,
-    "discount": 86.0,
-    "image": "https://ae-pic-a1.aliexpress-media.com/kf/S11d42bef765749358690edb24d62dde9Y.jpg",
-    "url": "https://www.awin1.com/pclick.php?p=44927397800&a=3086723&m=12251",
-    "category": "altro",
-    "macro_group": "awin_discovery",
-    "seasonal_title": "Offerta AliExpress",
-    "published_at": "2026-10-08T00:51:17.110863+02:00",
-    "source_merchant": "aliexpress",
-    "source_external_id": "12000056749694360",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "aliexpress",
-        "merchant_name": "AliExpress",
-        "merchant_id": "12251",
-        "product_id": "12000056749694360",
-        "awin_product_id": "44927397800",
-        "title": "LASER TREE Testa Laser Blu 80W con Assistenza ad Aria | Incisione e Taglio CNC su Metallo/Legno | Controllo TTL con Precisione di 0,01mm",
-        "brand": "Laser Tree",
-        "ean": "",
-        "mpn": "",
-        "price": 142.99,
-        "old_price": 1021.02,
-        "discount": 86.0,
-        "image": "https://ae-pic-a1.aliexpress-media.com/kf/S11d42bef765749358690edb24d62dde9Y.jpg",
-        "url": "https://www.awin1.com/pclick.php?p=44927397800&a=3086723&m=12251",
-        "category": "Industriale e commerciale , Macchine e accessori per la lavorazione del legno , Parti di macchine per la lavorazione del",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {
-          "color": "blue",
-          "material": "wood",
-          "length_mm": 0.01,
-          "power_w": 80.0
         }
       }
     ],
