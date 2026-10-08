@@ -239,7 +239,7 @@ html[data-pa-season="black-friday"]{--pa-accent:#d8ba73;--pa-glow:#ba944b26}
 <!-- /PA_STYLE_V1429 -->
 <!-- PA_SEASONAL_SITE_STYLE_START -->
 <style id="pa-seasonal-site-style">
-body[data-pa-season="halloween"]{--pa-season-paper:#fcf5ee;--pa-season-dark:#1b1227;--pa-season-surface:#382148;--pa-season-accent:#ffbc60;--pa-season-ink:#241628}
+body[data-pa-season="halloween"]{--pa-season-paper:#fcf5ee;--pa-season-dark:#1b1227;--pa-season-surface:#382148;--pa-season-accent:#ffbc60;--pa-season-ink:#241628}body[data-pa-season]{--pa-ribbon:url("https://prezziassurdi.com/assets/seasonal3d/halloween-ribbon-v148611.webp");--pa-icon:url("https://prezziassurdi.com/assets/seasonal3d/halloween-icon-v148611.webp")}
 
 body[data-pa-season] {--yellow:var(--pa-season-accent);--pa-v5-yellow:var(--pa-season-accent);--pa-v5-blue:var(--pa-season-dark);--pa-v5-blue2:var(--pa-season-surface)}
 body[data-pa-season][data-pa-layout="home"] {background:var(--pa-season-paper)!important}
@@ -269,6 +269,9 @@ body[data-pa-season] .pa-season-topics a {display:inline-flex;align-items:center
 body[data-pa-season] .pa-season-topics a:focus-visible {outline:3px solid var(--pa-season-accent);outline-offset:3px}
 body[data-pa-season] .pa-season-product-mark {display:flex;justify-content:flex-end;align-items:center;width:100%;height:36px;min-height:36px;margin-top:6px;padding:4px 8px;box-sizing:border-box;border-radius:10px;background:linear-gradient(115deg,var(--pa-season-dark),var(--pa-season-surface));grid-column:1/-1;flex:0 0 auto;pointer-events:none}
 body[data-pa-season] .pa-season-product-mark svg {display:block;width:32px!important;height:32px!important;box-sizing:border-box;padding:5px;background:#ffffff0d;border:1px solid var(--pa-season-accent);border-radius:10px;max-width:none!important;max-height:none!important}
+body[data-pa-season] .pa-season-3d-icon {display:block;width:64px;height:64px;background:var(--pa-icon) center/contain no-repeat;flex-shrink:0}
+body[data-pa-season] .pa-season-product-mark {height:54px;min-height:54px;padding:0;background-image:var(--pa-ribbon),linear-gradient(115deg,var(--pa-season-dark),var(--pa-season-surface));background-size:100% auto,100% 100%;background-repeat:no-repeat;background-position:right center,center}
+body[data-pa-season] .pa-season-product-mark .pa-season-3d-icon {display:none}
 @media(max-width:800px){body[data-pa-season] .pa-season-banner{flex-wrap:wrap;padding:20px;gap:14px}body[data-pa-season] .pa-season-copy{flex-basis:calc(100% - 90px)}body[data-pa-season] .pa-season-link{flex:1 1 100%}}
 @media(max-width:480px){body[data-pa-season] .pa-season-banner{padding:16px;gap:12px;border-radius:16px}body[data-pa-season] .pa-season-art{flex-basis:48px;width:48px;height:48px;border-radius:13px}body[data-pa-season] .pa-season-art svg{width:38px!important;height:38px!important}body[data-pa-season] .pa-season-copy{flex-basis:calc(100% - 60px)}body[data-pa-season] .pa-season-title{font-size:21px}body[data-pa-season] .pa-season-kicker{font-size:9px;letter-spacing:.7px}}
 @media print{body[data-pa-season] .pa-season-banner{display:none}}
@@ -281,7 +284,7 @@ body[data-pa-season] .pa-season-product-mark svg {display:block;width:32px!impor
 <nav class="page-nav" aria-label="Navigazione pagine"><a class="home" href="https://prezziassurdi.com/offerte/">Offerte per negozio</a><a class="home" href="https://prezziassurdi.com/">← Torna al motore di ricerca</a></nav>
 </div></header>
 <main><div class="wrap"><!-- PA_SEASONAL_SITE_BANNER_START -->
-<section class="pa-season-banner" aria-label="Offerte Halloween"><div class="pa-season-art" aria-hidden="true"><svg viewBox="0 0 64 64" fill="none" stroke="#ffbc60" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M32 18c-4-8 0-12 7-13M32 19c-19-8-31 2-27 21 3 16 14 19 27 16 13 3 24 0 27-16 4-19-8-29-27-21Z"/><path d="M19 31l-4 7h9Zm26 0-5 7h9ZM20 45l6 5 6-4 6 4 6-5M24 22c-9 10-8 21-3 29M40 22c9 10 8 21 3 29"/></svg></div><div class="pa-season-copy"><span class="pa-season-kicker">Calendario Prezzi Assurdi · 07/10/2026 – 02/11/2026</span><strong class="pa-season-title">Offerte Halloween</strong><span class="pa-season-description">Costumi, maschere, zucche e decorazioni: prepara la tua festa.</span></div><a class="pa-season-link" href="https://prezziassurdi.com/eventi/halloween/">Scopri le proposte →</a></section>
+<section class="pa-season-banner" aria-label="Offerte Halloween"><div class="pa-season-art" aria-hidden="true"><span class="pa-season-3d-icon"></span></div><div class="pa-season-copy"><span class="pa-season-kicker">Calendario Prezzi Assurdi · 07/10/2026 – 02/11/2026</span><strong class="pa-season-title">Offerte Halloween</strong><span class="pa-season-description">Costumi, maschere, zucche e decorazioni: prepara la tua festa.</span></div><a class="pa-season-link" href="https://prezziassurdi.com/eventi/halloween/">Scopri le proposte →</a></section>
 <!-- PA_SEASONAL_SITE_BANNER_END -->
 <div class="crumb"><a href="https://prezziassurdi.com/">Home</a> › <a href="https://prezziassurdi.com/categorie/cura-persona/">Cura persona e profumi in offerta</a> › B0FLDPZX8H</div>
 <section class="single">
@@ -312,7 +315,7 @@ body[data-pa-season] .pa-season-product-mark svg {display:block;width:32px!impor
 <p class="note">Prezzo, disponibilità, spedizione e condizioni finali sono quelle mostrate dal negozio al momento dell'acquisto. ID offerta: B0FLDPZX8H.</p>
 
 </div>
-<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><svg viewBox="0 0 64 64" fill="none" stroke="#ffbc60" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M32 18c-4-8 0-12 7-13M32 19c-19-8-31 2-27 21 3 16 14 19 27 16 13 3 24 0 27-16 4-19-8-29-27-21Z"/><path d="M19 31l-4 7h9Zm26 0-5 7h9ZM20 45l6 5 6-4 6 4 6-5M24 22c-9 10-8 21-3 29M40 22c9 10 8 21 3 29"/></svg></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></section>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></section>
 </div></main>
 <footer>PREZZI ASSURDI — Alcuni link sono affiliati. In qualità di Affiliato Amazon ricevo un guadagno dagli acquisti idonei; per Unieuro, MediaWorld, ManoMano e AliExpress utilizziamo link tracciati del network Awin. Prezzi e disponibilità possono cambiare sui siti dei negozi.<br><a href="https://prezziassurdi.com/chi-siamo/">Chi siamo</a> · <a href="https://prezziassurdi.com/trasparenza/">Trasparenza e criteri</a> · <a href="https://prezziassurdi.com/stato-offerte/">Controlli offerte</a></footer>
 <script>
@@ -462,7 +465,7 @@ body[data-pa-season] .pa-season-product-mark svg {display:block;width:32px!impor
   else initGuideFilters();
 })();
 </script>
-<!-- PA_SEASONAL_PRODUCT_SCRIPT_START --><script>(function(){const markup="<span class=\"pa-season-product-mark\" aria-hidden=\"true\" title=\"Decorazione stagionale: Halloween\"><svg viewBox=\"0 0 64 64\" fill=\"none\" stroke=\"#ffbc60\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M32 18c-4-8 0-12 7-13M32 19c-19-8-31 2-27 21 3 16 14 19 27 16 13 3 24 0 27-16 4-19-8-29-27-21Z\"/><path d=\"M19 31l-4 7h9Zm26 0-5 7h9ZM20 45l6 5 6-4 6 4 6-5M24 22c-9 10-8 21-3 29M40 22c9 10 8 21 3 29\"/><\/svg><\/span>";
+<!-- PA_SEASONAL_PRODUCT_SCRIPT_START --><script>(function(){const markup="<span class=\"pa-season-product-mark\" aria-hidden=\"true\" title=\"Decorazione stagionale: Halloween\"><span class=\"pa-season-3d-icon\"><\/span><\/span>";
 function decorate(){document.querySelectorAll('.photo,.top-choice-photo,.quick-photo,.deal-image').forEach(function(photo){const card=photo.closest('.card,.top-choice,.quick-pick,.single,.feature');if(!card||Array.from(card.children).some(function(n){return n.classList.contains('pa-season-product-mark');}))return;const holder=document.createElement('div');holder.innerHTML=markup;card.appendChild(holder.firstElementChild);});}
 function start(){decorate();if(typeof MutationObserver!=='undefined'){new MutationObserver(decorate).observe(document.querySelector('main')||document.body,{childList:true,subtree:true});}}
 if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',start);else start();
