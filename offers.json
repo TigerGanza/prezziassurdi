@@ -1,5 +1,22 @@
 [
   {
+    "asin": "B0FS13GK1Y",
+    "title": "Aerosol Portatile Silenzioso, Macchina Aerosol per Adulti e Bambini, Ricaricabile Aerosol Portatile con 2 Maschere e Boccaglio, 2 Modalità Regolabili, Apparecchio Aerosol per Viaggi e Uso Domestico",
+    "price": 29.06,
+    "old_price": 33.99,
+    "discount": 15.0,
+    "image": "https://m.media-amazon.com/images/I/41HRvyiWtVL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0FS13GK1Y?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "salute",
+    "macro_group": "cura_persona",
+    "seasonal_title": "",
+    "published_at": "2026-10-08T13:57:42.657420+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B08KYZ4JZB",
     "title": "Nuvenia Proteggi Slip Multistyle Ripiegati, 30 Pezzi",
     "price": 1.86,
@@ -2450,48 +2467,5 @@
     "merchant_match_score": 100,
     "merchant_ean": "",
     "merchant_prices_checked_at": "2026-10-08T00:39:18.811325+02:00"
-  },
-  {
-    "asin": "W300D11D78",
-    "title": "PanzerGlass CARE by ® Fashionable Cover Pesca con MagSafe iPhone 16 Pro",
-    "price": 6.99,
-    "old_price": 24.99,
-    "discount": 72.0,
-    "image": "https://www.unieuro.it/medias/sys_master/root/hd9/haa/49543210729502/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-77c5dca4066362d7e4e58e5818e4fef7-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-    "url": "https://www.awin1.com/pclick.php?p=38947433403&a=3086723&m=10139",
-    "category": "informatica",
-    "macro_group": "awin_discovery",
-    "seasonal_title": "Offerta Unieuro",
-    "published_at": "2026-10-08T00:21:18.531844+02:00",
-    "source_merchant": "unieuro",
-    "source_external_id": "PNZ1390",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "unieuro",
-        "merchant_name": "Unieuro",
-        "merchant_id": "10139",
-        "product_id": "PNZ1390",
-        "awin_product_id": "38947433403",
-        "title": "PanzerGlass CARE by ® Fashionable Cover Pesca con MagSafe iPhone 16 Pro",
-        "brand": "Panzerglass",
-        "ean": "5715685004568",
-        "mpn": "1390",
-        "price": 6.99,
-        "old_price": 24.99,
-        "discount": 72.0,
-        "image": "https://www.unieuro.it/medias/sys_master/root/hd9/haa/49543210729502/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-77c5dca4066362d7e4e58e5818e4fef7-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-        "url": "https://www.awin1.com/pclick.php?p=38947433403&a=3086723&m=10139",
-        "category": "Custodie cellulari",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {}
-      }
-    ],
-    "merchant_match_score": 100,
-    "merchant_ean": "5715685004568",
-    "merchant_prices_checked_at": "2026-10-07T23:19:00.040661+02:00"
   }
 ]
