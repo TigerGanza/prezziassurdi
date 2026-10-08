@@ -239,7 +239,7 @@ html[data-pa-season="black-friday"]{--pa-accent:#d8ba73;--pa-glow:#ba944b26}
 <!-- /PA_STYLE_V1429 -->
 <!-- PA_SEASONAL_SITE_STYLE_START -->
 <style id="pa-seasonal-site-style">
-body[data-pa-season="halloween"]{--pa-season-paper:#fcf5ee;--pa-season-dark:#1b1227;--pa-season-surface:#382148;--pa-season-accent:#ffbc60;--pa-season-ink:#241628}
+body[data-pa-season="halloween"]{--pa-season-paper:#fcf5ee;--pa-season-dark:#1b1227;--pa-season-surface:#382148;--pa-season-accent:#ffbc60;--pa-season-ink:#241628}body[data-pa-season]{--pa-ribbon:url("https://prezziassurdi.com/assets/seasonal3d/halloween-ribbon-v148611.webp");--pa-icon:url("https://prezziassurdi.com/assets/seasonal3d/halloween-icon-v148611.webp")}
 
 body[data-pa-season] {--yellow:var(--pa-season-accent);--pa-v5-yellow:var(--pa-season-accent);--pa-v5-blue:var(--pa-season-dark);--pa-v5-blue2:var(--pa-season-surface)}
 body[data-pa-season][data-pa-layout="home"] {background:var(--pa-season-paper)!important}
@@ -269,6 +269,9 @@ body[data-pa-season] .pa-season-topics a {display:inline-flex;align-items:center
 body[data-pa-season] .pa-season-topics a:focus-visible {outline:3px solid var(--pa-season-accent);outline-offset:3px}
 body[data-pa-season] .pa-season-product-mark {display:flex;justify-content:flex-end;align-items:center;width:100%;height:36px;min-height:36px;margin-top:6px;padding:4px 8px;box-sizing:border-box;border-radius:10px;background:linear-gradient(115deg,var(--pa-season-dark),var(--pa-season-surface));grid-column:1/-1;flex:0 0 auto;pointer-events:none}
 body[data-pa-season] .pa-season-product-mark svg {display:block;width:32px!important;height:32px!important;box-sizing:border-box;padding:5px;background:#ffffff0d;border:1px solid var(--pa-season-accent);border-radius:10px;max-width:none!important;max-height:none!important}
+body[data-pa-season] .pa-season-3d-icon {display:block;width:64px;height:64px;background:var(--pa-icon) center/contain no-repeat;flex-shrink:0}
+body[data-pa-season] .pa-season-product-mark {height:54px;min-height:54px;padding:0;background-image:var(--pa-ribbon),linear-gradient(115deg,var(--pa-season-dark),var(--pa-season-surface));background-size:100% auto,100% 100%;background-repeat:no-repeat;background-position:right center,center}
+body[data-pa-season] .pa-season-product-mark .pa-season-3d-icon {display:none}
 @media(max-width:800px){body[data-pa-season] .pa-season-banner{flex-wrap:wrap;padding:20px;gap:14px}body[data-pa-season] .pa-season-copy{flex-basis:calc(100% - 90px)}body[data-pa-season] .pa-season-link{flex:1 1 100%}}
 @media(max-width:480px){body[data-pa-season] .pa-season-banner{padding:16px;gap:12px;border-radius:16px}body[data-pa-season] .pa-season-art{flex-basis:48px;width:48px;height:48px;border-radius:13px}body[data-pa-season] .pa-season-art svg{width:38px!important;height:38px!important}body[data-pa-season] .pa-season-copy{flex-basis:calc(100% - 60px)}body[data-pa-season] .pa-season-title{font-size:21px}body[data-pa-season] .pa-season-kicker{font-size:9px;letter-spacing:.7px}}
 @media print{body[data-pa-season] .pa-season-banner{display:none}}
@@ -281,7 +284,7 @@ body[data-pa-season] .pa-season-product-mark svg {display:block;width:32px!impor
 <nav class="page-nav" aria-label="Navigazione pagine"><a class="home" href="https://prezziassurdi.com/offerte/">Offerte per negozio</a><a class="home" href="https://prezziassurdi.com/">← Torna al motore di ricerca</a></nav>
 </div></header>
 <main><div class="wrap"><!-- PA_SEASONAL_SITE_BANNER_START -->
-<section class="pa-season-banner" aria-label="Offerte Halloween"><div class="pa-season-art" aria-hidden="true"><svg viewBox="0 0 64 64" fill="none" stroke="#ffbc60" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M32 18c-4-8 0-12 7-13M32 19c-19-8-31 2-27 21 3 16 14 19 27 16 13 3 24 0 27-16 4-19-8-29-27-21Z"/><path d="M19 31l-4 7h9Zm26 0-5 7h9ZM20 45l6 5 6-4 6 4 6-5M24 22c-9 10-8 21-3 29M40 22c9 10 8 21 3 29"/></svg></div><div class="pa-season-copy"><span class="pa-season-kicker">Calendario Prezzi Assurdi · 07/10/2026 – 02/11/2026</span><strong class="pa-season-title">Offerte Halloween</strong><span class="pa-season-description">Costumi, maschere, zucche e decorazioni: prepara la tua festa.</span></div><a class="pa-season-link" href="https://prezziassurdi.com/eventi/halloween/">Scopri le proposte →</a></section>
+<section class="pa-season-banner" aria-label="Offerte Halloween"><div class="pa-season-art" aria-hidden="true"><span class="pa-season-3d-icon"></span></div><div class="pa-season-copy"><span class="pa-season-kicker">Calendario Prezzi Assurdi · 07/10/2026 – 02/11/2026</span><strong class="pa-season-title">Offerte Halloween</strong><span class="pa-season-description">Costumi, maschere, zucche e decorazioni: prepara la tua festa.</span></div><a class="pa-season-link" href="https://prezziassurdi.com/eventi/halloween/">Scopri le proposte →</a></section>
 <!-- PA_SEASONAL_SITE_BANNER_END -->
 <style>
 .store-directory-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:13px;margin-top:16px}.store-directory-card{position:relative;overflow:hidden;isolation:isolate;min-height:218px;padding:18px;border-radius:19px;background:#fff;color:#111;border:1px solid #e5e7eb;box-shadow:0 12px 28px rgba(0,0,0,.13);display:flex;flex-direction:column}.store-directory-card::after{content:"";position:absolute;inset:auto -45px -55px auto;width:170px;height:170px;border-radius:50%;background:rgba(255,216,61,.15);z-index:-1}.store-directory-logo{height:38px;display:flex;align-items:center;margin-bottom:15px}.store-directory-logo .merchant-logo{max-width:135px;max-height:34px}.store-directory-card h2{font-size:22px;margin:0 0 8px}.store-directory-card p{margin:0;color:#5d6673;font-size:12px;line-height:1.55}.store-directory-count{display:inline-flex;align-items:center;align-self:flex-start;margin-top:14px;padding:6px 8px;border-radius:999px;background:#f4f5f7;color:#384252;font-size:10px;font-weight:900}.store-directory-card .cta{margin-top:auto}.store-page-actions{display:flex;flex-wrap:wrap;gap:9px;margin-top:18px}.store-page-actions .cta{margin:0;display:inline-flex;align-items:center;justify-content:center}.store-page-actions .cta.secondary{background:rgba(255,255,255,.10);border:1px solid rgba(255,255,255,.22);color:#fff}.store-switcher{display:flex;flex-wrap:wrap;gap:8px;margin:18px 0}.store-switcher a{display:inline-flex;align-items:center;gap:7px;padding:8px 10px;border-radius:999px;background:#fff;color:#111;border:1px solid #e3e6ea;font-size:10px;font-weight:900}.store-switcher .merchant-logo{max-width:74px;max-height:18px}.store-card{position:relative}.store-card-top{display:flex;align-items:center;justify-content:space-between;gap:9px;min-height:27px;margin-bottom:8px}.store-card-top .merchant-logo{max-width:92px;max-height:22px}.store-card-pill{display:inline-flex;align-items:center;padding:5px 7px;border-radius:999px;background:#fff2a6;color:#3b3100;font-size:9px;font-weight:950;white-space:nowrap}.store-card-meta{margin:7px 0 0;color:#697384;font-size:10px;line-height:1.35}.store-card .price{color:#e11d2e}.store-empty{padding:24px;border:1px dashed rgba(255,216,61,.65);border-radius:16px;background:rgba(255,255,255,.07);color:#fff;text-align:center}.store-empty strong{display:block;font-size:20px;margin-bottom:7px}.store-empty p{max-width:690px;margin:0 auto 15px;color:#d5dae2;font-size:13px;line-height:1.55}.store-empty .cta{display:inline-flex}.store-catalog-note{margin:14px 0 0;color:#d5dae2;font-size:11px;line-height:1.5}@media(max-width:900px){.store-directory-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}@media(max-width:520px){.store-directory-grid{grid-template-columns:1fr}.store-directory-card{min-height:195px}.store-page-actions .cta{width:100%}}
@@ -304,7 +307,7 @@ body[data-pa-season] .pa-season-product-mark svg {display:block;width:32px!impor
   <div class="price">4,99 €<span class="old">11,06 €</span></div>
   <div class="store-card-meta">bevande analcoliche</div>
   <a class="cta yellow" href="https://www.amazon.it/dp/B0DJH1H45Q?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI SU AMAZON →</a>
-<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><svg viewBox="0 0 64 64" fill="none" stroke="#ffbc60" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M32 18c-4-8 0-12 7-13M32 19c-19-8-31 2-27 21 3 16 14 19 27 16 13 3 24 0 27-16 4-19-8-29-27-21Z"/><path d="M19 31l-4 7h9Zm26 0-5 7h9ZM20 45l6 5 6-4 6 4 6-5M24 22c-9 10-8 21-3 29M40 22c9 10 8 21 3 29"/></svg></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card store-card">
   <div class="store-card-top"><span><img class="merchant-logo compact" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" loading="lazy" referrerpolicy="no-referrer"></span><span class="store-card-pill">Sconto dichiarato -53%</span></div>
   <div class="photo"><img src="https://m.media-amazon.com/images/I/31N1BZUZLwL._SL500_.jpg" alt="Razer Basilisk V3 Mouse da Gioco Personalizzabile Cablato (10+1 Pulsanti Programmabili" loading="lazy" referrerpolicy="no-referrer"></div>
@@ -312,7 +315,7 @@ body[data-pa-season] .pa-season-product-mark svg {display:block;width:32px!impor
   <div class="price">39,99 €<span class="old">84,99 €</span></div>
   <div class="store-card-meta">gaming</div>
   <a class="cta yellow" href="https://www.amazon.it/dp/B097F8H1MC?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI SU AMAZON →</a>
-<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><svg viewBox="0 0 64 64" fill="none" stroke="#ffbc60" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M32 18c-4-8 0-12 7-13M32 19c-19-8-31 2-27 21 3 16 14 19 27 16 13 3 24 0 27-16 4-19-8-29-27-21Z"/><path d="M19 31l-4 7h9Zm26 0-5 7h9ZM20 45l6 5 6-4 6 4 6-5M24 22c-9 10-8 21-3 29M40 22c9 10 8 21 3 29"/></svg></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card store-card">
   <div class="store-card-top"><span><img class="merchant-logo compact" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" loading="lazy" referrerpolicy="no-referrer"></span><span class="store-card-pill">Sconto dichiarato -53%</span></div>
   <div class="photo"><img src="https://m.media-amazon.com/images/I/51Tv5+bfOSL._SL500_.jpg" alt="Kellogg&#x27;s Coco Pops Barchette al Cioccolato 330g" loading="lazy" referrerpolicy="no-referrer"></div>
@@ -320,7 +323,7 @@ body[data-pa-season] .pa-season-product-mark svg {display:block;width:32px!impor
   <div class="price">1,96 €<span class="old">4,19 €</span></div>
   <div class="store-card-meta">alimentari</div>
   <a class="cta yellow" href="https://www.amazon.it/dp/B0D1K9HQ57?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI SU AMAZON →</a>
-<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><svg viewBox="0 0 64 64" fill="none" stroke="#ffbc60" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M32 18c-4-8 0-12 7-13M32 19c-19-8-31 2-27 21 3 16 14 19 27 16 13 3 24 0 27-16 4-19-8-29-27-21Z"/><path d="M19 31l-4 7h9Zm26 0-5 7h9ZM20 45l6 5 6-4 6 4 6-5M24 22c-9 10-8 21-3 29M40 22c9 10 8 21 3 29"/></svg></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card store-card">
   <div class="store-card-top"><span><img class="merchant-logo compact" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" loading="lazy" referrerpolicy="no-referrer"></span><span class="store-card-pill">Sconto dichiarato -49%</span></div>
   <div class="photo"><img src="https://m.media-amazon.com/images/I/31bOR9ERMhL._SL500_.jpg" alt="PUMA Cilia Mode, Sneaker Donna, Black Silver, 39 EU" loading="lazy" referrerpolicy="no-referrer"></div>
@@ -328,15 +331,7 @@ body[data-pa-season] .pa-season-product-mark svg {display:block;width:32px!impor
   <div class="price">32,97 €<span class="old">64,95 €</span></div>
   <div class="store-card-meta">scarpe borse</div>
   <a class="cta yellow" href="https://www.amazon.it/dp/B07S6NTC24?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI SU AMAZON →</a>
-<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><svg viewBox="0 0 64 64" fill="none" stroke="#ffbc60" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M32 18c-4-8 0-12 7-13M32 19c-19-8-31 2-27 21 3 16 14 19 27 16 13 3 24 0 27-16 4-19-8-29-27-21Z"/><path d="M19 31l-4 7h9Zm26 0-5 7h9ZM20 45l6 5 6-4 6 4 6-5M24 22c-9 10-8 21-3 29M40 22c9 10 8 21 3 29"/></svg></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
-<article class="card store-card">
-  <div class="store-card-top"><span><img class="merchant-logo compact" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" loading="lazy" referrerpolicy="no-referrer"></span><span class="store-card-pill">Sconto dichiarato -46%</span></div>
-  <div class="photo"><img src="https://m.media-amazon.com/images/I/411tAVWJWSL._SL500_.jpg" alt="AREXONS Cera Auto Alta Protezione, Scudo Protettivo Contro Raggi UV, Polvere" loading="lazy" referrerpolicy="no-referrer"></div>
-  <h3>AREXONS Cera Auto Alta Protezione, Scudo Protettivo Contro Raggi UV, Polvere</h3>
-  <div class="price">8,77 €<span class="old">16,19 €</span></div>
-  <div class="store-card-meta">auto</div>
-  <a class="cta yellow" href="https://www.amazon.it/dp/B00E7PFSZQ?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI SU AMAZON →</a>
-<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><svg viewBox="0 0 64 64" fill="none" stroke="#ffbc60" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M32 18c-4-8 0-12 7-13M32 19c-19-8-31 2-27 21 3 16 14 19 27 16 13 3 24 0 27-16 4-19-8-29-27-21Z"/><path d="M19 31l-4 7h9Zm26 0-5 7h9ZM20 45l6 5 6-4 6 4 6-5M24 22c-9 10-8 21-3 29M40 22c9 10 8 21 3 29"/></svg></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card store-card">
   <div class="store-card-top"><span><img class="merchant-logo compact" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" loading="lazy" referrerpolicy="no-referrer"></span><span class="store-card-pill">Sconto dichiarato -45%</span></div>
   <div class="photo"><img src="https://m.media-amazon.com/images/I/21jR1d8VmLL._SL500_.jpg" alt="Nest Google Doorbell per interni, campanello video senza fili, 960p" loading="lazy" referrerpolicy="no-referrer"></div>
@@ -344,7 +339,7 @@ body[data-pa-season] .pa-season-product-mark svg {display:block;width:32px!impor
   <div class="price">109,99 €<span class="old">199,99 €</span></div>
   <div class="store-card-meta">smart home</div>
   <a class="cta yellow" href="https://www.amazon.it/dp/B0D96LS7Z2?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI SU AMAZON →</a>
-<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><svg viewBox="0 0 64 64" fill="none" stroke="#ffbc60" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M32 18c-4-8 0-12 7-13M32 19c-19-8-31 2-27 21 3 16 14 19 27 16 13 3 24 0 27-16 4-19-8-29-27-21Z"/><path d="M19 31l-4 7h9Zm26 0-5 7h9ZM20 45l6 5 6-4 6 4 6-5M24 22c-9 10-8 21-3 29M40 22c9 10 8 21 3 29"/></svg></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card store-card">
   <div class="store-card-top"><span><img class="merchant-logo compact" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" loading="lazy" referrerpolicy="no-referrer"></span><span class="store-card-pill">Sconto dichiarato -45%</span></div>
   <div class="photo"><img src="https://m.media-amazon.com/images/I/31fMNroly-L._SL500_.jpg" alt="Skechers Uno Stand On Air, Scarpe da ginnastica Donna, Off White Durabuck, 37 EU" loading="lazy" referrerpolicy="no-referrer"></div>
@@ -352,7 +347,7 @@ body[data-pa-season] .pa-season-product-mark svg {display:block;width:32px!impor
   <div class="price">49,90 €<span class="old">89,95 €</span></div>
   <div class="store-card-meta">scarpe borse</div>
   <a class="cta yellow" href="https://www.amazon.it/dp/B081ZRH9VG?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI SU AMAZON →</a>
-<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><svg viewBox="0 0 64 64" fill="none" stroke="#ffbc60" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M32 18c-4-8 0-12 7-13M32 19c-19-8-31 2-27 21 3 16 14 19 27 16 13 3 24 0 27-16 4-19-8-29-27-21Z"/><path d="M19 31l-4 7h9Zm26 0-5 7h9ZM20 45l6 5 6-4 6 4 6-5M24 22c-9 10-8 21-3 29M40 22c9 10 8 21 3 29"/></svg></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card store-card">
   <div class="store-card-top"><span><img class="merchant-logo compact" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" loading="lazy" referrerpolicy="no-referrer"></span><span class="store-card-pill">Sconto dichiarato -45%</span></div>
   <div class="photo"><img src="https://m.media-amazon.com/images/I/31ALp8zzY6L._SL500_.jpg" alt="Zacapa Solera Gran Reserva, Rum ultra premium pluripremiato, 40% vol, 70 cl" loading="lazy" referrerpolicy="no-referrer"></div>
@@ -360,7 +355,7 @@ body[data-pa-season] .pa-season-product-mark svg {display:block;width:32px!impor
   <div class="price">33,15 €<span class="old">59,95 €</span></div>
   <div class="store-card-meta">spirits</div>
   <a class="cta yellow" href="https://www.amazon.it/dp/B0046EP7NQ?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI SU AMAZON →</a>
-<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><svg viewBox="0 0 64 64" fill="none" stroke="#ffbc60" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M32 18c-4-8 0-12 7-13M32 19c-19-8-31 2-27 21 3 16 14 19 27 16 13 3 24 0 27-16 4-19-8-29-27-21Z"/><path d="M19 31l-4 7h9Zm26 0-5 7h9ZM20 45l6 5 6-4 6 4 6-5M24 22c-9 10-8 21-3 29M40 22c9 10 8 21 3 29"/></svg></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card store-card">
   <div class="store-card-top"><span><img class="merchant-logo compact" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" loading="lazy" referrerpolicy="no-referrer"></span><span class="store-card-pill">Sconto dichiarato -44%</span></div>
   <div class="photo"><img src="https://m.media-amazon.com/images/I/31v12FUh0iL._SL500_.jpg" alt="Guzzini Store&amp;Go, Contenitore Pranzo Portatile con posate, Bianco, 900 ml" loading="lazy" referrerpolicy="no-referrer"></div>
@@ -368,7 +363,7 @@ body[data-pa-season] .pa-season-product-mark svg {display:block;width:32px!impor
   <div class="price">18,78 €<span class="old">33,50 €</span></div>
   <div class="store-card-meta">scuola</div>
   <a class="cta yellow" href="https://www.amazon.it/dp/B084DM8M8D?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI SU AMAZON →</a>
-<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><svg viewBox="0 0 64 64" fill="none" stroke="#ffbc60" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M32 18c-4-8 0-12 7-13M32 19c-19-8-31 2-27 21 3 16 14 19 27 16 13 3 24 0 27-16 4-19-8-29-27-21Z"/><path d="M19 31l-4 7h9Zm26 0-5 7h9ZM20 45l6 5 6-4 6 4 6-5M24 22c-9 10-8 21-3 29M40 22c9 10 8 21 3 29"/></svg></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card store-card">
   <div class="store-card-top"><span><img class="merchant-logo compact" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" loading="lazy" referrerpolicy="no-referrer"></span><span class="store-card-pill">Sconto dichiarato -43%</span></div>
   <div class="photo"><img src="https://m.media-amazon.com/images/I/51+4mcoKAdL._SL500_.jpg" alt="Novilla Materasso 80x190, Materasso Singolo, Altezza 18 cm, Gel Memory Foam" loading="lazy" referrerpolicy="no-referrer"></div>
@@ -376,7 +371,7 @@ body[data-pa-season] .pa-season-product-mark svg {display:block;width:32px!impor
   <div class="price">49,01 €<span class="old">85,99 €</span></div>
   <div class="store-card-meta">riposo</div>
   <a class="cta yellow" href="https://www.amazon.it/dp/B0H11NFJXX?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI SU AMAZON →</a>
-<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><svg viewBox="0 0 64 64" fill="none" stroke="#ffbc60" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M32 18c-4-8 0-12 7-13M32 19c-19-8-31 2-27 21 3 16 14 19 27 16 13 3 24 0 27-16 4-19-8-29-27-21Z"/><path d="M19 31l-4 7h9Zm26 0-5 7h9ZM20 45l6 5 6-4 6 4 6-5M24 22c-9 10-8 21-3 29M40 22c9 10 8 21 3 29"/></svg></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card store-card">
   <div class="store-card-top"><span><img class="merchant-logo compact" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" loading="lazy" referrerpolicy="no-referrer"></span><span class="store-card-pill">Sconto dichiarato -43%</span></div>
   <div class="photo"><img src="https://m.media-amazon.com/images/I/41nVfTv+gzL._SL500_.jpg" alt="Beurer IH 18 Aerosol ad aria compressa con compressore CC per inalazione e trattamento…" loading="lazy" referrerpolicy="no-referrer"></div>
@@ -384,7 +379,7 @@ body[data-pa-season] .pa-season-product-mark svg {display:block;width:32px!impor
   <div class="price">28,49 €<span class="old">49,99 €</span></div>
   <div class="store-card-meta">salute</div>
   <a class="cta yellow" href="https://www.amazon.it/dp/B015YP77V0?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI SU AMAZON →</a>
-<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><svg viewBox="0 0 64 64" fill="none" stroke="#ffbc60" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M32 18c-4-8 0-12 7-13M32 19c-19-8-31 2-27 21 3 16 14 19 27 16 13 3 24 0 27-16 4-19-8-29-27-21Z"/><path d="M19 31l-4 7h9Zm26 0-5 7h9ZM20 45l6 5 6-4 6 4 6-5M24 22c-9 10-8 21-3 29M40 22c9 10 8 21 3 29"/></svg></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card store-card">
   <div class="store-card-top"><span><img class="merchant-logo compact" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" loading="lazy" referrerpolicy="no-referrer"></span><span class="store-card-pill">Sconto dichiarato -42%</span></div>
   <div class="photo"><img src="https://m.media-amazon.com/images/I/51-ap+-+M2L._SL500_.jpg" alt="Gleeso Tablet 10 Pollici｜Tablet con Android 16｜Android Tablet con 24GB RAM 1TB…" loading="lazy" referrerpolicy="no-referrer"></div>
@@ -392,7 +387,7 @@ body[data-pa-season] .pa-season-product-mark svg {display:block;width:32px!impor
   <div class="price">75,99 €<span class="old">129,99 €</span></div>
   <div class="store-card-meta">bambini completo</div>
   <a class="cta yellow" href="https://www.amazon.it/dp/B0H29KX4W5?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI SU AMAZON →</a>
-<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><svg viewBox="0 0 64 64" fill="none" stroke="#ffbc60" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M32 18c-4-8 0-12 7-13M32 19c-19-8-31 2-27 21 3 16 14 19 27 16 13 3 24 0 27-16 4-19-8-29-27-21Z"/><path d="M19 31l-4 7h9Zm26 0-5 7h9ZM20 45l6 5 6-4 6 4 6-5M24 22c-9 10-8 21-3 29M40 22c9 10 8 21 3 29"/></svg></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card store-card">
   <div class="store-card-top"><span><img class="merchant-logo compact" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" loading="lazy" referrerpolicy="no-referrer"></span><span class="store-card-pill">Sconto dichiarato -42%</span></div>
   <div class="photo"><img src="https://m.media-amazon.com/images/I/517CV7vkXdL._SL500_.jpg" alt="Hot Wheels Track Creator Confezione Triplo Loop con macchinina 1:64" loading="lazy" referrerpolicy="no-referrer"></div>
@@ -400,7 +395,7 @@ body[data-pa-season] .pa-season-product-mark svg {display:block;width:32px!impor
   <div class="price">28,99 €<span class="old">49,99 €</span></div>
   <div class="store-card-meta">bambini giochi</div>
   <a class="cta yellow" href="https://www.amazon.it/dp/B0DMW8ZPK5?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI SU AMAZON →</a>
-<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><svg viewBox="0 0 64 64" fill="none" stroke="#ffbc60" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M32 18c-4-8 0-12 7-13M32 19c-19-8-31 2-27 21 3 16 14 19 27 16 13 3 24 0 27-16 4-19-8-29-27-21Z"/><path d="M19 31l-4 7h9Zm26 0-5 7h9ZM20 45l6 5 6-4 6 4 6-5M24 22c-9 10-8 21-3 29M40 22c9 10 8 21 3 29"/></svg></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card store-card">
   <div class="store-card-top"><span><img class="merchant-logo compact" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" loading="lazy" referrerpolicy="no-referrer"></span><span class="store-card-pill">Sconto dichiarato -41%</span></div>
   <div class="photo"><img src="https://m.media-amazon.com/images/I/41eOwA0YSBL._SL500_.jpg" alt="Hisense Smart TV QLED 144Hz 43&quot; 4K 43E7S PRO" loading="lazy" referrerpolicy="no-referrer"></div>
@@ -408,7 +403,15 @@ body[data-pa-season] .pa-season-product-mark svg {display:block;width:32px!impor
   <div class="price">322,00 €<span class="old">549,00 €</span></div>
   <div class="store-card-meta">tv premium</div>
   <a class="cta yellow" href="https://www.amazon.it/dp/B0GR5RW1P2?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI SU AMAZON →</a>
-<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><svg viewBox="0 0 64 64" fill="none" stroke="#ffbc60" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M32 18c-4-8 0-12 7-13M32 19c-19-8-31 2-27 21 3 16 14 19 27 16 13 3 24 0 27-16 4-19-8-29-27-21Z"/><path d="M19 31l-4 7h9Zm26 0-5 7h9ZM20 45l6 5 6-4 6 4 6-5M24 22c-9 10-8 21-3 29M40 22c9 10 8 21 3 29"/></svg></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
+<article class="card store-card">
+  <div class="store-card-top"><span><img class="merchant-logo compact" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" loading="lazy" referrerpolicy="no-referrer"></span><span class="store-card-pill">Sconto dichiarato -40%</span></div>
+  <div class="photo"><img src="https://m.media-amazon.com/images/I/41DA0WiOPpL._SL500_.jpg" alt="Tractive GPS Cane Intelligente XL, Edizione 2026, Localizzazione GPS in Tempo Reale" loading="lazy" referrerpolicy="no-referrer"></div>
+  <h3>Tractive GPS Cane Intelligente XL, Edizione 2026, Localizzazione GPS in Tempo Reale</h3>
+  <div class="price">47,40 €<span class="old">79,00 €</span></div>
+  <div class="store-card-meta">pets specifico</div>
+  <a class="cta yellow" href="https://www.amazon.it/dp/B0G52NY6HZ?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI SU AMAZON →</a>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card store-card">
   <div class="store-card-top"><span><img class="merchant-logo compact" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" loading="lazy" referrerpolicy="no-referrer"></span><span class="store-card-pill">Sconto dichiarato -40%</span></div>
   <div class="photo"><img src="https://m.media-amazon.com/images/I/41xtmnpa69L._SL500_.jpg" alt="Hot Wheels Trasportatore Squalo Divoratore, veicolo 1:64 incluso" loading="lazy" referrerpolicy="no-referrer"></div>
@@ -416,7 +419,7 @@ body[data-pa-season] .pa-season-product-mark svg {display:block;width:32px!impor
   <div class="price">15,02 €<span class="old">24,99 €</span></div>
   <div class="store-card-meta">bambini giochi</div>
   <a class="cta yellow" href="https://www.amazon.it/dp/B08J4H1VYP?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI SU AMAZON →</a>
-<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><svg viewBox="0 0 64 64" fill="none" stroke="#ffbc60" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M32 18c-4-8 0-12 7-13M32 19c-19-8-31 2-27 21 3 16 14 19 27 16 13 3 24 0 27-16 4-19-8-29-27-21Z"/><path d="M19 31l-4 7h9Zm26 0-5 7h9ZM20 45l6 5 6-4 6 4 6-5M24 22c-9 10-8 21-3 29M40 22c9 10 8 21 3 29"/></svg></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card store-card">
   <div class="store-card-top"><span><img class="merchant-logo compact" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" loading="lazy" referrerpolicy="no-referrer"></span><span class="store-card-pill">Sconto dichiarato -40%</span></div>
   <div class="photo"><img src="https://m.media-amazon.com/images/I/31qz+YbgecL._SL500_.jpg" alt="T shirt Levi&#x27;s Kids Boys Batwing" loading="lazy" referrerpolicy="no-referrer"></div>
@@ -424,7 +427,7 @@ body[data-pa-season] .pa-season-product-mark svg {display:block;width:32px!impor
   <div class="price">12,04 €<span class="old">20,00 €</span></div>
   <div class="store-card-meta">moda bambino</div>
   <a class="cta yellow" href="https://www.amazon.it/dp/B07YBJ2XC4?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI SU AMAZON →</a>
-<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><svg viewBox="0 0 64 64" fill="none" stroke="#ffbc60" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M32 18c-4-8 0-12 7-13M32 19c-19-8-31 2-27 21 3 16 14 19 27 16 13 3 24 0 27-16 4-19-8-29-27-21Z"/><path d="M19 31l-4 7h9Zm26 0-5 7h9ZM20 45l6 5 6-4 6 4 6-5M24 22c-9 10-8 21-3 29M40 22c9 10 8 21 3 29"/></svg></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card store-card">
   <div class="store-card-top"><span><img class="merchant-logo compact" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" loading="lazy" referrerpolicy="no-referrer"></span><span class="store-card-pill">Sconto dichiarato -39%</span></div>
   <div class="photo"><img src="https://m.media-amazon.com/images/I/41nD6YPy8aL._SL500_.jpg" alt="Hisense Smart TV MiniLED 144Hz 65&quot; 4K 65E8S" loading="lazy" referrerpolicy="no-referrer"></div>
@@ -432,7 +435,7 @@ body[data-pa-season] .pa-season-product-mark svg {display:block;width:32px!impor
   <div class="price">729,00 €<span class="old">1.199,00 €</span></div>
   <div class="store-card-meta">tv premium</div>
   <a class="cta yellow" href="https://www.amazon.it/dp/B0GQF24H9M?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI SU AMAZON →</a>
-<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><svg viewBox="0 0 64 64" fill="none" stroke="#ffbc60" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M32 18c-4-8 0-12 7-13M32 19c-19-8-31 2-27 21 3 16 14 19 27 16 13 3 24 0 27-16 4-19-8-29-27-21Z"/><path d="M19 31l-4 7h9Zm26 0-5 7h9ZM20 45l6 5 6-4 6 4 6-5M24 22c-9 10-8 21-3 29M40 22c9 10 8 21 3 29"/></svg></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card store-card">
   <div class="store-card-top"><span><img class="merchant-logo compact" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" loading="lazy" referrerpolicy="no-referrer"></span><span class="store-card-pill">Sconto dichiarato -38%</span></div>
   <div class="photo"><img src="https://m.media-amazon.com/images/I/41VwxoAjbKL._SL500_.jpg" alt="Hercules DJMonitor 32 Diffusori attivi 2 x 15 W RMS" loading="lazy" referrerpolicy="no-referrer"></div>
@@ -440,7 +443,7 @@ body[data-pa-season] .pa-season-product-mark svg {display:block;width:32px!impor
   <div class="price">49,99 €<span class="old">79,99 €</span></div>
   <div class="store-card-meta">audio casa</div>
   <a class="cta yellow" href="https://www.amazon.it/dp/B07JH148DF?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI SU AMAZON →</a>
-<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><svg viewBox="0 0 64 64" fill="none" stroke="#ffbc60" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M32 18c-4-8 0-12 7-13M32 19c-19-8-31 2-27 21 3 16 14 19 27 16 13 3 24 0 27-16 4-19-8-29-27-21Z"/><path d="M19 31l-4 7h9Zm26 0-5 7h9ZM20 45l6 5 6-4 6 4 6-5M24 22c-9 10-8 21-3 29M40 22c9 10 8 21 3 29"/></svg></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card store-card">
   <div class="store-card-top"><span><img class="merchant-logo compact" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" loading="lazy" referrerpolicy="no-referrer"></span><span class="store-card-pill">Sconto dichiarato -38%</span></div>
   <div class="photo"><img src="https://m.media-amazon.com/images/I/51Y6IZD3rdL._SL500_.jpg" alt="PLAYMOBIL, Action Heroes, Camion da Cantiere con Gru, Giocattolo da Costruzione per Bambini" loading="lazy" referrerpolicy="no-referrer"></div>
@@ -448,7 +451,7 @@ body[data-pa-season] .pa-season-product-mark svg {display:block;width:32px!impor
   <div class="price">24,99 €<span class="old">39,99 €</span></div>
   <div class="store-card-meta">bambini giochi</div>
   <a class="cta yellow" href="https://www.amazon.it/dp/B0DPJ92XG2?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI SU AMAZON →</a>
-<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><svg viewBox="0 0 64 64" fill="none" stroke="#ffbc60" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M32 18c-4-8 0-12 7-13M32 19c-19-8-31 2-27 21 3 16 14 19 27 16 13 3 24 0 27-16 4-19-8-29-27-21Z"/><path d="M19 31l-4 7h9Zm26 0-5 7h9ZM20 45l6 5 6-4 6 4 6-5M24 22c-9 10-8 21-3 29M40 22c9 10 8 21 3 29"/></svg></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card store-card">
   <div class="store-card-top"><span><img class="merchant-logo compact" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" loading="lazy" referrerpolicy="no-referrer"></span><span class="store-card-pill">Sconto dichiarato -36%</span></div>
   <div class="photo"><img src="https://m.media-amazon.com/images/I/51uItWYdBmL._SL500_.jpg" alt="PLAYMOBIL Pirates 71418 Nave Pirata, emozionanti Avventure piratesche" loading="lazy" referrerpolicy="no-referrer"></div>
@@ -456,7 +459,7 @@ body[data-pa-season] .pa-season-product-mark svg {display:block;width:32px!impor
   <div class="price">31,99 €<span class="old">49,99 €</span></div>
   <div class="store-card-meta">bambini giochi</div>
   <a class="cta yellow" href="https://www.amazon.it/dp/B0CJ34B965?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI SU AMAZON →</a>
-<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><svg viewBox="0 0 64 64" fill="none" stroke="#ffbc60" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M32 18c-4-8 0-12 7-13M32 19c-19-8-31 2-27 21 3 16 14 19 27 16 13 3 24 0 27-16 4-19-8-29-27-21Z"/><path d="M19 31l-4 7h9Zm26 0-5 7h9ZM20 45l6 5 6-4 6 4 6-5M24 22c-9 10-8 21-3 29M40 22c9 10 8 21 3 29"/></svg></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card store-card">
   <div class="store-card-top"><span><img class="merchant-logo compact" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" loading="lazy" referrerpolicy="no-referrer"></span><span class="store-card-pill">Sconto dichiarato -36%</span></div>
   <div class="photo"><img src="https://m.media-amazon.com/images/I/413AwgZc8CL._SL500_.jpg" alt="Frontline Spot On Gatti x6 Antiparassitario Contro Pulci, Zecche E Pidocchi" loading="lazy" referrerpolicy="no-referrer"></div>
@@ -464,7 +467,7 @@ body[data-pa-season] .pa-season-product-mark svg {display:block;width:32px!impor
   <div class="price">25,56 €<span class="old">39,80 €</span></div>
   <div class="store-card-meta">animali</div>
   <a class="cta yellow" href="https://www.amazon.it/dp/B0DQ64LKPR?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI SU AMAZON →</a>
-<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><svg viewBox="0 0 64 64" fill="none" stroke="#ffbc60" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M32 18c-4-8 0-12 7-13M32 19c-19-8-31 2-27 21 3 16 14 19 27 16 13 3 24 0 27-16 4-19-8-29-27-21Z"/><path d="M19 31l-4 7h9Zm26 0-5 7h9ZM20 45l6 5 6-4 6 4 6-5M24 22c-9 10-8 21-3 29M40 22c9 10 8 21 3 29"/></svg></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card store-card">
   <div class="store-card-top"><span><img class="merchant-logo compact" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" loading="lazy" referrerpolicy="no-referrer"></span><span class="store-card-pill">Sconto dichiarato -36%</span></div>
   <div class="photo"><img src="https://m.media-amazon.com/images/I/41R1VNHR-eL._SL500_.jpg" alt="2 Pezzi Occhiali da Ciclismo, Set da Sole Sportivi con Lenti PC Polarizzati" loading="lazy" referrerpolicy="no-referrer"></div>
@@ -472,7 +475,7 @@ body[data-pa-season] .pa-season-product-mark svg {display:block;width:32px!impor
   <div class="price">8,02 €<span class="old">12,49 €</span></div>
   <div class="store-card-meta">ciclismo</div>
   <a class="cta yellow" href="https://www.amazon.it/dp/B0H2D9QSW6?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI SU AMAZON →</a>
-<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><svg viewBox="0 0 64 64" fill="none" stroke="#ffbc60" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M32 18c-4-8 0-12 7-13M32 19c-19-8-31 2-27 21 3 16 14 19 27 16 13 3 24 0 27-16 4-19-8-29-27-21Z"/><path d="M19 31l-4 7h9Zm26 0-5 7h9ZM20 45l6 5 6-4 6 4 6-5M24 22c-9 10-8 21-3 29M40 22c9 10 8 21 3 29"/></svg></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card store-card">
   <div class="store-card-top"><span><img class="merchant-logo compact" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" loading="lazy" referrerpolicy="no-referrer"></span><span class="store-card-pill">Sconto dichiarato -35%</span></div>
   <div class="photo"><img src="https://m.media-amazon.com/images/I/31iDMgrDRZL._SL500_.jpg" alt="Skechers Women&#x27;s Graceful Get Connected Navy Mesh / Pink Trim 7 UK 40 EU" loading="lazy" referrerpolicy="no-referrer"></div>
@@ -480,7 +483,7 @@ body[data-pa-season] .pa-season-product-mark svg {display:block;width:32px!impor
   <div class="price">35,99 €<span class="old">54,95 €</span></div>
   <div class="store-card-meta">scarpe borse</div>
   <a class="cta yellow" href="https://www.amazon.it/dp/B01M1CCVW4?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI SU AMAZON →</a>
-<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><svg viewBox="0 0 64 64" fill="none" stroke="#ffbc60" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M32 18c-4-8 0-12 7-13M32 19c-19-8-31 2-27 21 3 16 14 19 27 16 13 3 24 0 27-16 4-19-8-29-27-21Z"/><path d="M19 31l-4 7h9Zm26 0-5 7h9ZM20 45l6 5 6-4 6 4 6-5M24 22c-9 10-8 21-3 29M40 22c9 10 8 21 3 29"/></svg></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card store-card">
   <div class="store-card-top"><span><img class="merchant-logo compact" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" loading="lazy" referrerpolicy="no-referrer"></span><span class="store-card-pill">Sconto dichiarato -35%</span></div>
   <div class="photo"><img src="https://m.media-amazon.com/images/I/51xcEM+t78L._SL500_.jpg" alt="costume halloween donna nero costumi vestito adulta vestiti strega abito medievale vampira…" loading="lazy" referrerpolicy="no-referrer"></div>
@@ -488,7 +491,7 @@ body[data-pa-season] .pa-season-product-mark svg {display:block;width:32px!impor
   <div class="price">12,99 €<span class="old">19,99 €</span></div>
   <div class="store-card-meta">fashion</div>
   <a class="cta yellow" href="https://www.amazon.it/dp/B0HKNQGF86?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI SU AMAZON →</a>
-<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><svg viewBox="0 0 64 64" fill="none" stroke="#ffbc60" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M32 18c-4-8 0-12 7-13M32 19c-19-8-31 2-27 21 3 16 14 19 27 16 13 3 24 0 27-16 4-19-8-29-27-21Z"/><path d="M19 31l-4 7h9Zm26 0-5 7h9ZM20 45l6 5 6-4 6 4 6-5M24 22c-9 10-8 21-3 29M40 22c9 10 8 21 3 29"/></svg></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card store-card">
   <div class="store-card-top"><span><img class="merchant-logo compact" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" loading="lazy" referrerpolicy="no-referrer"></span><span class="store-card-pill">Sconto dichiarato -34%</span></div>
   <div class="photo"><img src="https://m.media-amazon.com/images/I/418nSmjl19L._SL500_.jpg" alt="RingConn Gen 2 Air Smart Ring, Anello Intelligente AI Ultra Sottile, 10 Giorni di Batteria" loading="lazy" referrerpolicy="no-referrer"></div>
@@ -496,15 +499,7 @@ body[data-pa-season] .pa-season-product-mark svg {display:block;width:32px!impor
   <div class="price">156,75 €<span class="old">239,00 €</span></div>
   <div class="store-card-meta">wearables</div>
   <a class="cta yellow" href="https://www.amazon.it/dp/B0DWK4QQ7H?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI SU AMAZON →</a>
-<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><svg viewBox="0 0 64 64" fill="none" stroke="#ffbc60" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M32 18c-4-8 0-12 7-13M32 19c-19-8-31 2-27 21 3 16 14 19 27 16 13 3 24 0 27-16 4-19-8-29-27-21Z"/><path d="M19 31l-4 7h9Zm26 0-5 7h9ZM20 45l6 5 6-4 6 4 6-5M24 22c-9 10-8 21-3 29M40 22c9 10 8 21 3 29"/></svg></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
-<article class="card store-card">
-  <div class="store-card-top"><span><img class="merchant-logo compact" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" loading="lazy" referrerpolicy="no-referrer"></span><span class="store-card-pill">Sconto dichiarato -34%</span></div>
-  <div class="photo"><img src="https://m.media-amazon.com/images/I/41OsuA2jptL._SL500_.jpg" alt="Arexons 8271 Cera Metal 250 ml" loading="lazy" referrerpolicy="no-referrer"></div>
-  <h3>Arexons 8271 Cera Metal 250 ml</h3>
-  <div class="price">9,48 €<span class="old">14,38 €</span></div>
-  <div class="store-card-meta">auto</div>
-  <a class="cta yellow" href="https://www.amazon.it/dp/B00E7RVU7Y?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI SU AMAZON →</a>
-<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><svg viewBox="0 0 64 64" fill="none" stroke="#ffbc60" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M32 18c-4-8 0-12 7-13M32 19c-19-8-31 2-27 21 3 16 14 19 27 16 13 3 24 0 27-16 4-19-8-29-27-21Z"/><path d="M19 31l-4 7h9Zm26 0-5 7h9ZM20 45l6 5 6-4 6 4 6-5M24 22c-9 10-8 21-3 29M40 22c9 10 8 21 3 29"/></svg></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card store-card">
   <div class="store-card-top"><span><img class="merchant-logo compact" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" loading="lazy" referrerpolicy="no-referrer"></span><span class="store-card-pill">Sconto dichiarato -33%</span></div>
   <div class="photo"><img src="https://m.media-amazon.com/images/I/31lOhtJJRxL._SL500_.jpg" alt="Logitech G G502 X PLUS Mouse Gaming Wireless LIGHTSPEED RGB Nero" loading="lazy" referrerpolicy="no-referrer"></div>
@@ -512,7 +507,7 @@ body[data-pa-season] .pa-season-product-mark svg {display:block;width:32px!impor
   <div class="price">99,99 €<span class="old">149,99 €</span></div>
   <div class="store-card-meta">gaming</div>
   <a class="cta yellow" href="https://www.amazon.it/dp/B07W7MJ46M?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI SU AMAZON →</a>
-<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><svg viewBox="0 0 64 64" fill="none" stroke="#ffbc60" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M32 18c-4-8 0-12 7-13M32 19c-19-8-31 2-27 21 3 16 14 19 27 16 13 3 24 0 27-16 4-19-8-29-27-21Z"/><path d="M19 31l-4 7h9Zm26 0-5 7h9ZM20 45l6 5 6-4 6 4 6-5M24 22c-9 10-8 21-3 29M40 22c9 10 8 21 3 29"/></svg></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card store-card">
   <div class="store-card-top"><span><img class="merchant-logo compact" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" loading="lazy" referrerpolicy="no-referrer"></span><span class="store-card-pill">Sconto dichiarato -33%</span></div>
   <div class="photo"><img src="https://m.media-amazon.com/images/I/51MIgx0NNoL._SL500_.jpg" alt="PLAYMOBIL, Action Heroes, Pick up dei pompieri, Auto dei pompieri, Auto giocattolo" loading="lazy" referrerpolicy="no-referrer"></div>
@@ -520,7 +515,7 @@ body[data-pa-season] .pa-season-product-mark svg {display:block;width:32px!impor
   <div class="price">23,59 €<span class="old">34,99 €</span></div>
   <div class="store-card-meta">bambini giochi</div>
   <a class="cta yellow" href="https://www.amazon.it/dp/B0DLGRD1T9?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI SU AMAZON →</a>
-<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><svg viewBox="0 0 64 64" fill="none" stroke="#ffbc60" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M32 18c-4-8 0-12 7-13M32 19c-19-8-31 2-27 21 3 16 14 19 27 16 13 3 24 0 27-16 4-19-8-29-27-21Z"/><path d="M19 31l-4 7h9Zm26 0-5 7h9ZM20 45l6 5 6-4 6 4 6-5M24 22c-9 10-8 21-3 29M40 22c9 10 8 21 3 29"/></svg></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card store-card">
   <div class="store-card-top"><span><img class="merchant-logo compact" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" loading="lazy" referrerpolicy="no-referrer"></span><span class="store-card-pill">Sconto dichiarato -33%</span></div>
   <div class="photo"><img src="https://m.media-amazon.com/images/I/41J3iZyZQ1L._SL500_.jpg" alt="Frontline Spot On Gatti x3 Antiparassitario Contro Pulci, Zecche E Pidocchi" loading="lazy" referrerpolicy="no-referrer"></div>
@@ -528,7 +523,7 @@ body[data-pa-season] .pa-season-product-mark svg {display:block;width:32px!impor
   <div class="price">13,28 €<span class="old">19,90 €</span></div>
   <div class="store-card-meta">animali</div>
   <a class="cta yellow" href="https://www.amazon.it/dp/B0DGXD3C93?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI SU AMAZON →</a>
-<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><svg viewBox="0 0 64 64" fill="none" stroke="#ffbc60" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M32 18c-4-8 0-12 7-13M32 19c-19-8-31 2-27 21 3 16 14 19 27 16 13 3 24 0 27-16 4-19-8-29-27-21Z"/><path d="M19 31l-4 7h9Zm26 0-5 7h9ZM20 45l6 5 6-4 6 4 6-5M24 22c-9 10-8 21-3 29M40 22c9 10 8 21 3 29"/></svg></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card store-card">
   <div class="store-card-top"><span><img class="merchant-logo compact" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" loading="lazy" referrerpolicy="no-referrer"></span><span class="store-card-pill">Sconto dichiarato -32%</span></div>
   <div class="photo"><img src="https://m.media-amazon.com/images/I/41OV6YQAbSL._SL500_.jpg" alt="Acer Nitro V 16 | Notebook Gaming | 16&quot; | Core 9 | RTX 5060 | 16GB | 512GB" loading="lazy" referrerpolicy="no-referrer"></div>
@@ -536,7 +531,7 @@ body[data-pa-season] .pa-season-product-mark svg {display:block;width:32px!impor
   <div class="price">1.499,00 €<span class="old">2.199,00 €</span></div>
   <div class="store-card-meta">laptop gaming</div>
   <a class="cta yellow" href="https://www.amazon.it/dp/B08B832S88?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI SU AMAZON →</a>
-<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><svg viewBox="0 0 64 64" fill="none" stroke="#ffbc60" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M32 18c-4-8 0-12 7-13M32 19c-19-8-31 2-27 21 3 16 14 19 27 16 13 3 24 0 27-16 4-19-8-29-27-21Z"/><path d="M19 31l-4 7h9Zm26 0-5 7h9ZM20 45l6 5 6-4 6 4 6-5M24 22c-9 10-8 21-3 29M40 22c9 10 8 21 3 29"/></svg></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card store-card">
   <div class="store-card-top"><span><img class="merchant-logo compact" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" loading="lazy" referrerpolicy="no-referrer"></span><span class="store-card-pill">Sconto dichiarato -32%</span></div>
   <div class="photo"><img src="https://m.media-amazon.com/images/I/31ZdrXUH+jL._SL500_.jpg" alt="CORSAIR NAUTILUS 360 RS Raffreddatore CPU a Liquido – Nero" loading="lazy" referrerpolicy="no-referrer"></div>
@@ -544,7 +539,7 @@ body[data-pa-season] .pa-season-product-mark svg {display:block;width:32px!impor
   <div class="price">84,90 €<span class="old">124,90 €</span></div>
   <div class="store-card-meta">pc components</div>
   <a class="cta yellow" href="https://www.amazon.it/dp/B0DF7B7324?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI SU AMAZON →</a>
-<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><svg viewBox="0 0 64 64" fill="none" stroke="#ffbc60" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M32 18c-4-8 0-12 7-13M32 19c-19-8-31 2-27 21 3 16 14 19 27 16 13 3 24 0 27-16 4-19-8-29-27-21Z"/><path d="M19 31l-4 7h9Zm26 0-5 7h9ZM20 45l6 5 6-4 6 4 6-5M24 22c-9 10-8 21-3 29M40 22c9 10 8 21 3 29"/></svg></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card store-card">
   <div class="store-card-top"><span><img class="merchant-logo compact" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" loading="lazy" referrerpolicy="no-referrer"></span><span class="store-card-pill">Sconto dichiarato -32%</span></div>
   <div class="photo"><img src="https://m.media-amazon.com/images/I/31pFSOWLYfL._SL500_.jpg" alt="NZXT Kraken Core 360 RGB Dissipatore CPU AIO 360mm Nero" loading="lazy" referrerpolicy="no-referrer"></div>
@@ -552,7 +547,7 @@ body[data-pa-season] .pa-season-product-mark svg {display:block;width:32px!impor
   <div class="price">75,00 €<span class="old">109,90 €</span></div>
   <div class="store-card-meta">pc components</div>
   <a class="cta yellow" href="https://www.amazon.it/dp/B0FLTZ2SHM?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI SU AMAZON →</a>
-<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><svg viewBox="0 0 64 64" fill="none" stroke="#ffbc60" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M32 18c-4-8 0-12 7-13M32 19c-19-8-31 2-27 21 3 16 14 19 27 16 13 3 24 0 27-16 4-19-8-29-27-21Z"/><path d="M19 31l-4 7h9Zm26 0-5 7h9ZM20 45l6 5 6-4 6 4 6-5M24 22c-9 10-8 21-3 29M40 22c9 10 8 21 3 29"/></svg></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card store-card">
   <div class="store-card-top"><span><img class="merchant-logo compact" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" loading="lazy" referrerpolicy="no-referrer"></span><span class="store-card-pill">Sconto dichiarato -32%</span></div>
   <div class="photo"><img src="https://m.media-amazon.com/images/I/31ZQKgAiGHL._SL500_.jpg" alt="Casamigos Blanco, Premium Tequila 70cl" loading="lazy" referrerpolicy="no-referrer"></div>
@@ -560,7 +555,7 @@ body[data-pa-season] .pa-season-product-mark svg {display:block;width:32px!impor
   <div class="price">25,90 €<span class="old">38,00 €</span></div>
   <div class="store-card-meta">spirits</div>
   <a class="cta yellow" href="https://www.amazon.it/dp/B00WGUES6E?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI SU AMAZON →</a>
-<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><svg viewBox="0 0 64 64" fill="none" stroke="#ffbc60" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M32 18c-4-8 0-12 7-13M32 19c-19-8-31 2-27 21 3 16 14 19 27 16 13 3 24 0 27-16 4-19-8-29-27-21Z"/><path d="M19 31l-4 7h9Zm26 0-5 7h9ZM20 45l6 5 6-4 6 4 6-5M24 22c-9 10-8 21-3 29M40 22c9 10 8 21 3 29"/></svg></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card store-card">
   <div class="store-card-top"><span><img class="merchant-logo compact" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" loading="lazy" referrerpolicy="no-referrer"></span><span class="store-card-pill">Sconto dichiarato -31%</span></div>
   <div class="photo"><img src="https://m.media-amazon.com/images/I/31gxMX2SlrL._SL500_.jpg" alt="Quasar Bagno Igienizzante 680ml" loading="lazy" referrerpolicy="no-referrer"></div>
@@ -568,7 +563,7 @@ body[data-pa-season] .pa-season-product-mark svg {display:block;width:32px!impor
   <div class="price">2,29 €<span class="old">3,32 €</span></div>
   <div class="store-card-meta">pulizia</div>
   <a class="cta yellow" href="https://www.amazon.it/dp/B0CJCNY267?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI SU AMAZON →</a>
-<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><svg viewBox="0 0 64 64" fill="none" stroke="#ffbc60" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M32 18c-4-8 0-12 7-13M32 19c-19-8-31 2-27 21 3 16 14 19 27 16 13 3 24 0 27-16 4-19-8-29-27-21Z"/><path d="M19 31l-4 7h9Zm26 0-5 7h9ZM20 45l6 5 6-4 6 4 6-5M24 22c-9 10-8 21-3 29M40 22c9 10 8 21 3 29"/></svg></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card store-card">
   <div class="store-card-top"><span><img class="merchant-logo compact" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" loading="lazy" referrerpolicy="no-referrer"></span><span class="store-card-pill">Sconto dichiarato -30%</span></div>
   <div class="photo"><img src="https://m.media-amazon.com/images/I/41Fj9CtptFL._SL500_.jpg" alt="LG UltraWide 29U511A Monitor 29&quot; IPS WFHD(2560x1080) 100Hz per multitasking" loading="lazy" referrerpolicy="no-referrer"></div>
@@ -576,7 +571,7 @@ body[data-pa-season] .pa-season-product-mark svg {display:block;width:32px!impor
   <div class="price">139,99 €<span class="old">199,99 €</span></div>
   <div class="store-card-meta">monitor</div>
   <a class="cta yellow" href="https://www.amazon.it/dp/B0FG8P1896?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI SU AMAZON →</a>
-<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><svg viewBox="0 0 64 64" fill="none" stroke="#ffbc60" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M32 18c-4-8 0-12 7-13M32 19c-19-8-31 2-27 21 3 16 14 19 27 16 13 3 24 0 27-16 4-19-8-29-27-21Z"/><path d="M19 31l-4 7h9Zm26 0-5 7h9ZM20 45l6 5 6-4 6 4 6-5M24 22c-9 10-8 21-3 29M40 22c9 10 8 21 3 29"/></svg></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card store-card">
   <div class="store-card-top"><span><img class="merchant-logo compact" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" loading="lazy" referrerpolicy="no-referrer"></span><span class="store-card-pill">Sconto dichiarato -30%</span></div>
   <div class="photo"><img src="https://m.media-amazon.com/images/I/31OP8ZT61uL._SL500_.jpg" alt="Amazon Basics 77 mm Filtro di Protezione UV Circolare per Immagini più Nitide" loading="lazy" referrerpolicy="no-referrer"></div>
@@ -584,7 +579,7 @@ body[data-pa-season] .pa-season-product-mark svg {display:block;width:32px!impor
   <div class="price">7,34 €<span class="old">10,49 €</span></div>
   <div class="store-card-meta">fotografia</div>
   <a class="cta yellow" href="https://www.amazon.it/dp/B00XNMXE82?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI SU AMAZON →</a>
-<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><svg viewBox="0 0 64 64" fill="none" stroke="#ffbc60" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M32 18c-4-8 0-12 7-13M32 19c-19-8-31 2-27 21 3 16 14 19 27 16 13 3 24 0 27-16 4-19-8-29-27-21Z"/><path d="M19 31l-4 7h9Zm26 0-5 7h9ZM20 45l6 5 6-4 6 4 6-5M24 22c-9 10-8 21-3 29M40 22c9 10 8 21 3 29"/></svg></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card store-card">
   <div class="store-card-top"><span><img class="merchant-logo compact" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" loading="lazy" referrerpolicy="no-referrer"></span><span class="store-card-pill">Sconto dichiarato -29%</span></div>
   <div class="photo"><img src="https://m.media-amazon.com/images/I/41sU3FmloLL._SL500_.jpg" alt="Sleephome Vaniglia Materasso Singolo 80x190 Alto 20 cm" loading="lazy" referrerpolicy="no-referrer"></div>
@@ -592,15 +587,7 @@ body[data-pa-season] .pa-season-product-mark svg {display:block;width:32px!impor
   <div class="price">49,99 €<span class="old">69,99 €</span></div>
   <div class="store-card-meta">riposo</div>
   <a class="cta yellow" href="https://www.amazon.it/dp/B0CBS9LQJS?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI SU AMAZON →</a>
-<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><svg viewBox="0 0 64 64" fill="none" stroke="#ffbc60" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M32 18c-4-8 0-12 7-13M32 19c-19-8-31 2-27 21 3 16 14 19 27 16 13 3 24 0 27-16 4-19-8-29-27-21Z"/><path d="M19 31l-4 7h9Zm26 0-5 7h9ZM20 45l6 5 6-4 6 4 6-5M24 22c-9 10-8 21-3 29M40 22c9 10 8 21 3 29"/></svg></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
-<article class="card store-card">
-  <div class="store-card-top"><span><img class="merchant-logo compact" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" loading="lazy" referrerpolicy="no-referrer"></span><span class="store-card-pill">Sconto dichiarato -29%</span></div>
-  <div class="photo"><img src="https://m.media-amazon.com/images/I/51lI9oAQoWL._SL500_.jpg" alt="Meguiar&#x27;s Gold Class Carnauba Plus Premium Paste Wax 311g" loading="lazy" referrerpolicy="no-referrer"></div>
-  <h3>Meguiar&#x27;s Gold Class Carnauba Plus Premium Paste Wax 311g</h3>
-  <div class="price">22,49 €<span class="old">31,90 €</span></div>
-  <div class="store-card-meta">auto</div>
-  <a class="cta yellow" href="https://www.amazon.it/dp/B001MPST3M?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI SU AMAZON →</a>
-<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><svg viewBox="0 0 64 64" fill="none" stroke="#ffbc60" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M32 18c-4-8 0-12 7-13M32 19c-19-8-31 2-27 21 3 16 14 19 27 16 13 3 24 0 27-16 4-19-8-29-27-21Z"/><path d="M19 31l-4 7h9Zm26 0-5 7h9ZM20 45l6 5 6-4 6 4 6-5M24 22c-9 10-8 21-3 29M40 22c9 10 8 21 3 29"/></svg></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card store-card">
   <div class="store-card-top"><span><img class="merchant-logo compact" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" loading="lazy" referrerpolicy="no-referrer"></span><span class="store-card-pill">Sconto dichiarato -29%</span></div>
   <div class="photo"><img src="https://m.media-amazon.com/images/I/51zBY7JX+oL._SL500_.jpg" alt="Caramelle Gommose agli Aromi Frutti Assortiti Lupo Alberto 200 x 11,5 g" loading="lazy" referrerpolicy="no-referrer"></div>
@@ -608,7 +595,7 @@ body[data-pa-season] .pa-season-product-mark svg {display:block;width:32px!impor
   <div class="price">22,49 €<span class="old">31,50 €</span></div>
   <div class="store-card-meta">cibo</div>
   <a class="cta yellow" href="https://www.amazon.it/dp/B0BT1J3S31?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI SU AMAZON →</a>
-<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><svg viewBox="0 0 64 64" fill="none" stroke="#ffbc60" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M32 18c-4-8 0-12 7-13M32 19c-19-8-31 2-27 21 3 16 14 19 27 16 13 3 24 0 27-16 4-19-8-29-27-21Z"/><path d="M19 31l-4 7h9Zm26 0-5 7h9ZM20 45l6 5 6-4 6 4 6-5M24 22c-9 10-8 21-3 29M40 22c9 10 8 21 3 29"/></svg></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card store-card">
   <div class="store-card-top"><span><img class="merchant-logo compact" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" loading="lazy" referrerpolicy="no-referrer"></span><span class="store-card-pill">Sconto dichiarato -28%</span></div>
   <div class="photo"><img src="https://m.media-amazon.com/images/I/41JXOXYs1mL._SL500_.jpg" alt="Polti Coffea S15W, Macchina per Caffè Espresso a Cialde E.S.E. da 44 mm" loading="lazy" referrerpolicy="no-referrer"></div>
@@ -616,7 +603,7 @@ body[data-pa-season] .pa-season-product-mark svg {display:block;width:32px!impor
   <div class="price">99,99 €<span class="old">139,00 €</span></div>
   <div class="store-card-meta">cucina</div>
   <a class="cta yellow" href="https://www.amazon.it/dp/B0CD7LH5FW?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI SU AMAZON →</a>
-<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><svg viewBox="0 0 64 64" fill="none" stroke="#ffbc60" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M32 18c-4-8 0-12 7-13M32 19c-19-8-31 2-27 21 3 16 14 19 27 16 13 3 24 0 27-16 4-19-8-29-27-21Z"/><path d="M19 31l-4 7h9Zm26 0-5 7h9ZM20 45l6 5 6-4 6 4 6-5M24 22c-9 10-8 21-3 29M40 22c9 10 8 21 3 29"/></svg></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card store-card">
   <div class="store-card-top"><span><img class="merchant-logo compact" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" loading="lazy" referrerpolicy="no-referrer"></span><span class="store-card-pill">Sconto dichiarato -28%</span></div>
   <div class="photo"><img src="https://m.media-amazon.com/images/I/418Njw0Z9RL._SL500_.jpg" alt="Asics Game FF Padel Sneaker" loading="lazy" referrerpolicy="no-referrer"></div>
@@ -624,7 +611,7 @@ body[data-pa-season] .pa-season-product-mark svg {display:block;width:32px!impor
   <div class="price">64,90 €<span class="old">90,00 €</span></div>
   <div class="store-card-meta">padel</div>
   <a class="cta yellow" href="https://www.amazon.it/dp/B0F5BQLD2D?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI SU AMAZON →</a>
-<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><svg viewBox="0 0 64 64" fill="none" stroke="#ffbc60" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M32 18c-4-8 0-12 7-13M32 19c-19-8-31 2-27 21 3 16 14 19 27 16 13 3 24 0 27-16 4-19-8-29-27-21Z"/><path d="M19 31l-4 7h9Zm26 0-5 7h9ZM20 45l6 5 6-4 6 4 6-5M24 22c-9 10-8 21-3 29M40 22c9 10 8 21 3 29"/></svg></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card store-card">
   <div class="store-card-top"><span><img class="merchant-logo compact" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" loading="lazy" referrerpolicy="no-referrer"></span><span class="store-card-pill">Sconto dichiarato -28%</span></div>
   <div class="photo"><img src="https://m.media-amazon.com/images/I/41m1ElaK4VL._SL500_.jpg" alt="Hot Wheels Hot Wheels City Pista con 1 macchinina" loading="lazy" referrerpolicy="no-referrer"></div>
@@ -632,7 +619,7 @@ body[data-pa-season] .pa-season-product-mark svg {display:block;width:32px!impor
   <div class="price">22,50 €<span class="old">31,12 €</span></div>
   <div class="store-card-meta">bambini giochi</div>
   <a class="cta yellow" href="https://www.amazon.it/dp/B0B61SYRSZ?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI SU AMAZON →</a>
-<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><svg viewBox="0 0 64 64" fill="none" stroke="#ffbc60" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M32 18c-4-8 0-12 7-13M32 19c-19-8-31 2-27 21 3 16 14 19 27 16 13 3 24 0 27-16 4-19-8-29-27-21Z"/><path d="M19 31l-4 7h9Zm26 0-5 7h9ZM20 45l6 5 6-4 6 4 6-5M24 22c-9 10-8 21-3 29M40 22c9 10 8 21 3 29"/></svg></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card store-card">
   <div class="store-card-top"><span><img class="merchant-logo compact" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" loading="lazy" referrerpolicy="no-referrer"></span><span class="store-card-pill">Sconto dichiarato -28%</span></div>
   <div class="photo"><img src="https://m.media-amazon.com/images/I/51xpksjk5FL._SL500_.jpg" alt="ZOVHYYA Diffusore di Oli Essenziali 500 ml con Telecomando e 4 Timer" loading="lazy" referrerpolicy="no-referrer"></div>
@@ -640,7 +627,7 @@ body[data-pa-season] .pa-season-product-mark svg {display:block;width:32px!impor
   <div class="price">18,79 €<span class="old">25,99 €</span></div>
   <div class="store-card-meta">comfort casa</div>
   <a class="cta yellow" href="https://www.amazon.it/dp/B0CSYY5GXR?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI SU AMAZON →</a>
-<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><svg viewBox="0 0 64 64" fill="none" stroke="#ffbc60" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M32 18c-4-8 0-12 7-13M32 19c-19-8-31 2-27 21 3 16 14 19 27 16 13 3 24 0 27-16 4-19-8-29-27-21Z"/><path d="M19 31l-4 7h9Zm26 0-5 7h9ZM20 45l6 5 6-4 6 4 6-5M24 22c-9 10-8 21-3 29M40 22c9 10 8 21 3 29"/></svg></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card store-card">
   <div class="store-card-top"><span><img class="merchant-logo compact" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" loading="lazy" referrerpolicy="no-referrer"></span><span class="store-card-pill">Sconto dichiarato -28%</span></div>
   <div class="photo"><img src="https://m.media-amazon.com/images/I/41kvggW5UDL._SL500_.jpg" alt="Vitafit Bilancia Pesapersone Impedenziometrica, Pesatura Professionale in Fabbrica dal 2001" loading="lazy" referrerpolicy="no-referrer"></div>
@@ -648,7 +635,7 @@ body[data-pa-season] .pa-season-product-mark svg {display:block;width:32px!impor
   <div class="price">14,43 €<span class="old">19,99 €</span></div>
   <div class="store-card-meta">salute</div>
   <a class="cta yellow" href="https://www.amazon.it/dp/B0CNVNNQT6?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI SU AMAZON →</a>
-<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><svg viewBox="0 0 64 64" fill="none" stroke="#ffbc60" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M32 18c-4-8 0-12 7-13M32 19c-19-8-31 2-27 21 3 16 14 19 27 16 13 3 24 0 27-16 4-19-8-29-27-21Z"/><path d="M19 31l-4 7h9Zm26 0-5 7h9ZM20 45l6 5 6-4 6 4 6-5M24 22c-9 10-8 21-3 29M40 22c9 10 8 21 3 29"/></svg></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card store-card">
   <div class="store-card-top"><span><img class="merchant-logo compact" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" loading="lazy" referrerpolicy="no-referrer"></span><span class="store-card-pill">Sconto dichiarato -27%</span></div>
   <div class="photo"><img src="https://m.media-amazon.com/images/I/31MMOPX5kFL._SL500_.jpg" alt="adidas Unisex Adulto Court Spec 2 Tennis Shoes, Core Black/Cloud White/Scarlet, 42 EU" loading="lazy" referrerpolicy="no-referrer"></div>
@@ -656,7 +643,7 @@ body[data-pa-season] .pa-season-product-mark svg {display:block;width:32px!impor
   <div class="price">43,99 €<span class="old">60,00 €</span></div>
   <div class="store-card-meta">padel</div>
   <a class="cta yellow" href="https://www.amazon.it/dp/B0C3WG2P77?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI SU AMAZON →</a>
-<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><svg viewBox="0 0 64 64" fill="none" stroke="#ffbc60" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M32 18c-4-8 0-12 7-13M32 19c-19-8-31 2-27 21 3 16 14 19 27 16 13 3 24 0 27-16 4-19-8-29-27-21Z"/><path d="M19 31l-4 7h9Zm26 0-5 7h9ZM20 45l6 5 6-4 6 4 6-5M24 22c-9 10-8 21-3 29M40 22c9 10 8 21 3 29"/></svg></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card store-card">
   <div class="store-card-top"><span><img class="merchant-logo compact" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" loading="lazy" referrerpolicy="no-referrer"></span><span class="store-card-pill">Sconto dichiarato -27%</span></div>
   <div class="photo"><img src="https://m.media-amazon.com/images/I/41+to+4CYXL._SL500_.jpg" alt="NESCAFÉ DOLCE GUSTO Cortado Espresso Macchiato Caffè 96 Capsule" loading="lazy" referrerpolicy="no-referrer"></div>
@@ -664,7 +651,7 @@ body[data-pa-season] .pa-season-product-mark svg {display:block;width:32px!impor
   <div class="price">20,99 €<span class="old">28,77 €</span></div>
   <div class="store-card-meta">caffe capsule</div>
   <a class="cta yellow" href="https://www.amazon.it/dp/B01JLU6GTS?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI SU AMAZON →</a>
-<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><svg viewBox="0 0 64 64" fill="none" stroke="#ffbc60" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M32 18c-4-8 0-12 7-13M32 19c-19-8-31 2-27 21 3 16 14 19 27 16 13 3 24 0 27-16 4-19-8-29-27-21Z"/><path d="M19 31l-4 7h9Zm26 0-5 7h9ZM20 45l6 5 6-4 6 4 6-5M24 22c-9 10-8 21-3 29M40 22c9 10 8 21 3 29"/></svg></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card store-card">
   <div class="store-card-top"><span><img class="merchant-logo compact" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" loading="lazy" referrerpolicy="no-referrer"></span><span class="store-card-pill">Sconto dichiarato -27%</span></div>
   <div class="photo"><img src="https://m.media-amazon.com/images/I/313KxPBa7EL._SL500_.jpg" alt="THE G LAB Kult Helium Pro Mouse Gaming con Cavo 12800 DPI RGB" loading="lazy" referrerpolicy="no-referrer"></div>
@@ -672,7 +659,7 @@ body[data-pa-season] .pa-season-product-mark svg {display:block;width:32px!impor
   <div class="price">10,93 €<span class="old">14,99 €</span></div>
   <div class="store-card-meta">gaming</div>
   <a class="cta yellow" href="https://www.amazon.it/dp/B0GH1PXBQX?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI SU AMAZON →</a>
-<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><svg viewBox="0 0 64 64" fill="none" stroke="#ffbc60" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M32 18c-4-8 0-12 7-13M32 19c-19-8-31 2-27 21 3 16 14 19 27 16 13 3 24 0 27-16 4-19-8-29-27-21Z"/><path d="M19 31l-4 7h9Zm26 0-5 7h9ZM20 45l6 5 6-4 6 4 6-5M24 22c-9 10-8 21-3 29M40 22c9 10 8 21 3 29"/></svg></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card store-card">
   <div class="store-card-top"><span><img class="merchant-logo compact" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" loading="lazy" referrerpolicy="no-referrer"></span><span class="store-card-pill">Sconto dichiarato -26%</span></div>
   <div class="photo"><img src="https://m.media-amazon.com/images/I/41cUwM9xNoL._SL500_.jpg" alt="HONOR Pad X8b (4/128GB) WIFI SPACE GRAY" loading="lazy" referrerpolicy="no-referrer"></div>
@@ -680,7 +667,23 @@ body[data-pa-season] .pa-season-product-mark svg {display:block;width:32px!impor
   <div class="price">170,00 €<span class="old">229,90 €</span></div>
   <div class="store-card-meta">tablet pro</div>
   <a class="cta yellow" href="https://www.amazon.it/dp/B0H2J5DXPH?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI SU AMAZON →</a>
-<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><svg viewBox="0 0 64 64" fill="none" stroke="#ffbc60" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M32 18c-4-8 0-12 7-13M32 19c-19-8-31 2-27 21 3 16 14 19 27 16 13 3 24 0 27-16 4-19-8-29-27-21Z"/><path d="M19 31l-4 7h9Zm26 0-5 7h9ZM20 45l6 5 6-4 6 4 6-5M24 22c-9 10-8 21-3 29M40 22c9 10 8 21 3 29"/></svg></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article></div>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
+<article class="card store-card">
+  <div class="store-card-top"><span><img class="merchant-logo compact" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" loading="lazy" referrerpolicy="no-referrer"></span><span class="store-card-pill">Sconto dichiarato -26%</span></div>
+  <div class="photo"><img src="https://m.media-amazon.com/images/I/31DR0tozHXL._SL500_.jpg" alt="Healthy Fusion Whey Protein, Proteina Whey pura con Collagene e Magnesio" loading="lazy" referrerpolicy="no-referrer"></div>
+  <h3>Healthy Fusion Whey Protein, Proteina Whey pura con Collagene e Magnesio</h3>
+  <div class="price">22,14 €<span class="old">29,90 €</span></div>
+  <div class="store-card-meta">integratori proteine</div>
+  <a class="cta yellow" href="https://www.amazon.it/dp/B08YP1LPF5?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI SU AMAZON →</a>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
+<article class="card store-card">
+  <div class="store-card-top"><span><img class="merchant-logo compact" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" loading="lazy" referrerpolicy="no-referrer"></span><span class="store-card-pill">Sconto dichiarato -25%</span></div>
+  <div class="photo"><img src="https://m.media-amazon.com/images/I/41feldX-tAL._SL500_.jpg" alt="Amig Barbecue a gas Fireplus 6+1 da 12" loading="lazy" referrerpolicy="no-referrer"></div>
+  <h3>Amig Barbecue a gas Fireplus 6+1 da 12</h3>
+  <div class="price">232,96 €<span class="old">309,58 €</span></div>
+  <div class="store-card-meta">giardinaggio</div>
+  <a class="cta yellow" href="https://www.amazon.it/dp/B0DPMQKTKX?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI SU AMAZON →</a>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article></div>
   <p class="store-catalog-note">Catalogo aggiornato il 08/10/2026 alle 06:19. Prezzo, varianti, spedizione e disponibilità finali sono quelli indicati da Amazon al momento dell'acquisto.</p>
 </section>
 </div></main>
@@ -832,7 +835,7 @@ body[data-pa-season] .pa-season-product-mark svg {display:block;width:32px!impor
   else initGuideFilters();
 })();
 </script>
-<!-- PA_SEASONAL_PRODUCT_SCRIPT_START --><script>(function(){const markup="<span class=\"pa-season-product-mark\" aria-hidden=\"true\" title=\"Decorazione stagionale: Halloween\"><svg viewBox=\"0 0 64 64\" fill=\"none\" stroke=\"#ffbc60\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M32 18c-4-8 0-12 7-13M32 19c-19-8-31 2-27 21 3 16 14 19 27 16 13 3 24 0 27-16 4-19-8-29-27-21Z\"/><path d=\"M19 31l-4 7h9Zm26 0-5 7h9ZM20 45l6 5 6-4 6 4 6-5M24 22c-9 10-8 21-3 29M40 22c9 10 8 21 3 29\"/><\/svg><\/span>";
+<!-- PA_SEASONAL_PRODUCT_SCRIPT_START --><script>(function(){const markup="<span class=\"pa-season-product-mark\" aria-hidden=\"true\" title=\"Decorazione stagionale: Halloween\"><span class=\"pa-season-3d-icon\"><\/span><\/span>";
 function decorate(){document.querySelectorAll('.photo,.top-choice-photo,.quick-photo,.deal-image').forEach(function(photo){const card=photo.closest('.card,.top-choice,.quick-pick,.single,.feature');if(!card||Array.from(card.children).some(function(n){return n.classList.contains('pa-season-product-mark');}))return;const holder=document.createElement('div');holder.innerHTML=markup;card.appendChild(holder.firstElementChild);});}
 function start(){decorate();if(typeof MutationObserver!=='undefined'){new MutationObserver(decorate).observe(document.querySelector('main')||document.body,{childList:true,subtree:true});}}
 if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',start);else start();
