@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-08T08:32:50+02:00",
+  "generated_at": "2026-10-08T09:42:50+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -1040,13 +1040,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "HONOR Pad X8b (4/128GB) WIFI SPACE GRAY",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Tablet Android da 11 Pollici, Octa-Core, 24GB(4+20) RAM+128GB Memoria, Batteria 8200mAh, Widevine L1, Espandibile fino a 1TB, Doppia Fotocamera, Android Tablet per Studio, Lavoro e",
         "merchant": "",
         "ean": "",
@@ -1182,20 +1175,6 @@
     ],
     "migliori-monitor": [
       {
-        "title": "LG UltraWide 29U511A Monitor 29\" IPS WFHD(2560x1080) 100Hz per multitasking",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "AOC Gaming CU34G2XPD - Monitor curvo da 34 pollici WQHD, 180 Hz, 1 ms, FreeSync Premium (3440x1440, HDMI, DisplayPort, hub USB) nero/rosso",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Lenovo Notebook Ram 16GB CPU Intel i5-1342H Monitor 15.6\" Full HD SSD 512 GB LAN, HDMI, USB Win 11 Pro e Libre Office Pc portatile pronto all'uso - Colore Nero",
         "merchant": "",
         "ean": "",
@@ -1329,6 +1308,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "LG UltraWide 29U511A Monitor 29\" IPS WFHD(2560x1080) 100Hz per multitasking",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Philips Monitors Philips 346E2CUAE/00 Monitor 34\" VA WLED 3440 x 1440 HDMI/DP Curved, Nero, 34\"",
         "merchant": "",
         "ean": "",
@@ -1344,6 +1330,13 @@
       },
       {
         "title": "Gawfolk Monitor Gaming Curvo 34\" Ultrawide, UWQHD 3440x1440, 165Hz, AMD FreeSync, VESA",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "AOC Gaming CU34G2XPD - Monitor curvo da 34 pollici WQHD, 180 Hz, 1 ms, FreeSync Premium (3440x1440, HDMI, DisplayPort, hub USB) nero/rosso",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -1387,6 +1380,20 @@
     ],
     "migliori-smartwatch": [
       {
+        "title": "HUAWEI WATCH FIT 5 Smartwatch, Schermo AMOLED HD da 1,82\", Nero",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Amazfit Active Max 48mm Smartwatch 1,5'' AMOLED, 25 Giorni Autonomia, Mappe Offline, NFC, GPS, 4GB di Memoria, 170+ Sportive, 5 ATM, Monitoraggio Fitness, Sonno & Battito per Andro",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "2026 Smartwatch Uomo GPS,2.06\" HD AMOLED Orologio Smartwatch con Chiamate",
         "merchant": "",
         "ean": "",
@@ -1423,20 +1430,6 @@
       },
       {
         "title": "GPS Smartwatch Uomo Orologio con Chiamate: 1,46\" Grande Schermo Tondo Militare Smart Watch Fitness Sport Bussola Torcia Cardiofrequenzimetro Pressione Sonno Impermeabile Salute Oro",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "HUAWEI WATCH FIT 5 Smartwatch, Schermo AMOLED HD da 1,82\", Nero",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Amazfit Active Max 48mm Smartwatch 1,5'' AMOLED, 25 Giorni Autonomia, Mappe Offline, NFC, GPS, 4GB di Memoria, 170+ Sportive, 5 ATM, Monitoraggio Fitness, Sonno & Battito per Andro",
         "merchant": "",
         "ean": "",
         "mpn": "",
