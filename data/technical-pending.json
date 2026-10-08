@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-08T21:37:51+02:00",
+  "generated_at": "2026-10-08T22:47:51+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -692,13 +692,6 @@
       }
     ],
     "migliori-notebook": [
-      {
-        "title": "HP OmniBook 3 16-by0001slx, Notebook, AMD Ryzen 5 130, 8 GB RAM, 512 GB, AMD Radeon 660M integrata, Display 16\" 2K IPS Antiriflesso 300 nits, Laptop, Windows 11, Portatile, Argento",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "ASUS Vivobook 16 F1605VA#B0FZL8JLW9, Notebook con display 16\" Anti-glare, 60Hz,Intel® Core™ 9 Processor 270H,RAM 16GB, 1TB SSD, WIN11 Home, Argento",
         "merchant": "",
@@ -2861,6 +2854,13 @@
     ],
     "migliori-moda": [
       {
+        "title": "CMP Rigel Mid Trekking Shoes Wp, Scarpe da trekking Uomo, Grey, 45 EU",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "9 Pezzi Sacchetti Lavatrice,3 Misure Borsa a Rete Riutilizzabile",
         "merchant": "amazon",
         "ean": "",
@@ -2890,13 +2890,6 @@
       },
       {
         "title": "Tommy Hilfiger Bambino Felpa Faded Print con Scollo Rotondo, Blu (Dark Night Navy), 5 Anni",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "DAINESE - Pro-Armor G1 2.0, Paraschiena Moto Livello 2 Inseribile, Protezione Schiena Moto, Paraschiena Moto Certificato Compatibile con Tuta e Giacca Uomo EU 42-48, Donna EU 38-54",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
