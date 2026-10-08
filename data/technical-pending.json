@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-08T14:27:51+02:00",
+  "generated_at": "2026-10-08T15:37:51+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -1140,6 +1140,13 @@
     ],
     "migliori-monitor": [
       {
+        "title": "MSI MAG 276CFA E20 Monitor Gaming 27\", Pannello Rapid VA 1920x1080, 200 Hz, 0,5 ms (GtG)",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Lenovo Notebook Ram 16GB CPU Intel i5-1342H Monitor 15.6\" Full HD SSD 512 GB LAN, HDMI, USB Win 11 Pro e Libre Office Pc portatile pronto all'uso - Colore Nero",
         "merchant": "",
         "ean": "",
@@ -1337,13 +1344,6 @@
       },
       {
         "title": "Srnubi 8 \"Carplay Moto Navigazione GPS IP67 Impermeabile 4K Moto DVR Wireless Carplay Android Auto Moto Registratore Monitor",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Tomostrong 6.25' Navigatore GPS per Moto Schermo Impermeabile IP67 Supporto Wireless Carplay Moto Android Auto Doppio BT DVR Registratore di Guida Monitor Moto",
         "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
