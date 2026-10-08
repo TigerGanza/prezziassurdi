@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-08T15:37:51+02:00",
+  "generated_at": "2026-10-08T16:47:52+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -395,20 +395,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Hisense Smart TV QLED 144Hz 43\" 4K 43E7S PRO",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Hisense Smart TV MiniLED 144Hz 65\" 4K 65E8S",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "XIAOMI TV F Pro 32 2025, 32 pollici (81 cm), QLED, Smart TV, Fire TV, Triple Tuner DVB-C/S/S2/T/T2,Dolby Audio, DTS Virtual:X, DTS-HD, Controllo Vocale Alexa, Compatibile con Apple",
         "merchant": "",
         "ean": "",
@@ -452,6 +438,13 @@
       },
       {
         "title": "Amazon Ember serie 4 da 43\" con Fire TV (ultimo modello), smart TV 4K UHD, HDR10+, processore veloce, Dolby Audio, modalità ambiente, TV in diretta gratuita, trova serie TV più vel",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Hisense Smart TV QLED 144Hz 43\" 4K 43E7S PRO",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -596,16 +589,16 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      }
-    ],
-    "offerte-tv-55-65-pollici": [
+      },
       {
-        "title": "Hisense Smart TV MiniLED 144Hz 65\" 4K 65E8S",
-        "merchant": "amazon",
+        "title": "TCL 65PF650 – Smart TV 4K Ultra HD da 65\", Fire TV",
+        "merchant": "",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      },
+      }
+    ],
+    "offerte-tv-55-65-pollici": [
       {
         "title": "TCL 55T69C – Smart TV QLED 4K HDR10+ da 55\", Google TV con Dolby Atmos",
         "merchant": "",
@@ -2563,6 +2556,13 @@
     ],
     "migliori-frigoriferi": [
       {
+        "title": "Midea MDRB424FGE02IW 310L Frigorifero Combinato, Libera Installazione, Total No Frost, Ventilazione MultiFlow, Doppia Porta Reversibile, Controllo Touch",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "BEKO RCSA300K40GN - Frigorifero Combinato Libera Installazione 291 Litri, 4 Ripiani in Vetro, Frigo con Congelatore 3 Cassetti, Elettrodomestici Cucina, Classe E, 54L x 181,4H x 57",
         "merchant": "",
         "ean": "",
@@ -2606,13 +2606,6 @@
       },
       {
         "title": "Hisense Rib312F4Awe Frigorifero Combinato Da Incasso, Tecnologia No Frost, Capacità 246 L, Illuminazione Led, Display Elettronico Per Controllo Temperatura, Bianco, ‎54.5 x 54 x 17",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Midea MDRB424FGE02IW 310L Frigorifero Combinato, Libera Installazione, Total No Frost, Ventilazione MultiFlow, Doppia Porta Reversibile, Controllo Touch",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -2910,6 +2903,13 @@
     ],
     "migliori-moda": [
       {
+        "title": "Tommy Hilfiger Bambino Felpa Faded Print con Scollo Rotondo, Blu (Dark Night Navy), 5 Anni",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "DAINESE - Pro-Armor G1 2.0, Paraschiena Moto Livello 2 Inseribile, Protezione Schiena Moto, Paraschiena Moto Certificato Compatibile con Tuta e Giacca Uomo EU 42-48, Donna EU 38-54",
         "merchant": "amazon",
         "ean": "",
@@ -2932,13 +2932,6 @@
       },
       {
         "title": "JACK & JONES Jjecorp Logo Sweat Hood Noos Felpe con cappuccio, Grigio (Light Grey Melange Detail:reg Fit - Melange), L Uomo",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "costume halloween donna nero costumi vestito adulta vestiti strega abito medievale vampira carnevale scheletro adulto sposa cadavere tuta pirata gotici horror medievali abiti zombi",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
