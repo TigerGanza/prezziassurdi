@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-09T14:13:09+02:00",
+  "generated_at": "2026-10-09T15:32:51+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -402,6 +402,20 @@
     ],
     "tv-in-offerta": [
       {
+        "title": "LG OLED AI 48 Pollici, Serie B6E 2026 Smart TV 4K - OLED48B6ELC",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "LG OLED evo AI 77 Pollici, Serie C6 2026 Smart TV 4K - OLED77C64LA",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Sony BRAVIA 7 II True RGB 75 Inch TV, 4K Smart TV (Google TV), RGB LED, XR Processor with AI Technology, 120hz Television with Dolby Vision/Atmos, PS5 compatibility, 75XR75M2, 2026",
         "merchant": "amazon",
         "ean": "",
@@ -596,20 +610,6 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "TCL 65V6C – Smart TV 4K HDR Direct LED da 65\", Google TV con Dolby Audio",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Hisense Smart TV QLED 65\" 4K 65E7DS",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
       }
     ],
     "offerte-tv-55-65-pollici": [
@@ -686,13 +686,6 @@
       {
         "title": "Hisense Smart TV QLED 65\" 4K 65E7DS",
         "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Toshiba 55QV2463DA QLED TV 139,7 cm (55'') 4K Ultra HD Smart TV Nero 250 cd/m²",
-        "merchant": "unieuro",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
@@ -791,35 +784,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "FUCHU Laptop 2026 NUOVISSIMO Computer Portatile Aziendale Intel da 14.1 Pollici, 12GB RAM, 256GB/512GB/1TB SSD, Windows 11, Notebook per Studio, Intrattenimento e Lavoro",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "FUCHU 2026 Laptop Intel Core I3 6100U 16GB RAM 1TB 2TB SSD 14.1 Pollici Ultra Sottile Computer Windows 11 Pro PC Gaming per Ufficio Studio Business",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Ninkear S14 Laptop 14' 2.2K IPS AMD Ryzen 5 6600H 6 Core 4.55GHz 16GB LPDDR5X 1TB PCIe SSD WiFi 6 BT5.3 PD65W Ricarica Rapida 1kg Ultra Leggero Type C Windows 11,180 ° Hinge Finger",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "FUCHU 14.1'' NUOVO Computer Portatile 16GB DDR4 1TB 2TB SSD Intel I3 6100U Notebook Portatile Windows 11 Laptop per Ufficio Studio Giochi PC",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Ninkear A15 Pro Laptop AMD Ryzen 5 5500U 16GB RAM 1TB SSD 16 pollici 2.5K 120Hz IPS Corpo in metallo Windows 11 WiFi6 Impronta digitale 65W Ricarica veloce Business Ufficio",
         "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
@@ -954,49 +919,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "FUCHU 2026 Laptop Intel Core I3 6100U 16GB RAM 1TB 2TB SSD 14.1 Pollici Ultra Sottile Computer Windows 11 Pro PC Gaming per Ufficio Studio Business",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Chuwi Ubox Mini PC AMD Ryzen 5 6600H 16GB LPDDR5 512GB SSD Windows 11 Pro Decodifica 4K 144Hz Wifi 6 Bt 5.2 Estensione M.2 1T*2 650g",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Mini PC SOYO M5 Mini AMD Ryzen 3 4300U LPDDR4 16GB RAM 512GB ROM Wifi 5 BT5.0 Windows 11 Pro Computer Desktop",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Mini PC CHUWI LarkBox X con Intel i3 1220P, 8GB di RAM, SSD da 256GB, WiFi 6, computer desktop",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Scheda grafica SOYO NVIDIA GeForce RTX 3070 per gaming, 8GB GDDR6, 256Bit, desktop, PCI E 4.0, 8Pin+8Pin, per computer desktop da casa e ufficio",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "SOYO S5 Air Mini PC AMD Ryzen 5 7535HS 16GB LPDDR5 512GB M.2 SSD Windows 11 Pro AMD Radeon Graphics Mini Computer Desktop Doppia HDMI Type C RJ45 Micro PC per Casa, Ufficio e Gamin",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "KAMRUI H1 AMD Ryzen 7 7735HS Mini PC da Gaming 24GB RAM LPDDR5 512GB SSD Mini PC Triplo Display 4K WiFi6 BT5.2 Mini PC Desktop",
         "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
@@ -1336,15 +1259,15 @@
         "status": "da_verificare"
       },
       {
-        "title": "Junsun DVR per moto da 8,1 pollici Dual 2K con Carplay, Android Auto, GPS, display di navigazione, impermeabile IPX7, dashcam portatile, monitor touchscreen digitale, Moto BT",
+        "title": "Per Sundiro Honda CBF190TR 2018 2026 Srnubi, monitor digitale per cruscotto moto da 6,25 pollici, con Carplay wireless e Android Auto, display intelligente Bluetooth IP67 impermeab",
         "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "Schermo Carplay automatico Android per navigazione GPS DVR portatile da 7 \"IPX7 impermeabile per fotocamere moto videoregistratore monitor BT",
-        "merchant": "aliexpress",
+        "title": "OMEN by HP Monitor da gaming 27'' FHD 240 Hz – OMEN 27s",
+        "merchant": "unieuro",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
@@ -1506,13 +1429,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Smartwatch HUAWEI WATCH FIT 5 Pro Originale",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "HUAWEI WATCH GT 6 Pro Smartwatch HUAWEI con display AMOLED da 1,47”, 21 giorni di autonomia, HarmonyOS 6.0, NFC, chiamate Bluetooth, HUAWEI WATCH GT 6Pro",
         "merchant": "aliexpress",
         "ean": "",
@@ -1527,27 +1443,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Smartwatch CMF Watch 3 Pro con Display AMOLED da 1,43 Pollici, 13 Giorni di Autonomia, Doppio GPS, Chiamate Bluetooth con Cancellazione del Rumore AI, Monitoraggio della Frequenza ",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Garmin Forerunner 255 Sport Smartwatch 46mm 1.3 '' schermo a colori 14 giorni durata della batteria 4GB RAM NFC Bluetooth Wifi 5ATM impermeabile",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "OnePlus Watch 4 Smartwatch 47mm 32GB ROM 2GB RAM Bluetooth NFC GPS, Batteria fino a 16 giorni, Display LTPO OLED da 1.5\" 3000 nit, Snapdragon W5, Wear OS 6.0, IP69, 5ATM",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Smartwatch Huawei Watch GT Runner 2 da 1,32 pollici",
         "merchant": "aliexpress",
         "ean": "",
@@ -1555,8 +1450,36 @@
         "status": "da_verificare"
       },
       {
-        "title": "HONOR Watch X5i, Versione Globale, Smartwatch HONOR 2026, Schermo AMOLED con Cornice Sottile da 1,97 Pollici, 21 Giorni di Autonomia, 109 Modalità Sportive",
-        "merchant": "aliexpress",
+        "title": "Samsung Galaxy Watch6 Classic Smartwatch Fitness Tracker Ghiera Interattiva in Acciao Inox 47mm Graphite",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Apple Watch Series 10 Serie 10 GPS + Cellular 46mm Cassa in Titanio color Ardesia con Loop in maglia milanese ardesia S/M",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Garmin Fenix E 3,3 cm (1.3'') AMOLED 47 mm Digitale 416 x 416 Pixel Touch screen Nero Wi Fi GPS (satellitare)",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "IOPLEE IOPEXTWATCH669BK smartwatch e orologio sportivo 3,63 cm (1.43'') AMOLED Digitale 466 x 466 Pixel Touch screen Nero",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "IOPLEE IOPEXTWATCH670BL smartwatch e orologio sportivo 3,63 cm (1.43'') AMOLED Digitale 466 x 466 Pixel Touch screen Blu",
+        "merchant": "unieuro",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
@@ -1790,27 +1713,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Ultimea 410W, soundbar con audio surround virtuale 7.1, ideale per smart TV, dotata di subwoofer da 6,5 pollici e 2 altoparlanti surround, controllabile tramite app.",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "ULTIMEA Soundbar Compatta 2.1ch per TV con Controllo App, Subwoofer Integrato da 3 Pollici BassMX ™ Soundbar All in One per PC da Gaming",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "ULTIMEA Soundbar 240W 2.1ch con Subwoofer Wireless da 5.25\" e Controllo App, Sistema Home Theater per Smart TV, BassMX e VoiceMX",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Samsung Soundbar HW B750F/ZF, Audio 5.1 canali , Wireless Dolby 5.1ch, 2025",
         "merchant": "unieuro",
         "ean": "",
@@ -1974,34 +1876,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Interfono per Moto Freedconn, Cuffie Bluetooth per Casco, Comunicatore Vivavoce, Interfono a 6 Vie, Radio FM, Condivisione Musica Bluetooth",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Interfono per Casco Moto Freedconn, Auricolare Bluetooth, Condivisione Musica, Radio FM, Impermeabile IPX6 per Motociclisti",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Oneodio SuperEQ D72 Auricolari Open Ear Wireless Bluetooth 5.4 Cuffie con archetto da collo IPX4 Auricolari sportivi a conduzione aerea Controllo APP",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "LEXIN MeshCom citofono per cuffie Bluetooth e MESH per moto, con sistema di comunicazione Mesh, Audio citofono parallelo, 24 Riders",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Panasonic Cuffie a Padiglione Wireless RB HX220BDEK, Nero",
         "merchant": "unieuro",
         "ean": "",
@@ -2080,6 +1954,34 @@
       },
       {
         "title": "Sony Cuffie Bluetooth wireless WH CH520 Durata della batteria fino a 50 ore con ricarica rapida, stile on ear Bianco",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Sony Cuffie Bluetooth wireless WH CH520 Durata della batteria fino a 50 ore con ricarica rapida, stile on ear Blu",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Sony Cuffie Bluetooth wireless WH CH520 Durata della batteria fino a 50 ore con ricarica rapida, stile on ear Nero",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Sony WHCH520P.CE7 cuffia e auricolare Wireless A Padiglione Musica e Chiamate USB tipo C Bluetooth Rosa",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Sony WHCH520Y.CE7 cuffia e auricolare Wireless A Padiglione Musica e Chiamate USB tipo C Bluetooth Giallo",
         "merchant": "unieuro",
         "ean": "",
         "mpn": "",
@@ -2249,7 +2151,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "Robot lavavetri Liectroux S11, spruzzo d’acqua in 4 direzioni, pulizia di vetri, pavimenti, pareti e piastrelle, robot aspirapolvere per finestre,navigazione intelligente,sicurezza",
+        "title": "Robot Aspirapolvere ABIR X9, Doppio Lidar, Aspirazione 6500pa, Pulizia UV, Mappa Multi Piano, Area Restringibile tramite APP, Lavapavimenti Intelligente per Casa",
         "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
@@ -2342,28 +2244,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "Aspirapolvere senza fili LAMZIEN, con luce LED verde, potenza di aspirazione di 40000 PA, batteria ricaricabile, autonomia di 40 minuti, ideale per peli di animali domestici, tappe",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "400W 33000PA Potenza di aspirazione JR600 Cordless Wireless Aspirapolvere portatili per elettrodomestici per animali domestici 1L Tazza per la polvere Batteria rimovibile",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Supporto per aspirapolvere senza fili, porta aspirapolvere da casa, organizer per aspirapolvere V6 V8 V10 V11 V12 V15, bianco 127 cm",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Tecnologia centrifuga Tineco Floor ONE S7 PRO, aspirapolvere e lavapavimenti wireless con display LED, rimuove lo sporco appiccicoso e i peli di animali.",
         "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
@@ -2966,13 +2847,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Aucuu Borsa a Tracolla in Tela da Donna, Grande Capacità Tote con Cerniera per Shopping, Lavoro, Scuola e Viaggio",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
         "ean": "",
@@ -3153,6 +3027,13 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
+      },
+      {
+        "title": "Maglietta Divertente Uomo Donna - Non Volevo Venire - Idea Regalo Ironica e Simpatica per Amici, Compleanni, Feste Minimal Frasi Scritte Divertenti Unisex Nera (IT, Testo, XXL, Reg",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
       }
     ],
     "migliori-sneakers": [
@@ -3306,6 +3187,62 @@
       {
         "title": "ASOCO DREAM Scarpe da Trail Running Uomo Scarpe da Passeggio Leggero Traspirante Scarpe da Ginnastica Antiscivolo Fitness Running Sneakers,Nero Arancione,40 EU",
         "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Scarpe da skateboard unisex di grandi dimensioni, modello alla moda con taglio basso, sneakers casual con design a cuciture, suola resistente all'usura, soletta confortevole, calza",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Sneakers casual unisex con texture jacquard retrò, tomaia in tessuto resistente all'usura, suola spessa e rialzata, calzature per uso quotidiano",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Scarpe da skateboard unisex con cuciture rinforzate, modello alto, casual, sneakers da skateboard, calzature resistenti e durevoli per coppie, suola in gomma resistente all'usura, ",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Sneakers da skateboard unisex a taglio basso con suola rinforzata anti abrasione, scarpe casual alla moda con soletta morbida, resistenti all'usura e antiscivolo, con allacciatura,",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Scarpe da Skate di Lusso dal Design Trendy, Sneakers Casual alla Moda per Coppie, Scarpe da Skate Sportive Unisex Retrò con Suola Morbida ed Elastica, Scarpe Casual da Strada per i",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Scarpe da skateboard casual unisex, perfette per le vacanze del fine settimana. Sneakers da skateboard ideali per brevi viaggi, facili da trasportare, leggere, con tomaia traspiran",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Scarpe da skate casual dal design lussuoso e di alta qualità, calzature sportive alla moda in tinta unita, sneakers unisex a suola piatta, resistenti all'usura, con ammortizzazione",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Scarpe da skateboard unisex Vulcanized Craft, modello classico con punta arrotondata, sneakers casual, suola in gomma flessibile e indeformabile, tomaia traspirante, calzature per ",
+        "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
