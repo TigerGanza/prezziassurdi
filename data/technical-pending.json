@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-09T21:32:52+02:00",
+  "generated_at": "2026-10-09T22:42:52+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -1077,13 +1077,6 @@
     ],
     "migliori-monitor": [
       {
-        "title": "msi MAG 256FA E20 Monitor Gaming 24,5\" 1920x1080 FHD Rapid IPS, 200 Hz, 0,5 ms, HDR Ready, AMD FreeSync Premium, Eye Care, AI Vision, HDMI 2.0b, DP 1.2a, senza cornice, compatibile",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Lenovo Notebook Ram 16GB CPU Intel i5-1342H Monitor 15.6\" Full HD SSD 512 GB LAN, HDMI, USB Win 11 Pro e Libre Office Pc portatile pronto all'uso - Colore Nero",
         "merchant": "",
         "ean": "",
@@ -1996,27 +1989,6 @@
       }
     ],
     "migliori-robot-aspirapolvere": [
-      {
-        "title": "dreame L50 Ultra AE Robot Aspirapolvere,Autopulizia Mocio 100 °C, 28.000 Pa",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "dreame D20 Air Plus Robot Aspirapolvere, Aspirazione 20.000 Pa",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "DREAME L40 Ultra A Robot Aspirapolvere e Lavapavimenti con Svuotamento Automatico della Polvere e Doppio Sistema Antigroviglio, Aspirazione da 24.000 Pa, Sollevamento dei Panni di ",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Lefant M210 PRO OMNI Robot Aspirapolvere Lavapavimenti con Rullo 20.000Pa",
         "merchant": "",
