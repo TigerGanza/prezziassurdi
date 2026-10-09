@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-09T13:02:52+02:00",
+  "generated_at": "2026-10-09T14:13:09+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -827,6 +827,13 @@
       }
     ],
     "migliori-pc-desktop": [
+      {
+        "title": "origimagic C4 SE Mini PC, Ryzen 5 3500U, 8GB DDR4 RAM 256GB SSD",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Betashop PC Fisso Completo - Computer Desktop i7-4790 • RAM 32GB • SSD 1TB (512 SSD + 512HDD) • Grafica Integrata HD 430 • Wi-Fi • Masterizzatore DVD • HDMI • USB 3.0 • Windows 11 ",
         "merchant": "",
