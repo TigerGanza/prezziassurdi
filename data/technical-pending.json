@@ -1,19 +1,12 @@
 {
   "version": 1,
-  "generated_at": "2026-10-09T15:32:51+02:00",
+  "generated_at": "2026-10-09T16:42:51+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
     "smartphone-in-offerta": [
       {
         "title": "Fujifilm Instax mini Link 3 Sage Green, Mini Stampante per Smartphone",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Fujifilm Instax mini Link 3 Rose Pink, Mini Stampante per Smartphone",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -214,18 +207,18 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
+      },
+      {
+        "title": "Samsung Galaxy A37 5G, 128GB, RAM 6GB, Awesome Charcoal [Versione Italiana]",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
       }
     ],
     "migliori-smartphone-sotto-300-euro": [
       {
         "title": "Fujifilm Instax mini Link 3 Sage Green, Mini Stampante per Smartphone",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Fujifilm Instax mini Link 3 Rose Pink, Mini Stampante per Smartphone",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -423,13 +416,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "LG OLED evo AI 55 Pollici, Serie G6 2026 Smart TV 4K - OLED55G64LW",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Xiaomi TV 32 pollici 2026, HD Smart TV Fire TV Dolby Audio L32MB-FAVEU",
         "merchant": "",
         "ean": "",
@@ -610,16 +596,16 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      }
-    ],
-    "offerte-tv-55-65-pollici": [
+      },
       {
-        "title": "LG OLED evo AI 55 Pollici, Serie G6 2026 Smart TV 4K - OLED55G64LW",
-        "merchant": "amazon",
+        "title": "TCL 65V6C – Smart TV 4K HDR Direct LED da 65\", Google TV con Dolby Audio",
+        "merchant": "",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      },
+      }
+    ],
+    "offerte-tv-55-65-pollici": [
       {
         "title": "Hisense Smart TV QLED 55\" 4K 55E7DS",
         "merchant": "",
@@ -934,6 +920,27 @@
       }
     ],
     "migliori-tablet": [
+      {
+        "title": "Laptok Android 16 Tablet 10 Pollici Gemini AI, 36GB RAM+128GB ROM+1TB TF",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "POPUX P11 Tablet 11 Pollici con 48 GB RAM + 128 GB ROM/TF 2TB Grigio",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Easerush P10PRO Tablet 10 Pollici 120Hz-Tablet con Tastiera e Penna, Grigio",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Luzglo P11 Android 16 Tablet 11 Pollici, 48GB RAM+128GB ROM (2TB TF), 90Hz, T7250 Octa-Core, 8800mAh, 13MP+5MP, Gemini AI, Widevine L1, Face ID, GPS, FM, Tablets con Tastiera e Pen",
         "merchant": "amazon",
@@ -1778,27 +1785,6 @@
     ],
     "cuffie-bluetooth-in-offerta": [
       {
-        "title": "Beats Solo 4 - Cuffie wireless bluetooth on-ear, compatibili con Apple e Android, fino a 50 ore di autonomia - Nero opaco",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Beats Solo Buds — Auricolari Bluetooth Wireless | 18 ore di autonomia | Compatibilità Apple e Android | Microfono integrato - Rosso trasparente (versione precedente)",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Beats Solo 4 - Cuffie wireless bluetooth on-ear, compatibili con Apple e Android, fino a 50 ore di autonomia - Rosa nuvola",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Xiaomi Redmi Buds 8, Cuffie Bluetooth, 50dB ANC, 11h+44h Batteria, Nero",
         "merchant": "",
         "ean": "",
@@ -1982,6 +1968,27 @@
       },
       {
         "title": "Sony WHCH520Y.CE7 cuffia e auricolare Wireless A Padiglione Musica e Chiamate USB tipo C Bluetooth Giallo",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Celly MAGPOCKET3IN1WH Caricabatterie per dispositivi mobili Cuffie, Smartphone, Orologio intelligente Bianco USB Carica wireless Ricarica rapida Interno",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Philips TAT1209BK/00 cuffia e auricolare True Wireless Stereo (TWS) In ear Musica e Chiamate Bluetooth Nero",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "JVC HA A3T Auricolare True Wireless Stereo (TWS) In ear Musica e Chiamate Bluetooth Nero",
         "merchant": "unieuro",
         "ean": "",
         "mpn": "",
@@ -2479,6 +2486,13 @@
     ],
     "migliori-frigoriferi": [
       {
+        "title": "Hotpoint Ariston HAT70I 932 S DC, Frigorifero Combinato 437l",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "BEKO RCSA300K40GN - Frigorifero Combinato Libera Installazione 291 Litri, 4 Ripiani in Vetro, Frigo con Congelatore 3 Cassetti, Elettrodomestici Cucina, Classe E, 54L x 181,4H x 57",
         "merchant": "",
         "ean": "",
@@ -2676,13 +2690,6 @@
       },
       {
         "title": "Samsung Frigorifero Combinato EcoFlex AI 2m 387L RB38C607AS9",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Samsung RB38T607BS9 frigorifero Combinato EcoFlex Libera installazione con congelatore 2m 387 L Classe B, Inox",
         "merchant": "unieuro",
         "ean": "",
         "mpn": "",
