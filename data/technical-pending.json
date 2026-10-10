@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-10T08:22:51+02:00",
+  "generated_at": "2026-10-10T09:32:51+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -914,6 +914,13 @@
     ],
     "migliori-tablet": [
       {
+        "title": "HUAWEI Tablet Matepad T10 LTE 9.7\" 2GB 32GB Blu",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Tablet Android da 11 Pollici, Octa-Core, 24GB(4+20) RAM+128GB Memoria, Batteria 8200mAh, Widevine L1, Espandibile fino a 1TB, Doppia Fotocamera, Android Tablet per Studio, Lavoro e",
         "merchant": "",
         "ean": "",
@@ -1041,6 +1048,13 @@
       }
     ],
     "migliori-monitor": [
+      {
+        "title": "KOORUI Monitor Gaming 27 Pollici Curvo FHD 180Hz 1500R HDR10 Schermo",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Lenovo Notebook Ram 16GB CPU Intel i5-1342H Monitor 15.6\" Full HD SSD 512 GB LAN, HDMI, USB Win 11 Pro e Libre Office Pc portatile pronto all'uso - Colore Nero",
         "merchant": "",
@@ -1247,6 +1261,20 @@
     ],
     "migliori-smartwatch": [
       {
+        "title": "Xiaomi Redmi Watch 6, Smartwatch Uomo Donna, Batteria 24 Giorno, Argento",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Xiaomi Redmi Watch 6, Smartwatch Uomo Donna, Batteria 24 Giorno, Nero",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Garmin Venu 3S, 41mm, Smartwatch GPS, Pebble Grey",
         "merchant": "amazon",
         "ean": "",
@@ -1276,13 +1304,6 @@
       },
       {
         "title": "XIAOMI Redmi Watch 6, Smartwatch Uomo Donna, Batteria 24 Giorno, Blu",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "XIAOMI Redmi Watch 6, Smartwatch Uomo Donna, Batteria 24 Giorno, Nero",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -1444,13 +1465,6 @@
       },
       {
         "title": "Garmin Fenix E 3,3 cm (1.3'') AMOLED 47 mm Digitale 416 x 416 Pixel Touch screen Nero Wi Fi GPS (satellitare)",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "IOPLEE IOPEXTWATCH669BK smartwatch e orologio sportivo 3,63 cm (1.43'') AMOLED Digitale 466 x 466 Pixel Touch screen Nero",
         "merchant": "unieuro",
         "ean": "",
         "mpn": "",
@@ -2121,6 +2135,13 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
+      },
+      {
+        "title": "Roborock Q10 VF+ Robot Aspirapolvere e Lavapavimenti, Aspirazione HyperForce 10.000 Pa, Sistema VibraRise 2.0 con Vibrazione 3000/min, Navigazione Intell",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
       }
     ],
     "aspirapolvere-senza-fili-in-offerta": [
@@ -2614,8 +2635,15 @@
     ],
     "friggitrici-ad-aria-offerte-confronto": [
       {
+        "title": "Ariete 4630/10 Friggitrice ad aria 9L, 1500 W, Capacità 9L, Capacità di cottura 2,5kg, 8 programmi preimpostati, Temperatura fino a 200°, Nero",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "LEHMANN Friggitrice ad Aria 8 Litri, Air Fryer XXL con Inserto Divisorio per Doppio Scomparto, Finestra di Visualizzazione, 12 Programmi & Regolazione Manuale 76–200°C, Lavabile in",
-        "merchant": "",
+        "merchant": "amazon",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
