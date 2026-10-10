@@ -1,5 +1,22 @@
 [
   {
+    "asin": "B00XUGWG76",
+    "title": "Barilla Pasta Sedanini Rigati di Semola di Grano Duro, I Classici, 500g",
+    "price": 0.64,
+    "old_price": 0.98,
+    "discount": 35.0,
+    "image": "https://m.media-amazon.com/images/I/4184Eq3z6UL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B00XUGWG76?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "cibo",
+    "macro_group": "spesa_bevande",
+    "seasonal_title": "",
+    "published_at": "2026-10-10T13:47:24.481139+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B08X2FMV5S",
     "title": "Peroni Birra Lager, Cassa 24x33cl Bottiglia, Malto Italiano, 4.7% Vol",
     "price": 13.16,
@@ -2324,52 +2341,6 @@
         "last_updated": "",
         "attributes": {
           "voltage_v": 18.0
-        }
-      }
-    ],
-    "merchant_match_score": 100,
-    "merchant_ean": "",
-    "merchant_prices_checked_at": "2026-10-09T23:46:12.131964+02:00"
-  },
-  {
-    "asin": "W93C6D829F",
-    "title": "Nuovo set combinato batteria e caricabatterie di ricambio 18V Li-Ion 2026, compatibile con avvitatori e utensili elettrici a batteria Makita, adatto ai modelli di batteria Bl1860 Bl1850B Bl1850 Bl1840",
-    "price": 13.59,
-    "old_price": 194.21,
-    "discount": 93.0,
-    "image": "https://ae-pic-a1.aliexpress-media.com/kf/S5e99aab196f64a10aa1afcc4467394b6E.jpg",
-    "url": "https://www.awin1.com/pclick.php?p=46267558977&a=3086723&m=12251",
-    "category": "informatica",
-    "macro_group": "awin_discovery",
-    "seasonal_title": "Offerta AliExpress",
-    "published_at": "2026-10-10T00:27:29.934999+02:00",
-    "source_merchant": "aliexpress",
-    "source_external_id": "12000060814310707",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "aliexpress",
-        "merchant_name": "AliExpress",
-        "merchant_id": "12251",
-        "product_id": "12000060814310707",
-        "awin_product_id": "46267558977",
-        "title": "Nuovo set combinato batteria e caricabatterie di ricambio 18V Li-Ion 2026, compatibile con avvitatori e utensili elettrici a batteria Makita, adatto ai modelli di batteria Bl1860 Bl1850B Bl1850 Bl1840",
-        "brand": "Makita",
-        "ean": "",
-        "mpn": "",
-        "price": 13.59,
-        "old_price": 194.21,
-        "discount": 93.0,
-        "image": "https://ae-pic-a1.aliexpress-media.com/kf/S5e99aab196f64a10aa1afcc4467394b6E.jpg",
-        "url": "https://www.awin1.com/pclick.php?p=46267558977&a=3086723&m=12251",
-        "category": "Elettronica di consumo , Accessori e ricambi , Batterie",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {
-          "voltage_v": 18.0,
-          "condition": "new"
         }
       }
     ],
