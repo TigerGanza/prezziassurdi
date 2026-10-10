@@ -1,5 +1,39 @@
 [
   {
+    "asin": "B01BGBJ8Y0",
+    "title": "Logitech C270 HD Webcam, 720p HD - Nero",
+    "price": 15.82,
+    "old_price": 19.99,
+    "discount": 21.0,
+    "image": "https://m.media-amazon.com/images/I/31QxANSMUwL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B01BGBJ8Y0?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "streaming_setup",
+    "macro_group": "tech",
+    "seasonal_title": "",
+    "published_at": "2026-10-10T08:17:24.446559+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
+    "asin": "B07MM4V7NR",
+    "title": "Logitech C920S HD Pro Webcam - Nero",
+    "price": 65.99,
+    "old_price": 99.99,
+    "discount": 34.0,
+    "image": "https://m.media-amazon.com/images/I/413c3lWANvL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B07MM4V7NR?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "streaming_setup",
+    "macro_group": "tech",
+    "seasonal_title": "",
+    "published_at": "2026-10-10T08:17:24.423403+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B09F6LH73M",
     "title": "Mulino Bianco Biscotti Cuor di Mela con Mele 100% Italiane, 300 g",
     "price": 2.06,
@@ -2454,67 +2488,5 @@
     "source_external_id": "",
     "quality_status": "ready",
     "quality_issues": []
-  },
-  {
-    "asin": "B0H8SPZZJS",
-    "title": "Panasonic TV-32S65C, Full HD Vivid QLED+, Fire TV Televisore, Smart TV",
-    "price": 233.39,
-    "old_price": 289.0,
-    "discount": 19.0,
-    "image": "https://m.media-amazon.com/images/I/417cE9+yMVL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0H8SPZZJS?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "tv_premium",
-    "macro_group": "tech",
-    "seasonal_title": "",
-    "published_at": "2026-10-09T19:27:23.742081+02:00",
-    "source_merchant": "amazon",
-    "source_external_id": "",
-    "quality_status": "ready",
-    "quality_issues": []
-  },
-  {
-    "asin": "B0CBSLTT9L",
-    "title": "LG AI DD F4R7011TSWG Lavatrice 11kg, a Carica Frontale, Serie R7, Lavatrice Classe A -10%, 1400 giri, TurboWash 360, Vapore su 7 Programmi, Wi-Fi, Libera installazione, Bianco",
-    "price": 454.62,
-    "old_price": 599.0,
-    "discount": 24.0,
-    "image": "https://m.media-amazon.com/images/I/41T2IGZfoCL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0CBSLTT9L?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "grandi_elettrodomestici",
-    "macro_group": "casa_cucina",
-    "seasonal_title": "",
-    "published_at": "2026-10-09T19:17:26.171483+02:00",
-    "source_merchant": "amazon",
-    "source_external_id": "",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "unieuro",
-        "merchant_name": "Unieuro",
-        "merchant_id": "10139",
-        "product_id": "GOLF4R7011TSWC",
-        "awin_product_id": "43837128188",
-        "title": "LG F4R7011TSWC Lavatrice 11kg AI DD, Classe A-10%, 1400 giri, TurboWash, Vapore",
-        "brand": "LG",
-        "ean": "8806084287120",
-        "mpn": "F4R7011TSWCABWQPI",
-        "price": 549.9,
-        "old_price": 999.0,
-        "discount": 45.0,
-        "image": "https://www.unieuro.it/medias/sys_master/root/h2a/h4c/51180432556062/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-f6485c28241548739ae6bf117832a325-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-        "url": "https://www.awin1.com/pclick.php?p=43837128188&a=3086723&m=10139",
-        "category": "Lavatrici",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {
-          "capacity_kg": 11.0
-        }
-      }
-    ],
-    "merchant_match_score": 92,
-    "merchant_ean": "8806084287120",
-    "merchant_prices_checked_at": "2026-10-09T18:33:34.204204+02:00"
   }
 ]
