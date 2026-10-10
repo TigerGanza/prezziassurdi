@@ -1,5 +1,22 @@
 [
   {
+    "asin": "B08X2FMV5S",
+    "title": "Peroni Birra Lager, Cassa 24x33cl Bottiglia, Malto Italiano, 4.7% Vol",
+    "price": 13.16,
+    "old_price": 19.99,
+    "discount": 34.0,
+    "image": "https://m.media-amazon.com/images/I/41sjlpEhgzL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B08X2FMV5S?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "birre",
+    "macro_group": "spesa_bevande",
+    "seasonal_title": "",
+    "published_at": "2026-10-10T13:37:24.322250+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B0007X9IY4",
     "title": "Verbatim CD-R 80MIN Datalife PLUS, Confezione da 25",
     "price": 10.99,
@@ -2353,51 +2370,6 @@
         "attributes": {
           "voltage_v": 18.0,
           "condition": "new"
-        }
-      }
-    ],
-    "merchant_match_score": 100,
-    "merchant_ean": "",
-    "merchant_prices_checked_at": "2026-10-09T23:46:12.131964+02:00"
-  },
-  {
-    "asin": "W7F3695AC2",
-    "title": "Batteria Originale Makita BL1860 6Ah per Utensili Elettrici, Sostituzione Li-Ion LXT BL1850 BL1840 per Avvitatore 18V con BMS, Batteria 18V",
-    "price": 13.59,
-    "old_price": 194.21,
-    "discount": 93.0,
-    "image": "https://ae-pic-a1.aliexpress-media.com/kf/Sa01c424d26f3449787303feee142e2493.jpg",
-    "url": "https://www.awin1.com/pclick.php?p=46267561727&a=3086723&m=12251",
-    "category": "fai-da-te",
-    "macro_group": "awin_discovery",
-    "seasonal_title": "Offerta AliExpress",
-    "published_at": "2026-10-10T00:27:26.930048+02:00",
-    "source_merchant": "aliexpress",
-    "source_external_id": "12000060762561001",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "aliexpress",
-        "merchant_name": "AliExpress",
-        "merchant_id": "12251",
-        "product_id": "12000060762561001",
-        "awin_product_id": "46267561727",
-        "title": "Batteria Originale Makita BL1860 6Ah per Utensili Elettrici, Sostituzione Li-Ion LXT BL1850 BL1840 per Avvitatore 18V con BMS, Batteria 18V",
-        "brand": "Makita",
-        "ean": "",
-        "mpn": "",
-        "price": 13.59,
-        "old_price": 194.21,
-        "discount": 93.0,
-        "image": "https://ae-pic-a1.aliexpress-media.com/kf/Sa01c424d26f3449787303feee142e2493.jpg",
-        "url": "https://www.awin1.com/pclick.php?p=46267561727&a=3086723&m=12251",
-        "category": "Elettronica di consumo , Accessori e ricambi , Batterie",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {
-          "voltage_v": 18.0
         }
       }
     ],
