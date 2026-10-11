@@ -1,5 +1,53 @@
 [
   {
+    "asin": "B015CH1PJU",
+    "title": "SanDisk 128 GB Ultra Flair Unità flash USB 3.0",
+    "price": 25.69,
+    "old_price": 41.99,
+    "discount": 39.0,
+    "image": "https://m.media-amazon.com/images/I/31ZClWSgLzL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B015CH1PJU?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "fotografia",
+    "macro_group": "tech",
+    "seasonal_title": "",
+    "published_at": "2026-10-11T10:15:33.159773+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": [],
+    "merchant_offers": [
+      {
+        "merchant": "unieuro",
+        "merchant_name": "Unieuro",
+        "merchant_id": "10139",
+        "product_id": "SADSDCZ73128GG46",
+        "awin_product_id": "33300659201",
+        "title": "SanDisk ULTRA FLAIR unità flash USB 128 GB USB tipo A 3.2 Gen 1 (3.1 Gen 1) Nero, Argento",
+        "brand": "Sandisk",
+        "ean": "0619659136710",
+        "mpn": "3102193",
+        "price": 32.49,
+        "old_price": 56.99,
+        "discount": 43.0,
+        "image": "https://www.unieuro.it/medias/sys_master/root/h6f/h58/50369704099870/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-2d07dca5c9757d090345aef7a8adbb16-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
+        "url": "https://www.awin1.com/pclick.php?p=33300659201&a=3086723&m=10139",
+        "category": "Chiavette USB",
+        "category_path": "",
+        "availability": "in_stock",
+        "last_updated": "",
+        "attributes": {
+          "ambiguous_attributes": [
+            "color"
+          ],
+          "storage_gb": 128.0
+        }
+      }
+    ],
+    "merchant_match_score": 94,
+    "merchant_ean": "0619659136710",
+    "merchant_prices_checked_at": "2026-10-11T09:59:32.521933+02:00"
+  },
+  {
     "asin": "B0CHMMMN28",
     "title": "Philips rasoio elettrico serie 3000 - Rasoio elettrico Wet&Dry per uomo, tecnologia SkinProtect, colore Deep Black, rifinitore a scomparsa, supporto di ricarica, astuccio da viaggio (modello S3342/13)",
     "price": 59.99,
@@ -2364,23 +2412,6 @@
     "macro_group": "casa_cucina",
     "seasonal_title": "",
     "published_at": "2026-10-10T22:07:25.191646+02:00",
-    "source_merchant": "amazon",
-    "source_external_id": "",
-    "quality_status": "ready",
-    "quality_issues": []
-  },
-  {
-    "asin": "B003LNRTJS",
-    "title": "Spontex Panni Spugna in Cellulosa, assorbenza, spugna biodegradabile, 4 pezzi",
-    "price": 1.48,
-    "old_price": 1.99,
-    "discount": 26.0,
-    "image": "https://m.media-amazon.com/images/I/51Y47wRu+-L._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B003LNRTJS?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "pulizia_casa",
-    "macro_group": "casa_cucina",
-    "seasonal_title": "",
-    "published_at": "2026-10-10T22:07:25.176258+02:00",
     "source_merchant": "amazon",
     "source_external_id": "",
     "quality_status": "ready",
