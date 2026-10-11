@@ -2296,6 +2296,20 @@ body{background:var(--pa-v5-bg)!important}
 @media(max-width:1180px){.pa-v5-actions{gap:8px}.pa-v5-menu-link{font-size:10px!important}.pa-v5-facebook,.pa-v5-telegram{padding:10px 11px}.grid{grid-template-columns:repeat(auto-fit,minmax(190px,1fr))!important}}
 @media(max-width:980px){.pa-v5-header-inner{grid-template-columns:auto 1fr auto!important;gap:10px!important;padding-top:8px!important;padding-bottom:8px!important}.pa-v5-logo{width:62px!important;height:52px!important}.pa-v5-actions{display:none!important}.pa-v5-mobile-nav{display:block!important}.pa-v5-header-search{grid-column:1/-1;grid-row:2;min-height:48px}.hero-grid{grid-template-columns:1fr!important}.hero-main,.feature{min-height:auto!important}.grid{grid-template-columns:repeat(2,minmax(0,1fr))!important}.pa-v5-social-footer{align-items:flex-start;flex-direction:column}}
 @media(max-width:560px){.container{padding-left:10px!important;padding-right:10px!important}.hero-main{padding:22px 18px!important;border-radius:18px!important}.hero h1{font-size:40px!important;letter-spacing:-1.6px!important}.amazon-search-form{grid-template-columns:1fr!important}.amazon-search-btn{min-height:46px!important;width:100%!important}.feature{border-radius:18px!important}.section-panel{padding:11px!important}.section-head h2{font-size:23px!important}.grid{grid-template-columns:1fr!important}.photo{height:190px!important}.card h3{font-size:15px!important;min-height:auto!important}.card .price{font-size:28px!important}.pa-v5-category-menu{position:fixed;left:10px;right:10px;top:90px;width:auto;grid-template-columns:1fr 1fr}.pa-v5-mobile-nav .mobile-nav-menu{position:fixed!important;top:72px!important;left:10px!important;right:10px!important;width:auto!important;max-height:calc(100vh - 84px)!important;grid-template-columns:1fr 1fr!important}.pa-v5-mobile-nav .mobile-nav-menu a{min-height:44px!important;font-size:12px!important}}
+
+/* V14.86.12: explicit light hero palette and bounded linked product images. */
+body .feature .deal-title,body .feature .deal-title a{color:#172033!important;text-shadow:none!important}
+body .feature .deal-title{display:block!important;height:auto!important;min-height:0!important;max-height:none!important;overflow:visible!important;-webkit-line-clamp:unset!important;overflow-wrap:anywhere}
+body .feature .deal-label{color:#614000!important}
+body .feature .deal-save{color:#685000!important}
+body .feature .hero-age,body .feature .deal-secure{color:#596273!important}
+body .feature .hero-deal-grid{gap:12px!important;flex:0 0 auto!important}
+body .feature .hero-deal-grid>div{margin-top:0!important}
+body .feature .deal-image,body .section-panel .card .photo{display:flex!important;align-items:center!important;justify-content:center!important;box-sizing:border-box!important;min-height:0!important;overflow:hidden!important;flex-shrink:0!important}
+body .section-panel .card .photo>a{display:flex!important;align-items:center!important;justify-content:center!important;width:100%!important;height:100%!important;min-width:0!important;min-height:0!important;max-height:100%!important;box-sizing:border-box!important}
+body .feature .deal-image img,body .section-panel .card .photo img{display:block!important;width:100%!important;height:100%!important;max-width:100%!important;max-height:100%!important;min-width:0!important;min-height:0!important;object-fit:contain!important;object-position:center!important;box-sizing:border-box!important;transform:none!important;padding:10px!important}
+body .section-panel .card .pa-v5-card-store{width:fit-content!important;max-width:100%!important;height:30px!important;padding:4px 9px!important;background:#fff!important;border-radius:7px!important;color:#172033!important;box-sizing:border-box!important}
+@media(max-width:980px){body .feature{height:auto!important;min-height:0!important}body .feature .hero-deal-grid{display:grid!important;grid-template-columns:minmax(0,1fr)!important}}
 </style>
 <!-- PA_HOME_V5_STYLE_END -->
 
@@ -2378,7 +2392,7 @@ body{background:var(--pa-v5-bg)!important}
 <!-- PA_HOME_CONTROLS_STYLE_V1482_END -->
 <!-- PA_SEASONAL_SITE_STYLE_START -->
 <style id="pa-seasonal-site-style">
-body[data-pa-season="halloween"]{--pa-season-paper:#fcf5ee;--pa-season-dark:#1b1227;--pa-season-surface:#382148;--pa-season-accent:#ffbc60;--pa-season-ink:#241628}body[data-pa-season]{--pa-ribbon:url("https://prezziassurdi.com/assets/seasonal3d/halloween-ribbon-v148611.webp");--pa-icon:url("https://prezziassurdi.com/assets/seasonal3d/halloween-icon-v148611.webp")}
+body[data-pa-season="halloween"]{--pa-season-paper:#fcf5ee;--pa-season-dark:#1b1227;--pa-season-surface:#382148;--pa-season-accent:#ffbc60;--pa-season-ink:#241628}body[data-pa-season]{--pa-ribbon:url("https://prezziassurdi.com/assets/seasonal3d/halloween-ribbon-v148612.webp");--pa-icon:url("https://prezziassurdi.com/assets/seasonal3d/halloween-icon-v148612.webp")}
 
 body[data-pa-season] {--yellow:var(--pa-season-accent);--pa-v5-yellow:var(--pa-season-accent);--pa-v5-blue:var(--pa-season-dark);--pa-v5-blue2:var(--pa-season-surface)}
 body[data-pa-season][data-pa-layout="home"] {background:var(--pa-season-paper)!important}
@@ -7514,6 +7528,8 @@ body[data-pa-season] .pa-season-product-mark .pa-season-3d-icon {display:none}
 
 
 
+
+
 <!-- PA_HOME_TRUST_V1469_START -->
 <section class="pa-home-trust" aria-label="Come verifichiamo le offerte">
   <div><strong>Prezzo e orario visibili</strong><span>Ogni card indica quando il prezzo è stato rilevato.</span></div>
@@ -7582,7 +7598,7 @@ body[data-pa-season] .pa-season-product-mark .pa-season-3d-icon {display:none}
 <div class="discount">Risparmi 95,50 €</div>
 <div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="Amazon" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
 <a class="buy" href="https://www.amazon.it/dp/B0G58XNTH2?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI L'OFFERTA</a>
-<div class="meta">Prezzo controllato 39 min fa</div>
+<div class="meta">Prezzo controllato 42 min fa</div>
 <!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card" data-pa-home-card data-pa-category="animali" data-pa-category-label="Animali" data-pa-store="amazon" data-pa-price="0.39" data-pa-discount="48" data-pa-date="1791651144.616402">
 <span class="badge super">⚡ PREZZO ASSURDO</span>
@@ -7606,7 +7622,7 @@ body[data-pa-season] .pa-season-product-mark .pa-season-3d-icon {display:none}
 <div class="discount">Risparmi 26,96 €</div>
 <div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="Amazon" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
 <a class="buy" href="https://www.amazon.it/dp/B07FKRGGSR?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI L'OFFERTA</a>
-<div class="meta">Prezzo controllato 34 min fa</div>
+<div class="meta">Prezzo controllato 38 min fa</div>
 <!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article><section style="margin:28px 0 8px;padding:18px;border:1px solid #f2c66d;border-radius:16px;background:#fffaf0"><h2 style="margin:0 0 6px">⚠️ Possibili errori di prezzo</h2><p style="margin:0 0 14px">Prezzi estremi rilevati automaticamente: verifica subito prezzo, disponibilità, variante e venditore sul negozio.</p><div class="grid"><article class="card" data-pa-home-card data-pa-category="altro" data-pa-category-label="Offerta AliExpress" data-pa-store="aliexpress" data-pa-price="8.43" data-pa-discount="94" data-pa-date="1791670357.497615">
 <span class="badge hot">⚠️ POSSIBILE ERRORE</span>
 <span class="pa-discount-percent"><small>SCONTO</small>-94%</span>
@@ -7662,7 +7678,7 @@ body[data-pa-season] .pa-season-product-mark .pa-season-3d-icon {display:none}
 <div class="discount">Risparmi 99,01 €</div>
 <div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="Amazon" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
 <a class="buy" href="https://www.amazon.it/dp/B09PGK4JC2?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI L'OFFERTA</a>
-<div class="meta">Prezzo controllato 20 min fa</div>
+<div class="meta">Prezzo controllato 23 min fa</div>
 <!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card" data-pa-home-card data-pa-category="cucina" data-pa-category-label="Cucina" data-pa-store="amazon" data-pa-price="399.0" data-pa-discount="20" data-pa-date="1791692844.478971">
 <span class="badge new">NUOVA</span>
@@ -7674,7 +7690,7 @@ body[data-pa-season] .pa-season-product-mark .pa-season-3d-icon {display:none}
 <div class="discount">Risparmi 100,99 €</div>
 <div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="Amazon" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
 <a class="buy" href="https://www.amazon.it/dp/B09NL7DC7W?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI L'OFFERTA</a>
-<div class="meta">Prezzo controllato 20 min fa</div>
+<div class="meta">Prezzo controllato 23 min fa</div>
 <!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card" data-pa-home-card data-pa-category="cucina" data-pa-category-label="Cucina" data-pa-store="amazon" data-pa-price="349.9" data-pa-discount="17" data-pa-date="1791692844.432585">
 <span class="badge new">NUOVA</span>
@@ -7686,7 +7702,7 @@ body[data-pa-season] .pa-season-product-mark .pa-season-3d-icon {display:none}
 <div class="discount">Risparmi 70,00 €</div>
 <div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="Amazon" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
 <a class="buy" href="https://www.amazon.it/dp/B0983Y1GLG?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI L'OFFERTA</a>
-<div class="meta">Prezzo controllato 20 min fa</div>
+<div class="meta">Prezzo controllato 23 min fa</div>
 <!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card" data-pa-home-card data-pa-category="altro" data-pa-category-label="Offerta" data-pa-store="amazon" data-pa-price="14.52" data-pa-discount="23" data-pa-date="1791692544.37223">
 <span class="badge new">NUOVA</span>
@@ -7698,7 +7714,7 @@ body[data-pa-season] .pa-season-product-mark .pa-season-3d-icon {display:none}
 <div class="discount">Risparmi 4,44 €</div>
 <div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="Amazon" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
 <a class="buy" href="https://www.amazon.it/dp/B07XZHHNHC?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI L'OFFERTA</a>
-<div class="meta">Prezzo controllato 25 min fa</div>
+<div class="meta">Prezzo controllato 28 min fa</div>
 <!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card" data-pa-home-card data-pa-category="altro" data-pa-category-label="Offerta" data-pa-store="amazon" data-pa-price="20.64" data-pa-discount="24" data-pa-date="1791692544.356338">
 <span class="badge new">NUOVA</span>
@@ -7710,7 +7726,7 @@ body[data-pa-season] .pa-season-product-mark .pa-season-3d-icon {display:none}
 <div class="discount">Risparmi 6,35 €</div>
 <div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="Amazon" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
 <a class="buy" href="https://www.amazon.it/dp/B09XHSLX1N?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI L'OFFERTA</a>
-<div class="meta">Prezzo controllato 25 min fa</div>
+<div class="meta">Prezzo controllato 28 min fa</div>
 <!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card" data-pa-home-card data-pa-category="bambini" data-pa-category-label="Bambini" data-pa-store="amazon" data-pa-price="16.34" data-pa-discount="25" data-pa-date="1791692249.225097">
 <span class="badge hot">🔥 HOT</span>
@@ -7722,7 +7738,7 @@ body[data-pa-season] .pa-season-product-mark .pa-season-3d-icon {display:none}
 <div class="discount">Risparmi 5,56 €</div>
 <div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="Amazon" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
 <a class="buy" href="https://www.amazon.it/dp/B084HT7QYY?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI L'OFFERTA</a>
-<div class="meta">Prezzo controllato 30 min fa</div>
+<div class="meta">Prezzo controllato 33 min fa</div>
 <!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <!-- PA_HOME_LATEST_END -->
 </div>
