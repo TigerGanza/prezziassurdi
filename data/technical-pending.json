@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-11T11:30:59+02:00",
+  "generated_at": "2026-10-11T12:41:00+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -21,20 +21,6 @@
       },
       {
         "title": "XIAOMI 17T Pro, Smartphone 12+256GB, Deep Blue, Teleobiettivo Leica 5x",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Smartphone vivo V70 FE, fotocamera principale da 200 MP, 8+256GB",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "vivo V70 5G Smartphone 8GB RAM + 256GB, Fotocamera ZEISS 50MP con Super Teleobiettivo, Video 4K, Display OLED 6,59\" 1.5K, Batteria 5400mAh, Sblocco Impronta Digitale 3D, IP68/IP69,",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -210,6 +196,20 @@
       },
       {
         "title": "Redmi Note 15 Pro 5G 8+256 Black (No power adapter included)",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Redmi Note 15 Pro 5G 12+512 Black (No power adapter included)",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "XIAOMI REDMI Note 15 5G, Smartphone 8+512GB, Blu Ghiacciaio Resistenza IP65",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -1560,7 +1560,7 @@
     "migliori-soundbar": [
       {
         "title": "Samsung Soundbar HW-B66CF/ZF Serie B, 4 Speaker, Wireless, Dolby 5.1ch, Audio a 3.1 Canali, DTS 5.1ch, Surround Sound Expansion, Voice Enhance Mode, Black, 2025",
-        "merchant": "",
+        "merchant": "amazon",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
@@ -2579,6 +2579,13 @@
     ],
     "friggitrici-ad-aria-offerte-confronto": [
       {
+        "title": "De'Longhi E024752 Sfornatutto Midi Forno Elettrico da 24 Litri con spegnimento automatico e segnale acustico di fine cottura, Friggitrice ad Aria, 7 funzioni cottura, in dotazione ",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Melchioni Family | MATILDE Friggitrice ad Aria 8L 2200W di Potenza, Cestello Removibile con Maniglia, Griglia Separagrassi, Timer 60 Min, Cottura Light con -80% di Grassi",
         "merchant": "",
         "ean": "",
@@ -2706,6 +2713,20 @@
       }
     ],
     "migliori-moda": [
+      {
+        "title": "Tommy Jeans Maglietta Maniche Lunghe Uomo TJM Original Maniche Lunghe, Nero (Tommy Black), S",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "OLIPHEE Pantaloni Cargo Uomo con Tasche e Coulisse Elastico in Vita Casual Pantaloni Pile Uomo Invernali Sportiva Jogging Fitness Tuta Ginnastica Outdoor Sweatpants Men Autunno Gri",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Eastpak Pinnacle Zaino 38L (42 x 32 x 25,5 cm), zaino grande scuola e viaggio, multi-scomparto resistente con organizer e spallacci imbottiti - ULTRA MARINE",
         "merchant": "amazon",
@@ -2897,20 +2918,6 @@
       },
       {
         "title": "Hixingo Scarpe da Escursionismo Uomo, Scarpe da Trekking Estive Unisex Scarpe Trail Running Impermeabile Respirabile Sneakers da Trekking Scarpe da Ginnastica per Outdoor",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Uomo Scarpe Sportive da Ginnastica Trail Running Respirabile Jogging Sneakers Casual Basse Scarpe Leggere Business MU9568-3 (Navy,40)",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Donna Scarpe da Running Ginnastica Camminata Sportive Trekking Tennis Trail Jogging Palestra Mesh Basket Sport Outdoor Fitness Sport Platform Sneakers Nero 38 EU",
         "merchant": "",
         "ean": "",
         "mpn": "",
