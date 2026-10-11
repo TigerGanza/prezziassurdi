@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-11T08:01:00+02:00",
+  "generated_at": "2026-10-11T09:10:59+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -2105,7 +2105,7 @@
       },
       {
         "title": "Aspirapolvere Senza Fili Scopa Elettrica - Potente Filo Batteria Cordless Vacuum Cleaner Scope Elettriche Sacco Portatile Ciclonico Silenzioso per Divano Tappeti Parquet Pavimenti ",
-        "merchant": "amazon",
+        "merchant": "",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
@@ -2756,20 +2756,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Puma Unisex Kids Puma Caven 2.0 Ac+ Ps Sneakers, Puma White-Puma Silver-Puma Black, 32 EU",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Skechers Skech-stepz 2.0 Mini Wanderer, Scarpe da Ginnastica Bambini e ragazzi, Nero Black Textile Synthetic Blue Lime Trim, 26 EU",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
         "ean": "",
@@ -2922,16 +2908,23 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      }
-    ],
-    "migliori-sneakers": [
+      },
       {
-        "title": "Puma Unisex Kids Puma Caven 2.0 Ac+ Ps Sneakers, Puma White-Puma Silver-Puma Black, 32 EU",
-        "merchant": "amazon",
+        "title": "Hixingo Scarpe da Escursionismo Uomo, Scarpe da Trekking Estive Unisex Scarpe Trail Running Impermeabile Respirabile Sneakers da Trekking Scarpe da Ginnastica per Outdoor",
+        "merchant": "",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
+      {
+        "title": "Uomo Scarpe Sportive da Ginnastica Trail Running Respirabile Jogging Sneakers Casual Basse Scarpe Leggere Business MU9568-3 (Navy,40)",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      }
+    ],
+    "migliori-sneakers": [
       {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
@@ -3130,6 +3123,13 @@
       },
       {
         "title": "Scarpe da allenamento unisex in pelle scamosciata marrone, stile retrò, con tacco elastico, suola piatta, sneakers casual, allacciate, leggere, calzature vintage per uomo e donna.",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Sneakers basse unisex in pelle grana patchwork nera, scarpe casual traspiranti con bordo in gomma piatto, calzature da street skate per uomo e donna",
         "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
