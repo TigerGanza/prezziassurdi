@@ -1,17 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-10-12T22:26:17+02:00",
+  "generated_at": "2026-10-12T23:41:01+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
     "smartphone-in-offerta": [
-      {
-        "title": "Apple iPhone 15, 128GB, Nero (Ricondizionato)",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "ZTE Blade A76 5G - 6+128GB - NFC, display HD+ da 6,7 pollici, fotocamera da 50 MP, smartphone sbloccato senza SIM - Stardust Nero",
         "merchant": "",
@@ -210,6 +203,13 @@
       },
       {
         "title": "OPPO Reno15 FS 5G AI Smartphone, Tripla fotocamera 50+8+2MP, Selfie 50MP, Display 6.57\" 120HZ AMOLED FHD+, 6500mAh, RAM 8GB(Esp2GB/4GB/8GB)+ROM 512GB [Versione Italia], Aurora Blue",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "XIAOMI REDMI NOTE 15 PRO+ 5G (6.83'' - 8/256GB) MOCHA BROWN",
         "merchant": "",
         "ean": "",
         "mpn": "",
