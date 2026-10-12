@@ -1,5 +1,22 @@
 [
   {
+    "asin": "B0BRN3B9DM",
+    "title": "David Beckham, Eau de Toilette Classic Homme, Profumo Uomo, 50ml",
+    "price": 11.5,
+    "old_price": 22.15,
+    "discount": 48.0,
+    "image": "https://m.media-amazon.com/images/I/31R-ofOxxpL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0BRN3B9DM?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "profumi",
+    "macro_group": "cura_persona",
+    "seasonal_title": "",
+    "published_at": "2026-10-12T17:55:32.949571+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B0766JX42B",
     "title": "Goodyear Set Di 2 Catene Da Neve Per Auto Da 9 Mm In Metallo Misura 80 Con Tenditore Automatico",
     "price": 28.38,
@@ -1792,22 +1809,5 @@
     "merchant_match_score": 94,
     "merchant_ean": "8715946656908",
     "merchant_prices_checked_at": "2026-10-12T09:28:51.275273+02:00"
-  },
-  {
-    "asin": "B001OB9L36",
-    "title": "Bonaventura Maschio Grappa 903 Barrique, 700 ml",
-    "price": 13.49,
-    "old_price": 21.0,
-    "discount": 36.0,
-    "image": "https://m.media-amazon.com/images/I/31SKgAd-JNL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B001OB9L36?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "spirits",
-    "macro_group": "spesa_bevande",
-    "seasonal_title": "",
-    "published_at": "2026-10-12T09:45:38.930780+02:00",
-    "source_merchant": "amazon",
-    "source_external_id": "",
-    "quality_status": "ready",
-    "quality_issues": []
   }
 ]
