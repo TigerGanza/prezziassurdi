@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-12T17:36:00+02:00",
+  "generated_at": "2026-10-12T18:46:00+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -793,6 +793,13 @@
     ],
     "migliori-pc-desktop": [
       {
+        "title": "HP All-in-One 27-cr0014sl, Intel Core i5-13400, 16 GB RAM, 512 GB, Grafica Integrata, 27\" FHD IPS Antiriflesso, Webcam HD, Windows 11, Bianco",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Betashop PC Fisso Completo - Computer Desktop i7-4790 • RAM 32GB • SSD 1TB (512 SSD + 512HDD) • Grafica Integrata HD 430 • Wi-Fi • Masterizzatore DVD • HDMI • USB 3.0 • Windows 11 ",
         "merchant": "",
         "ean": "",
@@ -1247,6 +1254,13 @@
     ],
     "migliori-smartwatch": [
       {
+        "title": "Apple Watch SE 3 GPS 40 mm Smartwatch",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Samsung Galaxy Watch8 Classic (Black, BT, 46mm), Smartwatch Galaxy AI",
         "merchant": "amazon",
         "ean": "",
@@ -1448,13 +1462,6 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "Garmin Fenix E 3,3 cm (1.3'') AMOLED 47 mm Digitale 416 x 416 Pixel Touch screen Nero Wi Fi GPS (satellitare)",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
       }
     ],
     "migliori-console-gaming": [
@@ -1594,14 +1601,14 @@
     ],
     "migliori-soundbar": [
       {
-        "title": "Samsung Soundbar HW-B66CF/ZF Serie B, 4 Speaker, Wireless, Dolby 5.1ch, Audio a 3.1 Canali, DTS 5.1ch, Surround Sound Expansion, Voice Enhance Mode, Black, 2025",
-        "merchant": "",
+        "title": "TCL S55HE Soundbar 2.1, 220W, Dolby Atmos, DTS Virtual:X, subwoofer wireless, Bluetooth 5.3, HDMI eARC, USB, ottico, montaggio a parete, telecomando incluso",
+        "merchant": "amazon",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "TCL S55HE Soundbar 2.1, 220W, Dolby Atmos, DTS Virtual:X, subwoofer wireless, Bluetooth 5.3, HDMI eARC, USB, ottico, montaggio a parete, telecomando incluso",
+        "title": "Samsung Soundbar HW-B66CF/ZF Serie B, 4 Speaker, Wireless, Dolby 5.1ch, Audio a 3.1 Canali, DTS 5.1ch, Surround Sound Expansion, Voice Enhance Mode, Black, 2025",
         "merchant": "",
         "ean": "",
         "mpn": "",
