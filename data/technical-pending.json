@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-13T14:22:22+02:00",
+  "generated_at": "2026-10-13T15:57:23+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -409,13 +409,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Samsung 75\" UE75U7000HUXZT Crystal UHD 4K 144Hz, Smart TV Vision AI 2026",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Xiaomi TV 32 pollici 2026, HD Smart TV Fire TV Dolby Audio L32MB-FAVEU",
         "merchant": "",
         "ean": "",
@@ -592,6 +585,13 @@
       },
       {
         "title": "XIAOMI TV F 65 2025, 65 pollici (165 cm),4K UHD,Smart TV, Fire TV,Triple Tuner DVB-C/S/S2/T/T2, HDR10,MEMC, Modalità Game Boost 120Hz, Controllo Vocale Alexa, 2GB+32GB, Compatibile",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "TCL 65V6C – Smart TV 4K HDR Direct LED da 65\", Google TV con Dolby Audio",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -1401,13 +1401,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Smartwatch robusto da esterno per uomo, display HD da 1,7 pollici, batteria grande da 1400 mAh, Bluetooth 5.2, risposta alle chiamate, monitoraggio della frequenza cardiaca e dell'",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "[ES Spedizione Veloce] AK87 Smartwatch Militare Uomo Schermo HD 1,7 Pollici Chiamata Bluetooth Batteria Grande 1000mAh Torcia LED Impermeabile IP68 Fitness Tracker 100+ Modalità Sp",
         "merchant": "aliexpress",
         "ean": "",
@@ -1423,6 +1416,20 @@
       },
       {
         "title": "[DE Spedizione Veloce] Smartwatch uomo schermo HD 1,85″, chiamate Bluetooth, monitoraggio frequenza cardiaca e ossigeno nel sangue, fitness tracker, 100+ modalità sportive, imperme",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Smartwatch robusto da esterno per uomo, display HD da 1,7 pollici, batteria grande da 1400 mAh, Bluetooth 5.2, risposta alle chiamate, monitoraggio della frequenza cardiaca e dell'",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Smartwatch robusto outdoor per uomo display HD 1.7 pollici batteria grande 1400mAh Bluetooth 5 2 chiamate ricevere e comporre monitor frequenza cardiaca e ossigeno nel sangue imper",
         "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
@@ -1458,13 +1465,6 @@
       },
       {
         "title": "IOPLEE IOPEXTWATCH669BK smartwatch e orologio sportivo 3,63 cm (1.43'') AMOLED Digitale 466 x 466 Pixel Touch screen Nero",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "IOPLEE IOPEXTWATCH670BL smartwatch e orologio sportivo 3,63 cm (1.43'') AMOLED Digitale 466 x 466 Pixel Touch screen Blu",
         "merchant": "unieuro",
         "ean": "",
         "mpn": "",
@@ -1757,13 +1757,6 @@
     ],
     "cuffie-bluetooth-in-offerta": [
       {
-        "title": "Beats Solo Buds — Auricolari Bluetooth Wireless | 18 ore di autonomia | Compatibilità Apple e Android | Microfono integrato - Nero opaco (versione precedente)",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Soundcore di Anker P31i Cuffie Bluetooth con Cancellazione Adattiva Rumore",
         "merchant": "",
         "ean": "",
@@ -1965,6 +1958,13 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
+      },
+      {
+        "title": "Philips Serie 4000 TAH4209WT/00 cuffia e auricolare Wireless A Padiglione Musica e Chiamate Bluetooth Bianco",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
       }
     ],
     "migliori-robot-aspirapolvere": [
@@ -2090,13 +2090,6 @@
       {
         "title": "iRobot Roomba® 115 Combo robot aspirapolvere lavapavimenti, 15.000 Pa",
         "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "(Codice promozionale: EU1000)Aspirapolvere Robot ABIR X8, sistema Laser, mappe a più piani, pulizia delle Zone, impostazione dell'area limitata per il lavaggio della moquette domes",
-        "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
@@ -2791,6 +2784,13 @@
     ],
     "migliori-moda": [
       {
+        "title": "Salomon EXTEGRA Gore-Tex Impermeabili Scarpe da Escursionismo, Uomo",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Philips Lumea 9000 Series, dispositivo di epilazione IPL, alternativa ai dispositivi di epilazione laser, SenseIQ, 4 accessori per viso, corpo, ascelle e zona bikini, con e senza f",
         "merchant": "amazon",
         "ean": "",
@@ -2807,13 +2807,6 @@
       {
         "title": "Seven Freethink Zaino Scuola Media Ragazzo, Scuola Elementare 34L, Doppio Scomparto, Tasca PC e Borraccia, Ricarica USB, Blu",
         "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Guanti da lavoro rivestiti in nitrile, confezione da 12 pezzi, guanti protettivi antiscivolo certificati EN388, ideali per lavori di costruzione e giardinaggio.",
-        "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
@@ -3150,14 +3143,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "Scarpe da Skate di Lusso dal Design Trendy, Sneakers Casual alla Moda per Coppie, Scarpe da Skate Sportive Unisex Retrò con Suola Morbida ed Elastica, Scarpe Casual da Strada per i",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Scarpe da skate unisex in tonalità caffè latte, sneakers basse casual dal design retrò, calzature da skate resistenti all'usura, scarpe perfette per visitare un caffè, per un look ",
+        "title": "Nuovo arrivo: scarpe da skateboard unisex, modello basso con allacciatura, sneakers casual, traspiranti, resistenti all'usura, antiscivolo, con suola piatta, perfette per il tempo ",
         "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
@@ -3165,27 +3151,6 @@
       },
       {
         "title": "Scarpe da skateboard unisex di grandi dimensioni, modello alla moda con taglio basso, sneakers casual con design a cuciture, suola resistente all'usura, soletta confortevole, calza",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Scarpe da skateboard unisex con cuciture rinforzate, modello alto, casual, sneakers da skateboard, calzature resistenti e durevoli per coppie, suola in gomma resistente all'usura, ",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Scarpe da skateboard casual per uomo e donna, modello basso, sneakers basse con tomaia in tela, allacciate, antiscivolo, resistenti all'usura, perfette per il weekend, le uscite, l",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Sneakers dal design retrò e di lusso, scarpe sportive casual con colori a blocchi, scarpe da skate unisex con suola spessa e rialzo, calzature di tendenza antiscivolo e traspiranti",
         "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
@@ -3206,7 +3171,35 @@
         "status": "da_verificare"
       },
       {
-        "title": "Scarpe casual unisex con cuciture resistenti all'usura, stile retrò, sneakers da skate, tinta unita, modello basso, suola in gomma antiscivolo, comode, con allacciatura, adatte sia",
+        "title": "Sneakers Unisex in Pelle Scamosciata Nera con Inserti in Nylon, Foderate in Pile, Allacciate, Casual, alla Moda, per Uomo e Donna",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Sneakers casual unisex in pelle bianca con patta pieghevole, scarpe basse alla moda",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Sneakers unisex in pelle stampata marrone con inserti patchwork, allacciate, suola spessa, scarpe casual alla moda per uomo e donna",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Sneakers unisex in rete nera e pelle scamosciata con inserti, allacciate, suola spessa, scarpe da ginnastica casual alla moda per uomo e donna",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Scarpe da Skate di Lusso dal Design Trendy, Sneakers Casual alla Moda per Coppie, Scarpe da Skate Sportive Unisex Retrò con Suola Morbida ed Elastica, Scarpe Casual da Strada per i",
         "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
