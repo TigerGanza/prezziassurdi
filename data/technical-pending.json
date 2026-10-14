@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-14T22:25:03+02:00",
+  "generated_at": "2026-10-14T23:40:06+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -682,6 +682,13 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
+      },
+      {
+        "title": "Toshiba 55QV2463DA QLED TV 139,7 cm (55'') 4K Ultra HD Smart TV Nero 250 cd/m²",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
       }
     ],
     "migliori-notebook": [
@@ -928,6 +935,27 @@
     ],
     "migliori-tablet": [
       {
+        "title": "Gleeso Tablet 10 Pollici｜Tablet con Android 16｜Android Tablet con 24GB RAM 1TB TF｜6000mAh｜Sblocco Facciale｜BT 5.4/WiFi 5G｜8MP Fotocamera, Portatile Tablet per Studenti e Aziende - ",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Samsung Galaxy Tab A11+, WiFi, 6GB RAM, 128GB",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Gleeso Tablet 10 pollici Android 16, Face ID, OTG, 24GB+64GB+1TB Espansione, 1280 * 800 IPS, WiFi 6, BT5.4, Doppia Fotocamera 5MP+8MP, 6000mAh, Widevine L1 (Nero)",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Ausriray Tablet 13.4 Pollici con Tastiera Penna, 120Hz Display Tablet Android 16, 24GB RAM+256GB ROM(2TB) Tablet PC, Doppio SIM 4G LTE+5G WiFi, 8300mAh, Octa-Core, Widevine L1 1080",
         "merchant": "amazon",
         "ean": "",
@@ -957,13 +985,6 @@
       },
       {
         "title": "Samsung Galaxy Tab A11+, Wi-Fi, 8GB RAM, 256GB",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Samsung Galaxy Tab A11+, WiFi, 6GB RAM, 128GB",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -2232,13 +2253,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Hotpoint Ariston NBT 1048 WD A IT - Lavatrice 10 kg",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Bosch WAN28229IT Serie 4 Lavatrice 9kg 1400 giri/min Bianco Classe A",
         "merchant": "",
         "ean": "",
@@ -2422,6 +2436,13 @@
       },
       {
         "title": "Samsung WW90DG5G34AEET lavatrice Caricamento frontale 9 kg 1400 Giri/min Bianco",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Whirlpool Lavatrice smart connessa con WiFi 10 kg WPM 011G ADS IT",
         "merchant": "unieuro",
         "ean": "",
         "mpn": "",
@@ -2777,6 +2798,13 @@
     ],
     "migliori-moda": [
       {
+        "title": "COMIX - Astuccio Tombolino, Leggero e Compatto, Facile da Trasportare e Riporre nello Zaino o nella Borsa, Ideale per Scuola, Università e Lavoro, con Pratica Chiusura a Zip, 22x8H",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Champion Beachshorts Costume da Bagno da Uomo, Nero (Kk001), XS",
         "merchant": "amazon",
         "ean": "",
@@ -2820,13 +2848,6 @@
       },
       {
         "title": "Buff Stretch Sciarpa Multifunzionale Scaldacollo Uomo Donna Adulti, Sciarpa, Tubolare, Multifunzionale, Collo e Testa, Corsa, Passeggiate, Escursioni, Sostenibile, Leggera, Taglia ",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "TARION TBS Zaino Fotografico Piccolo e Leggero per Fotocamera SLR",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
