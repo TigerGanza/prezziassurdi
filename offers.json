@@ -1,5 +1,22 @@
 [
   {
+    "asin": "B0BGYLLLDJ",
+    "title": "Midea NDK20-21AE Stufetta Elettrica Basso Consumo Termoconvettore Elettric Slim Style Stufa Elettrica 2000W, 3 Livelli di Potenza, Silenzioso, Funzione Antigelo, Bianco",
+    "price": 44.9,
+    "old_price": 59.9,
+    "discount": 25.0,
+    "image": "https://m.media-amazon.com/images/I/31CYLdrEC1L._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0BGYLLLDJ?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "comfort_casa",
+    "macro_group": "casa_cucina",
+    "seasonal_title": "",
+    "published_at": "2026-10-14T23:04:21.533402+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B097DK8Q6B",
     "title": "Ukiyo Japanese Blossom Gin 0,7L (40% Vol.)",
     "price": 32.5,
@@ -1733,48 +1750,5 @@
     "source_external_id": "",
     "quality_status": "ready",
     "quality_issues": []
-  },
-  {
-    "asin": "B07W7MQMDH",
-    "title": "Logitech G G413 SE Tastiera Meccanica Gaming Full Size ITA QWERTY",
-    "price": 49.99,
-    "old_price": 79.99,
-    "discount": 38.0,
-    "image": "https://m.media-amazon.com/images/I/31oko2zQS1L._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B07W7MQMDH?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "gaming",
-    "macro_group": "tech",
-    "seasonal_title": "",
-    "published_at": "2026-10-14T13:59:22.099404+02:00",
-    "source_merchant": "amazon",
-    "source_external_id": "",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "unieuro",
-        "merchant_name": "Unieuro",
-        "merchant_id": "10139",
-        "product_id": "LOG920010805",
-        "awin_product_id": "34594097783",
-        "title": "Logitech G G413 SE tastiera gaming cablata",
-        "brand": "Logitech G",
-        "ean": "5099206101821",
-        "mpn": "920-010805",
-        "price": 47.99,
-        "old_price": 79.99,
-        "discount": 40.0,
-        "image": "https://www.unieuro.it/medias/sys_master/root/h31/h35/50465414119454/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-3c66f7ffee41b140ab8552b694bb1c1f-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-        "url": "https://www.awin1.com/pclick.php?p=34594097783&a=3086723&m=10139",
-        "category": "Tastiere",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {}
-      }
-    ],
-    "merchant_match_score": 94,
-    "merchant_ean": "5099206101821",
-    "merchant_prices_checked_at": "2026-10-14T13:23:33.963793+02:00"
   }
 ]
