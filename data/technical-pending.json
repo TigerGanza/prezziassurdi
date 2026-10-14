@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-14T19:49:56+02:00",
+  "generated_at": "2026-10-14T21:09:52+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -395,13 +395,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Hisense Smart TV QLED 55\" 4K 55E7DS",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Xiaomi TV 32 pollici 2026, HD Smart TV Fire TV Dolby Audio L32MB-FAVEU",
         "merchant": "",
         "ean": "",
@@ -542,6 +535,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "Hisense Smart TV QLED 55\" 4K 55E7DS",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "XIAOMI TV 55 pollici 2026, 4K UHD Smart TV Fire OS8 HDR10 L55MB-FAVEU",
         "merchant": "",
         "ean": "",
@@ -600,13 +600,6 @@
     ],
     "offerte-tv-55-65-pollici": [
       {
-        "title": "Hisense Smart TV QLED 55\" 4K 55E7DS",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Hisense Smart TV MiniLED 144Hz 55\" 4K 55E8S",
         "merchant": "",
         "ean": "",
@@ -615,6 +608,13 @@
       },
       {
         "title": "TCL 55V6D – Smart TV 4K HDR10+ da 55\" con Fire TV e Dolby Atmos",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Hisense Smart TV QLED 55\" 4K 55E7DS",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -679,13 +679,6 @@
       {
         "title": "Hisense Smart TV 65\" UHD 4K 65E6ST",
         "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Toshiba 55QV2463DA QLED TV 139,7 cm (55'') 4K Ultra HD Smart TV Nero 250 cd/m²",
-        "merchant": "unieuro",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
@@ -956,20 +949,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "TABWEE Android 16 Tablet in Offerta, 24 GB + 256 GB (2 TB TF)",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "DOOGEETab U11 Pro Android 16 Tablet 11 Pollici, 30GB RAM+256GB ROM (2TB TF), Unisoc T7200 Octa Core Tablet PC, 8580mAh, 90 Hz Display, 13MP+5MP, WIFI 5 /Widevine L1/ GPS/Face ID/OT",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Tablet Android da 11 Pollici, Octa-Core, 24GB(4+20) RAM+128GB Memoria, Batteria 8200mAh, Widevine L1, Espandibile fino a 1TB, Doppia Fotocamera, Android Tablet per Studio, Lavoro e",
         "merchant": "",
         "ean": "",
@@ -1090,13 +1069,6 @@
       }
     ],
     "migliori-monitor": [
-      {
-        "title": "MSI Modern MD272UPSW Monitor Smart Google TV 27” 4K UHD – Google Assistant",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Lenovo Notebook Ram 16GB CPU Intel i5-1342H Monitor 15.6\" Full HD SSD 512 GB LAN, HDMI, USB Win 11 Pro e Libre Office Pc portatile pronto all'uso - Colore Nero",
         "merchant": "",
