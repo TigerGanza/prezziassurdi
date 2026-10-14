@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-14T10:09:59+02:00",
+  "generated_at": "2026-10-14T11:24:47+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -388,21 +388,7 @@
     ],
     "tv-in-offerta": [
       {
-        "title": "Amazon Ember serie 4 da 50\" con Fire TV (ultimo modello), smart TV 4K UHD, HDR10+, processore veloce, Dolby Audio, modalità ambiente, TV in diretta gratuita, trova serie TV più vel",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Amazon Ember serie QLED da 50\" con Fire TV (ultimo modello), smart TV 4K Ultra HD, HDR10+, Dolby Vision, processore quad-core, controllo vocale con Alexa, trova serie TV più veloce",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Amazon Ember serie 4 da 43\" con Fire TV (ultimo modello), smart TV 4K UHD, HDR10+, processore veloce, Dolby Audio, modalità ambiente, TV in diretta gratuita, trova serie TV più vel",
+        "title": "Hisense Smart TV QLED 55\" 4K 55E7DS",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -549,13 +535,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Hisense Smart TV QLED 55\" 4K 55E7DS",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "XIAOMI TV 55 pollici 2026, 4K UHD Smart TV Fire OS8 HDR10 L55MB-FAVEU",
         "merchant": "",
         "ean": "",
@@ -596,9 +575,37 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
+      },
+      {
+        "title": "TCL 65V6C – Smart TV 4K HDR Direct LED da 65\", Google TV con Dolby Audio",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Haier Smart TV 65\" QLED 4K UHD, Google TV, Gaming 120Hz, Dolby Audio",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Hisense Smart TV 65\" UHD 4K 65E6ST",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
       }
     ],
     "offerte-tv-55-65-pollici": [
+      {
+        "title": "Hisense Smart TV QLED 55\" 4K 55E7DS",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Hisense Smart TV MiniLED 144Hz 55\" 4K 55E8S",
         "merchant": "",
@@ -608,13 +615,6 @@
       },
       {
         "title": "TCL 55V6D – Smart TV 4K HDR10+ da 55\" con Fire TV e Dolby Atmos",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Hisense Smart TV QLED 55\" 4K 55E7DS",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -920,6 +920,13 @@
       }
     ],
     "migliori-tablet": [
+      {
+        "title": "Gleeso Tablet Android 16 da 10 Pollici, Tablet con Tastiera 20GB+TF 1TB, Android Tablet PC con Mouse, Penna Stylus, 6000mAh, Fotocamera da 8MP, WiFi 5G, Laptop Portatile per Studen",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Tablet Android da 11 Pollici, Octa-Core, 24GB(4+20) RAM+128GB Memoria, Batteria 8200mAh, Widevine L1, Espandibile fino a 1TB, Doppia Fotocamera, Android Tablet per Studio, Lavoro e",
         "merchant": "",
@@ -1736,6 +1743,13 @@
     ],
     "cuffie-bluetooth-in-offerta": [
       {
+        "title": "Gueray Lettore CD Portatile con Montaggio a Parete Lettori CD Bluetooth da tavolo per la Casa Altoparlanti HiFi Doppi Integrati Jack AUX e cuffie, Radio FM Boombox con telecomando ",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Soundcore di Anker P31i Cuffie Bluetooth con Cancellazione Adattiva Rumore",
         "merchant": "",
         "ean": "",
@@ -1933,13 +1947,6 @@
       },
       {
         "title": "Philips Serie 4000 TAH4209BK/00 cuffia e auricolare Wireless A Padiglione Musica e Chiamate Bluetooth Nero",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Philips Serie 4000 TAH4209WT/00 cuffia e auricolare Wireless A Padiglione Musica e Chiamate Bluetooth Bianco",
         "merchant": "unieuro",
         "ean": "",
         "mpn": "",
@@ -2798,13 +2805,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Racetex set di 2 porta calcio bambini - porte da calcio incluse in una pratica borsa per il trasporto - Versione con [ASTE RINFORZATE CON FIBRA DI VETRO] - porta per bambini (Nero)",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
         "ean": "",
@@ -2932,6 +2932,13 @@
       },
       {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Bianco Puma White Puma Black, 42.5 EU",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "PUMA Caven 2.0, Sneaker Unisex - Adulto, White Silver, 38 EU",
         "merchant": "",
         "ean": "",
         "mpn": "",
