@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-15T23:54:50+02:00",
+  "generated_at": "2026-10-16T01:14:48+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -1897,6 +1897,13 @@
     ],
     "cuffie-bluetooth-in-offerta": [
       {
+        "title": "WeClear L2 Interfono Moto Bluetooth 5.3, Auricolare Casco Impermeabile IP67",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Paekole Cuffie Auricolari Bluetooth 6.1 - Wireless Cuffie In Ear con 6 ENC Cancellazione Rumore Mics, Cuffiette Senza Filo Stereo HiFi 48 Ore di Riproduzione per iOS/Android - Cera",
         "merchant": "amazon",
         "ean": "",
@@ -2094,13 +2101,6 @@
       },
       {
         "title": "Celly MAGPOCKET3IN1WH Caricabatterie per dispositivi mobili Cuffie, Smartphone, Orologio intelligente Bianco USB Carica wireless Ricarica rapida Interno",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Philips TAT1209BK/00 cuffia e auricolare True Wireless Stereo (TWS) In ear Musica e Chiamate Bluetooth Nero",
         "merchant": "unieuro",
         "ean": "",
         "mpn": "",
@@ -2952,20 +2952,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Epilatore Luce Pulsata con Funzione di Raffreddamento a Ghiaccio, Schermo LCD Touch,Modalità di Scorrimento Automatico, Epilatore a Luce Pulsata per Donne e Uomini,Viso, Ascelle, B",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "21J Epilatore Luce Pulsata con Raffreddamento a Ghiaccio 8°C, Epilatore Laser a 9 Livelli e Luce Rossa 600NM, Epilatore a Luce Pulsata Touchscreen per Uomini,Donne,Viso, Braccia, Z",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
         "ean": "",
@@ -3121,6 +3107,20 @@
       },
       {
         "title": "Lico Fremont, Scarpe da Trekking Unisex - Bambini e Ragazzi, Grigio Nero Lemon, 41 EU",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Kricely Scarpe da Trail Running Uomo Outdoor Leggero Traspirante Scarpe da Passeggio Moda Multicolore Trekking Fitness Running Sneakers（Verde Fluorescente 44）",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "CustomSolo Maglietta Personalizzata con Foto e Scritta Fronte Retro, T-Shirt Personalizzabile Uomo Donna in 100% Cotone, Manica Corta Unisex, Idea Regalo",
         "merchant": "",
         "ean": "",
         "mpn": "",
