@@ -1,31 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-10-15T20:24:50+02:00",
+  "generated_at": "2026-10-15T21:34:47+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
     "smartphone-in-offerta": [
-      {
-        "title": "Google Pixel 10 - Smartphone Android sbloccato con Gemini, tripla fotocamera posteriore avanzata, autonomia di oltre 24 ore e display Actua da 6,3\" - nero ossidiana, 128GB",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Google Pixel 11 - Smartphone Android sbloccato - Verde pistacchio, 256GB | Con Gemini Intelligence, autonomia di oltre 30 ore e display Super Actua da 6,3\"",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Google Pixel 11 Pro – Smartphone Android sbloccato - Grigio nebbia, 256GB | Con Gemini Intelligence, autonomia di oltre 30 ore e display Super Actua da 6,3”",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Motorola moto g06 (4/256GB, Fotocamera 50MP+flicker cam, selfie 8MP, Display HD+ 6.88\", MediaTek Helio G81 Extreme, 5200mAh, Android 15), Tapestry",
         "merchant": "",
@@ -210,6 +189,27 @@
       },
       {
         "title": "Apple iPhone 14, 128GB, Giallo (Ricondizionato)",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Xiaomi REDMI NOTE 14 5G (6.67'' - 8/256GB) GREEN",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Samsung Galaxy A37 5G, 128GB, RAM 6GB, Awesome Charcoal [Versione Italiana]",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "REDMI Note 17 Pro 5G, Smartphone 8+512GB, Sky Blue, Batteria da 8340 mAh | Fotocamera OIS 50MP, HyperCharge 67W, Snapdragon®6s Gen4, Display Flagship Alta Luminosità 3500nit, Prote",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -1890,6 +1890,13 @@
     ],
     "cuffie-bluetooth-in-offerta": [
       {
+        "title": "Paekole Cuffie Auricolari Bluetooth 6.1 - Wireless Cuffie In Ear con 6 ENC Cancellazione Rumore Mics, Cuffiette Senza Filo Stereo HiFi 48 Ore di Riproduzione per iOS/Android - Cera",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Xiaomi Redmi Buds 8, Cuffie Bluetooth, 50dB ANC, 11h+44h Batteria, Nero | Driver dinamico 11mm con Audio Hi-Res Certificato, 3-Mic IA riduzione Rumore chiamate, IP54",
         "merchant": "",
         "ean": "",
@@ -2087,13 +2094,6 @@
       },
       {
         "title": "Philips TAT1209BK/00 cuffia e auricolare True Wireless Stereo (TWS) In ear Musica e Chiamate Bluetooth Nero",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "JVC HA A3T Auricolare True Wireless Stereo (TWS) In ear Musica e Chiamate Bluetooth Nero",
         "merchant": "unieuro",
         "ean": "",
         "mpn": "",
@@ -2931,6 +2931,13 @@
     ],
     "migliori-moda": [
       {
+        "title": "DAINESE - Pro-Armor G1 2.0, Paraschiena Moto Livello 2 Inseribile, Protezione Schiena Moto, Paraschiena Moto Certificato Compatibile con Tuta e Giacca Uomo EU 42-48, Donna EU 38-54",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Kipling Gabbie S Borsa a Tracolla Leggera Piccola Multi Tasche",
         "merchant": "amazon",
         "ean": "",
@@ -2960,20 +2967,6 @@
       },
       {
         "title": "21J Epilatore Luce Pulsata con Raffreddamento a Ghiaccio 8°C, Epilatore Laser a 9 Livelli e Luce Rossa 600NM, Epilatore a Luce Pulsata Touchscreen per Uomini,Donne,Viso, Braccia, Z",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Costume Halloween Donna Costumi Vampiro Donne Medievale Vestito Curvy Gotico Nero Vestiti Da Strega Per Vampira Abito Vittoriano Adulta Horror Adulto Abiti Pirate Woman Rinasciment",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Bosch Professional 18V System Combo kit a batteria: GSB 18V-45 + GBH 18V-22 + GWS 18V-8 (incl. 3 batterie GBA 4.0Ah, GAL 18V-40, borsa degli attrezzi) - Amazon Exclusive",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -3135,6 +3128,13 @@
       },
       {
         "title": "Lico Fremont, Scarpe da Trekking Unisex - Bambini e Ragazzi, Grigio Nero Lemon, 41 EU",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Kricely Scarpe da Trail Running Uomo Outdoor Leggero Traspirante Scarpe da Passeggio Moda Multicolore Trekking Fitness Running Sneakers（Verde Fluorescente 44）",
         "merchant": "",
         "ean": "",
         "mpn": "",
