@@ -1,5 +1,22 @@
 [
   {
+    "asin": "B0G4CJLSZW",
+    "title": "LENOVO TAB ONE",
+    "price": 127.0,
+    "old_price": 150.23,
+    "discount": 15.0,
+    "image": "https://m.media-amazon.com/images/I/31IRouRiD9L._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0G4CJLSZW?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "hitech",
+    "macro_group": "tech",
+    "seasonal_title": "",
+    "published_at": "2026-10-15T23:09:21.793759+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B0CYPK3JK1",
     "title": "Faszin Piastra per Capelli Professionale in Titanio Larga 42mm, Rosa",
     "price": 39.99,
@@ -1795,22 +1812,5 @@
     "merchant_match_score": 94,
     "merchant_ean": "6977328065568",
     "merchant_prices_checked_at": "2026-10-15T13:23:00.745538+02:00"
-  },
-  {
-    "asin": "B0G52NY6HZ",
-    "title": "Tractive GPS Cane Intelligente XL | Edizione 2026 | Localizzazione GPS in Tempo Reale | Notifiche Antifuga e Avvisi di Salute | Monitoraggio dei Parametri Vitali | Batteria a Lunga Durata (Nero)",
-    "price": 47.4,
-    "old_price": 79.0,
-    "discount": 40.0,
-    "image": "https://m.media-amazon.com/images/I/41DA0WiOPpL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0G52NY6HZ?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "pets_specifico",
-    "macro_group": "famiglia_animali",
-    "seasonal_title": "",
-    "published_at": "2026-10-15T13:34:21.476724+02:00",
-    "source_merchant": "amazon",
-    "source_external_id": "",
-    "quality_status": "ready",
-    "quality_issues": []
   }
 ]
