@@ -1,5 +1,22 @@
 [
   {
+    "asin": "B0DMND54M6",
+    "title": "Gyabnw T Shirt Donna Manica Corta Girocollo Blusa Casual Elegante | Piega frontale, orlo curvo, tessuto elasticizzato, Viola, XL",
+    "price": 9.99,
+    "old_price": 19.99,
+    "discount": 50.0,
+    "image": "https://m.media-amazon.com/images/I/41LdkoizEaL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0DMND54M6?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "moda_donna",
+    "macro_group": "tempo_libero",
+    "seasonal_title": "",
+    "published_at": "2026-10-16T13:04:21.326698+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B0FJM3MZ9T",
     "title": "Philips Bodygroom series 3000 - Rifinitore per uomo tripla protezione, Rifinitura e rasatura intima, Preciso e confortevole sulla pelle, Impermeabile al 100%, 80 minuti di autonomia, Modello BG3480/15",
     "price": 29.99,
@@ -1783,52 +1800,6 @@
         "availability": "in_stock",
         "last_updated": "",
         "attributes": {}
-      }
-    ],
-    "merchant_match_score": 100,
-    "merchant_ean": "",
-    "merchant_prices_checked_at": "2026-10-16T01:08:49.042651+02:00"
-  },
-  {
-    "asin": "W21416FD46",
-    "title": "Muscolo maschile in silicone realistico taglia XL 60-100 kg Abito adatto Simulazione Figura forte Petto robusto artificiale Uomo Crossdresser",
-    "price": 220.39,
-    "old_price": 1377.44,
-    "discount": 84.0,
-    "image": "https://ae-pic-a1.aliexpress-media.com/kf/Sce12fde6e3ab4dc3a45dd1dbae41f71ez.jpg",
-    "url": "https://www.awin1.com/pclick.php?p=45724641151&a=3086723&m=12251",
-    "category": "moda",
-    "macro_group": "awin_discovery",
-    "seasonal_title": "Offerta AliExpress",
-    "published_at": "2026-10-16T01:54:24.338338+02:00",
-    "source_merchant": "aliexpress",
-    "source_external_id": "12000043501163836",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "aliexpress",
-        "merchant_name": "AliExpress",
-        "merchant_id": "12251",
-        "product_id": "12000043501163836",
-        "awin_product_id": "45724641151",
-        "title": "Muscolo maschile in silicone realistico taglia XL 60-100 kg Abito adatto Simulazione Figura forte Petto robusto artificiale Uomo Crossdresser",
-        "brand": "EYUNG",
-        "ean": "",
-        "mpn": "",
-        "price": 220.39,
-        "old_price": 1377.44,
-        "discount": 84.0,
-        "image": "https://ae-pic-a1.aliexpress-media.com/kf/Sce12fde6e3ab4dc3a45dd1dbae41f71ez.jpg",
-        "url": "https://www.awin1.com/pclick.php?p=45724641151&a=3086723&m=12251",
-        "category": "Bellezza e salute , Cura Della Salute , Cura della salute personale",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {
-          "weight_g": 100000.0,
-          "size": "xl"
-        }
       }
     ],
     "merchant_match_score": 100,
