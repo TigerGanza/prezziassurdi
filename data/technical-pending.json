@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-16T11:04:48+02:00",
+  "generated_at": "2026-10-16T12:19:48+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -1876,13 +1876,6 @@
     ],
     "cuffie-bluetooth-in-offerta": [
       {
-        "title": "WeClear L2 Interfono Moto Bluetooth 5.3, Auricolare Casco Impermeabile IP67",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Xiaomi Redmi Buds 8, Cuffie Bluetooth, 50dB ANC, 11h+44h Batteria, Nero | Driver dinamico 11mm con Audio Hi-Res Certificato, 3-Mic IA riduzione Rumore chiamate, IP54",
         "merchant": "",
         "ean": "",
@@ -2080,6 +2073,13 @@
       },
       {
         "title": "Philips TAT1209BK/00 cuffia e auricolare True Wireless Stereo (TWS) In ear Musica e Chiamate Bluetooth Nero",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "JVC HA A3T Auricolare True Wireless Stereo (TWS) In ear Musica e Chiamate Bluetooth Nero",
         "merchant": "unieuro",
         "ean": "",
         "mpn": "",
@@ -2903,6 +2903,34 @@
     ],
     "migliori-moda": [
       {
+        "title": "LEONE 1947, Guanti Palestra, Unisex - Adulto, Nero, S, AB712",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Puma Scarpe da Calcio Unisex Ultra 6 Play TT, Ultra Blue Puma White Glowing Red, 42 EU",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Puma Scarpe Unisex Ultra 6 Play Fg/AgSoccer, Puma Nero Fizzy Verde Chiaro Terreno, 42 EU",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "PUMA Scarpe da Calcio Unisex Future 9 Match FG/AG, Nero-Rosso incandescente, Grigio Forte, 41, Puma Nero Rosso Brillante Grigio Forte, 42.5 EU",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Mattel Disney Princess Ariel Bambola Fashion dal Look Distintivo | Moda scintillante con gonna rimovibile, tiara e scarpe, snodata e da collezione, ispirata a La Sirenetta, HLW10",
         "merchant": "amazon",
         "ean": "",
@@ -2911,13 +2939,6 @@
       },
       {
         "title": "BLACK+DECKER Mouse Levigatrice compatta per dettagli da 55 W, BEW230BCA-QS | Inclusi 10 accessori, fogli abrasivi assortiti e borsa per il trasporto",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "PUMA Varion II V Jr, Scarpe da Ginnastica per Ambienti Interni, Black-Cool Light Gray-Gum, 28 EU",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -3086,27 +3107,6 @@
       },
       {
         "title": "Uomo Scarpe Sportive da Ginnastica Trail Running Respirabile Jogging Sneakers Casual Basse Scarpe Leggere Business MU9568-3 (Navy,40)",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Kricely Scarpe da Trail Running Uomo Outdoor Leggero Traspirante Scarpe da Passeggio Moda Multicolore Trekking Fitness Running Sneakers（Verde Fluorescente 44）",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Inter - Tshirt Campioni d'Italia 2025/26, Maglia Celebrativo Scudetto, Prodotto Ufficiale",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "CustomSolo Maglietta Personalizzata con Foto e Scritta Fronte Retro, T-Shirt Personalizzabile Uomo Donna in 100% Cotone, Manica Corta Unisex, Idea Regalo",
         "merchant": "",
         "ean": "",
         "mpn": "",
