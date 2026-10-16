@@ -1,5 +1,22 @@
 [
   {
+    "asin": "B00X8189EC",
+    "title": "Casamigos Reposado, Premium Tequila - 70cl",
+    "price": 27.49,
+    "old_price": 52.15,
+    "discount": 47.0,
+    "image": "https://m.media-amazon.com/images/I/31PES5Q-svL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B00X8189EC?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "spirits",
+    "macro_group": "spesa_bevande",
+    "seasonal_title": "",
+    "published_at": "2026-10-16T11:59:21.356346+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B08H4R221Z",
     "title": "Amplificatore Audio 220W Bluetooth 5.0, Moukey 2 Canali Amplificatore HiFi Portatile per Casa con USB, SD, AUX, RCA, MIC in con Echo, Radio, LED, MAMP1",
     "price": 69.99,
@@ -2348,51 +2365,6 @@
         "availability": "in_stock",
         "last_updated": "",
         "attributes": {}
-      }
-    ],
-    "merchant_match_score": 100,
-    "merchant_ean": "",
-    "merchant_prices_checked_at": "2026-10-15T23:43:25.790030+02:00"
-  },
-  {
-    "asin": "WDF0DD3532",
-    "title": "Barra luminosa a fascio con doppia testa mobile da 180W per illuminazione scenica, KTV, DJ, feste, discoteche, club, effetto di miscelazione colori RGBW DMX512",
-    "price": 19.0,
-    "old_price": 271.42,
-    "discount": 93.0,
-    "image": "https://ae-pic-a1.aliexpress-media.com/kf/S8bf3f42bb2e74e1b86a5ac5b59626021H.jpg",
-    "url": "https://www.awin1.com/pclick.php?p=45637916931&a=3086723&m=12251",
-    "category": "altro",
-    "macro_group": "awin_discovery",
-    "seasonal_title": "Offerta AliExpress",
-    "published_at": "2026-10-16T00:09:23.838434+02:00",
-    "source_merchant": "aliexpress",
-    "source_external_id": "12000056571703465",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "aliexpress",
-        "merchant_name": "AliExpress",
-        "merchant_id": "12251",
-        "product_id": "12000056571703465",
-        "awin_product_id": "45637916931",
-        "title": "Barra luminosa a fascio con doppia testa mobile da 180W per illuminazione scenica, KTV, DJ, feste, discoteche, club, effetto di miscelazione colori RGBW DMX512",
-        "brand": "NONE",
-        "ean": "",
-        "mpn": "",
-        "price": 19.0,
-        "old_price": 271.42,
-        "discount": 93.0,
-        "image": "https://ae-pic-a1.aliexpress-media.com/kf/S8bf3f42bb2e74e1b86a5ac5b59626021H.jpg",
-        "url": "https://www.awin1.com/pclick.php?p=45637916931&a=3086723&m=12251",
-        "category": "Luci e illuminazione , Illuminazione commerciale , Effetto di illuminazione scenica",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {
-          "power_w": 180.0
-        }
       }
     ],
     "merchant_match_score": 100,
