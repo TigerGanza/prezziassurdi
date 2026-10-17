@@ -1,10 +1,17 @@
 {
   "version": 1,
-  "generated_at": "2026-10-17T21:45:43+02:00",
+  "generated_at": "2026-10-17T22:55:43+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
     "smartphone-in-offerta": [
+      {
+        "title": "Motorola moto g56 5G 8/256GB, Fotocamera 50MP + sensore antisfarfallio, Display 6.72\" FHD+ 120Hz, batteria 5200mAh, MediaTek Dimensity 7060, Android 15, PANTONE Dill",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Motorola moto g06 (4/256GB, Fotocamera 50MP+flicker cam, selfie 8MP, Display HD+ 6.88\", MediaTek Helio G81 Extreme, 5200mAh, Android 15), Tapestry",
         "merchant": "",
@@ -207,16 +214,16 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "realme 14 Pro+ 5G Smartphone 8+256GB, Grey",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
       }
     ],
     "migliori-smartphone-sotto-300-euro": [
+      {
+        "title": "Motorola moto g56 5G 8/256GB, Fotocamera 50MP + sensore antisfarfallio, Display 6.72\" FHD+ 120Hz, batteria 5200mAh, MediaTek Dimensity 7060, Android 15, PANTONE Dill",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Motorola moto g06 (4/256GB, Fotocamera 50MP+flicker cam, selfie 8MP, Display HD+ 6.88\", MediaTek Helio G81 Extreme, 5200mAh, Android 15), Tapestry",
         "merchant": "",
@@ -2833,13 +2840,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Velway Guanti da Lavoro con Rivestimento in PU 12 Paia, Nero, Taglia 7/S",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
         "ean": "",
@@ -2946,6 +2946,13 @@
       },
       {
         "title": "Kricely Scarpe da Trail Running Trekking da Escursionismo Uomo Fitness Running Sneakers （Kaki 43）",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Puma Unisex Adults Club II Era Sneaker, Puma White-Puma Black-Vapor Gray, 37 EU",
         "merchant": "",
         "ean": "",
         "mpn": "",
