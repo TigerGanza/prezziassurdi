@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-17T16:34:51+02:00",
+  "generated_at": "2026-10-17T17:54:51+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -1028,6 +1028,13 @@
     ],
     "migliori-monitor": [
       {
+        "title": "Lenovo L24-45 Monitor IPS 24\" Full HD, 144Hz, 1ms, HDMI e VGA, Altoparlanti integrati, Ideale per Gaming, Studio e Home Office, VESA 100x100mm, AMD FreeSync, Inclinazione Regolabil",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "MSI MAG 256FA E20 Monitor Gaming 24,5\" 1920x1080 FHD Rapid IPS, 200 Hz | 0,5 ms, HDR Ready, AMD FreeSync Premium, Eye Care, AI Vision, HDMI 2.0b, DP 1.2a, senza cornice, compatibil",
         "merchant": "amazon",
         "ean": "",
@@ -1225,13 +1232,6 @@
       },
       {
         "title": "OMEN by HP Monitor da gaming 27'' FHD 240 Hz – OMEN 27s",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "ASUS ZenScreen MB16AWP Monitor PC 39,6 cm (15.6'') 1920 x 1080 Pixel Full HD LED Nero",
         "merchant": "unieuro",
         "ean": "",
         "mpn": "",
@@ -2183,13 +2183,6 @@
     ],
     "migliori-lavatrici": [
       {
-        "title": "Candy Smart Lavatrice 9 Kg, 1200 Giri, Classe B, Bianca",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Bosch WAN28229IT Serie 4 Lavatrice 9kg 1400 giri/min Bianco Classe A",
         "merchant": "",
         "ean": "",
@@ -2205,6 +2198,13 @@
       },
       {
         "title": "COMFEE' Lavatrice Slim 9 kg Classe A 1400 Giri Motore BLDC Silenzioso",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Candy Smart Lavatrice 9 Kg, 1200 Giri, Classe B, Bianca",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -2735,6 +2735,13 @@
     ],
     "migliori-moda": [
       {
+        "title": "2026 Smart Tracker Tags per Android & iOS 4 Pezzi, Google Funzioni Trova o Apple Dov'è, Bluetooth Trova Oggetti 365 Giorni, Batteria Sostituibile,IP68, Localizzatore Chiavi/Portafo",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "SKYSPER Zaino da Hiking 20L | Zaino Montagna per Viaggio Escursionismo Trekking Uomo e Donna",
         "merchant": "amazon",
         "ean": "",
@@ -2785,20 +2792,6 @@
       },
       {
         "title": "Skechers Uomo Bobs Squad 4 Direct Step Slip-In ALLENATRICE, Taupe Pu, 42 EU",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "IGOLUMON Zaino Trekking 40 Litri, Zaino Ultraleggero Pieghevole, Impermeabile Zaino da Viaggio per Uomo/Donna, Zaino da Trekking con Strisce Riflettenti, Zaino Montagna per Escursi",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "CMP Rigel Mid Trekking Shoes Wp, Scarpe da trekking Uomo, Grey, 45 EU",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -2939,6 +2932,13 @@
       },
       {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Bianco Puma White Puma Black, 42.5 EU",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "PUMA Unisex ST Runner v2 NL Sneakers, Puma Black-Puma White, 42 EU",
         "merchant": "",
         "ean": "",
         "mpn": "",
