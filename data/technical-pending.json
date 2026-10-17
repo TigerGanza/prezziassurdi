@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-17T11:39:49+02:00",
+  "generated_at": "2026-10-17T12:54:50+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -388,6 +388,13 @@
     ],
     "tv-in-offerta": [
       {
+        "title": "Sony BRAVIA 7 II True RGB 75 Inch TV, 4K Smart TV (Google TV), RGB LED, XR Processor with AI Technology, 120hz Television with Dolby Vision/Atmos, PS5 compatibility, 75XR75M2, 2026",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "XIAOMI TV F Pro 32 2025, 32 pollici (81 cm), QLED, Smart TV, Fire TV, Triple Tuner DVB-C/S/S2/T/T2,Dolby Audio, DTS Virtual:X, DTS-HD, Controllo Vocale Alexa, Compatibile con Apple",
         "merchant": "",
         "ean": "",
@@ -585,13 +592,6 @@
       },
       {
         "title": "Hisense Smart TV 65\" UHD 4K 65E6ST | DTS Virtual X, VIDAA OS con 1000+ APP, HDR 10+, Game Mode Plus, Bluetooth, Wifi, Alexa, AirPlay2, lativù 4K, 2026 Model",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "TCL 75V6D – Smart TV 4K HDR10+ da 75\" con Fire TV e Dolby Atmos",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -1112,20 +1112,6 @@
     ],
     "migliori-monitor": [
       {
-        "title": "LG UltraWide 29U511A Monitor 29\" IPS WFHD(2560x1080) 100Hz per multitasking | Formato UltraWide 21:9, HDR10, colori accurati sRGB 99%, schermo antiriflesso e comfort visivo",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "LG UltraGear 34G60ZA 2026, Monitor Gaming 34\" WQHD (3440 x 1440) 21:9 Curvo | Formato UltraWide 21:9 curvo, Refresh Rate160Hz, 1ms (MBR), HDR 10, FreeSync, HDMI 2.0, DP, Stand rego",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Lenovo Notebook Ram 16GB CPU Intel i5-1342H Monitor 15.6\" Full HD SSD 512 GB LAN, HDMI, USB Win 11 Pro e Libre Office Pc portatile pronto all'uso - Colore Nero",
         "merchant": "",
         "ean": "",
@@ -1259,6 +1245,20 @@
         "status": "da_verificare"
       },
       {
+        "title": "LG UltraWide 29U511A Monitor 29\" IPS WFHD(2560x1080) 100Hz per multitasking | Formato UltraWide 21:9, HDR10, colori accurati sRGB 99%, schermo antiriflesso e comfort visivo",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "LG UltraGear 34G60ZA 2026, Monitor Gaming 34\" WQHD (3440 x 1440) 21:9 Curvo | Formato UltraWide 21:9 curvo, Refresh Rate160Hz, 1ms (MBR), HDR 10, FreeSync, HDMI 2.0, DP, Stand rego",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Philips Gaming Monitor 34M2C3500L 34 pollici, Curvo, 3440x1440, UW-QHD, 180Hz, Fast VA Panel, 0.5ms MPRT, , (HDMI2x 2.0 DP 1x 1.4) Adaptive Sync, HDR10, FreeSync Premium, Grigio Sc",
         "merchant": "",
         "ean": "",
@@ -1323,6 +1323,27 @@
       }
     ],
     "migliori-smartwatch": [
+      {
+        "title": "RUIMEN Smartwatch Uomo Donna Orologio Smart Watch Risposta Chiamate Contapassi Cardiofrequenzimetro da polso Saturimetro Orologio Fitness Sportivo Impermeabile Notifiche Messaggi p",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "HUAWEI WATCH FIT 4 Smartwatch, 100 Modalità di Allenamento, Ultra-sottile, Fitness Tracker, iOS & Android, Cassa in Alluminio, Batteria fino a 10 Giorni, 1.82”Display AMOLED, GPS, ",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "AOYBWK Smartwatch Uomo Donna, 1.85\" Orologio Fitness con Chiamate Bluetooth e Notifiche, 140+ Modi Sportivi con Contapassi, SpO2, Cardiofrequenzimetro da Polso, Sonno, IP68 per And",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "2026 Smartwatch Uomo GPS,2.06\" HD AMOLED Orologio Smartwatch con Chiamate",
         "merchant": "",
@@ -1511,30 +1532,16 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "Smartwatch Huawei Watch GT Runner 2 da 1,32 pollici",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Nuovo Oneplus Watch 4 Versione Globale 2026, Smartwatch con Processore Snapdragon W5, fino a 16 Giorni di Autonomia della Batteria",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Nuovo arrivo OnePlus Watch 4, smartwatch OnePlus con display AMOLED da 1,5”, Snapdragon W5 Gen 1, fino a 16 giorni di autonomia, GPS, NFC, orologio intelligente da uomo.",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
       }
     ],
     "migliori-console-gaming": [
+      {
+        "title": "Sony BRAVIA 7 II True RGB 75 Inch TV, 4K Smart TV (Google TV), RGB LED, XR Processor with AI Technology, 120hz Television with Dolby Vision/Atmos, PS5 compatibility, 75XR75M2, 2026",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Sony BRAVIA 8 OLED 77 Pollici 4K HDR Google Smart TV (2024) | Gaming Menu per PlayStation 5, IMAX Enhanced, Dolby Vision Atmos, Chromecast, AirPlay, 120Hz 77XR80",
         "merchant": "",
