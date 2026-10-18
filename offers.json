@@ -1,5 +1,22 @@
 [
   {
+    "asin": "B0GWN3FKJZ",
+    "title": "LG QNED evo AI MiniLED 43 Pollici, Serie QNED86B 2026 Smart TV 4K - 43QNED86B6B",
+    "price": 479.0,
+    "old_price": 799.0,
+    "discount": 40.0,
+    "image": "https://m.media-amazon.com/images/I/41YfJlehvIL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0GWN3FKJZ?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "tv_premium",
+    "macro_group": "tech",
+    "seasonal_title": "",
+    "published_at": "2026-10-18T18:15:14.723800+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B0HFWV44HJ",
     "title": "Vikeri Powerbank Solare 26800mAh, Portatile Ricarica Rapida | 4 uscite, impermeabile IP67, batteria esterna, compatibile smartphone & tablet, campeggio & outdoor, Arancione",
     "price": 23.61,
@@ -1815,50 +1832,5 @@
     "source_external_id": "",
     "quality_status": "ready",
     "quality_issues": []
-  },
-  {
-    "asin": "B0DQWW7LNZ",
-    "title": "Braun Rifinitore All-in-One Serie 5 Rasoio Elettrico,Accessori AIO5540 Nero | Rasoio Elettrico Corpo Uomo Barba e Capelli 7in1, Regolabarba Impermeabile, Skinguard, Ricaricabile, 120 Min di Utilizzo",
-    "price": 37.99,
-    "old_price": 69.99,
-    "discount": 46.0,
-    "image": "https://m.media-amazon.com/images/I/411L2b81ijL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0DQWW7LNZ?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "beauty_pro",
-    "macro_group": "cura_persona",
-    "seasonal_title": "",
-    "published_at": "2026-10-18T08:40:15.167691+02:00",
-    "source_merchant": "amazon",
-    "source_external_id": "",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "unieuro",
-        "merchant_name": "Unieuro",
-        "merchant_id": "10139",
-        "product_id": "BRAAIO5540",
-        "awin_product_id": "40721640476",
-        "title": "Braun Rifinitore All-in-One Series 5 9in1, Lama Ultra Affilata, Tecnologia SkinGuard, AIO5540, Nero",
-        "brand": "Braun",
-        "ean": "7500435245029",
-        "mpn": "AIO5540",
-        "price": 37.69,
-        "old_price": 69.99,
-        "discount": 46.1,
-        "image": "https://www.unieuro.it/medias/sys_master/root/h82/h58/50524119859230/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-6f22453807fc243fea5cc063b1062657-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-        "url": "https://www.awin1.com/pclick.php?p=40721640476&a=3086723&m=10139",
-        "category": "Tagliacapelli",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {
-          "color": "black"
-        }
-      }
-    ],
-    "merchant_match_score": 100,
-    "merchant_ean": "7500435245029",
-    "merchant_prices_checked_at": "2026-10-18T08:14:11.090367+02:00"
   }
 ]
