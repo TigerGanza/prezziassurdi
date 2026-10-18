@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-18T18:00:43+02:00",
+  "generated_at": "2026-10-18T19:15:44+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -395,6 +395,13 @@
     ],
     "tv-in-offerta": [
       {
+        "title": "LG QNED evo AI MiniLED 43 Pollici, Serie QNED86B 2026 Smart TV 4K - 43QNED86B6B",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "LG OLED evo AI 77 Pollici, Serie C6 2026 Smart TV 4K - OLED77C64LA | Hyper Radiant Color, Reflection Free Premium, Processore α11 Gen3, Dual AI Engine, Dolby Vision & Atmos, VRR, G",
         "merchant": "amazon",
         "ean": "",
@@ -592,13 +599,6 @@
       },
       {
         "title": "TCL 65V6C – Smart TV 4K HDR Direct LED da 65\", Google TV con Dolby Audio",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Hisense Smart TV 65\" UHD 4K 65E6ST | DTS Virtual X, VIDAA OS con 1000+ APP, HDR 10+, Game Mode Plus, Bluetooth, Wifi, Alexa, AirPlay2, lativù 4K, 2026 Model",
         "merchant": "",
         "ean": "",
         "mpn": "",
