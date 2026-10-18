@@ -1,19 +1,12 @@
 {
   "version": 1,
-  "generated_at": "2026-10-18T10:25:40+02:00",
+  "generated_at": "2026-10-18T11:40:40+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
     "smartphone-in-offerta": [
       {
         "title": "HONOR 600 SMART 5G BLACK 4+128GB",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Motorola moto g56 5G 8/256GB, Fotocamera 50MP + sensore antisfarfallio, Display 6.72\" FHD+ 120Hz, batteria 5200mAh, MediaTek Dimensity 7060, Android 15, PANTONE Dill",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -214,18 +207,18 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
+      },
+      {
+        "title": "realme 14 Pro+ 5G Smartphone 8+256GB, Grey",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
       }
     ],
     "migliori-smartphone-sotto-300-euro": [
       {
         "title": "HONOR 600 SMART 5G BLACK 4+128GB",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Motorola moto g56 5G 8/256GB, Fotocamera 50MP + sensore antisfarfallio, Display 6.72\" FHD+ 120Hz, batteria 5200mAh, MediaTek Dimensity 7060, Android 15, PANTONE Dill",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -1049,6 +1042,20 @@
     ],
     "migliori-monitor": [
       {
+        "title": "PHILIPS Monitor 27E1N1800AE 27 pollici 3840x2160, UHD, 60Hz, IPS Panel, 4ms GtG, Speakers, Height Adjustment, (HDMI2x 2.0 DP 1x 1.4) HDR10, Nero",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Samsung Monitor HRM ViewFinity S7 S70H (LS27H704EAUXEN), Flat, 27\", 4K | 16:9, 4K UHD (3840 x 2160), HDR10, Modalità Eye Saver, Angolo di Visione 178°, Samsung Display Manager, HDM",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Lenovo Notebook Ram 16GB CPU Intel i5-1342H Monitor 15.6\" Full HD SSD 512 GB LAN, HDMI, USB Win 11 Pro e Libre Office Pc portatile pronto all'uso - Colore Nero",
         "merchant": "",
         "ean": "",
@@ -1240,20 +1247,6 @@
       {
         "title": "Per Mercedes Benz Classe C GLC Classe G Classe E 2015 2019 1PC Tappetino Touch Mouse Multimediale per Auto Interruttore di Controllo Nuovo Accessorio Monitor Auto Aggiornato",
         "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "OMEN by HP Monitor da gaming 27'' FHD 240 Hz – OMEN 27s",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "ASUS ZenScreen MB16AWP Monitor PC 39,6 cm (15.6'') 1920 x 1080 Pixel Full HD LED Nero",
-        "merchant": "unieuro",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
@@ -1771,6 +1764,13 @@
     ],
     "cuffie-bluetooth-in-offerta": [
       {
+        "title": "Sony ULT WEAR Cuffie bluetooth con Cancellazione Rumore e bassi profondi | Over-Ear, wireless, WH-1000XM5 processore, chiamate nitide, 30 ore batteria, noise cancelling, iOS & Andr",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Xiaomi Redmi Buds 8, Cuffie Bluetooth, 50dB ANC, 11h+44h Batteria, Nero | Driver dinamico 11mm con Audio Hi-Res Certificato, 3-Mic IA riduzione Rumore chiamate, IP54",
         "merchant": "",
         "ean": "",
@@ -1968,13 +1968,6 @@
       },
       {
         "title": "Philips Serie 4000 TAH4209BK/00 cuffia e auricolare Wireless A Padiglione Musica e Chiamate Bluetooth Nero",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Philips Serie 4000 TAH4209WT/00 cuffia e auricolare Wireless A Padiglione Musica e Chiamate Bluetooth Bianco",
         "merchant": "unieuro",
         "ean": "",
         "mpn": "",
@@ -2770,6 +2763,13 @@
     ],
     "migliori-moda": [
       {
+        "title": "Haarlosy Epilatore Luce Pulsata con 3 IN 1 HR/SC/RA Finestra di 5cm² IFE03 | Modalità Manuale e Automatica, 9 Livelli di Energia, 999900 Flash per Donna e Uomo, Viso Corpo Bikini",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
         "ean": "",
@@ -2967,13 +2967,6 @@
       },
       {
         "title": "CustomSolo Maglietta Personalizzata con Foto e Testo, Unisex Doppia Faccia T-Shirt Personalizzata per Donna e Uomo, Maglia Personalizzata per Regali, Logo Aziendale, Compleanni, Fa",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "WORLD SELL T-Shirt Uomo/Donna Personalizzata Fronte e Retro – 100% Cotone – Made in Italy – Maglietta Personalizzabile con Testo, Logo o Immagine (IT, Testo, M, Regular, Regular, B",
         "merchant": "",
         "ean": "",
         "mpn": "",
