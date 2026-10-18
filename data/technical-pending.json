@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-18T20:25:44+02:00",
+  "generated_at": "2026-10-18T21:35:43+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -1084,20 +1084,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "PHILIPS Monitor 27E1N1800AE 27 pollici 3840x2160, UHD, 60Hz, IPS Panel, 4ms GtG, Speakers, Height Adjustment, (HDMI2x 2.0 DP 1x 1.4) HDR10, Nero",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Samsung Monitor HRM ViewFinity S7 S70H (LS27H704EAUXEN), Flat, 27\", 4K | 16:9, 4K UHD (3840 x 2160), HDR10, Modalità Eye Saver, Angolo di Visione 178°, Samsung Display Manager, HDM",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Lenovo Notebook Ram 16GB CPU Intel i5-1342H Monitor 15.6\" Full HD SSD 512 GB LAN, HDMI, USB Win 11 Pro e Libre Office Pc portatile pronto all'uso - Colore Nero",
         "merchant": "",
         "ean": "",
@@ -1275,6 +1261,20 @@
       {
         "title": "Xiaomi Redmi Watch 6, Smartwatch Uomo Donna, Batteria 24 Giorno, Argento | Schermo 2,07'', Monitor Cardiaco/Sonno/Stress, 150+ modalità Sport, Tracker GPS, 5ATM, Compatibile Androi",
         "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Junsun DVR per moto da 8,1 pollici Dual 2K con Carplay, Android Auto, GPS, display di navigazione, impermeabile IPX7, dashcam portatile, monitor touchscreen digitale, Moto BT",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "OMEN by HP Monitor da gaming 27'' FHD 240 Hz – OMEN 27s",
+        "merchant": "unieuro",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
@@ -1834,13 +1834,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Sony ULT WEAR Cuffie bluetooth con Cancellazione Rumore e bassi profondi | Over-Ear, wireless, WH-1000XM5 processore, chiamate nitide, 30 ore batteria, noise cancelling, iOS & Andr",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Xiaomi Redmi Buds 8, Cuffie Bluetooth, 50dB ANC, 11h+44h Batteria, Nero | Driver dinamico 11mm con Audio Hi-Res Certificato, 3-Mic IA riduzione Rumore chiamate, IP54",
         "merchant": "",
         "ean": "",
@@ -2017,6 +2010,13 @@
       },
       {
         "title": "Sony WHCH520Y.CE7 cuffia e auricolare Wireless A Padiglione Musica e Chiamate USB tipo C Bluetooth Giallo",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Celly MAGPOCKET3IN1WH Caricabatterie per dispositivi mobili Cuffie, Smartphone, Orologio intelligente Bianco USB Carica wireless Ricarica rapida Interno",
         "merchant": "unieuro",
         "ean": "",
         "mpn": "",
@@ -2281,6 +2281,13 @@
     ],
     "migliori-lavatrici": [
       {
+        "title": "Bosch WGG244Z0IT Serie 6 Lavatrice 9kg 1400 giri/min bianco | Lavatrice con vapore, Sitema di riconoscimento del carico, Sistema Antimacchia, Motore silenzioso con 10 anni di assis",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Bosch WAN28229IT Serie 4 Lavatrice 9kg 1400 giri/min Bianco Classe A",
         "merchant": "",
         "ean": "",
@@ -2478,13 +2485,6 @@
       },
       {
         "title": "Smeg LB2T92ASIT lavatrice Caricamento frontale 9 kg 1200 Giri/min Bianco",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Samsung WW90DG5G34AEET lavatrice Caricamento frontale 9 kg 1400 Giri/min Bianco",
         "merchant": "unieuro",
         "ean": "",
         "mpn": "",
@@ -2840,6 +2840,20 @@
     ],
     "migliori-moda": [
       {
+        "title": "BAODLE Scarpe da Calcio Ragazzi FG/AG Professionale All'aperto Calcio da Scarpe Ragazzo Allenamento TF Bambini Teenage Scarpe Calcetto Traspirante Verde EU 28",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Puma Future 8 Play FG/AG - Scarpe da Calcio Unisex, Puma Black-Puma White-Glowing Red,",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "JJIGLENN JJORIGINAL CB 815 NOOS Jeans Slim Fit Blu 29/32 | Slim Fit, Washed, Casual, Temperatura massima 30°C ciclo normale",
         "merchant": "amazon",
         "ean": "",
@@ -2890,13 +2904,6 @@
       },
       {
         "title": "PADOLA Pantaloni Uomo in Velluto a Coste Largo Taglio Dritto, Modello con Vita Elasticizzata e Cordino, 4 Tasche, Casual Pantalone(S,Verde Oliva)",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Haarlosy Epilatore Luce Pulsata con 3 IN 1 HR/SC/RA Finestra di 5cm² IFE03 | Modalità Manuale e Automatica, 9 Livelli di Energia, 999900 Flash per Donna e Uomo, Viso Corpo Bikini",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -3037,13 +3044,6 @@
       },
       {
         "title": "PUMA Unisex Puma Shuffle Sneakers, Puma White-Puma White-Puma Team Gold, 40 EU",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 42 EU",
         "merchant": "",
         "ean": "",
         "mpn": "",
