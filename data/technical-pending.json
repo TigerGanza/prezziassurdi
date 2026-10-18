@@ -1,10 +1,17 @@
 {
   "version": 1,
-  "generated_at": "2026-10-18T12:55:40+02:00",
+  "generated_at": "2026-10-18T14:15:41+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
     "smartphone-in-offerta": [
+      {
+        "title": "Sony Xperia 10 IV 5G - Smartphone 128GB, 6GB RAM, Dual Sim, White (Ricondizionato)",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Google Pixel 11 Pro – Smartphone Android sbloccato - Verde oliva, 256GB | Con Gemini Intelligence, autonomia di oltre 30 ore e display Super Actua da 6,3”",
         "merchant": "amazon",
@@ -207,16 +214,16 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "Apple iPhone 14, 128GB, Giallo (Ricondizionato)",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
       }
     ],
     "migliori-smartphone-sotto-300-euro": [
+      {
+        "title": "Sony Xperia 10 IV 5G - Smartphone 128GB, 6GB RAM, Dual Sim, White (Ricondizionato)",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "XIAOMI REDMI A7 Pro Smartphone 4+128GB,Blu,Display immersivo 6,9\" | Processore Octa-core, Doppia fotocamera AI da 13MP,Garanzia 2 anni + 1 anno extra, Batteria 6000 mAh (tip)",
         "merchant": "",
@@ -380,13 +387,6 @@
       }
     ],
     "tv-in-offerta": [
-      {
-        "title": "LG OLED evo AI G6S OLED48G66 TV OLED, SMART TV, 48 \", Processore a11 4K Gen3, Classe E",
-        "merchant": "mediaworld",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "XIAOMI TV F Pro 32 2025, 32 pollici (81 cm), QLED, Smart TV, Fire TV, Triple Tuner DVB-C/S/S2/T/T2,Dolby Audio, DTS Virtual:X, DTS-HD, Controllo Vocale Alexa, Compatibile con Apple",
         "merchant": "",
@@ -585,6 +585,13 @@
       },
       {
         "title": "Hisense Smart TV QLED 65\" 4K 65E7DS",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "TCL 75V6D – Smart TV 4K HDR10+ da 75\" con Fire TV e Dolby Atmos",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -2756,6 +2763,34 @@
     ],
     "migliori-moda": [
       {
+        "title": "PUMA Cilia Mode, Sneaker Donna, White Silver, 38 EU",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "PUMA Women Carina Street Scarpe da ginnastica, White Frosty Pink Alpine Snow, 36 EU",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Velway Guanti da Lavoro con Rivestimento in PU 12 Paia, Nero, Taglia 8/M",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "PADOLA Pantaloni Uomo in Velluto a Coste Largo Taglio Dritto, Modello con Vita Elasticizzata e Cordino, 4 Tasche, Casual Pantalone(S,Verde Oliva)",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Haarlosy Epilatore Luce Pulsata con 3 IN 1 HR/SC/RA Finestra di 5cm² IFE03 | Modalità Manuale e Automatica, 9 Livelli di Energia, 999900 Flash per Donna e Uomo, Viso Corpo Bikini",
         "merchant": "amazon",
         "ean": "",
@@ -2936,37 +2971,16 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "Uomo Scarpe Sportive da Ginnastica Trail Running Respirabile Jogging Sneakers Casual Basse Scarpe Leggere Business MU9568-3 (Navy,40)",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Donna Scarpe da Running Ginnastica Camminata Sportive Trekking Tennis Trail Jogging Palestra Mesh Basket Sport Outdoor Fitness Sport Platform Sneakers Nero 38 EU",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "ASOCO DREAM Scarpe da Trail Running Uomo Scarpe da Passeggio Leggero Traspirante Scarpe da Ginnastica Antiscivolo Fitness Running Sneakers,Camuffare,39 EU",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "CustomSolo Maglietta Personalizzata con Foto e Testo, Unisex Doppia Faccia T-Shirt Personalizzata per Donna e Uomo, Maglia Personalizzata per Regali, Logo Aziendale, Compleanni, Fa",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
       }
     ],
     "migliori-sneakers": [
+      {
+        "title": "PUMA Cilia Mode, Sneaker Donna, White Silver, 38 EU",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
@@ -3165,13 +3179,6 @@
       },
       {
         "title": "Nuovo arrivo: scarpe da skateboard unisex, modello basso con allacciatura, sneakers casual, traspiranti, resistenti all'usura, antiscivolo, con suola piatta, perfette per il tempo ",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Scarpe da skateboard unisex di grandi dimensioni, modello alla moda con taglio basso, sneakers casual con design a cuciture, suola resistente all'usura, soletta confortevole, calza",
         "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
