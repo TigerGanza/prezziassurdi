@@ -1,5 +1,22 @@
 [
   {
+    "asin": "B071KT1PTH",
+    "title": "Leffe Triple, Birra Bottiglia - Pacco da 24x33cl",
+    "price": 34.76,
+    "old_price": 50.16,
+    "discount": 31.0,
+    "image": "https://m.media-amazon.com/images/I/517Gv7DwlbL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B071KT1PTH?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "birre",
+    "macro_group": "spesa_bevande",
+    "seasonal_title": "",
+    "published_at": "2026-10-19T15:20:14.696038+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B0GC5JT8QX",
     "title": "ECOVACS T80S OMNI Robot Aspirapolvere Lavapavimenti 24800 Pa OZMO ROLLER | TruEdge Generation 3.0 con Sensore 3D, Triple Lift, Lavaggio Mocio con Acqua Calda a 40-75 °C, Asciugatura ad Aria Calda",
     "price": 349.0,
@@ -2132,51 +2149,6 @@
     ],
     "merchant_match_score": 100,
     "merchant_ean": "4007249813602",
-    "merchant_prices_checked_at": "2026-10-19T06:34:16.653609+02:00"
-  },
-  {
-    "asin": "WCF3E71CA8",
-    "title": "PURO Daylight COVER MAGSAFE per Apple iPhone 17, Verde trasparente",
-    "price": 17.97,
-    "old_price": 29.95,
-    "discount": 40.0,
-    "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_161534284/fee_786_587_png",
-    "url": "https://www.awin1.com/pclick.php?p=42395281845&a=3086723&m=18529",
-    "category": "informatica",
-    "macro_group": "awin_discovery",
-    "seasonal_title": "Offerta MediaWorld",
-    "published_at": "2026-10-19T06:50:18.598643+02:00",
-    "source_merchant": "mediaworld",
-    "source_external_id": "463499",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "mediaworld",
-        "merchant_name": "MediaWorld",
-        "merchant_id": "18529",
-        "product_id": "463499",
-        "awin_product_id": "42395281845",
-        "title": "PURO Daylight COVER MAGSAFE per Apple iPhone 17, Verde trasparente",
-        "brand": "Puro",
-        "ean": "8018417527074",
-        "mpn": "PUIPC1763DAYLGRN",
-        "price": 17.97,
-        "old_price": 29.95,
-        "discount": 40.0,
-        "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_161534284/fee_786_587_png",
-        "url": "https://www.awin1.com/pclick.php?p=42395281845&a=3086723&m=18529",
-        "category": "Telefonia;Accessori Smartphone;Cover e Custodie Smartphone",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {
-          "color": "green"
-        }
-      }
-    ],
-    "merchant_match_score": 100,
-    "merchant_ean": "8018417527074",
     "merchant_prices_checked_at": "2026-10-19T06:34:16.653609+02:00"
   }
 ]
