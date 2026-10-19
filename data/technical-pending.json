@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-19T21:10:43+02:00",
+  "generated_at": "2026-10-19T22:25:44+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -35,20 +35,6 @@
       },
       {
         "title": "Samsung Galaxy A18, 128GB, Black [Versione Italiana] | 3 anni di Garanzia, Design Sottile, Cerchia e Cerca, Tripla Camera 50MP, 5.000 mAh, IP64, RAM 4GB + 4GB Ram Plus",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "XIAOMI 17T Pro, Smartphone 12+256GB, Deep Blue, Teleobiettivo Leica 5x | Batteria Silicio-carbonio da 7000mAh (typ), Display Eye-Care 6,83\" 144Hz, 100W HyperCharge, Garanzia 2 anni",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "XIAOMI 17T Pro,Smartphone 12+512GB,Display Eye-Care da 6,83\" a 144Hz,MediaTek Dimensity 9500,Batteria al silicio-carbonio da 7000 mAh (tip),Teleobiettivo Leica 5x,HyperCharge da 10",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -210,6 +196,20 @@
       },
       {
         "title": "Redmi Note 15 5G 8+256 Black (No power adapter included)",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Redmi Note 15 Pro 5G 12+512 Black (No power adapter included)",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "XIAOMI REDMI Note 15 5G, Smartphone 8+512GB, Blu Ghiacciaio Resistenza IP65 | Design ultrasottile, Fotocamera super nitida da 108 MP, Display FHD+ da 6,77\", Garanzia 2 anni",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -693,6 +693,13 @@
     ],
     "migliori-notebook": [
       {
+        "title": "ASUS Vivobook 15 F1504MA#B0H261K2KN, Notebook con display 15.6\" IPS, Anti-glare, 60Hz,Intel® Core™ 5 Processor 320,RAM 16GB, 512GB SSD, WIN11 Home, Argento",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "ASUS Vivobook 16 F1605VA#B0FZL8JLW9, Notebook con display 16\" Anti-glare, 60Hz,Intel® Core™ 9 Processor 270H,RAM 16GB, 1TB SSD, WIN11 Home, Argento",
         "merchant": "",
         "ean": "",
@@ -708,13 +715,6 @@
       },
       {
         "title": "Lenovo - Notebook 15.6 Pollici V15 G4 IRU, Pc Portatile Professionale Windows 11 Pro, Intel Core I5-13420H, Ram 16GB DDR4, 512GB SSD NVMe - Laptop Grafica Intel UHD, Computer Audio",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "ASUS Vivobook 15 F1504MA#B0H261K2KN, Notebook con display 15.6\" IPS, Anti-glare, 60Hz,Intel® Core™ 5 Processor 320,RAM 16GB, 512GB SSD, WIN11 Home, Argento",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -915,13 +915,6 @@
     "migliori-tablet": [
       {
         "title": "Samsung Galaxy Tab A11+, Wi-Fi, 8GB RAM, 256GB | Tablet Android, 11\" 90Hz Dispaly, Silver [Versione italiana]",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Elgato Cam Link 4K, scheda di acquisizione esterna | Streaming e registrazioni DSLR/camcorder 1080p60 o 4K30/4K60, per OBS/Zoom/Discord, HDMI a USB 3.0, PC/Mac/iPad",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -2190,13 +2183,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Candy ProWash 300 Lavatrice Slim 7 Kg, 1200 Giri, Classe A-15%, Bianca | Motore Inverter, Cicli Rapidi, Display LED, Illuminazione LED, 60 Programmi, LxPxA 60x42,4x85 cm, GD 27SB7-",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Bosch WAN28229IT Serie 4 Lavatrice 9kg 1400 giri/min Bianco Classe A",
         "merchant": "",
         "ean": "",
@@ -2261,6 +2247,13 @@
       },
       {
         "title": "LG F4NX1009NWB Lavatrice 9 kg a Carica Frontale Serie X1, Classe A, 1400 giri, Wi-Fi, 6 Motion Direct Drive, Lavaggio a Vapore Allergy Care, Libera installazione, Essence White",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Candy ProWash 300 Lavatrice Slim 7 Kg, 1200 Giri, Classe A-15%, Bianca | Motore Inverter, Cicli Rapidi, Display LED, Illuminazione LED, 60 Programmi, LxPxA 60x42,4x85 cm, GD 27SB7-",
         "merchant": "",
         "ean": "",
         "mpn": "",
