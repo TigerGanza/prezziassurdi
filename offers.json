@@ -1,5 +1,22 @@
 [
   {
+    "asin": "B0H5RJNCXT",
+    "title": "HONOR 600 SMART 5G SILVER 4+128GB",
+    "price": 189.99,
+    "old_price": 279.9,
+    "discount": 32.0,
+    "image": "https://m.media-amazon.com/images/I/41rkg5+ruxL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0H5RJNCXT?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "smartphone_top",
+    "macro_group": "tech",
+    "seasonal_title": "",
+    "published_at": "2026-10-19T14:45:15.172173+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B0D5YR2Y3Q",
     "title": "Kenwood MultiPro Compact FDP31.360GY, Robot da Cucina Multifunzione con Lama per Frullare, Disco per Impastare e Affettare, Spremiagrumi, Frullatore 1.2L, 2 Velocità+Pulse, Ciotola 2.1L, 800W, Grigio",
     "price": 64.99,
@@ -2262,49 +2279,6 @@
     ],
     "merchant_match_score": 100,
     "merchant_ean": "8806092119208",
-    "merchant_prices_checked_at": "2026-10-19T05:19:20.618252+02:00"
-  },
-  {
-    "asin": "W55B8178BF",
-    "title": "ADATTATORE MEDIACOM Multi Port Adapters",
-    "price": 18.0,
-    "old_price": 30.0,
-    "discount": 40.0,
-    "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_105748137/fee_786_587_png",
-    "url": "https://www.awin1.com/pclick.php?p=35934897042&a=3086723&m=18529",
-    "category": "informatica",
-    "macro_group": "awin_discovery",
-    "seasonal_title": "Offerta MediaWorld",
-    "published_at": "2026-10-19T06:20:57.140899+02:00",
-    "source_merchant": "mediaworld",
-    "source_external_id": "175499",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "mediaworld",
-        "merchant_name": "MediaWorld",
-        "merchant_id": "18529",
-        "product_id": "175499",
-        "awin_product_id": "35934897042",
-        "title": "ADATTATORE MEDIACOM Multi Port Adapters",
-        "brand": "MEDIACOM",
-        "ean": "8028153116258",
-        "mpn": "MD-C313",
-        "price": 18.0,
-        "old_price": 30.0,
-        "discount": 40.0,
-        "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_105748137/fee_786_587_png",
-        "url": "https://www.awin1.com/pclick.php?p=35934897042&a=3086723&m=18529",
-        "category": "Periferiche PC;Periferiche PC e Accessori;Cavi e Adattatori",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {}
-      }
-    ],
-    "merchant_match_score": 100,
-    "merchant_ean": "8028153116258",
     "merchant_prices_checked_at": "2026-10-19T05:19:20.618252+02:00"
   }
 ]
