@@ -1,10 +1,17 @@
 {
   "version": 1,
-  "generated_at": "2026-10-19T19:55:51+02:00",
+  "generated_at": "2026-10-19T21:10:43+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
     "smartphone-in-offerta": [
+      {
+        "title": "Apple AirPods Max Cuffie wireless over-ear, Cancellazione attiva del rumore di livello pro, Modalità Trasparenza, Audio spaziale personalizzato, Ricarica USB-C, Cuffie Bluetooth pe",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "XIAOMI POCO F8 Pro, Smartphone 12+512 GB, Titanium, Audio Sound by Bose | Display AMOLED 6,59\" 120Hz,Tripla Fotocamera 50MP Teleobiettivo 60mm,Batteria 6210mAh , Garanzia 2 anni",
         "merchant": "amazon",
@@ -203,13 +210,6 @@
       },
       {
         "title": "Redmi Note 15 5G 8+256 Black (No power adapter included)",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Redmi Note 15 Pro 5G 12+512 Black (No power adapter included)",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -1736,6 +1736,13 @@
     ],
     "cuffie-bluetooth-in-offerta": [
       {
+        "title": "Apple AirPods Max Cuffie wireless over-ear, Cancellazione attiva del rumore di livello pro, Modalità Trasparenza, Audio spaziale personalizzato, Ricarica USB-C, Cuffie Bluetooth pe",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Music Sound SWAG Auricolari Wireless a Capsula, Bluetooth, 12 Ore di Riproduzione, Auto Pairing, Controlli Touch, Case Compatto - Azzurro",
         "merchant": "amazon",
         "ean": "",
@@ -1933,13 +1940,6 @@
       },
       {
         "title": "JVC HA A3T Auricolare True Wireless Stereo (TWS) In ear Musica e Chiamate Bluetooth Nero",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Philips 4000 series TAH4209BL/00 cuffia e auricolare Wireless A Padiglione Musica e Chiamate Bluetooth Blu",
         "merchant": "unieuro",
         "ean": "",
         "mpn": "",
@@ -2735,6 +2735,34 @@
     ],
     "migliori-moda": [
       {
+        "title": "adidas Uomo Essentials Feelcozy Fleece Hoodie Sweatshirt, Black/White, M",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "adidas Uomo Essentials Big Logo French Terry Hoodie Sweatshirt, Pure Ruby/Black, M",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Adidas Uomo Essentials Feelcozy French Terry Hoodie, Medium Grey Heather/Black, S",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Reusch Guanti invernali da donna | caldi, idrorepellenti e traspiranti | Guanti da sci antivento con polsino lungo, per la vita quotidiana, il tempo libero e gli sport invernali, T",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Epilatore Luce Pulsata con Funzione di Raffreddamento a Ghiaccio, Schermo LCD Touch,Modalità di Scorrimento Automatico, Epilatore a Luce Pulsata per Donne e Uomini, Viso, Ascelle, ",
         "merchant": "amazon",
         "ean": "",
@@ -2771,13 +2799,6 @@
       },
       {
         "title": "TARION Zaino Fotocamera Rolltop Impermeabile Borsa per Reflex e Laptop | Zaino Fotografico con Scomparto Laptop 15.6\" e Fodera Pioggia Spazio Espandibile per Viaggi Trekking e DSLR",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Under Armour Ua Undeniable 5.0 Duffle, Borsa sportiva Unisex - Adulto, Black/Black/Metallic Silver, 40L",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -2918,27 +2939,6 @@
       },
       {
         "title": "Lotto Sneaker Unisex, Rosso/Bianco, 44 EU, Rosso Bianco, 44 EU",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Asics Gel-Venture 11 Scarpe da Trail Running",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Asics Gel-Venture 6 Sneakers",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "NORTIV 8 Scarpe Trail Running Uomo Punta Larga,Nero/Grigio Chiaro,44 | Punta larga e suola antiscivolo con tacchetti da 4 mm per stabilità su ogni terreno",
         "merchant": "",
         "ean": "",
         "mpn": "",
