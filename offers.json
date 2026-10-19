@@ -1,5 +1,22 @@
 [
   {
+    "asin": "B094Y6T5NM",
+    "title": "Vigneti Romio Trebbiano Vino Spumante Bianco Novebolle Romagna DOC, Gusto Fresco con Note Fruttate, 11.5% Vol, Confezione con 6 Bottiglie da 750 ml",
+    "price": 25.45,
+    "old_price": 29.94,
+    "discount": 15.0,
+    "image": "https://m.media-amazon.com/images/I/41BFm6FSw6L._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B094Y6T5NM?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "vini",
+    "macro_group": "spesa_bevande",
+    "seasonal_title": "",
+    "published_at": "2026-10-19T16:06:06.659454+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B0GWN457ZW",
     "title": "LG QNED evo AI MiniLED 65 Pollici, Serie QNED86B 2026 Smart TV 4K - 65QNED86B6B",
     "price": 849.0,
@@ -2042,49 +2059,6 @@
     ],
     "merchant_match_score": 100,
     "merchant_ean": "8018080505447",
-    "merchant_prices_checked_at": "2026-10-19T06:34:16.653609+02:00"
-  },
-  {
-    "asin": "W5764F306F",
-    "title": "Hama Kit installazione amplificatore auto Power Kit ''AMP-KIT 10''",
-    "price": 10.99,
-    "old_price": 34.99,
-    "discount": 68.6,
-    "image": "https://www.unieuro.it/medias/sys_master/root/hfa/hb7/50361767985182/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-6d18e8d38e521e322ac9ab49f8210cdb-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-    "url": "https://www.awin1.com/pclick.php?p=16847496249&a=3086723&m=10139",
-    "category": "tv-audio",
-    "macro_group": "awin_discovery",
-    "seasonal_title": "Offerta Unieuro",
-    "published_at": "2026-10-19T07:05:22.325099+02:00",
-    "source_merchant": "unieuro",
-    "source_external_id": "HMA7762423",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "unieuro",
-        "merchant_name": "Unieuro",
-        "merchant_id": "10139",
-        "product_id": "HMA7762423",
-        "awin_product_id": "16847496249",
-        "title": "Hama Kit installazione amplificatore auto Power Kit ''AMP-KIT 10''",
-        "brand": "Hama",
-        "ean": "4007249624239",
-        "mpn": "7762423",
-        "price": 10.99,
-        "old_price": 34.99,
-        "discount": 68.6,
-        "image": "https://www.unieuro.it/medias/sys_master/root/hfa/hb7/50361767985182/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-6d18e8d38e521e322ac9ab49f8210cdb-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-        "url": "https://www.awin1.com/pclick.php?p=16847496249&a=3086723&m=10139",
-        "category": "Cavi e Connettori",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {}
-      }
-    ],
-    "merchant_match_score": 100,
-    "merchant_ean": "4007249624239",
     "merchant_prices_checked_at": "2026-10-19T06:34:16.653609+02:00"
   }
 ]
