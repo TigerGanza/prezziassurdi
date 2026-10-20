@@ -1,5 +1,22 @@
 [
   {
+    "asin": "B0F9Z44R29",
+    "title": "MCA Pantaloni Donna Palazzo Elasticizzati Gamba Dritta Larga Made in Italy (IT, Testo, XS, Regular, Regular, Nero)",
+    "price": 12.99,
+    "old_price": 19.9,
+    "discount": 35.0,
+    "image": "https://m.media-amazon.com/images/I/31u5rJhIF5L._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0F9Z44R29?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "moda_donna",
+    "macro_group": "tempo_libero",
+    "seasonal_title": "",
+    "published_at": "2026-10-20T17:50:16.004637+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B0CB1DC7GS",
     "title": "INIU Power Bank, Piccolo 45W Ricarica Rapida 10000mAh Caricatore Portatile | Cavo USB C Staccabile, Idoneo per Volo, Travel Essenziali da Viaggio, Powerbank per iPhone 18 17 16, Samsung S25 Xiaomi ecc",
     "price": 24.99,
@@ -1980,49 +1997,6 @@
     ],
     "merchant_match_score": 100,
     "merchant_ean": "0711719599166",
-    "merchant_prices_checked_at": "2026-10-20T06:33:12.259639+02:00"
-  },
-  {
-    "asin": "W76083B479",
-    "title": "MXGP, PlayStation 5",
-    "price": 19.99,
-    "old_price": 59.99,
-    "discount": 66.7,
-    "image": "https://www.unieuro.it/medias/sys_master/root/hb8/h29/50500240048158/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-178f9bda8f9b3c878b2b1ffeed0afb44-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-    "url": "https://www.awin1.com/pclick.php?p=39723203360&a=3086723&m=10139",
-    "category": "gaming",
-    "macro_group": "awin_discovery",
-    "seasonal_title": "Offerta Unieuro",
-    "published_at": "2026-10-20T07:35:17.462186+02:00",
-    "source_merchant": "unieuro",
-    "source_external_id": "BGNPS5MXGPSPIT",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "unieuro",
-        "merchant_name": "Unieuro",
-        "merchant_id": "10139",
-        "product_id": "BGNPS5MXGPSPIT",
-        "awin_product_id": "39723203360",
-        "title": "MXGP, PlayStation 5",
-        "brand": "Nacon",
-        "ean": "3665962025866",
-        "mpn": "PS5MXGPSPIT",
-        "price": 19.99,
-        "old_price": 59.99,
-        "discount": 66.7,
-        "image": "https://www.unieuro.it/medias/sys_master/root/hb8/h29/50500240048158/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-178f9bda8f9b3c878b2b1ffeed0afb44-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-        "url": "https://www.awin1.com/pclick.php?p=39723203360&a=3086723&m=10139",
-        "category": "Giochi Playstation 5",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {}
-      }
-    ],
-    "merchant_match_score": 100,
-    "merchant_ean": "3665962025866",
     "merchant_prices_checked_at": "2026-10-20T06:33:12.259639+02:00"
   }
 ]
