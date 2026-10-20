@@ -1,5 +1,22 @@
 [
   {
+    "asin": "B0DN6NHW6F",
+    "title": "ASUS VY249HGR, Eye Care Monitor da 23,8\" FHD IPS (1920 x 1080), Nero | HDMI, VGA, 1 ms (MPRT) Response Time, 120Hz, Adaptive Sync, Tecnologia EyeCare Plus, Filtro Bassa Luce Blu",
+    "price": 79.0,
+    "old_price": 129.0,
+    "discount": 39.0,
+    "image": "https://m.media-amazon.com/images/I/41Kuv2cqyKL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0DN6NHW6F?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "monitor",
+    "macro_group": "tech",
+    "seasonal_title": "",
+    "published_at": "2026-10-20T14:50:15.246653+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B079KKHVZ5",
     "title": "La Molisana, Spaghetto Quadrato n. 1, Pasta da Solo Grano Italiano - Trafilata al Bronzo, Ruvida e Tenace con Eccellente Tenuta in Cottura - Confezione da 500g",
     "price": 0.74,
@@ -2400,51 +2417,6 @@
     ],
     "merchant_match_score": 100,
     "merchant_ean": "5025232941728",
-    "merchant_prices_checked_at": "2026-10-20T05:18:10.346463+02:00"
-  },
-  {
-    "asin": "W71A5D685A",
-    "title": "BURGO REPRO BLU",
-    "price": 19.99,
-    "old_price": 32.99,
-    "discount": 39.4,
-    "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_95138169/fee_786_587_png",
-    "url": "https://www.awin1.com/pclick.php?p=36031507364&a=3086723&m=18529",
-    "category": "altro",
-    "macro_group": "awin_discovery",
-    "seasonal_title": "Offerta MediaWorld",
-    "published_at": "2026-10-20T06:20:18.862416+02:00",
-    "source_merchant": "mediaworld",
-    "source_external_id": "176037",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "mediaworld",
-        "merchant_name": "MediaWorld",
-        "merchant_id": "18529",
-        "product_id": "176037",
-        "awin_product_id": "36031507364",
-        "title": "BURGO REPRO BLU",
-        "brand": "BURGO",
-        "ean": "8021047409559",
-        "mpn": "REPROBLU",
-        "price": 19.99,
-        "old_price": 32.99,
-        "discount": 39.4,
-        "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_95138169/fee_786_587_png",
-        "url": "https://www.awin1.com/pclick.php?p=36031507364&a=3086723&m=18529",
-        "category": "Periferiche PC;Stampanti;Carta da stampa",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {
-          "color": "blue"
-        }
-      }
-    ],
-    "merchant_match_score": 100,
-    "merchant_ean": "8021047409559",
     "merchant_prices_checked_at": "2026-10-20T05:18:10.346463+02:00"
   }
 ]
