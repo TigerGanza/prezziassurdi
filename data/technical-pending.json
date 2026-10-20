@@ -1,17 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-10-20T13:00:48+02:00",
+  "generated_at": "2026-10-20T14:15:40+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
     "smartphone-in-offerta": [
-      {
-        "title": "Sony Xperia XZ1 Smartphone da 64 GB, Nero [versione Italia] (Ricondizionato)",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Motorola moto g06 (4/256GB, Fotocamera 50MP+flicker cam, selfie 8MP, Display HD+ 6.88\", MediaTek Helio G81 Extreme, 5200mAh, Android 15), Tapestry",
         "merchant": "",
@@ -214,16 +207,16 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      }
-    ],
-    "migliori-smartphone-sotto-300-euro": [
+      },
       {
-        "title": "Sony Xperia XZ1 Smartphone da 64 GB, Nero [versione Italia] (Ricondizionato)",
-        "merchant": "amazon",
+        "title": "realme 14 Pro+ 5G Smartphone 8+256GB, Grey",
+        "merchant": "",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      },
+      }
+    ],
+    "migliori-smartphone-sotto-300-euro": [
       {
         "title": "Motorola moto g06 (4/256GB, Fotocamera 50MP+flicker cam, selfie 8MP, Display HD+ 6.88\", MediaTek Helio G81 Extreme, 5200mAh, Android 15), Tapestry",
         "merchant": "",
@@ -395,20 +388,6 @@
     ],
     "tv-in-offerta": [
       {
-        "title": "Hisense Smart TV QLED 144Hz 43\" 4K 43E7S PRO | Audio Dolby Atmos, VIDAA OS, Native 144Hz Game Mode, Dolby Vision IQ, HDR 10+, AirPlay2, Alexa, lativù 4K, 2026 Model",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Hisense Smart TV MiniLED 144Hz 55\" 4K 55E8S | Dolby Atmos 2.1 By Devialet, Dolby Vision IQ, HDR10+, VIDAA OS, Alexa, lativù 4K, Wifi, BT, Airplay2, 2026 Model",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "XIAOMI TV F Pro 32 2025, 32 pollici (81 cm), QLED, Smart TV, Fire TV, Triple Tuner DVB-C/S/S2/T/T2,Dolby Audio, DTS Virtual:X, DTS-HD, Controllo Vocale Alexa, Compatibile con Apple",
         "merchant": "",
         "ean": "",
@@ -535,6 +514,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "Hisense Smart TV MiniLED 144Hz 55\" 4K 55E8S | Dolby Atmos 2.1 By Devialet, Dolby Vision IQ, HDR10+, VIDAA OS, Alexa, lativù 4K, Wifi, BT, Airplay2, 2026 Model",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Hisense Smart TV QLED 55\" 4K 55E7DS",
         "merchant": "",
         "ean": "",
@@ -603,12 +589,19 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
+      },
+      {
+        "title": "TCL 75V6D – Smart TV 4K HDR10+ da 75\" con Fire TV e Dolby Atmos | DTS:X, Game Master, Motion Clarity, Apple AirPlay 2, Press & Ask Alexa",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
       }
     ],
     "offerte-tv-55-65-pollici": [
       {
         "title": "Hisense Smart TV MiniLED 144Hz 55\" 4K 55E8S | Dolby Atmos 2.1 By Devialet, Dolby Vision IQ, HDR10+, VIDAA OS, Alexa, lativù 4K, Wifi, BT, Airplay2, 2026 Model",
-        "merchant": "amazon",
+        "merchant": "",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
@@ -2141,6 +2134,13 @@
     ],
     "migliori-lavatrici": [
       {
+        "title": "Hotpoint Ariston HB 123 CARE IT – Lavatrice 12 Kg | Libera Installazione, Carica Frontale, 1400 giri/min, Classe A-30%, PetHair Care, FabricCare, 84,6 x 59,8 x 60,7 cm (AxLxP)",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "LG F4R709TAIDD Lavatrice 9 kg Serie R7, Classe A-10%, AI DD, Wi-Fi | 1400 Giri, TurboWash 360, Vapore su 7 Programmi, Allergy Care, Oblò in Vetro Temperato, Direct Drive, Bianca",
         "merchant": "amazon",
         "ean": "",
@@ -2338,13 +2338,6 @@
       },
       {
         "title": "Samsung Lavatrice AI Control Ecodosatore 11Kg WW11DG6B85LHU3",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Smeg LB2T92ASIT lavatrice Caricamento frontale 9 kg 1200 Giri/min Bianco",
         "merchant": "unieuro",
         "ean": "",
         "mpn": "",
