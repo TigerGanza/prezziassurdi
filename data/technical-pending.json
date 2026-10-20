@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-20T15:30:40+02:00",
+  "generated_at": "2026-10-20T16:40:41+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -942,6 +942,13 @@
     ],
     "migliori-tablet": [
       {
+        "title": "NIDUBIO Tablet Android 11 Pollici Android 16, Kit Completo, 36GB RAM+128GB ROM (Espandibile a 1TB), Batteria 7800mAh, Gemini AI, WiFi Dual‑Band, BT5.4 per Studio, Lavoro e Intratte",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Tablet Android da 11 Pollici, Octa-Core, 24GB(4+20) RAM+128GB Memoria, Batteria 8200mAh, Widevine L1, Espandibile fino a 1TB, Doppia Fotocamera, Android Tablet per Studio, Lavoro e",
         "merchant": "",
         "ean": "",
@@ -1078,20 +1085,6 @@
       },
       {
         "title": "PreSonus Eris 3.5 Gen 2 Monitor da Studio Nearfield 50W, Coppia | Monitor da studio nearfield, per registrazione domestica, gaming e multimedia, con woofer da 3,5 pollici",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "M-AUDIO BX3 3,5\" Monitor da Studio Cablati in Coppia | Casse Desktop Cablate per Registrazione, Mixaggio e Multimedia, Suite Software Musicale Inclusa",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "PreSonus Eris 3.5BT Gen 2 Casse Monitor da Studio Bluetooth, 3.5\" | Monitor da studio Bluetooth, ideali per home studio per principianti, gaming, produzione musicale, 3,5 pollici, ",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -1275,6 +1268,20 @@
       {
         "title": "Junsun DVR per moto da 8,1 pollici Dual 2K con Carplay, Android Auto, GPS, display di navigazione, impermeabile IPX7, dashcam portatile, monitor touchscreen digitale, Moto BT",
         "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Dopesplay Monitor portatile da 15,6 pollici FHD 1080P IPS Extender schermo esterno Monitor plug play per laptop Switch Gaming Mac",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "OMEN by HP Monitor da gaming 27'' FHD 240 Hz – OMEN 27s",
+        "merchant": "unieuro",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
@@ -2302,13 +2309,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "LG F4R709TAIDD Lavatrice 9 kg Serie R7, Classe A-10%, AI DD, Wi-Fi | 1400 Giri, TurboWash 360, Vapore su 7 Programmi, Allergy Care, Oblò in Vetro Temperato, Direct Drive, Bianca",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Bosch WAN28229IT Serie 4 Lavatrice 9kg 1400 giri/min Bianco Classe A",
         "merchant": "",
         "ean": "",
@@ -2499,6 +2499,13 @@
       },
       {
         "title": "Samsung Lavatrice AI Control Ecodosatore 11Kg WW11DG6B85LHU3",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Smeg LB2T92ASIT lavatrice Caricamento frontale 9 kg 1200 Giri/min Bianco",
         "merchant": "unieuro",
         "ean": "",
         "mpn": "",
