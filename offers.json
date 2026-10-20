@@ -1,5 +1,22 @@
 [
   {
+    "asin": "B0DNKF79MC",
+    "title": "Sigma - Obiettivo 56mm f/1.4 DC DN Contemporary, attacco Canon RF",
+    "price": 349.0,
+    "old_price": 469.0,
+    "discount": 26.0,
+    "image": "https://m.media-amazon.com/images/I/31ieCA0R4nL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0DNKF79MC?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "foto_pro",
+    "macro_group": "tech",
+    "seasonal_title": "",
+    "published_at": "2026-10-20T19:45:13.843677+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B0BTPHPNJQ",
     "title": "Yale Serratura smart per armadietti 05-SCL1-0-00-50-11 chiusura automatica, senza chiavi, sicurezza adatta ai bambini, protegge oggetti di valore, ottimo per cassetti da ufficio o armadietti utensili",
     "price": 54.39,
@@ -1841,48 +1858,5 @@
     "source_external_id": "",
     "quality_status": "ready",
     "quality_issues": []
-  },
-  {
-    "asin": "B0FJS57295",
-    "title": "Philips Head Shaver Pro Serie 5000- Rasoio per uomo e donna, testina flessibile a 360° e lame ComfortCut per una rasatura pulita e delicata sulla pelle, modello HS5980/15",
-    "price": 55.99,
-    "old_price": 99.99,
-    "discount": 44.0,
-    "image": "https://m.media-amazon.com/images/I/41GM0DC-ihL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0FJS57295?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "beauty_pro",
-    "macro_group": "cura_persona",
-    "seasonal_title": "",
-    "published_at": "2026-10-20T09:55:15.723057+02:00",
-    "source_merchant": "amazon",
-    "source_external_id": "",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "unieuro",
-        "merchant_name": "Unieuro",
-        "merchant_id": "10139",
-        "product_id": "PHIHS598015",
-        "awin_product_id": "43995059076",
-        "title": "Philips Serie 5000 Head Shaver Pro 5000 Series HS5980/15 Rasoio essenziale con lame ComfortCut",
-        "brand": "Philips",
-        "ean": "8720689044264",
-        "mpn": "HS5980/15",
-        "price": 59.0,
-        "old_price": 99.99,
-        "discount": 41.0,
-        "image": "https://www.unieuro.it/medias/sys_master/root/hf3/h92/52124364242974/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-2a4ffc1eee884f7d598e6510c9bbc49b-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-        "url": "https://www.awin1.com/pclick.php?p=43995059076&a=3086723&m=10139",
-        "category": "Rasoi e Regolabarba",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {}
-      }
-    ],
-    "merchant_match_score": 100,
-    "merchant_ean": "8720689044264",
-    "merchant_prices_checked_at": "2026-10-20T09:13:17.583165+02:00"
   }
 ]
