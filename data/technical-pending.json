@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-21T05:47:29+02:00",
+  "generated_at": "2026-10-21T07:02:26+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -977,13 +977,6 @@
     ],
     "migliori-tablet": [
       {
-        "title": "NIDUBIO Tablet Android 11 Pollici Android 16, Kit Completo, 36GB RAM+128GB ROM (Espandibile a 1TB), Batteria 7800mAh, Gemini AI, WiFi Dual‑Band, BT5.4 per Studio, Lavoro e Intratte",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Tablet Android da 11 Pollici, Octa-Core, 24GB(4+20) RAM+128GB Memoria, Batteria 8200mAh, Widevine L1, Espandibile fino a 1TB, Doppia Fotocamera, Android Tablet per Studio, Lavoro e",
         "merchant": "",
         "ean": "",
@@ -1134,13 +1127,6 @@
       },
       {
         "title": "PHILIPS Monitor 27E1N1100A 27 pollici 1920x1080, FHD, 120Hz, IPS Panel, 4ms GtG, Speakers, (HDMI1x 1.4) Nero",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "ASUS VY249HGR, Eye Care Monitor da 23,8\" FHD IPS (1920 x 1080), Nero | HDMI, VGA, 1 ms (MPRT) Response Time, 120Hz, Adaptive Sync, Tecnologia EyeCare Plus, Filtro Bassa Luce Blu",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -1320,18 +1306,18 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
+      },
+      {
+        "title": "Junsun DVR per moto da 8,1 pollici Dual 2K con Carplay, Android Auto, GPS, display di navigazione, impermeabile IPX7, dashcam portatile, monitor touchscreen digitale, Moto BT",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
       }
     ],
     "migliori-smartwatch": [
       {
-        "title": "Samsung Galaxy Watch8 (Dark Gray, BT, 40mm), Galaxy AI [Versione Italiana] | Smartwatch Galaxy AI, Allenatore Personale, Design Resistente agli Urti, Processore 3nm, Monitoraggio A",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Samsung Galaxy Watch8 (Dark Gray, BT, 44mm), Galaxy AI [Versione Italiana] | Smartwatch Galaxy AI, Allenatore Personale, Design Resistente agli Urti, Processore 3nm, Monitoraggio A",
+        "title": "Fitbit Versa 4 Smartwatch per il fitness con abbonamento Google Health Premium di 3 mesi incluso, fino a 6 giorni di autonomia e compatibile con iOS & Android, Nero / Alluminio gri",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -1423,6 +1409,13 @@
       },
       {
         "title": "Smartwatch Uomo Donna, 1.85\" Orologio Smartwatch con Effettua/Risposta Chiamate, 140 Sportive Smart Watch con Contapassi/Sonno/Cardiofrequenzimetro/SpO2, Impermeabil IP68 Smartband",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Samsung Galaxy Watch8 (Dark Gray, BT, 40mm), Galaxy AI [Versione Italiana] | Smartwatch Galaxy AI, Allenatore Personale, Design Resistente agli Urti, Processore 3nm, Monitoraggio A",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -2244,6 +2237,20 @@
     ],
     "aspirapolvere-senza-fili-in-offerta": [
       {
+        "title": "roborock F25 GT Gen2 Set Aspirapolvere e Lavapavimenti Senza Fili | Pulizia Completa 20 kPa, Autopulizia ad Alta Temperatura fino a 90 °C, Inclinazione 180°, Pulizia a Doppio Bordo",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Polti Rollysteam WD50C Cordless, Lavapavimenti e Aspirapolvere",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Aspirapolvere Senza Fili Scopa Elettrica - Potente Filo Batteria Cordless Vacuum Cleaner Scope Elettriche Sacco Portatile Ciclonico Silenzioso per Divano Tappeti Parquet Pavimenti ",
         "merchant": "",
         "ean": "",
@@ -2761,6 +2768,20 @@
     ],
     "friggitrici-ad-aria-offerte-confronto": [
       {
+        "title": "Melchioni Family | Friggitrice ad Aria Emma 5L, 8 Programmi, Display Touch, 1500W, Temperatura 80-200°C, Antiaderente, Compatta e Controllo Visivo",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Melchioni Friggitrice Ad Aria Marianna Plus 5lt 1400w Nero Con Oblo'",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "LEHMANN Friggitrice ad Aria XXL 8L con Divisorio Rimovibile, Air Fryer Doppia Zona Flessibile, Finestra, Pannello Digitale, 12 Programmi, 76-200°C, Lavabile in Lavastoviglie, 90% d",
         "merchant": "amazon",
         "ean": "",
@@ -2909,6 +2930,13 @@
       }
     ],
     "migliori-moda": [
+      {
+        "title": "Einhell Trapano a percussione TC-ID 650 E | 650 W | Capacità di foratura nel calcestruzzo: 13 mm | Arresto di profondità | Gancio da cintura",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Tappetino Palestra Antiscivolo 8mm – Tappetino Yoga Antiscivolo e Pilates 183x60 cm con Tracolla, Tappetino Fitness per Ginnastica a Casa, Tappeto Yoga Spesso e Comfortevole",
         "merchant": "amazon",
@@ -3107,13 +3135,6 @@
       },
       {
         "title": "Ghostbusters No Ghost with Ectomobile Retro Movie Maglietta",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "CustomSolo Maglietta Personalizzata con Foto e Testo, Unisex Doppia Faccia T-Shirt Personalizzata per Donna e Uomo, Maglia Personalizzata per Regali, Logo Aziendale, Compleanni, Fa",
         "merchant": "",
         "ean": "",
         "mpn": "",
