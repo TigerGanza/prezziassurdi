@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-21T22:04:09+02:00",
+  "generated_at": "2026-10-21T23:19:05+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -1154,13 +1154,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Philips Gaming Monitor 34M2C3500L 34 pollici, Curvo, 3440x1440, UW-QHD, 180Hz, Fast VA Panel, 0.5ms MPRT, , (HDMI2x 2.0 DP 1x 1.4) Adaptive Sync, HDR10, FreeSync Premium, Grigio Sc",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Lenovo Notebook Ram 16GB CPU Intel i5-1342H Monitor 15.6\" Full HD SSD 512 GB LAN, HDMI, USB Win 11 Pro e Libre Office Pc portatile pronto all'uso - Colore Nero",
         "merchant": "",
         "ean": "",
@@ -1309,6 +1302,13 @@
       },
       {
         "title": "LG UltraGear 34G60ZA 2026, Monitor Gaming 34\" WQHD (3440 x 1440) 21:9 Curvo | Formato UltraWide 21:9 curvo, Refresh Rate160Hz, 1ms (MBR), HDR 10, FreeSync, HDMI 2.0, DP, Stand rego",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Philips Gaming Monitor 34M2C3500L 34 pollici, Curvo, 3440x1440, UW-QHD, 180Hz, Fast VA Panel, 0.5ms MPRT, , (HDMI2x 2.0 DP 1x 1.4) Adaptive Sync, HDR10, FreeSync Premium, Grigio Sc",
         "merchant": "",
         "ean": "",
         "mpn": "",
