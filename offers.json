@@ -1,5 +1,22 @@
 [
   {
+    "asin": "B00DUUNI9C",
+    "title": "Hansaplast Cerotti Universali, 20 Pezzi | Cerotti per la Protezione delle Ferite, Resistenti all'Acqua, Traspiranti, Proteggono da Sporco e Batteri, Elevata Aderenza",
+    "price": 1.76,
+    "old_price": 2.99,
+    "discount": 41.0,
+    "image": "https://m.media-amazon.com/images/I/41g28aEYwEL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B00DUUNI9C?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "salute",
+    "macro_group": "cura_persona",
+    "seasonal_title": "",
+    "published_at": "2026-10-22T13:14:01.905158+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B0HFJ6TV2L",
     "title": "Nuova Toputure Cyclette da Casa Pieghevole con APP, Cyclette Pieghevole 5 in 1 con 16 Livelli di Resistenza, Display LCD e Cardiofrequenzimetro, Fasce Elastiche, Ultra Silenziosa, Portata 150 kg",
     "price": 209.99,
@@ -2197,53 +2214,6 @@
     ],
     "merchant_match_score": 100,
     "merchant_ean": "4711081335474",
-    "merchant_prices_checked_at": "2026-10-22T05:53:03.057963+02:00"
-  },
-  {
-    "asin": "WBB9E14A4E",
-    "title": "Haier I-Master Series 5 HAF5TWA 011 6,5 L Indipendente 2000 W Friggitrice ad aria calda Nero",
-    "price": 79.99,
-    "old_price": 219.99,
-    "discount": 63.6,
-    "image": "https://www.unieuro.it/medias/sys_master/root/h4c/h41/64283870199838/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-491e0722695830d9dbdf85e490c671a5-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-    "url": "https://www.awin1.com/pclick.php?p=36891679768&a=3086723&m=10139",
-    "category": "cucina",
-    "macro_group": "awin_discovery",
-    "seasonal_title": "Offerta Unieuro",
-    "published_at": "2026-10-22T06:54:30.876465+02:00",
-    "source_merchant": "unieuro",
-    "source_external_id": "HAIHAF5TWA011",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "unieuro",
-        "merchant_name": "Unieuro",
-        "merchant_id": "10139",
-        "product_id": "HAIHAF5TWA011",
-        "awin_product_id": "36891679768",
-        "title": "Haier I-Master Series 5 HAF5TWA 011 6,5 L Indipendente 2000 W Friggitrice ad aria calda Nero",
-        "brand": "Haier",
-        "ean": "8059019065731",
-        "mpn": "38600001",
-        "price": 79.99,
-        "old_price": 219.99,
-        "discount": 63.6,
-        "image": "https://www.unieuro.it/medias/sys_master/root/h4c/h41/64283870199838/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-491e0722695830d9dbdf85e490c671a5-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-        "url": "https://www.awin1.com/pclick.php?p=36891679768&a=3086723&m=10139",
-        "category": "Friggitrici",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {
-          "color": "black",
-          "volume_ml": 6500.0,
-          "power_w": 2000.0
-        }
-      }
-    ],
-    "merchant_match_score": 100,
-    "merchant_ean": "8059019065731",
     "merchant_prices_checked_at": "2026-10-22T05:53:03.057963+02:00"
   }
 ]
