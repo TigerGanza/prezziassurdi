@@ -1,10 +1,31 @@
 {
   "version": 1,
-  "generated_at": "2026-10-22T19:24:10+02:00",
+  "generated_at": "2026-10-22T20:39:10+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
     "smartphone-in-offerta": [
+      {
+        "title": "REDMI 17, Smartphone 4+128GB, Viola Loto, Batteria 7500 mAh, Ricarica 45W | Resistente Corning® Gorilla® Glass 7i, Display Immersivo 6,9″, Potente MediaTek Helio G91-Ultra, Doppia ",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "REDMI 17, Smartphone 4+128GB, Nero, Batteria 7500 mAh, Ricarica 45W | Resistente Corning® Gorilla® Glass 7i, Display Immersivo 6,9″, Potente MediaTek Helio G91-Ultra, Doppia Fotoca",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "REDMI Note 17 5G, Smartphone 8+256GB, Celestial Purple, Batteria da 7700mAh | Snapdragon® 4 Gen 4, Ricarica Turbo 45W, Display AMOLED FHD+ 6,99\" Protezione Occhi, Xiaomi HyperOS, I",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Samsung Galaxy Z Flip 8 512GB GRAPHITE",
         "merchant": "amazon",
@@ -193,30 +214,23 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "XIAOMI REDMI Note 15 5G, Smartphone 8+512GB, Blu Ghiacciaio Resistenza IP65 | Design ultrasottile, Fotocamera super nitida da 108 MP, Display FHD+ da 6,77\", Garanzia 2 anni",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Redmi Note 15 Pro 5G 8+256 Black (No power adapter included)",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "realme 14 Pro+ 5G Smartphone 8+256GB, Grey",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
       }
     ],
     "migliori-smartphone-sotto-300-euro": [
+      {
+        "title": "REDMI 17, Smartphone 4+128GB, Viola Loto, Batteria 7500 mAh, Ricarica 45W | Resistente Corning® Gorilla® Glass 7i, Display Immersivo 6,9″, Potente MediaTek Helio G91-Ultra, Doppia ",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "REDMI 17, Smartphone 4+128GB, Nero, Batteria 7500 mAh, Ricarica 45W | Resistente Corning® Gorilla® Glass 7i, Display Immersivo 6,9″, Potente MediaTek Helio G91-Ultra, Doppia Fotoca",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Motorola moto g06 (4/256GB, Fotocamera 50MP+flicker cam, selfie 8MP, Display HD+ 6.88\", MediaTek Helio G81 Extreme, 5200mAh, Android 15), Tapestry",
         "merchant": "",
@@ -685,6 +699,13 @@
       }
     ],
     "migliori-notebook": [
+      {
+        "title": "Vowmoon PC Portatile 15,6 Pollici,FHD 1920×1080,Computer Portatile Processore Celeron N4000, Notebook 8GB RAM 256GB SSD, Win 11, Apertura Schermo 180°, WiFi 5, Bluetooth 4.2, Porte",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "HP Victus 15-fa2001slx, Notebook, Intel Core i5-13450HX, 16 GB RAM, 512 GB SSD, NVIDIA RTX 3050 6GB, 15,6\" FHD IPS 144Hz, Laptop, 720p TNR Cam, FreeDOS 3.0, Portatile, Grigio",
         "merchant": "amazon",
@@ -2388,6 +2409,13 @@
     ],
     "migliori-frigoriferi": [
       {
+        "title": "Hisense RT267D4ABE Frigorifero Doppia Porta, Capacità netta 206 L, Nero, Illuminazione Led, Porte reversibili, Ripiani in vetro modulari",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Haier Cube 83 Serie 3 Frigorifero Multidoor 4 Porte 467 Litri, No Frost | Classe E, Air Surround, Wi-Fi, Display Esterno, 35 dB, Dark Inox, AxLxP 181.5x83.3x65 cm, HCR3818ENMD",
         "merchant": "amazon",
         "ean": "",
@@ -2589,13 +2617,6 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "Samsung Frigorifero Combinato EcoFlex AI 2m 387L RB38C607AS9",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
       }
     ],
     "friggitrici-ad-aria-offerte-confronto": [
@@ -2728,14 +2749,14 @@
     ],
     "migliori-moda": [
       {
-        "title": "Epilatore Luce Pulsata con Funzione di Raffreddamento a Ghiaccio | Modalità Manuale e Automatica, 9 Livelli di Energia, 999900 Flash per Donna e Uomo, Viso Corpo Bikini",
+        "title": "Fokky Set Elastici Fitness 4 Livelli con Ancoraggio e Borsa Trasporto | Elastici Palestra per uomo e donna, Protezioni, Bande Elastiche Fitness per Allenamento Completo, Muscolazio",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "Simple Joys by Carter's 6-Piece Snug Fit Cotton Pajama Set Pigiama, Blu Tartaruga/Grigio Puntinato/Nero Unicorni/Rosa A Pallini, 5 Anni (Pacco da 3) Bambina",
+        "title": "Fokky Set 5 Elastico palestra Tessili Resistenti con Borsa Trasportabile",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
