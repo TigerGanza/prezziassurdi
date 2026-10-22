@@ -1,10 +1,31 @@
 {
   "version": 1,
-  "generated_at": "2026-10-22T15:39:09+02:00",
+  "generated_at": "2026-10-22T16:54:10+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
     "smartphone-in-offerta": [
+      {
+        "title": "Samsung Galaxy Z Flip 8 512GB GRAPHITE",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Samsung Galaxy Z Flip 8 256GB PINK",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Samsung Galaxy Z Flip 8 256GB CREAM",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Motorola moto g06 (4/256GB, Fotocamera 50MP+flicker cam, selfie 8MP, Display HD+ 6.88\", MediaTek Helio G81 Extreme, 5200mAh, Android 15), Tapestry",
         "merchant": "",
@@ -189,27 +210,6 @@
       },
       {
         "title": "realme 14 Pro+ 5G Smartphone 8+256GB, Grey",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Samsung Galaxy A36 256GB 5G Android 15 Smartphone 8GB RAM AI Display 6.7'' Super AMOLED Fotocamera 50MP 5.000 mAh (Bianco)",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Honor Magic8 Lite, Dual, 256GB 8GB RAM, Forest Green",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "XIAOMI REDMI Note 15 Pro 5G, Smartphone 8+512GB, Nero, 6580 mAh | IP66/IP68, Nuova fotocamera 200 MP, Display AMOLED da 6,83\", Garanzia 2 anni",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -686,6 +686,13 @@
     ],
     "migliori-notebook": [
       {
+        "title": "HP Victus 15-fa2001slx, Notebook, Intel Core i5-13450HX, 16 GB RAM, 512 GB SSD, NVIDIA RTX 3050 6GB, 15,6\" FHD IPS 144Hz, Laptop, 720p TNR Cam, FreeDOS 3.0, Portatile, Grigio",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "ASUS Vivobook 16 F1605VA#B0FZL8JLW9, Notebook con display 16\" Anti-glare, 60Hz,Intel® Core™ 9 Processor 270H,RAM 16GB, 1TB SSD, WIN11 Home, Argento",
         "merchant": "",
         "ean": "",
@@ -743,13 +750,6 @@
       },
       {
         "title": "Lenovo Notebook, Pc Portatile Intel Core i5 13420H 13a Gen | 16GB DDR5, Display FHD 15,6\", SSD 1TB, Wi-Fi 6, Bluetooth 5.2, USB 3.2 Type-C, Win11 Pro, Nero, 3 Anni di Garanzia.",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "HP Victus 15-fa2001slx, Notebook, Intel Core i5-13450HX, 16 GB RAM, 512 GB SSD, NVIDIA RTX 3050 6GB, 15,6\" FHD IPS 144Hz, Laptop, 720p TNR Cam, FreeDOS 3.0, Portatile, Grigio",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -1940,6 +1940,27 @@
       }
     ],
     "migliori-robot-aspirapolvere": [
+      {
+        "title": "ECOVACS T50 PRO OMNI Gen3 Robot Aspirapolvere Lavapavimenti 25000 Pa | AIVI 3D 3.0, Lavaggio a 75 °C, ZeroTangle Generation 3.0 Tecnologia Anti-ingombramento, Ricarica Automatica, ",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "ECOVACS X11S OMNICYCLONE Robot Aspirapolvere Lavapavimenti 30000 Pa",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "ECOVACS T90S PRO OMNI Care Kit Robot Aspirapolvere Lavapavimenti 40.000 Pa | Lavaggio Mocio Autom., Navigazione AI, Pulizia Bordi Extreme, Spazzola Anti-Groviglio, Ricarica PowerBo",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Lefant M210 PRO OMNI Robot Aspirapolvere Lavapavimenti con Rullo 20.000Pa",
         "merchant": "",
