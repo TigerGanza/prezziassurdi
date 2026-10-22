@@ -1,5 +1,22 @@
 [
   {
+    "asin": "B08ZSY14VV",
+    "title": "HyperMotion Draisienne 3 in 1 per Bambini - Monopattino Evolutivo per Bambini da 1 Anno, con Poggiapiedi e Sedile, Piattaforma Antiscivolo e Manubrio Regolabile",
+    "price": 29.9,
+    "old_price": 40.29,
+    "discount": 26.0,
+    "image": "https://m.media-amazon.com/images/I/41imorOXRQS._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B08ZSY14VV?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "bambini_giochi",
+    "macro_group": "famiglia_animali",
+    "seasonal_title": "",
+    "published_at": "2026-10-22T14:53:38.938811+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B0D49P13QH",
     "title": "PHILIPS Monitor 32E1N1800LA 32 pollici 3840x2160, UHD, 60Hz, VA Panel, 4ms GtG, Speakers, (HDMI2x 2.0 DP 1x 1.4) HDR10, Nero",
     "price": 221.64,
@@ -1951,51 +1968,6 @@
     ],
     "merchant_match_score": 100,
     "merchant_ean": "8801643233556",
-    "merchant_prices_checked_at": "2026-10-22T07:08:37.684995+02:00"
-  },
-  {
-    "asin": "W61AC31AB7",
-    "title": "De’Longhi IdealFry FH2101 Friggitrice ad aria calda 1400W",
-    "price": 69.99,
-    "old_price": 189.99,
-    "discount": 63.2,
-    "image": "https://www.unieuro.it/medias/sys_master/root/hac/hb5/50393437372446/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-2cc5fba1312d0819d4edca2f6d79a200-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-    "url": "https://www.awin1.com/pclick.php?p=23907443491&a=3086723&m=10139",
-    "category": "cucina",
-    "macro_group": "awin_discovery",
-    "seasonal_title": "Offerta Unieuro",
-    "published_at": "2026-10-22T07:38:43.596804+02:00",
-    "source_merchant": "unieuro",
-    "source_external_id": "DELFH2101W",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "unieuro",
-        "merchant_name": "Unieuro",
-        "merchant_id": "10139",
-        "product_id": "DELFH2101W",
-        "awin_product_id": "23907443491",
-        "title": "De’Longhi IdealFry FH2101 Friggitrice ad aria calda 1400W",
-        "brand": "De’longhi",
-        "ean": "8004399253131",
-        "mpn": "0125391020",
-        "price": 69.99,
-        "old_price": 189.99,
-        "discount": 63.2,
-        "image": "https://www.unieuro.it/medias/sys_master/root/hac/hb5/50393437372446/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-2cc5fba1312d0819d4edca2f6d79a200-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-        "url": "https://www.awin1.com/pclick.php?p=23907443491&a=3086723&m=10139",
-        "category": "Friggitrici",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {
-          "power_w": 1400.0
-        }
-      }
-    ],
-    "merchant_match_score": 100,
-    "merchant_ean": "8004399253131",
     "merchant_prices_checked_at": "2026-10-22T07:08:37.684995+02:00"
   }
 ]
