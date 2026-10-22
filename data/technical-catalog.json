@@ -3,48 +3,1016 @@
   "updated_at": "2026-10-01",
   "record_policy": "Un record prodotto è valido solo con modello, fonte.url e verified_at. EAN e MPN sono aggiunti quando disponibili; i titoli dei feed non sono una fonte tecnica.",
   "guide_profiles": {
-    "smartphone-in-offerta": {"title": "Schede smartphone verificabili", "description": "Filtri e confronti usano solo specifiche dichiarate nella scheda tecnica del modello.", "fields": ["Chipset", "RAM e memoria", "Display", "Batteria e ricarica", "Fotocamere", "IP", "SIM e microSD"]},
-    "migliori-smartphone-sotto-300-euro": {"title": "Schede smartphone verificabili", "description": "La fascia prezzo è separata dalle caratteristiche tecniche, per non confondere valore e qualità.", "fields": ["Chipset", "RAM e memoria", "Display", "Batteria e ricarica", "Fotocamere", "IP", "SIM e microSD"]},
-    "tv-in-offerta": {"title": "Schede TV verificabili", "description": "Pollici, pannello e porte contano più del solo sconto.", "fields": ["Pollici", "Pannello", "Risoluzione e HDR", "Frequenza", "HDMI 2.1 / VRR", "Audio", "Dimensioni"]},
-    "offerte-tv-55-65-pollici": {"title": "Schede TV verificabili", "description": "Confronto tecnico per la fascia 55–65 pollici.", "fields": ["Pollici", "Pannello", "Risoluzione e HDR", "Frequenza", "HDMI 2.1 / VRR", "Audio", "Dimensioni"]},
-    "migliori-notebook": {"title": "Schede notebook verificabili", "description": "Il confronto distingue lavoro, studio, mobilità e creatività.", "fields": ["CPU", "GPU", "RAM", "SSD", "Display", "Peso", "Batteria", "Porte"]},
-    "migliori-pc-desktop": {"title": "Schede PC verificabili", "description": "Componenti, aggiornabilità e porte vengono separati dal prezzo.", "fields": ["CPU", "GPU", "RAM", "SSD", "Alimentatore", "Connettività", "Espandibilità"]},
-    "migliori-tablet": {"title": "Schede tablet verificabili", "description": "Serve per confrontare schermo, memoria e accessori realmente compatibili.", "fields": ["Chipset", "Display", "RAM e memoria", "Batteria", "Penna", "Tastiera", "Connettività"]},
-    "migliori-monitor": {"title": "Schede monitor verificabili", "description": "Dimensione e refresh non bastano: pannello, risoluzione e porte cambiano l'uso reale.", "fields": ["Pollici", "Risoluzione", "Pannello", "Hz", "Tempo risposta", "Luminosità/HDR", "Porte", "Ergonomia"]},
-    "migliori-smartwatch": {"title": "Schede smartwatch verificabili", "description": "Compatibilità con lo smartphone e sensori sono verificati separatamente.", "fields": ["Compatibilità", "Display", "GPS", "Sensori", "Autonomia", "Resistenza acqua", "Chiamate/NFC"]},
-    "migliori-console-gaming": {"title": "Schede console verificabili", "description": "Versione, archiviazione e servizi inclusi devono essere chiari prima dell'acquisto.", "fields": ["Versione", "Archiviazione", "Lettore disco", "Risoluzione/Hz", "Controller", "Porte", "Dimensioni"]},
-    "migliori-soundbar": {"title": "Schede soundbar verificabili", "description": "Canali, subwoofer e collegamenti definiscono la compatibilità con la TV.", "fields": ["Canali", "Subwoofer", "Dolby Atmos/DTS:X", "HDMI eARC", "Bluetooth/Wi‑Fi", "Porte", "Dimensioni"]},
-    "cuffie-bluetooth-in-offerta": {"title": "Schede cuffie verificabili", "description": "Codec, ANC e autonomia vengono separati dalle promesse commerciali.", "fields": ["Formato", "ANC", "Codec", "Multipoint", "Autonomia", "Microfoni", "Resistenza acqua"]},
-    "migliori-robot-aspirapolvere": {"title": "Schede robot verificabili", "description": "Navigazione, base e lavaggio vengono registrati per modello e fonte.", "fields": ["Navigazione", "Ostacoli", "Altezza", "Soglie", "Spazzola", "Lavaggio", "Base", "Sacchetto"]},
-    "aspirapolvere-senza-fili-in-offerta": {"title": "Schede aspirapolvere verificabili", "description": "Potenza dichiarata, autonomia e spazzole aiutano a scegliere in base a casa e animali.", "fields": ["Potenza", "Autonomia", "Batteria estraibile", "Spazzole", "Peso", "Capacità", "Accessori"]},
-    "migliori-lavatrici": {"title": "Schede lavatrici verificabili", "description": "Misure, carico, consumi e rumorosità evitano acquisti incompatibili con lo spazio disponibile.", "fields": ["Carico", "Dimensioni", "Classe energetica", "Consumi", "Rumorosità", "Centrifuga", "Programmi"]},
-    "migliori-frigoriferi": {"title": "Schede frigoriferi verificabili", "description": "Capienza e ingombro reale sono prioritari rispetto alle etichette promozionali.", "fields": ["Capienza", "Dimensioni", "Classe energetica", "Rumorosità", "No Frost", "Zona freezer", "Porte"]},
-    "friggitrici-ad-aria-offerte-confronto": {"title": "Schede friggitrici verificabili", "description": "Capacità utile e misure esterne devono essere confrontate prima della potenza.", "fields": ["Capacità", "Dimensioni", "Potenza", "Temperatura", "Programmi", "Cestelli", "Lavaggio"]},
-    "migliori-moda": {"title": "Dati prodotto verificabili", "description": "Taglia, materiali, vestibilità e reso restano le informazioni più utili per scegliere.", "fields": ["Materiali", "Vestibilità", "Taglie", "Cura", "Reso"]},
-    "migliori-sneakers": {"title": "Dati sneakers verificabili", "description": "Modello, materiali e indicazioni di calzata sono registrati solo quando disponibili.", "fields": ["Materiali", "Calzata", "Suola", "Uso", "Taglie", "Cura"]}
+    "smartphone-in-offerta": {
+      "title": "Schede smartphone verificabili",
+      "description": "Filtri e confronti usano solo specifiche dichiarate nella scheda tecnica del modello.",
+      "fields": [
+        "Chipset",
+        "RAM e memoria",
+        "Display",
+        "Batteria e ricarica",
+        "Fotocamere",
+        "IP",
+        "SIM e microSD"
+      ]
+    },
+    "migliori-smartphone-sotto-300-euro": {
+      "title": "Schede smartphone verificabili",
+      "description": "La fascia prezzo è separata dalle caratteristiche tecniche, per non confondere valore e qualità.",
+      "fields": [
+        "Chipset",
+        "RAM e memoria",
+        "Display",
+        "Batteria e ricarica",
+        "Fotocamere",
+        "IP",
+        "SIM e microSD"
+      ]
+    },
+    "tv-in-offerta": {
+      "title": "Schede TV verificabili",
+      "description": "Pollici, pannello e porte contano più del solo sconto.",
+      "fields": [
+        "Pollici",
+        "Pannello",
+        "Risoluzione e HDR",
+        "Frequenza",
+        "HDMI 2.1 / VRR",
+        "Audio",
+        "Dimensioni"
+      ]
+    },
+    "offerte-tv-55-65-pollici": {
+      "title": "Schede TV verificabili",
+      "description": "Confronto tecnico per la fascia 55–65 pollici.",
+      "fields": [
+        "Pollici",
+        "Pannello",
+        "Risoluzione e HDR",
+        "Frequenza",
+        "HDMI 2.1 / VRR",
+        "Audio",
+        "Dimensioni"
+      ]
+    },
+    "migliori-notebook": {
+      "title": "Schede notebook verificabili",
+      "description": "Il confronto distingue lavoro, studio, mobilità e creatività.",
+      "fields": [
+        "CPU",
+        "GPU",
+        "RAM",
+        "SSD",
+        "Display",
+        "Peso",
+        "Batteria",
+        "Porte"
+      ]
+    },
+    "migliori-pc-desktop": {
+      "title": "Schede PC verificabili",
+      "description": "Componenti, aggiornabilità e porte vengono separati dal prezzo.",
+      "fields": [
+        "CPU",
+        "GPU",
+        "RAM",
+        "SSD",
+        "Alimentatore",
+        "Connettività",
+        "Espandibilità"
+      ]
+    },
+    "migliori-tablet": {
+      "title": "Schede tablet verificabili",
+      "description": "Serve per confrontare schermo, memoria e accessori realmente compatibili.",
+      "fields": [
+        "Chipset",
+        "Display",
+        "RAM e memoria",
+        "Batteria",
+        "Penna",
+        "Tastiera",
+        "Connettività"
+      ]
+    },
+    "migliori-monitor": {
+      "title": "Schede monitor verificabili",
+      "description": "Dimensione e refresh non bastano: pannello, risoluzione e porte cambiano l'uso reale.",
+      "fields": [
+        "Pollici",
+        "Risoluzione",
+        "Pannello",
+        "Hz",
+        "Tempo risposta",
+        "Luminosità/HDR",
+        "Porte",
+        "Ergonomia"
+      ]
+    },
+    "migliori-smartwatch": {
+      "title": "Schede smartwatch verificabili",
+      "description": "Compatibilità con lo smartphone e sensori sono verificati separatamente.",
+      "fields": [
+        "Compatibilità",
+        "Display",
+        "GPS",
+        "Sensori",
+        "Autonomia",
+        "Resistenza acqua",
+        "Chiamate/NFC"
+      ]
+    },
+    "migliori-console-gaming": {
+      "title": "Schede console verificabili",
+      "description": "Versione, archiviazione e servizi inclusi devono essere chiari prima dell'acquisto.",
+      "fields": [
+        "Versione",
+        "Archiviazione",
+        "Lettore disco",
+        "Risoluzione/Hz",
+        "Controller",
+        "Porte",
+        "Dimensioni"
+      ]
+    },
+    "migliori-soundbar": {
+      "title": "Schede soundbar verificabili",
+      "description": "Canali, subwoofer e collegamenti definiscono la compatibilità con la TV.",
+      "fields": [
+        "Canali",
+        "Subwoofer",
+        "Dolby Atmos/DTS:X",
+        "HDMI eARC",
+        "Bluetooth/Wi‑Fi",
+        "Porte",
+        "Dimensioni"
+      ]
+    },
+    "cuffie-bluetooth-in-offerta": {
+      "title": "Schede cuffie verificabili",
+      "description": "Codec, ANC e autonomia vengono separati dalle promesse commerciali.",
+      "fields": [
+        "Formato",
+        "ANC",
+        "Codec",
+        "Multipoint",
+        "Autonomia",
+        "Microfoni",
+        "Resistenza acqua"
+      ]
+    },
+    "migliori-robot-aspirapolvere": {
+      "title": "Schede robot verificabili",
+      "description": "Navigazione, base e lavaggio vengono registrati per modello e fonte.",
+      "fields": [
+        "Navigazione",
+        "Ostacoli",
+        "Altezza",
+        "Soglie",
+        "Spazzola",
+        "Lavaggio",
+        "Base",
+        "Sacchetto"
+      ]
+    },
+    "aspirapolvere-senza-fili-in-offerta": {
+      "title": "Schede aspirapolvere verificabili",
+      "description": "Potenza dichiarata, autonomia e spazzole aiutano a scegliere in base a casa e animali.",
+      "fields": [
+        "Potenza",
+        "Autonomia",
+        "Batteria estraibile",
+        "Spazzole",
+        "Peso",
+        "Capacità",
+        "Accessori"
+      ]
+    },
+    "migliori-lavatrici": {
+      "title": "Schede lavatrici verificabili",
+      "description": "Misure, carico, consumi e rumorosità evitano acquisti incompatibili con lo spazio disponibile.",
+      "fields": [
+        "Carico",
+        "Dimensioni",
+        "Classe energetica",
+        "Consumi",
+        "Rumorosità",
+        "Centrifuga",
+        "Programmi"
+      ]
+    },
+    "migliori-frigoriferi": {
+      "title": "Schede frigoriferi verificabili",
+      "description": "Capienza e ingombro reale sono prioritari rispetto alle etichette promozionali.",
+      "fields": [
+        "Capienza",
+        "Dimensioni",
+        "Classe energetica",
+        "Rumorosità",
+        "No Frost",
+        "Zona freezer",
+        "Porte"
+      ]
+    },
+    "friggitrici-ad-aria-offerte-confronto": {
+      "title": "Schede friggitrici verificabili",
+      "description": "Capacità utile e misure esterne devono essere confrontate prima della potenza.",
+      "fields": [
+        "Capacità",
+        "Dimensioni",
+        "Potenza",
+        "Temperatura",
+        "Programmi",
+        "Cestelli",
+        "Lavaggio"
+      ]
+    },
+    "migliori-moda": {
+      "title": "Dati prodotto verificabili",
+      "description": "Taglia, materiali, vestibilità e reso restano le informazioni più utili per scegliere.",
+      "fields": [
+        "Materiali",
+        "Vestibilità",
+        "Taglie",
+        "Cura",
+        "Reso"
+      ]
+    },
+    "migliori-sneakers": {
+      "title": "Dati sneakers verificabili",
+      "description": "Modello, materiali e indicazioni di calzata sono registrati solo quando disponibili.",
+      "fields": [
+        "Materiali",
+        "Calzata",
+        "Suola",
+        "Uso",
+        "Taglie",
+        "Cura"
+      ]
+    }
   },
   "products": [
-    {"guide_slug": "migliori-robot-aspirapolvere", "brand": "Dreame", "model": "L40 Ultra AE", "aliases": ["dreame l40 ultra ae"], "mpn": [], "eans": [], "highlights": ["19.000 Pa dichiarati", "Altezza robot 97 mm", "Base con sacchetto"], "specifications": {"Potenza aspirazione dichiarata": "19.000 Pa", "Navigazione": "LDS", "Evitamento ostacoli": "RGB intelligente + luce strutturata 3D", "Sistema lavaggio": "Due moci estensibili; lavaggio con acqua calda dichiarato", "Gestione polvere": "Svuotamento automatico con sacchetto", "Altezza robot": "97 mm", "Base": "Svuotamento, lavaggio/asciugatura moci, dosaggio detergente, serbatoi acqua pulita/sporca", "Spazzola": "Spazzola in gomma sollevabile e TriCut 3.0 dichiarata", "Soglie": "Non dichiarate nella fonte usata"}, "verified_at": "2026-09-30", "source": {"name": "Dreame Italia – L40 Ultra AE", "url": "https://it.dreametech.com/products/robot-aspirapolvere-dreame-l40-ultra-ae-nero"}},
-    {"guide_slug": "migliori-robot-aspirapolvere", "brand": "MOVA", "model": "V70 Ultra Complete", "aliases": ["mova v70 ultra complete"], "mpn": ["RLV77CE"], "eans": [], "highlights": ["40.000 Pa dichiarati", "Altezza robot 88 mm", "Base senza sacchetto"], "specifications": {"Potenza aspirazione dichiarata": "40.000 Pa", "Navigazione": "Sensore DToF retrattile FlexScope", "Evitamento ostacoli": "Riconoscimento di oltre 300 oggetti dichiarato", "Sistema lavaggio": "Mocio rotante FlexiPress: 300 giri/min, pressione 15 N; estensione dichiarata 16 cm", "Gestione polvere": "EcoCyclone lavabile senza sacchetto", "Altezza robot": "88 mm", "Soglie dichiarate": "90 mm", "Base": "Svuotamento senza sacchetto, lavaggio e asciugatura moci dichiarati", "Animali": "Modalità Pet Care dichiarata"}, "verified_at": "2026-09-30", "source": {"name": "MOVA Italia – V70 Ultra Complete", "url": "https://it.mova.tech/products/v70-ultra-complete-robot-aspirapolvere"}},
-    {"guide_slugs": ["smartphone-in-offerta", "migliori-smartphone-sotto-300-euro"], "brand": "Samsung", "model": "Galaxy S25", "aliases": ["samsung galaxy s25", "galaxy s25 5g"], "mpn": [], "eans": [], "highlights": ["Snapdragon 8 Elite for Galaxy", "Display 6,2 pollici", "IP68"], "specifications": {"Processore": "Snapdragon 8 Elite for Galaxy", "Display": "6,2 pollici", "Memoria": "128 / 256 / 512 GB", "Batteria tipica": "4.000 mAh", "Resistenza": "IP68", "Protezione display": "Corning Gorilla Glass Victus 2"}, "verified_at": "2026-10-01", "source": {"name": "Samsung Italia – Galaxy S25", "url": "https://www.samsung.com/it/smartphones/galaxy-s25/"}},
-    {"guide_slugs": ["smartphone-in-offerta", "migliori-smartphone-sotto-300-euro"], "brand": "Google", "model": "Pixel 9a", "aliases": ["google pixel 9a", "pixel 9a"], "mpn": [], "eans": [], "highlights": ["Tensor G4", "5.100 mAh", "IP68"], "specifications": {"Processore": "Google Tensor G4", "RAM": "8 GB", "Memoria": "128 o 256 GB", "Display": "pOLED 1080 × 2424, 60–120 Hz", "Batteria tipica": "5.100 mAh", "Ricarica": "Rapida e wireless Qi", "Fotocamere posteriori": "48 MP grandangolare + 13 MP ultrawide; OIS/EIS sul grandangolare", "Video": "4K a 30/60 fps posteriore", "Resistenza": "IP68"}, "verified_at": "2026-10-01", "source": {"name": "Google Store Italia – Pixel 9a", "url": "https://store.google.com/it/product/pixel_9a_specs?hl=it"}},
-    {"guide_slugs": ["tv-in-offerta", "offerte-tv-55-65-pollici"], "brand": "LG", "model": "OLED evo AI C5 65 pollici", "aliases": ["lg oled65c5elb", "lg oled c5 65", "oled65c5"], "mpn": ["OLED65C5ELB"], "eans": ["8806096409329"], "highlights": ["OLED 4K", "120 Hz nativi", "4 HDMI 2.1"], "specifications": {"Pannello": "OLED 4K", "Dimensione": "65 pollici", "Risoluzione": "3.840 × 2.160", "Refresh": "120 Hz nativi, fino a 144 Hz con VRR", "HDR": "Dolby Vision / HDR10 / HLG", "Gaming": "VRR, ALLM, G-SYNC, FreeSync Premium, HGiG", "HDMI": "4 porte HDMI 2.1; 4K 120 Hz, eARC, VRR, ALLM, QMS", "Audio": "40 W, 2.2 canali, Dolby Atmos", "Sistema": "webOS 25", "Dimensioni senza base": "1.441 × 826 × 45,1 mm"}, "verified_at": "2026-10-01", "source": {"name": "LG Italia – OLED65C5ELB", "url": "https://www.lg.com/it/tv-soundbar/oled-evo/oled65c5elb/"}},
-    {"guide_slugs": ["tv-in-offerta", "offerte-tv-55-65-pollici"], "brand": "Samsung", "model": "Neo QLED QN90F 65 pollici", "aliases": ["samsung qn90f 65", "qe65qn90f", "qe65qn90fatxzt"], "mpn": ["QE65QN90FATXZT"], "eans": [], "highlights": ["Mini LED 4K", "120 Hz fino a 165 Hz", "Glare Free"], "specifications": {"Pannello": "Neo QLED Mini LED", "Dimensione": "65 pollici", "Risoluzione": "4K 3.840 × 2.160", "Refresh": "120 Hz, fino a 165 Hz", "HDR": "Neo Quantum HDR+ / HDR10+ Adaptive e Gaming", "Processore": "NQ4 AI Gen3", "Riflessi": "Glare Free", "Audio": "Dolby Atmos e OTS+", "Connettività": "HDMI 2.1 dichiarate dalla fonte; verificare numero porte sulla variante"}, "verified_at": "2026-10-01", "source": {"name": "Samsung Italia – QE65QN90FATXZT", "url": "https://www.samsung.com/it/tvs/qled-tv/qn90f-65-inch-neo-qled-4k-mini-led-smart-tv-qe65qn90fatxzt/"}},
-    {"guide_slug": "migliori-soundbar", "brand": "Samsung", "model": "HW-Q930F/ZF", "aliases": ["samsung hw q930f", "hw-q930f", "q930f"], "mpn": ["HW-Q930F/ZF"], "eans": [], "highlights": ["9.1.4 canali", "Subwoofer e posteriori inclusi", "HDMI eARC"], "specifications": {"Canali": "9.1.4", "Altoparlanti": "17", "Subwoofer": "Wireless incluso", "Posteriori": "Wireless inclusi (2.0.2)", "Dolby": "Dolby Atmos, Dolby TrueHD, Dolby Digital Plus", "HDMI": "1 ingresso, 1 uscita; ARC/eARC", "Video pass-through": "4K 60 Hz, HDR10+", "Connettività": "Wi‑Fi, Bluetooth 5.3, AirPlay, Chromecast, Spotify Connect", "Dialoghi": "Active Voice Amplifier Pro e Voice Enhance Mode"}, "verified_at": "2026-10-01", "source": {"name": "Samsung Italia – HW-Q930F/ZF", "url": "https://www.samsung.com/it/audio-devices/soundbar/q-series-soundbar-hw-q930f-black-hw-q930f-zf/"}},
-    {"guide_slug": "migliori-soundbar", "brand": "LG", "model": "S80TR", "aliases": ["lg s80tr", "soundbar s80tr"], "mpn": ["S80TR"], "eans": [], "highlights": ["5.1.3 canali", "Dolby Atmos", "Posteriori inclusi"], "specifications": {"Canali": "5.1.3", "Dolby": "Dolby Atmos", "Posteriori": "Inclusi", "Canale centrale": "Up-firing dichiarato", "Calibrazione stanza": "AI Room Calibration Pro", "Funzione TV LG": "WOW Orchestra dichiarata"}, "verified_at": "2026-10-01", "source": {"name": "LG Italia – S80TR", "url": "https://www.lg.com/it/audio/soundbar/s80tr/"}},
-    {"guide_slug": "migliori-notebook", "brand": "ASUS", "model": "Zenbook S 14 (UX5406)", "aliases": ["asus zenbook s 14 ux5406", "zenbook s14 ux5406", "ux5406sa", "ux5406aa"], "mpn": ["UX5406SA", "UX5406AA"], "eans": [], "highlights": ["14 pollici OLED", "Intel Core Ultra", "NPU fino a 50 TOPS secondo variante"], "specifications": {"Display": "14 pollici OLED", "Processore": "Intel Core Ultra; configurazioni UX5406SA/UX5406AA", "Grafica": "Intel Arc o Intel Graphics secondo configurazione", "NPU": "Intel AI Boost; fino a 50 TOPS secondo configurazione", "Sistema operativo": "Windows 11 Home"}, "verified_at": "2026-10-01", "source": {"name": "ASUS Italia – Zenbook S 14 UX5406, specifiche", "url": "https://www.asus.com/it/laptops/for-home/zenbook/asus-zenbook-s-14-ux5406/techspec/"}},
-    {"guide_slug": "migliori-pc-desktop", "brand": "Lenovo", "model": "IdeaCentre Mini Gen 10 (Intel)", "aliases": ["lenovo ideacentre mini gen 10", "ideacentre mini gen 10", "91b2cto1wwit1"], "mpn": ["91B2CTO1WWIT1"], "eans": [], "highlights": ["Mini PC da 1 L", "Intel Core", "Aggiornabile secondo Lenovo"], "specifications": {"Formato": "Mini desktop da 1 litro", "Processore": "Intel Core; configurazione dipendente dalla variante", "Sistema operativo": "Windows 11 Home 64 bit nella configurazione indicata", "Aggiornabilità": "Descritta da Lenovo come aggiornabile", "Grafica": "Verificare la configurazione scelta"}, "verified_at": "2026-10-01", "source": {"name": "Lenovo Italia – IdeaCentre Mini Gen 10 (Intel)", "url": "https://www.lenovo.com/it/it/p/desktops/ideacentre/500-series/lenovo-ideacentre-mini-gen-10-1l-intel/len102d0048"}},
-    {"guide_slug": "migliori-tablet", "brand": "Samsung", "model": "Galaxy Tab S10 FE", "aliases": ["samsung galaxy tab s10 fe", "galaxy tab s10 fe", "sm-x520"], "mpn": ["SM-X520"], "eans": [], "highlights": ["Display LCD 10,9 pollici 90 Hz", "Exynos 1580", "S Pen"], "specifications": {"Display": "10,9 pollici LCD fino a 90 Hz", "Processore": "Exynos 1580", "Memoria": "8 GB + 128 GB o 12 GB + 256 GB secondo configurazione", "S Pen": "Inclusa", "Fotocamere": "Posteriore 13 MP; frontale ultragrandangolare 12 MP", "Peso": "497 g Wi‑Fi / 500 g 5G dichiarati"}, "verified_at": "2026-10-01", "source": {"name": "Samsung Italia – caratteristiche Galaxy Tab S10 FE", "url": "https://www.samsung.com/it/support/mobile-devices/what-are-the-features-of-the-galaxy-tab-s10-fe-plus-and-s10-fe/"}},
-    {"guide_slug": "migliori-monitor", "brand": "LG", "model": "UltraGear OLED 27GS95QE-B", "aliases": ["lg 27gs95qe", "27gs95qe-b", "ultragear 27gs95qe"], "mpn": ["27GS95QE-B"], "eans": [], "highlights": ["OLED QHD 27 pollici", "240 Hz", "0,03 ms GtG"], "specifications": {"Pannello": "OLED", "Dimensione": "27 pollici", "Risoluzione": "QHD 2.560 × 1.440", "Refresh": "240 Hz", "Tempo di risposta": "0,03 ms GtG", "HDR e colore": "HDR True Black 400; DCI-P3 98,5% tipico", "Sincronizzazione": "G-SYNC Compatible e AMD FreeSync Premium Pro", "Ergonomia": "Altezza, tilt e swivel regolabili"}, "verified_at": "2026-10-01", "source": {"name": "LG Italia – UltraGear OLED 27GS95QE-B", "url": "https://www.lg.com/it/monitor/gaming/27gs95qe-b/"}},
-    {"guide_slug": "migliori-smartwatch", "brand": "Samsung", "model": "Galaxy Watch8 44 mm Bluetooth", "aliases": ["samsung galaxy watch8 44", "galaxy watch8 44", "sm-l330"], "mpn": ["SM-L330"], "eans": [], "highlights": ["GPS L1 + L5", "32 GB", "NFC"], "specifications": {"Compatibilità": "Smartphone Samsung Galaxy con Android 12 o superiore", "Display": "1,5 pollici (37,3 mm)", "GPS": "Doppia banda L1 e L5", "Sensori": "Bioimpedenza, sensore cardiaco elettrico e ottico, temperatura IR, accelerometro, barometro, giroscopio e altri dichiarati", "Memoria": "32 GB; spazio utente indicato come circa 63% della capacità", "Connettività": "Bluetooth 5.3 e NFC", "Dimensioni": "46,0 × 43,7 × 8,6 mm", "Peso": "34 g"}, "verified_at": "2026-10-01", "source": {"name": "Samsung Italia – Galaxy Watch8 44 mm Bluetooth", "url": "https://www.samsung.com/it/watches/galaxy-watch/galaxy-watch8-44mm-graphite-bluetooth-sm-l330ndaaitv/"}},
-    {"guide_slug": "cuffie-bluetooth-in-offerta", "brand": "Sony", "model": "WH-1000XM6", "aliases": ["sony wh-1000xm6", "wh 1000xm6", "wh1000xm6"], "mpn": ["WH-1000XM6"], "eans": [], "highlights": ["Noise Cancelling", "Multipoint", "Fino a 30 h con NC"], "specifications": {"Formato": "Ad archetto chiuso", "Noise Cancelling": "Sì", "Multipoint": "Sì", "Bluetooth": "5.3", "Codec": "SBC, AAC, LDAC e LC3", "Autonomia dichiarata": "Fino a 30 ore con NC attivo; fino a 40 ore con NC disattivato", "Peso": "Circa 254 g", "Microfono": "MEMS omnidirezionale"}, "verified_at": "2026-10-01", "source": {"name": "Sony Italia – WH-1000XM6, specifiche", "url": "https://www.sony.it/electronics/support/wireless-headphones-bluetooth-headphones/wh-1000xm6/specifications"}},
-    {"guide_slug": "aspirapolvere-senza-fili-in-offerta", "brand": "Dyson", "model": "Gen5detect Absolute", "aliases": ["dyson gen5detect absolute", "dyson gen5 detect absolute", "gen5detect"], "mpn": ["447002-01"], "eans": [], "highlights": ["Mini turbospazzola anti-groviglio", "Digital Motorbar", "Schermo LCD"], "specifications": {"Motore": "Dyson Gen5 Hyperdymium", "Spazzole": "Digital Motorbar e mini turbospazzola anti-groviglio incluse nella variante Absolute indicata", "Display": "Schermo LCD", "Ricarica": "Circa 4,5 ore dichiarate", "Sistema cicloni": "14 cicloni dichiarati"}, "verified_at": "2026-10-01", "source": {"name": "Dyson Italia – Gen5detect Absolute", "url": "https://www.dyson.it/aspirapolvere/senza-filo/gen5detect/absolute-rame-blu"}},
-    {"guide_slug": "migliori-lavatrici", "brand": "Bosch", "model": "Serie 8 WGB264A0IT", "aliases": ["bosch wgb264a0it", "wgb264a0it"], "mpn": ["WGB264A0IT"], "eans": [], "highlights": ["11 kg", "1.400 giri/min", "845 × 598 × 590 mm"], "specifications": {"Carico": "11 kg", "Centrifuga massima": "1.400 giri/min", "Dimensioni": "845 × 598 × 590 mm", "Classe energetica": "A", "Protezione perdite": "AquaStop dichiarato", "Connettività": "Home Connect Wi-Fi dichiarato"}, "verified_at": "2026-10-01", "source": {"name": "Bosch Italia – WGB264A0IT", "url": "https://www.bosch-home.com/it/it/mkt-product/lavatrici-e-asciugatrici/lavatrici/lavatrici-a-carica-frontale/WGB264A0IT"}},
-    {"guide_slug": "migliori-frigoriferi", "brand": "Samsung", "model": "Bespoke AI RB38C7B6AS9/EF", "aliases": ["samsung rb38c7b6as9", "rb38c7b6as9", "bespoke ai 387l"], "mpn": ["RB38C7B6AS9/EF"], "eans": [], "highlights": ["387 L", "Classe A", "35 dBA"], "specifications": {"Capacità": "387 L; frigorifero 273 L, freezer 114 L", "Dimensioni": "595 × 2.030 × 658 mm", "Classe energetica": "A", "Consumo": "108 kWh/anno", "Rumorosità": "35 dBA", "No Frost": "No Frost Premium", "Raffreddamento": "Twin Cooling Plus", "Wi-Fi": "Integrato"}, "verified_at": "2026-10-01", "source": {"name": "Samsung Italia – RB38C7B6AS9/EF", "url": "https://www.samsung.com/it/refrigerators/bottom-mount-freezer/bespoke-bmfreezer-with-smartthings-ai-energy-mode-387l-silver-rb38c7b6as9-ef/"}},
-    {"guide_slug": "friggitrici-ad-aria-offerte-confronto", "brand": "Ninja", "model": "Foodi MAX Dual Zone AF400EU", "aliases": ["ninja af400eu", "foodi max dual zone af400eu"], "mpn": ["AF400EU"], "eans": [], "highlights": ["9,5 L", "Due zone di cottura", "DualZone"], "specifications": {"Capacità": "9,5 L", "Cestelli": "Due zone di cottura", "Tecnologia": "DualZone", "Modello": "AF400EU"}, "verified_at": "2026-10-01", "source": {"name": "Ninja Italia – guida AF400EU", "url": "https://ninjakitchen.it/INTERSHOP/web/WFS/SharkNinja-IT-Site/it_IT/ninjait/EUR/ViewProductAttachment-OpenFile?FileName=AF400EU_IG_IT_MP_220311_Mv1_LR.pdf&UnitName=SharkNinja-IT"}},
-    {"guide_slug": "migliori-console-gaming", "brand": "Sony", "model": "PlayStation 5 Slim 1 TB", "aliases": ["playstation 5 slim 1tb", "ps5 slim 1tb", "ps5 cfi 2100"], "mpn": ["CFI-2100"], "eans": [], "highlights": ["SSD 1 TB", "Feedback aptico", "Grilletti adattivi"], "specifications": {"Versione": "Console PS5 gruppo modello CFI-2100 slim", "Archiviazione": "SSD 1 TB", "Controller": "DualSense con feedback aptico e grilletti adattivi", "Audio": "Audio 3D dichiarato"}, "verified_at": "2026-10-01", "source": {"name": "PlayStation Italia – Console PS5 1 TB", "url": "https://direct.playstation.com/it-it/buy-consoles/playstation5-console-1-tb"}},
-    {"guide_slug": "migliori-sneakers", "brand": "Nike", "model": "Pegasus 41", "aliases": ["nike pegasus 41", "pegasus 41"], "mpn": [], "eans": [], "highlights": ["Running su strada", "Due unità Air Zoom", "Schiuma ReactX"], "specifications": {"Uso dichiarato": "Running su strada", "Intersuola": "Schiuma ReactX con due unità Air Zoom", "Tomaia": "Mesh tecnico traspirante", "Suola": "Gomma con motivo waffle"}, "verified_at": "2026-10-01", "source": {"name": "Nike Italia – Pegasus 41", "url": "https://www.nike.com/it/t/scarpa-da-running-su-strada-pegasus-41-aFqqhluh"}},
-    {"guide_slug": "migliori-sneakers", "brand": "adidas", "model": "Samba OG", "aliases": ["adidas samba og", "samba og b75807", "b75807"], "mpn": ["B75807"], "eans": [], "highlights": ["Tomaia in pelle pieno fiore", "Rivestimenti in suede", "Suola in gomma"], "specifications": {"Tomaia": "Pelle pieno fiore con rivestimenti in suede", "Fodera": "Materiale sintetico", "Intersuola": "Gomma naturale", "Suola": "Gomma", "Uso dichiarato": "Sneaker lifestyle: verificare taglia e vestibilità sulla pagina della variante"}, "verified_at": "2026-10-01", "source": {"name": "adidas Italia – Samba OG B75807", "url": "https://www.adidas.it/scarpe-samba-og/B75807.html"}},
-    {"guide_slug": "migliori-moda", "brand": "adidas", "model": "Samba OG", "aliases": ["adidas samba og", "samba og b75807", "b75807"], "mpn": ["B75807"], "eans": [], "highlights": ["Tomaia in pelle pieno fiore", "Rivestimenti in suede", "Suola in gomma"], "specifications": {"Materiali tomaia": "Pelle pieno fiore con rivestimenti in suede", "Fodera": "Materiale sintetico", "Intersuola": "Gomma naturale", "Suola": "Gomma", "Vestibilità": "Verificare guida taglie e reso sulla pagina della variante"}, "verified_at": "2026-10-01", "source": {"name": "adidas Italia – Samba OG B75807", "url": "https://www.adidas.it/scarpe-samba-og/B75807.html"}}
+    {
+      "guide_slug": "migliori-robot-aspirapolvere",
+      "brand": "Dreame",
+      "model": "L40 Ultra AE",
+      "aliases": [
+        "dreame l40 ultra ae"
+      ],
+      "mpn": [],
+      "eans": [],
+      "highlights": [
+        "19.000 Pa dichiarati",
+        "Altezza robot 97 mm",
+        "Base con sacchetto"
+      ],
+      "specifications": {
+        "Potenza aspirazione dichiarata": "19.000 Pa",
+        "Navigazione": "LDS",
+        "Evitamento ostacoli": "RGB intelligente + luce strutturata 3D",
+        "Sistema lavaggio": "Due moci estensibili; lavaggio con acqua calda dichiarato",
+        "Gestione polvere": "Svuotamento automatico con sacchetto",
+        "Altezza robot": "97 mm",
+        "Base": "Svuotamento, lavaggio/asciugatura moci, dosaggio detergente, serbatoi acqua pulita/sporca",
+        "Spazzola": "Spazzola in gomma sollevabile e TriCut 3.0 dichiarata",
+        "Soglie": "Non dichiarate nella fonte usata"
+      },
+      "verified_at": "2026-09-30",
+      "source": {
+        "name": "Dreame Italia – L40 Ultra AE",
+        "url": "https://it.dreametech.com/products/robot-aspirapolvere-dreame-l40-ultra-ae-nero"
+      }
+    },
+    {
+      "guide_slug": "migliori-robot-aspirapolvere",
+      "brand": "MOVA",
+      "model": "V70 Ultra Complete",
+      "aliases": [
+        "mova v70 ultra complete"
+      ],
+      "mpn": [
+        "RLV77CE"
+      ],
+      "eans": [],
+      "highlights": [
+        "40.000 Pa dichiarati",
+        "Altezza robot 88 mm",
+        "Base senza sacchetto"
+      ],
+      "specifications": {
+        "Potenza aspirazione dichiarata": "40.000 Pa",
+        "Navigazione": "Sensore DToF retrattile FlexScope",
+        "Evitamento ostacoli": "Riconoscimento di oltre 300 oggetti dichiarato",
+        "Sistema lavaggio": "Mocio rotante FlexiPress: 300 giri/min, pressione 15 N; estensione dichiarata 16 cm",
+        "Gestione polvere": "EcoCyclone lavabile senza sacchetto",
+        "Altezza robot": "88 mm",
+        "Soglie dichiarate": "90 mm",
+        "Base": "Svuotamento senza sacchetto, lavaggio e asciugatura moci dichiarati",
+        "Animali": "Modalità Pet Care dichiarata"
+      },
+      "verified_at": "2026-09-30",
+      "source": {
+        "name": "MOVA Italia – V70 Ultra Complete",
+        "url": "https://it.mova.tech/products/v70-ultra-complete-robot-aspirapolvere"
+      }
+    },
+    {
+      "guide_slugs": [
+        "smartphone-in-offerta",
+        "migliori-smartphone-sotto-300-euro"
+      ],
+      "brand": "Samsung",
+      "model": "Galaxy S25",
+      "aliases": [
+        "samsung galaxy s25",
+        "galaxy s25 5g"
+      ],
+      "mpn": [],
+      "eans": [],
+      "highlights": [
+        "Snapdragon 8 Elite for Galaxy",
+        "Display 6,2 pollici",
+        "IP68"
+      ],
+      "specifications": {
+        "Processore": "Snapdragon 8 Elite for Galaxy",
+        "Display": "6,2 pollici",
+        "Memoria": "128 / 256 / 512 GB",
+        "Batteria tipica": "4.000 mAh",
+        "Resistenza": "IP68",
+        "Protezione display": "Corning Gorilla Glass Victus 2",
+        "Fotocamere posteriori": "Grandangolare con OIS, ultragrandangolare e teleobiettivo con zoom ottico 3x e OIS"
+      },
+      "verified_at": "2026-10-22",
+      "source": {
+        "name": "Samsung Mobile Press – Galaxy S25",
+        "url": "https://www.samsungmobilepress.com/articles/samsung-galaxy-s25-series-sets-the-standard-of-ai-phone-as-a-true-ai-companion"
+      },
+      "verified_filter_tokens": {
+        "ois": true,
+        "telephoto": true,
+        "photo_rec": true
+      }
+    },
+    {
+      "guide_slugs": [
+        "smartphone-in-offerta",
+        "migliori-smartphone-sotto-300-euro"
+      ],
+      "brand": "Google",
+      "model": "Pixel 9a",
+      "aliases": [
+        "google pixel 9a",
+        "pixel 9a"
+      ],
+      "mpn": [],
+      "eans": [],
+      "highlights": [
+        "Tensor G4",
+        "5.100 mAh",
+        "IP68"
+      ],
+      "specifications": {
+        "Processore": "Google Tensor G4",
+        "RAM": "8 GB",
+        "Memoria": "128 o 256 GB",
+        "Display": "pOLED 1080 × 2424, 60–120 Hz",
+        "Batteria tipica": "5.100 mAh",
+        "Ricarica": "Rapida e wireless Qi",
+        "Fotocamere posteriori": "48 MP grandangolare + 13 MP ultrawide; OIS/EIS sul grandangolare",
+        "Video": "4K a 30/60 fps posteriore",
+        "Resistenza": "IP68"
+      },
+      "verified_at": "2026-10-22",
+      "source": {
+        "name": "Google Store Italia – Pixel 9a",
+        "url": "https://store.google.com/it/product/pixel_9a_specs?hl=it"
+      },
+      "verified_filter_tokens": {
+        "ois": true,
+        "telephoto": false,
+        "photo_rec": true
+      }
+    },
+    {
+      "guide_slugs": [
+        "tv-in-offerta",
+        "offerte-tv-55-65-pollici"
+      ],
+      "brand": "LG",
+      "model": "OLED evo AI C5 65 pollici",
+      "aliases": [
+        "lg oled65c5elb",
+        "lg oled c5 65",
+        "oled65c5"
+      ],
+      "mpn": [
+        "OLED65C5ELB"
+      ],
+      "eans": [
+        "8806096409329"
+      ],
+      "highlights": [
+        "OLED 4K",
+        "120 Hz nativi",
+        "4 HDMI 2.1"
+      ],
+      "specifications": {
+        "Pannello": "OLED 4K",
+        "Dimensione": "65 pollici",
+        "Risoluzione": "3.840 × 2.160",
+        "Refresh": "120 Hz nativi, fino a 144 Hz con VRR",
+        "HDR": "Dolby Vision / HDR10 / HLG",
+        "Gaming": "VRR, ALLM, G-SYNC, FreeSync Premium, HGiG",
+        "HDMI": "4 porte HDMI 2.1; 4K 120 Hz, eARC, VRR, ALLM, QMS",
+        "Audio": "40 W, 2.2 canali, Dolby Atmos",
+        "Sistema": "webOS 25",
+        "Dimensioni senza base": "1.441 × 826 × 45,1 mm"
+      },
+      "verified_at": "2026-10-01",
+      "source": {
+        "name": "LG Italia – OLED65C5ELB",
+        "url": "https://www.lg.com/it/tv-soundbar/oled-evo/oled65c5elb/"
+      }
+    },
+    {
+      "guide_slugs": [
+        "tv-in-offerta",
+        "offerte-tv-55-65-pollici"
+      ],
+      "brand": "Samsung",
+      "model": "Neo QLED QN90F 65 pollici",
+      "aliases": [
+        "samsung qn90f 65",
+        "qe65qn90f",
+        "qe65qn90fatxzt"
+      ],
+      "mpn": [
+        "QE65QN90FATXZT"
+      ],
+      "eans": [],
+      "highlights": [
+        "Mini LED 4K",
+        "120 Hz fino a 165 Hz",
+        "Glare Free"
+      ],
+      "specifications": {
+        "Pannello": "Neo QLED Mini LED",
+        "Dimensione": "65 pollici",
+        "Risoluzione": "4K 3.840 × 2.160",
+        "Refresh": "120 Hz, fino a 165 Hz",
+        "HDR": "Neo Quantum HDR+ / HDR10+ Adaptive e Gaming",
+        "Processore": "NQ4 AI Gen3",
+        "Riflessi": "Glare Free",
+        "Audio": "Dolby Atmos e OTS+",
+        "Connettività": "HDMI 2.1 dichiarate dalla fonte; verificare numero porte sulla variante"
+      },
+      "verified_at": "2026-10-01",
+      "source": {
+        "name": "Samsung Italia – QE65QN90FATXZT",
+        "url": "https://www.samsung.com/it/tvs/qled-tv/qn90f-65-inch-neo-qled-4k-mini-led-smart-tv-qe65qn90fatxzt/"
+      }
+    },
+    {
+      "guide_slug": "migliori-soundbar",
+      "brand": "Samsung",
+      "model": "HW-Q930F/ZF",
+      "aliases": [
+        "samsung hw q930f",
+        "hw-q930f",
+        "q930f"
+      ],
+      "mpn": [
+        "HW-Q930F/ZF"
+      ],
+      "eans": [],
+      "highlights": [
+        "9.1.4 canali",
+        "Subwoofer e posteriori inclusi",
+        "HDMI eARC"
+      ],
+      "specifications": {
+        "Canali": "9.1.4",
+        "Altoparlanti": "17",
+        "Subwoofer": "Wireless incluso",
+        "Posteriori": "Wireless inclusi (2.0.2)",
+        "Dolby": "Dolby Atmos, Dolby TrueHD, Dolby Digital Plus",
+        "HDMI": "1 ingresso, 1 uscita; ARC/eARC",
+        "Video pass-through": "4K 60 Hz, HDR10+",
+        "Connettività": "Wi‑Fi, Bluetooth 5.3, AirPlay, Chromecast, Spotify Connect",
+        "Dialoghi": "Active Voice Amplifier Pro e Voice Enhance Mode"
+      },
+      "verified_at": "2026-10-01",
+      "source": {
+        "name": "Samsung Italia – HW-Q930F/ZF",
+        "url": "https://www.samsung.com/it/audio-devices/soundbar/q-series-soundbar-hw-q930f-black-hw-q930f-zf/"
+      }
+    },
+    {
+      "guide_slug": "migliori-soundbar",
+      "brand": "LG",
+      "model": "S80TR",
+      "aliases": [
+        "lg s80tr",
+        "soundbar s80tr"
+      ],
+      "mpn": [
+        "S80TR"
+      ],
+      "eans": [],
+      "highlights": [
+        "5.1.3 canali",
+        "Dolby Atmos",
+        "Posteriori inclusi"
+      ],
+      "specifications": {
+        "Canali": "5.1.3",
+        "Dolby": "Dolby Atmos",
+        "Posteriori": "Inclusi",
+        "Canale centrale": "Up-firing dichiarato",
+        "Calibrazione stanza": "AI Room Calibration Pro",
+        "Funzione TV LG": "WOW Orchestra dichiarata"
+      },
+      "verified_at": "2026-10-01",
+      "source": {
+        "name": "LG Italia – S80TR",
+        "url": "https://www.lg.com/it/audio/soundbar/s80tr/"
+      }
+    },
+    {
+      "guide_slug": "migliori-notebook",
+      "brand": "ASUS",
+      "model": "Zenbook S 14 (UX5406)",
+      "aliases": [
+        "asus zenbook s 14 ux5406",
+        "zenbook s14 ux5406",
+        "ux5406sa",
+        "ux5406aa"
+      ],
+      "mpn": [
+        "UX5406SA",
+        "UX5406AA"
+      ],
+      "eans": [],
+      "highlights": [
+        "14 pollici OLED",
+        "Intel Core Ultra",
+        "NPU fino a 50 TOPS secondo variante"
+      ],
+      "specifications": {
+        "Display": "14 pollici OLED",
+        "Processore": "Intel Core Ultra; configurazioni UX5406SA/UX5406AA",
+        "Grafica": "Intel Arc o Intel Graphics secondo configurazione",
+        "NPU": "Intel AI Boost; fino a 50 TOPS secondo configurazione",
+        "Sistema operativo": "Windows 11 Home"
+      },
+      "verified_at": "2026-10-01",
+      "source": {
+        "name": "ASUS Italia – Zenbook S 14 UX5406, specifiche",
+        "url": "https://www.asus.com/it/laptops/for-home/zenbook/asus-zenbook-s-14-ux5406/techspec/"
+      }
+    },
+    {
+      "guide_slug": "migliori-pc-desktop",
+      "brand": "Lenovo",
+      "model": "IdeaCentre Mini Gen 10 (Intel)",
+      "aliases": [
+        "lenovo ideacentre mini gen 10",
+        "ideacentre mini gen 10",
+        "91b2cto1wwit1"
+      ],
+      "mpn": [
+        "91B2CTO1WWIT1"
+      ],
+      "eans": [],
+      "highlights": [
+        "Mini PC da 1 L",
+        "Intel Core",
+        "Aggiornabile secondo Lenovo"
+      ],
+      "specifications": {
+        "Formato": "Mini desktop da 1 litro",
+        "Processore": "Intel Core; configurazione dipendente dalla variante",
+        "Sistema operativo": "Windows 11 Home 64 bit nella configurazione indicata",
+        "Aggiornabilità": "Descritta da Lenovo come aggiornabile",
+        "Grafica": "Verificare la configurazione scelta"
+      },
+      "verified_at": "2026-10-01",
+      "source": {
+        "name": "Lenovo Italia – IdeaCentre Mini Gen 10 (Intel)",
+        "url": "https://www.lenovo.com/it/it/p/desktops/ideacentre/500-series/lenovo-ideacentre-mini-gen-10-1l-intel/len102d0048"
+      }
+    },
+    {
+      "guide_slug": "migliori-tablet",
+      "brand": "Samsung",
+      "model": "Galaxy Tab S10 FE",
+      "aliases": [
+        "samsung galaxy tab s10 fe",
+        "galaxy tab s10 fe",
+        "sm-x520"
+      ],
+      "mpn": [
+        "SM-X520"
+      ],
+      "eans": [],
+      "highlights": [
+        "Display LCD 10,9 pollici 90 Hz",
+        "Exynos 1580",
+        "S Pen"
+      ],
+      "specifications": {
+        "Display": "10,9 pollici LCD fino a 90 Hz",
+        "Processore": "Exynos 1580",
+        "Memoria": "8 GB + 128 GB o 12 GB + 256 GB secondo configurazione",
+        "S Pen": "Inclusa",
+        "Fotocamere": "Posteriore 13 MP; frontale ultragrandangolare 12 MP",
+        "Peso": "497 g Wi‑Fi / 500 g 5G dichiarati"
+      },
+      "verified_at": "2026-10-01",
+      "source": {
+        "name": "Samsung Italia – caratteristiche Galaxy Tab S10 FE",
+        "url": "https://www.samsung.com/it/support/mobile-devices/what-are-the-features-of-the-galaxy-tab-s10-fe-plus-and-s10-fe/"
+      }
+    },
+    {
+      "guide_slug": "migliori-monitor",
+      "brand": "LG",
+      "model": "UltraGear OLED 27GS95QE-B",
+      "aliases": [
+        "lg 27gs95qe",
+        "27gs95qe-b",
+        "ultragear 27gs95qe"
+      ],
+      "mpn": [
+        "27GS95QE-B"
+      ],
+      "eans": [],
+      "highlights": [
+        "OLED QHD 27 pollici",
+        "240 Hz",
+        "0,03 ms GtG"
+      ],
+      "specifications": {
+        "Pannello": "OLED",
+        "Dimensione": "27 pollici",
+        "Risoluzione": "QHD 2.560 × 1.440",
+        "Refresh": "240 Hz",
+        "Tempo di risposta": "0,03 ms GtG",
+        "HDR e colore": "HDR True Black 400; DCI-P3 98,5% tipico",
+        "Sincronizzazione": "G-SYNC Compatible e AMD FreeSync Premium Pro",
+        "Ergonomia": "Altezza, tilt e swivel regolabili"
+      },
+      "verified_at": "2026-10-01",
+      "source": {
+        "name": "LG Italia – UltraGear OLED 27GS95QE-B",
+        "url": "https://www.lg.com/it/monitor/gaming/27gs95qe-b/"
+      }
+    },
+    {
+      "guide_slug": "migliori-smartwatch",
+      "brand": "Samsung",
+      "model": "Galaxy Watch8 44 mm Bluetooth",
+      "aliases": [
+        "samsung galaxy watch8 44",
+        "galaxy watch8 44",
+        "sm-l330"
+      ],
+      "mpn": [
+        "SM-L330"
+      ],
+      "eans": [],
+      "highlights": [
+        "GPS L1 + L5",
+        "32 GB",
+        "NFC"
+      ],
+      "specifications": {
+        "Compatibilità": "Smartphone Samsung Galaxy con Android 12 o superiore",
+        "Display": "1,5 pollici (37,3 mm)",
+        "GPS": "Doppia banda L1 e L5",
+        "Sensori": "Bioimpedenza, sensore cardiaco elettrico e ottico, temperatura IR, accelerometro, barometro, giroscopio e altri dichiarati",
+        "Memoria": "32 GB; spazio utente indicato come circa 63% della capacità",
+        "Connettività": "Bluetooth 5.3 e NFC",
+        "Dimensioni": "46,0 × 43,7 × 8,6 mm",
+        "Peso": "34 g"
+      },
+      "verified_at": "2026-10-01",
+      "source": {
+        "name": "Samsung Italia – Galaxy Watch8 44 mm Bluetooth",
+        "url": "https://www.samsung.com/it/watches/galaxy-watch/galaxy-watch8-44mm-graphite-bluetooth-sm-l330ndaaitv/"
+      }
+    },
+    {
+      "guide_slug": "cuffie-bluetooth-in-offerta",
+      "brand": "Sony",
+      "model": "WH-1000XM6",
+      "aliases": [
+        "sony wh-1000xm6",
+        "wh 1000xm6",
+        "wh1000xm6"
+      ],
+      "mpn": [
+        "WH-1000XM6"
+      ],
+      "eans": [],
+      "highlights": [
+        "Noise Cancelling",
+        "Multipoint",
+        "Fino a 30 h con NC"
+      ],
+      "specifications": {
+        "Formato": "Ad archetto chiuso",
+        "Noise Cancelling": "Sì",
+        "Multipoint": "Sì",
+        "Bluetooth": "5.3",
+        "Codec": "SBC, AAC, LDAC e LC3",
+        "Autonomia dichiarata": "Fino a 30 ore con NC attivo; fino a 40 ore con NC disattivato",
+        "Peso": "Circa 254 g",
+        "Microfono": "MEMS omnidirezionale"
+      },
+      "verified_at": "2026-10-01",
+      "source": {
+        "name": "Sony Italia – WH-1000XM6, specifiche",
+        "url": "https://www.sony.it/electronics/support/wireless-headphones-bluetooth-headphones/wh-1000xm6/specifications"
+      }
+    },
+    {
+      "guide_slug": "aspirapolvere-senza-fili-in-offerta",
+      "brand": "Dyson",
+      "model": "Gen5detect Absolute",
+      "aliases": [
+        "dyson gen5detect absolute",
+        "dyson gen5 detect absolute",
+        "gen5detect"
+      ],
+      "mpn": [
+        "447002-01"
+      ],
+      "eans": [],
+      "highlights": [
+        "Mini turbospazzola anti-groviglio",
+        "Digital Motorbar",
+        "Schermo LCD"
+      ],
+      "specifications": {
+        "Motore": "Dyson Gen5 Hyperdymium",
+        "Spazzole": "Digital Motorbar e mini turbospazzola anti-groviglio incluse nella variante Absolute indicata",
+        "Display": "Schermo LCD",
+        "Ricarica": "Circa 4,5 ore dichiarate",
+        "Sistema cicloni": "14 cicloni dichiarati"
+      },
+      "verified_at": "2026-10-01",
+      "source": {
+        "name": "Dyson Italia – Gen5detect Absolute",
+        "url": "https://www.dyson.it/aspirapolvere/senza-filo/gen5detect/absolute-rame-blu"
+      }
+    },
+    {
+      "guide_slug": "migliori-lavatrici",
+      "brand": "Bosch",
+      "model": "Serie 8 WGB264A0IT",
+      "aliases": [
+        "bosch wgb264a0it",
+        "wgb264a0it"
+      ],
+      "mpn": [
+        "WGB264A0IT"
+      ],
+      "eans": [],
+      "highlights": [
+        "11 kg",
+        "1.400 giri/min",
+        "845 × 598 × 590 mm"
+      ],
+      "specifications": {
+        "Carico": "11 kg",
+        "Centrifuga massima": "1.400 giri/min",
+        "Dimensioni": "845 × 598 × 590 mm",
+        "Classe energetica": "A",
+        "Protezione perdite": "AquaStop dichiarato",
+        "Connettività": "Home Connect Wi-Fi dichiarato"
+      },
+      "verified_at": "2026-10-01",
+      "source": {
+        "name": "Bosch Italia – WGB264A0IT",
+        "url": "https://www.bosch-home.com/it/it/mkt-product/lavatrici-e-asciugatrici/lavatrici/lavatrici-a-carica-frontale/WGB264A0IT"
+      }
+    },
+    {
+      "guide_slug": "migliori-frigoriferi",
+      "brand": "Samsung",
+      "model": "Bespoke AI RB38C7B6AS9/EF",
+      "aliases": [
+        "samsung rb38c7b6as9",
+        "rb38c7b6as9",
+        "bespoke ai 387l"
+      ],
+      "mpn": [
+        "RB38C7B6AS9/EF"
+      ],
+      "eans": [],
+      "highlights": [
+        "387 L",
+        "Classe A",
+        "35 dBA"
+      ],
+      "specifications": {
+        "Capacità": "387 L; frigorifero 273 L, freezer 114 L",
+        "Dimensioni": "595 × 2.030 × 658 mm",
+        "Classe energetica": "A",
+        "Consumo": "108 kWh/anno",
+        "Rumorosità": "35 dBA",
+        "No Frost": "No Frost Premium",
+        "Raffreddamento": "Twin Cooling Plus",
+        "Wi-Fi": "Integrato"
+      },
+      "verified_at": "2026-10-01",
+      "source": {
+        "name": "Samsung Italia – RB38C7B6AS9/EF",
+        "url": "https://www.samsung.com/it/refrigerators/bottom-mount-freezer/bespoke-bmfreezer-with-smartthings-ai-energy-mode-387l-silver-rb38c7b6as9-ef/"
+      }
+    },
+    {
+      "guide_slug": "friggitrici-ad-aria-offerte-confronto",
+      "brand": "Ninja",
+      "model": "Foodi MAX Dual Zone AF400EU",
+      "aliases": [
+        "ninja af400eu",
+        "foodi max dual zone af400eu"
+      ],
+      "mpn": [
+        "AF400EU"
+      ],
+      "eans": [],
+      "highlights": [
+        "9,5 L",
+        "Due zone di cottura",
+        "DualZone"
+      ],
+      "specifications": {
+        "Capacità": "9,5 L",
+        "Cestelli": "Due zone di cottura",
+        "Tecnologia": "DualZone",
+        "Modello": "AF400EU"
+      },
+      "verified_at": "2026-10-01",
+      "source": {
+        "name": "Ninja Italia – guida AF400EU",
+        "url": "https://ninjakitchen.it/INTERSHOP/web/WFS/SharkNinja-IT-Site/it_IT/ninjait/EUR/ViewProductAttachment-OpenFile?FileName=AF400EU_IG_IT_MP_220311_Mv1_LR.pdf&UnitName=SharkNinja-IT"
+      }
+    },
+    {
+      "guide_slug": "migliori-console-gaming",
+      "brand": "Sony",
+      "model": "PlayStation 5 Slim 1 TB",
+      "aliases": [
+        "playstation 5 slim 1tb",
+        "ps5 slim 1tb",
+        "ps5 cfi 2100"
+      ],
+      "mpn": [
+        "CFI-2100"
+      ],
+      "eans": [],
+      "highlights": [
+        "SSD 1 TB",
+        "Feedback aptico",
+        "Grilletti adattivi"
+      ],
+      "specifications": {
+        "Versione": "Console PS5 gruppo modello CFI-2100 slim",
+        "Archiviazione": "SSD 1 TB",
+        "Controller": "DualSense con feedback aptico e grilletti adattivi",
+        "Audio": "Audio 3D dichiarato"
+      },
+      "verified_at": "2026-10-01",
+      "source": {
+        "name": "PlayStation Italia – Console PS5 1 TB",
+        "url": "https://direct.playstation.com/it-it/buy-consoles/playstation5-console-1-tb"
+      }
+    },
+    {
+      "guide_slug": "migliori-sneakers",
+      "brand": "Nike",
+      "model": "Pegasus 41",
+      "aliases": [
+        "nike pegasus 41",
+        "pegasus 41"
+      ],
+      "mpn": [],
+      "eans": [],
+      "highlights": [
+        "Running su strada",
+        "Due unità Air Zoom",
+        "Schiuma ReactX"
+      ],
+      "specifications": {
+        "Uso dichiarato": "Running su strada",
+        "Intersuola": "Schiuma ReactX con due unità Air Zoom",
+        "Tomaia": "Mesh tecnico traspirante",
+        "Suola": "Gomma con motivo waffle"
+      },
+      "verified_at": "2026-10-01",
+      "source": {
+        "name": "Nike Italia – Pegasus 41",
+        "url": "https://www.nike.com/it/t/scarpa-da-running-su-strada-pegasus-41-aFqqhluh"
+      }
+    },
+    {
+      "guide_slug": "migliori-sneakers",
+      "brand": "adidas",
+      "model": "Samba OG",
+      "aliases": [
+        "adidas samba og",
+        "samba og b75807",
+        "b75807"
+      ],
+      "mpn": [
+        "B75807"
+      ],
+      "eans": [],
+      "highlights": [
+        "Tomaia in pelle pieno fiore",
+        "Rivestimenti in suede",
+        "Suola in gomma"
+      ],
+      "specifications": {
+        "Tomaia": "Pelle pieno fiore con rivestimenti in suede",
+        "Fodera": "Materiale sintetico",
+        "Intersuola": "Gomma naturale",
+        "Suola": "Gomma",
+        "Uso dichiarato": "Sneaker lifestyle: verificare taglia e vestibilità sulla pagina della variante"
+      },
+      "verified_at": "2026-10-01",
+      "source": {
+        "name": "adidas Italia – Samba OG B75807",
+        "url": "https://www.adidas.it/scarpe-samba-og/B75807.html"
+      }
+    },
+    {
+      "guide_slug": "migliori-moda",
+      "brand": "adidas",
+      "model": "Samba OG",
+      "aliases": [
+        "adidas samba og",
+        "samba og b75807",
+        "b75807"
+      ],
+      "mpn": [
+        "B75807"
+      ],
+      "eans": [],
+      "highlights": [
+        "Tomaia in pelle pieno fiore",
+        "Rivestimenti in suede",
+        "Suola in gomma"
+      ],
+      "specifications": {
+        "Materiali tomaia": "Pelle pieno fiore con rivestimenti in suede",
+        "Fodera": "Materiale sintetico",
+        "Intersuola": "Gomma naturale",
+        "Suola": "Gomma",
+        "Vestibilità": "Verificare guida taglie e reso sulla pagina della variante"
+      },
+      "verified_at": "2026-10-01",
+      "source": {
+        "name": "adidas Italia – Samba OG B75807",
+        "url": "https://www.adidas.it/scarpe-samba-og/B75807.html"
+      }
+    },
+    {
+      "guide_slugs": [
+        "smartphone-in-offerta",
+        "migliori-smartphone-sotto-300-euro"
+      ],
+      "brand": "Samsung",
+      "model": "Galaxy Z Flip5",
+      "aliases": [
+        "samsung galaxy z flip5",
+        "galaxy z flip5",
+        "galaxy z flip 5"
+      ],
+      "mpn": [],
+      "eans": [],
+      "highlights": [
+        "OIS sulla fotocamera principale",
+        "Due fotocamere posteriori"
+      ],
+      "specifications": {
+        "Fotocamere posteriori": "Principale 12 MP con OIS e ultragrandangolare 12 MP",
+        "Zoom": "Digitale; nessun teleobiettivo dedicato"
+      },
+      "verified_filter_tokens": {
+        "ois": true,
+        "telephoto": false,
+        "photo_rec": true
+      },
+      "source": {
+        "name": "Samsung Italia – Galaxy Z Flip5",
+        "url": "https://www.samsung.com/it/smartphones/galaxy-z/galaxy-z-flip5-lavender-256gb-sm-f731bligeue/"
+      },
+      "verified_at": "2026-10-22"
+    }
   ]
 }
