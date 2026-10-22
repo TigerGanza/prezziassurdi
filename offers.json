@@ -1,5 +1,48 @@
 [
   {
+    "asin": "W0BA1B0DD7",
+    "title": "LG InstaView GSXV91MCAE Side by Side Door in DoorTM 635lt Classe energetica E",
+    "price": 1449.0,
+    "old_price": 4099.0,
+    "discount": 64.6,
+    "image": "https://www.unieuro.it/medias/sys_master/root/ha1/hb2/52057240010782/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-09a07fa8fabad75d46df7df0442a60fb-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
+    "url": "https://www.awin1.com/pclick.php?p=31054668013&a=3086723&m=10139",
+    "category": "altro",
+    "macro_group": "awin_discovery",
+    "seasonal_title": "Offerta Unieuro",
+    "published_at": "2026-10-22T06:23:47.609275+02:00",
+    "source_merchant": "unieuro",
+    "source_external_id": "GOLGSXV91MCAE",
+    "quality_status": "ready",
+    "quality_issues": [],
+    "merchant_offers": [
+      {
+        "merchant": "unieuro",
+        "merchant_name": "Unieuro",
+        "merchant_id": "10139",
+        "product_id": "GOLGSXV91MCAE",
+        "awin_product_id": "31054668013",
+        "title": "LG InstaView GSXV91MCAE Side by Side Door in DoorTM 635lt Classe energetica E",
+        "brand": "LG",
+        "ean": "8806091270320",
+        "mpn": "GSXV91MCAE.AMCQEU",
+        "price": 1449.0,
+        "old_price": 4099.0,
+        "discount": 64.6,
+        "image": "https://www.unieuro.it/medias/sys_master/root/ha1/hb2/52057240010782/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-09a07fa8fabad75d46df7df0442a60fb-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
+        "url": "https://www.awin1.com/pclick.php?p=31054668013&a=3086723&m=10139",
+        "category": "Frigoriferi",
+        "category_path": "",
+        "availability": "in_stock",
+        "last_updated": "",
+        "attributes": {}
+      }
+    ],
+    "merchant_match_score": 100,
+    "merchant_ean": "8806091270320",
+    "merchant_prices_checked_at": "2026-10-22T05:53:03.057963+02:00"
+  },
+  {
     "asin": "W60B60E75B",
     "title": "I principi della matematica - DVD",
     "price": 12.58,
@@ -1848,22 +1891,5 @@
     "merchant_match_score": 100,
     "merchant_ean": "8806097341987",
     "merchant_prices_checked_at": "2026-10-21T13:00:55.832134+02:00"
-  },
-  {
-    "asin": "B0GYP8RWY6",
-    "title": "COMFEE' Asciugatrice Pompa di Calore 8 kg Asciugatura 35' EcoDry",
-    "price": 319.9,
-    "old_price": 389.9,
-    "discount": 18.0,
-    "image": "https://m.media-amazon.com/images/I/41dIb6-i5hL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0GYP8RWY6?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "lavaggio_stiro",
-    "macro_group": "casa_cucina",
-    "seasonal_title": "",
-    "published_at": "2026-10-21T14:20:18.799912+02:00",
-    "source_merchant": "amazon",
-    "source_external_id": "",
-    "quality_status": "ready",
-    "quality_issues": []
   }
 ]
