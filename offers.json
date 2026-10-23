@@ -1,5 +1,39 @@
 [
   {
+    "asin": "B0F71KSBJD",
+    "title": "Regolabarba Philips serie 5000 - Lame in metallo autoaffilanti, 40 impostazioni di lunghezza, tecnologia BeardSense, raccoglitore peli, impermeabile, pettine sfumatura, custodia da viaggio, BT5785/30",
+    "price": 55.5,
+    "old_price": 74.99,
+    "discount": 26.0,
+    "image": "https://m.media-amazon.com/images/I/41tyPw7XWzL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0F71KSBJD?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "beauty_pro",
+    "macro_group": "cura_persona",
+    "seasonal_title": "",
+    "published_at": "2026-10-23T13:21:04.275547+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
+    "asin": "B0F2YJ13QX",
+    "title": "Braun Rasoio Elettrico Barba e Capelli Serie 3, Accessori, AIO3500, Grigio | Rifinitore All-in-One 4in1 con Lama Ultra Affilata, Regolabarba Uomo, 14 Lunghezze, per Viso e Capelli, 50 Min di Autonomia",
+    "price": 29.99,
+    "old_price": 44.99,
+    "discount": 33.0,
+    "image": "https://m.media-amazon.com/images/I/41M0SNXIxqL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0F2YJ13QX?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "beauty_pro",
+    "macro_group": "cura_persona",
+    "seasonal_title": "",
+    "published_at": "2026-10-23T13:21:04.239505+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B0GT64C7L7",
     "title": "Hisense FT100N1BWE NUOVO Congelatore a Pozzetto con capacità 97 litri, Silenzioso MAX 40 dB, Bianco",
     "price": 145.99,
@@ -2460,70 +2494,5 @@
     "merchant_match_score": 100,
     "merchant_ean": "8806096798263",
     "merchant_prices_checked_at": "2026-10-23T05:22:07.830860+02:00"
-  },
-  {
-    "asin": "WC5D00C3F3",
-    "title": "SMACCHIATORE BISSELL SpotClean C2 20671, Potenza 340 W, Titanium, Silver Gray & Cha Lime",
-    "price": 79.99,
-    "old_price": 169.99,
-    "discount": 52.9,
-    "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_184361368/fee_786_587_png",
-    "url": "https://www.awin1.com/pclick.php?p=46206794745&a=3086723&m=18529",
-    "category": "altro",
-    "macro_group": "awin_discovery",
-    "seasonal_title": "Offerta MediaWorld",
-    "published_at": "2026-10-23T06:20:24.861670+02:00",
-    "source_merchant": "mediaworld",
-    "source_external_id": "760401",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "mediaworld",
-        "merchant_name": "MediaWorld",
-        "merchant_id": "18529",
-        "product_id": "760401",
-        "awin_product_id": "46206794745",
-        "title": "SMACCHIATORE BISSELL SpotClean C2 20671, Potenza 340 W, Titanium, Silver Gray & Cha Lime",
-        "brand": "Bissell",
-        "ean": "0011120274707",
-        "mpn": "A000002538",
-        "price": 79.99,
-        "old_price": 169.99,
-        "discount": 52.9,
-        "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_184361368/fee_786_587_png",
-        "url": "https://www.awin1.com/pclick.php?p=46206794745&a=3086723&m=18529",
-        "category": "Pulizia e Stiro;Scope Elettriche;Lavapavimenti",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {
-          "ambiguous_attributes": [
-            "color"
-          ],
-          "power_w": 340.0
-        }
-      }
-    ],
-    "merchant_match_score": 100,
-    "merchant_ean": "0011120274707",
-    "merchant_prices_checked_at": "2026-10-23T05:22:07.830860+02:00"
-  },
-  {
-    "asin": "B095K1SCM3",
-    "title": "Finish Powergel Detersivo Lavastoviglie Fresh, 120 Lavaggi, 4 x 30",
-    "price": 19.56,
-    "old_price": 21.99,
-    "discount": 11.0,
-    "image": "https://m.media-amazon.com/images/I/41N+XRqZ2qL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B095K1SCM3?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "pulizia",
-    "macro_group": "cura_persona",
-    "seasonal_title": "",
-    "published_at": "2026-10-23T06:15:30.185911+02:00",
-    "source_merchant": "amazon",
-    "source_external_id": "",
-    "quality_status": "ready",
-    "quality_issues": []
   }
 ]
