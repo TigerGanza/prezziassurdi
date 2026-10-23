@@ -1,5 +1,22 @@
 [
   {
+    "asin": "B089F2XKNX",
+    "title": "Fuze Tea, Tè Freddo, Gusto Pesca e Rosa, 12 Bottiglie da 400 ml | Bevanda analcolica al te, con zuccheri ed edulcorante, gusto rinfrescante",
+    "price": 8.28,
+    "old_price": 11.14,
+    "discount": 26.0,
+    "image": "https://m.media-amazon.com/images/I/41oOfFVHGGL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B089F2XKNX?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "bevande_analcoliche",
+    "macro_group": "spesa_bevande",
+    "seasonal_title": "",
+    "published_at": "2026-10-23T14:00:36.725280+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B0DJ94593V",
     "title": "Puma Scarpe Unisex Ultra 6 Play Fg/AgSoccer, Puma Nero Fizzy Verde Chiaro Terreno, 42 EU",
     "price": 35.99,
@@ -2217,72 +2234,6 @@
     ],
     "merchant_match_score": 100,
     "merchant_ean": "4242005548460",
-    "merchant_prices_checked_at": "2026-10-23T06:42:38.577345+02:00"
-  },
-  {
-    "asin": "WEC0476EF1",
-    "title": "SAMSUNG OLED AI TV 83\" QE83S85HAEXZT 4K, Processore NQ4 Gen2, 4K Upscaling, Schermo antiriflesso, HDR, Motion Xcelerator 120Hz, Dolby Atmos & OTS Lite, Contour Design, Vision Smart TV, 2026",
-    "price": 2299.0,
-    "old_price": 4399.0,
-    "discount": 47.7,
-    "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_186142792/fee_786_587_png",
-    "url": "https://www.awin1.com/pclick.php?p=45161748453&a=3086723&m=18529",
-    "category": "tv-audio",
-    "macro_group": "awin_discovery",
-    "seasonal_title": "Offerta MediaWorld",
-    "published_at": "2026-10-23T06:50:25.309533+02:00",
-    "source_merchant": "mediaworld",
-    "source_external_id": "580494",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "mediaworld",
-        "merchant_name": "MediaWorld",
-        "merchant_id": "18529",
-        "product_id": "580494",
-        "awin_product_id": "45161748453",
-        "title": "SAMSUNG OLED AI TV 83\" QE83S85HAEXZT 4K, Processore NQ4 Gen2, 4K Upscaling, Schermo antiriflesso, HDR, Motion Xcelerator 120Hz, Dolby Atmos & OTS Lite, Contour Design, Vision Smart TV, 2026",
-        "brand": "Samsung",
-        "ean": "8806097969686",
-        "mpn": "QE83S85HAEXZT",
-        "price": 2299.0,
-        "old_price": 4399.0,
-        "discount": 47.7,
-        "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_186142792/fee_786_587_png",
-        "url": "https://www.awin1.com/pclick.php?p=45161748453&a=3086723&m=18529",
-        "category": "TV e Home Cinema;TV;TV OLED",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {
-          "screen_inches": 83.0
-        }
-      },
-      {
-        "merchant": "unieuro",
-        "merchant_name": "Unieuro",
-        "merchant_id": "10139",
-        "product_id": "SAMQE83S85H",
-        "awin_product_id": "45223549430",
-        "title": "Samsung 83'' OLED S85H 4K Vision AI Smart TV (2026)",
-        "brand": "Samsung",
-        "ean": "8806097969686",
-        "mpn": "QE83S85HAEXZT",
-        "price": 2599.0,
-        "old_price": 4399.0,
-        "discount": 40.9,
-        "image": "https://www.unieuro.it/medias/sys_master/root/h2c/h9f/64905042329630/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-4bc37477a985c147e245ba833319a61f-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-        "url": "https://www.awin1.com/pclick.php?p=45223549430&a=3086723&m=10139",
-        "category": "TV Led",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {}
-      }
-    ],
-    "merchant_match_score": 100,
-    "merchant_ean": "8806097969686",
     "merchant_prices_checked_at": "2026-10-23T06:42:38.577345+02:00"
   }
 ]
