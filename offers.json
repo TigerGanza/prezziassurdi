@@ -1,5 +1,22 @@
 [
   {
+    "asin": "B017T0A9AY",
+    "title": "Poli, Grappa Sarpa Oro Riserva Barrique - 700 ml",
+    "price": 20.0,
+    "old_price": 26.0,
+    "discount": 23.0,
+    "image": "https://m.media-amazon.com/images/I/31s6VgsayOL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B017T0A9AY?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "spirits",
+    "macro_group": "spesa_bevande",
+    "seasonal_title": "",
+    "published_at": "2026-10-23T13:10:25.653377+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B0DPGKYKR3",
     "title": "Bellavista Alma Assemblage Extra Brut – Franciacorta DOCG - Uve Chardonnay, Pinot Nero, Pinot Bianco – 750 ml",
     "price": 27.9,
@@ -2508,48 +2525,5 @@
     "source_external_id": "",
     "quality_status": "ready",
     "quality_issues": []
-  },
-  {
-    "asin": "W5669C9A79",
-    "title": "Braun EasyClick Accessorio Spazzola Per La Pulizia Per Rasoio Elettrico Series 5, 6 E 7 (Nuova Generazione)",
-    "price": 12.99,
-    "old_price": 34.99,
-    "discount": 62.9,
-    "image": "https://www.unieuro.it/medias/sys_master/root/h94/h8c/51102838718494/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-c15bba7e93ea2b046000c02a81ab7b3a-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-    "url": "https://www.awin1.com/pclick.php?p=27486177119&a=3086723&m=10139",
-    "category": "cura-persona",
-    "macro_group": "awin_discovery",
-    "seasonal_title": "Offerta Unieuro",
-    "published_at": "2026-10-23T06:07:20.449933+02:00",
-    "source_merchant": "unieuro",
-    "source_external_id": "BRASPAZZOLAVISO",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "unieuro",
-        "merchant_name": "Unieuro",
-        "merchant_id": "10139",
-        "product_id": "BRASPAZZOLAVISO",
-        "awin_product_id": "27486177119",
-        "title": "Braun EasyClick Accessorio Spazzola Per La Pulizia Per Rasoio Elettrico Series 5, 6 E 7 (Nuova Generazione)",
-        "brand": "Braun",
-        "ean": "4210201264811",
-        "mpn": "SPAZZOLAPULIZIAVISO",
-        "price": 12.99,
-        "old_price": 34.99,
-        "discount": 62.9,
-        "image": "https://www.unieuro.it/medias/sys_master/root/h94/h8c/51102838718494/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-c15bba7e93ea2b046000c02a81ab7b3a-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-        "url": "https://www.awin1.com/pclick.php?p=27486177119&a=3086723&m=10139",
-        "category": "Rasoi e Regolabarba",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {}
-      }
-    ],
-    "merchant_match_score": 100,
-    "merchant_ean": "4210201264811",
-    "merchant_prices_checked_at": "2026-10-23T05:22:07.830860+02:00"
   }
 ]
