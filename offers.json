@@ -1,5 +1,39 @@
 [
   {
+    "asin": "B08S2Z2V6C",
+    "title": "TopStrong Robot da Cucina Multifunzione e Frullatore, 1100W, 11 in 1 Food Processor, (Gancio per impastare, Frullatore, Spremiagrumi e macinacaffè) Capacità 3.2L",
+    "price": 72.98,
+    "old_price": 109.74,
+    "discount": 33.0,
+    "image": "https://m.media-amazon.com/images/I/51AuU8nklUL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B08S2Z2V6C?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "cucina",
+    "macro_group": "casa_cucina",
+    "seasonal_title": "",
+    "published_at": "2026-10-23T15:25:32.676714+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
+    "asin": "B0GHML3Y7Q",
+    "title": "Anysea Epilatore Luce Pulsata con Funzione di Raffreddamento：Luce Pulsata Epilatore con 3 Modalità, Scorrimento Continuo Automatico, Luce Pulsata Per Donne e Uomini, Ascelle, Tutto il Corpo, Viola",
+    "price": 36.09,
+    "old_price": 54.99,
+    "discount": 34.0,
+    "image": "https://m.media-amazon.com/images/I/41zTDlOWQsL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0GHML3Y7Q?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "beauty_pro",
+    "macro_group": "cura_persona",
+    "seasonal_title": "",
+    "published_at": "2026-10-23T15:20:46.117371+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B0BDDM8VMH",
     "title": "JYX Karaoke con 2 Microfono Wireless, 800W Cassa Bluetooth Grande, IPX4 Sistema PA Subwoofer, Bluetooth 5.3, luce Discoteca RGB, Canta tu Professionale Completo per Adulti, Supporta TF/USB, AUX, Rec",
     "price": 187.71,
@@ -1955,67 +1989,5 @@
     "merchant_match_score": 100,
     "merchant_ean": "8021098006134",
     "merchant_prices_checked_at": "2026-10-23T06:42:38.577345+02:00"
-  },
-  {
-    "asin": "WF5CD7A81E",
-    "title": "LG OLED evo AI G6S OLED48G66 TV OLED, SMART TV, 48 \", Processore a11 4K Gen3, Classe E",
-    "price": 999.0,
-    "old_price": 1799.0,
-    "discount": 44.5,
-    "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_184656338/fee_786_587_png",
-    "url": "https://www.awin1.com/pclick.php?p=44760600243&a=3086723&m=18529",
-    "category": "tv-audio",
-    "macro_group": "awin_discovery",
-    "seasonal_title": "Offerta MediaWorld",
-    "published_at": "2026-10-23T07:21:17.304978+02:00",
-    "source_merchant": "mediaworld",
-    "source_external_id": "581435",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "mediaworld",
-        "merchant_name": "MediaWorld",
-        "merchant_id": "18529",
-        "product_id": "581435",
-        "awin_product_id": "44760600243",
-        "title": "LG OLED evo AI G6S OLED48G66 TV OLED, SMART TV, 48 \", Processore a11 4K Gen3, Classe E",
-        "brand": "LG",
-        "ean": "8806096743263",
-        "mpn": "OLED48G66LS.API",
-        "price": 999.0,
-        "old_price": 1799.0,
-        "discount": 44.5,
-        "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_184656338/fee_786_587_png",
-        "url": "https://www.awin1.com/pclick.php?p=44760600243&a=3086723&m=18529",
-        "category": "TV e Home Cinema;TV;TV OLED",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {
-          "screen_inches": 48.0
-        }
-      }
-    ],
-    "merchant_match_score": 100,
-    "merchant_ean": "8806096743263",
-    "merchant_prices_checked_at": "2026-10-23T06:42:38.577345+02:00"
-  },
-  {
-    "asin": "B0GLRG2L4R",
-    "title": "Sunsilk Kit Keratin System Set 3 Prodotti Capelli Lisci Anticrespo | Shampoo 250ml + Balsamo 180ml + Siero Termoprotettore 200ml, con Cheratina e Ultra Liss Complex, 72 Ore di Capelli Lisci*",
-    "price": 11.2,
-    "old_price": 14.0,
-    "discount": 20.0,
-    "image": "https://m.media-amazon.com/images/I/41nu43VF7hL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0GLRG2L4R?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "beauty_pro",
-    "macro_group": "cura_persona",
-    "seasonal_title": "",
-    "published_at": "2026-10-23T07:15:25.585627+02:00",
-    "source_merchant": "amazon",
-    "source_external_id": "",
-    "quality_status": "ready",
-    "quality_issues": []
   }
 ]
