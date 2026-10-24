@@ -1,5 +1,22 @@
 [
   {
+    "asin": "B00TFB0YX8",
+    "title": "Optimum Nutrition Gold Standard Pre-Workout in Polvere, 330g, 30 Porzioni | Anguria, 3,4 g di Creatina Monoidrato, 175 mg di Caffeina Naturale, Beta-Alanina, Favorisce Energia e Concentrazione",
+    "price": 24.9,
+    "old_price": 32.99,
+    "discount": 25.0,
+    "image": "https://m.media-amazon.com/images/I/41AHTQTujCL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B00TFB0YX8?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "integratori_preworkout",
+    "macro_group": "tempo_libero",
+    "seasonal_title": "",
+    "published_at": "2026-10-24T20:29:50.849949+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B000G0G8NM",
     "title": "Riso Scotti - Riso Carnaroli - Riso per Risotti Superfino Pronto in 16' - 1 kg",
     "price": 1.99,
@@ -2519,49 +2536,6 @@
     ],
     "merchant_match_score": 100,
     "merchant_ean": "8055519905263",
-    "merchant_prices_checked_at": "2026-10-24T04:51:05.861067+02:00"
-  },
-  {
-    "asin": "WC3FE1F2B3",
-    "title": "Elettrocasa AS 8 Piastra del ferro da stiro",
-    "price": 5.64,
-    "old_price": 14.99,
-    "discount": 62.4,
-    "image": "https://www.unieuro.it/medias/sys_master/root/h15/hd9/50336817807390/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-0a0222ca1ff3126a09008995d5b26f6f-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-    "url": "https://www.awin1.com/pclick.php?p=26312366653&a=3086723&m=10139",
-    "category": "casa",
-    "macro_group": "awin_discovery",
-    "seasonal_title": "Offerta Unieuro",
-    "published_at": "2026-10-24T06:05:28.456778+02:00",
-    "source_merchant": "unieuro",
-    "source_external_id": "ECAAS8",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "unieuro",
-        "merchant_name": "Unieuro",
-        "merchant_id": "10139",
-        "product_id": "ECAAS8",
-        "awin_product_id": "26312366653",
-        "title": "Elettrocasa AS 8 Piastra del ferro da stiro",
-        "brand": "Elettrocasa",
-        "ean": "8016637150096",
-        "mpn": "AS8",
-        "price": 5.64,
-        "old_price": 14.99,
-        "discount": 62.4,
-        "image": "https://www.unieuro.it/medias/sys_master/root/h15/hd9/50336817807390/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-0a0222ca1ff3126a09008995d5b26f6f-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-        "url": "https://www.awin1.com/pclick.php?p=26312366653&a=3086723&m=10139",
-        "category": "Accessori Pulizia",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {}
-      }
-    ],
-    "merchant_match_score": 100,
-    "merchant_ean": "8016637150096",
     "merchant_prices_checked_at": "2026-10-24T04:51:05.861067+02:00"
   }
 ]
