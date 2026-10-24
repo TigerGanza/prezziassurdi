@@ -1,5 +1,22 @@
 [
   {
+    "asin": "B0H8NXFXCQ",
+    "title": "Tablet Android 16 11 Pollici, 32GB RAM 256GB ROM 1TB Espandibile, Batteria 7800mAh, Processore Penta-Core, WiFi 6, Schermo HD IPS, Doppia Fotocamera",
+    "price": 119.99,
+    "old_price": 149.99,
+    "discount": 20.0,
+    "image": "https://m.media-amazon.com/images/I/51gE-QTFBEL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0H8NXFXCQ?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "tablet_pro",
+    "macro_group": "tech",
+    "seasonal_title": "",
+    "published_at": "2026-10-24T22:29:29.396998+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B09PZ7TFPY",
     "title": "Skechers Bobs B Extra Carino, Scarpe da ginnastica Donna, Nero, 40 EU",
     "price": 35.99,
@@ -1930,51 +1947,6 @@
     ],
     "merchant_match_score": 100,
     "merchant_ean": "4255591562871",
-    "merchant_prices_checked_at": "2026-10-24T06:22:08.600348+02:00"
-  },
-  {
-    "asin": "WB9ACB74B1",
-    "title": "Epson Kiwi Singlepack Photo Black 202 Claria Premium Ink",
-    "price": 6.99,
-    "old_price": 17.99,
-    "discount": 61.1,
-    "image": "https://www.unieuro.it/medias/sys_master/root/h31/hb1/61625762414622/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-4f88e29ea940865b5af4161d38a8603f-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-    "url": "https://www.awin1.com/pclick.php?p=21673740593&a=3086723&m=10139",
-    "category": "altro",
-    "macro_group": "awin_discovery",
-    "seasonal_title": "Offerta Unieuro",
-    "published_at": "2026-10-24T07:51:01.899714+02:00",
-    "source_merchant": "unieuro",
-    "source_external_id": "EPSC13T02F14020",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "unieuro",
-        "merchant_name": "Unieuro",
-        "merchant_id": "10139",
-        "product_id": "EPSC13T02F14020",
-        "awin_product_id": "21673740593",
-        "title": "Epson Kiwi Singlepack Photo Black 202 Claria Premium Ink",
-        "brand": "Epson",
-        "ean": "8715946646213",
-        "mpn": "C13T02F14020",
-        "price": 6.99,
-        "old_price": 17.99,
-        "discount": 61.1,
-        "image": "https://www.unieuro.it/medias/sys_master/root/h31/hb1/61625762414622/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-4f88e29ea940865b5af4161d38a8603f-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-        "url": "https://www.awin1.com/pclick.php?p=21673740593&a=3086723&m=10139",
-        "category": "Cartucce, Toner e Consumabili",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {
-          "color": "black"
-        }
-      }
-    ],
-    "merchant_match_score": 100,
-    "merchant_ean": "8715946646213",
     "merchant_prices_checked_at": "2026-10-24T06:22:08.600348+02:00"
   }
 ]
