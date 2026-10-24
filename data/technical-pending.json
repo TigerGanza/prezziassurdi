@@ -1,17 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-10-24T14:09:33+02:00",
+  "generated_at": "2026-10-24T15:49:33+02:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
     "smartphone-in-offerta": [
-      {
-        "title": "Fujifilm Instax mini Link 3 Clay White, Mini Stampante per Smartphone | Stampa ad Alta Velocità, Effetti AR 3D Integrati, Modalità Click to Collage, Dimensioni Immagine 62 x 46 mm",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Blackview Wave 2C Smartphone Offerta Android 16, 12GB+32GB/1TB TF Cellulari Octa-Core, 5.0\", 4G Dual SIM Telefono Cellulare Offerta, WiFi 5G/3.5mm/ Face ID/3 Slot Eer Carte/3 Anni ",
         "merchant": "",
@@ -214,16 +207,16 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      }
-    ],
-    "migliori-smartphone-sotto-300-euro": [
+      },
       {
-        "title": "Fujifilm Instax mini Link 3 Clay White, Mini Stampante per Smartphone | Stampa ad Alta Velocità, Effetti AR 3D Integrati, Modalità Click to Collage, Dimensioni Immagine 62 x 46 mm",
-        "merchant": "amazon",
+        "title": "REDMI Note 17 Pro 5G, Smartphone 8+512GB, Black, Batteria da 8340 mAh | Fotocamera OIS 50MP, HyperCharge 67W, Snapdragon®6s Gen4, Display Flagship Alta Luminosità 3500nit, Protezio",
+        "merchant": "",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      },
+      }
+    ],
+    "migliori-smartphone-sotto-300-euro": [
       {
         "title": "Blackview Wave 2C Smartphone Offerta Android 16, 12GB+32GB/1TB TF Cellulari Octa-Core, 5.0\", 4G Dual SIM Telefono Cellulare Offerta, WiFi 5G/3.5mm/ Face ID/3 Slot Eer Carte/3 Anni ",
         "merchant": "",
@@ -775,6 +768,13 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
+      },
+      {
+        "title": "Ninkear S14 Laptop 14' 2.2K IPS AMD Ryzen 5 6600H 6 Core 4.55GHz 16GB LPDDR5X 1TB PCIe SSD WiFi 6 BT5.3 PD65W Ricarica Rapida 1kg Ultra Leggero Type C Windows 11,180 ° Hinge Finger",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
       }
     ],
     "migliori-pc-desktop": [
@@ -896,6 +896,13 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
+      },
+      {
+        "title": "SOYO M5 Mini PC AMD Ryzen 3 4300U LPDDR4 16GB RAM 512GB ROM Windows 11 Pro Mini Computer Desktop con Doppia Uscita Multi Schermo 4K WiFi Bluetooth Gigabit LAN Type C Micro PC Compa",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
       }
     ],
     "migliori-tablet": [
@@ -1014,6 +1021,13 @@
       {
         "title": "Samsung Galaxy Tab A11+ 5G 6+128GB Grau",
         "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Tablet Android ad alte prestazioni 2026, schermo da 10,36 pollici, batteria da 20000 mAh, memoria 16 GB + 1 TB, processore a 14 core, Android 13.0, versione globale, WiFi, fotocame",
+        "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
@@ -1203,6 +1217,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "Per Sundiro Honda CBF190TR 2018 2026 Srnubi, monitor digitale per cruscotto moto da 6,25 pollici, con Carplay wireless e Android Auto, display intelligente Bluetooth IP67 impermeab",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "OMEN by HP Monitor da gaming 27'' FHD 240 Hz – OMEN 27s",
         "merchant": "unieuro",
         "ean": "",
@@ -1338,7 +1359,21 @@
         "status": "da_verificare"
       },
       {
-        "title": "[DE Spedizione Veloce] Smartwatch uomo schermo HD 1,85″, chiamate Bluetooth, monitoraggio frequenza cardiaca e ossigeno nel sangue, fitness tracker, 100+ modalità sportive, imperme",
+        "title": "Smartwatch HUAWEI Watch GT 5 46mm originale con schermo AMOLED a colori da 1,43 pollici e durata della batteria fino a 2 settimane",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Nuovo Smartwatch OnePlus Watch 2 con Schermo AMOLED da 1,43'', Batteria da 500mAh, Oltre 100 Modalità Sportive, 2GB+32GB, 46mm, WiFi, GPS, IP68, Google Pay",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Smartwatch HUAWEI WATCH GT Runner 2",
         "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
@@ -1687,6 +1722,20 @@
     ],
     "cuffie-bluetooth-in-offerta": [
       {
+        "title": "Sony WF-C510 Auricolari True Wireless | In-Ear, Auricolari, Bluetooth, Multipoint, Suono Ambiente, IPX4, 22 h di Autonomia, iOS e Android, Giallo",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Sony WF-C510 Auricolari True Wireless | Auricolari In-Ear Bluetooth, multipoint, modalità trasparenza, IPX4, 22h di autonomia, iOS/Android, Blu",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Sony LinkBuds Auricolare True Wireless - Connessione Bluetooth® multipoint* - Batteria fino a 17,5h - Ottimizzate per Alexa e Google Assistant - Microfo",
         "merchant": "unieuro",
         "ean": "",
@@ -1736,8 +1785,22 @@
         "status": "da_verificare"
       },
       {
+        "title": "Sistema di monitoraggio wireless in ear YAMNWEO, sistema IEM professionale per palcoscenico, 200 canali regolabili, trasmissione a lunga distanza di 100 metri, cuffie con sistema d",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Eva Fruit Auricolari TWS in Ear Wireless Max Bianco",
         "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Mornystar S8 Interfono per moto Cuffie per casco 1200M 6 Rider Interfono Bluetooth Comunicazione Interfono GPS Impermeabile FM",
+        "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
@@ -1867,37 +1930,30 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "Philips 4000 series TAH4209BL/00 cuffia e auricolare Wireless A Padiglione Musica e Chiamate Bluetooth Blu",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Philips 4000 series TAH4209PK/00 cuffia e auricolare Wireless A Padiglione Musica e Chiamate Bluetooth Rosa",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Philips Serie 4000 TAH4209BK/00 cuffia e auricolare Wireless A Padiglione Musica e Chiamate Bluetooth Nero",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Philips Serie 4000 TAH4209WT/00 cuffia e auricolare Wireless A Padiglione Musica e Chiamate Bluetooth Bianco",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
       }
     ],
     "migliori-robot-aspirapolvere": [
+      {
+        "title": "dreame L40 Ultra A Robot Aspirapolvere Lavapavimenti, Aspirazione 24.000 Pa | Spazzola TriCut, Sollevamento Mocio 10,5 mm, Stazione Base Multifunzione, Auto-Pulizia Mocio e Rilevam",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "roborock Saros 20 Flow Complete Robot Aspirapolvere Lavapavimenti con Rullo | 8,98cm, 36.000Pa, Supera Ostacoli da 8,8cm, Anti-Groviglio, Evita Oltre 300 Oggetti, Lavaggio Mocio co",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "roborock Saros 20 Neo Robot Aspirapolvere Lavapavimenti con LDS Retrattile | 7,95cm, 36.000Pa, Supera Ostacoli da 8,8cm, Anti-Groviglio, Evita Oltre 300 Oggetti, Lavaggio Mocio con",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Eureka J12 Ultra Robot Aspirapolvere e Lavapavimenti con Stazione, Evitamento Ostacoli AI 3D, Autosvuotante per 75 Giorni, Autopulente, Autoasciugante de",
         "merchant": "unieuro",
@@ -2051,13 +2107,6 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "Roborock Q10 VF+ Robot Aspirapolvere e Lavapavimenti, Aspirazione HyperForce 10.000 Pa, Sistema VibraRise 2.0 con Vibrazione 3000/min, Navigazione Intell",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
       }
     ],
     "aspirapolvere-senza-fili-in-offerta": [
@@ -2104,7 +2153,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "Aspirapolvere portatile senza fili, potente aspirazione da 20000 Pa, funzione 9 in 1 per aspirare e soffiare, aspirapolvere per auto, aspirapolvere per peli di animali domestici, m",
+        "title": "400W 33000PA Potenza di aspirazione JR600 Cordless Wireless Aspirapolvere portatili per elettrodomestici per animali domestici 1L Tazza per la polvere Batteria rimovibile",
         "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
@@ -2593,6 +2642,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "Friggitrice ad Aria con Forno per Pizza da 12 Pollici, 2200W, 11 in 1 con Doppio Riscaldamento e Finestra di Visualizzazione, Capacità XL 4.2L, 360° ° Cottura a 360°, Senza Girare",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Ardes ARFRYA01 6,5 L Indipendente 1700 W Friggitrice ad aria calda Bianco",
         "merchant": "unieuro",
         "ean": "",
@@ -2679,6 +2735,34 @@
     ],
     "migliori-moda": [
       {
+        "title": "ON BIKE Doppia Borsa Per Portapacchi Posteriore 23 Litri | Borsa Doppia Bici Posteriore Impermeabile - Borse Antistrappo Con Cinghie E Bande Riflettenti Per City Bike Trekking E E-",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Asics Gel-Excite 11 Sneaker",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Asics Gel-Contend 10 Scarpe da Running",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Asics Gel-Pulse 17 Scarpe da Running",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "CINTURINO SMARTWATCH VONMAHLEN Cinturino Apple W Wave Band 2, 44/45/46/49 Crema, Silicone",
         "merchant": "mediaworld",
         "ean": "",
@@ -2715,27 +2799,6 @@
       },
       {
         "title": "CMP Kids Rigel Mid Trekking Shoes Wp, Scarpe da trekking Unisex - Bambini e ragazzi, Graffite Marine, 38 EU",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "MasterChef Set Coltelli da Cucina Professionali con Borsa | Coltelli Chef, Set di Coltelli da Chef, Santoku, Tritatutto, da Ufficio e per Verdure, Acciaio Inox ad Alto Carbonio, 5 ",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Puma Scarpe Unisex Ultra 6 Play Fg/AgSoccer, Puma Nero Fizzy Verde Chiaro Terreno, 42 EU",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Puma King PRO Fg/AG, Scarpe da Calcio Unisex - Adulto, Puma Silver Puma Black Sun Struck Puma White, 39 EU",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -2880,16 +2943,16 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "Mufanton Scarpe da Trail Running Uomo Scarpe Trekking,Nero,EU39 | Scarpe da Escursionismo Outdoor Traspirante Trekking Fitness Running Sneakers",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
       }
     ],
     "migliori-sneakers": [
+      {
+        "title": "Asics Gel-Excite 11 Sneaker",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
@@ -3059,7 +3122,14 @@
         "status": "da_verificare"
       },
       {
-        "title": "Sneakers unisex in camoscio grigio argento con dettagli traforati, allacciate, con suola spessa, scarpe casual alla moda per uomo e donna",
+        "title": "Scarpe da skateboard unisex Vulcanized Craft, modello classico con punta arrotondata, sneakers casual, suola in gomma flessibile e indeformabile, tomaia traspirante, calzature per ",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Sneakers da skateboard unisex a taglio basso con suola rinforzata anti abrasione, scarpe casual alla moda con soletta morbida, resistenti all'usura e antiscivolo, con allacciatura,",
         "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
@@ -3073,28 +3143,14 @@
         "status": "da_verificare"
       },
       {
-        "title": "Scarpe da skate di lusso dal design classico, sneakers casual alla moda per uomo e donna, scarpe basse e piatte di tendenza, traspiranti, comode, per attività sportive quotidiane a",
+        "title": "Scarpe da skateboard unisex alla moda, stile coppia, con stampa di tendenza, sneakers resistenti all'usura, suola in gomma antiscivolo, calzature comode per giovani, uomini e donne",
         "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "Scarpe da skateboard unisex adatte a tutte le stagioni, per uomo e donna, sneakers casual alla moda con tomaia bassa, realizzate in tessuto traspirante, con suola in gomma antisciv",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Scarpe da Skate di Lusso dal Design Trendy, Sneakers Casual alla Moda per Coppie, Scarpe da Skate Sportive Unisex Retrò con Suola Morbida ed Elastica, Scarpe Casual da Strada per i",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Scarpe da skateboard unisex di grandi dimensioni, modello alla moda con taglio basso, sneakers casual con design a cuciture, suola resistente all'usura, soletta confortevole, calza",
+        "title": "Scarpe da skateboard casual unisex con puntale resistente agli urti, modello basso con allacciatura, sneakers basse e flessibili, suola antiscivolo e resistente all'usura, calzatur",
         "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
