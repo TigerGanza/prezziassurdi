@@ -1,5 +1,22 @@
 [
   {
+    "asin": "B0CHS2F4R7",
+    "title": "Velway Guanti da Lavoro con Rivestimento in PU 12 Paia, Nero, Taglia 7/S",
+    "price": 11.11,
+    "old_price": 13.99,
+    "discount": 21.0,
+    "image": "https://m.media-amazon.com/images/I/41N7DKbsqnL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0CHS2F4R7?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "abbigliamento_lavoro",
+    "macro_group": "fai_da_te_outdoor",
+    "seasonal_title": "",
+    "published_at": "2026-10-24T20:59:15.802831+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B07XL3VL44",
     "title": "Mentadent Dentifricio Protezione Famiglia Bianco Quotidiano- 4x75gr",
     "price": 3.59,
@@ -2414,48 +2431,5 @@
     "merchant_match_score": 100,
     "merchant_ean": "8806095769967",
     "merchant_prices_checked_at": "2026-10-24T06:22:08.600348+02:00"
-  },
-  {
-    "asin": "W444F5DB71",
-    "title": "COSTRUZIONI LEGO Harry Potter™ Giro sul sidecar di Hagrid™ e - 76443",
-    "price": 31.6,
-    "old_price": 49.99,
-    "discount": 36.8,
-    "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_162083823/fee_786_587_png",
-    "url": "https://www.awin1.com/pclick.php?p=46041158852&a=3086723&m=18529",
-    "category": "bambini",
-    "macro_group": "awin_discovery",
-    "seasonal_title": "Offerta MediaWorld",
-    "published_at": "2026-10-24T06:21:10.210237+02:00",
-    "source_merchant": "mediaworld",
-    "source_external_id": "530613",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "mediaworld",
-        "merchant_name": "MediaWorld",
-        "merchant_id": "18529",
-        "product_id": "530613",
-        "awin_product_id": "46041158852",
-        "title": "COSTRUZIONI LEGO Harry Potter™ Giro sul sidecar di Hagrid™ e - 76443",
-        "brand": "Lego",
-        "ean": "5702017812816",
-        "mpn": "76443",
-        "price": 31.6,
-        "old_price": 49.99,
-        "discount": 36.8,
-        "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_162083823/fee_786_587_png",
-        "url": "https://www.awin1.com/pclick.php?p=46041158852&a=3086723&m=18529",
-        "category": "Giocattoli, Outdoor e Fitness;LEGO;LEGO Harry Potter",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {}
-      }
-    ],
-    "merchant_match_score": 100,
-    "merchant_ean": "5702017812816",
-    "merchant_prices_checked_at": "2026-10-24T04:51:05.861067+02:00"
   }
 ]
