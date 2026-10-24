@@ -1,5 +1,50 @@
 [
   {
+    "asin": "B0HC6BN8MQ",
+    "title": "Braun Rifinitore All-in-One Serie 5 Rasoio Elettrico, AIO5535n Nero | Rasoio Elettrico Corpo Uomo Barba e Capelli 9in1, Regolabarba Impermeabile, Skinguard, Ricaricabile, 120 Min di Utilizzo",
+    "price": 49.99,
+    "old_price": 74.99,
+    "discount": 33.0,
+    "image": "https://m.media-amazon.com/images/I/41dgCs+hcDL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0HC6BN8MQ?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "beauty_pro",
+    "macro_group": "cura_persona",
+    "seasonal_title": "",
+    "published_at": "2026-10-24T20:45:41.124336+02:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": [],
+    "merchant_offers": [
+      {
+        "merchant": "unieuro",
+        "merchant_name": "Unieuro",
+        "merchant_id": "10139",
+        "product_id": "BRAAIO5540",
+        "awin_product_id": "40721640476",
+        "title": "Braun Rifinitore All-in-One Series 5 9in1, Lama Ultra Affilata, Tecnologia SkinGuard, AIO5540, Nero",
+        "brand": "Braun",
+        "ean": "7500435245029",
+        "mpn": "AIO5540",
+        "price": 37.69,
+        "old_price": 69.99,
+        "discount": 46.1,
+        "image": "https://www.unieuro.it/medias/sys_master/root/h82/h58/50524119859230/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-6f22453807fc243fea5cc063b1062657-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
+        "url": "https://www.awin1.com/pclick.php?p=40721640476&a=3086723&m=10139",
+        "category": "Tagliacapelli",
+        "category_path": "",
+        "availability": "in_stock",
+        "last_updated": "",
+        "attributes": {
+          "color": "black"
+        }
+      }
+    ],
+    "merchant_match_score": 94,
+    "merchant_ean": "7500435245029",
+    "merchant_prices_checked_at": "2026-10-24T19:30:25.406172+02:00"
+  },
+  {
     "asin": "B00TFB0YX8",
     "title": "Optimum Nutrition Gold Standard Pre-Workout in Polvere, 330g, 30 Porzioni | Anguria, 3,4 g di Creatina Monoidrato, 175 mg di Caffeina Naturale, Beta-Alanina, Favorisce Energia e Concentrazione",
     "price": 24.9,
@@ -2489,53 +2534,6 @@
     ],
     "merchant_match_score": 100,
     "merchant_ean": "4211125952617",
-    "merchant_prices_checked_at": "2026-10-24T04:51:05.861067+02:00"
-  },
-  {
-    "asin": "W716091CC2",
-    "title": "Macchina da Caffè CAFFÈ BORBONE Simplymoon - Compatibile con Cialde ESE 44mm – Multifunzione per Espresso, Infusi e Bevande Calde, Pressione 15 bar, Serbatoio 0.9L Blu",
-    "price": 59.5,
-    "old_price": 99.9,
-    "discount": 40.4,
-    "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_176116076/fee_786_587_png",
-    "url": "https://www.awin1.com/pclick.php?p=46244557785&a=3086723&m=18529",
-    "category": "cucina",
-    "macro_group": "awin_discovery",
-    "seasonal_title": "Offerta MediaWorld",
-    "published_at": "2026-10-24T06:05:38.351613+02:00",
-    "source_merchant": "mediaworld",
-    "source_external_id": "548640",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "mediaworld",
-        "merchant_name": "MediaWorld",
-        "merchant_id": "18529",
-        "product_id": "548640",
-        "awin_product_id": "46244557785",
-        "title": "Macchina da Caffè CAFFÈ BORBONE Simplymoon - Compatibile con Cialde ESE 44mm – Multifunzione per Espresso, Infusi e Bevande Calde, Pressione 15 bar, Serbatoio 0.9L Blu",
-        "brand": "CAFFE' BORBONE",
-        "ean": "8055519905263",
-        "mpn": "SIMPLYMOONBLU",
-        "price": 59.5,
-        "old_price": 99.9,
-        "discount": 40.4,
-        "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_176116076/fee_786_587_png",
-        "url": "https://www.awin1.com/pclick.php?p=46244557785&a=3086723&m=18529",
-        "category": "Piccoli Elettrodomestici da Cucina e Caffè;Caffè;Macchine Caffè a Cialde",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {
-          "color": "blue",
-          "volume_ml": 900.0,
-          "length_mm": 44.0
-        }
-      }
-    ],
-    "merchant_match_score": 100,
-    "merchant_ean": "8055519905263",
     "merchant_prices_checked_at": "2026-10-24T04:51:05.861067+02:00"
   }
 ]
