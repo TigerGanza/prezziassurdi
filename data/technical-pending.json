@@ -1,10 +1,17 @@
 {
   "version": 1,
-  "generated_at": "2026-10-25T13:34:33+01:00",
+  "generated_at": "2026-10-25T14:59:34+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
     "smartphone-in-offerta": [
+      {
+        "title": "Blackview Wave 2C Smartphone Offerta Android 16, 12GB+32GB/1TB TF Cellulari Octa-Core, 5.0\", 4G Dual SIM Telefono Cellulare Offerta, WiFi 5G/3.5mm/ Face ID/3 Slot Eer Carte/3 Anni ",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Google Pixel 10a - 7 anni di nuovi aggiornamenti e funzionalità, oltre 30 ore di autonomia, Guida fotografica, Gemini Live, Sicurezza Pixel - Viola lavanda, 128GB",
         "merchant": "amazon",
@@ -22,13 +29,6 @@
       {
         "title": "Google Pixel 11 - Smartphone Android sbloccato - Nero ossidiana, 512GB | Con Gemini Intelligence, autonomia di oltre 30 ore e display Super Actua da 6,3\"",
         "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Blackview Wave 2C Smartphone Offerta Android 16, 12GB+32GB/1TB TF Cellulari Octa-Core, 5.0\", 4G Dual SIM Telefono Cellulare Offerta, WiFi 5G/3.5mm/ Face ID/3 Slot Eer Carte/3 Anni ",
-        "merchant": "",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
@@ -219,7 +219,7 @@
     "migliori-smartphone-sotto-300-euro": [
       {
         "title": "Blackview Wave 2C Smartphone Offerta Android 16, 12GB+32GB/1TB TF Cellulari Octa-Core, 5.0\", 4G Dual SIM Telefono Cellulare Offerta, WiFi 5G/3.5mm/ Face ID/3 Slot Eer Carte/3 Anni ",
-        "merchant": "",
+        "merchant": "amazon",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
@@ -1233,6 +1233,13 @@
     ],
     "migliori-smartwatch": [
       {
+        "title": "Amazfit Balance 2 Smartwatch 47mm, 21 Giorni Batteria, Mappe Offline | AMOLED 1,5\", GPS Dual Band, 170+ Modalità Sportive, HYROX e Golf, Allenamento di Forza, Cardio & Sonno per An",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Samsung Galaxy Watch6 44mm, Smartwatch Analisi del Sonno, Monitoraggio Benessere, Batteria a lunga durata, Bluetooth, Ghiera Touch in Alluminio, Graphite (Ricondizionato)",
         "merchant": "amazon",
         "ean": "",
@@ -2162,13 +2169,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Samsung WW90DG6G94LKU3 lavatrice Caricamento frontale 9 kg 1400 Giri/min Bianco",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Bosch WAN28229IT Serie 4 Lavatrice 9kg 1400 giri/min Bianco Classe A",
         "merchant": "",
         "ean": "",
@@ -2288,6 +2288,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "Samsung WW90DG6G94LKU3 lavatrice Caricamento frontale 9 kg 1400 Giri/min Bianco",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Samsung Lavatrice Serie 3000 9Kg WW90FG3M05AWET",
         "merchant": "unieuro",
         "ean": "",
@@ -2359,20 +2366,6 @@
       }
     ],
     "migliori-frigoriferi": [
-      {
-        "title": "LG GBBSJ21DPY Frigorifero combinato Fit&Max 60cm, Classe D, 375L, AI Inverter, Prime Silver",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "LG InstaView GMV860EPDE Frigorifero Multidoor Slim, Classe E, 530L, Wi-Fi, Linear Cooling, Essence Matte Black",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "BEKO RCSA300K40GN - Frigorifero Combinato Libera Installazione 291 Litri, 4 Ripiani in Vetro, Frigo con Congelatore 3 Cassetti, Elettrodomestici Cucina, Classe E, 54L x 181,4H x 57",
         "merchant": "",
@@ -2486,7 +2479,21 @@
         "status": "da_verificare"
       },
       {
+        "title": "LG GBBSJ21DPY Frigorifero combinato Fit&Max 60cm, Classe D, 375L, AI Inverter, Prime Silver",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "LG GBBS322CPY Frigorifero combinato Fit & Max 60cm, Classe C, 375L, AI Inverter, Prime Silver",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "LG InstaView GMV860EPDE Frigorifero Multidoor Slim, Classe E, 530L, Wi Fi, Linear Cooling, Essence Matte Black",
         "merchant": "unieuro",
         "ean": "",
         "mpn": "",
@@ -2700,6 +2707,20 @@
     ],
     "migliori-moda": [
       {
+        "title": "Dainese - Udine Wp Gloves, Guanti Moto Invernali Impermeabili D-Dry con Protezioni sulle Nocche, Schermo Tattile e Pulitore per Visiera, per Uomo, Black/Reflex, XL",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Philips Bodygroom series 3000 - Rifinitore per uomo tripla protezione, Rifinitura e rasatura intima, Preciso e confortevole sulla pelle, Impermeabile al 100%, 80 minuti di autonomi",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Apple Watch SE 3 GPS 40 mm Smartwatch | Cassa in alluminio galassia con Cinturino Sport sabbia - S/M",
         "merchant": "amazon",
         "ean": "",
@@ -2736,13 +2757,6 @@
       },
       {
         "title": "CINTURINO SMARTWATCH VONMAHLEN Cinturino Apple W Classic Nylon Loop, 44/45/46/49 Nero, flessibile",
-        "merchant": "mediaworld",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "CINTURINO SMARTWATCH VONMAHLEN Cinturino Apple Watch Classic Band 44/45/46/49 Crema, Silicone",
         "merchant": "mediaworld",
         "ean": "",
         "mpn": "",
@@ -2897,13 +2911,6 @@
       },
       {
         "title": "ASOCO DREAM Scarpe da Trail Running Uomo Scarpe da Passeggio Leggero Traspirante Scarpe da Ginnastica Antiscivolo Fitness Running Sneakers,Camuffare,39 EU",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "FitVille Scarpe Trail Running Uomo Pianta Larga Sneakers Leggere Scarpe da Corsa su Strada Trekking Sportive Outdoor Blu 43 EU Larga",
         "merchant": "",
         "ean": "",
         "mpn": "",
