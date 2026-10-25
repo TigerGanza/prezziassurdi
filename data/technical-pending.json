@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-25T12:04:33+01:00",
+  "generated_at": "2026-10-25T13:34:33+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -28,13 +28,6 @@
       },
       {
         "title": "Blackview Wave 2C Smartphone Offerta Android 16, 12GB+32GB/1TB TF Cellulari Octa-Core, 5.0\", 4G Dual SIM Telefono Cellulare Offerta, WiFi 5G/3.5mm/ Face ID/3 Slot Eer Carte/3 Anni ",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "OPPO A6x 4G Smartphone Batteria 6100mAh 4 GB RAM + 128 GB ROM, Ice Blue | Display da 6,75″ 120 Hz, piattaforma mobile Snapdragon 685, fotocamera da 13 MP, IP64, ColorOS 15.0",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -69,6 +62,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "Xiaomi REDMI A7 Pro Smartphone 4+128GB, Nero,Display immersivo 6,9\" | Processore Octa-core, Doppia fotocamera AI da 13MP,Garanzia 2 anni + 1 anno extra, Batteria 6000 mAh(tip)",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Samsung Galaxy A33 5G, 128GB, Awesome Black (Ricondizionato)",
         "merchant": "",
         "ean": "",
@@ -97,14 +97,14 @@
         "status": "da_verificare"
       },
       {
-        "title": "REDMI 17, Smartphone 4+128GB, Nero, Batteria 7500 mAh, Ricarica 45W | Resistente Corning® Gorilla® Glass 7i, Display Immersivo 6,9″, Potente MediaTek Helio G91-Ultra, Doppia Fotoca",
+        "title": "OPPO A6x 5G Smartphone 4+128GB, 6,75\" 120Hz, 6100mAh, D6300, IP64 Ice Blue | Smartphone Android, sbloccato, batteria a lunga durata, display LCD, NFC, mobile, IP64, fotocamera, GPS",
         "merchant": "",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "OPPO A6x 5G Smartphone 4+128GB, 6,75\" 120Hz, 6100mAh, D6300, IP64 Ice Blue | Smartphone Android, sbloccato, batteria a lunga durata, display LCD, NFC, mobile, IP64, fotocamera, GPS",
+        "title": "realme C100 5G Smartphone 4+128GB, Green | Batteria 6600mAh, Ricarica Ultra Rapida 45W, Display LCD 6,8 pollici, 144Hz, Fotocamera AI 50MP, MediaTek Dimensity 6300,IP64",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -125,7 +125,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "realme 14x 5G 8GB(+10GB)/256GB Smartphone 6.67\" 120Hz Resistencia Militar 810H Android 14 Negro",
+        "title": "realme 14T 8+ 256 GB Telefono 5G, Dual SIM, Chipset 5G Dimensity 6300, Batteria da 5260 mAh, Display eSport AMOLED da 6,67\" a 120 Hz, IP69, NFC, Viola Lightning",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -160,13 +160,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "XIAOMI REDMI Note 15 5G, Smartphone 8+512GB, Nero, Resistenza IP65 | Design ultrasottile, Fotocamera super nitida da 108 MP, Display FHD+ da 6,77\", Garanzia 2 anni",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "realme 14 5G Smartphone 8GB RAM + 256GB ROM, Snapdragon 6 Gen 4 e 120Hz AMOLED Schermo, Cellurale 6000mAh Batteria e Ricarica Rapida da 45W, IP69 Resistenza, GT Boost, AI OIS 50MP ",
         "merchant": "",
         "ean": "",
@@ -189,6 +182,13 @@
       },
       {
         "title": "XIAOMI REDMI Note 14 5G, Smartphone 8+256GB, Verde, Batteria da 5500mAh | Sistema fotografico con AI da 108MP, display con tecnologia Eye-Care da 120Hz, funzionalità AI",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "OPPO RENO 15F 5G 8/256GB",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -225,13 +225,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "OPPO A6x 4G Smartphone Batteria 6100mAh 4 GB RAM + 128 GB ROM, Ice Blue | Display da 6,75″ 120 Hz, piattaforma mobile Snapdragon 685, fotocamera da 13 MP, IP64, ColorOS 15.0",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "realme 14X 5G Smartphone 6+128GB, Black | Batteria 5000mAh, Display 6,67 pollici, frequenza 120Hz, Fotocamera AI 50MP, Processore MediaTek Dimensity 6300, IP64",
         "merchant": "",
         "ean": "",
@@ -254,6 +247,13 @@
       },
       {
         "title": "XIAOMI REDMI A7 Pro Smartphone 4+64GB,Nero. Display immersivo 6,9\" | Processore Octa-core, Doppia fotocamera AI da 13MP,Garanzia 2 anni + 1 anno extra, Batteria 6000 mAh(tip)",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Xiaomi REDMI A7 Pro Smartphone 4+128GB, Nero,Display immersivo 6,9\" | Processore Octa-core, Doppia fotocamera AI da 13MP,Garanzia 2 anni + 1 anno extra, Batteria 6000 mAh(tip)",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -288,14 +288,14 @@
         "status": "da_verificare"
       },
       {
-        "title": "REDMI 17, Smartphone 4+128GB, Nero, Batteria 7500 mAh, Ricarica 45W | Resistente Corning® Gorilla® Glass 7i, Display Immersivo 6,9″, Potente MediaTek Helio G91-Ultra, Doppia Fotoca",
+        "title": "OPPO A6x 5G Smartphone 4+128GB, 6,75\" 120Hz, 6100mAh, D6300, IP64 Ice Blue | Smartphone Android, sbloccato, batteria a lunga durata, display LCD, NFC, mobile, IP64, fotocamera, GPS",
         "merchant": "",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "OPPO A6x 5G Smartphone 4+128GB, 6,75\" 120Hz, 6100mAh, D6300, IP64 Ice Blue | Smartphone Android, sbloccato, batteria a lunga durata, display LCD, NFC, mobile, IP64, fotocamera, GPS",
+        "title": "realme C100 5G Smartphone 4+128GB, Green | Batteria 6600mAh, Ricarica Ultra Rapida 45W, Display LCD 6,8 pollici, 144Hz, Fotocamera AI 50MP, MediaTek Dimensity 6300,IP64",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -316,7 +316,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "realme 14x 5G 8GB(+10GB)/256GB Smartphone 6.67\" 120Hz Resistencia Militar 810H Android 14 Negro",
+        "title": "realme 14T 8+ 256 GB Telefono 5G, Dual SIM, Chipset 5G Dimensity 6300, Batteria da 5260 mAh, Display eSport AMOLED da 6,67\" a 120 Hz, IP69, NFC, Viola Lightning",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -351,13 +351,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "XIAOMI REDMI Note 15 5G, Smartphone 8+512GB, Nero, Resistenza IP65 | Design ultrasottile, Fotocamera super nitida da 108 MP, Display FHD+ da 6,77\", Garanzia 2 anni",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "realme 14 5G Smartphone 8GB RAM + 256GB ROM, Snapdragon 6 Gen 4 e 120Hz AMOLED Schermo, Cellurale 6000mAh Batteria e Ricarica Rapida da 45W, IP69 Resistenza, GT Boost, AI OIS 50MP ",
         "merchant": "",
         "ean": "",
@@ -380,6 +373,13 @@
       },
       {
         "title": "XIAOMI REDMI Note 14 5G, Smartphone 8+256GB, Verde, Batteria da 5500mAh | Sistema fotografico con AI da 108MP, display con tecnologia Eye-Care da 120Hz, funzionalità AI",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "OPPO RENO 15F 5G 8/256GB",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -423,7 +423,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "Xiaomi TV 32 pollici 2026, HD Smart TV Fire TV Dolby Audio L32MB-FAVEU | DTS-HD,DTS Virtual:X, DTS-HD, Alexa Voice Control, Compatible with Apple AirPlay",
+        "title": "LG 32LQ63006LA Smart TV 32\" Full HD, TV LED 2022 con Processore α5 Gen 5 con AI, webOS 22, HDR, Wi-Fi, Bluetooth, Game Optimizer, Google Stadia e GeForce NOW, Compatibile con Googl",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -479,7 +479,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "Samsung 50\" UE50U7000HUXZT Crystal UHD 4K 50Hz, Smart TV Vision AI 2026 | Crystal 4K Processor, HDR10+, PurColor, Motion Xcelerator, Dynamic Sound Pack, Gaming Hub, pacchetto intra",
+        "title": "Samsung Smart TV 50\" UE50M72HAUXZT Mini LED 4K , HDR 10+, Motion Xcelerator 144Hz, Dynamic Sound Pack, Gaming Hub, Pure Spectrum Color, Knox Security, Voice Control with AI(VAC), V",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -493,14 +493,14 @@
         "status": "da_verificare"
       },
       {
-        "title": "Hisense Smart TV 50\" UHD 4K 50E6ST | DTS Virtual X, VIDAA OS con 1000+ APP, HDR 10+, Game Mode Plus, Bluetooth, Wifi, Alexa, AirPlay2, lativù 4K, 2026 Model",
+        "title": "Sharp 50 Pollici QLED 4K Ultra HD Google TV™ Dolby Vision Dolby Atmos 50HP5265E (HP Series)",
         "merchant": "",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "TCL 50T6C – Smart TV QLED 4K HDR10+ da 50\", Fire TV con Dolby Atmos | Game Mast, VRR, Dolby Vision, Motion Clarity, Press & Ask Alexa",
+        "title": "Hisense Smart TV 50\" UHD 4K 50E6ST | DTS Virtual X, VIDAA OS con 1000+ APP, HDR 10+, Game Mode Plus, Bluetooth, Wifi, Alexa, AirPlay2, lativù 4K, 2026 Model",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -542,7 +542,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "LG UHD AI 55 Pollici, Serie UA75 2025 Smart TV 4K Ultra HD - 55UA75006LA | Processore α7 Gen8, WebOS con AI, Filmmaker Mode, HDR10, Gaming con VRR 4K@60Hz, Game Optimizer, Wi-Fi",
+        "title": "iFFALCON 55U65A – Smart TV 4K HDR Direct LED da 55\", Google TV",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -577,13 +577,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Hisense Smart TV 65\" UHD 4K 65E6ST | DTS Virtual X, VIDAA OS con 1000+ APP, HDR 10+, Game Mode Plus, Bluetooth, Wifi, Alexa, AirPlay2, lativù 4K, 2026 Model",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Hisense Smart TV QLED 65\" 4K 65E7DS | Audio Dolby Atmos, VIDAA OS, Dolby Vision IQ, HDR 10+, Game Mode, Bluetooth, Wifi, Alexa, AirPlay2, lativù 4K, 2026 Model",
         "merchant": "",
         "ean": "",
@@ -592,6 +585,13 @@
       },
       {
         "title": "Hisense Smart TV QLED 144Hz 75\" 4K 75E7S PRO | Audio Dolby Atmos, VIDAA OS, Native 144Hz Game Mode, Dolby Vision IQ, HDR 10+, AirPlay2, Alexa, lativù 4K, 2026 Model",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "TCL 75V6D – Smart TV 4K HDR10+ da 75\" con Fire TV e Dolby Atmos | DTS:X, Game Master, Motion Clarity, Apple AirPlay 2, Press & Ask Alexa",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -628,7 +628,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "LG UHD AI 55 Pollici, Serie UA75 2025 Smart TV 4K Ultra HD - 55UA75006LA | Processore α7 Gen8, WebOS con AI, Filmmaker Mode, HDR10, Gaming con VRR 4K@60Hz, Game Optimizer, Wi-Fi",
+        "title": "iFFALCON 55U65A – Smart TV 4K HDR Direct LED da 55\", Google TV",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -663,13 +663,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Hisense Smart TV 65\" UHD 4K 65E6ST | DTS Virtual X, VIDAA OS con 1000+ APP, HDR 10+, Game Mode Plus, Bluetooth, Wifi, Alexa, AirPlay2, lativù 4K, 2026 Model",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Hisense Smart TV QLED 65\" 4K 65E7DS | Audio Dolby Atmos, VIDAA OS, Dolby Vision IQ, HDR 10+, Game Mode, Bluetooth, Wifi, Alexa, AirPlay2, lativù 4K, 2026 Model",
         "merchant": "",
         "ean": "",
@@ -678,6 +671,13 @@
       }
     ],
     "migliori-notebook": [
+      {
+        "title": "ASUS Vivobook 15 F1504MA#B0H262LDPL, Notebook con display 15.6\" IPS, Anti-glare, 60Hz,Intel® Core™ 3 Processor 304,RAM 8GB, 256GB SSD, WIN11 Home, Argento",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "ASUS Vivobook 16 F1605VA#B0FZL8JLW9, Notebook con display 16\" Anti-glare, 60Hz,Intel® Core™ 9 Processor 270H,RAM 16GB, 1TB SSD, WIN11 Home, Argento",
         "merchant": "",
@@ -707,7 +707,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "Lenovo ThinkPad T14 Gen 2 14\" Full HD Intel Core i5-1145G7 256GB SSD Disco Rigido 16GB Memoria Windows 11 Pro Cam Notebook Laptop (Ricondizionato)",
+        "title": "Lenovo, Pc portatile Intel Core i5 Pronto All'Uso con Pacchetto libre office, Notebook Con Display HD da 14\", Ram 16Gb, SSD 512Gb, Garanzia Italiana (Ricondizionato)",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -721,14 +721,14 @@
         "status": "da_verificare"
       },
       {
-        "title": "Lenovo ThinkPad T14 - Pc Portatile Intel i5-1135G7 4 Core 2.4Ghz - Display 14\" FHD - Ram 16Gb SSD 512Gb - Notebook con Win 11 Pronto all'uso (Ricondizionato)",
+        "title": "16\" PC Portatile Core i7 6500U processore fino 3,1GHz, Win 11 Notebook 16GB RAM SSD 512GB, Laptop Schermo 1200P IPS, Computer portatile porte USB 3.0 HDMI BT5.0 Tastierino Numerico",
         "merchant": "",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "16\" PC Portatile Core i7 6500U processore fino 3,1GHz, Win 11 Notebook 16GB RAM SSD 512GB, Laptop Schermo 1200P IPS, Computer portatile porte USB 3.0 HDMI BT5.0 Tastierino Numerico",
+        "title": "Lenovo ThinkPad T14 - Pc Portatile Intel i5-1135G7 4 Core 2.4Ghz - Display 14\" FHD - Ram 16Gb SSD 512Gb - Notebook con Win 11 Pronto all'uso (Ricondizionato)",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -770,13 +770,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "ASUS TUF Gaming F16 FX608JMI#B0GQH7ZDN4, Notebook con display 16\" IPS Anti-glare, 144Hz, Intel® Core™ i7 Processor 14650HX, Nvidia GeForce RTX 5060, RAM 16GB, 1TB SSD, WIN11 Home, ",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Alienware 15 Gaming Laptop - Intel Core 7 240H, NVIDIA RTX 5050",
         "merchant": "",
         "ean": "",
@@ -784,8 +777,8 @@
         "status": "da_verificare"
       },
       {
-        "title": "Ninkear S14 Laptop 14' 2.2K IPS AMD Ryzen 5 6600H 6 Core 4.55GHz 16GB LPDDR5X 1TB PCIe SSD WiFi 6 BT5.3 PD65W Ricarica Rapida 1kg Ultra Leggero Type C Windows 11,180 ° Hinge Finger",
-        "merchant": "aliexpress",
+        "title": "msi Katana 15 HX B14WFK-495IT, Notebook Gaming 15.6\" FHD 144Hz, Intel Core i9-14900HX, Nvidia RTX 5060 8GB GDDR7, 1TB SSD PCIe4, 16GB RAM DDR5, WiFi 6E, Win 11 Home [Layout e garan",
+        "merchant": "",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
@@ -821,6 +814,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "Computer Ufficio Professionale Pc Fisso Completo Nuovo con Intel Core i5 16 GB RAM - 240 GB SSD + 320 GB HDD, Wifi Windows 11 Pro Computer Fisso Pronto all'uso - PC Desktop All in ",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Computer Ufficio Professionale Pc Fisso Completo Nuovo con Intel Core i5 16 GB RAM - 240 GB SSD + 500 GB HDD, Wifi Windows 11 Pro Computer Fisso Pronto all'uso - PC Desktop All in ",
         "merchant": "",
         "ean": "",
@@ -828,7 +828,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "Memory PC Gaming Ryzen 5 5500, NVIDIA RTX 3050 6GB, 16GB DDR4, 500GB SSD | Per giocare in Full HD ed e-sport, GeForce con DLSS e ray tracing, 6 core fino a 4,2 GHz, Windows 11 Pro,",
+        "title": "STGSivir PC Gaming Fisso, Core i7-6700, RTX 3060 12G, 32G DDR4 RAM,1T SSD | Computer Gaming per Streaming, Editing Video, Compiti, fino a 4.0 GHz, WiFi 6, BT 5.2, 4K,HDMI,Win11 Pro",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -842,7 +842,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "Memory PC Gaming Ryzen 7 5700X, NVIDIA RTX 5050 8GB, 32GB DDR4, 1TB SSD",
+        "title": "CyberpowerPC Luxe Gaming PC - Intel Core i7-12700KF, Nvidia RTX 5060 Ti 8GB, 32GB RAM, 1TB NVMe SSD, 650W 80+ PSU, Wi-Fi, Liquid Cooling, Windows 11, V100R RGB",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -891,15 +891,8 @@
         "status": "da_verificare"
       },
       {
-        "title": "Beelink Mini PC SER5, AMD Ryzen 5 5500U(6C/12T,fino a 4,0 GHz), 16GB DDR4 480GB M.2 NVMe SSD Mini Computer, 4K@60Hz Dual Display HDMI/DP, WiFi6/BT5.2/RJ45 2.5G",
+        "title": "NiPoGi E3B Mini PC, AMD Ryzen 5 7430U(fino a 4.3GHz),16GB RAM 512GB SSD | Grafica AMD Radeon, 4K@60Hz Triplo Display DP 1.4+HDMI+Type-C/WiFi 6/BT5.2，Micro Gaming PC per Casa e Uffi",
         "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "SOYO M5 Mini PC AMD Ryzen 3 4300U LPDDR4 16GB RAM 512GB ROM Windows 11 Pro Mini Computer Desktop con Doppia Uscita Multi Schermo 4K WiFi Bluetooth Gigabit LAN Type C Micro PC Compa",
-        "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
@@ -913,13 +906,6 @@
       }
     ],
     "migliori-tablet": [
-      {
-        "title": "Tablet Android 16 11 Pollici, 32GB RAM 256GB ROM 1TB Espandibile, Batteria 7800mAh, Processore Penta-Core, WiFi 6, Schermo HD IPS, Doppia Fotocamera",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Tablet Android da 11 Pollici, Octa-Core, 24GB(4+20) RAM+128GB Memoria, Batteria 8200mAh, Widevine L1, Espandibile fino a 1TB, Doppia Fotocamera, Android Tablet per Studio, Lavoro e",
         "merchant": "",
@@ -984,6 +970,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "Tablet Samsung SM-X130 8,7\" Octa Core 8 GB RAM 128 GB Argentato",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Samsung Galaxy Tab A11+ - Tablet - Android 16 - 128 Gb - 27.82 Cm (11\")",
         "merchant": "",
         "ean": "",
@@ -992,13 +985,6 @@
       },
       {
         "title": "Tablet Lenovo ZAFR0389ES 11\" 8 GB RAM 128 GB Grigio",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Tablet Samsung Galaxy Tab A11 8,7\" Octa Core 8 GB RAM 128 GB Grigio",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -1040,7 +1026,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "Tablet Android ad alte prestazioni 2026, schermo da 10,36 pollici, batteria da 20000 mAh, memoria 16 GB + 1 TB, processore a 14 core, Android 13.0, versione globale, WiFi, fotocame",
+        "title": "Tablet PC da 10,36 Pollici con Doppia Fotocamera, Dual Sim, 5G, Android 13, Bluetooth, Wifi, 16GB+1TB ROM, Google Play, Octa Core",
         "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
@@ -1112,13 +1098,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "AOC Gaming Monitor Q27G4XF 27 pollici 2560x1440, WQHD, 180Hz, Fast IPS Panel, 1ms GtG, Height Adjustment, (HDMI1x 2.0 DP 1x 1.4) HDR10, G-Sync Compatible, Nero",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "MSI PRO MP273Q E14 Monitor 27\" WQHD 2560×1440, Pannello IPS, 144 Hz, 1 ms | Adaptive-Sync, Tecnologia Eye Care, Altoparlanti Integrati, HDMI 2.0b, DisplayPort 1.2a, Design Senza Co",
         "merchant": "",
         "ean": "",
@@ -1134,6 +1113,13 @@
       },
       {
         "title": "LG UltraGear 27GS60QC Monitor Gaming 27\" QHD (2560x1440) 180Hz Curvo | 1ms, AMD FreeSync Premium, HDR10 e gameplay fluido e coinvolgente grazie al design curvo",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Dell 27 Monitor - SE2726D, QHD (2560x1440), 144Hz, IPS, 1ms MPRT | AMD FreeSync, 99% sRGB, VESA (100x100mm), DisplayPort, HDMI, 3 Anni di Garanzia, Nero",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -1203,7 +1189,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "LG 34U511A Monitor UltraWide 21:9 34\" IPS, WFHD (2560x1080), HDR 400, 100Hz, sRGB 99%, HDMI, DisplayPort, Uscita Cuffie, Schermo Antiriflesso, Reader Mode, Flicker Safe, Nero",
+        "title": "Philips Monitors Philips 346E2CUAE/00 Monitor 34\" VA WLED 3440 x 1440 HDMI/DP Curved, Nero, 34\"",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -1224,8 +1210,8 @@
         "status": "da_verificare"
       },
       {
-        "title": "Per Sundiro Honda CBF190TR 2018 2026 Srnubi, monitor digitale per cruscotto moto da 6,25 pollici, con Carplay wireless e Android Auto, display intelligente Bluetooth IP67 impermeab",
-        "merchant": "aliexpress",
+        "title": "Orologio Smartwatch Uomo GPS Sport: 1.56\" Orologi Intelligente con Mappe Offline Chiamate Bluetooth 107 Modalità Sportivo GPT Monitor Salute Dotato di Batteria da 1200 mAh Compatib",
+        "merchant": "",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
@@ -1310,7 +1296,14 @@
         "status": "da_verificare"
       },
       {
-        "title": "Xiaomi Redmi Watch 6 Active, Fitness Tracker, Batteria 18 Giorno, Nero | Smartwatch Uomo Donna, Schermo 1,85\" AMOLED, 9,9 mm, Chiamate Bluetooth, Monitoraggio Salute 24h, 140+ Spor",
+        "title": "Orologio Smartwatch Uomo GPS Sport: 1.56\" Orologi Intelligente con Mappe Offline Chiamate Bluetooth 107 Modalità Sportivo GPT Monitor Salute Dotato di Batteria da 1200 mAh Compatib",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "XIAOMI Redmi Watch 6 Lite, Fitness Tracker, Autonomia 18 Giorni, Nero | Smartwatch Uomo Donna, Schermo 1,96\" AMOLED, Monitor Cardiaco & Sonno, 150+ Sports, GNSS 5 sistemi, 5ATM, Ch",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -1331,14 +1324,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "XIAOMI Watch S5 46 mm, Smartwatch Uomo/Donna, AMOLED 1,48\", Nero | Fitness Tracker, Sonno, 21 Giorni, 150+ Sport, GPS Dual-Band, Android&iOS",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "AcclaFit Smartwatch Uomo Donna, 1.85\" Orologio Smartwatch con Effettua/Risposta Chiamate, 113 Sportive Smart Watch con Contapassi/SpO2/Sonno/Cardiofrequenzimetro, Impermeabil IP68 ",
+        "title": "AOYBWK Smartwatch Uomo Donna, 1.85\" Orologio Fitness con Chiamate Bluetooth e Notifiche, 140+ Modi Sportivi con Contapassi, SpO2, Cardiofrequenzimetro da Polso, Sonno, IP68 per And",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -1366,36 +1352,15 @@
         "status": "da_verificare"
       },
       {
-        "title": "Garmin vívoactive 5, 42mm, Smartwatch GPS, Black | Display AMOLED 1,2\", Musica, GarminPay, +30 Sport, Cardio, Coach Sonno, Benefici Workout, Autonomia 11 giorni",
+        "title": "Samsung Galaxy Watch7 Smartwatch Galaxy AI, Analisi del Sonno, Controllo con doppio avvicinamento di dita, Batteria a lunga durata, GPS, BT, Ghiera Touch in Alluminio 44mm Green [V",
         "merchant": "",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "Garmin vívoactive 5, 42mm, Smartwatch GPS, Ivory | Display AMOLED 1,2\", Musica, GarminPay, +30 Sport, Cardio, Coach Sonno, Benefici Workout, Autonomia 11 giorni",
+        "title": "Samsung Galaxy Watch7 Smartwatch Galaxy AI, Analisi del Sonno, Controllo con doppio avvicinamento di dita, Batteria a lunga durata, GPS, BT, Ghiera Touch in Alluminio 40mm Cream [V",
         "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Smartwatch HUAWEI Watch GT 5 46mm originale con schermo AMOLED a colori da 1,43 pollici e durata della batteria fino a 2 settimane",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Nuovo Smartwatch OnePlus Watch 2 con Schermo AMOLED da 1,43'', Batteria da 500mAh, Oltre 100 Modalità Sportive, 2GB+32GB, 46mm, WiFi, GPS, IP68, Google Pay",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Smartwatch HUAWEI WATCH GT Runner 2",
-        "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
@@ -1445,6 +1410,13 @@
     ],
     "migliori-console-gaming": [
       {
+        "title": "Sony BRAVIA 8 OLED 77 Pollici 4K HDR Google Smart TV (2024) | Gaming Menu per PlayStation 5, IMAX Enhanced, Dolby Vision Atmos, Chromecast, AirPlay, 120Hz 77XR80",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Playstation 5 Console Edizione Digital Slim",
         "merchant": "",
         "ean": "",
@@ -1460,13 +1432,6 @@
       },
       {
         "title": "Sony PlayStation 5 - Digital Edition",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "SONY Console PlayStation 5 Edition Digital",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -1495,6 +1460,13 @@
       },
       {
         "title": "Playstation 5 Console Slim + 2 DualSense White",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "PlayStation 5 PRO",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -1587,21 +1559,14 @@
         "status": "da_verificare"
       },
       {
-        "title": "TCL S55HE Soundbar 2.1, 220W, Dolby Atmos, DTS Virtual:X, subwoofer wireless, Bluetooth 5.3, HDMI eARC, USB, ottico, montaggio a parete, telecomando incluso",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "ULTIMEA Soundbar con Subwoofer Wireless, 240W Potenza di Picco, VoiceMX e BassMX, App Controllo, 2.1 canali Sound Bar per Smart TV, Bassi Regolabili, HDMI, Ottico, Bluetooth 6.0, P",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Samsung Soundbar HW-B66CF/ZF Serie B, 4 Speaker, Wireless, Dolby 5.1ch, Audio a 3.1 Canali, DTS 5.1ch, Surround Sound Expansion, Voice Enhance Mode, Black, 2025",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "TCL S55HE Soundbar 2.1, 220W, Dolby Atmos, DTS Virtual:X, subwoofer wireless, Bluetooth 5.3, HDMI eARC, USB, ottico, montaggio a parete, telecomando incluso",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -1664,14 +1629,14 @@
         "status": "da_verificare"
       },
       {
-        "title": "TCL S60K 3.1 Channel Dolby Atmos Soundbar with Wireless Subwoofer | 3.1 Immersive Channels – Tutti Choral – Dolby Atmos – DTS:X – AI Sonic-adaptation - HDMI eARC",
+        "title": "LG S40T Soundbar TV 300W su 2.1 Canali con Subwoofer Wireless, Dolby Digital, DTS, AI Sound Pro, HDMI ARC, Bluetooth, Ingresso Ottico, USB",
         "merchant": "",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "Soundbar Q600H, 3.1.2 ch.,320W, Bluetooth, Q-Symphony, Wireless Dolby Atmos | Subwoofer, Wireless Dolby Atmos, Q-Symphony, Adaptive Sound, Connessione TV Wireless",
+        "title": "Sonos Soundbar compatta Beam (Gen 2) con Dolby Atmos e controllo vocale | Nera",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -1743,6 +1708,13 @@
     ],
     "cuffie-bluetooth-in-offerta": [
       {
+        "title": "SoundPEATS Cove Pro Cuffie Bluetooth 6.0 Over-Ear, ANC Ibrido Fino a -56dB con 5 Modalità, Audio Hi-Res LDAC, 7 MIC AI ENC, 95 Ore Autonomia, Ricarica Rapida, Design Pieghevole",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Soundcore di Anker Liberty 5, Cuffie Bluetooth In Ear con ANC, Dolby Audio | ANC in Tempo Reale, Riduzione della Voce 2X più Forte, Chiamate Chiare con 6 Mic IA, Lunga Durata, Nero",
         "merchant": "",
         "ean": "",
@@ -1771,13 +1743,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "RORSOU C6 Cuffie con Cancellazione Attiva del Rumore, Cuffie Wireless Over Ear Bluetooth, Cuffie Leggere Piegevoli con Cupole Profonde per Bassi Comfort e Microfono Argento",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Fosi Audio T20X 100W Bluetooth Amplificatore valvolare Amplificatore di potenza stereo TPA3221 Amplificatore per cuffie per altoparlanti Home Theater",
         "merchant": "aliexpress",
         "ean": "",
@@ -1794,13 +1759,6 @@
       {
         "title": "Eva Fruit Auricolari TWS in Ear Wireless Max Bianco",
         "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Mornystar S8 Interfono per moto Cuffie per casco 1200M 6 Rider Interfono Bluetooth Comunicazione Interfono GPS Impermeabile FM",
-        "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
@@ -1951,6 +1909,13 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
+      },
+      {
+        "title": "Philips Serie 4000 TAH4209BK/00 cuffia e auricolare Wireless A Padiglione Musica e Chiamate Bluetooth Nero",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
       }
     ],
     "migliori-robot-aspirapolvere": [
@@ -2011,7 +1976,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "ECOVACS T50 PRO OMNI Gen3 Robot Aspirapolvere Lavapavimenti 25000 Pa | AIVI 3D 3.0, Lavaggio a 75 °C, ZeroTangle Generation 3.0 Tecnologia Anti-ingombramento, Ricarica Automatica, ",
+        "title": "MONSGA 10000Pa Robot Aspirapolvere Lavapavimenti, Anti-Groviglio | Auto-Svuotamento 90 Giorni, Navigazione LiDAR, Autonomia 160 Min, WiFi/App/Alexa, per Peli Animali, Pavimenti Dur",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -2019,13 +1984,6 @@
       },
       {
         "title": "R10 Robot Aspirapolvere Lavapavimenti con Mappatura, Lava e Aspira Pavimenti, 4L Svuotamento Automatico Polvere, Navigazione LiDAR +IMU, Zone No-Go e Muri Virtuali, Controllo APP &",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Proscenic Q10 Robot Aspirapolvere Lavapavimenti con Mappatura, Robot Pavimenti 10000Pa 200min, LiDAR Intelligente, Controllo APP/Alexa/WiFi/Siri/IFTTT, Ideale per Pulizia Domestica",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -2067,13 +2025,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Robot Aspirapolvere ABIR X9, Doppio Lidar, Aspirazione 6500pa, Pulizia UV, Mappa Multi Piano, Area Restringibile tramite APP, Lavapavimenti Intelligente per Casa",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Eureka J12 Ultra Robot Aspirapolvere e Lavapavimenti con Stazione, Evitamento Ostacoli AI 3D, Autosvuotante per 75 Giorni, Autopulente, Autoasciugante de",
         "merchant": "unieuro",
         "ean": "",
@@ -2107,11 +2058,25 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
+      },
+      {
+        "title": "Roborock Q10 VF+ Robot Aspirapolvere e Lavapavimenti, Aspirazione HyperForce 10.000 Pa, Sistema VibraRise 2.0 con Vibrazione 3000/min, Navigazione Intell",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
       }
     ],
     "aspirapolvere-senza-fili-in-offerta": [
       {
         "title": "Aspirapolvere Senza Fili Scopa Elettrica - Potente Filo Batteria Cordless Vacuum Cleaner Scope Elettriche Sacco Portatile Ciclonico Silenzioso per Divano Tappeti Parquet Pavimenti ",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "FAMIVAC FV5 Aspirapolvere Senza Fili 70 kPa, 80 Min, Peli di Animali | Scopa Elettrica Senza Fili con Display LED, Park&Power, Spazzola Antigroviglio, Luci LED verdi, Filtro autopu",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -2125,7 +2090,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "Slivamo S16 Aspirapolvere Senza Fili, 50kPa/600W/45min, Batteria Rimovibile | Scopa Elettrica Leggero con Luce LED Verde, Autoportante, per Peli Di Animali/Pavimenti Duri",
+        "title": "Ultenic 55Kpa/80Min Aspirapolvere Senza Fili U18, Scopa Elettrica Senza Fili Potente con Tubo Pieghevole, Filtrazione Multi-Cono,Display Intelligente, Anti-Groviglio per Peli Anima",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -2139,15 +2104,22 @@
         "status": "da_verificare"
       },
       {
-        "title": "Aspirapolvere Senza Fili, 55KPA/650W/70Mins Scopa Elettrica Senza Fili, Autoportante Anti-groviglio/OLED Schermo/1,8L Cup Aspirapolvere senza fili potente, Adatto per Tappeti/Pavim",
+        "title": "VersLife S6PRO Aspirapolvere Senza Fili 30KPa, Filtro HEPA, 30 Min, Bianco | Scopa Elettrica Senza Fili, Design Senza Spazzole, Autonomia 30 Minuti, Ideale per Pavimenti e Peli di ",
         "merchant": "",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "VersLife S6PRO Aspirapolvere Senza Fili 30KPa, Filtro HEPA, 30 Min, Bianco | Scopa Elettrica Senza Fili, Design Senza Spazzole, Autonomia 30 Minuti, Ideale per Pavimenti e Peli di ",
-        "merchant": "",
+        "title": "Aspirapolvere senza fili LAMZIEN, con luce LED verde, potenza di aspirazione di 40000 PA, batteria ricaricabile, autonomia di 40 minuti, ideale per peli di animali domestici, tappe",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Aspirapolvere senza fili, leggero, modello 2026, nuovo arrivo e versione migliorata, con potenza di aspirazione di 55 kPa, spazzola anti groviglio, diverse impostazioni di aspirazi",
+        "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
@@ -2295,14 +2267,14 @@
         "status": "da_verificare"
       },
       {
-        "title": "Electrolux EW6S526A Lavatrice Slim Carica Frontale 6 kg 1200 Giri Classe A | 6 kg di carico, formato slim, centrifuga 1200 giri, classe energetica A",
+        "title": "Whirlpool WSB 726 K IT Lavatrice 7 kg 1200 giri/min, Classe A | Slim, Libera Installazione, Carica Frontale, Igiene Vapore, Motore Inverter, Refresh Vapore, 85,0 x 59,5 x 45,1 cm (",
         "merchant": "",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "Whirlpool WSB 726 K IT Lavatrice 7 kg 1200 giri/min, Classe A | Slim, Libera Installazione, Carica Frontale, Igiene Vapore, Motore Inverter, Refresh Vapore, 85,0 x 59,5 x 45,1 cm (",
+        "title": "Hisense WF5I8043BWF Lavatrice slim a Carica Frontale 8 kg, Classe A-30%, 1400 rpm, 15 Programmi, Connectivity, Vapore, Refresh, Display Touch, Maxi Cestello, Programma Rapido, Alta",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -2444,6 +2416,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "Candy Frigorifero Combinato a 2 Porte, 207 L, Libera Installazione, Classe E, Compatto, Temperatura Regolabile, Luce LED, Cassetto Crisper, 55 x 58 x 151 cm, Argento - CHCS514EX",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Samsung EcoFlex AI Frigorifero Combinato RB38C600DSA/EF, Wifi, All-Around Cooling, Space Max, Total No Frost, 390 L, LxAxP: 59,5 x 203 x 65,8 cm, Silver Inox",
         "merchant": "",
         "ean": "",
@@ -2465,14 +2444,14 @@
         "status": "da_verificare"
       },
       {
-        "title": "PYRAMIDEA Frigorifero Combinato TOTAL NO FROST 320 litri lordi (ben 290 litri netti) Bianco CMB325NFW Altezza 185 cm. Classe energetica E Silenzioso 41 Db.",
+        "title": "Hisense RQ5P470SAFE Frigorifero Americano Quattro Porte, 483 Litri, Total No Frost, WiFi, Metal Tech Cooling, Controllo Touch, Classe E, Inox Nero",
         "merchant": "",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "Hisense RQ5P470SAFE Frigorifero Americano Quattro Porte, 483 Litri, Total No Frost, WiFi, Metal Tech Cooling, Controllo Touch, Classe E, Inox Nero",
+        "title": "LG GMM41MSBEM Frigorifero 4 Porte Slim, Capacità 474L, Total No Frost con Multi Air Flow, Cassetto Zero Gradi Convertibile Fresh Switch, Ripiani in Vetro Temperato, Illuminazione L",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -2486,6 +2465,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "Midea 548L Side by Side Frigorifero, Total No Frost, MERS530FGE02 | AllAround Cooling, Compressore Inverter, Funzione SuperCooling, Silenzioso 35 dB, Altezza 176,5 cm, Inox",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Hisense RS3P558NEFE, nuovo Frigorifero Side by Side, ampia capacità 544 litri, Total No Frost, Convert Active zone, Motore Inverter, Controllo Elettronico Touch, Cassetto Fresh Cri",
         "merchant": "",
         "ean": "",
@@ -2493,21 +2479,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "Gorenje NRS8182KX Frigorifero Side by Side, Capacità 550 litri, Total No Frost, Convert Active Zone, Motore Inverter, Controllo Elettronico Touch, Cassetto Fresh Crisper, Classe E,",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Hisense RQ758N4SWSE Frigorifero Quattro Porte Americano, Grande capacità 606 litri, Finitura Inox, Total No Frost, Classe E, Motore Inverter, Metal Cooling, Convert Zone, WiFi",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "COMFEE' 460L Frigorifero Americano Side by Side, No Frost, RCS609IX2 | Compressore Inverter, Controllo Digitale, Display LED, Funzione SuperCool, Altezza 177,5 cm, Inox",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -2600,6 +2572,13 @@
     ],
     "friggitrici-ad-aria-offerte-confronto": [
       {
+        "title": "Midea Friggitrice ad Aria Verticale Doppia Zona 10 in 1, 11L, 2400W | 2 Cassetti 6L & 5L, Componenti Antiaderenti Lavabili in Lavastoviglie, Connettività Wi-Fi, Compatibile con App",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "LEHMANN Friggitrice ad Aria 8 Litri, Air Fryer XXL con Inserto Divisorio per Doppio Scomparto, Finestra di Visualizzazione, 12 Programmi & Regolazione Manuale 76–200°C, Lavabile in",
         "merchant": "",
         "ean": "",
@@ -2614,14 +2593,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "Moulinex Easy Fry XL Surface, Friggitrice ad Aria 1 kg, Nero, AL4018 | con Tecnologia Extra-Crisp, Superficie XL, Cestello Spazioso, Design Compatto, Visore di Controllo, Doppia Re",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Melchioni Family | MATILDE Friggitrice ad Aria 8L 2200W di Potenza, Cestello Removibile con Maniglia, Griglia Separagrassi, Timer 60 Min, Cottura Light con -80% di Grassi",
+        "title": "Ariete 4640/00 Air Fryer Vertical DUO, Friggitrice ad aria doppia verticale, 2460W, 11L, Due cestelli, Sync e Dual, 6 programmi, Funzione Grill, Fino a 200°C",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -2637,13 +2609,6 @@
       {
         "title": "Friggitrice Ad Aria 9L | Friggitrice Aria Doppio Cestello con 2x4,5L Cestello, 8-in-1 Airfryer Controllo Indipendente Temperatura 50-200℃, Grande Doppia Zona 2600W Air Fryer LED Sc",
         "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Friggitrice ad Aria con Forno per Pizza da 12 Pollici, 2200W, 11 in 1 con Doppio Riscaldamento e Finestra di Visualizzazione, Capacità XL 4.2L, 360° ° Cottura a 360°, Senza Girare",
-        "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
@@ -2784,27 +2749,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Skechers Bobs B Extra Carino, Scarpe da ginnastica Donna, Nero, 40 EU",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Skechers Bobs Squad Tough Talk, Scarpe da Ginnastica Donna, Black Engineered Knit Trim Blk, 40 EU",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Skechers Bobs B Cute, Scarpe da ginnastica Donna, Rose Canvas, 37 EU",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
         "ean": "",
@@ -2931,7 +2875,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "Puma Sneaker Unisex St Runner Adulto NL, V4 Tela Bianca Blu persiana, 42.5 EU",
+        "title": "Lotto Sneaker Unisex, Nero/Grigio, 44 EU, Nero/Grigio, 44 EU",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -2939,6 +2883,27 @@
       },
       {
         "title": "Uomo Scarpe Sportive da Ginnastica Trail Running Respirabile Jogging Sneakers Casual Basse Scarpe Leggere Business MU9568-3 (Navy,40)",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "JOMIX Scarpe da Ginnastica Uomo Sneaker Sportive Corsa Running Sneakers Casual Traspirante per Correre Camminare Trail Trekking SU138-13 (Bianco, 42)",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "ASOCO DREAM Scarpe da Trail Running Uomo Scarpe da Passeggio Leggero Traspirante Scarpe da Ginnastica Antiscivolo Fitness Running Sneakers,Camuffare,39 EU",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "FitVille Scarpe Trail Running Uomo Pianta Larga Sneakers Leggere Scarpe da Corsa su Strada Trekking Sportive Outdoor Blu 43 EU Larga",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -3073,13 +3038,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Puma Sneaker Unisex St Runner Adulto NL, V4 Tela Bianca Blu persiana, 42.5 EU",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Uomo Scarpe Sportive da Ginnastica Trail Running Respirabile Jogging Sneakers Casual Basse Scarpe Leggere Business MU9568-3 (Navy,40)",
         "merchant": "",
         "ean": "",
@@ -3108,6 +3066,20 @@
         "status": "da_verificare"
       },
       {
+        "title": "Nessuna cucitura aggiuntiva, scarpe casual unisex semplici, scarpe da skateboard basse, tomaia liscia, calzature per coppie, suola in gomma resistente all'usura, texture pulita, sc",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Scarpe da skateboard unisex in stile hip hop, modello retrò e casual, sneakers da skateboard con elevata resistenza all'usura, suola piatta, tomaia traspirante, allacciate, perfett",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Scarpe da skateboard unisex Vulcanized Craft, modello classico con punta arrotondata, sneakers casual, suola in gomma flessibile e indeformabile, tomaia traspirante, calzature per ",
         "merchant": "aliexpress",
         "ean": "",
@@ -3115,42 +3087,35 @@
         "status": "da_verificare"
       },
       {
-        "title": "Sneakers da skateboard unisex a taglio basso con suola rinforzata anti abrasione, scarpe casual alla moda con soletta morbida, resistenti all'usura e antiscivolo, con allacciatura,",
+        "title": "Scarpe da skateboard unisex con punta in gomma, modello basso, casual, sneakers con design semplice, perfette per coppie, resistenti all'usura, antiscivolo, leggere, ideali per gio",
         "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "Nuovo arrivo: scarpe da skateboard unisex, modello basso con allacciatura, sneakers casual, traspiranti, resistenti all'usura, antiscivolo, con suola piatta, perfette per il tempo ",
+        "title": "Sneakers dal design retrò e di lusso, scarpe sportive casual con colori a blocchi, scarpe da skate unisex con suola spessa e rialzo, calzature di tendenza antiscivolo e traspiranti",
         "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "Scarpe da skateboard unisex alla moda, stile coppia, con stampa di tendenza, sneakers resistenti all'usura, suola in gomma antiscivolo, calzature comode per giovani, uomini e donne",
+        "title": "Scarpe da skateboard casual per uomo e donna, modello basso, sneakers basse con tomaia in tela, allacciate, antiscivolo, resistenti all'usura, perfette per il weekend, le uscite, l",
         "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "Scarpe da skateboard casual unisex con puntale resistente agli urti, modello basso con allacciatura, sneakers basse e flessibili, suola antiscivolo e resistente all'usura, calzatur",
+        "title": "Sneakers Unisex con Linea a Contrasto Bianco e Nero, Allacciatura, Suola Spessa, Scarpe da Ginnastica Casual alla Moda per Uomo e Donna",
         "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "Scarpe da skateboard casual unisex per la transizione tra le stagioni, perfette per la primavera iniziale e l'autunno tardivo. Sneakers da skateboard con tomaia di spessore moderat",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Sneakers da skate unisex, versatili e adatte a tutti i giorni, con design basso, perfette per un look casual e alla moda. Scarpe da skate con tomaia traspirante, suola piatta fless",
+        "title": "Sneakers unisex in rete e pelle scamosciata con inserti a contrasto, allacciate, a taglio basso, scarpe sportive casual",
         "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
