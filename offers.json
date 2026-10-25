@@ -1,5 +1,22 @@
 [
   {
+    "asin": "B089BYTQD3",
+    "title": "Nutravita Multivitaminico Uomo - 180 Multivitamin Compresse Vegane | Integratore Multivitaminico Uomo con 25 Vitamine & Minerali Attivi Essenziali con Radice di Maca e Panax Ginseng",
+    "price": 19.99,
+    "old_price": 29.99,
+    "discount": 33.0,
+    "image": "https://m.media-amazon.com/images/I/41MKuSf6C5L._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B089BYTQD3?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "integratori_multivitaminici",
+    "macro_group": "tempo_libero",
+    "seasonal_title": "",
+    "published_at": "2026-10-25T14:04:02.706495+01:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B0DSG1NYJJ",
     "title": "JBL GO Essential 2, Speaker Bluetooth Portatile, Nero | Suono Original Pro, Bluetooth 4.2, Fino a 5 Ore di Autonomia, Design Impermeabile ad Acqua e Polvere IP69",
     "price": 27.99,
@@ -2400,52 +2417,6 @@
     ],
     "merchant_match_score": 100,
     "merchant_ean": "4047443438621",
-    "merchant_prices_checked_at": "2026-10-25T05:24:32.566795+01:00"
-  },
-  {
-    "asin": "W9C21FBD5E",
-    "title": "Candy Idea CHW6BRX Acciaio inox Da incasso 60 cm Gas 4 Fornello(i)",
-    "price": 89.99,
-    "old_price": 229.9,
-    "discount": 60.9,
-    "image": "https://www.unieuro.it/medias/sys_master/root/h06/hf9/51827397066782/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-506fe509d0dcccfa328aeb9b2338fdb8-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-    "url": "https://www.awin1.com/pclick.php?p=42005788693&a=3086723&m=10139",
-    "category": "altro",
-    "macro_group": "awin_discovery",
-    "seasonal_title": "Offerta Unieuro",
-    "published_at": "2026-10-25T06:11:09.308395+01:00",
-    "source_merchant": "unieuro",
-    "source_external_id": "CANCHW6BRX",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "unieuro",
-        "merchant_name": "Unieuro",
-        "merchant_id": "10139",
-        "product_id": "CANCHW6BRX",
-        "awin_product_id": "42005788693",
-        "title": "Candy Idea CHW6BRX Acciaio inox Da incasso 60 cm Gas 4 Fornello(i)",
-        "brand": "Candy",
-        "ean": "8016361966895",
-        "mpn": "33801973",
-        "price": 89.99,
-        "old_price": 229.9,
-        "discount": 60.9,
-        "image": "https://www.unieuro.it/medias/sys_master/root/h06/hf9/51827397066782/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-506fe509d0dcccfa328aeb9b2338fdb8-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-        "url": "https://www.awin1.com/pclick.php?p=42005788693&a=3086723&m=10139",
-        "category": "Piani cottura",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {
-          "material": "steel",
-          "length_mm": 600.0
-        }
-      }
-    ],
-    "merchant_match_score": 100,
-    "merchant_ean": "8016361966895",
     "merchant_prices_checked_at": "2026-10-25T05:24:32.566795+01:00"
   }
 ]
