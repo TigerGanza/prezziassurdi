@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-26T23:09:03+01:00",
+  "generated_at": "2026-10-27T00:29:09+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -2980,6 +2980,13 @@
     ],
     "migliori-moda": [
       {
+        "title": "Champion Legacy Boy - Big Logo Hoodie, Felpa con Cappuccio Bambino, Black (KK001),",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
         "ean": "",
@@ -3179,13 +3186,6 @@
         "title": "JOPHY & CO. T-Shirt Personalizzabile in Cotone, Maglietta Personalizzata con Stampa per Uomo e Donna, Idea Regalo Originale (IT, Testo, L, Regular, Regular, Nero)",
         "merchant": "amazon",
         "ean": "8054346377250",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "JOPHY & CO. T-Shirt Personalizzabile in Cotone, Maglietta Personalizzata con Stampa per Uomo e Donna, Idea Regalo Originale (IT, Testo, S, Regular, Regular, Bianco)",
-        "merchant": "amazon",
-        "ean": "8054346377281",
         "mpn": "",
         "status": "da_verificare"
       }
