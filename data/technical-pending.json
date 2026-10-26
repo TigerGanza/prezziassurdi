@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-26T19:31:38+01:00",
+  "generated_at": "2026-10-26T20:51:12+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -685,6 +685,13 @@
       }
     ],
     "migliori-notebook": [
+      {
+        "title": "ASUS Chromebook CM1405CM4A#B0GV4V3CHG, Notebook con display 14\" Anti-glare, 60Hz, processore MediaTek™ Kompanio 540, RAM 4GB, 64G eMMC, ChromeOS, Grigio",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "ASUS Vivobook 16 F1605VA#B0FZL8JLW9, Notebook con display 16\" Anti-glare, 60Hz,Intel® Core™ 9 Processor 270H,RAM 16GB, 1TB SSD, WIN11 Home, Argento",
         "merchant": "",
@@ -2316,6 +2323,20 @@
     ],
     "migliori-lavatrici": [
       {
+        "title": "Indesit IM 1072 MY TIME IT – Lavatrice 10 Kg | Libera Installazione, Carica Frontale, 1200 Giri/min, Classe A, Vapore, AcquaFlex, Antimacchia, 84,5 x 60 x 58 cm",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "LG F4R7010TSWG Lavatrice 10 kg Serie R7, Classe A-10%, AI DD, Wi-Fi | 1400 Giri, TurboWash 360, Vapore su 7 Programmi, Allergy Care, Oblò in Vetro Temperato, Direct Drive, Bianca",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Bosch WAN28229IT Serie 4 Lavatrice 9kg 1400 giri/min Bianco Classe A",
         "merchant": "",
         "ean": "",
@@ -2506,20 +2527,6 @@
       },
       {
         "title": "Samsung Lavatrice AI Control Ecodosatore 11Kg WW11DG6B85LHU3",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Smeg LB2T92ASIT lavatrice Caricamento frontale 9 kg 1200 Giri/min Bianco",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Samsung WW90DG5G34AEET lavatrice Caricamento frontale 9 kg 1400 Giri/min Bianco",
         "merchant": "unieuro",
         "ean": "",
         "mpn": "",
