@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-26T14:49:38+01:00",
+  "generated_at": "2026-10-26T16:09:38+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -388,6 +388,13 @@
     ],
     "tv-in-offerta": [
       {
+        "title": "Philips Hue Play Gradient Lightstrip, Strisce LED Smart, 55\" | 16 milioni di colori, Illuminazione surround, Sync con TV, Dimmerabile, Smart Home, Philips Hue Bridge e Sync Box nec",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "XIAOMI TV F Pro 32 2025, 32 pollici (81 cm), QLED, Smart TV, Fire TV, Triple Tuner DVB-C/S/S2/T/T2,Dolby Audio, DTS Virtual:X, DTS-HD, Controllo Vocale Alexa, Compatibile con Apple",
         "merchant": "",
         "ean": "",
@@ -589,16 +596,16 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "TCL 75V6D – Smart TV 4K HDR10+ da 75\" con Fire TV e Dolby Atmos | DTS:X, Game Master, Motion Clarity, Apple AirPlay 2, Press & Ask Alexa",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
       }
     ],
     "offerte-tv-55-65-pollici": [
+      {
+        "title": "Philips Hue Play Gradient Lightstrip, Strisce LED Smart, 55\" | 16 milioni di colori, Illuminazione surround, Sync con TV, Dimmerabile, Smart Home, Philips Hue Bridge e Sync Box nec",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Samsung Smart TV 55\" UE55M80HAUXZT Mini LED 4K , HDR 10+, Motion Xcelerator 144Hz, Adpative Sound+, AI Football Mode, Voice Control with AI(VAC), Alexa Built-in, PACCHETTO INTRATTE",
         "merchant": "",
@@ -1098,6 +1105,13 @@
     ],
     "migliori-monitor": [
       {
+        "title": "ASUS TUF GAMING VG259QM5A, Monitor Gaming Serie 5 da 24,5\" FHD, Nero | Fast IPS (1920x1080), 0,3ms Response Time, 240Hz, G-SYNC, AMD FreeSync Premium ed ELMB SYNC, DisplayWidget Ce",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "MSI MAG 242CA Monitor Gaming 24\" FHD 1500R 1920x1080 VA, 180 Hz, 1ms | HDR Ready, Eye Care, HDMI 2.0b, DP 1.2a, senza cornice, regolabile in inclinazione, compatibile VESA, colore ",
         "merchant": "amazon",
         "ean": "",
@@ -1295,13 +1309,6 @@
       },
       {
         "title": "Monitor di Qualità dell'Aria Qingping Gen 2, Rilevatore di PM2.5, CO2, PM10, Rumore, Temperatura e Umidità per Interni, con Allarme",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Srnubi Navigazione moto da 5/8,1 pollici anteriore 4K + posteriore1080P DVR IPX7 Carplay portatile impermeabile/Android Auto Bluetooth Monitor",
         "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
@@ -2875,6 +2882,20 @@
     ],
     "migliori-moda": [
       {
+        "title": "PLAYMOBIL Pirates 71533 MyFigures: Pirati, Montaggio Creativo di Personaggi Pirati Personalizzati, Incluso Mappa del Tesoro e Spille per Il Cappello da Pirata, Giocattolo per Bambi",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Sidas Borsa per Scarponi da Sci e Snowboard, Boot Bag Blue Nylon, 4 Rinforzi integrati sotto la Borsa, Membrane di evacuazione per eliminare l'umidità, 40 x 42,5 x 24 cm",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Skechers Skech-stepz 2.0 Mini Wanderer, Scarpe da Ginnastica Bambini e ragazzi, Nero Black Textile Synthetic Blue Lime Trim, 26 EU",
         "merchant": "amazon",
         "ean": "",
@@ -3065,20 +3086,6 @@
       },
       {
         "title": "CustomSolo Maglietta Personalizzata con Foto e Testo, Unisex Doppia Faccia T-Shirt Personalizzata per Donna e Uomo, Maglia Personalizzata per Regali, Logo Aziendale, Compleanni, Fa",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "CustomSolo Maglietta Personalizzata con Foto e Testo, Unisex Doppia Faccia T-Shirt Personalizzata per Uomo e Donna, Maglia Personalizzata per Regali, Compleanni, Famiglia, Logo Azi",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "WORLD SELL T-Shirt Uomo/Donna Personalizzata Fronte e Retro – 100% Cotone – Made in Italy – Maglietta Personalizzabile con Testo, Logo o Immagine (IT, Testo, S, Regular, Regular, N",
         "merchant": "",
         "ean": "",
         "mpn": "",
