@@ -249,6 +249,19 @@
         "Taglie",
         "Cura"
       ]
+    },
+    "lavapavimenti-elettriche": {
+      "title": "Schede lavapavimenti verificabili",
+      "description": "Dati dichiarati dal produttore per il modello esatto. La presenza della scheda non garantisce un’offerta disponibile.",
+      "fields": [
+        "Autonomia",
+        "Peso",
+        "Pavimenti compatibili",
+        "Autopulizia",
+        "Asciugatura",
+        "Bordi",
+        "Modalità secco verificata"
+      ]
     }
   },
   "products": [
@@ -277,10 +290,17 @@
         "Spazzola": "Spazzola in gomma sollevabile e TriCut 3.0 dichiarata",
         "Soglie": "Non dichiarate nella fonte usata"
       },
-      "verified_at": "2026-09-30",
+      "verified_at": "2026-10-23",
       "source": {
-        "name": "Dreame Italia – L40 Ultra AE",
-        "url": "https://it.dreametech.com/products/robot-aspirapolvere-dreame-l40-ultra-ae-nero"
+        "name": "Dreame Italia — L40 Ultra AE",
+        "url": "https://it.dreametech.com/products/l40-ultra-ae-robot-aspirapolvere"
+      },
+      "verified_filter_tokens": {
+        "bag": true,
+        "bagless": false,
+        "hot_dry": true,
+        "self_clean": true,
+        "mop_rotating": true
       }
     },
     {
@@ -314,6 +334,13 @@
       "source": {
         "name": "MOVA Italia – V70 Ultra Complete",
         "url": "https://it.mova.tech/products/v70-ultra-complete-robot-aspirapolvere"
+      },
+      "verified_filter_tokens": {
+        "bagless": true,
+        "bag": false,
+        "pet": true,
+        "mop_rotating": true,
+        "self_clean": true
       }
     },
     {
@@ -1013,6 +1040,358 @@
         "url": "https://www.samsung.com/it/smartphones/galaxy-z/galaxy-z-flip5-lavender-256gb-sm-f731bligeue/"
       },
       "verified_at": "2026-10-22"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy A36 5G",
+      "aliases": [
+        "samsung galaxy a36",
+        "galaxy a36 5g"
+      ],
+      "guide_slugs": [
+        "smartphone-in-offerta",
+        "migliori-smartphone-sotto-300-euro"
+      ],
+      "mpn": [],
+      "eans": [],
+      "verified_at": "2026-10-23",
+      "source": {
+        "name": "Samsung — scheda del produttore",
+        "url": "https://www.samsungmobilepress.com/media-assets/galaxy-a36-5g?tab=specs"
+      },
+      "specifications": {
+        "Display": "Super AMOLED 6,7 pollici, fino a 120 Hz",
+        "Fotocamere": "Principale con OIS; ultragrandangolare e macro; nessun teleobiettivo",
+        "Batteria": "5.000 mAh dichiarati"
+      },
+      "verified_filter_tokens": {
+        "ois": true,
+        "telephoto": false,
+        "photo_rec": true,
+        "amoled": true
+      },
+      "filter_fields": {
+        "battery_mah": 5000
+      },
+      "highlights": [
+        "Super AMOLED 6,7 pollici, fino a 120 Hz",
+        "Principale con OIS; ultragrandangolare e macro; nessun teleobiettivo",
+        "5.000 mAh dichiarati"
+      ]
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S25 Ultra",
+      "aliases": [
+        "samsung galaxy s25 ultra",
+        "galaxy s25 ultra"
+      ],
+      "guide_slugs": [
+        "smartphone-in-offerta",
+        "migliori-smartphone-sotto-300-euro"
+      ],
+      "mpn": [],
+      "eans": [],
+      "verified_at": "2026-10-23",
+      "source": {
+        "name": "Samsung — scheda del produttore",
+        "url": "https://www.samsungmobilepress.com/articles/samsung-galaxy-s25-series-sets-the-standard-of-ai-phone-as-a-true-ai-companion"
+      },
+      "specifications": {
+        "Fotocamere": "OIS sulla principale, teleobiettivi con zoom ottico 3x e 5x",
+        "Display": "AMOLED 6,9 pollici",
+        "Batteria": "5.000 mAh dichiarati"
+      },
+      "verified_filter_tokens": {
+        "ois": true,
+        "telephoto": true,
+        "photo_rec": true,
+        "amoled": true,
+        "ip68": true
+      },
+      "filter_fields": {
+        "battery_mah": 5000,
+        "charge_w": 45
+      },
+      "highlights": [
+        "OIS sulla principale, teleobiettivi con zoom ottico 3x e 5x",
+        "AMOLED 6,9 pollici",
+        "5.000 mAh dichiarati"
+      ]
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy Z Flip6",
+      "aliases": [
+        "samsung galaxy z flip6",
+        "galaxy z flip6",
+        "galaxy z flip 6"
+      ],
+      "guide_slugs": [
+        "smartphone-in-offerta",
+        "migliori-smartphone-sotto-300-euro"
+      ],
+      "mpn": [],
+      "eans": [],
+      "verified_at": "2026-10-23",
+      "source": {
+        "name": "Samsung — scheda del produttore",
+        "url": "https://www.samsungmobilepress.com/articles/samsung-galaxy-z-fold6-and-z-flip6-elevate-galaxy-ai-to-new-heights"
+      },
+      "specifications": {
+        "Fotocamere": "Principale 50 MP con OIS e ultragrandangolare; nessun teleobiettivo",
+        "Processore": "Snapdragon 8 Gen 3 for Galaxy",
+        "Batteria": "4.000 mAh dichiarati"
+      },
+      "verified_filter_tokens": {
+        "ois": true,
+        "telephoto": false,
+        "photo_rec": true,
+        "snapdragon": true,
+        "amoled": true
+      },
+      "filter_fields": {
+        "battery_mah": 4000
+      },
+      "highlights": [
+        "Principale 50 MP con OIS e ultragrandangolare; nessun teleobiettivo",
+        "Snapdragon 8 Gen 3 for Galaxy",
+        "4.000 mAh dichiarati"
+      ]
+    },
+    {
+      "brand": "Motorola",
+      "model": "edge 60 neo",
+      "aliases": [
+        "motorola edge 60 neo",
+        "moto edge 60 neo"
+      ],
+      "guide_slugs": [
+        "smartphone-in-offerta",
+        "migliori-smartphone-sotto-300-euro"
+      ],
+      "mpn": [],
+      "eans": [],
+      "verified_at": "2026-10-23",
+      "source": {
+        "name": "Motorola — scheda del produttore",
+        "url": "https://it-it.support.motorola.com/app/answers/detail/a_id/189504/~/specifiche--motorola-edge-60-neo"
+      },
+      "specifications": {
+        "Display": "pOLED 6,36 pollici",
+        "Processore": "MediaTek Dimensity 7400",
+        "Protezione": "IP68 / IP69 dichiarata"
+      },
+      "verified_filter_tokens": {
+        "amoled": true,
+        "ip68": true,
+        "mediatek": true,
+        "nfc": true
+      },
+      "filter_fields": {
+        "charge_w": 68
+      },
+      "highlights": [
+        "pOLED 6,36 pollici",
+        "MediaTek Dimensity 7400",
+        "IP68 / IP69 dichiarata"
+      ]
+    },
+    {
+      "brand": "Tineco",
+      "model": "FLOOR ONE S7 STRETCH",
+      "aliases": [
+        "tineco floor one s7 stretch"
+      ],
+      "guide_slugs": [
+        "lavapavimenti-elettriche"
+      ],
+      "mpn": [],
+      "eans": [],
+      "verified_at": "2026-10-23",
+      "source": {
+        "name": "Tineco — scheda del produttore",
+        "url": "https://it.tineco.com/products/floor-one-s7-stretch.html"
+      },
+      "specifications": {
+        "Autonomia": "Fino a 50 minuti dichiarati",
+        "Manutenzione": "Autopulizia e asciugatura ad aria calda",
+        "Maneggevolezza": "Reclinabile a 180 gradi; trazione in avanti"
+      },
+      "verified_filter_tokens": {
+        "wetdry": true,
+        "self_clean": true,
+        "hot_dry": true,
+        "anti_tangle": true,
+        "recline": true,
+        "self_drive": true,
+        "edge_clean": true
+      },
+      "filter_fields": {
+        "runtime_minutes": 50
+      },
+      "highlights": [
+        "Fino a 50 minuti dichiarati",
+        "Autopulizia e asciugatura ad aria calda",
+        "Reclinabile a 180 gradi; trazione in avanti"
+      ]
+    },
+    {
+      "brand": "Dreame",
+      "model": "H12 Pro",
+      "aliases": [
+        "dreame h12 pro",
+        "h12 pro"
+      ],
+      "guide_slugs": [
+        "lavapavimenti-elettriche"
+      ],
+      "mpn": [],
+      "eans": [],
+      "verified_at": "2026-10-23",
+      "source": {
+        "name": "Dreame — scheda del produttore",
+        "url": "https://it.dreametech.com/products/h12-pro"
+      },
+      "specifications": {
+        "Autonomia": "Fino a 35 minuti dichiarati",
+        "Manutenzione": "Autopulizia e asciugatura ad aria calda",
+        "Peso": "4,9 kg dichiarati"
+      },
+      "verified_filter_tokens": {
+        "wetdry": true,
+        "self_clean": true,
+        "hot_dry": true,
+        "edge_clean": true
+      },
+      "filter_fields": {
+        "runtime_minutes": 35,
+        "weight_kg": 4.9
+      },
+      "highlights": [
+        "Fino a 35 minuti dichiarati",
+        "Autopulizia e asciugatura ad aria calda",
+        "4,9 kg dichiarati"
+      ]
+    },
+    {
+      "brand": "Kärcher",
+      "model": "FC 7 Cordless",
+      "aliases": [
+        "karcher fc 7 cordless",
+        "karcher fc7 cordless"
+      ],
+      "guide_slugs": [
+        "lavapavimenti-elettriche"
+      ],
+      "mpn": [
+        "1.055-730.0"
+      ],
+      "eans": [],
+      "verified_at": "2026-10-23",
+      "source": {
+        "name": "Kärcher — scheda del produttore",
+        "url": "https://www.kaercher.com/it/home-garden/lavapavimenti/fc-7-cordless-10557300.html"
+      },
+      "specifications": {
+        "Autonomia": "Circa 45 minuti dichiarati",
+        "Pavimenti": "Pavimenti duri sigillati, inclusi parquet e piastrelle",
+        "Peso senza accessori": "4,3 kg dichiarati"
+      },
+      "verified_filter_tokens": {
+        "sealed_hard": true,
+        "parquet": true,
+        "tiles": true,
+        "pet": true,
+        "edge_clean": true
+      },
+      "filter_fields": {
+        "runtime_minutes": 45,
+        "weight_kg": 4.3
+      },
+      "highlights": [
+        "Circa 45 minuti dichiarati",
+        "Pavimenti duri sigillati, inclusi parquet e piastrelle",
+        "4,3 kg dichiarati"
+      ]
+    },
+    {
+      "brand": "Bissell",
+      "model": "CrossWave HydroSteam PET",
+      "aliases": [
+        "bissell crosswave hydrosteam pet",
+        "crosswave hydrosteam pet"
+      ],
+      "guide_slugs": [
+        "lavapavimenti-elettriche"
+      ],
+      "mpn": [
+        "3517N"
+      ],
+      "eans": [],
+      "verified_at": "2026-10-23",
+      "source": {
+        "name": "Bissell — scheda del produttore",
+        "url": "https://www.bissell.it/prodotti/crosswaver-hydrosteamtm-pet"
+      },
+      "specifications": {
+        "Alimentazione": "Con filo",
+        "Utilizzo": "Lavaggio multisuperficie con funzione vapore",
+        "Destinazione": "Case con animali domestici"
+      },
+      "verified_filter_tokens": {
+        "corded": true,
+        "wetdry": true,
+        "pet": true
+      },
+      "filter_fields": {},
+      "highlights": [
+        "Con filo",
+        "Lavaggio multisuperficie con funzione vapore",
+        "Case con animali domestici"
+      ]
+    },
+    {
+      "brand": "MOVA",
+      "model": "M10",
+      "aliases": [
+        "mova m10",
+        "dreame mova m10"
+      ],
+      "guide_slugs": [
+        "lavapavimenti-elettriche"
+      ],
+      "mpn": [],
+      "eans": [],
+      "verified_at": "2026-10-23",
+      "source": {
+        "name": "MOVA Italia — M10",
+        "url": "https://it.mova.tech/products/mova-m10-wet-and-dry-vacuum"
+      },
+      "specifications": {
+        "Autonomia": "Fino a 40 minuti in modalità Smart dichiarati",
+        "Peso del corpo": "4,4 kg dichiarati; il peso in movimento è un valore differente",
+        "Manutenzione": "Autopulizia e asciugatura ad aria calda a 75 °C dichiarate",
+        "Maneggevolezza": "Reclinabile a 180 gradi; pulizia da bordo a bordo"
+      },
+      "highlights": [
+        "Autonomia dichiarata fino a 40 minuti",
+        "Corpo di 4,4 kg",
+        "Autopulizia e asciugatura ad aria calda"
+      ],
+      "verified_filter_tokens": {
+        "wetdry": true,
+        "self_clean": true,
+        "hot_dry": true,
+        "recline": true,
+        "edge_clean": true,
+        "anti_tangle": true,
+        "pet": true
+      },
+      "filter_fields": {
+        "runtime_minutes": 40,
+        "weight_kg": 4.4
+      }
     }
   ]
 }

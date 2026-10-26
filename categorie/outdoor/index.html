@@ -468,12 +468,6 @@ body[data-pa-season] .pa-season-product-mark .pa-season-3d-icon {display:none}
 <a class="cta" href="https://www.awin1.com/pclick.php?p=25568892253&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
 <!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
-<div class="photo"><img src="https://m.media-amazon.com/images/I/51R5dtM9p6L._SL500_.jpg" alt="BEYSTE Torcia LED Potente Professionale 1, 000, 000 Lumens 1520m Zoomabile" loading="lazy"></div>
-<h3><a href="https://prezziassurdi.com/offerte/B0CQ22QYB1/">BEYSTE Torcia LED Potente Professionale 1, 000, 000 Lumens 1520m Zoomabile</a></h3>
-<div class="price">25,71 €<span class="old">39,98 €</span></div><div class="discount">Sconto dichiarato: -36%</div>
-<a class="cta" href="https://prezziassurdi.com/offerte/B0CQ22QYB1/">VEDI DETTAGLI →</a>
-<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
-<article class="card">
 <div class="photo"><img src="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_84943818/fee_786_587_png" alt="In viaggio con papà DVD" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=36624173875&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">In viaggio con papà DVD</a></h3>
 <div class="price">8,74 €<span class="old">12,99 €</span></div><div class="discount">Sconto dichiarato: -33%</div>
@@ -522,10 +516,10 @@ body[data-pa-season] .pa-season-product-mark .pa-season-3d-icon {display:none}
 <a class="cta" href="https://www.awin1.com/pclick.php?p=45946345133&amp;a=3086723&amp;m=17962" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
 <!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
-<div class="photo"><img src="https://cdn.manomano.com/pim-media/images/master/b87e4ba3cd6d046efef40fdeb8cf88cf01f1a338.jpg" alt="Vite Per Legno 6x100mm 10 Unità 2fx Duofix Evo Outdoor Impronta Torx" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46221848872&amp;a=3086723&amp;m=17962" target="_blank" rel="nofollow sponsored noopener">Vite Per Legno 6x100mm 10 Unità 2fx Duofix Evo Outdoor Impronta Torx</a></h3>
-<div class="price">2,43 €</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46221848872&amp;a=3086723&amp;m=17962" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
+<div class="photo"><img src="https://cdn.manomano.com/pim-media/images/master/b87e4ba3cd6d046efef40fdeb8cf88cf01f1a338.jpg" alt="Vite Per Legno 5x100mm 10 Unità 2fx Duofix Evo Outdoor Impronta Torx" loading="lazy"></div>
+<h3><a href="https://www.awin1.com/pclick.php?p=46386972778&amp;a=3086723&amp;m=17962" target="_blank" rel="nofollow sponsored noopener">Vite Per Legno 5x100mm 10 Unità 2fx Duofix Evo Outdoor Impronta Torx</a></h3>
+<div class="price">2,06 €</div>
+<a class="cta" href="https://www.awin1.com/pclick.php?p=46386972778&amp;a=3086723&amp;m=17962" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
 <!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article></div>
 </section>
 <section class="editorial-panel" style="margin-top:18px">
@@ -657,6 +651,7 @@ body[data-pa-season] .pa-season-product-mark .pa-season-3d-icon {display:none}
           if(button.disabled) return;
           button.classList.toggle('active');
           button.setAttribute('aria-pressed', button.classList.contains('active') ? 'true' : 'false');
+          apply();
         });
       });
       if(applyBtn) applyBtn.addEventListener('click', function(){
@@ -706,6 +701,7 @@ body[data-pa-season] .pa-season-product-mark .pa-season-3d-icon {display:none}
 (function(){
 'use strict';
 var ID='G-H7L5D55JG7', KEY='pa_analytics_consent_v1', accepted=false, loaded=false;
+if(window.__paAnalyticsAttached)return;window.__paAnalyticsAttached=true;
 var panel=document.getElementById('pa-consent'), detail=document.getElementById('pa-consent-detail'), reopen=document.getElementById('pa-reopen');
 function read(){try{var v=localStorage.getItem(KEY);return v==='yes'||v==='no'?v:null;}catch(e){return null;}}
 function save(v){try{localStorage.setItem(KEY,v);}catch(e){}}
@@ -713,9 +709,10 @@ function show(){panel.hidden=false;reopen.hidden=true;}
 function hide(){panel.hidden=true;reopen.hidden=false;}
 function enable(){
  if(loaded)return;loaded=true;
+ var clean=new URL(location.href);Array.from(clean.searchParams.keys()).forEach(function(k){if(!/^utm_(source|medium|campaign|term|content|id)$/.test(k))clean.searchParams.delete(k);});clean.hash='';
  window.dataLayer=window.dataLayer||[];
  window.gtag=function(){window.dataLayer.push(arguments);};
- window.gtag('js',new Date());window.gtag('config',ID,{send_page_view:true});
+ window.gtag('js',new Date());window.gtag('config',ID,{send_page_view:true,page_location:clean.href,page_title:document.title.replace(/Risultati per.*/i,'Ricerca prodotti')});
  var s=document.createElement('script');s.async=true;s.src='https://www.googletagmanager.com/gtag/js?id='+encodeURIComponent(ID);document.head.appendChild(s);
 }
 function choose(v){var wasLoaded=loaded;accepted=v==='yes';save(v);if(accepted)enable();hide();if(!accepted && wasLoaded)location.reload();}
@@ -725,6 +722,7 @@ document.getElementById('pa-customize').addEventListener('click',function(){deta
 reopen.addEventListener('click',function(){show();});
 var prior=read();if(prior==='yes'){accepted=true;enable();hide();}else if(prior==='no'){hide();}else{show();}
 function event(name,params){if(accepted && loaded && typeof window.gtag==='function'){window.gtag('event',name,params||{});}}
+function merchantDestination(raw){try{var h=new URL(raw,location.href).hostname.toLowerCase();for(var n of ['unieuro','mediaworld','manomano'])if(h===n+'.it'||h.endsWith('.'+n+'.it'))return n;if(h==='aliexpress.com'||h.endsWith('.aliexpress.com'))return 'aliexpress';return 'awin_partner';}catch(_){return 'awin_partner';}}
 function merchant(raw){
  try {var u=new URL(raw,location.href),h=u.hostname.toLowerCase(),p=u.pathname.toLowerCase();
  if(h==='amzn.to'||h==='amzn.eu'||h==='link.amazon'||h==='amazon.it'||h.endsWith('.amazon.it'))return 'amazon';
@@ -732,13 +730,24 @@ function merchant(raw){
  if(h==='mediaworld.it'||h.endsWith('.mediaworld.it'))return 'mediaworld';
  if(h==='manomano.it'||h.endsWith('.manomano.it'))return 'manomano';
  if(h==='aliexpress.com'||h.endsWith('.aliexpress.com'))return 'aliexpress';
- if(h==='awin1.com'||h.endsWith('.awin1.com')||h==='zenaps.com'||h.endsWith('.zenaps.com'))return 'awin_partner';
+ if(h==='awin1.com'||h.endsWith('.awin1.com')||h==='zenaps.com'||h.endsWith('.zenaps.com')){
+  var mid=u.searchParams.get('m')||u.searchParams.get('awinmid');
+  var known={'10139':'unieuro','18529':'mediaworld','17962':'manomano','12251':'aliexpress'};
+  if(known[mid])return known[mid];
+  var dest=u.searchParams.get('ued');
+  if(dest && dest!==raw)return merchantDestination(dest);
+  return 'awin_partner';
+ }
  // Other tracking redirects are deliberately not classified as confirmed merchants.
  return '';}catch(e){return '';}
 }
+// Keep only campaign parameters on internal navigation; never alter affiliate URLs.
+var campaign=new URLSearchParams(location.search);
+function carry(url){var u=new URL(url,location.href);if(u.origin!==location.origin)return url;campaign.forEach(function(v,k){if(/^utm_(source|medium|campaign|term|content|id)$/.test(k)&&!u.searchParams.has(k))u.searchParams.set(k,v);});return u.href;}
+document.addEventListener('click',function(e){var a=e.target&&e.target.closest?e.target.closest('a[href]'):null;if(a)a.href=carry(a.href);},true);
 document.addEventListener('click',function(e){
  var el=e.target && e.target.closest ? e.target.closest('a[href]') : null;
- if(el){var m=merchant(el.href);if(m){event('affiliate_click',{merchant:m,page_path:location.pathname,link_text:(el.textContent||'').trim().slice(0,80),transport_type:'beacon'});}return;}
+ if(el){var m=merchant(el.href);if(m){event('affiliate_click',{merchant:m,page_path:location.pathname,guide:location.pathname.startsWith('/guide/')?location.pathname.split('/')[2]:'',link_text:(el.textContent||'').trim().slice(0,80),transport_type:'beacon'});}return;}
  var filter=e.target&&e.target.closest?e.target.closest('[data-guide-filter-key]'):null;
  if(filter){event('guide_filter_click',{filter_group:(filter.getAttribute('data-guide-filter-group')||'other').slice(0,60),filter_key:(filter.getAttribute('data-guide-filter-key')||'').slice(0,80),page_path:location.pathname});}
  var apply=e.target&&e.target.closest?e.target.closest('[data-guide-filter-apply]'):null;

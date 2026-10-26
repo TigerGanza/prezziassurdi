@@ -298,7 +298,7 @@ body[data-pa-season] .pa-season-product-mark .pa-season-3d-icon {display:none}
 <div class="price-history-note"><b>⚠️ Possibile errore di prezzo</b><span>Prezzo molto anomalo rilevato automaticamente: verifica subito variante, disponibilità e venditore sul negozio prima di acquistare.</span></div>
 
 <section class="pa-history-empty"><b>Storico prezzi</b><p>Nessuna rilevazione storica disponibile per questa offerta. I giorni mancanti non vengono ricostruiti.</p></section>
-<div class="product-observation"><span class="neutral">Negozio rilevato: Unieuro</span></div>
+<div class="product-observation"><span class="neutral">Negozio rilevato: Unieuro</span><span>Disponibile nel feed partner al momento della rilevazione</span></div>
 
 <p class="single-description">PanzerGlass CARE by ® Flagship Cover Trasparente Urban Combat con…. Ora a 6,99 €; il negozio indica un prezzo di riferimento di 34,99 € e uno sconto…</p>
 <a class="cta yellow" href="https://prezziassurdi.com/offerte/WF404D8309/?go=1">VAI ALL'OFFERTA SU UNIEURO →</a>
@@ -438,6 +438,7 @@ body[data-pa-season] .pa-season-product-mark .pa-season-3d-icon {display:none}
           if(button.disabled) return;
           button.classList.toggle('active');
           button.setAttribute('aria-pressed', button.classList.contains('active') ? 'true' : 'false');
+          apply();
         });
       });
       if(applyBtn) applyBtn.addEventListener('click', function(){
@@ -487,6 +488,7 @@ body[data-pa-season] .pa-season-product-mark .pa-season-3d-icon {display:none}
 (function(){
 'use strict';
 var ID='G-H7L5D55JG7', KEY='pa_analytics_consent_v1', accepted=false, loaded=false;
+if(window.__paAnalyticsAttached)return;window.__paAnalyticsAttached=true;
 var panel=document.getElementById('pa-consent'), detail=document.getElementById('pa-consent-detail'), reopen=document.getElementById('pa-reopen');
 function read(){try{var v=localStorage.getItem(KEY);return v==='yes'||v==='no'?v:null;}catch(e){return null;}}
 function save(v){try{localStorage.setItem(KEY,v);}catch(e){}}
@@ -494,9 +496,10 @@ function show(){panel.hidden=false;reopen.hidden=true;}
 function hide(){panel.hidden=true;reopen.hidden=false;}
 function enable(){
  if(loaded)return;loaded=true;
+ var clean=new URL(location.href);Array.from(clean.searchParams.keys()).forEach(function(k){if(!/^utm_(source|medium|campaign|term|content|id)$/.test(k))clean.searchParams.delete(k);});clean.hash='';
  window.dataLayer=window.dataLayer||[];
  window.gtag=function(){window.dataLayer.push(arguments);};
- window.gtag('js',new Date());window.gtag('config',ID,{send_page_view:true});
+ window.gtag('js',new Date());window.gtag('config',ID,{send_page_view:true,page_location:clean.href,page_title:document.title.replace(/Risultati per.*/i,'Ricerca prodotti')});
  var s=document.createElement('script');s.async=true;s.src='https://www.googletagmanager.com/gtag/js?id='+encodeURIComponent(ID);document.head.appendChild(s);
 }
 function choose(v){var wasLoaded=loaded;accepted=v==='yes';save(v);if(accepted)enable();hide();if(!accepted && wasLoaded)location.reload();}
@@ -506,6 +509,7 @@ document.getElementById('pa-customize').addEventListener('click',function(){deta
 reopen.addEventListener('click',function(){show();});
 var prior=read();if(prior==='yes'){accepted=true;enable();hide();}else if(prior==='no'){hide();}else{show();}
 function event(name,params){if(accepted && loaded && typeof window.gtag==='function'){window.gtag('event',name,params||{});}}
+function merchantDestination(raw){try{var h=new URL(raw,location.href).hostname.toLowerCase();for(var n of ['unieuro','mediaworld','manomano'])if(h===n+'.it'||h.endsWith('.'+n+'.it'))return n;if(h==='aliexpress.com'||h.endsWith('.aliexpress.com'))return 'aliexpress';return 'awin_partner';}catch(_){return 'awin_partner';}}
 function merchant(raw){
  try {var u=new URL(raw,location.href),h=u.hostname.toLowerCase(),p=u.pathname.toLowerCase();
  if(h==='amzn.to'||h==='amzn.eu'||h==='link.amazon'||h==='amazon.it'||h.endsWith('.amazon.it'))return 'amazon';
@@ -513,13 +517,24 @@ function merchant(raw){
  if(h==='mediaworld.it'||h.endsWith('.mediaworld.it'))return 'mediaworld';
  if(h==='manomano.it'||h.endsWith('.manomano.it'))return 'manomano';
  if(h==='aliexpress.com'||h.endsWith('.aliexpress.com'))return 'aliexpress';
- if(h==='awin1.com'||h.endsWith('.awin1.com')||h==='zenaps.com'||h.endsWith('.zenaps.com'))return 'awin_partner';
+ if(h==='awin1.com'||h.endsWith('.awin1.com')||h==='zenaps.com'||h.endsWith('.zenaps.com')){
+  var mid=u.searchParams.get('m')||u.searchParams.get('awinmid');
+  var known={'10139':'unieuro','18529':'mediaworld','17962':'manomano','12251':'aliexpress'};
+  if(known[mid])return known[mid];
+  var dest=u.searchParams.get('ued');
+  if(dest && dest!==raw)return merchantDestination(dest);
+  return 'awin_partner';
+ }
  // Other tracking redirects are deliberately not classified as confirmed merchants.
  return '';}catch(e){return '';}
 }
+// Keep only campaign parameters on internal navigation; never alter affiliate URLs.
+var campaign=new URLSearchParams(location.search);
+function carry(url){var u=new URL(url,location.href);if(u.origin!==location.origin)return url;campaign.forEach(function(v,k){if(/^utm_(source|medium|campaign|term|content|id)$/.test(k)&&!u.searchParams.has(k))u.searchParams.set(k,v);});return u.href;}
+document.addEventListener('click',function(e){var a=e.target&&e.target.closest?e.target.closest('a[href]'):null;if(a)a.href=carry(a.href);},true);
 document.addEventListener('click',function(e){
  var el=e.target && e.target.closest ? e.target.closest('a[href]') : null;
- if(el){var m=merchant(el.href);if(m){event('affiliate_click',{merchant:m,page_path:location.pathname,link_text:(el.textContent||'').trim().slice(0,80),transport_type:'beacon'});}return;}
+ if(el){var m=merchant(el.href);if(m){event('affiliate_click',{merchant:m,page_path:location.pathname,guide:location.pathname.startsWith('/guide/')?location.pathname.split('/')[2]:'',link_text:(el.textContent||'').trim().slice(0,80),transport_type:'beacon'});}return;}
  var filter=e.target&&e.target.closest?e.target.closest('[data-guide-filter-key]'):null;
  if(filter){event('guide_filter_click',{filter_group:(filter.getAttribute('data-guide-filter-group')||'other').slice(0,60),filter_key:(filter.getAttribute('data-guide-filter-key')||'').slice(0,80),page_path:location.pathname});}
  var apply=e.target&&e.target.closest?e.target.closest('[data-guide-filter-apply]'):null;
