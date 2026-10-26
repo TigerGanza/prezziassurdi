@@ -1,5 +1,39 @@
 [
   {
+    "asin": "B0FPLS8NN2",
+    "title": "Oral-B Dentifricio Pro-expert Fresco Intenso, Clinicamente Provato, 12x75ml",
+    "price": 18.99,
+    "old_price": 44.99,
+    "discount": 58.0,
+    "image": "https://m.media-amazon.com/images/I/51h1Rv79TuL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0FPLS8NN2?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "igiene_personale",
+    "macro_group": "cura_persona",
+    "seasonal_title": "",
+    "published_at": "2026-10-26T13:35:24.282903+01:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
+    "asin": "B09STBRNHM",
+    "title": "Parodontax Original Dentifricio Gengive Sane e Denti Forti, 75ml | Gusto Migliorato",
+    "price": 2.58,
+    "old_price": 3.9,
+    "discount": 34.0,
+    "image": "https://m.media-amazon.com/images/I/41mF81x-QdL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B09STBRNHM?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "igiene_personale",
+    "macro_group": "cura_persona",
+    "seasonal_title": "",
+    "published_at": "2026-10-26T13:35:24.178785+01:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B006A2Q81M",
     "title": "Logitech C920 HD Pro Webcam | Videochiamata Full HD 1080p/30fps, Audio Stereo, Correzione Luce HD, Skype, Zoom, PC, Mac, Laptop, Tablet - Nero",
     "price": 61.95,
@@ -1887,97 +1921,6 @@
     ],
     "merchant_match_score": 100,
     "merchant_ean": "6935364081362",
-    "merchant_prices_checked_at": "2026-10-26T06:08:43.727215+01:00"
-  },
-  {
-    "asin": "W20EF22B87",
-    "title": "Bosch MSMP1000 Frullatore a immersione YourCollection 350 W Bianco, Rosso",
-    "price": 11.99,
-    "old_price": 29.99,
-    "discount": 60.0,
-    "image": "https://www.unieuro.it/medias/sys_master/root/hf8/h17/50491457208350/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-bc3d6e76e60377bee46cfe6b6b484f50-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-    "url": "https://www.awin1.com/pclick.php?p=37777039341&a=3086723&m=10139",
-    "category": "cucina",
-    "macro_group": "awin_discovery",
-    "seasonal_title": "Offerta Unieuro",
-    "published_at": "2026-10-26T07:24:34.109692+01:00",
-    "source_merchant": "unieuro",
-    "source_external_id": "BOHMSMP1000",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "unieuro",
-        "merchant_name": "Unieuro",
-        "merchant_id": "10139",
-        "product_id": "BOHMSMP1000",
-        "awin_product_id": "37777039341",
-        "title": "Bosch MSMP1000 Frullatore a immersione YourCollection 350 W Bianco, Rosso",
-        "brand": "Bosch",
-        "ean": "4242005099009",
-        "mpn": "MSMP1000",
-        "price": 11.99,
-        "old_price": 29.99,
-        "discount": 60.0,
-        "image": "https://www.unieuro.it/medias/sys_master/root/hf8/h17/50491457208350/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-bc3d6e76e60377bee46cfe6b6b484f50-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-        "url": "https://www.awin1.com/pclick.php?p=37777039341&a=3086723&m=10139",
-        "category": "Frullatori",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {
-          "ambiguous_attributes": [
-            "color"
-          ],
-          "power_w": 350.0
-        }
-      }
-    ],
-    "merchant_match_score": 100,
-    "merchant_ean": "4242005099009",
-    "merchant_prices_checked_at": "2026-10-26T06:08:43.727215+01:00"
-  },
-  {
-    "asin": "WBF0EE3BF2",
-    "title": "I-Genio 926 accessorio e componente per lavatrice Drain 1 pz",
-    "price": 11.99,
-    "old_price": 29.99,
-    "discount": 60.0,
-    "image": "https://www.unieuro.it/medias/sys_master/root/he9/h53/48567666638878/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-719ae3249eae0d6f404cb568e19620b1-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-    "url": "https://www.awin1.com/pclick.php?p=41512122760&a=3086723&m=10139",
-    "category": "casa",
-    "macro_group": "awin_discovery",
-    "seasonal_title": "Offerta Unieuro",
-    "published_at": "2026-10-26T07:24:07.350735+01:00",
-    "source_merchant": "unieuro",
-    "source_external_id": "AMT926",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "unieuro",
-        "merchant_name": "Unieuro",
-        "merchant_id": "10139",
-        "product_id": "AMT926",
-        "awin_product_id": "41512122760",
-        "title": "I-Genio 926 accessorio e componente per lavatrice Drain 1 pz",
-        "brand": "I-genio",
-        "ean": "8033959629260",
-        "mpn": "926",
-        "price": 11.99,
-        "old_price": 29.99,
-        "discount": 60.0,
-        "image": "https://www.unieuro.it/medias/sys_master/root/he9/h53/48567666638878/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-719ae3249eae0d6f404cb568e19620b1-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-        "url": "https://www.awin1.com/pclick.php?p=41512122760&a=3086723&m=10139",
-        "category": "Accessori Pulizia",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {}
-      }
-    ],
-    "merchant_match_score": 100,
-    "merchant_ean": "8033959629260",
     "merchant_prices_checked_at": "2026-10-26T06:08:43.727215+01:00"
   }
 ]
