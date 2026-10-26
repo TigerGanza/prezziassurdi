@@ -1,17 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-10-26T06:19:38+01:00",
+  "generated_at": "2026-10-26T07:44:32+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
     "smartphone-in-offerta": [
-      {
-        "title": "DOOGEE N55 Plus Smartphone,20GB+128GB,Android 14,Octa Core,13MP+8MP,5150mAh",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Blackview Wave 2C Smartphone Offerta Android 16, 12GB+32GB/1TB TF Cellulari Octa-Core, 5.0\", 4G Dual SIM Telefono Cellulare Offerta, WiFi 5G/3.5mm/ Face ID/3 Slot Eer Carte/3 Anni ",
         "merchant": "",
@@ -214,16 +207,16 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      }
-    ],
-    "migliori-smartphone-sotto-300-euro": [
+      },
       {
-        "title": "DOOGEE N55 Plus Smartphone,20GB+128GB,Android 14,Octa Core,13MP+8MP,5150mAh",
-        "merchant": "amazon",
+        "title": "REDMI Note 17 Pro 5G, Smartphone 8+512GB, Black, Batteria da 8340 mAh | Fotocamera OIS 50MP, HyperCharge 67W, Snapdragon®6s Gen4, Display Flagship Alta Luminosità 3500nit, Protezio",
+        "merchant": "",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      },
+      }
+    ],
+    "migliori-smartphone-sotto-300-euro": [
       {
         "title": "Blackview Wave 2C Smartphone Offerta Android 16, 12GB+32GB/1TB TF Cellulari Octa-Core, 5.0\", 4G Dual SIM Telefono Cellulare Offerta, WiFi 5G/3.5mm/ Face ID/3 Slot Eer Carte/3 Anni ",
         "merchant": "",
@@ -672,6 +665,13 @@
     ],
     "migliori-notebook": [
       {
+        "title": "HP Chromebook 14a-nf0000slx, Notebook, Intel Processor N100, 4GB RAM, 128 GB, Grafica integrata, Display 14 FHD IPS Antiriflesso 300 nits, Laptop, ChromeOS, Portatile, Argento",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "ASUS Vivobook 16 F1605VA#B0FZL8JLW9, Notebook con display 16\" Anti-glare, 60Hz,Intel® Core™ 9 Processor 270H,RAM 16GB, 1TB SSD, WIN11 Home, Argento",
         "merchant": "",
         "ean": "",
@@ -892,13 +892,6 @@
       }
     ],
     "migliori-tablet": [
-      {
-        "title": "DOOGEE U11 Pro Tablet 11 Pollici 90Hz, Tablet Android 16, 30GB RAM+256GB ROM/TF 2TB, Batteria 8580mAh Tablet con Tastiera, Unisoc T7200 Octa-Core, Widevine L1/5G WiFi/13 MP/GPS/OTG",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Tablet Android da 11 Pollici, Octa-Core, 24GB(4+20) RAM+128GB Memoria, Batteria 8200mAh, Widevine L1, Espandibile fino a 1TB, Doppia Fotocamera, Android Tablet per Studio, Lavoro e",
         "merchant": "",
@@ -2558,6 +2551,13 @@
     ],
     "friggitrici-ad-aria-offerte-confronto": [
       {
+        "title": "Ardes Eldorada Maxi Singolo 5 L Indipendente 1450 W Friggitrice ad aria calda Nero",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "LEHMANN Friggitrice ad Aria 8 Litri, Air Fryer XXL con Inserto Divisorio per Doppio Scomparto, Finestra di Visualizzazione, 12 Programmi & Regolazione Manuale 76–200°C, Lavabile in",
         "merchant": "",
         "ean": "",
@@ -2615,13 +2615,6 @@
       },
       {
         "title": "De’Longhi IdealFry FH2101 Friggitrice ad aria calda 1400W",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Ardes Eldorada Maxi Singolo 5 L Indipendente 1450 W Friggitrice ad aria calda Nero",
         "merchant": "unieuro",
         "ean": "",
         "mpn": "",
@@ -2686,6 +2679,27 @@
     ],
     "migliori-moda": [
       {
+        "title": "CINTURINO SMARTWATCH VONMAHLEN Cinturino per Apple W Wave Band 2, 40/41/42 Crema, Silicone",
+        "merchant": "mediaworld",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "CINTURINO SMARTWATCH VONMAHLEN Cinturino Apple W Classic Nylon Loop, 40/41/42 Verde, flessibile",
+        "merchant": "mediaworld",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "CINTURINO SMARTWATCH VONMAHLEN Cinturino Apple W Classic Nylon Loop, 40/41/42 Crema, flessibile",
+        "merchant": "mediaworld",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "CINTURINO SMARTWATCH VONMAHLEN Cinturino Apple W Classic Band 40/41/42 Blu, Silicone",
         "merchant": "mediaworld",
         "ean": "",
@@ -2743,13 +2757,6 @@
       },
       {
         "title": "Velway Guanti da Lavoro con Rivestimento in PU 12 Paia, Nero, Taglia 8/M",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Buff® | Original EcoStretch Scaldacollo Nero per Uomo Donna Adulto Sciarpa Tubolare Multifunzione per Collo e Testa per Correre e Camminare Ideale per Escursionismo e Running, Sost",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -2876,20 +2883,6 @@
       },
       {
         "title": "PUMA Caven 2.0, Sneaker Unisex - Adulto, White Silver, 38 EU",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Lotto Sneaker Unisex, Nero/Grigio, 44 EU, Nero/Grigio, 44 EU",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Uomo Scarpe Sportive da Ginnastica Trail Running Respirabile Jogging Sneakers Casual Basse Scarpe Leggere Business MU9568-3 (Navy,40)",
         "merchant": "",
         "ean": "",
         "mpn": "",
