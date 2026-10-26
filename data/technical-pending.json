@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-26T13:24:33+01:00",
+  "generated_at": "2026-10-26T14:49:38+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -668,16 +668,16 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      }
-    ],
-    "migliori-notebook": [
+      },
       {
-        "title": "HP Chromebook 14a-nf0000slx, Notebook, Intel Processor N100, 4GB RAM, 128 GB, Grafica integrata, Display 14 FHD IPS Antiriflesso 300 nits, Laptop, ChromeOS, Portatile, Argento",
-        "merchant": "amazon",
+        "title": "Metz TV 43 55 pollici 4K UHD Smart TV LED Google TV HDR 10 MEMC Dolby Audio Google Cast Sintonizzatore di controllo vocale 43MUF7000Z 55MUF7000Z",
+        "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      },
+      }
+    ],
+    "migliori-notebook": [
       {
         "title": "ASUS Vivobook 16 F1605VA#B0FZL8JLW9, Notebook con display 16\" Anti-glare, 60Hz,Intel® Core™ 9 Processor 270H,RAM 16GB, 1TB SSD, WIN11 Home, Argento",
         "merchant": "",
@@ -779,6 +779,13 @@
       {
         "title": "Alienware 15 Gaming Laptop - Intel Core 7 240H, NVIDIA RTX 5050",
         "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Ninkear S14 Laptop 14' 2.2K IPS AMD Ryzen 5 6600H 6 Core 4.55GHz 16GB LPDDR5X 1TB PCIe SSD WiFi 6 BT5.3 PD65W Ricarica Rapida 1kg Ultra Leggero Type C Windows 11,180 ° Hinge Finger",
+        "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
@@ -907,6 +914,41 @@
       {
         "title": "GMKtec G10 Mini PC Ryzen 5 3500U (Più potente di N150), 16GB RAM, 512GB SSD, LAN 2.5GbE, Computer desktop per ufficio e casa, Tripla uscita 4K, WiFi, Bluetooth, USB-C, DisplayPort",
         "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "SOYO M5 Mini PC AMD Ryzen 3 4300U LPDDR4 16GB RAM 512GB ROM Windows 11 Pro Mini Computer Desktop con Doppia Uscita 4K Multi Schermo, WiFi, Bluetooth, LAN Gigabit, Type C, Micro PC ",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "SOYO M5 Mini PC AMD Ryzen 3 4300U LPDDR4 16GB RAM 512GB ROM Windows 11 Pro Mini Computer Desktop con Doppia Uscita Multi Schermo 4K WiFi Bluetooth Gigabit LAN Type C Micro PC Compa",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Mini PC Mllse M4 con Processore Intel Core I5 8265U, RAM DDR4 16GB, SSD 480GB, WiFi 5, BT 4.2, Win11, Computer Desktop Mini",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "SOYO NcuBox S4 PLUS MINI PC Ryzen 7 H255 DDR5 24G PCIe3.0 Nvme SSD 512GB WIFI6 BT5.2 8K HD Mini PC Computer da Gaming Fai da Te",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Mini PC MLLSE M6 con CPU Intel Core i5 12450H, 16 GB di RAM, SSD da 512 GB, WiFi 6, BT 5.2, mini computer desktop con Windows 11 Pro",
+        "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
@@ -1047,7 +1089,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "Tablet PC da 10,36 Pollici con Doppia Fotocamera, Dual Sim, 5G, Android 13, Bluetooth, Wifi, 16GB+1TB ROM, Google Play, Octa Core",
+        "title": "Tablet Teclast T65 Android 16 13,4\" 6GB RAM 128GB ROM 120Hz 1920x120IPS T7280 8 core 4G LTE 8000mAh Type C GPS 13MP",
         "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
@@ -1252,15 +1294,15 @@
         "status": "da_verificare"
       },
       {
-        "title": "OMEN by HP Monitor da gaming 27'' FHD 240 Hz – OMEN 27s",
-        "merchant": "unieuro",
+        "title": "Monitor di Qualità dell'Aria Qingping Gen 2, Rilevatore di PM2.5, CO2, PM10, Rumore, Temperatura e Umidità per Interni, con Allarme",
+        "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "ASUS ZenScreen MB16AWP Monitor PC 39,6 cm (15.6'') 1920 x 1080 Pixel Full HD LED Nero",
-        "merchant": "unieuro",
+        "title": "Srnubi Navigazione moto da 5/8,1 pollici anteriore 4K + posteriore1080P DVR IPX7 Carplay portatile impermeabile/Android Auto Bluetooth Monitor",
+        "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
@@ -1394,43 +1436,85 @@
         "status": "da_verificare"
       },
       {
-        "title": "Samsung Galaxy Watch6 Classic Smartwatch Fitness Tracker Ghiera Interattiva in Acciao Inox 47mm Graphite",
-        "merchant": "unieuro",
+        "title": "Smartwatch HUAWEI Watch GT 5 46mm originale con schermo AMOLED a colori da 1,43 pollici e durata della batteria fino a 2 settimane",
+        "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "Apple Watch Series 10 Serie 10 GPS + Cellular 46mm Cassa in Titanio color Ardesia con Loop in maglia milanese ardesia S/M",
-        "merchant": "unieuro",
+        "title": "OnePlus Watch Lite Smartwatch con Display AMOLED da 1,46'', GPS Dual Band e Durata della Batteria fino a 10 Giorni",
+        "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "Garmin Fenix E 3,3 cm (1.3'') AMOLED 47 mm Digitale 416 x 416 Pixel Touch screen Nero Wi Fi GPS (satellitare)",
-        "merchant": "unieuro",
+        "title": "Nuovo Smartwatch OnePlus Watch 2 con Schermo AMOLED da 1,43'', WiFi, GPS, IP68, Google Pay",
+        "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "IOPLEE IOPEXTWATCH669BK smartwatch e orologio sportivo 3,63 cm (1.43'') AMOLED Digitale 466 x 466 Pixel Touch screen Nero",
-        "merchant": "unieuro",
+        "title": "Smartwatch HUAWEI WATCH GT Runner 2",
+        "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "IOPLEE IOPEXTWATCH670BL smartwatch e orologio sportivo 3,63 cm (1.43'') AMOLED Digitale 466 x 466 Pixel Touch screen Blu",
-        "merchant": "unieuro",
+        "title": "Marsyu ECG+PPG Health Smartwatch Ossigeno nel sangue Acido urico Pressione sanguigna HD Orologio con chiamata Bluetooth per iOS Android Uomini e donne",
+        "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "IOPLEE IOPEXTWATCH671GR smartwatch e orologio sportivo 3,63 cm (1.43'') AMOLED Digitale 466 x 466 Pixel Touch screen Argento",
-        "merchant": "unieuro",
+        "title": "Marsyu Smartwatch AI per la Salute con ECG+HRV, Analisi di Lipidi e Acido Urico, Torcia, UI 2.5D, Chiamate Vocali, per Uomini e Donne",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "GARMIN Forerunner 165, orologio Garmin con sensore di pulsossimetria, monitoraggio dello stress, dinamica della corsa e misurazioni basate sul polso.",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "OnePlus Watch 4 Smartwatch 47mm 32GB ROM 2GB RAM Bluetooth NFC GPS, Batteria fino a 16 giorni, Display LTPO OLED da 1.5\" 3000 nit, Snapdragon W5, Wear OS 6.0, IP69, 5ATM",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Nuovo Smartwatch Sportivo da Uomo 2026 per Attività all'Aperto, Monitoraggio della Salute, Impermeabile IP68, Cardiofrequenzimetro, Torcia LED, Chiamate Bluetooth",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Nuovo Smartwatch Sportivo GPS 2026 per Uomo, NFC, Bussola, Fitness Tracker, Chiamate Bluetooth, Impermeabile IP68, Compatibile con Android e iOS",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "HAYLOU Solar 5 Chiamate vocali Smartwatch 1.58 ''Display AMOLED 60Hz Smart Watch 24 ore Monitoraggio della salute Sport Smartwatch per uomo",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "OnePlus Watch 4 Smartwatch 2026 Nuovo",
+        "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
@@ -1569,6 +1653,20 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
+      },
+      {
+        "title": "Nintendo Switch Modello OLED con Joy‑Con, Audio Migliorato, Console Regolabile, Modalità TV Stabile, Schermo da 7'' per Videogiochi",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Nintendo Switch 2 Originale al 100% con Schermo da 7.9'', Joy Con, Audio Migliorato, Console Regolabile NS2",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
       }
     ],
     "migliori-soundbar": [
@@ -1664,6 +1762,20 @@
         "status": "da_verificare"
       },
       {
+        "title": "ULTIMEA Aura S4T 350W Soundbar 7.1ch per TV con Subwoofer, 4 Altoparlanti Surround e Staffe di Montaggio, Sistema Home Theater Surround",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "ULTIMEA Apollo S70 Ultra Soundbar con Audio Surround Virtuale 7.1 per Smart TV, 2 Altoparlanti Surround, RGB, Subwoofer da 6,5'', 410W",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Samsung Soundbar HW B750F/ZF, Audio 5.1 canali , Wireless Dolby 5.1ch, 2025",
         "merchant": "unieuro",
         "ean": "",
@@ -1729,15 +1841,22 @@
     ],
     "cuffie-bluetooth-in-offerta": [
       {
-        "title": "Sony WH-CH720N | Cuffie Wireless con Noise Cancelling, Connessione Multipoint, Fino a 35 ore di durata della batteria e Ricarica Rapida - Blu",
+        "title": "Sony WF-C510 Auricolari True Wireless | In-Ear, Auricolari, Bluetooth, Multipoint, Suono Ambiente, IPX4, 22 h di Autonomia, iOS e Android, Rosa",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "Xtreme 40336W cuffia e auricolare True Wireless Stereo (TWS) In-ear Musica e Chiamate Bluetooth Bianco",
-        "merchant": "unieuro",
+        "title": "Sony ULT WEAR Cuffie bluetooth con Cancellazione Rumore e bassi profondi | Over-Ear, wireless, WH-1000XM5 processore, chiamate nitide, 30 ore batteria, noise cancelling, iOS & Andr",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Sony WH-CH720N | Cuffie Wireless con Noise Cancelling, Connessione Multipoint, Fino a 35 ore di durata della batteria e Ricarica Rapida - Blu",
+        "merchant": "amazon",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
@@ -1785,7 +1904,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "Sistema di monitoraggio wireless in ear YAMNWEO, sistema IEM professionale per palcoscenico, 200 canali regolabili, trasmissione a lunga distanza di 100 metri, cuffie con sistema d",
+        "title": "Auricolare Bluetooth per Casco Moto XGP X1 con Controlli Vocali e Funzione di Risposta Automatica alle Chiamate, Accessorio Portatile per Moto",
         "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
@@ -1794,6 +1913,55 @@
       {
         "title": "Eva Fruit Auricolari TWS in Ear Wireless Max Bianco",
         "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Mornystar S8 Interfono per moto Cuffie per casco 1200M 6 Rider Interfono Bluetooth Comunicazione Interfono GPS Impermeabile FM",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "【FR STOCK】Moman 2Pack Auricolare interfono per casco da moto, sistema di comunicazione wireless con 4 modalità di miscelazione audio dinamica, portata di 1 km",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "XGP X10 cuffie moto Bluetooth per casco comunicazione Wireless Mesh 3.0, Audio multifunzione per 10 motociclisti",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Nuovo Interfono per Moto XGP, Auricolare Bluetooth per Casco, Condivisione Musica, Controllo Vocale, Microfono con Riduzione del Rumore, Batteria da 1000mAh",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Cuffie con protezione dell'udito PROHEAR Bluetooth 5.0 con batteria ricaricabile cuffie con riduzione del rumore di sicurezza per lavori di falciatura",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "【STOCK UE】Interfono per Casco Moto Moman con Doppio Chip, Sistema di Comunicazione Audio Multitasking, Auricolare Interfono Wireless a Mani Libere",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "LEXIN MeshCom citofono per cuffie Bluetooth e MESH per moto, con sistema di comunicazione Mesh, Audio citofono parallelo, 24 Riders",
+        "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
@@ -1814,6 +1982,13 @@
       },
       {
         "title": "Sony LinkBuds Auricolare True Wireless Connessione Bluetooth® multipoint* Batteria fino a 17,5h Ottimizzate per Alexa e Google Assistant Microfo",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Xtreme 40336W cuffia e auricolare True Wireless Stereo (TWS) In ear Musica e Chiamate Bluetooth Bianco",
         "merchant": "unieuro",
         "ean": "",
         "mpn": "",
@@ -1870,69 +2045,6 @@
       },
       {
         "title": "Sony Cuffie Bluetooth wireless WH CH520 Durata della batteria fino a 50 ore con ricarica rapida, stile on ear Bianco",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Sony Cuffie Bluetooth wireless WH CH520 Durata della batteria fino a 50 ore con ricarica rapida, stile on ear Blu",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Sony Cuffie Bluetooth wireless WH CH520 Durata della batteria fino a 50 ore con ricarica rapida, stile on ear Nero",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Sony WHCH520P.CE7 cuffia e auricolare Wireless A Padiglione Musica e Chiamate USB tipo C Bluetooth Rosa",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Sony WHCH520Y.CE7 cuffia e auricolare Wireless A Padiglione Musica e Chiamate USB tipo C Bluetooth Giallo",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Celly MAGPOCKET3IN1WH Caricabatterie per dispositivi mobili Cuffie, Smartphone, Orologio intelligente Bianco USB Carica wireless Ricarica rapida Interno",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Philips TAT1209BK/00 cuffia e auricolare True Wireless Stereo (TWS) In ear Musica e Chiamate Bluetooth Nero",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "JVC HA A3T Auricolare True Wireless Stereo (TWS) In ear Musica e Chiamate Bluetooth Nero",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Philips 4000 series TAH4209BL/00 cuffia e auricolare Wireless A Padiglione Musica e Chiamate Bluetooth Blu",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Philips 4000 series TAH4209PK/00 cuffia e auricolare Wireless A Padiglione Musica e Chiamate Bluetooth Rosa",
         "merchant": "unieuro",
         "ean": "",
         "mpn": "",
@@ -2060,6 +2172,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "LEFANT M330 Pro M330S Robot aspirapolvere con mappatura, navigazione dToF, sistema di prevenzione ostacoli PSD, aspirazione 6000Pa, Alexa/APP/WiFi",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Eureka J12 Ultra Robot Aspirapolvere e Lavapavimenti con Stazione, Evitamento Ostacoli AI 3D, Autosvuotante per 75 Giorni, Autopulente, Autoasciugante de",
         "merchant": "unieuro",
         "ean": "",
@@ -2139,21 +2258,28 @@
         "status": "da_verificare"
       },
       {
-        "title": "Aspirapolvere senza fili LAMZIEN, con luce LED verde, potenza di aspirazione di 40000 PA, batteria ricaricabile, autonomia di 40 minuti, ideale per peli di animali domestici, tappe",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Aspirapolvere senza fili, leggero, modello 2026, nuovo arrivo e versione migliorata, con potenza di aspirazione di 55 kPa, spazzola anti groviglio, diverse impostazioni di aspirazi",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "400W 33000PA Potenza di aspirazione JR600 Cordless Wireless Aspirapolvere portatili per elettrodomestici per animali domestici 1L Tazza per la polvere Batteria rimovibile",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Honki Nuovo Aspirapolvere Portatile Senza Fili 45KPa, Alta Potenza, Forte Aspirazione, Aspirapolvere Wireless per Auto, Casa, Peli di Animali, Divani e Tappeti",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "55KPa Aspirapolvere Senza Fili Potente 40min Autonomia Tubo Pieghevole 8*2200mAh Scopa Elettrica LED per Peli Animali Casa",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Homore 600W/56KPA Potente aspirapolvere senza fili con schermo a colori LED Modalità di aspirazione automatica Funzione autoportante",
         "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
@@ -2600,6 +2726,27 @@
     ],
     "friggitrici-ad-aria-offerte-confronto": [
       {
+        "title": "LEHMANN LEHMANN Friggitrice ad Aria XXL 8L con Divisorio Rimovibile, Air Fryer Doppia Zona Flessibile 1800 W, 12 Modalità Intelligenti & 76-200°C, Pannello Digitale, Lavabile in La",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Melchioni Friggitrice Ad Aria Marianna Plus 5lt 1400w Bianco Con Oblo'",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Girmi FG78 Friggitrice ad Aria con Finestra \"Ecofrit Black\", 6 Lt, 12 Programmi, 1500 W, Display Digitale, BPA/PFOA Safe, Luce Interna,Vassoio Antiaderente, Ricettario Incluso, Ner",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Midea Friggitrice ad Aria Verticale Doppia Zona 10 in 1, 11L, 2400W | 2 Cassetti 6L & 5L, Componenti Antiaderenti Lavabili in Lavastoviglie, Connettività Wi-Fi, Compatibile con App",
         "merchant": "",
         "ean": "",
@@ -2608,13 +2755,6 @@
       },
       {
         "title": "LEHMANN Friggitrice ad Aria 8 Litri, Air Fryer XXL con Inserto Divisorio per Doppio Scomparto, Finestra di Visualizzazione, 12 Programmi & Regolazione Manuale 76–200°C, Lavabile in",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "LEHMANN LEHMANN Friggitrice ad Aria XXL 8L con Divisorio Rimovibile, Air Fryer Doppia Zona Flessibile 1800 W, 12 Modalità Intelligenti & 76-200°C, Pannello Digitale, Lavabile in La",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -2637,6 +2777,13 @@
       {
         "title": "Friggitrice Ad Aria 9L | Friggitrice Aria Doppio Cestello con 2x4,5L Cestello, 8-in-1 Airfryer Controllo Indipendente Temperatura 50-200℃, Grande Doppia Zona 2600W Air Fryer LED Sc",
         "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Friggitrice ad Aria con Forno per Pizza da 12 Pollici, 2200W, 11 in 1 con Doppio Riscaldamento e Finestra di Visualizzazione, Capacità XL 4.2L, 360° ° Cottura a 360°, Senza Girare",
+        "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
@@ -2737,13 +2884,6 @@
       {
         "title": "PUMA Puma Rebound V6 Mid Ac+ Ps, Scarpe da ginnastica Unisex - Bambini e ragazzi, Puma White Puma Black For All Time Red, 32 EU",
         "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "CINTURINO SMARTWATCH VONMAHLEN Cinturino per Apple W Wave Band 2, 40/41/42 Crema, Silicone",
-        "merchant": "mediaworld",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
@@ -2936,6 +3076,13 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
+      },
+      {
+        "title": "WORLD SELL T-Shirt Uomo/Donna Personalizzata Fronte e Retro – 100% Cotone – Made in Italy – Maglietta Personalizzabile con Testo, Logo o Immagine (IT, Testo, S, Regular, Regular, N",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
       }
     ],
     "migliori-sneakers": [
@@ -3096,55 +3243,6 @@
       {
         "title": "FitVille Scarpe Trail Running Uomo Pianta Larga Sneakers Leggere Scarpe da Corsa su Strada Trekking Sportive Outdoor Blu 43 EU Larga",
         "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Nessuna cucitura aggiuntiva, scarpe casual unisex semplici, scarpe da skateboard basse, tomaia liscia, calzature per coppie, suola in gomma resistente all'usura, texture pulita, sc",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Scarpe da skateboard unisex in stile hip hop, modello retrò e casual, sneakers da skateboard con elevata resistenza all'usura, suola piatta, tomaia traspirante, allacciate, perfett",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Scarpe da skateboard unisex Vulcanized Craft, modello classico con punta arrotondata, sneakers casual, suola in gomma flessibile e indeformabile, tomaia traspirante, calzature per ",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Scarpe da skateboard unisex con punta in gomma, modello basso, casual, sneakers con design semplice, perfette per coppie, resistenti all'usura, antiscivolo, leggere, ideali per gio",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Sneakers dal design retrò e di lusso, scarpe sportive casual con colori a blocchi, scarpe da skate unisex con suola spessa e rialzo, calzature di tendenza antiscivolo e traspiranti",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Scarpe da skateboard casual per uomo e donna, modello basso, sneakers basse con tomaia in tela, allacciate, antiscivolo, resistenti all'usura, perfette per il weekend, le uscite, l",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Sneakers Unisex con Linea a Contrasto Bianco e Nero, Allacciatura, Suola Spessa, Scarpe da Ginnastica Casual alla Moda per Uomo e Donna",
-        "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
