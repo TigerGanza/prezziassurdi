@@ -1,5 +1,22 @@
 [
   {
+    "asin": "B0766KNGQN",
+    "title": "Goodyear Set Di 2 Catene Da Neve Per Auto Da 9 Mm In Metallo Misura 90 Con Tenditore Automatico, T.90",
+    "price": 28.38,
+    "old_price": 39.63,
+    "discount": 28.0,
+    "image": "https://m.media-amazon.com/images/I/51lC7+sHonL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0766KNGQN?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "articoli_neve",
+    "macro_group": "fai_da_te_outdoor",
+    "seasonal_title": "",
+    "published_at": "2026-10-27T14:23:34.489555+01:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B077GWFZGQ",
     "title": "Barilla Pesto al Basilico 100% Vegetale, Senza Aglio, 195 g | Pesto Vegano con Basilico Italiano, Senza Glutine e Senza Formaggi, Naturalmente Senza Lattosio, Sugo Pronto per Pasta",
     "price": 1.7,
@@ -2211,62 +2228,6 @@
     ],
     "merchant_match_score": 100,
     "merchant_ean": "5061042263186",
-    "merchant_prices_checked_at": "2026-10-27T06:32:49.247126+01:00"
-  },
-  {
-    "asin": "W34954D263",
-    "title": "Samsung RB38C600DSA Libera installazione 390 L Acciaio inox",
-    "price": 562.0,
-    "old_price": 1399.0,
-    "discount": 59.8,
-    "image": "https://www.unieuro.it/medias/sys_master/root/hdf/h5d/64864139870238/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-35030f2cb3a22c3aea03773c2f49897e-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-    "url": "https://www.awin1.com/pclick.php?p=38323952173&a=3086723&m=10139",
-    "category": "altro",
-    "macro_group": "awin_discovery",
-    "seasonal_title": "Offerta Unieuro",
-    "published_at": "2026-10-27T06:48:52.696104+01:00",
-    "source_merchant": "unieuro",
-    "source_external_id": "SAMRB38C600DSA",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "unieuro",
-        "merchant_name": "Unieuro",
-        "merchant_id": "10139",
-        "product_id": "SAMRB38C600DSA",
-        "awin_product_id": "38323952173",
-        "title": "Samsung RB38C600DSA Libera installazione 390 L Acciaio inox",
-        "brand": "Samsung",
-        "ean": "8806094768183",
-        "mpn": "RB38C600DSA/EF",
-        "price": 562.0,
-        "old_price": 1399.0,
-        "discount": 59.8,
-        "image": "https://www.unieuro.it/medias/sys_master/root/hdf/h5d/64864139870238/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-35030f2cb3a22c3aea03773c2f49897e-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-        "url": "https://www.awin1.com/pclick.php?p=38323952173&a=3086723&m=10139",
-        "category": "Frigoriferi",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {
-          "material": "steel",
-          "volume_ml": 390000.0
-        }
-      },
-      {
-        "merchant": "amazon",
-        "merchant_name": "Amazon",
-        "price": 448.0,
-        "old_price": 550.43,
-        "discount": 19.0,
-        "url": "https://www.amazon.it/dp/B0FDX4G189?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-        "title": "Samsung EcoFlex AI Frigorifero Combinato RB38C600DSA/EF, Wifi, All-Around Cooling, Space Max, Total No Frost, 390 L, LxAxP: 59,5 x 203 x 65,8 cm, Silver Inox (Ricondizionato)",
-        "image": "https://m.media-amazon.com/images/I/216OAuSktzL._SL500_.jpg"
-      }
-    ],
-    "merchant_match_score": 100,
-    "merchant_ean": "8806094768183",
     "merchant_prices_checked_at": "2026-10-27T06:32:49.247126+01:00"
   }
 ]
