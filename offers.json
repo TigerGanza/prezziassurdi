@@ -1,5 +1,22 @@
 [
   {
+    "asin": "B077GWFZGQ",
+    "title": "Barilla Pesto al Basilico 100% Vegetale, Senza Aglio, 195 g | Pesto Vegano con Basilico Italiano, Senza Glutine e Senza Formaggi, Naturalmente Senza Lattosio, Sugo Pronto per Pasta",
+    "price": 1.7,
+    "old_price": 2.84,
+    "discount": 40.0,
+    "image": "https://m.media-amazon.com/images/I/41ksgkIQdvL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B077GWFZGQ?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "alimentari",
+    "macro_group": "spesa_bevande",
+    "seasonal_title": "",
+    "published_at": "2026-10-27T14:04:08.534348+01:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B0H3PV5F2B",
     "title": "Upgrade4cars Kit Pronto Soccorso Auto Germany con Triangolo & Gilet | Norma DIN 13164 | Accessorio pratico per il veicolo | Facile da usare e da riporre | per Estate & Inverno",
     "price": 23.42,
@@ -2251,22 +2268,5 @@
     "merchant_match_score": 100,
     "merchant_ean": "8806094768183",
     "merchant_prices_checked_at": "2026-10-27T06:32:49.247126+01:00"
-  },
-  {
-    "asin": "B0FPC998DL",
-    "title": "MARBERO 26.400mAh Power Station con Pannello Solare 30W Generatore Solare | 88,8Wh Generatore di Corrente Portatile 150W con Uscite DC per Strada, Avventura, Campeggio, Casa, Interruzione di Corrente",
-    "price": 134.89,
-    "old_price": 169.99,
-    "discount": 21.0,
-    "image": "https://m.media-amazon.com/images/I/51PjPBf0iXL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0FPC998DL?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "outdoor",
-    "macro_group": "fai_da_te_outdoor",
-    "seasonal_title": "",
-    "published_at": "2026-10-27T06:44:01.815682+01:00",
-    "source_merchant": "amazon",
-    "source_external_id": "",
-    "quality_status": "ready",
-    "quality_issues": []
   }
 ]
