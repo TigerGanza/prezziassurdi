@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-27T12:29:02+01:00",
+  "generated_at": "2026-10-27T13:54:03+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -963,20 +963,6 @@
     ],
     "migliori-tablet": [
       {
-        "title": "Gleeso Tablet 10 Pollici｜Tablet con Android 16｜Android Tablet con 24GB RAM 1TB TF｜6000mAh｜Sblocco Facciale｜BT 5.4/WiFi 5G｜8MP Fotocamera, Portatile Tablet per Studenti e Aziende - ",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Gleeso Tablet 10 pollici Android 16, Face ID, OTG, 24GB+64GB+1TB Espansione, 1280 * 800 IPS, WiFi 6, BT5.4, Doppia Fotocamera 5MP+8MP, 6000mAh, Widevine L1 (Nero)",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Tablet Android da 11 Pollici, Octa-Core, 24GB(4+20) RAM+128GB Memoria, Batteria 8200mAh, Widevine L1, Espandibile fino a 1TB, Doppia Fotocamera, Android Tablet per Studio, Lavoro e",
         "merchant": "",
         "ean": "",
@@ -1118,6 +1104,13 @@
       }
     ],
     "migliori-monitor": [
+      {
+        "title": "KOORUI Monitor Gaming 27 Pollici Curvo 180Hz QHD 1ms Adaptive Sync HDMI/DP | DCI-P3 90%, Inclinazione Regolabile, QHD 2560x1440, 1500R, HDR 10, VESA 100*100mm, per lavoro d'ufficio",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "UPERFECT Monitor Portatile con Supporto Pieghevole 15.6\" 125% sRGB 2000:1 | Portabler Monitor HDR EyeCare FHD Opaco Secondo Schermo Ultrasottile per Laptop/PC/Smartphone/Console di",
         "merchant": "amazon",
@@ -1319,13 +1312,6 @@
         "merchant": "unieuro",
         "ean": "0197029615466",
         "mpn": "780G5AAABB",
-        "status": "da_verificare"
-      },
-      {
-        "title": "ASUS ZenScreen MB16AWP Monitor PC 39,6 cm (15.6'') 1920 x 1080 Pixel Full HD LED Nero",
-        "merchant": "unieuro",
-        "ean": "4711081309451",
-        "mpn": "90LM07I1-B01370",
         "status": "da_verificare"
       }
     ],
