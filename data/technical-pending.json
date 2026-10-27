@@ -1,10 +1,17 @@
 {
   "version": 1,
-  "generated_at": "2026-10-27T13:54:03+01:00",
+  "generated_at": "2026-10-27T15:19:02+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
     "smartphone-in-offerta": [
+      {
+        "title": "DOOGEESmart Note 56X Lite Smartphone, Android 16, 6150mAh Batteria, 12GB + 32GB/2TB TF, 6.56\" HD+ 90Hz IPS, 4G Telefono Cellular offerta Smartphone, 8MP+5MP/Dual SIM/Octa Core/Face",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "REDMI Note 17 Pro 5G, Smartphone 8+512GB, Sky Blue, Batteria da 8340 mAh | Fotocamera OIS 50MP, HyperCharge 67W, Snapdragon®6s Gen4, Display Flagship Alta Luminosità 3500nit, Prote",
         "merchant": "amazon",
@@ -207,16 +214,16 @@
         "ean": "6939093039472",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "REDMI Note 17 5G, Smartphone 6+256GB, Celestial Purple, Batteria da 7700mAh | Snapdragon® 4 Gen 4, Ricarica Turbo 45W, Display AMOLED FHD+ 6,99\" Protezione Occhi, Xiaomi HyperOS, I",
-        "merchant": "amazon",
-        "ean": "6939093039465",
-        "mpn": "",
-        "status": "da_verificare"
       }
     ],
     "migliori-smartphone-sotto-300-euro": [
+      {
+        "title": "DOOGEESmart Note 56X Lite Smartphone, Android 16, 6150mAh Batteria, 12GB + 32GB/2TB TF, 6.56\" HD+ 90Hz IPS, 4G Telefono Cellular offerta Smartphone, 8MP+5MP/Dual SIM/Octa Core/Face",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Motorola moto g06 (4/256GB, Fotocamera 50MP+flicker cam, selfie 8MP, Display HD+ 6.88\", MediaTek Helio G81 Extreme, 5200mAh, Android 15), Tapestry",
         "merchant": "amazon",
@@ -940,21 +947,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "Mini PC Mllse M4 con Processore Intel Core I5 8265U, RAM DDR4 16GB, SSD 480GB, WiFi 5, BT 4.2, Win11, Computer Desktop Mini",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "SOYO NcuBox S4 PLUS MINI PC Ryzen 7 H255 DDR5 24G PCIe3.0 Nvme SSD 512GB WIFI6 BT5.2 8K HD Mini PC Computer da Gaming Fai da Te",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Mini PC MLLSE M6 con CPU Intel Core i5 12450H, 16 GB di RAM, SSD da 512 GB, WiFi 6, BT 5.2, mini computer desktop con Windows 11 Pro",
         "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
@@ -1294,24 +1287,17 @@
         "status": "da_verificare"
       },
       {
-        "title": "Srnubi Navigazione moto da 5/8,1 pollici anteriore 4K + posteriore1080P DVR IPX7 Carplay portatile impermeabile/Android Auto Bluetooth Monitor",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Srnubi 8 \"Carplay Moto Navigazione GPS IP67 Impermeabile 4K Moto DVR Wireless Carplay Android Auto Moto Registratore Monitor",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "OMEN by HP Monitor da gaming 27'' FHD 240 Hz – OMEN 27s",
         "merchant": "unieuro",
         "ean": "0197029615466",
         "mpn": "780G5AAABB",
+        "status": "da_verificare"
+      },
+      {
+        "title": "ASUS ZenScreen MB16AWP Monitor PC 39,6 cm (15.6'') 1920 x 1080 Pixel Full HD LED Nero",
+        "merchant": "unieuro",
+        "ean": "4711081309451",
+        "mpn": "90LM07I1-B01370",
         "status": "da_verificare"
       }
     ],
@@ -1443,9 +1429,9 @@
         "status": "da_verificare"
       },
       {
-        "title": "Smartwatch HUAWEI Watch GT 5 46mm originale con schermo AMOLED a colori da 1,43 pollici e durata della batteria fino a 2 settimane",
+        "title": "Nuovo Smartwatch OnePlus Watch 2 con Schermo AMOLED da 1,43'', WiFi, GPS, IP68, Google Pay",
         "merchant": "aliexpress",
-        "ean": "",
+        "ean": "6921815625766",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -1457,9 +1443,9 @@
         "status": "da_verificare"
       },
       {
-        "title": "Nuovo Smartwatch OnePlus Watch 2 con Schermo AMOLED da 1,43'', WiFi, GPS, IP68, Google Pay",
+        "title": "Smartwatch HUAWEI Watch GT 5 46mm originale con schermo AMOLED a colori da 1,43 pollici e durata della batteria fino a 2 settimane",
         "merchant": "aliexpress",
-        "ean": "6921815626626",
+        "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -1499,28 +1485,28 @@
         "status": "da_verificare"
       },
       {
-        "title": "OnePlus Watch 4 Smartwatch 47mm 32GB ROM 2GB RAM Bluetooth NFC GPS, Batteria fino a 16 giorni, Display LTPO OLED da 1.5\" 3000 nit, Snapdragon W5, Wear OS 6.0, IP69, 5ATM",
+        "title": "Versione globale dello smartwatch OnePlus Watch 4, 1,5 pollici, Wear OS by Google, Snapdragon W5, fino a 16 giorni di autonomia, Google Wallet",
         "merchant": "aliexpress",
-        "ean": "6921815630593",
+        "ean": "6921815630623",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "Nuovo Smartwatch Sportivo da Uomo 2026 per Attività all'Aperto, Monitoraggio della Salute, Impermeabile IP68, Cardiofrequenzimetro, Torcia LED, Chiamate Bluetooth",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Nuovo Smartwatch Sportivo GPS 2026 per Uomo, NFC, Bussola, Fitness Tracker, Chiamate Bluetooth, Impermeabile IP68, Compatibile con Android e iOS",
+        "title": "Smartwatch HUAWEI WATCH FIT 5 Pro Originale",
         "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "HAYLOU Solar 5 Chiamate vocali Smartwatch 1.58 ''Display AMOLED 60Hz Smart Watch 24 ore Monitoraggio della salute Sport Smartwatch per uomo",
+        "title": "Nuovo Oneplus Watch 4 Versione Globale 2026, Smartwatch con Processore Snapdragon W5, fino a 16 Giorni di Autonomia della Batteria",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Nuovo arrivo OnePlus Watch 4 Smartwatch con display AMOLED da 1,5”, Snapdragon W5 Gen 1, fino a 16 giorni di autonomia, GPS, NFC, Smartwatch da uomo.",
         "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
@@ -1667,13 +1653,6 @@
         "ean": "0045496453442",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "Nintendo Switch 2 Originale al 100% con Schermo da 7.9'', Joy Con, Audio Migliorato, Console Regolabile NS2",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
       }
     ],
     "migliori-soundbar": [
@@ -1765,20 +1744,6 @@
         "title": "Hisense AX5140Q, 5.1.4 CH Soundbar, 4 up-firing speakers, Hi-Concerto,Dolby Atmos, DTS:X, Room fitting tuning, True wireless rear surround speakers,6.5\" wireless subwoofer, EzPlay ",
         "merchant": "amazon",
         "ean": "6942351423456",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "ULTIMEA Aura S4T 350W Soundbar 7.1ch per TV con Subwoofer, 4 Altoparlanti Surround e Staffe di Montaggio, Sistema Home Theater Surround",
-        "merchant": "aliexpress",
-        "ean": "6978897889586",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "ULTIMEA Apollo S70 Ultra Soundbar con Audio Surround Virtuale 7.1 per Smart TV, 2 Altoparlanti Surround, RGB, Subwoofer da 6,5'', 410W",
-        "merchant": "aliexpress",
-        "ean": "6978897889630",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -1911,6 +1876,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "2PCS BF 88E Walkie Talkie BAOFENG PMR Radio bidirezionale 16CH 446.00625 446.19375MHz con auricolare con caricatore USB Spedito dalla Germania",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "【FR STOCK】Moman 2Pack Auricolare interfono per casco da moto, sistema di comunicazione wireless con 4 modalità di miscelazione audio dinamica, portata di 1 km",
         "merchant": "aliexpress",
         "ean": "",
@@ -1926,20 +1898,6 @@
       },
       {
         "title": "Auricolari Traduttori AI Wooask A9 4G+WiFi, Dispositivo di Traduzione Istantanea Autonomo per 144 Lingue con ChatGPT e Funzione di Chiamata Telefonica",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Cuffie con protezione dell'udito PROHEAR Bluetooth 5.0 con batteria ricaricabile cuffie con riduzione del rumore di sicurezza per lavori di falciatura",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "【STOCK UE】Interfono per Casco Moto Moman con Doppio Chip, Sistema di Comunicazione Audio Multitasking, Auricolare Interfono Wireless a Mani Libere",
         "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
@@ -2063,16 +2021,16 @@
         "ean": "1200130004759",
         "mpn": "JBLLIVE670NCBLU",
         "status": "da_verificare"
+      },
+      {
+        "title": "JBL Live 670NC Auricolare Wireless A Padiglione Musica e Chiamate Bluetooth Sabbia",
+        "merchant": "unieuro",
+        "ean": "1200130005060",
+        "mpn": "JBLLIVE670NCSAT",
+        "status": "da_verificare"
       }
     ],
     "migliori-robot-aspirapolvere": [
-      {
-        "title": "iRobot Roomba 105 Combo Robot + AutoEmpty Nero",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Lefant M210 PRO OMNI Robot Aspirapolvere Lavapavimenti con Rullo 20.000Pa",
         "merchant": "",
@@ -2200,17 +2158,17 @@
         "status": "da_verificare"
       },
       {
-        "title": "LEFANT M330 Pro M330S Robot aspirapolvere con mappatura, navigazione dToF, sistema di prevenzione ostacoli PSD, aspirazione 6000Pa, Alexa/APP/WiFi",
-        "merchant": "aliexpress",
-        "ean": "0740111630979",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Eureka J12 Ultra Robot Aspirapolvere e Lavapavimenti con Stazione, Evitamento Ostacoli AI 3D, Autosvuotante per 75 Giorni, Autopulente, Autoasciugante de",
         "merchant": "unieuro",
         "ean": "6956079725570",
         "mpn": "J12ULTRA",
+        "status": "da_verificare"
+      },
+      {
+        "title": "iRobot Roomba 105 Combo Robot + AutoEmpty Nero",
+        "merchant": "unieuro",
+        "ean": "5061042263186",
+        "mpn": "817170",
         "status": "da_verificare"
       },
       {
@@ -2253,6 +2211,13 @@
         "merchant": "unieuro",
         "ean": "5061042264459",
         "mpn": "817152",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Roborock Q10 VF+ Robot Aspirapolvere e Lavapavimenti, Aspirazione HyperForce 10.000 Pa, Sistema VibraRise 2.0 con Vibrazione 3000/min, Navigazione Intell",
+        "merchant": "unieuro",
+        "ean": "6936905902351",
+        "mpn": "MEARR0052",
         "status": "da_verificare"
       }
     ],
@@ -2307,6 +2272,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "Aspirapolvere senza fili LAMZIEN, con luce LED verde, potenza di aspirazione di 40000 PA, batteria ricaricabile, autonomia di 40 minuti, ideale per peli di animali domestici, tappe",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "400W 33000PA Potenza di aspirazione JR600 Cordless Wireless Aspirapolvere portatili per elettrodomestici per animali domestici 1L Tazza per la polvere Batteria rimovibile",
         "merchant": "aliexpress",
         "ean": "6975456151061",
@@ -2314,28 +2286,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "Honki Nuovo Aspirapolvere Portatile Senza Fili 45KPa, Alta Potenza, Forte Aspirazione, Aspirapolvere Wireless per Auto, Casa, Peli di Animali, Divani e Tappeti",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "55KPa Aspirapolvere Senza Fili Potente 40min Autonomia Tubo Pieghevole 8*2200mAh Scopa Elettrica LED per Peli Animali Casa",
-        "merchant": "aliexpress",
-        "ean": "0729545260099",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Aspiratore Professionale per Polvere di Unghie da 160W con Filtro HEPA, Aspirapolvere per Unghie a Velocità Regolabile per Salone",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Homore 600W/56KPA Potente aspirapolvere senza fili con schermo a colori LED Modalità di aspirazione automatica Funzione autoportante",
+        "title": "Tdyon Aspirapolvere senza fili 750W, aspirazione ultra potente 85000Pa ricarica rapida 3H contenitore per la polvere grande da 2,8L, batteria rimovibile, autonomia fino a 80 minuti",
         "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
@@ -2378,27 +2329,6 @@
       }
     ],
     "migliori-lavatrici": [
-      {
-        "title": "Samsung Lavatrice BESPOKE AI™ 9Kg WW90DB7U34GWU3",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Samsung Lavatrice AI Control 10Kg WW10FG6U34LKU3",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Samsung WD11DG6B85BK lavasciuga Libera installazione Caricamento frontale Bianco",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Bosch WAN28229IT Serie 4 Lavatrice 9kg 1400 giri/min Bianco Classe A",
         "merchant": "",
@@ -2547,6 +2477,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "Samsung WD11DG6B85BK lavasciuga Libera installazione Caricamento frontale Bianco",
+        "merchant": "unieuro",
+        "ean": "8806095589183",
+        "mpn": "WD11DG6B85BKU3",
+        "status": "da_verificare"
+      },
+      {
         "title": "LG WashTower WT1210EGF Colonna Bucato 12/10kg AI DD, Classe A 10%/A+++, Pannello unificato",
         "merchant": "unieuro",
         "ean": "8806096014011",
@@ -2558,6 +2495,20 @@
         "merchant": "unieuro",
         "ean": "8806097015932",
         "mpn": "WW90FG3M05AWET",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Samsung Lavatrice AI Control 10Kg WW10FG6U34LKU3",
+        "merchant": "unieuro",
+        "ean": "8806097804819",
+        "mpn": "WW10FG6U34LKU3",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Samsung Lavatrice BESPOKE AI™ 9Kg WW90DB7U34GWU3",
+        "merchant": "unieuro",
+        "ean": "8806095550282",
+        "mpn": "WW90DB7U34GWU3",
         "status": "da_verificare"
       },
       {
@@ -2845,7 +2796,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "Friggitrice ad Aria con Forno per Pizza da 12 Pollici, 2200W, 11 in 1 con Doppio Riscaldamento e Finestra di Visualizzazione, Capacità XL 4.2L, 360° ° Cottura a 360°, Senza Girare",
+        "title": "Patbrela Friggitrice ad Aria Doppia da 9L XXL Grande Capacità, Friggitrice ad Aria con Doppio Cestello e Controlli Indipendenti, Cottura Rapida 2000W, Friggitrice Multifunzione Sen",
         "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
@@ -3306,13 +3257,6 @@
     ],
     "lavapavimenti-elettriche": [
       {
-        "title": "Rowenta X-Clean 4 , Lavapavimenti Senza Fili, GZ5035",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Tineco Floor ONE S7 Stretch Ultra Lavapavimenti aspirapolvere senza fili | Fino a 50 minuti di autonomia, MHCBS, FlashDry",
         "merchant": "amazon",
         "ean": "6932485005857",
@@ -3457,6 +3401,13 @@
         "merchant": "unieuro",
         "ean": "8059019084138",
         "mpn": "36800001",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Rowenta X Clean 4 , Lavapavimenti Senza Fili, GZ5035",
+        "merchant": "unieuro",
+        "ean": "3221616130012",
+        "mpn": "GZ5035",
         "status": "da_verificare"
       },
       {
