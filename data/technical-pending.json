@@ -1,17 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-10-27T05:49:09+01:00",
+  "generated_at": "2026-10-27T07:09:03+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
     "smartphone-in-offerta": [
-      {
-        "title": "Apple iPhone Air 256 GB - Bianco nuvola | display 6,5\" con ProMotion fino a 120Hz, potente chip A19 Pro, fotocamera frontale Center Stage, eSim",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Motorola moto g06 (4/256GB, Fotocamera 50MP+flicker cam, selfie 8MP, Display HD+ 6.88\", MediaTek Helio G81 Extreme, 5200mAh, Android 15), Tapestry",
         "merchant": "amazon",
@@ -212,6 +205,13 @@
         "title": "REDMI Note 17 Pro 5G, Smartphone 8+512GB, Black, Batteria da 8340 mAh | Fotocamera OIS 50MP, HyperCharge 67W, Snapdragon®6s Gen4, Display Flagship Alta Luminosità 3500nit, Protezio",
         "merchant": "amazon",
         "ean": "6939093036686",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "REDMI Note 17 Pro 5G, Smartphone 8+512GB, Purple, Batteria da 8340 mAh | Fotocamera OIS 50MP, HyperCharge 67W, Snapdragon®6s Gen4, Display Flagship Alta Luminosità 3500nit, Protezi",
+        "merchant": "amazon",
+        "ean": "6939093036747",
         "mpn": "",
         "status": "da_verificare"
       }
@@ -977,6 +977,20 @@
     ],
     "migliori-tablet": [
       {
+        "title": "Gleeso Tablet 10 Pollici｜Tablet con Android 16｜Android Tablet con 24GB RAM 1TB TF｜6000mAh｜Sblocco Facciale｜BT 5.4/WiFi 5G｜8MP Fotocamera, Portatile Tablet per Studenti e Aziende - ",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Gleeso Tablet 10 pollici Android 16, Face ID, OTG, 24GB+64GB+1TB Espansione, 1280 * 800 IPS, WiFi 6, BT5.4, Doppia Fotocamera 5MP+8MP, 6000mAh, Widevine L1 (Nero)",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Gleeso Tablet Android 16 da 10 Pollici, Tablet con Tastiera 20GB+TF 1TB, Android Tablet PC con Mouse, Penna Stylus, 6000mAh, Fotocamera da 8MP, WiFi 5G, Laptop Portatile per Studen",
         "merchant": "amazon",
         "ean": "",
@@ -992,13 +1006,6 @@
       },
       {
         "title": "MUTSAY Tablet Bambini 10 Pollici Android 16 Tablets PC 20 GB RAM 64 GB ROM IPS1280x800 Doppia Fotocamera 5MP+8MP 5000 mAh WiFi 6 BT 5.4 Controllo Parentale Custodia Protettiva (Vio",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Apple iPad Air 11'' (M4): display Liquid Retina, 128 GB, fotocamera frontale e posteriore da 12MP, Wi-Fi 7 con chip Apple N1 – Grigio siderale",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -1359,13 +1366,6 @@
     ],
     "migliori-smartwatch": [
       {
-        "title": "Dakofied Smartwatch Uomo Donna Chiamate Bluetooth Smart Watch con Contapassi Cardiofrequenzimetro da Polso Saturimetro Orologio Fitness Notifice WhatsApp Impermeabile IP68 per Andr",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "2026 Smartwatch Uomo GPS,2.06\" HD AMOLED Orologio Smartwatch con Chiamate",
         "merchant": "",
         "ean": "",
@@ -1563,6 +1563,13 @@
       },
       {
         "title": "Nuovo Smartwatch Sportivo GPS 2026 per Uomo, NFC, Bussola, Fitness Tracker, Chiamate Bluetooth, Impermeabile IP68, Compatibile con Android e iOS",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "HAYLOU Solar 5 Chiamate vocali Smartwatch 1.58 ''Display AMOLED 60Hz Smart Watch 24 ore Monitoraggio della salute Sport Smartwatch per uomo",
         "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
@@ -1890,27 +1897,6 @@
     ],
     "cuffie-bluetooth-in-offerta": [
       {
-        "title": "Sony WF-C510 Auricolari True Wireless | In-Ear, Auricolari, Bluetooth, Multipoint, Suono Ambiente, IPX4, 22 h di Autonomia, iOS e Android, Rosa",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Sony ULT WEAR Cuffie bluetooth con Cancellazione Rumore e bassi profondi | Over-Ear, wireless, WH-1000XM5 processore, chiamate nitide, 30 ore batteria, noise cancelling, iOS & Andr",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Sony WH-1000XM5 Premium Cuffie bluetooth con Cancellazione Rumore | Over-Ear, wireless, chiamate nitide, Hi-Res, 30 ore batteria, custodia rigida, iOS & Android, noise cancelling -",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "SoundPEATS Cove Pro Cuffie Bluetooth 6.0 Over-Ear, ANC Ibrido Fino a -56dB con 5 Modalità, Audio Hi-Res LDAC, 7 MIC AI ENC, 95 Ore Autonomia, Ricarica Rapida, Design Pieghevole",
         "merchant": "amazon",
         "ean": "6941213639776",
@@ -2098,9 +2084,37 @@
         "ean": "0194253715122",
         "mpn": "MNSMQTP3ZM/A",
         "status": "da_verificare"
+      },
+      {
+        "title": "JBL Live 670NC Auricolare Wireless A Padiglione Musica e Chiamate Bluetooth Bianco",
+        "merchant": "unieuro",
+        "ean": "1200130004742",
+        "mpn": "JBLLIVE670NCWHT",
+        "status": "da_verificare"
+      },
+      {
+        "title": "JBL Live 670NC Auricolare Wireless A Padiglione Musica e Chiamate Bluetooth Blu",
+        "merchant": "unieuro",
+        "ean": "1200130004759",
+        "mpn": "JBLLIVE670NCBLU",
+        "status": "da_verificare"
+      },
+      {
+        "title": "JBL Live 670NC Auricolare Wireless A Padiglione Musica e Chiamate Bluetooth Sabbia",
+        "merchant": "unieuro",
+        "ean": "1200130005060",
+        "mpn": "JBLLIVE670NCSAT",
+        "status": "da_verificare"
       }
     ],
     "migliori-robot-aspirapolvere": [
+      {
+        "title": "iRobot Roomba 105 Combo Robot + AutoEmpty Nero",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Lefant M210 PRO OMNI Robot Aspirapolvere Lavapavimenti con Rullo 20.000Pa",
         "merchant": "",
@@ -2239,13 +2253,6 @@
         "merchant": "unieuro",
         "ean": "6956079725570",
         "mpn": "J12ULTRA",
-        "status": "da_verificare"
-      },
-      {
-        "title": "iRobot Roomba 105 Combo Robot + AutoEmpty Nero",
-        "merchant": "unieuro",
-        "ean": "5061042263186",
-        "mpn": "817170",
         "status": "da_verificare"
       },
       {
@@ -2406,6 +2413,13 @@
       }
     ],
     "migliori-lavatrici": [
+      {
+        "title": "Samsung WD11DG6B85BK lavasciuga Libera installazione Caricamento frontale Bianco",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Indesit IM 1072 MY TIME IT – Lavatrice 10 Kg | Libera Installazione, Carica Frontale, 1200 Giri/min, Classe A, Vapore, AcquaFlex, Antimacchia, 84,5 x 60 x 58 cm",
         "merchant": "amazon",
@@ -2572,13 +2586,6 @@
         "merchant": "unieuro",
         "ean": "8806095539744",
         "mpn": "WW11DG6B25LKU3",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Samsung WD11DG6B85BK lavasciuga Libera installazione Caricamento frontale Bianco",
-        "merchant": "unieuro",
-        "ean": "8806095589183",
-        "mpn": "WD11DG6B85BKU3",
         "status": "da_verificare"
       },
       {
@@ -2831,30 +2838,16 @@
     ],
     "friggitrici-ad-aria-offerte-confronto": [
       {
-        "title": "LEHMANN LEHMANN Friggitrice ad Aria XXL 8L con Divisorio Rimovibile, Air Fryer Doppia Zona Flessibile 1800 W, 12 Modalità Intelligenti & 76-200°C, Pannello Digitale, Lavabile in La",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Melchioni Friggitrice Ad Aria Marianna Plus 5lt 1400w Bianco Con Oblo'",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Girmi FG78 Friggitrice ad Aria con Finestra \"Ecofrit Black\", 6 Lt, 12 Programmi, 1500 W, Display Digitale, BPA/PFOA Safe, Luce Interna,Vassoio Antiaderente, Ricettario Incluso, Ner",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "LEHMANN Friggitrice ad Aria 8 Litri, Air Fryer XXL con Inserto Divisorio per Doppio Scomparto, Finestra di Visualizzazione, 12 Programmi & Regolazione Manuale 76–200°C, Lavabile in",
         "merchant": "amazon",
         "ean": "5905999063690",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "LEHMANN LEHMANN Friggitrice ad Aria XXL 8L con Divisorio Rimovibile, Air Fryer Doppia Zona Flessibile 1800 W, 12 Modalità Intelligenti & 76-200°C, Pannello Digitale, Lavabile in La",
+        "merchant": "amazon",
+        "ean": "5905884559680",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -3355,6 +3348,13 @@
     ],
     "lavapavimenti-elettriche": [
       {
+        "title": "Rowenta X-Clean 4 , Lavapavimenti Senza Fili, GZ5035",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Tineco Floor ONE S7 Stretch Ultra Lavapavimenti aspirapolvere senza fili | Fino a 50 minuti di autonomia, MHCBS, FlashDry",
         "merchant": "amazon",
         "ean": "6932485005857",
@@ -3499,13 +3499,6 @@
         "merchant": "unieuro",
         "ean": "8059019084138",
         "mpn": "36800001",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Rowenta X Clean 4 , Lavapavimenti Senza Fili, GZ5035",
-        "merchant": "unieuro",
-        "ean": "3221616130012",
-        "mpn": "GZ5035",
         "status": "da_verificare"
       },
       {
