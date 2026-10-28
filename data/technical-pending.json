@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-28T11:29:00+01:00",
+  "generated_at": "2026-10-28T12:54:02+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -2039,6 +2039,13 @@
     ],
     "migliori-robot-aspirapolvere": [
       {
+        "title": "iRobot Roomba® Max 775 Combo robot aspirapolvere lavapavimenti, 30.000 Pa | Con stazione AutoWash™ autosvuotante, PowerSpin™ Mop con acqua calda 75°C e asciugatura a caldo, LiDAR +",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Lefant M210 PRO OMNI Robot Aspirapolvere Lavapavimenti con Rullo 20.000Pa",
         "merchant": "",
         "ean": "",
@@ -2931,13 +2938,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Einhell Trapano a percussione TC-ID 650 E | 650 W | Capacità di foratura nel calcestruzzo: 13 mm | Arresto di profondità | Gancio da cintura",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
         "ean": "",
@@ -3102,6 +3102,13 @@
         "title": "WORLD SELL T-Shirt Uomo/Donna Personalizzata Fronte e Retro – 100% Cotone – Made in Italy – Maglietta Personalizzabile con Testo, Logo o Immagine (IT, Testo, S, Regular, Regular, N",
         "merchant": "amazon",
         "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "JOPHY & CO. T-Shirt Personalizzabile in Cotone, Maglietta Personalizzata con Stampa per Uomo e Donna, Idea Regalo Originale (IT, Testo, L, Regular, Regular, Nero)",
+        "merchant": "amazon",
+        "ean": "8054346377250",
         "mpn": "",
         "status": "da_verificare"
       }
