@@ -1,5 +1,39 @@
 [
   {
+    "asin": "B00WBHUML2",
+    "title": "G3 Ferrari G10047 Piastra ad Induzione Doppia \"Hi-Tech Chef\", 3500W, Display digitale, Comandi Soft-Touch, Vetro Temperato, Grandi area di cottura, 60.3 x 36.3 x 6,5 cm, nero-grigio",
+    "price": 103.0,
+    "old_price": 139.9,
+    "discount": 26.0,
+    "image": "https://m.media-amazon.com/images/I/31qOkcIMjaL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B00WBHUML2?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "cucina",
+    "macro_group": "casa_cucina",
+    "seasonal_title": "",
+    "published_at": "2026-10-28T12:48:35.289776+01:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
+    "asin": "B0151JVIT6",
+    "title": "MEDION Piastra a induzione doppia con due piastre di cottura, 3500 Watt, 10 livelli di temperatura, display a LED, MD 15324, nera",
+    "price": 79.95,
+    "old_price": 99.95,
+    "discount": 20.0,
+    "image": "https://m.media-amazon.com/images/I/41e8DqDiDcL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0151JVIT6?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "cucina",
+    "macro_group": "casa_cucina",
+    "seasonal_title": "",
+    "published_at": "2026-10-28T12:48:34.862765+01:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B001OB9L36",
     "title": "Bonaventura Maschio Grappa 903 Barrique, 700 ml",
     "price": 14.99,
@@ -2441,72 +2475,5 @@
     "merchant_match_score": 100,
     "merchant_ean": "6976391032040",
     "merchant_prices_checked_at": "2026-10-28T05:19:20.031805+01:00"
-  },
-  {
-    "asin": "W88CF1FB91",
-    "title": "MICROONDE + GRILL SEVERIN Microonde, grill, base piatta in vetro, 20L - MW77, capacità 20 l, potenza microonde max 800 W, Funzione Potenza grill 1000 9 livelli di potenza, Nero / Argento",
-    "price": 94.9,
-    "old_price": 179.99,
-    "discount": 47.3,
-    "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_185708592/fee_786_587_png",
-    "url": "https://www.awin1.com/pclick.php?p=46288019135&a=3086723&m=18529",
-    "category": "cucina",
-    "macro_group": "awin_discovery",
-    "seasonal_title": "Offerta MediaWorld",
-    "published_at": "2026-10-28T06:03:38.411913+01:00",
-    "source_merchant": "mediaworld",
-    "source_external_id": "761993",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "mediaworld",
-        "merchant_name": "MediaWorld",
-        "merchant_id": "18529",
-        "product_id": "761993",
-        "awin_product_id": "46288019135",
-        "title": "MICROONDE + GRILL SEVERIN Microonde, grill, base piatta in vetro, 20L - MW77, capacità 20 l, potenza microonde max 800 W, Funzione Potenza grill 1000 9 livelli di potenza, Nero / Argento",
-        "brand": "Severin",
-        "ean": "4008146037603",
-        "mpn": "MW7762",
-        "price": 94.9,
-        "old_price": 179.99,
-        "discount": 47.3,
-        "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_185708592/fee_786_587_png",
-        "url": "https://www.awin1.com/pclick.php?p=46288019135&a=3086723&m=18529",
-        "category": "Grandi Elettrodomestici;Cottura;Microonde",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {
-          "ambiguous_attributes": [
-            "color"
-          ],
-          "material": "glass",
-          "volume_ml": 20000.0,
-          "power_w": 800.0
-        }
-      }
-    ],
-    "merchant_match_score": 100,
-    "merchant_ean": "4008146037603",
-    "merchant_prices_checked_at": "2026-10-28T05:19:20.031805+01:00"
-  },
-  {
-    "asin": "B07HB1TJC9",
-    "title": "Fresh & Clean - Sapone Liquido Mani Delicato, con Acqua Micellare, Ipoallergenico anche per Pelli Sensibili, 300 ml",
-    "price": 1.3,
-    "old_price": 1.79,
-    "discount": 27.0,
-    "image": "https://m.media-amazon.com/images/I/21kyRfIrVeL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B07HB1TJC9?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "igiene_personale",
-    "macro_group": "cura_persona",
-    "seasonal_title": "",
-    "published_at": "2026-10-27T23:58:41.223831+01:00",
-    "source_merchant": "amazon",
-    "source_external_id": "",
-    "quality_status": "ready",
-    "quality_issues": []
   }
 ]
