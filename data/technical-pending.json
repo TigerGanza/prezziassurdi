@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-28T12:54:02+01:00",
+  "generated_at": "2026-10-28T14:19:02+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -661,13 +661,6 @@
         "ean": "6942351431703",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "Metz TV 43 55 pollici 4K UHD Smart TV LED Google TV HDR 10 MEMC Dolby Audio Google Cast Sintonizzatore di controllo vocale 43MUF7000Z 55MUF7000Z",
-        "merchant": "aliexpress",
-        "ean": "4057313024557",
-        "mpn": "",
-        "status": "da_verificare"
       }
     ],
     "migliori-notebook": [
@@ -938,13 +931,6 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "SOYO NcuBox S4 PLUS MINI PC Ryzen 7 H255 DDR5 24G PCIe3.0 Nvme SSD 512GB WIFI6 BT5.2 8K HD Mini PC Computer da Gaming Fai da Te",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
       }
     ],
     "migliori-tablet": [
@@ -1092,20 +1078,6 @@
         "title": "TECLAST P50 Tablet 11 Pollici 90Hz Tablets Android 16, T7250 2GHz Octa-Core, 32GB RAM+128GB ROM(TF 6TB), 8000mAh, Dual SIM 4G LTE+5G WiFi, Widevine L1/13MP/GPS/OTG, Gemini AI Table",
         "merchant": "amazon",
         "ean": "6940709681329",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Teclast P30T Set Tablet Android 10.1\" con CPU Unisoc 8 core Gemini AI, 16GB RAM (3GB+13GB Espandibili), 128GB ROM, Batteria 6000mAh, Tastiera/Custodia/Mouse/Stilo/Auricolari/Suppor",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Tablet Teclast T65 Android 16 13,4\" 6GB RAM 128GB ROM 120Hz 1920x120IPS T7280 8 core 4G LTE 8000mAh Type C GPS 13MP",
-        "merchant": "aliexpress",
-        "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -1287,13 +1259,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Monitor di Qualità dell'Aria Qingping Gen 2, Rilevatore di PM2.5, CO2, PM10, Rumore, Temperatura e Umidità per Interni, con Allarme",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "OMEN by HP Monitor da gaming 27'' FHD 240 Hz – OMEN 27s",
         "merchant": "unieuro",
         "ean": "0197029615466",
@@ -1436,16 +1401,16 @@
         "status": "da_verificare"
       },
       {
-        "title": "OnePlus Watch Lite Smartwatch con Display AMOLED da 1,46'', GPS Dual Band e Durata della Batteria fino a 10 Giorni",
+        "title": "Smartwatch HUAWEI Watch GT 5 46mm originale con schermo AMOLED a colori da 1,43 pollici e durata della batteria fino a 2 settimane",
         "merchant": "aliexpress",
-        "ean": "6921815630210",
+        "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "Smartwatch HUAWEI Watch GT 5 46mm originale con schermo AMOLED a colori da 1,43 pollici e durata della batteria fino a 2 settimane",
+        "title": "OnePlus Watch Lite Smartwatch con Display AMOLED da 1,46'', GPS Dual Band e Durata della Batteria fino a 10 Giorni",
         "merchant": "aliexpress",
-        "ean": "",
+        "ean": "6921815630210",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -1499,24 +1464,24 @@
         "status": "da_verificare"
       },
       {
-        "title": "Nuovo Oneplus Watch 4 Versione Globale 2026, Smartwatch con Processore Snapdragon W5, fino a 16 Giorni di Autonomia della Batteria",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
+        "title": "Amazfit ACTIVE EDGE 3,35 cm (1.32'') TFT 46 mm Digitale 360 x 360 Pixel Touch screen Nero GPS (satellitare)",
+        "merchant": "unieuro",
+        "ean": "6972596107231",
+        "mpn": "AMFW2212EU2N",
         "status": "da_verificare"
       },
       {
-        "title": "Nuovo arrivo OnePlus Watch 4 Smartwatch con display AMOLED da 1,5”, Snapdragon W5 Gen 1, fino a 16 giorni di autonomia, GPS, NFC, Smartwatch da uomo.",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
+        "title": "Samsung Watch Athleisure Band Cream",
+        "merchant": "unieuro",
+        "ean": "8806095625218",
+        "mpn": "ET-SOL30SWEGEU",
         "status": "da_verificare"
       },
       {
-        "title": "Nuovo arrivo OnePlus Watch 4, smartwatch OnePlus con display AMOLED da 1,5”, Snapdragon W5 Gen 1, fino a 16 giorni di autonomia, GPS, NFC, orologio intelligente da uomo.",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
+        "title": "Samsung Watch Athleisure Band Sky",
+        "merchant": "unieuro",
+        "ean": "8806095630595",
+        "mpn": "ET-SOL31LLEGEU",
         "status": "da_verificare"
       }
     ],
@@ -1653,13 +1618,6 @@
         "ean": "0045496452629",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "Nintendo Switch Modello OLED con Joy‑Con, Audio Migliorato, Console Regolabile, Modalità TV Stabile, Schermo da 7'' per Videogiochi",
-        "merchant": "aliexpress",
-        "ean": "0045496453442",
-        "mpn": "",
-        "status": "da_verificare"
       }
     ],
     "migliori-soundbar": [
@@ -1755,6 +1713,20 @@
         "status": "da_verificare"
       },
       {
+        "title": "ULTIMEA Soundbar Compatta 2.1ch per TV con Controllo App, Subwoofer Integrato da 3 Pollici BassMX ™ Soundbar All in One per PC da Gaming",
+        "merchant": "aliexpress",
+        "ean": "6978897889548",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "ULTIMEA Soundbar 240W 2.1ch con Subwoofer Wireless da 5.25\" e Controllo App, Sistema Home Theater per Smart TV, BassMX e VoiceMX",
+        "merchant": "aliexpress",
+        "ean": "6978897889739",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Samsung Music Frame Speaker HW LS60D/ZF, Wireless Music Streaming, Dolby Atmos 3D, Frame Design con sfondo personalizzabile, Wide Sweet Spot, 2024",
         "merchant": "unieuro",
         "ean": "8806095465173",
@@ -1826,6 +1798,13 @@
       }
     ],
     "cuffie-bluetooth-in-offerta": [
+      {
+        "title": "Sony WF-C510 Auricolari True Wireless | Auricolari In-Ear Bluetooth, multipoint, modalità trasparenza, IPX4, 22h di autonomia, iOS/Android, Nero",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Soundcore P31i di Anker Cuffie Bluetooth con Cancellazione Adattiva Rumore | Audio Hi-Res, Auricolari con Funzione di Traduzione, 50 ore di Autonomia, Cancellazione Adattiva, IPX5,",
         "merchant": "amazon",
@@ -2028,13 +2007,6 @@
         "ean": "1200130004759",
         "mpn": "JBLLIVE670NCBLU",
         "status": "da_verificare"
-      },
-      {
-        "title": "JBL Live 670NC Auricolare Wireless A Padiglione Musica e Chiamate Bluetooth Sabbia",
-        "merchant": "unieuro",
-        "ean": "1200130005060",
-        "mpn": "JBLLIVE670NCSAT",
-        "status": "da_verificare"
       }
     ],
     "migliori-robot-aspirapolvere": [
@@ -2165,6 +2137,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "(Codice promozionale: EU6006)Robot aspirapolvere ABIR X6PRO con sistema oculare intelligente, aspirazione 6000pa, software Virtual Wall, pulizia a zone, disinfezione con lavaggio a",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "ABIR X6PRO Robot aspirapolvere, Smart Eye System,APP Virtual Barrier, aspirazione 6000PA, Smart Home Mop, detergente per tappeti per pavimenti",
         "merchant": "aliexpress",
         "ean": "",
@@ -2172,7 +2151,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "(CodePromo: AEWD55)Robot pulisci finestre ultrasottile Liectroux HCR 10 con spruzzo d'acqua a ultrasuoni, robot aspirapolvere per finestre, tergivetro domestico, pulizia a secco e ",
+        "title": "Robot Aspirapolvere ABIR X9, Doppio Lidar, Aspirazione 6500pa, Pulizia UV, Mappa Multi Piano, Area Restringibile tramite APP, Lavapavimenti Intelligente per Casa",
         "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
@@ -2232,13 +2211,6 @@
         "merchant": "unieuro",
         "ean": "5061042264459",
         "mpn": "817152",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Roborock Q10 VF+ Robot Aspirapolvere e Lavapavimenti, Aspirazione HyperForce 10.000 Pa, Sistema VibraRise 2.0 con Vibrazione 3000/min, Navigazione Intell",
-        "merchant": "unieuro",
-        "ean": "6936905902351",
-        "mpn": "MEARR0052",
         "status": "da_verificare"
       }
     ],
@@ -2300,13 +2272,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Tdyon Aspirapolvere senza fili 750W, aspirazione ultra potente 85000Pa ricarica rapida 3H contenitore per la polvere grande da 2,8L, batteria rimovibile, autonomia fino a 80 minuti",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Hisense HVC676451DA Aspirapolvere verticale Batteria Secco Senza sacchetto 0,5 L 400 W Nero 2 Ah",
         "merchant": "unieuro",
         "ean": "3838782695018",
@@ -2343,13 +2308,6 @@
       }
     ],
     "migliori-lavatrici": [
-      {
-        "title": "Samsung Lavatrice Serie 3000 9Kg WW90FG3M05AWET",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Bosch WAN28229IT Serie 4 Lavatrice 9kg 1400 giri/min Bianco Classe A",
         "merchant": "",
@@ -2509,6 +2467,13 @@
         "merchant": "unieuro",
         "ean": "8806096014011",
         "mpn": "WT1210EGF.ABGQPIS",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Samsung Lavatrice Serie 3000 9Kg WW90FG3M05AWET",
+        "merchant": "unieuro",
+        "ean": "8806097015932",
+        "mpn": "WW90FG3M05AWET",
         "status": "da_verificare"
       },
       {
@@ -2768,13 +2733,6 @@
     ],
     "friggitrici-ad-aria-offerte-confronto": [
       {
-        "title": "Moulinex EZ505D10 friggitrice Singolo 4,2 L Indipendente 1400 W Friggitrice ad aria calda Acciaio inox",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "LEHMANN Friggitrice ad Aria 8 Litri, Air Fryer XXL con Inserto Divisorio per Doppio Scomparto, Finestra di Visualizzazione, 12 Programmi & Regolazione Manuale 76–200°C, Lavabile in",
         "merchant": "amazon",
         "ean": "5905999063690",
@@ -2852,6 +2810,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "Moulinex EZ505D10 friggitrice Singolo 4,2 L Indipendente 1400 W Friggitrice ad aria calda Acciaio inox",
+        "merchant": "unieuro",
+        "ean": "3045380021761",
+        "mpn": "EZ505D",
+        "status": "da_verificare"
+      },
+      {
         "title": "Hisense HAF1350DR Singolo 6,7 L Indipendente 1350 W Friggitrice ad aria calda Nero",
         "merchant": "unieuro",
         "ean": "3838782818547",
@@ -2918,20 +2883,6 @@
       },
       {
         "title": "Puma King PRO Fg/AG, Scarpe da Calcio Unisex - Adulto, Puma Silver Puma Black Sun Struck Puma White, 39 EU",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Tommy Hilfiger Cintura Fissa Uomo Oliver Saffiano 3.5 AM0AM14573, NERO (Nero), 90",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Tommy Jeans Cintura Fissa Uomo, Marrone (marrone scuro), 95 cm",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -3109,6 +3060,20 @@
         "title": "JOPHY & CO. T-Shirt Personalizzabile in Cotone, Maglietta Personalizzata con Stampa per Uomo e Donna, Idea Regalo Originale (IT, Testo, L, Regular, Regular, Nero)",
         "merchant": "amazon",
         "ean": "8054346377250",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "JOPHY & CO. T-Shirt Personalizzabile in Cotone, Maglietta Personalizzata con Stampa per Uomo e Donna, Idea Regalo Originale (IT, Testo, M, Regular, Regular, Bianco)",
+        "merchant": "amazon",
+        "ean": "8054346377298",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Vintage 1977 Edizione Limitata 44 Anni Di Compleanno Uomo Maglietta",
+        "merchant": "amazon",
+        "ean": "",
         "mpn": "",
         "status": "da_verificare"
       }
