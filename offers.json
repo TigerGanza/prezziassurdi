@@ -1,5 +1,22 @@
 [
   {
+    "asin": "B0GYP8RWY6",
+    "title": "COMFEE' Asciugatrice Pompa di Calore 8 kg Asciugatura 35' EcoDry",
+    "price": 319.9,
+    "old_price": 389.9,
+    "discount": 18.0,
+    "image": "https://m.media-amazon.com/images/I/41dIb6-i5hL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0GYP8RWY6?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "lavaggio_stiro",
+    "macro_group": "casa_cucina",
+    "seasonal_title": "",
+    "published_at": "2026-10-28T15:33:35.268491+01:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B07D4MDBR4",
     "title": "Garofalo Pasta Senza Glutine Spaghetti, 400g",
     "price": 1.99,
@@ -1832,49 +1849,6 @@
     ],
     "merchant_match_score": 100,
     "merchant_ean": "4255591592618",
-    "merchant_prices_checked_at": "2026-10-28T06:39:02.065878+01:00"
-  },
-  {
-    "asin": "WC62073673",
-    "title": "Steelseries Aerox 3 Onyx PC Mouse",
-    "price": 29.0,
-    "old_price": 69.99,
-    "discount": 58.6,
-    "image": "https://www.unieuro.it/medias/sys_master/root/h43/h72/49469285171230/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-415c6b935efa1baa972c013349a889d1-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-    "url": "https://www.awin1.com/pclick.php?p=39703951184&a=3086723&m=10139",
-    "category": "informatica",
-    "macro_group": "awin_discovery",
-    "seasonal_title": "Offerta Unieuro",
-    "published_at": "2026-10-28T07:34:13.296826+01:00",
-    "source_merchant": "unieuro",
-    "source_external_id": "STE62611",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "unieuro",
-        "merchant_name": "Unieuro",
-        "merchant_id": "10139",
-        "product_id": "STE62611",
-        "awin_product_id": "39703951184",
-        "title": "Steelseries Aerox 3 Onyx PC Mouse",
-        "brand": "SteelSeries",
-        "ean": "5707119047548",
-        "mpn": "STE62611",
-        "price": 29.0,
-        "old_price": 69.99,
-        "discount": 58.6,
-        "image": "https://www.unieuro.it/medias/sys_master/root/h43/h72/49469285171230/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-415c6b935efa1baa972c013349a889d1-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-        "url": "https://www.awin1.com/pclick.php?p=39703951184&a=3086723&m=10139",
-        "category": "Mouse",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {}
-      }
-    ],
-    "merchant_match_score": 100,
-    "merchant_ean": "5707119047548",
     "merchant_prices_checked_at": "2026-10-28T06:39:02.065878+01:00"
   }
 ]
