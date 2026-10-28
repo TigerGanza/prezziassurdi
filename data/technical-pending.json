@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-28T14:19:02+01:00",
+  "generated_at": "2026-10-28T15:39:02+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -956,13 +956,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "HIKMICRO Mini2 V2 Termocamera, iOS/Android, 256x192 IR | 512x384 SuperIR, USB-C/Lightning, 25Hz, Telefono/Tablet/PC, Casa & HVAC & Elettrico",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Tablet Android da 11 Pollici, Octa-Core, 24GB(4+20) RAM+128GB Memoria, Batteria 8200mAh, Widevine L1, Espandibile fino a 1TB, Doppia Fotocamera, Android Tablet per Studio, Lavoro e",
         "merchant": "",
         "ean": "",
@@ -1091,7 +1084,14 @@
     ],
     "migliori-monitor": [
       {
-        "title": "XIAOMI Monitor per videogiochi G24i 2026 OM4FE EU | HDR 400, Fast IPS, 100% sRGB, 95% DCI‑P3, △E < 2, Certificazione TÜV Luce Blu Ridotta (HDMI 2.0/DP 1.4)",
+        "title": "Boifun Baby Monitor con Telecamera Rotante 360° HD, Schermo IPS 5”, Audio Bidirezionale, Rilevamento Temperatura, Batteria 3050mAh, Zoom 3X, Visione Notturna,Modalità VOX, Ninne Na",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "YESIMOM 2K Baby Monitor WiFi con Schermo 5″ e App, 360° Telecamera Bambini | Video e Audio Videocamera Neonata con Monitor 3000mAh, Avvisi Pianto e Movimento, Visione Notturna Senz",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -2528,13 +2528,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Samsung Frigorifero Combinato EcoFlex AI 1.85m 344L RB34C675DSA",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "BEKO RCSA300K40GN - Frigorifero Combinato Libera Installazione 291 Litri, 4 Ripiani in Vetro, Frigo con Congelatore 3 Cassetti, Elettrodomestici Cucina, Classe E, 54L x 181,4H x 57",
         "merchant": "",
         "ean": "",
@@ -2710,6 +2703,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "Samsung Frigorifero Combinato EcoFlex AI 1.85m 344L RB34C675DSA",
+        "merchant": "unieuro",
+        "ean": "8806094990003",
+        "mpn": "RB34C675DSA/EF",
+        "status": "da_verificare"
+      },
+      {
         "title": "Samsung RB50DG601EB1 Libera installazione 508 L Antracite",
         "merchant": "unieuro",
         "ean": "8806095536378",
@@ -2869,20 +2869,6 @@
     "migliori-moda": [
       {
         "title": "Under Armour Ua Undeniable 5.0 Duffle, Borsa sportiva Unisex - Adulto, Black/Black/Metallic Silver, 40L",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Puma Scarpe Unisex Ultra 6 Play Fg/AgSoccer, Puma Nero Fizzy Verde Chiaro Terreno, 42 EU",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Puma King PRO Fg/AG, Scarpe da Calcio Unisex - Adulto, Puma Silver Puma Black Sun Struck Puma White, 39 EU",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -3072,6 +3058,20 @@
       },
       {
         "title": "Vintage 1977 Edizione Limitata 44 Anni Di Compleanno Uomo Maglietta",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "adidas Uomo Essentials Feelcozy Fleece Hoodie Sweatshirt, Black/White, M",
+        "merchant": "amazon",
+        "ean": "4067905731985",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Felpa Coperta con Cappuccio e Maniche Donna Uomo Gatto Nero Oversize Hoodie | Blu Coperta Portatile Super Morbida Calda Comoda Invernale Regalo Compleanno Natale per Adulti Adolesc",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
