@@ -1,24 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-10-28T06:04:02+01:00",
+  "generated_at": "2026-10-28T07:24:02+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
     "smartphone-in-offerta": [
-      {
-        "title": "Samsung Galaxy A18, 128GB, Black [Versione Italiana] | 3 anni di Garanzia, Design Sottile, Cerchia e Cerca, Tripla Camera 50MP, 5.000 mAh, IP64, RAM 4GB + 4GB Ram Plus",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "DOOGEESmart Note 56X Lite Smartphone, Android 16, 6150mAh Batteria, 12GB + 32GB/2TB TF, 6.56\" HD+ 90Hz IPS, 4G Telefono Cellular offerta Smartphone, 8MP+5MP/Dual SIM/Octa Core/Face",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Xiaomi Poco X7 Pro 5G Smartphone, Dimensity 8300-Ultra, display AMOLED 6,67 pollici, batteria 6000 mAh, carica turbo 90 W, tripla fotocamera 64 MP, verde",
         "merchant": "amazon",
@@ -214,23 +200,23 @@
         "ean": "6939093036686",
         "mpn": "",
         "status": "da_verificare"
+      },
+      {
+        "title": "REDMI Note 17 Pro 5G, Smartphone 8+512GB, Purple, Batteria da 8340 mAh | Fotocamera OIS 50MP, HyperCharge 67W, Snapdragon®6s Gen4, Display Flagship Alta Luminosità 3500nit, Protezi",
+        "merchant": "amazon",
+        "ean": "6939093036747",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "REDMI Note 17 Pro 5G, Smartphone 8+512GB, Sky Blue, Batteria da 8340 mAh | Fotocamera OIS 50MP, HyperCharge 67W, Snapdragon®6s Gen4, Display Flagship Alta Luminosità 3500nit, Prote",
+        "merchant": "amazon",
+        "ean": "6939093036785",
+        "mpn": "",
+        "status": "da_verificare"
       }
     ],
     "migliori-smartphone-sotto-300-euro": [
-      {
-        "title": "Samsung Galaxy A18, 128GB, Black [Versione Italiana] | 3 anni di Garanzia, Design Sottile, Cerchia e Cerca, Tripla Camera 50MP, 5.000 mAh, IP64, RAM 4GB + 4GB Ram Plus",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "DOOGEESmart Note 56X Lite Smartphone, Android 16, 6150mAh Batteria, 12GB + 32GB/2TB TF, 6.56\" HD+ 90Hz IPS, 4G Telefono Cellular offerta Smartphone, 8MP+5MP/Dual SIM/Octa Core/Face",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Xiaomi Poco X7 Pro 5G Smartphone, Dimensity 8300-Ultra, display AMOLED 6,67 pollici, batteria 6000 mAh, carica turbo 90 W, tripla fotocamera 64 MP, verde",
         "merchant": "amazon",
@@ -970,7 +956,7 @@
     ],
     "migliori-tablet": [
       {
-        "title": "Tablet 10 Pollici Android 15 Tablets con Gemini AI, 64GB+2TB TF, GMS, Tablets 5G+2.4G WIFI,Octa-Core 2.0GHz, Face ID,Widevine L1 FHD,BT5.0,Type-C,8+5MP, GPS,Tablet 3 in 1 con Tasti",
+        "title": "HIKMICRO Mini2 V2 Termocamera, iOS/Android, 256x192 IR | 512x384 SuperIR, USB-C/Lightning, 25Hz, Telefono/Tablet/PC, Casa & HVAC & Elettrico",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -1118,6 +1104,13 @@
       }
     ],
     "migliori-monitor": [
+      {
+        "title": "XIAOMI Monitor per videogiochi G24i 2026 OM4FE EU | HDR 400, Fast IPS, 100% sRGB, 95% DCI‑P3, △E < 2, Certificazione TÜV Luce Blu Ridotta (HDMI 2.0/DP 1.4)",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Xiaomi Monitor G27i",
         "merchant": "",
@@ -2351,6 +2344,13 @@
     ],
     "migliori-lavatrici": [
       {
+        "title": "Samsung Lavatrice Serie 3000 9Kg WW90FG3M05AWET",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Bosch WAN28229IT Serie 4 Lavatrice 9kg 1400 giri/min Bianco Classe A",
         "merchant": "",
         "ean": "",
@@ -2512,13 +2512,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Samsung Lavatrice Serie 3000 9Kg WW90FG3M05AWET",
-        "merchant": "unieuro",
-        "ean": "8806097015932",
-        "mpn": "WW90FG3M05AWET",
-        "status": "da_verificare"
-      },
-      {
         "title": "Samsung Lavatrice AI Control 10Kg WW10FG6U34LKU3",
         "merchant": "unieuro",
         "ean": "8806097804819",
@@ -2562,6 +2555,13 @@
       }
     ],
     "migliori-frigoriferi": [
+      {
+        "title": "Samsung Frigorifero Combinato EcoFlex AI 1.85m 344L RB34C675DSA",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "BEKO RCSA300K40GN - Frigorifero Combinato Libera Installazione 291 Litri, 4 Ripiani in Vetro, Frigo con Congelatore 3 Cassetti, Elettrodomestici Cucina, Classe E, 54L x 181,4H x 57",
         "merchant": "",
@@ -2738,13 +2738,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Samsung Frigorifero Combinato EcoFlex AI 1.85m 344L RB34C675DSA",
-        "merchant": "unieuro",
-        "ean": "8806094990003",
-        "mpn": "RB34C675DSA/EF",
-        "status": "da_verificare"
-      },
-      {
         "title": "Samsung RB50DG601EB1 Libera installazione 508 L Antracite",
         "merchant": "unieuro",
         "ean": "8806095536378",
@@ -2774,6 +2767,13 @@
       }
     ],
     "friggitrici-ad-aria-offerte-confronto": [
+      {
+        "title": "Moulinex EZ505D10 friggitrice Singolo 4,2 L Indipendente 1400 W Friggitrice ad aria calda Acciaio inox",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Midea Friggitrice ad Aria Verticale Doppia Zona 10 in 1, 11L, 2400W | 2 Cassetti 6L & 5L, Componenti Antiaderenti Lavabili in Lavastoviglie, Connettività Wi-Fi, Compatibile con App",
         "merchant": "amazon",
@@ -2852,13 +2852,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Moulinex EZ505D10 friggitrice Singolo 4,2 L Indipendente 1400 W Friggitrice ad aria calda Acciaio inox",
-        "merchant": "unieuro",
-        "ean": "3045380021761",
-        "mpn": "EZ505D",
-        "status": "da_verificare"
-      },
-      {
         "title": "Hisense HAF1350DR Singolo 6,7 L Indipendente 1350 W Friggitrice ad aria calda Nero",
         "merchant": "unieuro",
         "ean": "3838782818547",
@@ -2909,6 +2902,34 @@
       }
     ],
     "migliori-moda": [
+      {
+        "title": "Puma Scarpe Unisex Ultra 6 Play Fg/AgSoccer, Puma Nero Fizzy Verde Chiaro Terreno, 42 EU",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Puma King PRO Fg/AG, Scarpe da Calcio Unisex - Adulto, Puma Silver Puma Black Sun Struck Puma White, 39 EU",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Tommy Hilfiger Cintura Fissa Uomo Oliver Saffiano 3.5 AM0AM14573, NERO (Nero), 90",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Tommy Jeans Cintura Fissa Uomo, Marrone (marrone scuro), 95 cm",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Einhell Trapano a percussione TC-ID 650 E | 650 W | Capacità di foratura nel calcestruzzo: 13 mm | Arresto di profondità | Gancio da cintura",
         "merchant": "amazon",
@@ -3086,34 +3107,6 @@
       },
       {
         "title": "Uomo Scarpe Sportive da Ginnastica Trail Running Respirabile Jogging Sneakers Casual Basse Scarpe Leggere Business MU9568-3 (Navy,40)",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Mufanton Scarpe da Trail Running Uomo Scarpe Trekking,Nero,EU39 | Scarpe da Escursionismo Outdoor Traspirante Trekking Fitness Running Sneakers",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "CustomSolo Maglietta Personalizzata con Foto e Testo, Unisex Doppia Faccia T-Shirt Personalizzata per Donna e Uomo, Maglia Personalizzata per Regali, Logo Aziendale, Compleanni, Fa",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "CustomSolo Maglietta Personalizzata con Foto e Testo, Unisex Doppia Faccia T-Shirt Personalizzata per Uomo e Donna, Maglia Personalizzata per Regali, Compleanni, Famiglia, Logo Azi",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "WORLD SELL T-Shirt Uomo/Donna Personalizzata Fronte e Retro – 100% Cotone – Made in Italy – Maglietta Personalizzabile con Testo, Logo o Immagine (IT, Testo, S, Regular, Regular, N",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
