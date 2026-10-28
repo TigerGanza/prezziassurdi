@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-28T15:39:02+01:00",
+  "generated_at": "2026-10-28T16:59:09+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -2521,13 +2521,6 @@
     ],
     "migliori-frigoriferi": [
       {
-        "title": "LG GBBSJ10DPY Frigorifero combinato Fit&Max 60cm, Classe D, 333L, AI Inverter, Prime Silver",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "BEKO RCSA300K40GN - Frigorifero Combinato Libera Installazione 291 Litri, 4 Ripiani in Vetro, Frigo con Congelatore 3 Cassetti, Elettrodomestici Cucina, Classe E, 54L x 181,4H x 57",
         "merchant": "",
         "ean": "",
@@ -2721,6 +2714,13 @@
         "merchant": "unieuro",
         "ean": "8806095276878",
         "mpn": "RT31CG5624WWES",
+        "status": "da_verificare"
+      },
+      {
+        "title": "LG GBBSJ10DPY Frigorifero combinato Fit&Max 60cm, Classe D, 333L, AI Inverter, Prime Silver",
+        "merchant": "unieuro",
+        "ean": "8806096558164",
+        "mpn": "GBBSJ10DPYAPYQEUZ",
         "status": "da_verificare"
       },
       {
