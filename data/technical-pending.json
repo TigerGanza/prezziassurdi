@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-28T07:24:02+01:00",
+  "generated_at": "2026-10-28T08:44:01+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -672,13 +672,6 @@
     ],
     "migliori-notebook": [
       {
-        "title": "Lenovo Chromebook 14\" Notebook IPS WUXGA (1920x1200), 64GB SSD, 4GB RAM, Wi-Fi6E, ChromeOS, MediaTek Kompanio 540 - Laptop Leggero per Studio, Streaming e Uso Quotidiano - Caricato",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "ASUS Vivobook 16 F1605VA#B0FZL8JLW9, Notebook con display 16\" Anti-glare, 60Hz,Intel® Core™ 9 Processor 270H,RAM 16GB, 1TB SSD, WIN11 Home, Argento",
         "merchant": "",
         "ean": "",
@@ -955,6 +948,20 @@
       }
     ],
     "migliori-tablet": [
+      {
+        "title": "NIDUBIO Tablet Android 11 Pollici Android 16, Kit Completo, 36GB RAM+128GB ROM (Espandibile a 1TB), Batteria 7800mAh, Gemini AI, WiFi Dual‑Band, BT5.4 per Studio, Lavoro e Intratte",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Laptok Android 16 Tablet 10 Pollici Gemini AI, 36GB RAM+128GB ROM+1TB TF | Widevine L1/BT5.4/WIFI6/OTG, Octa-Core, 6000mAh, 8MP+5MP, Tablet 2 in 1 con Tastiera, Mouse, Penna, Custo",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "HIKMICRO Mini2 V2 Termocamera, iOS/Android, 256x192 IR | 512x384 SuperIR, USB-C/Lightning, 25Hz, Telefono/Tablet/PC, Casa & HVAC & Elettrico",
         "merchant": "amazon",
@@ -1657,13 +1664,6 @@
     ],
     "migliori-soundbar": [
       {
-        "title": "ULTIMEA 2.1 Canali Soundbar, 240W Sound Bar con Subwoofer Wireless, VoiceMX e BassMX, App Controllo, Bassi Regolabili, HDMI, Ottico, Bluetooth 6.0, Poseidon M30",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Samsung Soundbar HW-B66CF/ZF Serie B, 4 Speaker, Wireless, Dolby 5.1ch, Audio a 3.1 Canali, DTS 5.1ch, Surround Sound Expansion, Voice Enhance Mode, Black, 2025",
         "merchant": "",
         "ean": "",
@@ -2038,20 +2038,6 @@
       }
     ],
     "migliori-robot-aspirapolvere": [
-      {
-        "title": "roborock Qrevo 2 Pro Set Robot Aspirapolvere Lavapavimenti 25.000Pa, Nero | Panno Estensibile, Antigroviglio, Autopulizia Panno 75°C, Rimozione Automatica dei Panni, Evita Ostacoli",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "roborock Qrevo S Pro Robot Aspirapolvere Lavapavimenti, Lavaggio Panno 75°C | Asciugatura Aria Calda 45°C, 18.500Pa, Antigroviglio, Evitare Ostacoli, Stazione Tutto in Uno, Modalit",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Lefant M210 PRO OMNI Robot Aspirapolvere Lavapavimenti con Rullo 20.000Pa",
         "merchant": "",
@@ -2556,6 +2542,13 @@
     ],
     "migliori-frigoriferi": [
       {
+        "title": "LG GBBSJ10DPY Frigorifero combinato Fit&Max 60cm, Classe D, 333L, AI Inverter, Prime Silver",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Samsung Frigorifero Combinato EcoFlex AI 1.85m 344L RB34C675DSA",
         "merchant": "unieuro",
         "ean": "",
@@ -2749,13 +2742,6 @@
         "merchant": "unieuro",
         "ean": "8806095276878",
         "mpn": "RT31CG5624WWES",
-        "status": "da_verificare"
-      },
-      {
-        "title": "LG GBBSJ10DPY Frigorifero combinato Fit&Max 60cm, Classe D, 333L, AI Inverter, Prime Silver",
-        "merchant": "unieuro",
-        "ean": "8806096558164",
-        "mpn": "GBBSJ10DPYAPYQEUZ",
         "status": "da_verificare"
       },
       {
