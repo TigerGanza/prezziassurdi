@@ -1,17 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-10-28T16:59:09+01:00",
+  "generated_at": "2026-10-28T18:19:09+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
     "smartphone-in-offerta": [
-      {
-        "title": "HONOR 600 SMART 5G SILVER 4+128GB",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Motorola moto g06 (4/256GB, Fotocamera 50MP+flicker cam, selfie 8MP, Display HD+ 6.88\", MediaTek Helio G81 Extreme, 5200mAh, Android 15), Tapestry",
         "merchant": "amazon",
@@ -65,6 +58,13 @@
         "title": "HONOR 600 SMART 5G BLACK 4+128GB",
         "merchant": "amazon",
         "ean": "6942785104617",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "HONOR 600 SMART 5G SILVER 4+128GB",
+        "merchant": "amazon",
+        "ean": "6942785104624",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -218,13 +218,6 @@
     ],
     "migliori-smartphone-sotto-300-euro": [
       {
-        "title": "HONOR 600 SMART 5G SILVER 4+128GB",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Motorola moto g06 (4/256GB, Fotocamera 50MP+flicker cam, selfie 8MP, Display HD+ 6.88\", MediaTek Helio G81 Extreme, 5200mAh, Android 15), Tapestry",
         "merchant": "amazon",
         "ean": "0840493601601",
@@ -277,6 +270,13 @@
         "title": "HONOR 600 SMART 5G BLACK 4+128GB",
         "merchant": "amazon",
         "ean": "6942785104617",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "HONOR 600 SMART 5G SILVER 4+128GB",
+        "merchant": "amazon",
+        "ean": "6942785104624",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -936,20 +936,6 @@
     "migliori-tablet": [
       {
         "title": "Microsoft Surface Pro | Copilot+ PC | LCD Touchscreen 12” | Snapdragon® X Plus | 16GB di RAM | 256GB di memoria | Ultimo modello | Platino",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "NIDUBIO Tablet Android 11 Pollici Android 16, Kit Completo, 36GB RAM+128GB ROM (Espandibile a 1TB), Batteria 7800mAh, Gemini AI, WiFi Dual‑Band, BT5.4 per Studio, Lavoro e Intratte",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Laptok Android 16 Tablet 10 Pollici Gemini AI, 36GB RAM+128GB ROM+1TB TF | Widevine L1/BT5.4/WIFI6/OTG, Octa-Core, 6000mAh, 8MP+5MP, Tablet 2 in 1 con Tastiera, Mouse, Penna, Custo",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -2868,13 +2854,6 @@
     ],
     "migliori-moda": [
       {
-        "title": "Under Armour Ua Undeniable 5.0 Duffle, Borsa sportiva Unisex - Adulto, Black/Black/Metallic Silver, 40L",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
         "ean": "",
@@ -3072,6 +3051,13 @@
       },
       {
         "title": "Felpa Coperta con Cappuccio e Maniche Donna Uomo Gatto Nero Oversize Hoodie | Blu Coperta Portatile Super Morbida Calda Comoda Invernale Regalo Compleanno Natale per Adulti Adolesc",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Felpa con Cappuccio Personalizzata con Foto Nome Pullover Uomo Donna Hoodie | Felpe Personalizzate per Festa Viaggio Uso Quotidiano Streetwear Hoodie Personalizzato Regalo Natale C",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
