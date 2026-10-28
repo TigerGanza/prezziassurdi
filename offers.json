@@ -1,5 +1,22 @@
 [
   {
+    "asin": "B071WPW8L3",
+    "title": "Sidas Ski Boot Traction - Ramponi per Scarponi da Sci",
+    "price": 27.95,
+    "old_price": 34.95,
+    "discount": 20.0,
+    "image": "https://m.media-amazon.com/images/I/41IoI+3+RFL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B071WPW8L3?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "articoli_neve",
+    "macro_group": "fai_da_te_outdoor",
+    "seasonal_title": "",
+    "published_at": "2026-10-28T13:38:35.500149+01:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B0D197VJ5R",
     "title": "adidas Uomo Essentials Big Logo French Terry Hoodie Sweatshirt, Pure Ruby/Black, M",
     "price": 34.49,
@@ -2228,62 +2245,6 @@
     ],
     "merchant_match_score": 100,
     "merchant_ean": "4020628666439",
-    "merchant_prices_checked_at": "2026-10-28T05:19:20.031805+01:00"
-  },
-  {
-    "asin": "W1661FC298",
-    "title": "Bosch Serie 4 PGP6B5K85 Piano cottura a gas 60 cm 4 fuochi Acciaio Inox",
-    "price": 114.9,
-    "old_price": 279.9,
-    "discount": 58.9,
-    "image": "https://www.unieuro.it/medias/sys_master/root/h04/h70/50526986567710/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-cf15314864bcf51b48c87259219a603a-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-    "url": "https://www.awin1.com/pclick.php?p=40783605621&a=3086723&m=10139",
-    "category": "altro",
-    "macro_group": "awin_discovery",
-    "seasonal_title": "Offerta Unieuro",
-    "published_at": "2026-10-28T06:33:47.830156+01:00",
-    "source_merchant": "unieuro",
-    "source_external_id": "BOHPGP6B5K85",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "unieuro",
-        "merchant_name": "Unieuro",
-        "merchant_id": "10139",
-        "product_id": "BOHPGP6B5K85",
-        "awin_product_id": "40783605621",
-        "title": "Bosch Serie 4 PGP6B5K85 Piano cottura a gas 60 cm 4 fuochi Acciaio Inox",
-        "brand": "Bosch",
-        "ean": "4242005484652",
-        "mpn": "PGP6B5K85",
-        "price": 114.9,
-        "old_price": 279.9,
-        "discount": 58.9,
-        "image": "https://www.unieuro.it/medias/sys_master/root/h04/h70/50526986567710/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-cf15314864bcf51b48c87259219a603a-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-        "url": "https://www.awin1.com/pclick.php?p=40783605621&a=3086723&m=10139",
-        "category": "Piani cottura",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {
-          "material": "steel",
-          "length_mm": 600.0
-        }
-      },
-      {
-        "merchant": "amazon",
-        "merchant_name": "Amazon",
-        "price": 114.0,
-        "old_price": 143.47,
-        "discount": 21.0,
-        "url": "https://www.amazon.it/dp/B0DYPCR4FK?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-        "title": "Bosch PGP6B5K85 Serie 4 Piano cottura a gas 60 cm 4 bruciatori Acciaio inox | Piano cottura a gas con controllo preciso della fiamma, Griglie in acciaio, Made in Europe",
-        "image": "https://m.media-amazon.com/images/I/418MCJm94zL._SL500_.jpg"
-      }
-    ],
-    "merchant_match_score": 100,
-    "merchant_ean": "4242005484652",
     "merchant_prices_checked_at": "2026-10-28T05:19:20.031805+01:00"
   }
 ]
