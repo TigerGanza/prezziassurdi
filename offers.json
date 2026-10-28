@@ -1,5 +1,22 @@
 [
   {
+    "asin": "B09CGVBN92",
+    "title": "Game Maschera squid Boss + 1 biglietto da gioco per Halloween, carnevale e carnevale come costume per uomo e donna",
+    "price": 6.99,
+    "old_price": 11.99,
+    "discount": 42.0,
+    "image": "https://m.media-amazon.com/images/I/41tpE1L9WsL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B09CGVBN92?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "fashion",
+    "macro_group": "seasonal",
+    "seasonal_title": "Offerta Halloween",
+    "published_at": "2026-10-28T14:13:33.553813+01:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B0DBLN4C47",
     "title": "Sony WF-C510 Auricolari True Wireless | Auricolari In-Ear Bluetooth, multipoint, modalità trasparenza, IPX4, 22h di autonomia, iOS/Android, Nero",
     "price": 29.99,
@@ -2066,50 +2083,5 @@
     "source_external_id": "",
     "quality_status": "ready",
     "quality_issues": []
-  },
-  {
-    "asin": "W0552F6283",
-    "title": "CINTURINO SMARTWATCH VONMAHLEN Cinturino Apple W Classic Band 40/41/42 Nero, Silicone",
-    "price": 18.99,
-    "old_price": 29.99,
-    "discount": 36.7,
-    "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_177705706/fee_786_587_png",
-    "url": "https://www.awin1.com/pclick.php?p=45161748459&a=3086723&m=18529",
-    "category": "moda",
-    "macro_group": "awin_discovery",
-    "seasonal_title": "Offerta MediaWorld",
-    "published_at": "2026-10-28T06:49:15.905103+01:00",
-    "source_merchant": "mediaworld",
-    "source_external_id": "580564",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "mediaworld",
-        "merchant_name": "MediaWorld",
-        "merchant_id": "18529",
-        "product_id": "580564",
-        "awin_product_id": "45161748459",
-        "title": "CINTURINO SMARTWATCH VONMAHLEN Cinturino Apple W Classic Band 40/41/42 Nero, Silicone",
-        "brand": "VONMAHLEN",
-        "ean": "4255591578384",
-        "mpn": "5007523",
-        "price": 18.99,
-        "old_price": 29.99,
-        "discount": 36.7,
-        "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_177705706/fee_786_587_png",
-        "url": "https://www.awin1.com/pclick.php?p=45161748459&a=3086723&m=18529",
-        "category": "Telefonia;Indossabili e Wearables;Accessori Indossabili",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {
-          "color": "black"
-        }
-      }
-    ],
-    "merchant_match_score": 100,
-    "merchant_ean": "4255591578384",
-    "merchant_prices_checked_at": "2026-10-28T06:39:02.065878+01:00"
   }
 ]
