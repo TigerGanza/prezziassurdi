@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-29T09:09:01+01:00",
+  "generated_at": "2026-10-29T10:29:01+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -1076,6 +1076,13 @@
       }
     ],
     "migliori-monitor": [
+      {
+        "title": "PreSonus Eris 3.5 Gen 2 Monitor da Studio Nearfield 50W, Coppia | Monitor da studio nearfield, per registrazione domestica, gaming e multimedia, con woofer da 3,5 pollici",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Xiaomi Monitor G27i",
         "merchant": "",
@@ -2719,23 +2726,9 @@
     ],
     "friggitrici-ad-aria-offerte-confronto": [
       {
-        "title": "LEHMANN Friggitrice ad Aria XXL 8L con Divisorio Rimovibile, Air Fryer Doppia Zona Flessibile, Finestra, Pannello Digitale, 12 Programmi, 76-200°C, Lavabile in Lavastoviglie, 90% d",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Midea Friggitrice ad Aria 5L, Vetro Trasparente, Tecnologia HeatXpress",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Midea Friggitrice ad Aria Verticale Doppia Zona 10 in 1, 11L, 2400W | 2 Cassetti 6L & 5L, Componenti Antiaderenti Lavabili in Lavastoviglie, Connettività Wi-Fi, Compatibile con App",
         "merchant": "amazon",
-        "ean": "",
+        "ean": "6936718347387",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -2869,20 +2862,6 @@
     "migliori-moda": [
       {
         "title": "Chicco Bambini e Ragazzi Completo Tuta | con Felpa e Pantaloni Lunghi, in Morbido Tessuto Non Felpato 263",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "PUMA Cilia Mode, Sneaker Donna, White Silver, 39 EU",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Only ONLSHILO PU Sneaker Noos - Scarpe da Ginnastica Donna, White, 37 EU",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -3076,16 +3055,23 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      }
-    ],
-    "migliori-sneakers": [
+      },
       {
-        "title": "PUMA Cilia Mode, Sneaker Donna, White Silver, 39 EU",
+        "title": "Confezione da 5 Pezzi - Maglietta a Maniche Corte 100% Cotone - 5-TS135, Nero, L",
+        "merchant": "amazon",
+        "ean": "8434152678114",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Felpa con Cappuccio Personalizzata con Foto Nome Pullover Uomo Donna Hoodie | Felpe Personalizzate per Festa Viaggio Uso Quotidiano Streetwear Hoodie Personalizzato Regalo Natale C",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      },
+      }
+    ],
+    "migliori-sneakers": [
       {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
