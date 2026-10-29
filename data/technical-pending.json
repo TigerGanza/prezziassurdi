@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-29T13:14:02+01:00",
+  "generated_at": "2026-10-29T14:34:02+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -666,6 +666,13 @@
         "title": "Hisense Smart TV 65\" UHD 4K 65E6ST | DTS Virtual X, VIDAA OS con 1000+ APP, HDR 10+, Game Mode Plus, Bluetooth, Wifi, Alexa, AirPlay2, lativù 4K, 2026 Model",
         "merchant": "amazon",
         "ean": "6942351430805",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Metz TV 43 55 pollici 4K UHD Smart TV LED Google TV HDR 10 MEMC Dolby Audio Google Cast Sintonizzatore di controllo vocale 43MUF7000Z 55MUF7000Z",
+        "merchant": "aliexpress",
+        "ean": "4057313024557",
         "mpn": "",
         "status": "da_verificare"
       }
@@ -1401,16 +1408,16 @@
         "status": "da_verificare"
       },
       {
-        "title": "Nuovo Smartwatch OnePlus Watch 2 con Schermo AMOLED da 1,43'', WiFi, GPS, IP68, Google Pay",
+        "title": "Smartwatch HUAWEI Watch GT 5 46mm originale con schermo AMOLED a colori da 1,43 pollici e durata della batteria fino a 2 settimane",
         "merchant": "aliexpress",
-        "ean": "6921815625766",
+        "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "Smartwatch HUAWEI Watch GT 5 46mm originale con schermo AMOLED a colori da 1,43 pollici e durata della batteria fino a 2 settimane",
+        "title": "Nuovo Smartwatch OnePlus Watch 2 con Schermo AMOLED da 1,43'', WiFi, GPS, IP68, Google Pay",
         "merchant": "aliexpress",
-        "ean": "",
+        "ean": "6921815625766",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -1457,13 +1464,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Versione globale dello smartwatch OnePlus Watch 4, 1,5 pollici, Wear OS by Google, Snapdragon W5, fino a 16 giorni di autonomia, Google Wallet",
-        "merchant": "aliexpress",
-        "ean": "6921815630623",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Smartwatch HUAWEI WATCH FIT 5 Pro Originale",
         "merchant": "aliexpress",
         "ean": "",
@@ -1475,6 +1475,13 @@
         "merchant": "unieuro",
         "ean": "6972596107231",
         "mpn": "AMFW2212EU2N",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Samsung Watch Athleisure Band Cream",
+        "merchant": "unieuro",
+        "ean": "8806095625218",
+        "mpn": "ET-SOL30SWEGEU",
         "status": "da_verificare"
       }
     ],
@@ -1720,6 +1727,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "Ultimea 410W, soundbar con audio surround virtuale 7.1, ideale per smart TV, dotata di subwoofer da 6,5 pollici e 2 altoparlanti surround, controllabile tramite app.",
+        "merchant": "aliexpress",
+        "ean": "6978897889630",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Samsung Music Frame Speaker HW LS60D/ZF, Wireless Music Streaming, Dolby Atmos 3D, Frame Design con sfondo personalizzabile, Wide Sweet Spot, 2024",
         "merchant": "unieuro",
         "ean": "8806095465173",
@@ -1848,34 +1862,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "2PCS BF 88E Walkie Talkie BAOFENG PMR Radio bidirezionale 16CH 446.00625 446.19375MHz con auricolare con caricatore USB Spedito dalla Germania",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "【FR STOCK】Moman 2Pack Auricolare interfono per casco da moto, sistema di comunicazione wireless con 4 modalità di miscelazione audio dinamica, portata di 1 km",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "XGP X10 cuffie moto Bluetooth per casco comunicazione Wireless Mesh 3.0, Audio multifunzione per 10 motociclisti",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Auricolari Traduttori AI Wooask A9 4G+WiFi, Dispositivo di Traduzione Istantanea Autonomo per 144 Lingue con ChatGPT e Funzione di Chiamata Telefonica",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "AQL Evade",
         "merchant": "unieuro",
         "ean": "8018080357725",
@@ -1999,6 +1985,34 @@
         "merchant": "unieuro",
         "ean": "0197192348017",
         "mpn": "7G8F3AA",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Marshall MAJOR IV Cuffie Con cavo e senza cavo A Padiglione MUSICA USB tipo C Bluetooth Nero",
+        "merchant": "unieuro",
+        "ean": "7340055379458",
+        "mpn": "MRS1005773",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Sony Cuffie Bluetooth wireless WH CH520 Durata della batteria fino a 50 ore con ricarica rapida, stile on ear Bianco",
+        "merchant": "unieuro",
+        "ean": "4548736142817",
+        "mpn": "SONWHCH520W.CE7",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Sony Cuffie Bluetooth wireless WH CH520 Durata della batteria fino a 50 ore con ricarica rapida, stile on ear Blu",
+        "merchant": "unieuro",
+        "ean": "4548736142862",
+        "mpn": "SONWHCH520L.CE7",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Sony Cuffie Bluetooth wireless WH CH520 Durata della batteria fino a 50 ore con ricarica rapida, stile on ear Nero",
+        "merchant": "unieuro",
+        "ean": "4548736142374",
+        "mpn": "SONWHCH520B.CE7",
         "status": "da_verificare"
       }
     ],
@@ -2194,6 +2208,27 @@
       }
     ],
     "aspirapolvere-senza-fili-in-offerta": [
+      {
+        "title": "Hoover HF1 Plus Aspirapolvere Scopa Senza Fili | 45 Min Autonomia | 2 Modalità (Standard e Turbo), Spazzola Anti-Twist, Bocchetta LED, QuickPark, Tutti i Pavimenti",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Bithome Z6PRO Aspirapolvere Senza Fili 40KPa 55 Min, Motore Brushless 500W | Scopa Elettrica senza Fili con LED Verde, Filtro HEPA H12, Ricarica Type-C, SENZA Alimentatore, per Pel",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Lefant V1 Aspirapolvere Senza Fili 40000Pa, Scopa Elettrica con LED Touch | Anti-Groviglio, Filtrazione 5 Stadi, 42 Min Autonomia, Batteria Rimovibile, 750ml, per Pavimenti, Tappet",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Aspirapolvere Senza Fili Scopa Elettrica - Potente Filo Batteria Cordless Vacuum Cleaner Scope Elettriche Sacco Portatile Ciclonico Silenzioso per Divano Tappeti Parquet Pavimenti ",
         "merchant": "amazon",
@@ -2500,13 +2535,6 @@
     ],
     "migliori-frigoriferi": [
       {
-        "title": "LG GBBS322BPY Frigorifero combinato Fit & Max 60cm, Classe B, 375L, AI Inverter, Prime Silver",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "BEKO RCSA300K40GN - Frigorifero Combinato Libera Installazione 291 Litri, 4 Ripiani in Vetro, Frigo con Congelatore 3 Cassetti, Elettrodomestici Cucina, Classe E, 54L x 181,4H x 57",
         "merchant": "",
         "ean": "",
@@ -2708,6 +2736,13 @@
         "ean": "8806094914245",
         "mpn": "RT38CG6624S9ES",
         "status": "da_verificare"
+      },
+      {
+        "title": "Samsung Frigorifero Combinato EcoFlex AI 2m 390L RB38C774DSA",
+        "merchant": "unieuro",
+        "ean": "8806094990324",
+        "mpn": "RB38C774DSA/EF",
+        "status": "da_verificare"
       }
     ],
     "friggitrici-ad-aria-offerte-confronto": [
@@ -2749,13 +2784,6 @@
       {
         "title": "Friggitrice Ad Aria 9L | Friggitrice Aria Doppio Cestello con 2x4,5L Cestello, 8-in-1 Airfryer Controllo Indipendente Temperatura 50-200℃, Grande Doppia Zona 2600W Air Fryer LED Sc",
         "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Patbrela Friggitrice ad Aria Doppia da 9L XXL Grande Capacità, Friggitrice ad Aria con Doppio Cestello e Controlli Indipendenti, Cottura Rapida 2000W, Friggitrice Multifunzione Sen",
-        "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
@@ -2846,6 +2874,13 @@
       }
     ],
     "migliori-moda": [
+      {
+        "title": "Name It Nkfstar Dnm Jacket 2210-Sr Noos, Giacca Bambine e ragazze, Blu (Medium Blue Denim), 110",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
@@ -3046,13 +3081,6 @@
         "title": "JOPHY & CO. T-Shirt Personalizzabile in Cotone, Maglietta Personalizzata con Stampa per Uomo e Donna, Idea Regalo Originale (IT, Testo, L, Regular, Regular, Nero)",
         "merchant": "amazon",
         "ean": "8054346377250",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Vintage 1977 Edizione Limitata 44 Anni Di Compleanno Uomo Maglietta",
-        "merchant": "amazon",
-        "ean": "",
         "mpn": "",
         "status": "da_verificare"
       }
