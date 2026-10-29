@@ -1,10 +1,17 @@
 {
   "version": 1,
-  "generated_at": "2026-10-29T21:38:05+01:00",
+  "generated_at": "2026-10-29T23:03:28+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
     "smartphone-in-offerta": [
+      {
+        "title": "Apple iPhone 17 Pro Max 256 GB: display 6,9\", ProMotion fino a 120Hz, chip A19 Pro, autonomia mai vista su iPhone, sistema di fotocamere Pro Fusion, fotocamera frontale Center Stag",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Redmi Note 15 Pro 5G 8+256 Black (No power adapter included)",
         "merchant": "amazon",
@@ -205,13 +212,6 @@
         "title": "REDMI Note 17 5G, Smartphone 6+256GB, Black, Batteria da 7700 mAh | Snapdragon® 4 Gen 4, Ricarica Turbo 45W, Display AMOLED FHD+ 6,99\" Protezione Occhi, Xiaomi HyperOS, IP65, Fotoc",
         "merchant": "amazon",
         "ean": "6939093039472",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "REDMI Note 17 Pro 5G, Smartphone 8+512GB, Black, Batteria da 8340 mAh | Fotocamera OIS 50MP, HyperCharge 67W, Snapdragon®6s Gen4, Display Flagship Alta Luminosità 3500nit, Protezio",
-        "merchant": "amazon",
-        "ean": "6939093036686",
         "mpn": "",
         "status": "da_verificare"
       }
@@ -1073,13 +1073,6 @@
         "ean": "8806097854715",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "Xiaomi Pad 7 8 + 128 Grey Con Tastiera",
-        "merchant": "unieuro",
-        "ean": "6932554426583",
-        "mpn": "VHU5557EU",
-        "status": "da_verificare"
       }
     ],
     "migliori-monitor": [
@@ -1092,13 +1085,6 @@
       },
       {
         "title": "PHILIPS Monitor 27E1N1800AE 27 pollici 3840x2160, UHD, 60Hz, IPS Panel, 4ms GtG, Speakers, Height Adjustment, (HDMI2x 2.0 DP 1x 1.4) HDR10, Nero",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "M-AUDIO BX3 3,5\" Monitor da Studio Cablati in Coppia | Casse Desktop Cablate per Registrazione, Mixaggio e Multimedia, Suite Software Musicale Inclusa",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -1277,13 +1263,6 @@
         "merchant": "unieuro",
         "ean": "0197029615466",
         "mpn": "780G5AAABB",
-        "status": "da_verificare"
-      },
-      {
-        "title": "ASUS ZenScreen MB16AWP Monitor PC 39,6 cm (15.6'') 1920 x 1080 Pixel Full HD LED Nero",
-        "merchant": "unieuro",
-        "ean": "4711081309451",
-        "mpn": "90LM07I1-B01370",
         "status": "da_verificare"
       }
     ],
@@ -1515,13 +1494,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "SONY Console PlayStation 5 Edition Digital",
-        "merchant": "amazon",
-        "ean": "0711719425090",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "PlayStation 5 Console Digital Edition + 2 PS5 DualSense™ Controller Wireless - Bianco",
         "merchant": "amazon",
         "ean": "0711719563914",
@@ -1532,6 +1504,13 @@
         "title": "Playstation 5 Console Slim + 1 DualSense White",
         "merchant": "amazon",
         "ean": "0711719577171",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Sony PlayStation 5 - Digital Edition",
+        "merchant": "amazon",
+        "ean": "0711719424994",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -1571,6 +1550,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "Xbox Series S 512GB - Bianca",
+        "merchant": "amazon",
+        "ean": "0196388421435",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Xbox Series S 512GB Console",
         "merchant": "amazon",
         "ean": "0889842651317",
@@ -1581,13 +1567,6 @@
         "title": "Microsoft Console Xbox Series S 1TB Nero (UE) (Xbox Series S)",
         "merchant": "amazon",
         "ean": "0196388180011",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Xbox Series S 512GB - Bianca",
-        "merchant": "amazon",
-        "ean": "0196388421435",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -1685,9 +1664,9 @@
         "status": "da_verificare"
       },
       {
-        "title": "auvisio Soundbar 2.2 separabile per TV con Dual-Subwoofer, Bluetooth 5.3, HDMI ARC/eARC/CEC, USB MP3",
+        "title": "Hisense HS3100 Soundbar 3.1, Potenza 480W, Subwoofer Esterno wireless, Supporta Dolby Digital e DTS Virtual :X, Bluetooth, HDMI, USB, Ingresso Audio Ottico",
         "merchant": "amazon",
-        "ean": "4022107463881",
+        "ean": "6942351409085",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -1780,41 +1759,6 @@
         "merchant": "unieuro",
         "ean": "8806091960146",
         "mpn": "GOLSG10TY.DEUSLLK",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Samsung Soundbar HW B650F/ZF, Audio 3.1 canali, Wireless Dolby 5.1ch, 2025",
-        "merchant": "unieuro",
-        "ean": "8806097069225",
-        "mpn": "HW-B650F/ZF",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Samsung B Series Soundbar HW B450F/ZF, Audio 2.1 canali, Wireless Dolby 2ch, 2025",
-        "merchant": "unieuro",
-        "ean": "8806097057420",
-        "mpn": "HW-B450F/ZF",
-        "status": "da_verificare"
-      },
-      {
-        "title": "IOPLEE IOPEXTSBARS672 altoparlante soundbar Nero 2.0 canali 60 W",
-        "merchant": "unieuro",
-        "ean": "8055776234250",
-        "mpn": "672",
-        "status": "da_verificare"
-      },
-      {
-        "title": "IOPLEE IOPEXTSBARC643 altoparlante soundbar Nero 4.1 canali 180 W",
-        "merchant": "unieuro",
-        "ean": "8055776234243",
-        "mpn": "643",
-        "status": "da_verificare"
-      },
-      {
-        "title": "LG Soundbar S40T, 300W su 2.1 canali, Dolby Digital, DTS, Subwoofer wireless, Bluetooth",
-        "merchant": "unieuro",
-        "ean": "8806091960320",
-        "mpn": "GOLS40T.DEUSLLK",
         "status": "da_verificare"
       }
     ],
@@ -1972,62 +1916,6 @@
         "ean": "0194253715122",
         "mpn": "MNSMQTP3ZM/A",
         "status": "da_verificare"
-      },
-      {
-        "title": "JBL Live 670NC Auricolare Wireless A Padiglione Musica e Chiamate Bluetooth Bianco",
-        "merchant": "unieuro",
-        "ean": "1200130004742",
-        "mpn": "JBLLIVE670NCWHT",
-        "status": "da_verificare"
-      },
-      {
-        "title": "JBL Live 670NC Auricolare Wireless A Padiglione Musica e Chiamate Bluetooth Blu",
-        "merchant": "unieuro",
-        "ean": "1200130004759",
-        "mpn": "JBLLIVE670NCBLU",
-        "status": "da_verificare"
-      },
-      {
-        "title": "JBL Live 670NC Auricolare Wireless A Padiglione Musica e Chiamate Bluetooth Sabbia",
-        "merchant": "unieuro",
-        "ean": "1200130005060",
-        "mpn": "JBLLIVE670NCSAT",
-        "status": "da_verificare"
-      },
-      {
-        "title": "HyperX Cloud Mini – Gaming Headset (Multicolore)",
-        "merchant": "unieuro",
-        "ean": "0197192348017",
-        "mpn": "7G8F3AA",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Marshall MAJOR IV Cuffie Con cavo e senza cavo A Padiglione MUSICA USB tipo C Bluetooth Nero",
-        "merchant": "unieuro",
-        "ean": "7340055379458",
-        "mpn": "MRS1005773",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Sony Cuffie Bluetooth wireless WH CH520 Durata della batteria fino a 50 ore con ricarica rapida, stile on ear Bianco",
-        "merchant": "unieuro",
-        "ean": "4548736142817",
-        "mpn": "SONWHCH520W.CE7",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Sony Cuffie Bluetooth wireless WH CH520 Durata della batteria fino a 50 ore con ricarica rapida, stile on ear Blu",
-        "merchant": "unieuro",
-        "ean": "4548736142862",
-        "mpn": "SONWHCH520L.CE7",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Sony Cuffie Bluetooth wireless WH CH520 Durata della batteria fino a 50 ore con ricarica rapida, stile on ear Nero",
-        "merchant": "unieuro",
-        "ean": "4548736142374",
-        "mpn": "SONWHCH520B.CE7",
-        "status": "da_verificare"
       }
     ],
     "migliori-robot-aspirapolvere": [
@@ -2081,13 +1969,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Lefant M210 Omni Mini Robot Aspirapolvere Lavapavimenti con Rullo 20.000 Pa | Rullo Autopulente, Acqua Pulita Continua, Base Multifunzione, Anti-Groviglio, 800ml, Ultra Sottile 85m",
-        "merchant": "amazon",
-        "ean": "0674026773691",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "MONSGA Robot Aspirapolvere Lavapavimenti 3-in-1, 8000Pa, Autonomia 180min | Navigazione Lidar, Mappa a 5 livelli, Anti-groviglio, Controllo App/Telecomando/Alexa, Per Peli Animali,",
         "merchant": "amazon",
         "ean": "6978669693274",
@@ -2103,6 +1984,13 @@
       },
       {
         "title": "roborock Qrevo S Pro Robot Aspirapolvere Lavapavimenti, Lavaggio Panno 75°C | Asciugatura Aria Calda 45°C, 18.500Pa, Antigroviglio, Evitare Ostacoli, Stazione Tutto in Uno, Modalit",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "roborock Q10 S5 Set Robot Aspirapolvere 10.000Pa, Panno Sollevabile, Nero | Pulizia VibraRise 2.0(3000 volte/min), Anti-groviglio, Evitamento degli Ostacoli, Strategie Tappeti, Con",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -2212,37 +2100,9 @@
         "ean": "6936905900760",
         "mpn": "CN82960",
         "status": "da_verificare"
-      },
-      {
-        "title": "Roborock F25 ACE Combo Aspirapolvere Senza Fili e Lavapavimenti 5 in 1, 20.000 Pa, Autopulizia con asciugatura a 90°C, Zero Grovigli, 180° UltraPiatto, P",
-        "merchant": "unieuro",
-        "ean": "6974653812478",
-        "mpn": "CN82959",
-        "status": "da_verificare"
       }
     ],
     "aspirapolvere-senza-fili-in-offerta": [
-      {
-        "title": "Hoover HF1 Plus Aspirapolvere Scopa Senza Fili | 45 Min Autonomia | 2 Modalità (Standard e Turbo), Spazzola Anti-Twist, Bocchetta LED, QuickPark, Tutti i Pavimenti",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Bithome Z6PRO Aspirapolvere Senza Fili 40KPa 55 Min, Motore Brushless 500W | Scopa Elettrica senza Fili con LED Verde, Filtro HEPA H12, Ricarica Type-C, SENZA Alimentatore, per Pel",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Lefant V1 Aspirapolvere Senza Fili 40000Pa, Scopa Elettrica con LED Touch | Anti-Groviglio, Filtrazione 5 Stadi, 42 Min Autonomia, Batteria Rimovibile, 750ml, per Pavimenti, Tappet",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Aspirapolvere Senza Fili Scopa Elettrica - Potente Filo Batteria Cordless Vacuum Cleaner Scope Elettriche Sacco Portatile Ciclonico Silenzioso per Divano Tappeti Parquet Pavimenti ",
         "merchant": "amazon",
@@ -2318,20 +2178,6 @@
         "merchant": "unieuro",
         "ean": "3221616060449",
         "mpn": "RH99A9",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Bosch BCS1041WAC Scopa elettrica, Unlimited 10, Bianco",
-        "merchant": "unieuro",
-        "ean": "4242005469550",
-        "mpn": "BCS1041WAC",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Rowenta Power XXL RO3126 4,5 L A cilindro Secco 900 W Sacchetto per la polvere",
-        "merchant": "unieuro",
-        "ean": "3221616061095",
-        "mpn": "RO3126",
         "status": "da_verificare"
       }
     ],
@@ -2789,16 +2635,16 @@
         "status": "da_verificare"
       },
       {
-        "title": "HOMCOM Friggitrice ad Aria Calda 8L Doppio Cestello 2400W 10 Programmi Nero | Friggitrice Senza Olio, Air Fryer con LED Touch Screen, Timer e Temperatura Regolabili",
+        "title": "PremierTech Friggitrice ad Aria 8 Litri Doppio Cestello 8 Programmi PT8LAF | Air Fryer, 2 zone indipendenti 4+4 litri, doppia temperatura, display digitale, compatta, doppio cestel",
         "merchant": "amazon",
-        "ean": "8056644230831",
+        "ean": "8050519380713",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "PremierTech Friggitrice ad Aria 8 Litri Doppio Cestello 8 Programmi PT8LAF | Air Fryer, 2 zone indipendenti 4+4 litri, doppia temperatura, display digitale, compatta, doppio cestel",
+        "title": "Friggitrice Ad Aria 9L | Friggitrice Aria Doppio Cestello con 2x4,5L Cestello, 8-in-1 Airfryer Controllo Indipendente Temperatura 50-200℃, Grande Doppia Zona 2600W Air Fryer LED Sc",
         "merchant": "amazon",
-        "ean": "8050519380713",
+        "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -2857,37 +2703,23 @@
         "ean": "8059019087412",
         "mpn": "38600008",
         "status": "da_verificare"
-      },
-      {
-        "title": "Moulinex Easy Fry Mega , Friggitrice ad aria, Capacità Extra Large 7,5L/2kg, 8 programmi preimpostati, Acciaio Inossidabile",
-        "merchant": "unieuro",
-        "ean": "3045380026278",
-        "mpn": "EZ855D",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Moulinex Dual Easy Fry XXL , Friggitrice ad Aria, 11L, 2 Cestelli, Modalità Sync",
-        "merchant": "unieuro",
-        "ean": "3045380028678",
-        "mpn": "EZ942D",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Ardes ARFRYA10L friggitrice Singolo 5 L Indipendente 1500 W Friggitrice ad aria calda Nero",
-        "merchant": "unieuro",
-        "ean": "8004032116564",
-        "mpn": "72808530I",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Moulinex Easy Fry Max Friggitrice ad aria 5L Coal Grey",
-        "merchant": "unieuro",
-        "ean": "3045387293253",
-        "mpn": "EZ245H",
-        "status": "da_verificare"
       }
     ],
     "migliori-moda": [
+      {
+        "title": "Asics Gel-Sonoma 8 GTX Scarpe da Trail Running",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Asics Gel-Contend 10 Scarpe da Running",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Columbia Powder Lite 2 Jacket, Piumino Uomo, Black, XL",
         "merchant": "amazon",
@@ -3083,20 +2915,6 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "WORLD SELL T-Shirt Uomo/Donna Personalizzata Fronte e Retro – 100% Cotone – Made in Italy – Maglietta Personalizzabile con Testo, Logo o Immagine (IT, Testo, S, Regular, Regular, N",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "fashwork Maglietta Personalizzata Uomo Donna, T-Shirt Personalizzabile con Stampa Foto, Scritta o Logo Fronte Retro, Maglia Manica Corta in 100% Cotone per Regali Personalizzati Bi",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
       }
     ],
     "migliori-sneakers": [
@@ -3260,6 +3078,55 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
+      },
+      {
+        "title": "Puma Speedcat Uomo Sneakers Blu Taglia 40.5 Scamosciato",
+        "merchant": "footlocker",
+        "ean": "4069161298790",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Banlieue The Runner Uomo Sneakers Bianco Taglia 40 Scamosciato",
+        "merchant": "footlocker",
+        "ean": "7435117836816",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Banlieue The Runner Uomo Sneakers Bianco Taglia 40.5 Scamosciato",
+        "merchant": "footlocker",
+        "ean": "7435111560557",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Banlieue The Runner Uomo Sneakers Bianco Taglia 41 Scamosciato",
+        "merchant": "footlocker",
+        "ean": "7435115916954",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Banlieue The Runner Uomo Sneakers Bianco Taglia 42 Scamosciato",
+        "merchant": "footlocker",
+        "ean": "7435107961986",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Banlieue The Runner Uomo Sneakers Bianco Taglia 42.5 Scamosciato",
+        "merchant": "footlocker",
+        "ean": "7435108526559",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Banlieue The Runner Uomo Sneakers Bianco Taglia 43 Scamosciato",
+        "merchant": "footlocker",
+        "ean": "7435112660690",
+        "mpn": "",
+        "status": "da_verificare"
       }
     ],
     "lavapavimenti-elettriche": [
@@ -3323,13 +3190,6 @@
         "title": "dreame H12 Pro FlexReach Aspirapolvere Lavapavimenti, Design Piatto a 180° | 18.000 Pa, 5 min di Asciugatura, Pulizia a Caldo a 90 °C, Pulizia dei Bordi su Due Lati, 50 Minuti di P",
         "merchant": "amazon",
         "ean": "6977328065582",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "dreame T12 Pro-A Aspirap. Lavap., Ultrasottile da 9,85 cm, 25.000 Pa | Autopulente a 95 °C, Asciugatura a Caldo a 95 °C, 0 Grovigli e Striature, Leggero, Autonomia di 60 min",
-        "merchant": "amazon",
-        "ean": "6979181925027",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -3429,27 +3289,6 @@
         "merchant": "unieuro",
         "ean": "4242005436989",
         "mpn": "BCS71HYG4",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Kärcher LAVAPAVIMENTI FC 2 4 BATTERY SET",
-        "merchant": "unieuro",
-        "ean": "4054278926438",
-        "mpn": "1.056-200.0",
-        "status": "da_verificare"
-      },
-      {
-        "title": "LAVAPAVIMENTI EUREKA Rapidwash NEW480",
-        "merchant": "unieuro",
-        "ean": "6956079732189",
-        "mpn": "NEW480",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Bissell Lavapavimenti CrossWave C6 Cordless Select",
-        "merchant": "unieuro",
-        "ean": "0011120269512",
-        "mpn": "3569N",
         "status": "da_verificare"
       }
     ]
