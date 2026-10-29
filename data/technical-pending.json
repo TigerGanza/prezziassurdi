@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-29T17:14:09+01:00",
+  "generated_at": "2026-10-29T18:34:10+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -1091,13 +1091,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "PreSonus Eris 3.5 Gen 2 Monitor da Studio Nearfield 50W, Coppia | Monitor da studio nearfield, per registrazione domestica, gaming e multimedia, con woofer da 3,5 pollici",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Xiaomi Monitor G27i",
         "merchant": "",
         "ean": "",
@@ -1282,13 +1275,6 @@
     ],
     "migliori-smartwatch": [
       {
-        "title": "Garmin Forerunner 165, 43mm, Smartwatch GPS per la Corsa, Black | VO2max, Report mattutino, HRV Status, Piani gratuiti 5K, 10K e 21K, Training Readiness, GarminPay, Autonomia 11 gi",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "2026 Smartwatch Uomo GPS,2.06\" HD AMOLED Orologio Smartwatch con Chiamate",
         "merchant": "",
         "ean": "",
@@ -1376,6 +1362,13 @@
         "title": "Garmin Forerunner 55, 42mm. Smartwatch GPS per la Corsa, Black | Cardio, Piani di allenamento inclusi, VO2max, Allenamenti personalizzati, Connect IQ, Autonomia fino a 2 Settimane",
         "merchant": "amazon",
         "ean": "0753759364717",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Garmin Forerunner 165, 43mm, Smartwatch GPS per la Corsa, Black | VO2max, Report mattutino, HRV Status, Piani gratuiti 5K, 10K e 21K, Training Readiness, GarminPay, Autonomia 11 gi",
+        "merchant": "amazon",
+        "ean": "0753759326593",
         "mpn": "",
         "status": "da_verificare"
       },
