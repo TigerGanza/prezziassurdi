@@ -1,10 +1,24 @@
 {
   "version": 1,
-  "generated_at": "2026-10-29T14:34:02+01:00",
+  "generated_at": "2026-10-29T15:54:02+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
     "smartphone-in-offerta": [
+      {
+        "title": "Redmi Note 15 Pro 5G 8+256 Black (No power adapter included)",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "REDMI Note 17 Pro 5G, Smartphone 12+256GB, Purple, Batteria da 8340 mAh | Fotocamera OIS 50MP, HyperCharge 67W, Snapdragon®6s Gen4, Display Flagship Alta Luminosità 3500nit, Protez",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Motorola moto g06 (4/256GB, Fotocamera 50MP+flicker cam, selfie 8MP, Display HD+ 6.88\", MediaTek Helio G81 Extreme, 5200mAh, Android 15), Tapestry",
         "merchant": "amazon",
@@ -167,13 +181,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Redmi Note 15 Pro 5G 8+256 Black (No power adapter included)",
-        "merchant": "amazon",
-        "ean": "6932554471521",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Honor Magic8 Lite, Dual, 256GB 8GB RAM, Forest Green",
         "merchant": "amazon",
         "ean": "6936520884223",
@@ -205,13 +212,6 @@
         "title": "REDMI Note 17 Pro 5G, Smartphone 8+512GB, Black, Batteria da 8340 mAh | Fotocamera OIS 50MP, HyperCharge 67W, Snapdragon®6s Gen4, Display Flagship Alta Luminosità 3500nit, Protezio",
         "merchant": "amazon",
         "ean": "6939093036686",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "REDMI Note 17 Pro 5G, Smartphone 8+512GB, Purple, Batteria da 8340 mAh | Fotocamera OIS 50MP, HyperCharge 67W, Snapdragon®6s Gen4, Display Flagship Alta Luminosità 3500nit, Protezi",
-        "merchant": "amazon",
-        "ean": "6939093036747",
         "mpn": "",
         "status": "da_verificare"
       }
@@ -1806,13 +1806,6 @@
     ],
     "cuffie-bluetooth-in-offerta": [
       {
-        "title": "Philips Serie 3000 TAT3509GY/00 cuffia e auricolare True Wireless Stereo (TWS) In-ear Musica e Chiamate Bluetooth Grigio",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Cuffie Bluetooth 5.4 Senza Fili Touch Screen, ANC/ENC Riduzione Rumore, 48H | Audio Stereo Hi-Fi con 5 modalità EQ, Impermeabilità IPX7 Auricolari Bluetooth, Design in-Ear Ergonomi",
         "merchant": "amazon",
         "ean": "",
@@ -1915,6 +1908,13 @@
         "merchant": "unieuro",
         "ean": "8018080350757",
         "mpn": "BTPLUMETWSP",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Philips Serie 3000 TAT3509GY/00 cuffia e auricolare True Wireless Stereo (TWS) In ear Musica e Chiamate Bluetooth Grigio",
+        "merchant": "unieuro",
+        "ean": "4895229149199",
+        "mpn": "PHITAT3509GY/00",
         "status": "da_verificare"
       },
       {
@@ -2204,6 +2204,13 @@
         "merchant": "unieuro",
         "ean": "6974653812478",
         "mpn": "CN82959",
+        "status": "da_verificare"
+      },
+      {
+        "title": "iRobot Roomba 105 Senza sacchetto Nero",
+        "merchant": "unieuro",
+        "ean": "5061042264459",
+        "mpn": "817152",
         "status": "da_verificare"
       }
     ],
