@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-29T11:49:20+01:00",
+  "generated_at": "2026-10-29T13:14:02+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -672,13 +672,6 @@
     ],
     "migliori-notebook": [
       {
-        "title": "Lenovo IdeaPad Slim 3 Notebook 15\" IPS, AMD Ryzen 5 40, RAM 8GB, 512GB SSD, Windows 11 Home, WiFi 6, Laptop per Casa, Ufficio, Studio, Multitasking, Uso Quotidiano - Caricatore non",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "ASUS Vivobook 16 F1605VA#B0FZL8JLW9, Notebook con display 16\" Anti-glare, 60Hz,Intel® Core™ 9 Processor 270H,RAM 16GB, 1TB SSD, WIN11 Home, Argento",
         "merchant": "",
         "ean": "",
@@ -1076,6 +1069,13 @@
       }
     ],
     "migliori-monitor": [
+      {
+        "title": "M-AUDIO BX3 3,5\" Monitor da Studio Cablati in Coppia | Casse Desktop Cablate per Registrazione, Mixaggio e Multimedia, Suite Software Musicale Inclusa",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "PreSonus Eris 3.5 Gen 2 Monitor da Studio Nearfield 50W, Coppia | Monitor da studio nearfield, per registrazione domestica, gaming e multimedia, con woofer da 3,5 pollici",
         "merchant": "amazon",
@@ -2302,20 +2302,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Hotpoint Ariston Lavatrice da incasso BI WMHG 71483 EU N",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "CANDY GWD 496B8-S LAVASCIUGA, Caricamento frontale, capacità lavaggio 9 kg, asciugatura 6 16 programmi, Profondità 60 cm, Giri 1400 rpm, Bianco, Nero, Classe D",
-        "merchant": "mediaworld",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Bosch WAN28229IT Serie 4 Lavatrice 9kg 1400 giri/min Bianco Classe A",
         "merchant": "",
         "ean": "",
@@ -2495,6 +2481,20 @@
         "merchant": "unieuro",
         "ean": "8806097804819",
         "mpn": "WW10FG6U34LKU3",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Samsung Lavatrice BESPOKE AI™ 9Kg WW90DB7U34GWU3",
+        "merchant": "unieuro",
+        "ean": "8806095550282",
+        "mpn": "WW90DB7U34GWU3",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Samsung Lavatrice Crystal Clean 8 kg WW80CGC04DAEET",
+        "merchant": "unieuro",
+        "ean": "8806095210285",
+        "mpn": "WW80CGC04DAEET",
         "status": "da_verificare"
       }
     ],
@@ -2847,13 +2847,6 @@
     ],
     "migliori-moda": [
       {
-        "title": "Chicco Bambini e Ragazzi Completo Tuta | con Felpa e Pantaloni Lunghi, in Morbido Tessuto Non Felpato 263",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
         "ean": "",
@@ -3053,6 +3046,13 @@
         "title": "JOPHY & CO. T-Shirt Personalizzabile in Cotone, Maglietta Personalizzata con Stampa per Uomo e Donna, Idea Regalo Originale (IT, Testo, L, Regular, Regular, Nero)",
         "merchant": "amazon",
         "ean": "8054346377250",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Vintage 1977 Edizione Limitata 44 Anni Di Compleanno Uomo Maglietta",
+        "merchant": "amazon",
+        "ean": "",
         "mpn": "",
         "status": "da_verificare"
       }

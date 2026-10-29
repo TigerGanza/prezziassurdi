@@ -1,5 +1,22 @@
 [
   {
+    "asin": "B07S8BF5H6",
+    "title": "SWISSE Ultivit - Multivitaminico Uomo con Vitamina C D e Zinco per Supporto Sistema Immunitario Adulti, Integratori con Magnesio Biotina e Ferro per Metabolismo Energetico, Made in Italy, 60 Compresse",
+    "price": 17.59,
+    "old_price": 29.9,
+    "discount": 41.0,
+    "image": "https://m.media-amazon.com/images/I/41Ye8u5BReL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B07S8BF5H6?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "integratori_multivitaminici",
+    "macro_group": "tempo_libero",
+    "seasonal_title": "",
+    "published_at": "2026-10-29T13:28:34.698209+01:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B08KXVYGSF",
     "title": "M-AUDIO BX3 3,5\" Monitor da Studio Cablati in Coppia | Casse Desktop Cablate per Registrazione, Mixaggio e Multimedia, Suite Software Musicale Inclusa",
     "price": 85.0,
@@ -2343,59 +2360,6 @@
     ],
     "merchant_match_score": 100,
     "merchant_ean": "4251483684720",
-    "merchant_prices_checked_at": "2026-10-29T06:14:02.873265+01:00"
-  },
-  {
-    "asin": "WC3469F03C",
-    "title": "Remington Piastra per Capelli Sleek & Curl S6500",
-    "price": 22.9,
-    "old_price": 54.99,
-    "discount": 58.4,
-    "image": "https://www.unieuro.it/medias/sys_master/root/h9b/h92/51782719078430/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-562607e1f6ff66a94daf82467f893b3f-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-    "url": "https://www.awin1.com/pclick.php?p=16847499339&a=3086723&m=10139",
-    "category": "cura-persona",
-    "macro_group": "awin_discovery",
-    "seasonal_title": "Offerta Unieuro",
-    "published_at": "2026-10-29T06:34:08.910831+01:00",
-    "source_merchant": "unieuro",
-    "source_external_id": "REMS6500",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "unieuro",
-        "merchant_name": "Unieuro",
-        "merchant_id": "10139",
-        "product_id": "REMS6500",
-        "awin_product_id": "16847499339",
-        "title": "Remington Piastra per Capelli Sleek & Curl S6500",
-        "brand": "Remington",
-        "ean": "4008496652822",
-        "mpn": "S6500",
-        "price": 22.9,
-        "old_price": 54.99,
-        "discount": 58.4,
-        "image": "https://www.unieuro.it/medias/sys_master/root/h9b/h92/51782719078430/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-562607e1f6ff66a94daf82467f893b3f-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-        "url": "https://www.awin1.com/pclick.php?p=16847499339&a=3086723&m=10139",
-        "category": "Piastre per capelli",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {}
-      },
-      {
-        "merchant": "amazon",
-        "merchant_name": "Amazon",
-        "price": 22.9,
-        "old_price": null,
-        "discount": null,
-        "url": "https://www.amazon.it/dp/B003WOKJFM?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-        "title": "Remington Piastra Sleek & Curl - Ottimo per lisciare e modellare Ricci e Onde - Design arrotondato, rivestimento ceramico ultra, Tormalina di qualità, Display LCD, 150-230°C, piastra per capelli S6500",
-        "image": "https://m.media-amazon.com/images/I/41yq87b7wZL._SL500_.jpg"
-      }
-    ],
-    "merchant_match_score": 100,
-    "merchant_ean": "4008496652822",
     "merchant_prices_checked_at": "2026-10-29T06:14:02.873265+01:00"
   }
 ]
