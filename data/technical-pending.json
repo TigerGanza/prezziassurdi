@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-29T07:49:03+01:00",
+  "generated_at": "2026-10-29T09:09:01+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -1077,20 +1077,6 @@
     ],
     "migliori-monitor": [
       {
-        "title": "PHILIPS Monitor 27E1N1100A 27 pollici 1920x1080, FHD, 120Hz, IPS Panel, 4ms GtG, Speakers, (HDMI1x 1.4) Nero",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "AOC Gaming Monitor Q27B36X 27 pollici 2560x1440, WQHD, 144Hz, IPS Panel, 4ms GtG, (HDMI1x 2.0 DP 1x 1.4) HDR10, Nero",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Xiaomi Monitor G27i",
         "merchant": "",
         "ean": "",
@@ -1136,6 +1122,13 @@
         "title": "MSI PRO MP275QA E14 Monitor 27\" WQHD, 2560x1440 IPS, 144 Hz, 1 ms | HDR Ready, Adaptive-Sync, Eye Care, altoparlante integrato, HDMI 2.0b, DP 1.2a, senza cornice, inclinabile, comp",
         "merchant": "amazon",
         "ean": "4711377397247",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "AOC Gaming Monitor Q27B36X 27 pollici 2560x1440, WQHD, 144Hz, IPS Panel, 4ms GtG, (HDMI1x 2.0 DP 1x 1.4) HDR10, Nero",
+        "merchant": "amazon",
+        "ean": "4038986183208",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -1268,6 +1261,27 @@
     ],
     "migliori-smartwatch": [
       {
+        "title": "Garmin Forerunner 165, 43mm, Smartwatch GPS per la Corsa, Black | VO2max, Report mattutino, HRV Status, Piani gratuiti 5K, 10K e 21K, Training Readiness, GarminPay, Autonomia 11 gi",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Garmin Forerunner 55, 42mm. Smartwatch GPS per la Corsa, Black | Cardio, Piani di allenamento inclusi, VO2max, Allenamenti personalizzati, Connect IQ, Autonomia fino a 2 Settimane",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Garmin Edge 540, Ciclocomputer GPS a Doppia Frequenza, Cartografico, Display 2,6\" a colori, Touchscreen e pulsanti, Navigazione, Stamina, Power Guide, Autonomia 26 ore",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "2026 Smartwatch Uomo GPS,2.06\" HD AMOLED Orologio Smartwatch con Chiamate",
         "merchant": "",
         "ean": "",
@@ -1348,20 +1362,6 @@
         "title": "Orologio Smartwatch Uomo GPS Sport: 1.56\" Orologi Intelligente con Mappe Offline Chiamate Bluetooth 107 Modalità Sportivo GPT Monitor Salute Dotato di Batteria da 1200 mAh Compatib",
         "merchant": "amazon",
         "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Garmin Forerunner 55, 42mm. Smartwatch GPS per la Corsa, Black | Cardio, Piani di allenamento inclusi, VO2max, Allenamenti personalizzati, Connect IQ, Autonomia fino a 2 Settimane",
-        "merchant": "amazon",
-        "ean": "0753759364717",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Garmin Forerunner 165, 43mm, Smartwatch GPS per la Corsa, Black | VO2max, Report mattutino, HRV Status, Piani gratuiti 5K, 10K e 21K, Training Readiness, GarminPay, Autonomia 11 gi",
-        "merchant": "amazon",
-        "ean": "0753759326593",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -1468,13 +1468,6 @@
         "merchant": "unieuro",
         "ean": "8806095625218",
         "mpn": "ET-SOL30SWEGEU",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Samsung Watch Athleisure Band Sky",
-        "merchant": "unieuro",
-        "ean": "8806095630595",
-        "mpn": "ET-SOL31LLEGEU",
         "status": "da_verificare"
       }
     ],
