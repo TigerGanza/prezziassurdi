@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-28T23:39:03+01:00",
+  "generated_at": "2026-10-29T00:59:10+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -671,6 +671,13 @@
       }
     ],
     "migliori-notebook": [
+      {
+        "title": "Lenovo IdeaPad Slim 3 Notebook 15\" IPS, AMD Ryzen 5 40, RAM 8GB, 512GB SSD, Windows 11 Home, WiFi 6, Laptop per Casa, Ufficio, Studio, Multitasking, Uso Quotidiano - Caricatore non",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "ASUS Vivobook 16 F1605VA#B0FZL8JLW9, Notebook con display 16\" Anti-glare, 60Hz,Intel® Core™ 9 Processor 270H,RAM 16GB, 1TB SSD, WIN11 Home, Argento",
         "merchant": "",
@@ -1806,13 +1813,6 @@
     ],
     "cuffie-bluetooth-in-offerta": [
       {
-        "title": "Sony WF-C510 Auricolari True Wireless | Auricolari In-Ear Bluetooth, multipoint, modalità trasparenza, IPX4, 22h di autonomia, iOS/Android, Nero",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Soundcore P31i di Anker Cuffie Bluetooth con Cancellazione Adattiva Rumore | Audio Hi-Res, Auricolari con Funzione di Traduzione, 50 ore di Autonomia, Cancellazione Adattiva, IPX5,",
         "merchant": "amazon",
         "ean": "0194644247409",
@@ -2013,6 +2013,13 @@
         "merchant": "unieuro",
         "ean": "1200130005060",
         "mpn": "JBLLIVE670NCSAT",
+        "status": "da_verificare"
+      },
+      {
+        "title": "HyperX Cloud Mini – Gaming Headset (Multicolore)",
+        "merchant": "unieuro",
+        "ean": "0197192348017",
+        "mpn": "7G8F3AA",
         "status": "da_verificare"
       }
     ],
