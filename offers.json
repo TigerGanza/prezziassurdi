@@ -1,5 +1,22 @@
 [
   {
+    "asin": "B0C7GWGLWV",
+    "title": "VOLTRX Titanus - Bottiglia per shaker per proteine, ricaricabile tramite USB C, elettrico, per frullati proteici e frullati sostitutivi dei pasti, senza BPA,700ml",
+    "price": 20.75,
+    "old_price": 35.99,
+    "discount": 42.0,
+    "image": "https://m.media-amazon.com/images/I/31ImSgRIKbL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0C7GWGLWV?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "spirits",
+    "macro_group": "spesa_bevande",
+    "seasonal_title": "",
+    "published_at": "2026-10-29T16:38:55.441945+01:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B003LNRTJS",
     "title": "Spontex Panni Spugna in Cellulosa, assorbenza, spugna biodegradabile, 4 pezzi",
     "price": 1.48,
@@ -1848,52 +1865,6 @@
     ],
     "merchant_match_score": 94,
     "merchant_ean": "8690842609671",
-    "merchant_prices_checked_at": "2026-10-29T07:34:51.279509+01:00"
-  },
-  {
-    "asin": "B0CNQ2DCST",
-    "title": "Beko - CF200EWN - Congelatore Orizzontale Statico | Volume Totale Netto 198 L, Controllo Elettronico, Bianco, 54.5D x 90.5L x 84.5H cm",
-    "price": 219.9,
-    "old_price": 299.0,
-    "discount": 26.0,
-    "image": "https://m.media-amazon.com/images/I/21c4ZHg2sEL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0CNQ2DCST?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "grandi_elettrodomestici",
-    "macro_group": "casa_cucina",
-    "seasonal_title": "",
-    "published_at": "2026-10-29T08:33:35.183216+01:00",
-    "source_merchant": "amazon",
-    "source_external_id": "",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "unieuro",
-        "merchant_name": "Unieuro",
-        "merchant_id": "10139",
-        "product_id": "BKOCF200EWN",
-        "awin_product_id": "37183405112",
-        "title": "Beko CF200EWN: Congelatore Orizzontale, Statico, 198 L, 90.5 cm",
-        "brand": "Beko",
-        "ean": "8690842609688",
-        "mpn": "8996613200",
-        "price": 223.0,
-        "old_price": 419.9,
-        "discount": 46.9,
-        "image": "https://www.unieuro.it/medias/sys_master/root/he7/h33/61686456647710/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-68c19293e8887bfc4ac84915ed42e8cc-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-        "url": "https://www.awin1.com/pclick.php?p=37183405112&a=3086723&m=10139",
-        "category": "Congelatori",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {
-          "volume_ml": 198000.0,
-          "length_mm": 905.0
-        }
-      }
-    ],
-    "merchant_match_score": 94,
-    "merchant_ean": "8690842609688",
     "merchant_prices_checked_at": "2026-10-29T07:34:51.279509+01:00"
   }
 ]
