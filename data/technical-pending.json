@@ -1,17 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-10-30T10:24:12+01:00",
+  "generated_at": "2026-10-30T11:49:12+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
     "smartphone-in-offerta": [
-      {
-        "title": "Apple iPhone 17 Pro Max 256 GB: display 6,9\", ProMotion fino a 120Hz, chip A19 Pro, autonomia mai vista su iPhone, sistema di fotocamere Pro Fusion, fotocamera frontale Center Stag",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Motorola moto g06 (4/256GB, Fotocamera 50MP+flicker cam, selfie 8MP, Display HD+ 6.88\", MediaTek Helio G81 Extreme, 5200mAh, Android 15), Tapestry",
         "merchant": "amazon",
@@ -212,6 +205,13 @@
         "title": "REDMI Note 17 Pro 5G, Smartphone 8+512GB, Black, Batteria da 8340 mAh | Fotocamera OIS 50MP, HyperCharge 67W, Snapdragon®6s Gen4, Display Flagship Alta Luminosità 3500nit, Protezio",
         "merchant": "amazon",
         "ean": "6939093036686",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "REDMI Note 17 Pro 5G, Smartphone 8+512GB, Purple, Batteria da 8340 mAh | Fotocamera OIS 50MP, HyperCharge 67W, Snapdragon®6s Gen4, Display Flagship Alta Luminosità 3500nit, Protezi",
+        "merchant": "amazon",
+        "ean": "6939093036747",
         "mpn": "",
         "status": "da_verificare"
       }
@@ -1608,6 +1608,13 @@
     ],
     "migliori-soundbar": [
       {
+        "title": "JBL Cinema SB 510, Soundbar 3.1 Canali con Subwoofer Integrato, Bluetooth per Streaming Wireless, Dolby Atmos Integrato, Connessione HDMI ARC e Ottica, Design Compatto, Telecomando",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Samsung Soundbar HW-B66CF/ZF Serie B, 4 Speaker, Wireless, Dolby 5.1ch, Audio a 3.1 Canali, DTS 5.1ch, Surround Sound Expansion, Voice Enhance Mode, Black, 2025",
         "merchant": "",
         "ean": "",
@@ -1756,6 +1763,13 @@
       }
     ],
     "cuffie-bluetooth-in-offerta": [
+      {
+        "title": "Violino Elettrico 4/4 Misura Intera,Violino Elettronico Silenzioso Nero | accessori robusti in ebano, pickup potenziato con uscita cuffie, kit per principianti per adulti e adolesc",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Sony ULT WEAR Cuffie bluetooth con Cancellazione Rumore e bassi profondi | Over-Ear, wireless, WH-1000XM5 processore, chiamate nitide, 30 ore batteria, noise cancelling, iOS & Andr",
         "merchant": "amazon",
@@ -2749,20 +2763,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Asics Gel-Sonoma 8 GTX Scarpe da Trail Running",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Asics Gel-Contend 10 Scarpe da Running",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
         "ean": "",
@@ -2925,6 +2925,20 @@
       },
       {
         "title": "ASOCO DREAM Scarpe da Trail Running Uomo Scarpe da Passeggio Leggero Traspirante Scarpe da Ginnastica Antiscivolo Fitness Running Sneakers,Nero Grigio,39 EU",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "CustomSolo Maglietta Personalizzata con Foto e Testo, Unisex Doppia Faccia T-Shirt Personalizzata per Uomo e Donna, Maglia Personalizzata per Regali, Compleanni, Famiglia, Logo Azi",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "WORLD SELL T-Shirt Uomo/Donna Personalizzata Fronte e Retro – 100% Cotone – Made in Italy – Maglietta Personalizzabile con Testo, Logo o Immagine (IT, Testo, S, Regular, Regular, N",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
