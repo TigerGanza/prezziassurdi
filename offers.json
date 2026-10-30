@@ -1,5 +1,22 @@
 [
   {
+    "asin": "B07MFBT2Q7",
+    "title": "Clementoni - Caccia al Tesoro, Gioco da Tavolo, Party Game per Bambini 6+ Anni e Tutta la Famiglia, 2-12 Giocatori, Più di 80 Indizi e Indovinelli, Made in Italy, Lingua Italiana, 16153",
+    "price": 9.03,
+    "old_price": 12.9,
+    "discount": 30.0,
+    "image": "https://m.media-amazon.com/images/I/51HUmL-tpGL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B07MFBT2Q7?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "bambini_giochi",
+    "macro_group": "famiglia_animali",
+    "seasonal_title": "",
+    "published_at": "2026-10-30T12:58:43.444902+01:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B0GJFWHQLC",
     "title": "Offerta per Batteria Originale PAP 204 da 20 V / 4 Ah – Batteria agli Ioni di Litio – compatibile con la serie PARKSIDE X20V Team – senza caricabatterie",
     "price": 39.99,
@@ -2584,48 +2601,5 @@
     "source_external_id": "",
     "quality_status": "ready",
     "quality_issues": []
-  },
-  {
-    "asin": "B0GWNBTJVT",
-    "title": "LG OLED evo AI 48 Pollici, Serie C6 2026 Smart TV 4K - OLED48C64LA | Brightness Booster, Processore α11 Gen3, Dual AI Engine, Dolby Vision & Atmos, AI Magic Remote, VRR/G-Sync 165Hz",
-    "price": 964.9,
-    "old_price": 1499.0,
-    "discount": 36.0,
-    "image": "https://m.media-amazon.com/images/I/41JGNDjx5pL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0GWNBTJVT?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "tv_premium",
-    "macro_group": "tech",
-    "seasonal_title": "",
-    "published_at": "2026-10-29T23:53:03.945038+01:00",
-    "source_merchant": "amazon",
-    "source_external_id": "",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "unieuro",
-        "merchant_name": "Unieuro",
-        "merchant_id": "10139",
-        "product_id": "GOL48C65",
-        "awin_product_id": "44867482203",
-        "title": "LG OLED evo AI 48'' Serie C6 OLED48C65LA, 4K, Brightness Booster, Processore α11 Gen3, VRR 165Hz,G-Sync, SMART TV 2026",
-        "brand": "LG",
-        "ean": "8806096893746",
-        "mpn": "OLED48C65LA.API",
-        "price": 899.0,
-        "old_price": 1499.0,
-        "discount": 40.0,
-        "image": "https://www.unieuro.it/medias/sys_master/root/hd3/h6b/62155716526110/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-c5b5918739749b0988d53f65a15dace3-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-        "url": "https://www.awin1.com/pclick.php?p=44867482203&a=3086723&m=10139",
-        "category": "TV OLED EVO",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {}
-      }
-    ],
-    "merchant_match_score": 94,
-    "merchant_ean": "8806096893746",
-    "merchant_prices_checked_at": "2026-10-29T21:58:44.032769+01:00"
   }
 ]
