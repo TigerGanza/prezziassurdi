@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-30T11:49:12+01:00",
+  "generated_at": "2026-10-30T13:19:12+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -381,27 +381,6 @@
     ],
     "tv-in-offerta": [
       {
-        "title": "LG OLED evo AI 42 Pollici, Serie C6 2026 Smart TV 4K - OLED42C64LA | Processore α11 Gen3, Dual AI Engine, Dolby Vision & Atmos, AI Magic Remote, Gemini, Gaming con VRR e G-Sync 165",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "LG OLED evo AI 48 Pollici, Serie C6 2026 Smart TV 4K - OLED48C64LA | Brightness Booster, Processore α11 Gen3, Dual AI Engine, Dolby Vision & Atmos, AI Magic Remote, VRR/G-Sync 165H",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "LG OLED AI 65 Pollici, Serie B6E 2026 Smart TV 4K - OLED65B6ELC | Nero Perfetto, Dolby Vision & Atmos, Processore α8 Gen3, AI Magic Remote, WebOS con Gemini, Gaming VRR e G-Sync",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Hisense Smart TV 32\" HD Ready 32E4ST | DTS Virtual X, VIDAA OS con 1000+ APP, Game Mode, Wifi, AirPlay2, Works with Alexa, lativù, 2026 Model",
         "merchant": "amazon",
         "ean": "6942351429250",
@@ -589,16 +568,30 @@
         "ean": "5901292523343",
         "mpn": "",
         "status": "da_verificare"
-      }
-    ],
-    "offerte-tv-55-65-pollici": [
+      },
       {
-        "title": "LG OLED AI 65 Pollici, Serie B6E 2026 Smart TV 4K - OLED65B6ELC | Nero Perfetto, Dolby Vision & Atmos, Processore α8 Gen3, AI Magic Remote, WebOS con Gemini, Gaming VRR e G-Sync",
+        "title": "TCL 65V6C – Smart TV 4K HDR Direct LED da 65\", Google TV con Dolby Audio | Game Master, Motion Clarity, Google Assistant, Compatible with Alexa",
         "merchant": "amazon",
-        "ean": "",
+        "ean": "5901292525972",
         "mpn": "",
         "status": "da_verificare"
       },
+      {
+        "title": "Hisense Smart TV 65\" UHD 4K 65E6ST | DTS Virtual X, VIDAA OS con 1000+ APP, HDR 10+, Game Mode Plus, Bluetooth, Wifi, Alexa, AirPlay2, lativù 4K, 2026 Model",
+        "merchant": "amazon",
+        "ean": "6942351430805",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Hisense Smart TV QLED 144Hz 75\" 4K 75E7S PRO | Audio Dolby Atmos, VIDAA OS, Native 144Hz Game Mode, Dolby Vision IQ, HDR 10+, AirPlay2, Alexa, lativù 4K, 2026 Model",
+        "merchant": "amazon",
+        "ean": "6942351433165",
+        "mpn": "",
+        "status": "da_verificare"
+      }
+    ],
+    "offerte-tv-55-65-pollici": [
       {
         "title": "Samsung Smart TV 55\" UE55M80HAUXZT Mini LED 4K , HDR 10+, Motion Xcelerator 144Hz, Adpative Sound+, AI Football Mode, Voice Control with AI(VAC), Alexa Built-in, PACCHETTO INTRATTE",
         "merchant": "amazon",
@@ -1785,13 +1778,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "ARENA Unix II Cuffia Unisex in Tessuto, Cuffia Piscina Donna e Uomo, Cuffia Nuoto in Tessuto Elasticizzato ad Asciugatura Rapida, Cuffia Morbida e Resistente",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "VoKinroad Cuffie Wireless Bluetooth Over Ear, Cuscinetti Magnetici Rimovibili con 2 Set Extra, Con ANC,80 Ore di Autonomia, Ricarica Rapida Type-C, Controllo Touch, Comode per Viag",
         "merchant": "amazon",
         "ean": "0716842839394",
@@ -2199,13 +2185,6 @@
         "merchant": "unieuro",
         "ean": "8806096154229",
         "mpn": "A9T-PRIME1C.DCBQ",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Rowenta X Force Flex 14.60, Aspirapolvere Senza Fili, Fino a 200 Air Watt, Tecnologia Flex, Kit Animal Care, RH99A9",
-        "merchant": "unieuro",
-        "ean": "3221616060449",
-        "mpn": "RH99A9",
         "status": "da_verificare"
       }
     ],
@@ -2756,13 +2735,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "SZDPC Bagaglio a Mano 40x20x25 Ryanair Zaino Borsa da Viaggio Borsa da Cabina",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
         "ean": "",
@@ -2939,6 +2911,13 @@
       },
       {
         "title": "WORLD SELL T-Shirt Uomo/Donna Personalizzata Fronte e Retro – 100% Cotone – Made in Italy – Maglietta Personalizzabile con Testo, Logo o Immagine (IT, Testo, S, Regular, Regular, N",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "fashwork Maglietta Personalizzata Uomo Donna, T-Shirt Personalizzabile con Stampa Foto, Scritta o Logo Fronte Retro, Maglia Manica Corta in 100% Cotone per Regali Personalizzati Bi",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
