@@ -1,5 +1,22 @@
 [
   {
+    "asin": "B07LGCB5J6",
+    "title": "30x bicchieri da cocktail da 0,3 L, trasparenti in PP a 6 angoli, Made in Germany da Silverkitchen. Bicchieri da cocktail in plastica dura, resistenti e riutilizzabili",
+    "price": 13.38,
+    "old_price": 16.95,
+    "discount": 21.0,
+    "image": "https://m.media-amazon.com/images/I/41tzydm8LWL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B07LGCB5J6?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "spirits",
+    "macro_group": "spesa_bevande",
+    "seasonal_title": "",
+    "published_at": "2026-10-30T22:00:44.730024+01:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B0CYZFQ8H7",
     "title": "COMFEE' Forno a Microonde Bianco, 20 Litri, 700 W, 5 Livelli di Potenza, Funzione di Scongelamento Rapido, Timer Manuale, Design Compatto-CM-M202CC(WH)",
     "price": 55.9,
@@ -1710,48 +1727,5 @@
     "source_external_id": "",
     "quality_status": "ready",
     "quality_issues": []
-  },
-  {
-    "asin": "B07W7N1PZP",
-    "title": "Logitech G Yeti GX Dynamic Microfono a condensatore RGB per gaming - Nero | LIGHTSYNC, microfono USB streaming, supercardioide, Plug and Play per PC/Mac",
-    "price": 72.19,
-    "old_price": 129.99,
-    "discount": 44.0,
-    "image": "https://m.media-amazon.com/images/I/215TspPAshL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B07W7N1PZP?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "streaming_setup",
-    "macro_group": "tech",
-    "seasonal_title": "",
-    "published_at": "2026-10-30T13:18:43.916357+01:00",
-    "source_merchant": "amazon",
-    "source_external_id": "",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "unieuro",
-        "merchant_name": "Unieuro",
-        "merchant_id": "10139",
-        "product_id": "LOG988000569",
-        "awin_product_id": "41201492188",
-        "title": "Logitech G Yeti GX Dynamic Microfono a condensatore RGB per gaming con LIGHTSYNC, microfono USB per streaming, supercardioide, Plug and Play USB per PC/M",
-        "brand": "Logitech G",
-        "ean": "5099206116863",
-        "mpn": "988-000569",
-        "price": 75.99,
-        "old_price": 129.99,
-        "discount": 41.5,
-        "image": "https://www.unieuro.it/medias/sys_master/root/ha6/ha5/50532693704734/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-7c05e7eba6f5d1fc22e5f2b258403bc8-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-        "url": "https://www.awin1.com/pclick.php?p=41201492188&a=3086723&m=10139",
-        "category": "Microfoni, cuffie, periferiche audio pc",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {}
-      }
-    ],
-    "merchant_match_score": 94,
-    "merchant_ean": "5099206116863",
-    "merchant_prices_checked_at": "2026-10-30T12:51:06.698879+01:00"
   }
 ]
