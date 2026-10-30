@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-30T19:04:13+01:00",
+  "generated_at": "2026-10-30T20:29:12+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -20,6 +20,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "Motorola Smartphone Moto G84 6.55\" 256GB 12GB RAM Octa Core Qualcomm Snapdragon 695 5G Magenta",
+        "merchant": "amazon",
+        "ean": "0840023249532",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Ulefone Armor Note 22 Smartphone Offerta Android 16, 20GB+32GB/2TB TF Cellulari Octa-Core, 5.0\", 4G Dual SIM Telefono Cellulare Offerta, WiFi 5G/3.5mm/ Face ID/3 Slot Eer Carte/3 A",
         "merchant": "amazon",
         "ean": "6978200499792",
@@ -27,23 +34,16 @@
         "status": "da_verificare"
       },
       {
+        "title": "Tracfone Samsung Galaxy A16 5G, 128 GB, 50 MP, tripla fotocamera, smartphone Android, display FHD+ Super AMOLED da 6,5 pollici, batteria a lunga durata, bloccata su Tracfone, color",
+        "merchant": "amazon",
+        "ean": "0616960559030",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "POCO C81 Pro, Smartphone 4+128GB, Nero, Batteria da 6000mAh(typ) | Refresh rate 120Hz, Fotocamera AI doppia da 13MP, Design elegante e raffinato, Garanzia 2 anni+1 anno extra",
         "merchant": "amazon",
         "ean": "6939093021071",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "POCO C81 Pro, Smartphone 4+128GB, Oro, Batteria da 6000mAh(typ) | Refresh rate 120Hz, Fotocamera AI doppia da 13MP, Design elegante e raffinato, Garanzia 2 anni+1 anno extra",
-        "merchant": "amazon",
-        "ean": "6939093021101",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "XIAOMI REDMI A7 Pro Smartphone 4+64GB,Nero. Display immersivo 6,9\" | Processore Octa-core, Doppia fotocamera AI da 13MP,Garanzia 2 anni + 1 anno extra, Batteria 6000 mAh(tip)",
-        "merchant": "amazon",
-        "ean": "6939093003237",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -62,9 +62,16 @@
         "status": "da_verificare"
       },
       {
-        "title": "XIAOMI REDMI 15 5G NFC (6.9'' - 4/128GB) TITAN GREY",
+        "title": "HONOR 600 SMART 5G BLACK 4+128GB",
         "merchant": "amazon",
-        "ean": "6932554454135",
+        "ean": "6942785104617",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "realme C100 5G Smartphone 128GB ROM, Batteria Titan 6600mAh e Ricarica Rapida 45W, Telefono Cellulare con 144Hz Ultra Brillante, Android 16 Cellulari Resistenza agli Urti Militare,",
+        "merchant": "amazon",
+        "ean": "6941764461970",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -79,13 +86,6 @@
         "title": "Samsung Galaxy A17 5G, 128GB, Gray [Versione Italiana] | 3 anni di Garanzia, Smartphone Android, Display Super AMOLED 6.7\", Batteria 5.000 mAh, Resistenza IP54, Memoria espandibile",
         "merchant": "amazon",
         "ean": "8806097859376",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "OPPO A6x 5G Smartphone 4+128GB, 6,75\" 120Hz, 6100mAh, D6300, IP64 Ice Blue | Smartphone Android, sbloccato, batteria a lunga durata, display LCD, NFC, mobile, IP64, fotocamera, GPS",
-        "merchant": "amazon",
-        "ean": "6942675407132",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -125,23 +125,16 @@
         "status": "da_verificare"
       },
       {
-        "title": "realme C100 5G Smartphone 256GB ROM, Batteria Titan 6600mAh e Ricarica Rapida 45W, Telefono Cellulare con 144Hz Ultra Brillante, Android 16 Cellulari Resistenza agli Urti Militare,",
+        "title": "realme 14T 5G Smartphone 8+256GB, Black | Batteria 5130mAh, Display 6,67 pollici, frequenza 120Hz, Fotocamera AI 50MP, Processore MediaTek Dimensity 6300, IP69",
         "merchant": "amazon",
-        "ean": "6941764465343",
+        "ean": "6941399062931",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "REDMI Note 17 5G, Smartphone 6+128GB, Black, Batteria da 7700 mAh | Snapdragon® 4 Gen 4, Ricarica Turbo 45W, Display AMOLED FHD+ 6,99\" Protezione Occhi, Xiaomi HyperOS, IP65, Fotoc",
+        "title": "XIAOMI REDMI Note 15 5G, Smartphone 8+512GB, Nero, Resistenza IP65 | Design ultrasottile, Fotocamera super nitida da 108 MP, Display FHD+ da 6,77\", Garanzia 2 anni",
         "merchant": "amazon",
-        "ean": "6939093039526",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "XIAOMI REDMI Note 15 5G, Smartphone 8+512GB, Viola Nebbia, Resistenza IP65 | Design ultrasottile, Fotocamera super nitida da 108 MP, Display FHD+ da 6,77\", Garanzia 2 anni",
-        "merchant": "amazon",
-        "ean": "6932554400378",
+        "ean": "6932554400408",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -156,6 +149,13 @@
         "title": "Redmi Note 15 5G 8+256 Black (No power adapter included)",
         "merchant": "amazon",
         "ean": "6932554469252",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "HONOR 400 Lite Smartphone 5G, 108MP, 8+256GB, 5230 mAh, IP64, Velvet Gray | 108MP con pulsante AI telefono Android 15, 6.7 pollici AMOLED Eye-Care Display 120Hz, Dual SIM NFC[Versi",
+        "merchant": "amazon",
+        "ean": "6936520867080",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -188,16 +188,16 @@
         "status": "da_verificare"
       },
       {
-        "title": "realme 14 Pro+ 5G Smartphone 8+256GB, Grey",
+        "title": "REDMI Note 17 5G, Smartphone 6+256GB, Black, Batteria da 7700 mAh | Snapdragon® 4 Gen 4, Ricarica Turbo 45W, Display AMOLED FHD+ 6,99\" Protezione Occhi, Xiaomi HyperOS, IP65, Fotoc",
         "merchant": "amazon",
-        "ean": "6941764429864",
+        "ean": "6939093039472",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "REDMI Note 17 5G, Smartphone 6+256GB, Black, Batteria da 7700 mAh | Snapdragon® 4 Gen 4, Ricarica Turbo 45W, Display AMOLED FHD+ 6,99\" Protezione Occhi, Xiaomi HyperOS, IP65, Fotoc",
+        "title": "Samsung Galaxy A37 5G, 128GB, RAM 6GB, Awesome Charcoal [Versione Italiana] | 3 anni di Garanzia, Smartphone sottile, Cerchia e Cerca, Gomma Oggetto, Suggerimento di Modifica, Trip",
         "merchant": "amazon",
-        "ean": "6939093039472",
+        "ean": "8806099224851",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -232,6 +232,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "Motorola Smartphone Moto G84 6.55\" 256GB 12GB RAM Octa Core Qualcomm Snapdragon 695 5G Magenta",
+        "merchant": "amazon",
+        "ean": "0840023249532",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Ulefone Armor Note 22 Smartphone Offerta Android 16, 20GB+32GB/2TB TF Cellulari Octa-Core, 5.0\", 4G Dual SIM Telefono Cellulare Offerta, WiFi 5G/3.5mm/ Face ID/3 Slot Eer Carte/3 A",
         "merchant": "amazon",
         "ean": "6978200499792",
@@ -239,23 +246,16 @@
         "status": "da_verificare"
       },
       {
+        "title": "Tracfone Samsung Galaxy A16 5G, 128 GB, 50 MP, tripla fotocamera, smartphone Android, display FHD+ Super AMOLED da 6,5 pollici, batteria a lunga durata, bloccata su Tracfone, color",
+        "merchant": "amazon",
+        "ean": "0616960559030",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "POCO C81 Pro, Smartphone 4+128GB, Nero, Batteria da 6000mAh(typ) | Refresh rate 120Hz, Fotocamera AI doppia da 13MP, Design elegante e raffinato, Garanzia 2 anni+1 anno extra",
         "merchant": "amazon",
         "ean": "6939093021071",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "POCO C81 Pro, Smartphone 4+128GB, Oro, Batteria da 6000mAh(typ) | Refresh rate 120Hz, Fotocamera AI doppia da 13MP, Design elegante e raffinato, Garanzia 2 anni+1 anno extra",
-        "merchant": "amazon",
-        "ean": "6939093021101",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "XIAOMI REDMI A7 Pro Smartphone 4+64GB,Nero. Display immersivo 6,9\" | Processore Octa-core, Doppia fotocamera AI da 13MP,Garanzia 2 anni + 1 anno extra, Batteria 6000 mAh(tip)",
-        "merchant": "amazon",
-        "ean": "6939093003237",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -274,9 +274,16 @@
         "status": "da_verificare"
       },
       {
-        "title": "XIAOMI REDMI 15 5G NFC (6.9'' - 4/128GB) TITAN GREY",
+        "title": "HONOR 600 SMART 5G BLACK 4+128GB",
         "merchant": "amazon",
-        "ean": "6932554454135",
+        "ean": "6942785104617",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "realme C100 5G Smartphone 128GB ROM, Batteria Titan 6600mAh e Ricarica Rapida 45W, Telefono Cellulare con 144Hz Ultra Brillante, Android 16 Cellulari Resistenza agli Urti Militare,",
+        "merchant": "amazon",
+        "ean": "6941764461970",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -291,13 +298,6 @@
         "title": "Samsung Galaxy A17 5G, 128GB, Gray [Versione Italiana] | 3 anni di Garanzia, Smartphone Android, Display Super AMOLED 6.7\", Batteria 5.000 mAh, Resistenza IP54, Memoria espandibile",
         "merchant": "amazon",
         "ean": "8806097859376",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "OPPO A6x 5G Smartphone 4+128GB, 6,75\" 120Hz, 6100mAh, D6300, IP64 Ice Blue | Smartphone Android, sbloccato, batteria a lunga durata, display LCD, NFC, mobile, IP64, fotocamera, GPS",
-        "merchant": "amazon",
-        "ean": "6942675407132",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -337,23 +337,16 @@
         "status": "da_verificare"
       },
       {
-        "title": "realme C100 5G Smartphone 256GB ROM, Batteria Titan 6600mAh e Ricarica Rapida 45W, Telefono Cellulare con 144Hz Ultra Brillante, Android 16 Cellulari Resistenza agli Urti Militare,",
+        "title": "realme 14T 5G Smartphone 8+256GB, Black | Batteria 5130mAh, Display 6,67 pollici, frequenza 120Hz, Fotocamera AI 50MP, Processore MediaTek Dimensity 6300, IP69",
         "merchant": "amazon",
-        "ean": "6941764465343",
+        "ean": "6941399062931",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "REDMI Note 17 5G, Smartphone 6+128GB, Black, Batteria da 7700 mAh | Snapdragon® 4 Gen 4, Ricarica Turbo 45W, Display AMOLED FHD+ 6,99\" Protezione Occhi, Xiaomi HyperOS, IP65, Fotoc",
+        "title": "XIAOMI REDMI Note 15 5G, Smartphone 8+512GB, Nero, Resistenza IP65 | Design ultrasottile, Fotocamera super nitida da 108 MP, Display FHD+ da 6,77\", Garanzia 2 anni",
         "merchant": "amazon",
-        "ean": "6939093039526",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "XIAOMI REDMI Note 15 5G, Smartphone 8+512GB, Viola Nebbia, Resistenza IP65 | Design ultrasottile, Fotocamera super nitida da 108 MP, Display FHD+ da 6,77\", Garanzia 2 anni",
-        "merchant": "amazon",
-        "ean": "6932554400378",
+        "ean": "6932554400408",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -372,6 +365,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "HONOR 400 Lite Smartphone 5G, 108MP, 8+256GB, 5230 mAh, IP64, Velvet Gray | 108MP con pulsante AI telefono Android 15, 6.7 pollici AMOLED Eye-Care Display 120Hz, Dual SIM NFC[Versi",
+        "merchant": "amazon",
+        "ean": "6936520867080",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "realme 14 5G Smartphone 8GB RAM + 256GB ROM, Snapdragon 6 Gen 4 e 120Hz AMOLED Schermo, Cellurale 6000mAh Batteria e Ricarica Rapida da 45W, IP69 Resistenza, GT Boost, AI OIS 50MP ",
         "merchant": "amazon",
         "ean": "6941764471092",
@@ -381,16 +381,16 @@
     ],
     "tv-in-offerta": [
       {
-        "title": "Hisense Smart TV 32\" HD Ready 32E4ST | DTS Virtual X, VIDAA OS con 1000+ APP, Game Mode, Wifi, AirPlay2, Works with Alexa, lativù, 2026 Model",
+        "title": "Xiaomi TV F Pro 32 2025, 32 pollici (81 cm), QLED, Smart TV, Fire TV, Triple Tuner DVB-C/S/S2/T/T2,Dolby Audio, DTS Virtual:X, DTS-HD, Controllo Vocale Alexa, Compatibile con Apple",
         "merchant": "amazon",
-        "ean": "6942351429250",
+        "ean": "6941948706361",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "XIAOMI TV F Pro 32 2025, 32 pollici (81 cm), QLED, Smart TV, Fire TV, Triple Tuner DVB-C/S/S2/T/T2,Dolby Audio, DTS Virtual:X, DTS-HD, Controllo Vocale Alexa, Compatibile con Apple",
+        "title": "Hisense Smart TV 32\" HD Ready 32E4ST | DTS Virtual X, VIDAA OS con 1000+ APP, Game Mode, Wifi, AirPlay2, Works with Alexa, lativù, 2026 Model",
         "merchant": "amazon",
-        "ean": "6941948706361",
+        "ean": "6942351429250",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -416,9 +416,9 @@
         "status": "da_verificare"
       },
       {
-        "title": "Stream System - Google TV Smart 32\", 5 anni di garanzia, HD Ready, HDR10, Frameless (senza cornice), Assistente Google, Chromecast integrato - Modello S32EX1GH (2026)",
+        "title": "Xiaomi TV 32 pollici 2026, HD Smart TV Fire TV Dolby Audio L32MB-FAVEU | DTS-HD,DTS Virtual:X, DTS-HD, Alexa Voice Control, Compatible with Apple AirPlay",
         "merchant": "amazon",
-        "ean": "6133283002974",
+        "ean": "6941948710535",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -486,13 +486,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Samsung 50\" UE50U7000HUXZT Crystal UHD 4K 50Hz, Smart TV Vision AI 2026 | Crystal 4K Processor, HDR10+, PurColor, Motion Xcelerator, Dynamic Sound Pack, Gaming Hub, pacchetto intra",
-        "merchant": "amazon",
-        "ean": "8806099323912",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "XIAOMI TV F 50, 50 pollici (127 cm), 4K UHD, Smart TV, Fire TV, Triple Tuner DVB-C/S/S2/T/T2,HDR10, MEMC, Modalità Game Boost 120Hz, Controllo Vocale Alexa, 2GB+32GB, Compatibile c",
         "merchant": "amazon",
         "ean": "6941948706682",
@@ -503,6 +496,13 @@
         "title": "Hisense Smart TV 50\" UHD 4K 50E6ST | DTS Virtual X, VIDAA OS con 1000+ APP, HDR 10+, Game Mode Plus, Bluetooth, Wifi, Alexa, AirPlay2, lativù 4K, 2026 Model",
         "merchant": "amazon",
         "ean": "6942351430324",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Samsung 50\" UE50U7000HUXZT Crystal UHD 4K 50Hz, Smart TV Vision AI 2026 | Crystal 4K Processor, HDR10+, PurColor, Motion Xcelerator, Dynamic Sound Pack, Gaming Hub, pacchetto intra",
+        "merchant": "amazon",
+        "ean": "8806099323912",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -542,9 +542,9 @@
         "status": "da_verificare"
       },
       {
-        "title": "TCL 55P6K – Smart TV 4K HDR Direct LED da 55\", Google TV con Dolby Audio | Motion Clarity, Google Assistant, Compatible with Alexa",
+        "title": "Hisense Smart TV 55\" UHD 4K 55E6ST | DTS Virtual X, VIDAA OS con 1000+ APP, HDR 10+, Game Mode Plus, Bluetooth, Wifi, Alexa, AirPlay2, lativù 4K, 2026 Model",
         "merchant": "amazon",
-        "ean": "5901292528386",
+        "ean": "6942351430492",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -584,9 +584,9 @@
         "status": "da_verificare"
       },
       {
-        "title": "Hisense Smart TV QLED 144Hz 75\" 4K 75E7S PRO | Audio Dolby Atmos, VIDAA OS, Native 144Hz Game Mode, Dolby Vision IQ, HDR 10+, AirPlay2, Alexa, lativù 4K, 2026 Model",
+        "title": "Samsung 75\" UE75U7000HUXZT Crystal UHD 4K 50Hz, Smart TV Vision AI 2026 | Crystal 4K Processor, HDR10+, PurColor, Motion Xcelerator, Dynamic Sound Pack, Gaming Hub, pacchetto intra",
         "merchant": "amazon",
-        "ean": "6942351433165",
+        "ean": "8806099323882",
         "mpn": "",
         "status": "da_verificare"
       }
@@ -628,9 +628,9 @@
         "status": "da_verificare"
       },
       {
-        "title": "TCL 55P6K – Smart TV 4K HDR Direct LED da 55\", Google TV con Dolby Audio | Motion Clarity, Google Assistant, Compatible with Alexa",
+        "title": "Hisense Smart TV 55\" UHD 4K 55E6ST | DTS Virtual X, VIDAA OS con 1000+ APP, HDR 10+, Game Mode Plus, Bluetooth, Wifi, Alexa, AirPlay2, lativù 4K, 2026 Model",
         "merchant": "amazon",
-        "ean": "5901292528386",
+        "ean": "6942351430492",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -707,16 +707,16 @@
         "status": "da_verificare"
       },
       {
-        "title": "HP EliteBook - Pc Portatile 14\" - Intel i5-8265U 4 Core 1.60Ghz - SSD 512Gb Ram 16Gb - Notebook con Win 11 e Libre Office - Laptop Pronto all'uso (Ricondizionato)",
+        "title": "Breloom 2026 PC Portatile 15.6 Pollici Win 11 Laptop, Core i3-6100U, 16GB RAM 512GB SSD, Notebook per Studenti con Lettore di Impronte Digitali, Tastiera Retroilluminata, WiFi 5, U",
         "merchant": "amazon",
-        "ean": "0728434062158",
+        "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "15,6 pollici PC Portatile, Win 11 Notebook 16GB RAM 1TB SSD, Laptop Celeron N5100 grafica UHD, Computer Portatile Schermo IPS FHD 1920*1080 tastiera numerico retroilluminata/Touch ",
+        "title": "HP EliteBook - Pc Portatile 14\" - Intel i5-8265U 4 Core 1.60Ghz - SSD 512Gb Ram 16Gb - Notebook con Win 11 e Libre Office - Laptop Pronto all'uso (Ricondizionato)",
         "merchant": "amazon",
-        "ean": "0730763734439",
+        "ean": "0728434062158",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -742,13 +742,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "msi Modern 15 F13MG-676IT, Notebook 15.6\" FHD 60Hz, Intel Core i5-1334U Intel Iris Xe, 512GB PCIe4, 16GB RAM DDR4 3200MHz, WiFi 6E, Win 11 Home [Layout e Garanzia ITA]",
-        "merchant": "amazon",
-        "ean": "4711377360319",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Tivique 16\" PC Portatile Gaming con Ryzen 7 H255 (fino a 4,90 GHz) | Notebook 8C/16T - 4800MHz 24GB LPDDR5 512GB M.2 SSD,FHD 1200p, 12C Radeon 780M, Wi-Fi 6, Win 11 Pro, Tastiera R",
         "merchant": "amazon",
         "ean": "0725414802711",
@@ -759,6 +752,13 @@
         "title": "HP Victus 15-fa2001slx, Notebook, Intel Core i5-13450HX, 16 GB RAM, 512 GB SSD, NVIDIA RTX 3050 6GB, 15,6\" FHD IPS 144Hz, Laptop, 720p TNR Cam, FreeDOS 3.0, Portatile, Grigio",
         "merchant": "amazon",
         "ean": "0821844603529",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "ASUS V16 V3607VU#B0H37G27BG, Notebook con display 16\" LED, Anti-glare, 144Hz, Intel® Core™ 5 Processor 210H, NVIDIA® GeForce RTX™ 4050, RAM 16GB, 512GB SSD, WIN11 Home, Nero",
+        "merchant": "amazon",
+        "ean": "4711636652537",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -835,16 +835,16 @@
         "status": "da_verificare"
       },
       {
-        "title": "Pc Computer Business, Desktop Dell sff, pronto all'uso, Core i7 6th, Ram 16gb DRR4, Disco SSD 512 Nvme, Windows 11 e Office 2021, Wi fi, Garanzia 12 mesi (Ricondizionato) (i7|Ram 1",
+        "title": "Mini PC Ryzen 5 3550H(Max 3.7GHz) 16GB DDR4 RAM 512GB SSD Doppio schermo 4K | Win 11 Pro/Wi-Fi 6/BT 5.0/HDMI/RJ45 LAN 2.5G/DP 1.2/USB/DC Jack, Computer desktop per ufficio e casa",
         "merchant": "amazon",
-        "ean": "0806891724625",
+        "ean": "0725078239052",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "Betashop PC Fisso Desktop NUOVO • Cpu i5 • 16GB RAM DDR3 • 756GB SSD (256gb ssd + 512gb hdd) • Windows 11 Pro • WiFi • Office 365 • Pronto All'Uso • USB 3.0",
+        "title": "Pc Computer Business, Desktop Dell sff, pronto all'uso, Core i7 6th, Ram 16gb DRR4, Disco SSD 512 Nvme, Windows 11 e Office 2021, Wi fi, Garanzia 12 mesi (Ricondizionato) (i7|Ram 1",
         "merchant": "amazon",
-        "ean": "8057358190022",
+        "ean": "0806891724625",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -857,13 +857,6 @@
       },
       {
         "title": "PC Fisso Desktop Ryzen 5 4600GE, 16GB DDR4, SSD 256GB, Windows 11 Pro | Computer per ufficio e smart working, Radeon Graphics con HDMI 2.1 & DisplayPort 1.4, Wi-Fi, 8x USB, Compute",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "STGSivir PC Gaming Fisso, Ryzen 5 5500, RTX 3060 12G, 16G DDR4, 512G SSD | Computer Gaming per Streaming, Editing Video, Compiti, fino a 4.2 GHz, WiFi 6, BT 5.0, 4K,HDMI,DP, Win11 ",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -898,16 +891,16 @@
         "status": "da_verificare"
       },
       {
-        "title": "Glorlin Mini PC AMD Ryzen 5 3501U(fino a 3,7 GHz)16 GB DDR4, SSD M.2 512 GB | Mini computer desktop con W11 Pro per uso ufficio/scuola/azienda, WiFi 6, Bluetooth 5.3",
+        "title": "Vibox VIII-619 PC Gaming Completo • Intel Core i9 12900KF 16 cores • Nvidia RTX 5050 8GB • 16GB RAM • 500GB SSD • Windows 11 • 23\" Monitor • WiFi 6 + Bluetooth 5.4",
         "merchant": "amazon",
-        "ean": "",
+        "ean": "5063575142006",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "Mini PC Ryzen 5 3550H(Max 3.7GHz) 16GB DDR4 RAM 512GB SSD Doppio schermo 4K | Win 11 Pro/Wi-Fi 6/BT 5.0/HDMI/RJ45 LAN 2.5G/DP 1.2/USB/DC Jack, Computer desktop per ufficio e casa",
+        "title": "Glorlin Mini PC AMD Ryzen 5 3501U(fino a 3,7 GHz)16 GB DDR4, SSD M.2 512 GB | Mini computer desktop con W11 Pro per uso ufficio/scuola/azienda, WiFi 6, Bluetooth 5.3",
         "merchant": "amazon",
-        "ean": "0725078239052",
+        "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -1019,13 +1012,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "BIRDCLAW P11 Pro Tablet 11 Pollici, Gemini AI Tablet Android 16, 48GB RAM+128GB ROM/2TB TF, 8800mAh/18W, Octa-Core T7250, 90Hz, 13MP+5MP, GPS/FM/Face ID, Tablets con Tastiera e Pen",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Lenovo Tab, Tablet Display 10.1\" FHD, Processore Mediatek Helio G85, RAM 4GB, Memoria 128GB, WiFi 6, Tablet Android 14, Clear Case incluso - Polar Blue",
         "merchant": "amazon",
         "ean": "0198154670474",
@@ -1068,16 +1054,16 @@
         "status": "da_verificare"
       },
       {
-        "title": "Samsung Galaxy Tab S10 FE, 3 anni di garanzia, Android Tablet, Display 10.9\" LCD, 5G, RAM 8GB, 128GB, 8.000 mAh, S Pen, Android 15, IP68, Gray [Versione italiana]",
+        "title": "Samsung Galaxy Tab A11+ 5G 6+128GB Grau",
         "merchant": "amazon",
-        "ean": "8806097492122",
+        "ean": "8806097854845",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "Samsung Galaxy Tab A11+ 5G 6+128GB Grau",
+        "title": "Lenovo Idea Tab Tablet 11\" 2.5K (2560x1600) 90Hz IPS, 8GB RAM, 128GB, WiFi + SIM 5G, Lenovo Tab Pen Inclusa, MediaTek Dimensity 6300, Android 15, Ideale per Studio, Appunti e Intra",
         "merchant": "amazon",
-        "ean": "8806097854845",
+        "ean": "0198157773349",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -1104,6 +1090,13 @@
       }
     ],
     "migliori-monitor": [
+      {
+        "title": "LG UltraWide 29U511A Monitor 29\" IPS WFHD(2560x1080) 100Hz per multitasking | Formato UltraWide 21:9, HDR10, colori accurati sRGB 99%, schermo antiriflesso e comfort visivo",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "msi PRO MP243WA E14 Monitor PC 24\" FHD 1920x1080 IPS, 144 Hz, 1 ms, HDR Ready, Adaptive Sync, Eye Care, altoparlante integrato, HDMI 1.4b, DP 1.2a, senza cornice, inclinabile, comp",
         "merchant": "amazon",
@@ -1182,16 +1175,16 @@
         "status": "da_verificare"
       },
       {
-        "title": "MSI PRO MP273Q E14 Monitor 27\" WQHD 2560×1440, Pannello IPS, 144 Hz, 1 ms | Adaptive-Sync, Tecnologia Eye Care, Altoparlanti Integrati, HDMI 2.0b, DisplayPort 1.2a, Design Senza Co",
+        "title": "Dell 27 Monitor - SE2726D, QHD (2560x1440), 144Hz, IPS, 1ms MPRT | AMD FreeSync, 99% sRGB, VESA (100x100mm), DisplayPort, HDMI, 3 Anni di Garanzia, Nero",
         "merchant": "amazon",
-        "ean": "4711377381543",
+        "ean": "5397321030638",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "Philips Gaming Monitor 27M2N3500NF 27 pollici, , 2560x1440, WQHD, 144Hz, IPS Panel, 0.5ms MPRT, , (HDMI1x 2.0 DP 1x 1.4) Adaptive Sync, HDR10, G-Sync Compatible, Grigio Scuro",
+        "title": "MSI PRO MP273Q E14 Monitor 27\" WQHD 2560×1440, Pannello IPS, 144 Hz, 1 ms | Adaptive-Sync, Tecnologia Eye Care, Altoparlanti Integrati, HDMI 2.0b, DisplayPort 1.2a, Design Senza Co",
         "merchant": "amazon",
-        "ean": "8721038006308",
+        "ean": "4711377381543",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -1238,13 +1231,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "LG UltraWide 29U511A Monitor 29\" IPS WFHD(2560x1080) 100Hz per multitasking | Formato UltraWide 21:9, HDR10, colori accurati sRGB 99%, schermo antiriflesso e comfort visivo",
-        "merchant": "amazon",
-        "ean": "8806096534601",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Gawfolk Monitor PC da gioco curvo ultra‑wide UWQHD da 34 pollici, 165Hz | 3800R,21:9 (3440x1440),120% sRGB,1ms, Adaptive Sync,Display Port,HDMI,Regolabile in Altezza, Altoparlanti ",
         "merchant": "amazon",
         "ean": "",
@@ -1259,16 +1245,16 @@
         "status": "da_verificare"
       },
       {
-        "title": "Gawfolk Monitor Gaming Curvo 34\" Ultrawide, UWQHD 3440x1440, 165Hz, AMD FreeSync, VESA",
+        "title": "LG UltraWide 34U601B Monitor 34\" WQHD 120Hz Curvo per lavoro e multitasking | Formato UltraWide 21:9, HDR10, colori accurati sRGB 99%, FreeSync e spazio extra per gestire più attiv",
         "merchant": "amazon",
-        "ean": "",
+        "ean": "8806096719312",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "LG UltraWide 34U601B Monitor 34\" WQHD 120Hz Curvo per lavoro e multitasking | Formato UltraWide 21:9, HDR10, colori accurati sRGB 99%, FreeSync e spazio extra per gestire più attiv",
+        "title": "Gawfolk Monitor Gaming Curvo 34\" Ultrawide, UWQHD 3440x1440, 165Hz, AMD FreeSync, VESA",
         "merchant": "amazon",
-        "ean": "8806096719312",
+        "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -1338,9 +1324,9 @@
         "status": "da_verificare"
       },
       {
-        "title": "HUAWEI WATCH FIT 5 Smartwatch, Schermo AMOLED HD da 1,82\", Nero | Design Raffinato, Pagamento NFC, Rilevamento Cadute, Batteria a lunga durata, Monitoraggio della salute, 5 ATM, An",
+        "title": "Amazfit Active Max Smartwatch 48mm, 25 Giorni Autonomia, Mappe Offline, NFC | 1,5'' AMOLED, GPS, 4GB di Memoria, 170+ Sportive, 5 ATM, Monitoraggio Fitness, Sonno & Battito per And",
         "merchant": "amazon",
-        "ean": "6942103196096",
+        "ean": "6972596109631",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -1366,16 +1352,16 @@
         "status": "da_verificare"
       },
       {
-        "title": "Amazfit Active Max Smartwatch 48mm, 25 Giorni Autonomia, Mappe Offline, NFC | 1,5'' AMOLED, GPS, 4GB di Memoria, 170+ Sportive, 5 ATM, Monitoraggio Fitness, Sonno & Battito per And",
+        "title": "realme Watch 5 Smartwatch, AMOLED Touch 1,97'', GPS Indipendente, Accesso NFC, Chiamate Bluetooth, 108 Modalità Sport, Monitoraggio Ossigeno Sangue/Sonno, Impermeabile IP68, Batter",
         "merchant": "amazon",
-        "ean": "6972596109631",
+        "ean": "6941399074439",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "Garmin Forerunner 55, 42mm. Smartwatch GPS per la Corsa, Black | Cardio, Piani di allenamento inclusi, VO2max, Allenamenti personalizzati, Connect IQ, Autonomia fino a 2 Settimane",
+        "title": "Garmin Venu X1, 51mm, Smartwatch GPS, Black | Ampio Display AMOLED 2\", Torcia LED, Cassa Ultra Sottile da 8 mm, 100 App Sportive Precaricate, Autonomia fino a 8 giorni",
         "merchant": "amazon",
-        "ean": "0753759364717",
+        "ean": "0753759342760",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -1515,6 +1501,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "SONY Console PlayStation 5 Edition Digital",
+        "merchant": "amazon",
+        "ean": "0711719425090",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "PlayStation 5 Console Digital Edition + 2 PS5 DualSense™ Controller Wireless - Bianco",
         "merchant": "amazon",
         "ean": "0711719563914",
@@ -1522,23 +1515,16 @@
         "status": "da_verificare"
       },
       {
-        "title": "Playstation 5 Console Slim + 1 DualSense White",
-        "merchant": "amazon",
-        "ean": "0711719577171",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Sony PlayStation 5 - Digital Edition",
-        "merchant": "amazon",
-        "ean": "0711719424994",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "SONY PS5 with Blu-Ray 1TB SSD D-Chassis Slim EU",
         "merchant": "amazon",
         "ean": "0711719577188",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Playstation 5 Console Slim + 1 DualSense White",
+        "merchant": "amazon",
+        "ean": "0711719577171",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -1571,13 +1557,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Xbox Series S 512GB - Bianca",
-        "merchant": "amazon",
-        "ean": "0196388421435",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Xbox Series S 512GB Console",
         "merchant": "amazon",
         "ean": "0889842651317",
@@ -1592,9 +1571,9 @@
         "status": "da_verificare"
       },
       {
-        "title": "Nintendo Switch con Joy-Con Rosso Neon e Blu Neon [Ed. 2022] + 90 Giorni Switch Online Membri (Individual) Codice download",
+        "title": "Xbox Series S 512GB - Bianca",
         "merchant": "amazon",
-        "ean": "",
+        "ean": "0196388421435",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -1632,16 +1611,16 @@
         "ean": "0045496453596",
         "mpn": "",
         "status": "da_verificare"
+      },
+      {
+        "title": "Console Nintendo Switch – modello OLED, Bianco",
+        "merchant": "amazon",
+        "ean": "0045496453435",
+        "mpn": "",
+        "status": "da_verificare"
       }
     ],
     "migliori-soundbar": [
-      {
-        "title": "JBL Cinema SB 510, Soundbar 3.1 Canali con Subwoofer Integrato, Bluetooth per Streaming Wireless, Dolby Atmos Integrato, Connessione HDMI ARC e Ottica, Design Compatto, Telecomando",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Samsung Soundbar HW-B66CF/ZF Serie B, 4 Speaker, Wireless, Dolby 5.1ch, Audio a 3.1 Canali, DTS 5.1ch, Surround Sound Expansion, Voice Enhance Mode, Black, 2025",
         "merchant": "",
@@ -1720,16 +1699,16 @@
         "status": "da_verificare"
       },
       {
-        "title": "Bose Smart Soundbar Dolby Atmos, il Diffusore soundbar Bluetooth con controllo vocale e Amazon Alexa integrati, compatibile con Assistente Google, Nero",
+        "title": "Hisense AX3120Q Soundbar, 3.1.2, 2 altoparlanti anteriori, Hi-Concerto, Dolby Atmos, DTS:X, Subwoofer True Wireless, Bluetooth, HDMI, USB, Ingresso Audio ottico",
         "merchant": "amazon",
-        "ean": "0017817856164",
+        "ean": "6942351423432",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "Hisense AX3120Q Soundbar, 3.1.2, 2 altoparlanti anteriori, Hi-Concerto, Dolby Atmos, DTS:X, Subwoofer True Wireless, Bluetooth, HDMI, USB, Ingresso Audio ottico",
+        "title": "Samsung Soundbar HW-S60D/ZF Serie S, 7 Speaker, Wireless Dolby Atmos, Audio a 5.0 Canali, Q-Simphony, Alexa integrato e compatibile con Google Assistant, Black 2024",
         "merchant": "amazon",
-        "ean": "6942351423432",
+        "ean": "8806095463339",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -1851,13 +1830,6 @@
         "title": "Soundcore di Anker Liberty 5, Cuffie Bluetooth In Ear con ANC, Dolby Audio | ANC in Tempo Reale, Riduzione della Voce 2X più Forte, Chiamate Chiare con 6 Mic IA, Lunga Durata, Nero",
         "merchant": "amazon",
         "ean": "6950469699748",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Belkin SoundForm Isolate Cuffie Wireless con Cancellazione Attiva del Rumore Ibrida, cuffie con microfono e bassi potenti, cuffie Bluetooth con 60 ore d'ascolto, cuscinetti CloudCu",
-        "merchant": "amazon",
-        "ean": "0745883898244",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -1986,6 +1958,13 @@
         "ean": "1200130004599",
         "mpn": "JBLLIVE770NCWHT",
         "status": "da_verificare"
+      },
+      {
+        "title": "Cellularline SEEK",
+        "merchant": "unieuro",
+        "ean": "8018080424007",
+        "mpn": "BTSEEKTWSW",
+        "status": "da_verificare"
       }
     ],
     "migliori-robot-aspirapolvere": [
@@ -2060,6 +2039,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "Lefant M210 Omni Mini Robot Aspirapolvere Lavapavimenti con Rullo 20.000 Pa | Rullo Autopulente, Acqua Pulita Continua, Base Multifunzione, Anti-Groviglio, 800ml, Ultra Sottile 85m",
+        "merchant": "amazon",
+        "ean": "0674026773691",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "MONSGA Robot Aspirapolvere Lavapavimenti 3-in-1, 8000Pa, Autonomia 180min | Navigazione Lidar, Mappa a 5 livelli, Anti-groviglio, Controllo App/Telecomando/Alexa, Per Peli Animali,",
         "merchant": "amazon",
         "ean": "6978669693274",
@@ -2074,16 +2060,9 @@
         "status": "da_verificare"
       },
       {
-        "title": "roborock Q10 S5 Set Robot Aspirapolvere 10.000Pa, Panno Sollevabile, Nero | Pulizia VibraRise 2.0(3000 volte/min), Anti-groviglio, Evitamento degli Ostacoli, Strategie Tappeti, Con",
+        "title": "MONSGA 10000Pa Robot Aspirapolvere Lavapavimenti, Anti-Groviglio | Auto-Svuotamento 90 Giorni, Navigazione LiDAR, Autonomia 160 Min, WiFi/App/Alexa, per Peli Animali, Pavimenti Dur",
         "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "VersLife L6 Robot Aspirapolvere e Lavapavimenti 2 in 1, 4000Pa, App Alexa | Autonomia 120 Minuti, Controllo con App e Telecomando, Silenzioso, Auto-ricarica, per Pavimenti Duri, Ta",
-        "merchant": "amazon",
-        "ean": "6976878542550",
+        "ean": "6978669692703",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -2109,16 +2088,16 @@
         "status": "da_verificare"
       },
       {
-        "title": "iRobot Roomba® Plus 416 Combo robot aspirapolvere lavapavimenti, 20.000 Pa | Con stazione AutoWash™ autosvuotante mappa LiDAR multilivello, mop rotanti ed estensibili con asciugatu",
+        "title": "VONKO Robot Aspirapolvere Lavapavimenti con Stazione, 8000Pa, LiDAR 2.0 | Svuotamento automatico, 180 min, tappeti, App e Alexa, ideale per peli di animali e pavimenti duri, Nero A",
         "merchant": "amazon",
-        "ean": "5061112450744",
+        "ean": "0766997324207",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "VONKO Robot Aspirapolvere Lavapavimenti con Stazione, 8000Pa, LiDAR 2.0 | Svuotamento automatico, 180 min, tappeti, App e Alexa, ideale per peli di animali e pavimenti duri, Nero A",
+        "title": "iRobot Roomba® 115 Combo robot aspirapolvere lavapavimenti, 15.000 Pa | Con AutoEmpty™ dock, stazione autosvuotamento, SmartScrub™, mappatura ClearView™ LiDAR, aspirazione e lavagg",
         "merchant": "amazon",
-        "ean": "0766997324207",
+        "ean": "5061083614756",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -2216,16 +2195,16 @@
         "status": "da_verificare"
       },
       {
-        "title": "VersLife S6PRO Aspirapolvere Senza Fili 30KPa, Filtro HEPA, 30 Min, Bianco | Scopa Elettrica Senza Fili, Design Senza Spazzole, Autonomia 30 Minuti, Ideale per Pavimenti e Peli di ",
+        "title": "MONSGA Aspirapolvere Senza Fili 55kPa/550W/60 Min per Peli di Animali | Leggera e autoportante, spazzola antigroviglio V, luce LED verde, filtrazione 7 strati, pavimenti duri, auto",
         "merchant": "amazon",
-        "ean": "6979375872274",
+        "ean": "6978669691676",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "Zynet V5 Aspirabriciole Senza Fili 28000Pa 7 in 1 60 Min Aspirapolvere Auto | Aspirapolvere Portatile con Aspirazione/Soffiaggio/Gonfiaggio, Aspirapolvere per Auto, Casa, Ufficio e",
+        "title": "VersLife S6PRO Aspirapolvere Senza Fili 30KPa, Filtro HEPA, 30 Min, Bianco | Scopa Elettrica Senza Fili, Design Senza Spazzole, Autonomia 30 Minuti, Ideale per Pavimenti e Peli di ",
         "merchant": "amazon",
-        "ean": "6979375871505",
+        "ean": "6979375872274",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -2302,6 +2281,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "Candy ProWash 500 Lavatrice 8 Kg, 1400 Giri, Classe A-10%, Bianco | Cicli Rapidi, Connessa, 16 Programmi, 72 dB, Motore Speed-Drive Inverter, App hOn, Silenziosa, AxLxP 85x60x53 cm",
+        "merchant": "amazon",
+        "ean": "8059019093895",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "LG F4R709TAIDD Lavatrice 9 kg Serie R7, Classe A-10%, AI DD, Wi-Fi | 1400 Giri, TurboWash 360, Vapore su 7 Programmi, Allergy Care, Oblò in Vetro Temperato, Direct Drive, Bianca",
         "merchant": "amazon",
         "ean": "8806084274670",
@@ -2309,16 +2295,16 @@
         "status": "da_verificare"
       },
       {
-        "title": "Haier X Serie 5 Lavatrice 9 Kg, 1400 Giri, Classe A-25%, Bianca | Vapore, Ciclo Refresh, Smart AI, Wi-Fi, App hOn, Libera Installazione, 72 dB, 85x60x55.9 cm, HW90-BP14357U-IT",
+        "title": "Hoover H-WASH 500 Lavatrice 9 Kg, Libera Installazione, Carica Frontale, Classe A-15%, 1400 Giri, Wi-Fi + BLE, App hOn, Motore Inverter BPM, 54 x 85 x 60 cm (P x A x L cm), Bianca-",
         "merchant": "amazon",
-        "ean": "6921081514139",
+        "ean": "8059019082691",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "Hoover H-WASH 500 Lavatrice 9 Kg, Libera Installazione, Carica Frontale, Classe A-15%, 1400 Giri, Wi-Fi + BLE, App hOn, Motore Inverter BPM, 54 x 85 x 60 cm (P x A x L cm), Bianca-",
+        "title": "Midea Lavatrice 8 kg Classe A 1400 Giri Silent Inverter Motor | Vapore Igienizzante, Rimozione Peli Animali, Programma Sport e Motore Silenzioso per Case con Animali MFV3EW80BA10",
         "merchant": "amazon",
-        "ean": "8059019082691",
+        "ean": "6945878356702",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -2333,13 +2319,6 @@
         "title": "Candy ProWash 300 Lavatrice Slim 7 Kg, 1200 Giri, Classe A-15%, Bianca | Motore Inverter, Cicli Rapidi, Display LED, Illuminazione LED, 60 Programmi, LxPxA 60x42,4x85 cm, GD 27SB7-",
         "merchant": "amazon",
         "ean": "8059019114026",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Electrolux Lavatrice Slim Carica Frontale 6 kg 1200 giri EW6S326ABL Nera | Slim, carica frontale 6 kg, Classe A, 1200 giri, SensiCare, programmi rapidi, display LED, bianco",
-        "merchant": "amazon",
-        "ean": "7333394125336",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -2368,6 +2347,13 @@
         "title": "Candy Smart Pro CO4 374TWM6/1-S, Lavatrice Slim 7kg, Motore Inverter, Carica Frontale, Classe A-10%, 1300 Giri, 16 Programmi, 76 dB, AxLxP 85x60x45 cm, Bianco [Classe di efficienza",
         "merchant": "amazon",
         "ean": "8059019075822",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Hisense WF5I8043BWF Lavatrice slim a Carica Frontale 8 kg, Classe A-30%, 1400 rpm, 15 Programmi, Connectivity, Vapore, Refresh, Display Touch, Maxi Cestello, Programma Rapido, Alta",
+        "merchant": "amazon",
+        "ean": "6901101832481",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -2461,13 +2447,6 @@
         "ean": "8806084273680",
         "mpn": "D2R3S08NSWW.ABWQP",
         "status": "da_verificare"
-      },
-      {
-        "title": "LG F4NX5009TKB Lavatrice Intelligente 9 kg Classe A 40% Bianoc/Nero",
-        "merchant": "unieuro",
-        "ean": "8806096639238",
-        "mpn": "F4NX5009TKBABWQPI",
-        "status": "da_verificare"
       }
     ],
     "migliori-frigoriferi": [
@@ -2535,13 +2514,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Samsung EcoFlex AI Frigorifero Combinato RB38C600DSA/EF, Wifi, All-Around Cooling, Space Max, Total No Frost, 390 L, LxAxP: 59,5 x 203 x 65,8 cm, Silver Inox",
-        "merchant": "amazon",
-        "ean": "8806094768183",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "PYRAMIDEA Frigorifero Combinato TOTAL NO FROST 320 litri lordi (ben 290 litri netti) Bianco CMB325NFW Altezza 185 cm. Classe energetica E Silenzioso 41 Db.",
         "merchant": "amazon",
         "ean": "8054890199780",
@@ -2549,9 +2521,9 @@
         "status": "da_verificare"
       },
       {
-        "title": "Candy Combined CCH2T618EXBF, Frigorifero Combi, Capacità 293L, Total No Frost, Cassetto Verdolino, Controllo elettronico della temperatura, 60 x 186 cm, Illuminazione LED, Porta Re",
+        "title": "CANDY Fresco 400 Frigorifero Combinato da Incasso 268L (194L Frigo + 74L Freezer), Low Frost, App hOn, Super Freddo, Porte Reversibili, 177,2x54x55 cm (AxLxP), CNBQL3518EV",
         "merchant": "amazon",
-        "ean": "8059019119267",
+        "ean": "8059019107325",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -2584,9 +2556,9 @@
         "status": "da_verificare"
       },
       {
-        "title": "Candy CHSBSO-6174XWD, Frigorifero Side by Side, 90 cm, 518 L, motore inverter, Total No Frost, Dispenser di acqua, 2 cassetti verdure, controllo esterno digitale, illuminazione a L",
+        "title": "CANDY Frigorifero Side by Side No Frost 521L, Classe E, Display Touch, Super Freezing, Ripiani in Vetro, 177x91x67 cm (AxLxP) Nero - CHSBSO-6174B",
         "merchant": "amazon",
-        "ean": "8059019091891",
+        "ean": "8059019091884",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -2680,9 +2652,30 @@
         "ean": "8806094914245",
         "mpn": "RT38CG6624S9ES",
         "status": "da_verificare"
+      },
+      {
+        "title": "Samsung Frigorifero Combinato EcoFlex AI 2m 390L RB38C774DSA",
+        "merchant": "unieuro",
+        "ean": "8806094990324",
+        "mpn": "RB38C774DSA/EF",
+        "status": "da_verificare"
       }
     ],
     "friggitrici-ad-aria-offerte-confronto": [
+      {
+        "title": "Midea Friggitrice ad Aria Verticale Doppia Zona 10 in 1, 11L, 2400W | 2 Cassetti 6L & 5L, Componenti Antiaderenti Lavabili in Lavastoviglie, Connettività Wi-Fi, Compatibile con App",
+        "merchant": "amazon",
+        "ean": "6936718347387",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Melchioni Family | MATILDE Friggitrice ad Aria 8L 2200W di Potenza, Cestello Removibile con Maniglia, Griglia Separagrassi, Timer 60 Min, Cottura Light con -80% di Grassi",
+        "merchant": "amazon",
+        "ean": "8006012378269",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "LEHMANN Friggitrice ad Aria 8 Litri, Air Fryer XXL con Inserto Divisorio per Doppio Scomparto, Finestra di Visualizzazione, 12 Programmi & Regolazione Manuale 76–200°C, Lavabile in",
         "merchant": "amazon",
@@ -2698,16 +2691,9 @@
         "status": "da_verificare"
       },
       {
-        "title": "Moulinex Easy Fry XL Surface, Friggitrice ad Aria 1 kg, Nero, AL4018 | con Tecnologia Extra-Crisp, Superficie XL, Cestello Spazioso, Design Compatto, Visore di Controllo, Doppia Re",
+        "title": "LEHMANN Friggitrice ad Aria 8L, Air Fryer XXL con 40 Ricette Integrate, 11 Programmi, Cestello Doppia Zona Flessibile, Finestra Visualizzazione, 80-200 °C, Smart App Wifi, Rivestim",
         "merchant": "amazon",
-        "ean": "3045380027107",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "HOMCOM Friggitrice ad Aria Calda 8L Doppio Cestello 2400W 10 Programmi Nero | Friggitrice Senza Olio, Air Fryer con LED Touch Screen, Timer e Temperatura Regolabili",
-        "merchant": "amazon",
-        "ean": "8056644230831",
+        "ean": "5905388903019",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -2715,13 +2701,6 @@
         "title": "PremierTech Friggitrice ad Aria 8 Litri Doppio Cestello 8 Programmi PT8LAF | Air Fryer, 2 zone indipendenti 4+4 litri, doppia temperatura, display digitale, compatta, doppio cestel",
         "merchant": "amazon",
         "ean": "8050519380713",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Friggitrice Ad Aria 9L | Friggitrice Aria Doppio Cestello con 2x4,5L Cestello, 8-in-1 Airfryer Controllo Indipendente Temperatura 50-200℃, Grande Doppia Zona 2600W Air Fryer LED Sc",
-        "merchant": "amazon",
-        "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -2903,16 +2882,16 @@
         "status": "da_verificare"
       },
       {
-        "title": "Hitmars Scarpe Running Uomo con Chiusura a Rotella Nero 44 | Sneakers Unisex Leggere Traspiranti Ammortizzate Scarpe da Corsa per Trekking Camminata Palestra",
+        "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Bianco Puma White Puma White Peacoat Puma Team Gold, 41 EU",
         "merchant": "amazon",
-        "ean": "",
+        "ean": "4063699638240",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "Lotto Sneaker Unisex, Nero/Grigio, 41 EU, Nero/Grigio, 41 EU | Scarpe sportive per uomo e donna, extra leggere e comode, disponibili anche in taglie per bambini",
+        "title": "Hitmars Scarpe Running Uomo con Chiusura a Rotella Nero 44 | Sneakers Unisex Leggere Traspiranti Ammortizzate Scarpe da Corsa per Trekking Camminata Palestra",
         "merchant": "amazon",
-        "ean": "4068577006159",
+        "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -2924,9 +2903,23 @@
         "status": "da_verificare"
       },
       {
+        "title": "PUMA Unisex ST Runner v2 NL Sneakers, Puma Black-Puma White, 42 EU",
+        "merchant": "amazon",
+        "ean": "4059505005894",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Hitmars Scarpe Running Uomo Ginnastica Donna Scarpe da Corsa Trekking Sneakers Trail Sportive Fitness Correre Running Shoes Camminare Negro EU 43",
         "merchant": "amazon",
         "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Skechers Go Run Trail Altitude 2.0-Marble Rock 3.0 Sneaker da Uomo, Blu Navy/Rosso, 43 EU",
+        "merchant": "amazon",
+        "ean": "0197627360898",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -2966,13 +2959,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "WORLD SELL T-Shirt Uomo/Donna Personalizzata Fronte e Retro – 100% Cotone – Made in Italy – Maglietta Personalizzabile con Testo, Logo o Immagine (IT, Testo, S, Regular, Regular, N",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "fashwork Maglietta Personalizzata Uomo Donna, T-Shirt Personalizzabile con Stampa Foto, Scritta o Logo Fronte Retro, Maglia Manica Corta in 100% Cotone per Regali Personalizzati Bi",
         "merchant": "amazon",
         "ean": "",
@@ -2983,13 +2969,6 @@
         "title": "JOPHY & CO. T-Shirt Personalizzabile in Cotone, Maglietta Personalizzata con Stampa per Uomo e Donna, Idea Regalo Originale (IT, Testo, L, Regular, Regular, Nero)",
         "merchant": "amazon",
         "ean": "8054346377250",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Puzzletee Maglietta Padel Personalizzata sul Retro con Nome/Numero - T-Shirt Tecnica Traspirante Quick Dry - Uomo/Donna - Ideale Allenamento e Tornei - Giallo, M",
-        "merchant": "amazon",
-        "ean": "",
         "mpn": "",
         "status": "da_verificare"
       }
@@ -3108,6 +3087,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Bianco Puma White Puma White Peacoat Puma Team Gold, 41 EU",
+        "merchant": "amazon",
+        "ean": "4063699638240",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Hitmars Scarpe Running Uomo con Chiusura a Rotella Nero 44 | Sneakers Unisex Leggere Traspiranti Ammortizzate Scarpe da Corsa per Trekking Camminata Palestra",
         "merchant": "amazon",
         "ean": "",
@@ -3115,9 +3101,9 @@
         "status": "da_verificare"
       },
       {
-        "title": "Lotto Sneaker Unisex, Nero/Grigio, 41 EU, Nero/Grigio, 41 EU | Scarpe sportive per uomo e donna, extra leggere e comode, disponibili anche in taglie per bambini",
+        "title": "PUMA Unisex ST Runner v2 NL Sneakers, Puma Black-Puma White, 42 EU",
         "merchant": "amazon",
-        "ean": "4068577006159",
+        "ean": "4059505005894",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -3125,6 +3111,13 @@
         "title": "Hitmars Scarpe Running Uomo Ginnastica Donna Scarpe da Corsa Trekking Sneakers Trail Sportive Fitness Correre Running Shoes Camminare Negro EU 43",
         "merchant": "amazon",
         "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Skechers Go Run Trail Altitude 2.0-Marble Rock 3.0 Sneaker da Uomo, Blu Navy/Rosso, 43 EU",
+        "merchant": "amazon",
+        "ean": "0197627360898",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -3190,20 +3183,6 @@
         "ean": "7435108526559",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "Banlieue The Runner Uomo Sneakers Bianco Taglia 43 Scamosciato",
-        "merchant": "footlocker",
-        "ean": "7435112660690",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Banlieue The Runner Uomo Sneakers Bianco Taglia 44 Scamosciato",
-        "merchant": "footlocker",
-        "ean": "7435106032083",
-        "mpn": "",
-        "status": "da_verificare"
       }
     ],
     "lavapavimenti-elettriche": [
@@ -3229,16 +3208,16 @@
         "status": "da_verificare"
       },
       {
-        "title": "Tineco Floor ONE S7 Artist Lavapavimenti aspirapolvere Senza Fili, 22.000Pa | Design Elegante ed Estetico, Autonomia fino a 50 minuti, Design piatto a 180°, DualBlock, FlashDry",
+        "title": "Tineco FLOOR ONE S9 Artist Boost Steam aspira e lava con ReverseScrub | Vapore a 230 °C, aspirazione 25 kPa, Lay-Flat a 180°, antigroviglio DualBlock, FlashDry da 5 minuti, 60 minu",
         "merchant": "amazon",
-        "ean": "6971745580963",
+        "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "Tineco Floor ONE S9 Artist Aspirapolvere Lavapavimenti, 22.000Pa | Design Elegante ed Estetico, Autonomia fino a 50 minuti, Design piatto a 180°, SmoothDrive, DualBlock, FlashDry",
+        "title": "Tineco Floor ONE S7 Artist Lavapavimenti aspirapolvere Senza Fili, 22.000Pa | Design Elegante ed Estetico, Autonomia fino a 50 minuti, Design piatto a 180°, DualBlock, FlashDry",
         "merchant": "amazon",
-        "ean": "6971745580871",
+        "ean": "6971745580963",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -3292,13 +3271,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Bissell CrossWave OmniFind Aspirapolvere Senza Fili 4006N | Aspira e lava insieme, luci LED FurFinder per rilevare sporco e peli di animali, 185m² pulizia più superfici",
-        "merchant": "amazon",
-        "ean": "0011120277432",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Bissell CrossWave HF3 Aspirapolvere Senza Fili 3598N | Aspira e lava insieme, scopa elettrica leggera, 25 minuti di autonomia, lavasciuga pavimenti, solo per pavimenti duri",
         "merchant": "amazon",
         "ean": "5011423000626",
@@ -3309,6 +3281,13 @@
         "title": "Bissell CrossWave Edge Aspirapolvere e Lavapavimenti Senza Fili 4326N | Potente sistema di pulizia per i pasticci degli animali domestici, con tecnologia ZeroGap",
         "merchant": "amazon",
         "ean": "0011120284454",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Bissell CrossWave OmniForce EdgeFind Aspiratore Senza Fili 4325N | Per liquidi e solidi, aspira e lava in una passata, luci LED FurFinder, pulizia ZeroGap, multisuperficie fino 350",
+        "merchant": "amazon",
+        "ean": "0011120284584",
         "mpn": "",
         "status": "da_verificare"
       },
