@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-31T04:59:19+01:00",
+  "generated_at": "2026-10-31T06:36:40+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -693,20 +693,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Dell 15 Laptop - Intel Core i5-1334U, 8GB RAM, 512GB SSD | 15.6'' FHD 120Hz Display, IPS, Intel UHD Graphics, Win 11 Home, QWERTY Italiano (Caricatore venduto separatamente)",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "HP Laptop 15-fd1000slx, Notebook, Intel Core 7 150U, 16 GB RAM, 512 GB, Grafica integrata, Display 15,6\" FHD Antiriflesso 250 nits, Laptop, Windows 11, Portatile, Argento",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "ASUS Vivobook 16 F1605VA#B0FZL8JLW9, Notebook con display 16\" Anti-glare, 60Hz,Intel® Core™ 9 Processor 270H,RAM 16GB, 1TB SSD, WIN11 Home, Argento",
         "merchant": "",
         "ean": "",
@@ -717,6 +703,13 @@
         "title": "Lenovo Notebook Ram 16GB CPU Intel i5-1342H Monitor 15.6\" Full HD SSD 512 GB LAN, HDMI, USB Win 11 Pro e Libre Office Pc portatile pronto all'uso - Colore Nero",
         "merchant": "",
         "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "HP Laptop 15-fd1000slx, Notebook, Intel Core 7 150U, 16 GB RAM, 512 GB, Grafica integrata, Display 15,6\" FHD Antiriflesso 250 nits, Laptop, Windows 11, Portatile, Argento",
+        "merchant": "amazon",
+        "ean": "0821844597996",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -1119,20 +1112,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "msi PRO MP243WA E14 Monitor PC 24\" FHD 1920x1080 IPS, 144 Hz, 1 ms, HDR Ready, Adaptive Sync, Eye Care, altoparlante integrato, HDMI 1.4b, DP 1.2a, senza cornice, inclinabile, comp",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "MSI PRO MP275QA E14 Monitor 27\" WQHD, 2560x1440 IPS, 144 Hz, 1 ms | HDR Ready, Adaptive-Sync, Eye Care, altoparlante integrato, HDMI 2.0b, DP 1.2a, senza cornice, inclinabile, comp",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Xiaomi Monitor G27i",
         "merchant": "",
         "ean": "",
@@ -1178,6 +1157,13 @@
         "title": "AOC Gaming Monitor Q27G4XF 27 pollici 2560x1440, WQHD, 180Hz, Fast IPS Panel, 1ms GtG, Height Adjustment, (HDMI1x 2.0 DP 1x 1.4) HDR10, G-Sync Compatible, Nero",
         "merchant": "amazon",
         "ean": "4038986182485",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "MSI PRO MP275QA E14 Monitor 27\" WQHD, 2560x1440 IPS, 144 Hz, 1 ms | HDR Ready, Adaptive-Sync, Eye Care, altoparlante integrato, HDMI 2.0b, DP 1.2a, senza cornice, inclinabile, comp",
+        "merchant": "amazon",
+        "ean": "4711377397247",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -1820,20 +1806,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "JBL Quantum 100M2, Cuffie Gaming Over Ear con Filo, Nero | JBL QuantumSOUND Signature e Jack per Cuffie da 3,5 mm, Compatibilità Multi-Platform, Microfono Rimovibile, Opzione Mute",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "HyperX Cloud Stinger II Core, Cuffie da Gaming, Connessione Cablata a 3,5 mm, Audio Immersivo, Telaio in Plastica, Cuscinetti in Memory Foam Rivestiti in Tessuto, Adatto per PC, Ne",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "VoKinroad Cuffie Wireless Bluetooth Over Ear, Cuscinetti Magnetici Rimovibili con 2 Set Extra, Con ANC,80 Ore di Autonomia, Ricarica Rapida Type-C, Controllo Touch, Comode per Viag",
         "merchant": "amazon",
         "ean": "0716842839394",
@@ -2004,20 +1976,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "FAMIVAC R10 Robot Aspirapolvere Lavapavimenti 3 in 1, 6000 Pa, 200 Min, Controllo APP/Alexa/Google Home e Telecomando, Silenzioso, Auto-Ricarica, per Pavimenti Duri, Tappeti e Peli",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Lefant M210 PRO OMNI Robot Aspirapolvere Lavapavimenti con Rullo 20.000Pa | Rullo Autopulente, Acqua Pulita Continua, Base Multifunzione, 3 Mappe Multi-Livello, Laser dToF, Anti-Gr",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Lefant M210 PRO OMNI Robot Aspirapolvere Lavapavimenti con Rullo 20.000Pa",
         "merchant": "",
         "ean": "",
@@ -2060,6 +2018,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "Lefant M210 PRO OMNI Robot Aspirapolvere Lavapavimenti con Rullo 20.000Pa | Rullo Autopulente, Acqua Pulita Continua, Base Multifunzione, 3 Mappe Multi-Livello, Laser dToF, Anti-Gr",
+        "merchant": "amazon",
+        "ean": "0674026773929",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Lefant M210 Omni Mini Robot Aspirapolvere Lavapavimenti con Rullo 20.000 Pa | Rullo Autopulente, Acqua Pulita Continua, Base Multifunzione, Anti-Groviglio, 800ml, Ultra Sottile 85m",
         "merchant": "amazon",
         "ean": "0674026773691",
@@ -2070,6 +2035,13 @@
         "title": "MONSGA Robot Aspirapolvere Lavapavimenti 3-in-1, 8000Pa, Autonomia 180min | Navigazione Lidar, Mappa a 5 livelli, Anti-groviglio, Controllo App/Telecomando/Alexa, Per Peli Animali,",
         "merchant": "amazon",
         "ean": "6978669693274",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "FAMIVAC R10 Robot Aspirapolvere Lavapavimenti 3 in 1, 6000 Pa, 200 Min, Controllo APP/Alexa/Google Home e Telecomando, Silenzioso, Auto-Ricarica, per Pavimenti Duri, Tappeti e Peli",
+        "merchant": "amazon",
+        "ean": "6978669691256",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -2259,6 +2231,13 @@
       }
     ],
     "migliori-lavatrici": [
+      {
+        "title": "Samsung Lavatrice Crystal Clean 8 kg WW80CGC04DAEET",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "LG AI DD F4R3013NSWB Lavatrice Classe A -10%, Carica Frontale Serie R3, Lavatrice 13kg, 1400 giri, AIWash, Lavaggio a vapore, Motore Direct Drive, Smart Diagnosis, Libera installaz",
         "merchant": "amazon",
@@ -2460,13 +2439,6 @@
         "merchant": "unieuro",
         "ean": "8806097804819",
         "mpn": "WW10FG6U34LKU3",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Samsung Lavatrice BESPOKE AI™ 9Kg WW90DB7U34GWU3",
-        "merchant": "unieuro",
-        "ean": "8806095550282",
-        "mpn": "WW90DB7U34GWU3",
         "status": "da_verificare"
       }
     ],
