@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-31T02:09:13+01:00",
+  "generated_at": "2026-10-31T03:34:13+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -678,6 +678,13 @@
       }
     ],
     "migliori-notebook": [
+      {
+        "title": "2019 Apple MacBook Pro with 2.3GHz Intel Core i9 (15-inch, 16GB RAM, 512GB Storage) (AZERTY French) Space Gray (Renewed)",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "ASUS TUF GAMING B850-PLUS WIFI, Scheda Madre AMD ATX, Slot DDR5, Nera | 14+2+1 Fasi Alimentazione, PCIe 5.0, 3 slot M.2, WiFi 7, Ethernet Realtek 2,5 GB, USB-C 20 Gbps, BIOS Flashb",
         "merchant": "amazon",
