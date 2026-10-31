@@ -1,5 +1,39 @@
 [
   {
+    "asin": "B09PYK6ZHC",
+    "title": "Power Bank 24000mAh con 3 Uscite e 2 Ingressi Ricarica Rapida 22.5W Caricabatterie Portatile con USB C,Carica Batterie Portatile per Cellulare con Torcia, Powerbank Potente per iphone,Xiaomi,Samsung",
+    "price": 18.99,
+    "old_price": 24.99,
+    "discount": 24.0,
+    "image": "https://m.media-amazon.com/images/I/31t9bJMz8IL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B09PYK6ZHC?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "energia_ricarica",
+    "macro_group": "tech",
+    "seasonal_title": "",
+    "published_at": "2026-10-31T12:08:30.302792+01:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
+    "asin": "B0H62R4156",
+    "title": "Oral-B Filo Interdentale Non Cerato Essential Floss, Neutro 2x50m | Rimuove la Placca - Non Cerato per Spazi Stretti - Resistente allo sfilacciamento - Sapore Neutro, Confezione da 12x50m",
+    "price": 3.99,
+    "old_price": 4.99,
+    "discount": 20.0,
+    "image": "https://m.media-amazon.com/images/I/41HIojJN-mL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0H62R4156?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "igiene_personale",
+    "macro_group": "cura_persona",
+    "seasonal_title": "",
+    "published_at": "2026-10-31T12:08:18.064914+01:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B001J3NH2K",
     "title": "M-Wave Borsa portapacchi Amsterdam Double, nera, 30 l",
     "price": 19.99,
@@ -2519,67 +2553,5 @@
     "merchant_match_score": 94,
     "merchant_ean": "8806084272539",
     "merchant_prices_checked_at": "2026-10-30T21:06:58.535873+01:00"
-  },
-  {
-    "asin": "B0CBSLTT9L",
-    "title": "LG AI DD F4R7011TSWG Lavatrice 11kg, a Carica Frontale, Serie R7, Lavatrice Classe A -10%, 1400 giri, TurboWash 360, Vapore su 7 Programmi, Wi-Fi, Libera installazione, Bianco",
-    "price": 450.39,
-    "old_price": 599.0,
-    "discount": 25.0,
-    "image": "https://m.media-amazon.com/images/I/41T2IGZfoCL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0CBSLTT9L?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "grandi_elettrodomestici",
-    "macro_group": "casa_cucina",
-    "seasonal_title": "",
-    "published_at": "2026-10-30T22:18:44.470632+01:00",
-    "source_merchant": "amazon",
-    "source_external_id": "",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "unieuro",
-        "merchant_name": "Unieuro",
-        "merchant_id": "10139",
-        "product_id": "GOLF4R7011TSWC",
-        "awin_product_id": "43837128188",
-        "title": "LG F4R7011TSWC Lavatrice 11kg AI DD, Classe A-10%, 1400 giri, TurboWash, Vapore",
-        "brand": "LG",
-        "ean": "8806084287120",
-        "mpn": "F4R7011TSWCABWQPI",
-        "price": 549.9,
-        "old_price": 999.0,
-        "discount": 45.0,
-        "image": "https://www.unieuro.it/medias/sys_master/root/h2a/h4c/51180432556062/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-f6485c28241548739ae6bf117832a325-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-        "url": "https://www.awin1.com/pclick.php?p=43837128188&a=3086723&m=10139",
-        "category": "Lavatrici",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {
-          "capacity_kg": 11.0
-        }
-      }
-    ],
-    "merchant_match_score": 92,
-    "merchant_ean": "8806084287120",
-    "merchant_prices_checked_at": "2026-10-30T21:06:58.535873+01:00"
-  },
-  {
-    "asin": "B0C9JXCH8M",
-    "title": "LG F4R3010NSWW Lavatrice 10 kg Serie R3, Classe A-10%, AI DD, Vapore | 1400 Giri, Allergy Care Approvato BAF, Motore Inverter Direct Drive, Cestello a Bolle, Smart Diagnosis, Bianca",
-    "price": 411.07,
-    "old_price": 549.0,
-    "discount": 25.0,
-    "image": "https://m.media-amazon.com/images/I/412KHt+BDWL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0C9JXCH8M?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "grandi_elettrodomestici",
-    "macro_group": "casa_cucina",
-    "seasonal_title": "",
-    "published_at": "2026-10-30T22:18:44.382085+01:00",
-    "source_merchant": "amazon",
-    "source_external_id": "",
-    "quality_status": "ready",
-    "quality_issues": []
   }
 ]
