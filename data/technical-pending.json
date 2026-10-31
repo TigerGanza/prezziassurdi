@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-31T11:53:21+01:00",
+  "generated_at": "2026-10-31T13:18:22+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -977,13 +977,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "LENOVO TAB ONE",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Tablet Android da 11 Pollici, Octa-Core, 24GB(4+20) RAM+128GB Memoria, Batteria 8200mAh, Widevine L1, Espandibile fino a 1TB, Doppia Fotocamera, Android Tablet per Studio, Lavoro e",
         "merchant": "",
         "ean": "",
@@ -1771,6 +1764,13 @@
     ],
     "cuffie-bluetooth-in-offerta": [
       {
+        "title": "EJEAS V6 Interfono Moto Bluetooth Coppia 1200m Interfono in Tempo Reale Auricolare Casco Moto 6 Motociclisti Riduzione del rumore CVC Impermeabilità, USB-C (V6-2pc)",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "JBL Tune 770 NC Cuffie On-Ear Bluetooth Wireless, Nero | Cancellazione del rumore adattiva grazie a Smart Ambient,Bluetooth 5.3,Suono JBL Pure Bass,Fino a 70 ore di autonomia",
         "merchant": "amazon",
         "ean": "6925281974526",
@@ -2183,29 +2183,15 @@
     ],
     "migliori-lavatrici": [
       {
+        "title": "Indesit IM 1072 MY TIME IT – Lavatrice 10 Kg | Libera Installazione, Carica Frontale, 1200 Giri/min, Classe A, Vapore, AcquaFlex, Antimacchia, 84,5 x 60 x 58 cm",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Samsung Lavatrice Crystal Clean 8 kg WW80CGC04DAEET",
         "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "LG AI DD F4R3013NSWB Lavatrice Classe A -10%, Carica Frontale Serie R3, Lavatrice 13kg, 1400 giri, AIWash, Lavaggio a vapore, Motore Direct Drive, Smart Diagnosis, Libera installaz",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "LG AI DD F4R7011TSWG Lavatrice 11kg, a Carica Frontale, Serie R7, Lavatrice Classe A -10%, 1400 giri, TurboWash 360, Vapore su 7 Programmi, Wi-Fi, Libera installazione, Bianco",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "LG F4R3010NSWW Lavatrice 10 kg Serie R3, Classe A-10%, AI DD, Vapore | 1400 Giri, Allergy Care Approvato BAF, Motore Inverter Direct Drive, Cestello a Bolle, Smart Diagnosis, Bianc",
-        "merchant": "amazon",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
@@ -2390,6 +2376,20 @@
         "merchant": "unieuro",
         "ean": "8806097804819",
         "mpn": "WW10FG6U34LKU3",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Samsung Lavatrice BESPOKE AI™ 9Kg WW90DB7U34GWU3",
+        "merchant": "unieuro",
+        "ean": "8806095550282",
+        "mpn": "WW90DB7U34GWU3",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Hotpoint Ariston Lavatrice da incasso BI WMHG 71483 EU N",
+        "merchant": "unieuro",
+        "ean": "8050147619315",
+        "mpn": "869991619310",
         "status": "da_verificare"
       }
     ],
@@ -2607,6 +2607,13 @@
     ],
     "friggitrici-ad-aria-offerte-confronto": [
       {
+        "title": "Girmi FG28 Ecofrit 14 L Friggitrice ad Aria e Forno Multifunzione, 1300W, 14 Litri, Maxi Ventola, 230 °C, 5 Funzioni, Luce Interna, Ricettario e Accessori Inclusi",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Midea Friggitrice ad Aria Verticale Doppia Zona 10 in 1, 11L, 2400W | 2 Cassetti 6L & 5L, Componenti Antiaderenti Lavabili in Lavastoviglie, Connettività Wi-Fi, Compatibile con App",
         "merchant": "amazon",
         "ean": "6936718347387",
@@ -2706,6 +2713,27 @@
       }
     ],
     "migliori-moda": [
+      {
+        "title": "Asics Gel-Dedicate 9 Padel Scarpe da Tennis",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Asics Gel-Dedicate 9 Scarpe da Tennis",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "M-Wave Borsa portapacchi Amsterdam Double, nera, 30 l",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Kipling SEOUL S Zaino piccolo, Grey Gris (Grigio)",
         "merchant": "amazon",
@@ -2892,27 +2920,6 @@
         "title": "CustomSolo Maglietta Personalizzata con Foto e Testo, Unisex Doppia Faccia T-Shirt Personalizzata per Uomo e Donna, Maglia Personalizzata per Regali, Compleanni, Famiglia, Logo Azi",
         "merchant": "amazon",
         "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "fashwork Maglietta Personalizzata Uomo Donna, T-Shirt Personalizzabile con Stampa Foto, Scritta o Logo Fronte Retro, Maglia Manica Corta in 100% Cotone per Regali Personalizzati Bi",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "JOPHY & CO. T-Shirt Personalizzabile in Cotone, Maglietta Personalizzata con Stampa per Uomo e Donna, Idea Regalo Originale (IT, Testo, L, Regular, Regular, Nero)",
-        "merchant": "amazon",
-        "ean": "8054346377250",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "JOPHY & CO. T-Shirt Personalizzabile in Cotone, Maglietta Personalizzata con Stampa per Uomo e Donna, Idea Regalo Originale (IT, Testo, S, Regular, Regular, Bianco)",
-        "merchant": "amazon",
-        "ean": "8054346377281",
         "mpn": "",
         "status": "da_verificare"
       }
