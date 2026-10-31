@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-30T23:19:20+01:00",
+  "generated_at": "2026-10-31T00:44:13+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -1827,13 +1827,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Sony ULT WEAR Cuffie bluetooth con Cancellazione Rumore e bassi profondi | Over-Ear, wireless, WH-1000XM5 processore, chiamate nitide, 30 ore batteria, noise cancelling, iOS & Andr",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "VoKinroad Cuffie Wireless Bluetooth Over Ear, Cuscinetti Magnetici Rimovibili con 2 Set Extra, Con ANC,80 Ore di Autonomia, Ricarica Rapida Type-C, Controllo Touch, Comode per Viag",
         "merchant": "amazon",
         "ean": "0716842839394",
@@ -1978,6 +1971,13 @@
         "merchant": "unieuro",
         "ean": "8018080424007",
         "mpn": "BTSEEKTWSW",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Apple Beats Studio Pro Auricolare Con cavo e senza cavo A Padiglione Musica e Chiamate USB tipo C Bluetooth Nero",
+        "merchant": "unieuro",
+        "ean": "0194253715122",
+        "mpn": "MNSMQTP3ZM/A",
         "status": "da_verificare"
       }
     ],
@@ -2465,27 +2465,6 @@
     ],
     "migliori-frigoriferi": [
       {
-        "title": "Hisense RT600N4WC2 Frigorifero Doppia Porta, 467 Litri, Total No Frost, Colore Inox, 70.4 × 68.6 × 185 cm",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Hisense RQ5P470SAFE Frigorifero Americano Quattro Porte, 483 Litri, Total No Frost, WiFi, Metal Tech Cooling, Controllo Touch, Classe E, Inox Nero",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Hisense RQ5P470SMIE, Frigorifero Americano Quattro Porte, Total No Frost, WiFi, Metal Tech Cooling, Zona Convertibile, Display LED, Dispenser Acqua, Motore Inverter, Classe E, Inox",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "BEKO RCSA300K40GN - Frigorifero Combinato Libera Installazione 291 Litri, 4 Ripiani in Vetro, Frigo con Congelatore 3 Cassetti, Elettrodomestici Cucina, Classe E, 54L x 181,4H x 57",
         "merchant": "",
         "ean": "",
@@ -2538,6 +2517,13 @@
         "title": "CANDY Fresco 400 Frigorifero Combinato da Incasso 268L (194L Frigo + 74L Freezer), Low Frost, App hOn, Super Freddo, Porte Reversibili, 177,2x54x55 cm (AxLxP), CNBQL3518EV",
         "merchant": "amazon",
         "ean": "8059019107325",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Hisense RQ5P470SAFE Frigorifero Americano Quattro Porte, 483 Litri, Total No Frost, WiFi, Metal Tech Cooling, Controllo Touch, Classe E, Inox Nero",
+        "merchant": "amazon",
+        "ean": "6921727078513",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -2673,6 +2659,20 @@
         "ean": "8806094990324",
         "mpn": "RB38C774DSA/EF",
         "status": "da_verificare"
+      },
+      {
+        "title": "LG GBBS726CMB Frigorifero combinato Fit & Max 60cm, Classe C, 375L, AI Inverter, Metal Sorbet",
+        "merchant": "unieuro",
+        "ean": "8806096627587",
+        "mpn": "GBBS726CMBAMBQEUZ",
+        "status": "da_verificare"
+      },
+      {
+        "title": "LG GBBS322BPY Frigorifero combinato Fit & Max 60cm, Classe B, 375L, AI Inverter, Prime Silver",
+        "merchant": "unieuro",
+        "ean": "8806096627129",
+        "mpn": "GBBS322BPYAPYQEUZ",
+        "status": "da_verificare"
       }
     ],
     "friggitrici-ad-aria-offerte-confronto": [
@@ -2776,6 +2776,13 @@
       }
     ],
     "migliori-moda": [
+      {
+        "title": "Kipling SEOUL S Zaino piccolo, Grey Gris (Grigio)",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Tommy Hilfiger Uomo Portafoglio Johnson Mini Piccolo, Nero (Black), Taglia Unica",
         "merchant": "amazon",
@@ -2976,13 +2983,6 @@
         "title": "fashwork Maglietta Personalizzata Uomo Donna, T-Shirt Personalizzabile con Stampa Foto, Scritta o Logo Fronte Retro, Maglia Manica Corta in 100% Cotone per Regali Personalizzati Bi",
         "merchant": "amazon",
         "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "JOPHY & CO. T-Shirt Personalizzabile in Cotone, Maglietta Personalizzata con Stampa per Uomo e Donna, Idea Regalo Originale (IT, Testo, L, Regular, Regular, Nero)",
-        "merchant": "amazon",
-        "ean": "8054346377250",
         "mpn": "",
         "status": "da_verificare"
       }
