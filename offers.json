@@ -1,5 +1,22 @@
 [
   {
+    "asin": "B0FLJWRNKX",
+    "title": "Girmi FG28 Ecofrit 14 L Friggitrice ad Aria e Forno Multifunzione, 1300W, 14 Litri, Maxi Ventola, 230 °C, 5 Funzioni, Luce Interna, Ricettario e Accessori Inclusi",
+    "price": 99.9,
+    "old_price": 129.9,
+    "discount": 23.0,
+    "image": "https://m.media-amazon.com/images/I/41FSFi3xdfL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0FLJWRNKX?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "cucina",
+    "macro_group": "casa_cucina",
+    "seasonal_title": "",
+    "published_at": "2026-10-31T12:22:52.229777+01:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B09PYK6ZHC",
     "title": "Power Bank 24000mAh con 3 Uscite e 2 Ingressi Ricarica Rapida 22.5W Caricabatterie Portatile con USB C,Carica Batterie Portatile per Cellulare con Torcia, Powerbank Potente per iphone,Xiaomi,Samsung",
     "price": 18.99,
@@ -2508,50 +2525,5 @@
     "source_external_id": "",
     "quality_status": "ready",
     "quality_issues": []
-  },
-  {
-    "asin": "B0CKLC62D6",
-    "title": "LG AI DD F4R3013NSWB Lavatrice Classe A -10%, Carica Frontale Serie R3, Lavatrice 13kg, 1400 giri, AIWash, Lavaggio a vapore, Motore Direct Drive, Smart Diagnosis, Libera installazione, Bianca",
-    "price": 481.55,
-    "old_price": 599.0,
-    "discount": 20.0,
-    "image": "https://m.media-amazon.com/images/I/41gN81BiS0L._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0CKLC62D6?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "grandi_elettrodomestici",
-    "macro_group": "casa_cucina",
-    "seasonal_title": "",
-    "published_at": "2026-10-30T22:18:45.247855+01:00",
-    "source_merchant": "amazon",
-    "source_external_id": "",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "unieuro",
-        "merchant_name": "Unieuro",
-        "merchant_id": "10139",
-        "product_id": "GOLF4R3013NSWB",
-        "awin_product_id": "37031898347",
-        "title": "LG F4R3013NSWB Lavatrice 13kg AI DD, Classe A-20%, 1400 giri, Lavaggio a vapore",
-        "brand": "LG",
-        "ean": "8806084272539",
-        "mpn": "F4R3013NSWB.ABWQP",
-        "price": 599.9,
-        "old_price": 1149.0,
-        "discount": 47.8,
-        "image": "https://www.unieuro.it/medias/sys_master/root/h73/h1f/64532550909982/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-43c11c3a8e1a4b8c34e1af07c0444787-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-        "url": "https://www.awin1.com/pclick.php?p=37031898347&a=3086723&m=10139",
-        "category": "Lavatrici",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {
-          "capacity_kg": 13.0
-        }
-      }
-    ],
-    "merchant_match_score": 94,
-    "merchant_ean": "8806084272539",
-    "merchant_prices_checked_at": "2026-10-30T21:06:58.535873+01:00"
   }
 ]
