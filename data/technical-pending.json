@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-31T15:11:16+01:00",
+  "generated_at": "2026-10-31T16:41:24+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -381,6 +381,13 @@
     ],
     "tv-in-offerta": [
       {
+        "title": "Hisense Smart TV QLED 43\" 4K TV 43E7DS | Audio Dolby Atmos, VIDAA OS, Dolby Vision IQ, HDR 10+, Game Mode, Bluetooth, Wifi, Alexa, AirPlay2, lativù 4K, 2026 Model",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "LG QNED evo AI MiniLED 65 Pollici, Serie QNED86B 2026 Smart TV 4K - 65QNED86B6B",
         "merchant": "amazon",
         "ean": "",
@@ -447,13 +454,6 @@
         "title": "LG NANO AI UHD 43 Pollici, Serie NU8E 2026 Smart TV 4K - 43NU8E0B3LA | Processore con Nano Detail Enhancer, AI Chatbot, AI Concierge, HDR10 Pro, Filmmaker Mode, Design Linear Flow,",
         "merchant": "amazon",
         "ean": "8806096877395",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Hisense Smart TV QLED 43\" 4K TV 43E7DS | Audio Dolby Atmos, VIDAA OS, Dolby Vision IQ, HDR 10+, Game Mode, Bluetooth, Wifi, Alexa, AirPlay2, lativù 4K, 2026 Model",
-        "merchant": "amazon",
-        "ean": "6942351430966",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -1282,6 +1282,13 @@
     ],
     "migliori-smartwatch": [
       {
+        "title": "Smartwatch Uomo GPS, 1.43\" AMOLED Militari Orologio Smartwatch con Chiamate Bluetooth, 5 ATM Smart Watch con Sonno/Cardiofrequenzimetro/Torcia/Bussola, 160+ Sportive Fitness Tracke",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "2026 Smartwatch Uomo GPS,2.06\" HD AMOLED Orologio Smartwatch con Chiamate",
         "merchant": "",
         "ean": "",
@@ -1319,13 +1326,6 @@
       {
         "title": "GPS Smartwatch Uomo Orologio con Chiamate: 1,46\" Grande Schermo Tondo Militare Smart Watch Fitness Sport Bussola Torcia Cardiofrequenzimetro Pressione Sonno Impermeabile Salute Oro",
         "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Smartwatch Uomo GPS, 1.43\" AMOLED Militari Orologio Smartwatch con Chiamate Bluetooth, 5 ATM Smart Watch con Sonno/Cardiofrequenzimetro/Torcia/Bussola, 160+ Sportive Fitness Tracke",
-        "merchant": "amazon",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
