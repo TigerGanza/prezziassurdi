@@ -172,6 +172,93 @@ html[data-pa-season="black-friday"]{--pa-accent:#d8ba73;--pa-glow:#ba944b26}
 /* V14.34 · nuove card principali */
 .guide-card.theme-integratori{--guide-bg1:#090b0c;--guide-bg2:#3a2511;--guide-bg3:#08090a;--guide-glow1:rgba(255,184,52,.24);--guide-glow2:rgba(255,220,120,.12);--guide-accent:#ffd48a;--guide-image:url('assets/guide-integratori.jpg')}
 .guide-card.theme-moda{--guide-bg1:#0d0c0b;--guide-bg2:#3d2b19;--guide-bg3:#08090b;--guide-glow1:rgba(245,158,11,.20);--guide-glow2:rgba(251,191,36,.12);--guide-accent:#ffd48a;--guide-image:url('assets/guide-moda.jpg')}
+
+/* PA_HD_ALL_DEVICES_20261031_START */
+/* Responsive polish for 320px phones through 4K/ultrawide; all sizes are CSS px.
+   Avoid pixelation filters: image clarity still depends on source resolution. */
+html { -webkit-text-size-adjust:100%; text-size-adjust:100%; }
+body { -webkit-font-smoothing:antialiased; -moz-osx-font-smoothing:grayscale; }
+img { image-rendering:auto; }
+:where(.card,.pa-search-product,.hero-main,.feature,.guide-card,.section-panel) { min-width:0; }
+:where(.photo img,.feature .deal-image img,.pa-v5-logo,.merchant-logo,.pa-store-price-logo img) {
+  object-fit:contain;
+  image-rendering:auto;
+}
+:where(.container,.wrap,.section-panel,.card,.pa-search-product) { box-sizing:border-box; }
+:where(.hero h1,.card h3,.deal-title,.section-head h2,.section-title) { overflow-wrap:break-word; }
+@media (pointer:coarse) {
+  :where(.pa-v5-header-search button,.amazon-search-btn,.pa-guide-link,.pa-store-directory-link) { min-height:44px; }
+}
+/* Phones: legible cards without horizontal overflow or tiny form labels. */
+@media (max-width:560px) {
+  .hero h1 { font-size:clamp(32px,8.5vw,40px)!important;letter-spacing:-.8px!important;line-height:1.14!important; }
+  .hero-copy { font-size:15px!important;line-height:1.65!important; }
+  .section-head h2,.section-title { font-size:clamp(22px,5.9vw,26px)!important;line-height:1.25!important; }
+  .card h3 { font-size:16px!important;line-height:1.42!important;min-height:0!important; }
+  .card .price { font-size:clamp(25px,7vw,29px)!important; }
+  .photo { height:clamp(185px,58vw,245px)!important; }
+  .pa-v5-header-search input,.amazon-search-form input,.guide-toolbar input,.guide-toolbar select { font-size:16px!important; }
+  .pa-social a { padding:15px 16px; }
+  .pa-price-grid { grid-template-columns:1fr!important; }
+  .pa-price-grid > .pa-search-product:first-child { grid-column:auto!important; }
+}
+/* Tablets: readable text and natural image sizes across portrait and landscape. */
+@media (min-width:561px) and (max-width:980px) {
+  .hero h1 { font-size:clamp(37px,5.2vw,51px)!important;line-height:1.11!important; }
+  .hero-copy { font-size:16px!important; }
+  .section-head h2,.section-title { font-size:clamp(25px,3vw,30px)!important; }
+  .card h3 { font-size:16px!important; }
+  .card .price { font-size:27px!important; }
+  .photo { height:clamp(185px,26vw,240px)!important; }
+  .pa-v5-header-search input { font-size:16px!important; }
+}
+/* Notebook/desktop: preserve native grid responsiveness; improve hierarchy. */
+@media (min-width:981px) and (max-width:2199px) {
+  .hero-copy { font-size:16px!important; }
+  .card h3 { font-size:16px!important; }
+  .section-head h2,.section-title { font-size:clamp(26px,2vw,32px)!important; }
+  .pa-v5-header-search input { font-size:16px!important; }
+}
+/* Large and 4K monitors: use more screen space, not simply zoomed UI. */
+@media (min-width:2200px) {
+  .container,.wrap { width:min(calc(100% - 112px),2340px)!important;max-width:none!important; }
+  .pa-v5-header-inner { min-height:92px!important;gap:24px!important; }
+  .pa-v5-header-search { min-height:60px!important; }
+  .pa-v5-header-search input { font-size:17px!important; }
+  .pa-v5-logo { width:88px!important;height:72px!important; }
+  .hero-grid { gap:22px!important; }
+  .hero-main { padding:44px 48px 38px!important;min-height:490px!important; }
+  .hero h1 { font-size:clamp(57px,2.6vw,78px)!important;max-width:920px!important;line-height:1.05!important; }
+  .hero-copy { font-size:18px!important;max-width:760px!important; }
+  .feature { min-height:490px!important; }
+  .feature .deal-image { height:245px!important; }
+  .section-panel { padding:25px!important; }
+  .section-head h2,.section-title { font-size:32px!important; }
+  .grid { grid-template-columns:repeat(auto-fit,minmax(285px,1fr))!important;gap:19px!important; }
+  .photo { height:225px!important; }
+  .card h3 { font-size:16px!important;line-height:1.36!important; }
+  .card .price { font-size:28px!important; }
+  .pa-price-grid { grid-template-columns:repeat(3,minmax(0,1fr))!important;gap:16px!important; }
+  .pa-price-grid > .pa-search-product:first-child { grid-column:span 2!important; }
+  .store-directory-grid { grid-template-columns:repeat(4,minmax(0,1fr))!important;gap:18px!important; }
+  .guides-grid { grid-template-columns:repeat(3,minmax(0,1fr))!important; }
+  .guide-results-layout { grid-template-columns:330px minmax(0,1fr)!important;gap:28px!important; }
+}
+@media (min-width:3100px) {
+  .container,.wrap { width:min(calc(100% - 160px),2880px)!important;max-width:none!important; }
+  .hero-main { padding:52px 62px 42px!important;min-height:540px!important; }
+  .hero h1 { font-size:clamp(68px,2.35vw,92px)!important; }
+  .hero-copy { font-size:20px!important; }
+  .feature { min-height:540px!important; }
+  .feature .deal-image { height:285px!important; }
+  .grid { grid-template-columns:repeat(auto-fit,minmax(320px,1fr))!important;gap:22px!important; }
+  .photo { height:255px!important; }
+  .section-panel { padding:30px!important; }
+  .section-head h2,.section-title { font-size:36px!important; }
+  .pa-price-grid { grid-template-columns:repeat(4,minmax(0,1fr))!important; }
+  .store-directory-grid { grid-template-columns:repeat(5,minmax(0,1fr))!important; }
+}
+/* PA_HD_ALL_DEVICES_20261031_END */
 </style>
 <script>
 (function(){
@@ -364,12 +451,6 @@ body[data-pa-season] .pa-season-product-mark .pa-season-3d-icon {display:none}
 <h3><a href="https://www.awin1.com/pclick.php?p=23001653933&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Cellularline Impact Glass iPhone 11/XR</a></h3>
 <div class="price">8,49 €<span class="old">19,99 €</span></div><div class="discount">Sconto dichiarato: -58%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=23001653933&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
-<article class="card">
-<div class="photo"><img src="https://m.media-amazon.com/images/I/31XzVR4PLCL._SL500_.jpg" alt="Samsung Galaxy A33 5G, 128GB, Awesome Black (Ricondizionato)" loading="lazy"></div>
-<h3><a href="https://www.amazon.it/dp/B0B6GGXXTS?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Samsung Galaxy A33 5G, 128GB, Awesome Black (Ricondizionato)</a></h3>
-<div class="price">162,89 €<span class="old">378,00 €</span></div><div class="discount">Sconto dichiarato: -57%</div>
-<a class="cta" href="https://www.amazon.it/dp/B0B6GGXXTS?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
 <!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h4b/hca/50455931060254/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-eea99c01a5c0e82312368d75c4c7dfc6-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Samsung Galaxy Z Flip5 Smartphone AI RAM 8GB Display 3, 4&#x27;&#x27; Super AMOLED/6" loading="lazy"></div>
@@ -636,6 +717,12 @@ body[data-pa-season] .pa-season-product-mark .pa-season-3d-icon {display:none}
 <a class="cta" href="https://www.awin1.com/pclick.php?p=43956429924&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
 <!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
+<div class="photo"><img src="https://m.media-amazon.com/images/I/41fs08qyE2L._SL500_.jpg" alt="Samsung Galaxy A27 5G, 128GB, RAM 6GB, Black [Versione Italiana], 3 anni di Garanzia" loading="lazy"></div>
+<h3><a href="https://www.amazon.it/dp/B0GYS4LVH8?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Samsung Galaxy A27 5G, 128GB, RAM 6GB, Black [Versione Italiana], 3 anni di Garanzia</a></h3>
+<div class="price">239,99 €<span class="old">389,00 €</span></div><div class="discount">Sconto dichiarato: -38%</div>
+<a class="cta" href="https://www.amazon.it/dp/B0GYS4LVH8?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
+<article class="card">
 <div class="photo"><img src="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_146813519/fee_786_587_png" alt="KIT PULIZIA SBS Kit di pulizia" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=36082795576&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">KIT PULIZIA SBS Kit di pulizia</a></h3>
 <div class="price">16,27 €<span class="old">24,99 €</span></div><div class="discount">Sconto dichiarato: -35%</div>
@@ -662,7 +749,7 @@ body[data-pa-season] .pa-season-product-mark .pa-season-3d-icon {display:none}
 <nav class="categories" aria-label="Altre categorie"><a href="https://prezziassurdi.com/categorie/informatica/">💻 Informatica in offerta</a><a href="https://prezziassurdi.com/categorie/tv-audio/">📺 TV e Audio in offerta</a><a href="https://prezziassurdi.com/categorie/gaming/">🎮 Gaming in offerta</a><a href="https://prezziassurdi.com/categorie/casa/">🏠 Casa in offerta</a><a href="https://prezziassurdi.com/categorie/cucina/">🍳 Cucina in offerta</a><a href="https://prezziassurdi.com/categorie/fai-da-te/">🔧 Fai da te in offerta</a><a href="https://prezziassurdi.com/categorie/cura-persona/">✨ Cura persona e profumi in offerta</a><a href="https://prezziassurdi.com/categorie/integratori/">💊 Migliori INTEGRATORI</a><a href="https://prezziassurdi.com/categorie/sport/">🏋️ Sport e fitness in offerta</a><a href="https://prezziassurdi.com/categorie/outdoor/">🏕️ Outdoor e viaggio in offerta</a><a href="https://prezziassurdi.com/categorie/bambini/">🧸 Bambini in offerta</a><a href="https://prezziassurdi.com/categorie/animali/">🐾 Animali in offerta</a><a href="https://prezziassurdi.com/categorie/moda/">👕 Moda in offerta</a></nav>
 <p class="note">Prezzi, sconti e disponibilità possono cambiare rapidamente. Verifica sempre le condizioni finali sul sito del negozio.</p>
 </div></main>
-<footer>PREZZI ASSURDI — Alcuni link sono affiliati. In qualità di Affiliato Amazon ricevo un guadagno dagli acquisti idonei; per Unieuro, MediaWorld, ManoMano e AliExpress utilizziamo link tracciati del network Awin. Prezzi e disponibilità possono cambiare sui siti dei negozi.<br><a href="https://prezziassurdi.com/chi-siamo/">Chi siamo</a> · <a href="https://prezziassurdi.com/trasparenza/">Trasparenza e criteri</a> · <a href="https://prezziassurdi.com/stato-offerte/">Controlli offerte</a></footer>
+<footer>PREZZI ASSURDI — Alcuni link sono affiliati. In qualità di Affiliato Amazon ricevo un guadagno dagli acquisti idonei; per Unieuro, MediaWorld, ManoMano, AliExpress e Foot Locker utilizziamo link tracciati del network Awin. Prezzi e disponibilità possono cambiare sui siti dei negozi.<br><a href="https://prezziassurdi.com/chi-siamo/">Chi siamo</a> · <a href="https://prezziassurdi.com/trasparenza/">Trasparenza e criteri</a> · <a href="https://prezziassurdi.com/stato-offerte/">Controlli offerte</a></footer>
 <script>
 (function(){
   function initGuideFilters(){
