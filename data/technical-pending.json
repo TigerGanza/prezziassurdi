@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-31T07:28:21+01:00",
+  "generated_at": "2026-10-31T08:53:21+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -381,6 +381,20 @@
     ],
     "tv-in-offerta": [
       {
+        "title": "LG QNED evo AI MiniLED 65 Pollici, Serie QNED86B 2026 Smart TV 4K - 65QNED86B6B",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "LG QNED AI MiniLED 43 Pollici, Serie QNED7EB 2026 Smart TV 4K - 43QNED7EB3C | AI Magic Remote, 100% Volume Colore, WebOS con Gemini, Design Linear Flow, Gaming VRR 60Hz",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Xiaomi TV F Pro 32 2025, 32 pollici (81 cm), QLED, Smart TV, Fire TV, Triple Tuner DVB-C/S/S2/T/T2,Dolby Audio, DTS Virtual:X, DTS-HD, Controllo Vocale Alexa, Compatibile con Apple",
         "merchant": "amazon",
         "ean": "6941948706361",
@@ -402,16 +416,16 @@
         "status": "da_verificare"
       },
       {
-        "title": "Antteq TV 32 Pollici (81 cm) LED HD, Design Senza Cornice, USB-Media Player, HDMI, Triple Tuner DVB-T2/S2/C, H.265/HEVC 10bit, Audio Dolby, Modalità Hotel, Adatto agli Anziani (E32",
+        "title": "Generico Nova Smart Tv Qled 32\" HD FullScreen Frameless",
         "merchant": "amazon",
-        "ean": "6940017317972",
+        "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "Generico Nova Smart Tv Qled 32\" HD FullScreen Frameless",
+        "title": "Metz 32 Pollici Smart TV con Google TV Televisore LED, Gen 6 QLED +, HDR 10 Dolby Audio Bluetooth 5,1 EyeCare DVB-T/T2/C/S/S2 Ci+ HEVC Main10 (32MQH7000Z, 2026 Nuovo Modello)",
         "merchant": "amazon",
-        "ean": "",
+        "ean": "5907916000214",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -575,23 +589,16 @@
         "ean": "5901292525972",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "Hisense Smart TV 65\" UHD 4K 65E6ST | DTS Virtual X, VIDAA OS con 1000+ APP, HDR 10+, Game Mode Plus, Bluetooth, Wifi, Alexa, AirPlay2, lativù 4K, 2026 Model",
-        "merchant": "amazon",
-        "ean": "6942351430805",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "TCL 65C6K Pro - Smart TV QD‑Mini LED 4K HDR10+ da 65\", 1.000nit",
-        "merchant": "amazon",
-        "ean": "5901292531614",
-        "mpn": "",
-        "status": "da_verificare"
       }
     ],
     "offerte-tv-55-65-pollici": [
+      {
+        "title": "LG QNED evo AI MiniLED 65 Pollici, Serie QNED86B 2026 Smart TV 4K - 65QNED86B6B",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Samsung Smart TV 55\" UE55M80HAUXZT Mini LED 4K , HDR 10+, Motion Xcelerator 144Hz, Adpative Sound+, AI Football Mode, Voice Control with AI(VAC), Alexa Built-in, PACCHETTO INTRATTE",
         "merchant": "amazon",
@@ -863,13 +870,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Pc Computer Business, Desktop Dell sff, pronto all'uso, Core i7 6th, Ram 16gb DRR4, Disco SSD 512 Nvme, Windows 11 e Office 2021, Wi fi, Garanzia 12 mesi (Ricondizionato) (i7|Ram 1",
-        "merchant": "amazon",
-        "ean": "0806891724625",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Postazione Completa Pc Desktop Dell Pronto All'Uso Intel i7-6700 4 Core 3.4Ghz, Ram 16Gb, SSD 512 Gb, Monitor 24\" FHD, Windows 11, Libre Office, Compreso di Mouse e Tastiera (Ricon",
         "merchant": "amazon",
         "ean": "0728434241744",
@@ -877,9 +877,30 @@
         "status": "da_verificare"
       },
       {
+        "title": "PC Fisso Desktop Ryzen 5 4600GE, 16GB DDR4, SSD 256GB, Windows 11 Pro | Computer per ufficio e smart working, Radeon Graphics con HDMI 2.1 & DisplayPort 1.4, Wi-Fi, 8x USB, Compute",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "STGSivir PC Gaming Fisso, Ryzen 5 5500, RTX 3050 6G, 16G DDR4, 512G SSD | Computer Gaming per Streaming, Editing Video, Compiti, fino a 4.2 GHz, WiFi 6, BT 5.0, 4K,HDMI,Win11 Pro, ",
         "merchant": "amazon",
         "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Memory PC Gaming Ryzen 5 5500, NVIDIA RTX 3050 6GB, 16GB DDR4, 500GB SSD | Per giocare in Full HD ed e-sport, GeForce con DLSS e ray tracing, 6 core fino a 4,2 GHz, Windows 11 Pro,",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Vibox IV-576 PC Gaming Completo • AMD Ryzen 7 5700X 8 cores • Nvidia RTX 3050 6GB • 16GB RAM • 500GB SSD • Windows 11 • WiFi 6 + Bluetooth 5.4",
+        "merchant": "amazon",
+        "ean": "5063575170016",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -894,20 +915,6 @@
         "title": "msi MAG Infinite E1 14NVL5-104EU Gaming PC – Processore Intel Core i5 14400F, scheda video GeForce RTX 5060 8G, 16GB di RAM DDR5, 1TB SSD PCIe GEN4x4 w/o DRAM NVMe - Alimentatore 8",
         "merchant": "amazon",
         "ean": "4711377377522",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Greed MK2 - Gaming PC - AMD Ryzen 7 5700X & Nvidia Geforce RTX 5060Ti (8GB)",
-        "merchant": "amazon",
-        "ean": "4742024635023",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Vibox VIII-619 PC Gaming Completo • Intel Core i9 12900KF 16 cores • Nvidia RTX 5050 8GB • 16GB RAM • 500GB SSD • Windows 11 • 23\" Monitor • WiFi 6 + Bluetooth 5.4",
-        "merchant": "amazon",
-        "ean": "5063575142006",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -971,13 +978,6 @@
     "migliori-tablet": [
       {
         "title": "LENOVO TAB ONE",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Tablet 10 Pollici Android 15 con Tastiera- 36GB RAM+ 256GB ROM(1TB TF), Octa-Core | WiFi 6 | 8000mAh | 1280 * 800 | 8MP+5MP | Widevine L1 | Bluetooth 5.0, Tablet in Offerta con Mou",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -1692,16 +1692,16 @@
         "status": "da_verificare"
       },
       {
-        "title": "Majority Bowfell Axis Soundbar 2.1 con Subwoofer per TV | Soundbar per dispositivi TV, HDMI eARC, Bluetooth 5.3, 40 cm, montaggio a parete per PC, soundbar, EQ, telecomando incluso",
+        "title": "Hisense HS2100 Soundbar 2.1, 240W, Subwoofer Sottile Esterno wireless, Supporta Dolby Digital e DTS Virtual:X, Bluetooth, HDMI, USB, Ingresso Audio Ottico",
         "merchant": "amazon",
-        "ean": "5056444113375",
+        "ean": "6942147497937",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "Hisense AX3120Q Soundbar, 3.1.2, 2 altoparlanti anteriori, Hi-Concerto, Dolby Atmos, DTS:X, Subwoofer True Wireless, Bluetooth, HDMI, USB, Ingresso Audio ottico",
+        "title": "Majority Bowfell Axis Soundbar 2.1 con Subwoofer per TV | Soundbar per dispositivi TV, HDMI eARC, Bluetooth 5.3, 40 cm, montaggio a parete per PC, soundbar, EQ, telecomando incluso",
         "merchant": "amazon",
-        "ean": "6942351423432",
+        "ean": "5056444113375",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -1772,27 +1772,6 @@
     "cuffie-bluetooth-in-offerta": [
       {
         "title": "Fodsports FX-S Interfono Moto Coppia, Auricolare Casco Bluetooth 5.4 per 2 Piloti, Sistema di Comunicazione 1000m, Tripla Riduzione Rumore, Stereo HiFi, Vivavoce Musica e Chiamate,",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Music Sound | HEADBAND Bluetooth Basic | Cuffie on Ear Bluetooth con Archetto Estendibile - PlayTime 14h - Colore Nero",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Music Sound MAXI2, Cuffie Wireless Around Ear Bluetooth 5.0, Play Time 22h, Charging Time 1,5h, Microfono Integrato, Comandi sul Padiglione e Archetto Regolabile, Verde",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "2026 Cuffie Bluetooth 6.1 Sport, Auricolari Bluetooth con 6D Bass Stereo, 120 Ore Cuffie In Ear Cancellazione Rumore ENC e 4 HD Mics, HiFi Cuffiette LED Display, IP7 Impermeabile C",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -1961,20 +1940,6 @@
       }
     ],
     "migliori-robot-aspirapolvere": [
-      {
-        "title": "roborock Qrevo Edge 2 Robot Aspirapolvere Lavapavimenti 25.000Pa, Bianco | LDS Retrattile, 7,98 cm, FlexiArm, Antigroviglio, Autopulizia Panno 80°C, Evita Oltre 280 Oggetti, Videoc",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Lefant Robot Aspirapolvere Lavapavimenti Grigio Morbido | Aspirazione 5000Pa, Peli Animali, Mop Magnetico, Rilevamento Tappeti, 3 Mappe, Aspirapolvere Robot per Casa",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Lefant M210 PRO OMNI Robot Aspirapolvere Lavapavimenti con Rullo 20.000Pa",
         "merchant": "",
@@ -2337,6 +2302,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "Electrolux EW6S526A Lavatrice Slim Carica Frontale 6 kg 1200 Giri Classe A | 6 kg di carico, formato slim, centrifuga 1200 giri, classe energetica A",
+        "merchant": "amazon",
+        "ean": "7333394131764",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Hoover H-CARE 300 Lavatrice Slim 7 Kg, 1400 Giri, Classe A-20% | Motore Inverter, Vapore, 16 Programmi, 72 dB, Grigio Notte Polare, LxPxA 60x44x85 cm, H3W 47SBL8GH-S",
         "merchant": "amazon",
         "ean": "8059019123738",
@@ -2354,13 +2326,6 @@
         "title": "COMFEE' Lavatrice Ultra Slim 6 kg Classe A Motore BLDC | Vapore Igienizzante, Baby Care e 16 Programmi per Piccoli Appartamenti CFP01EW60W",
         "merchant": "amazon",
         "ean": "6945878358553",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Candy Smart Pro CO4 374TWM6/1-S, Lavatrice Slim 7kg, Motore Inverter, Carica Frontale, Classe A-10%, 1300 Giri, 16 Programmi, 76 dB, AxLxP 85x60x45 cm, Bianco [Classe di efficienza",
-        "merchant": "amazon",
-        "ean": "8059019075822",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -2479,16 +2444,16 @@
         "status": "da_verificare"
       },
       {
-        "title": "Samsung EcoFlex AI Frigorifero Combinato RB38C600DSA/EF, Wifi, All-Around Cooling, Space Max, Total No Frost, 390 L, LxAxP: 59,5 x 203 x 65,8 cm, Silver Inox",
+        "title": "PYRAMIDEA Frigorifero Combinato TOTAL NO FROST 320 litri lordi (ben 290 litri netti) Bianco CMB325NFW Altezza 185 cm. Classe energetica E Silenzioso 41 Db.",
         "merchant": "amazon",
-        "ean": "8806094768183",
+        "ean": "8054890199780",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "PYRAMIDEA Frigorifero Combinato TOTAL NO FROST 320 litri lordi (ben 290 litri netti) Bianco CMB325NFW Altezza 185 cm. Classe energetica E Silenzioso 41 Db.",
+        "title": "CANDY Fresco 400 Frigorifero Combinato da Incasso 268L (194L Frigo + 74L Freezer), Low Frost, App hOn, Super Freddo, Porte Reversibili, 177,2x54x55 cm (AxLxP), CNBQL3518EV",
         "merchant": "amazon",
-        "ean": "8054890199780",
+        "ean": "8059019107325",
         "mpn": "",
         "status": "da_verificare"
       },
