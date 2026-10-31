@@ -657,6 +657,12 @@ body[data-pa-season] .pa-season-product-mark .pa-season-3d-icon {display:none}
 <a class="cta" href="https://www.awin1.com/pclick.php?p=46028615031&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
 <!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
+<div class="photo"><img src="https://m.media-amazon.com/images/I/41XqrKEEv7L._SL500_.jpg" alt="Samsung Galaxy S25 Ultra Smartphone AI, 3 anni di Garanzia del produttore" loading="lazy"></div>
+<h3><a href="https://www.amazon.it/dp/B0DPL2XFY3?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Samsung Galaxy S25 Ultra Smartphone AI, 3 anni di Garanzia del produttore</a></h3>
+<div class="price">879,00 €<span class="old">1.499,00 €</span></div><div class="discount">Sconto dichiarato: -41%</div>
+<a class="cta" href="https://www.amazon.it/dp/B0DPL2XFY3?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
+<article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h0a/ha5/50583566712862/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-b0dd438a53743c9d67e56819b55cb0de-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Celly JEWELNYLBK accessorio per custodia del telefono cellulare" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=38431637850&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Celly JEWELNYLBK accessorio per custodia del telefono cellulare</a></h3>
 <div class="price">5,99 €<span class="old">9,99 €</span></div><div class="discount">Sconto dichiarato: -40%</div>
@@ -733,12 +739,6 @@ body[data-pa-season] .pa-season-product-mark .pa-season-3d-icon {display:none}
 <h3><a href="https://www.amazon.it/dp/B0H5RJNCXT?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">HONOR 600 SMART 5G SILVER 4+128GB</a></h3>
 <div class="price">188,70 €<span class="old">279,90 €</span></div><div class="discount">Sconto dichiarato: -33%</div>
 <a class="cta" href="https://www.amazon.it/dp/B0H5RJNCXT?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
-<article class="card">
-<div class="photo"><img src="https://m.media-amazon.com/images/I/417xfE1b4JL._SL500_.jpg" alt="Motorola edge 60 neo con Moto AI (8/256GB, Tripla camera 50MP+13MP+10MP, selfie 32MP" loading="lazy"></div>
-<h3><a href="https://www.amazon.it/dp/B0FWKDJFM4?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Motorola edge 60 neo con Moto AI (8/256GB, Tripla camera 50MP+13MP+10MP, selfie 32MP</a></h3>
-<div class="price">268,90 €<span class="old">399,00 €</span></div><div class="discount">Sconto dichiarato: -33%</div>
-<a class="cta" href="https://www.amazon.it/dp/B0FWKDJFM4?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
 <!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Halloween"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article></div>
 </section>
 <section class="editorial-panel" style="margin-top:18px">
@@ -761,6 +761,42 @@ body[data-pa-season] .pa-season-product-mark .pa-season-3d-icon {display:none}
       var count = panel.querySelector('[data-guide-filter-count]');
       var selectedBadge = document.querySelector('[data-guide-mobile-selected]');
       var mobileToggle = document.querySelector('[data-guide-filter-open]');
+      // PA-GUIDE-MOBILE-FILTERS-BEFORE-TOP3-V1
+      // Muove gli STESSI controlli (senza duplicati) prima dei Top 3 solo sotto 901px.
+      // I segnaposto permettono di ripristinare l'ordine su desktop e al resize.
+      var guideMain = toolbar.closest('main');
+      var guideTopThree = guideMain && guideMain.querySelector('.top-choices-wrap');
+      if (guideTopThree && mobileToggle && typeof window.matchMedia === 'function') {
+        var searchOriginal = document.createComment('pa-guide-search-original');
+        var filtersOriginal = document.createComment('pa-guide-filters-original');
+        toolbar.parentNode.insertBefore(searchOriginal, toolbar);
+        mobileToggle.parentNode.insertBefore(filtersOriginal, mobileToggle);
+        var mobileQuery = window.matchMedia('(max-width: 900px)');
+        function arrangeGuideControls(){
+          if(mobileQuery.matches){
+            guideTopThree.parentNode.insertBefore(toolbar, guideTopThree);
+            guideTopThree.parentNode.insertBefore(mobileToggle, guideTopThree);
+            // Il pulsante non deve restare appiccicato sopra le schede in evidenza.
+            mobileToggle.style.position = 'static';
+            mobileToggle.style.top = 'auto';
+            mobileToggle.style.zIndex = 'auto';
+            mobileToggle.style.marginBottom = '14px';
+          } else {
+            searchOriginal.parentNode.insertBefore(toolbar, searchOriginal.nextSibling);
+            filtersOriginal.parentNode.insertBefore(mobileToggle, filtersOriginal.nextSibling);
+            ['position','top','z-index','margin-bottom'].forEach(function(prop){
+              mobileToggle.style.removeProperty(prop);
+            });
+          }
+        }
+        arrangeGuideControls();
+        if(typeof mobileQuery.addEventListener === 'function') {
+          mobileQuery.addEventListener('change', arrangeGuideControls);
+        } else if(typeof mobileQuery.addListener === 'function') {
+          mobileQuery.addListener(arrangeGuideControls);
+        }
+      }
+
       var closeBtn = panel.querySelector('[data-guide-filter-close]');
       var overlay = document.querySelector('[data-guide-filter-overlay]');
       var scope = panel.closest('main') || document;
