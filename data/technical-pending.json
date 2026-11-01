@@ -1,17 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-11-01T07:06:23+01:00",
+  "generated_at": "2026-11-01T08:31:23+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
     "smartphone-in-offerta": [
-      {
-        "title": "Fujifilm instax mini Evo Black, Fotocamera Istantanea Ibrida digitale | Fotocamera Digitale Compatta, Stampante per Smartphone, Design Analogico, 100 Effetti, Dimensioni Stampa 86 ",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Motorola moto g06 (4/256GB, Fotocamera 50MP+flicker cam, selfie 8MP, Display HD+ 6.88\", MediaTek Helio G81 Extreme, 5200mAh, Android 15), Tapestry",
         "merchant": "amazon",
@@ -58,6 +51,13 @@
         "title": "HONOR 600 SMART 5G SILVER 4+128GB",
         "merchant": "amazon",
         "ean": "6942785104624",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "HONOR 600 SMART 5G BLACK 4+128GB",
+        "merchant": "amazon",
+        "ean": "6942785104617",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -218,13 +218,6 @@
     ],
     "migliori-smartphone-sotto-300-euro": [
       {
-        "title": "Fujifilm instax mini Evo Black, Fotocamera Istantanea Ibrida digitale | Fotocamera Digitale Compatta, Stampante per Smartphone, Design Analogico, 100 Effetti, Dimensioni Stampa 86 ",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Motorola moto g06 (4/256GB, Fotocamera 50MP+flicker cam, selfie 8MP, Display HD+ 6.88\", MediaTek Helio G81 Extreme, 5200mAh, Android 15), Tapestry",
         "merchant": "amazon",
         "ean": "0840493601601",
@@ -270,6 +263,13 @@
         "title": "HONOR 600 SMART 5G SILVER 4+128GB",
         "merchant": "amazon",
         "ean": "6942785104624",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "HONOR 600 SMART 5G BLACK 4+128GB",
+        "merchant": "amazon",
+        "ean": "6942785104617",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -686,6 +686,13 @@
     ],
     "migliori-notebook": [
       {
+        "title": "ASUS Zenbook 14 UM3406GA#B0GN3ZHZY6, Notebook con display 14\" OLED, Glossy,60Hz,AMD Ryzen™ AI 7 445 Processor, RAM 16GB, 512GB SSD, WIN11 Home, Nero - Caricatore non incluso",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "ASUS Vivobook 16 F1605VA#B0FZL8JLW9, Notebook con display 16\" Anti-glare, 60Hz,Intel® Core™ 9 Processor 270H,RAM 16GB, 1TB SSD, WIN11 Home, Argento",
         "merchant": "",
         "ean": "",
@@ -1098,6 +1105,27 @@
     ],
     "migliori-monitor": [
       {
+        "title": "PHILIPS Monitor 32E1N1800LA 32 pollici 3840x2160, UHD, 60Hz, VA Panel, 4ms GtG, Speakers, (HDMI2x 2.0 DP 1x 1.4) HDR10, Nero",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "PHILIPS Monitor 27E1N1800A 27 pollici 3840x2160, UHD, 60Hz, IPS Panel, 4ms GtG, Speakers, (HDMI2x 2.0 DP 1x 1.4) HDR10, Nero",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Gawfolk Monitor per PC UHD 4K da 28 pollici, schermo IPS (3840×2560p) | 3:2, 1,07 miliardi di colori, 128% sRGB, altoparlanti integrati, DisplayPort, HDMI, nero",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "OMEN by HP Monitor da gaming 27'' FHD 240 Hz – OMEN 27s",
         "merchant": "unieuro",
         "ean": "",
@@ -1189,13 +1217,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "PHILIPS Monitor 32E1N1800LA 32 pollici 3840x2160, UHD, 60Hz, VA Panel, 4ms GtG, Speakers, (HDMI2x 2.0 DP 1x 1.4) HDR10, Nero",
-        "merchant": "amazon",
-        "ean": "8721038000597",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "LG 32U721SA Monitor Smart 32\" 4K, HDR, webOS con app di streaming, Wi-Fi, Bluetooth, AirPlay, Screen Share, Browser Internet, Speaker Stereo 10W, USB-C (65W), HDMI, Hub USB, Teleco",
         "merchant": "amazon",
         "ean": "8806096446539",
@@ -1267,20 +1288,6 @@
       }
     ],
     "migliori-smartwatch": [
-      {
-        "title": "XIAOMI Redmi Watch 6 Lite, Fitness Tracker, Autonomia 18 Giorni, Grigio | Smartwatch Uomo Donna, Schermo 1,96\" AMOLED, Monitor Cardiaco & Sonno, 150+ Sports, GNSS 5 sistemi, 5ATM, ",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "AcclaFit Smartwatch Uomo Donna, 1.85\" Orologio Smartwatch con Effettua/Risposta Chiamate, 113 Sportive Smart Watch con Contapassi/SpO2/Sonno/Cardiofrequenzimetro, Impermeabil IP68 ",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "2026 Smartwatch Uomo GPS,2.06\" HD AMOLED Orologio Smartwatch con Chiamate",
         "merchant": "",
@@ -2388,6 +2395,13 @@
     ],
     "migliori-frigoriferi": [
       {
+        "title": "LG GBBS726CMB Frigorifero combinato Fit & Max 60cm, Classe C, 375L, AI Inverter, Metal Sorbet",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Samsung Frigorifero Combinato EcoFlex AI 2m 390L RB38C774DSA",
         "merchant": "unieuro",
         "ean": "",
@@ -2589,13 +2603,6 @@
         "ean": "8806096558164",
         "mpn": "GBBSJ10DPYAPYQEUZ",
         "status": "da_verificare"
-      },
-      {
-        "title": "Samsung RT38CG6624S9 frigorifero Doppia Porta EcoFlex AI Libera installazione con congelatore Wifi 393 L Classe E, Inox",
-        "merchant": "unieuro",
-        "ean": "8806094914245",
-        "mpn": "RT38CG6624S9ES",
-        "status": "da_verificare"
       }
     ],
     "friggitrici-ad-aria-offerte-confronto": [
@@ -2720,6 +2727,48 @@
       }
     ],
     "migliori-moda": [
+      {
+        "title": "Levi's 501 Crop, Jeans Donna, Apply Now, 27W / 30L",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Banlieue The Runner Uomo - Sneakers Bianco - Taglia 40.5 - Scamosciato",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Banlieue The Runner Uomo - Sneakers Bianco - Taglia 45 - Scamosciato",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Banlieue The Runner Uomo - Sneakers Bianco - Taglia 42 - Scamosciato",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Banlieue The Runner Uomo - Sneakers Bianco - Taglia 46 - Scamosciato",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Banlieue The Runner Uomo - Sneakers Bianco - Taglia 44 - Scamosciato",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Crep Protect Foam X Unisex - Cura delle Sneakers Nero - One Size - Metal",
         "merchant": "footlocker",
@@ -2887,51 +2936,44 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "WOWEI Scarpe da Running Donna Scarpe Ginnastica Corsa Sportive Sneakers Traspiranti Leggero Air Scarpe Camminata Jogging Trail Gym Fitness Tennis all'Aperto (Lauf-T2, 39EU)",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Sneakers Uomo Scarpe Estive Ginnastica Uomo Sportive Trail Running Trekking Tennis Scrapa da Lavoro Comode Grigio 42",
-        "merchant": "amazon",
-        "ean": "0716013304751",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "JOMIX Scarpe da Ginnastica Uomo Sneaker Sportive Corsa Running Sneakers Casual Traspirante per Correre Camminare Trail Trekking SU138-13 (Bianco, 43)",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "ASOCO DREAM Scarpe da Trail Running Uomo Scarpe da Passeggio Leggero Traspirante Scarpe da Ginnastica Antiscivolo Fitness Running Sneakers,Nero Grigio,39 EU",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "CustomSolo Maglietta Personalizzata con Foto e Testo, Unisex Doppia Faccia T-Shirt Personalizzata per Uomo e Donna, Maglia Personalizzata per Regali, Compleanni, Famiglia, Logo Azi",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "fashwork Maglietta Personalizzata Uomo Donna, T-Shirt Personalizzabile con Stampa Foto, Scritta o Logo Fronte Retro, Maglia Manica Corta in 100% Cotone per Regali Personalizzati Bi",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
       }
     ],
     "migliori-sneakers": [
+      {
+        "title": "Banlieue The Runner Uomo - Sneakers Bianco - Taglia 40.5 - Scamosciato",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Banlieue The Runner Uomo - Sneakers Bianco - Taglia 45 - Scamosciato",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Banlieue The Runner Uomo - Sneakers Bianco - Taglia 42 - Scamosciato",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Banlieue The Runner Uomo - Sneakers Bianco - Taglia 46 - Scamosciato",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Banlieue The Runner Uomo - Sneakers Bianco - Taglia 44 - Scamosciato",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
@@ -3106,44 +3148,16 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "Puma Speedcat Uomo Sneakers Blu Taglia 40.5 Scamosciato",
-        "merchant": "footlocker",
-        "ean": "4069161298790",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Banlieue The Runner Uomo Sneakers Bianco Taglia 40 Scamosciato",
-        "merchant": "footlocker",
-        "ean": "7435117836816",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Banlieue The Runner Uomo Sneakers Bianco Taglia 40.5 Scamosciato",
-        "merchant": "footlocker",
-        "ean": "7435111560557",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Banlieue The Runner Uomo Sneakers Bianco Taglia 41 Scamosciato",
-        "merchant": "footlocker",
-        "ean": "7435115916954",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Banlieue The Runner Uomo Sneakers Bianco Taglia 42 Scamosciato",
-        "merchant": "footlocker",
-        "ean": "7435107961986",
-        "mpn": "",
-        "status": "da_verificare"
       }
     ],
     "lavapavimenti-elettriche": [
+      {
+        "title": "Bissell Lavapavimenti CrossWave HF3 Cordless Select",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Tineco Floor ONE S7 Stretch Ultra Lavapavimenti aspirapolvere senza fili | Fino a 50 minuti di autonomia, MHCBS, FlashDry",
         "merchant": "amazon",
@@ -3296,13 +3310,6 @@
         "merchant": "unieuro",
         "ean": "3221616130012",
         "mpn": "GZ5035",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Bissell Lavapavimenti CrossWave HF3 Cordless Select",
-        "merchant": "unieuro",
-        "ean": "0011120271638",
-        "mpn": "3639N",
         "status": "da_verificare"
       },
       {
