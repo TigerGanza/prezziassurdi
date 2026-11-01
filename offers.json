@@ -1,5 +1,22 @@
 [
   {
+    "asin": "B0GZQYK999",
+    "title": "Fabuloso Ammorbidente Concentrato Magnolia & Lavanda, 1,9L | Ammorbidente profumato per lavatrice, Fragranza che dura per settimane, Rende i capi più facili da stirare, Per 86 lavaggi",
+    "price": 14.42,
+    "old_price": 29.99,
+    "discount": 52.0,
+    "image": "https://m.media-amazon.com/images/I/510m8naN-sL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0GZQYK999?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "profumi",
+    "macro_group": "cura_persona",
+    "seasonal_title": "",
+    "published_at": "2026-11-01T15:56:12.848545+01:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B0HJWDR4WC",
     "title": "Mini CarPlay Wireless e Android Auto per Navigazione GPS Auto | Design in Fibra di Carbonio, USB-A/C Dorato, Connessione Rapida e Stabile, Compatibile con Apple iOS 10+ e Android 11+",
     "price": 28.49,
@@ -1889,63 +1906,5 @@
     "source_external_id": "",
     "quality_status": "ready",
     "quality_issues": []
-  },
-  {
-    "asin": "W1B3D3A566",
-    "title": "LG GBBS726CMB Frigorifero combinato Fit & Max 60cm, Classe C, 375L, AI Inverter, Metal Sorbet",
-    "price": 699.9,
-    "old_price": 1649.0,
-    "discount": 57.6,
-    "image": "https://www.unieuro.it/medias/sys_master/root/he7/h1a/52000348766238/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-88220a438538544c16b0643e7002c5a2-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-    "url": "https://www.awin1.com/pclick.php?p=43267772319&a=3086723&m=10139",
-    "category": "cucina",
-    "macro_group": "awin_discovery",
-    "seasonal_title": "Offerta Unieuro",
-    "published_at": "2026-11-01T07:41:11.917783+01:00",
-    "source_merchant": "unieuro",
-    "source_external_id": "GOLGBBS726CMB",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "unieuro",
-        "merchant_name": "Unieuro",
-        "merchant_id": "10139",
-        "product_id": "GOLGBBS726CMB",
-        "awin_product_id": "43267772319",
-        "title": "LG GBBS726CMB Frigorifero combinato Fit & Max 60cm, Classe C, 375L, AI Inverter, Metal Sorbet",
-        "brand": "LG",
-        "ean": "8806096627587",
-        "mpn": "GBBS726CMBAMBQEUZ",
-        "price": 699.9,
-        "old_price": 1649.0,
-        "discount": 57.6,
-        "image": "https://www.unieuro.it/medias/sys_master/root/he7/h1a/52000348766238/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-88220a438538544c16b0643e7002c5a2-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-        "url": "https://www.awin1.com/pclick.php?p=43267772319&a=3086723&m=10139",
-        "category": "Frigoriferi",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {
-          "volume_ml": 375000.0,
-          "length_mm": 600.0
-        }
-      },
-      {
-        "merchant": "amazon",
-        "merchant_name": "Amazon",
-        "price": 635.08,
-        "old_price": null,
-        "discount": null,
-        "url": "https://www.amazon.it/dp/B0GR1J8LW2?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-        "title": "LG GBBS726CMB Frigorifero Combinato Classe A, 375L, Larghezza 60cm | Raffreddamento Ottimizzato con AI Saving, Total No Frost, Door e Linear Cooling, Smart Inverter, Wi-Fi, Metal Sorbet",
-        "image": "https://m.media-amazon.com/images/I/31ENdMUOSZL._SL500_.jpg"
-      }
-    ],
-    "merchant_match_score": 100,
-    "merchant_ean": "8806096627587",
-    "merchant_prices_checked_at": "2026-11-01T15:17:06.447575+01:00",
-    "availability": "in_stock",
-    "price_observed_at": "2026-11-01T15:17:06.447575+01:00"
   }
 ]
