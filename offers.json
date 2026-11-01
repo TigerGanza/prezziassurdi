@@ -1,5 +1,39 @@
 [
   {
+    "asin": "B084BRS4QV",
+    "title": "Birra Messina Cristalli di Sale, Con gusto morbido ed equilibrato, Cassa 15 x 50 cl, 5% vol",
+    "price": 19.35,
+    "old_price": 26.85,
+    "discount": 28.0,
+    "image": "https://m.media-amazon.com/images/I/51WO1VK47ZL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B084BRS4QV?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "birre",
+    "macro_group": "spesa_bevande",
+    "seasonal_title": "",
+    "published_at": "2026-11-01T19:40:52.035961+01:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
+    "asin": "B003OSUDOS",
+    "title": "EASTPAK Out of Office Zaino 27L (44 x 29,5 x 22 cm), scomparto laptop 13–15”, zaino scuola e lavoro resistente e idrorepellente con spallacci imbottiti - BLACK",
+    "price": 51.99,
+    "old_price": 67.0,
+    "discount": 22.0,
+    "image": "https://m.media-amazon.com/images/I/31gFHbsJS+L._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B003OSUDOS?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "scuola",
+    "macro_group": "tempo_libero",
+    "seasonal_title": "",
+    "published_at": "2026-11-01T19:40:44.077812+01:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B0CP33HQ1Q",
     "title": "iVoler Cover per Samsung Galaxy Xcover 7 con 2 Pezzi Vetro Temperato, [Antiurto di Grado Militare] Protettiva Custodia, Sottile Morbida in Silicone TPU Anti-Graffio Case, Nero",
     "price": 9.95,
@@ -1722,67 +1756,5 @@
     "source_external_id": "",
     "quality_status": "ready",
     "quality_issues": []
-  },
-  {
-    "asin": "B0BLSSKW2S",
-    "title": "Brelley Cuscino Massaggiante Shiatsu per Collo, Nero | Con Testina Massaggiante Rotante e Funzione Riscaldante, Alleviare il Dolore Muscolare, Adatto a Casa Ufficio Come Regalo",
-    "price": 35.99,
-    "old_price": 45.99,
-    "discount": 22.0,
-    "image": "https://m.media-amazon.com/images/I/415h+Vm4qxL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0BLSSKW2S?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "salute",
-    "macro_group": "cura_persona",
-    "seasonal_title": "",
-    "published_at": "2026-11-01T12:40:45.961329+01:00",
-    "source_merchant": "amazon",
-    "source_external_id": "",
-    "quality_status": "ready",
-    "quality_issues": []
-  },
-  {
-    "asin": "B07S6PC5NV",
-    "title": "G3 Ferrari G10032 Pizzeria Snack Napoletana Forno Pizza Plus Evo, Doppia Pietra Refrattaria, Diametro 31 cm, 1200 W, Palette e ricettario inclusi, Rosso",
-    "price": 83.99,
-    "old_price": 139.9,
-    "discount": 40.0,
-    "image": "https://m.media-amazon.com/images/I/416iv-cawrL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B07S6PC5NV?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "pizza",
-    "macro_group": "tempo_libero",
-    "seasonal_title": "",
-    "published_at": "2026-11-01T12:25:45.562973+01:00",
-    "source_merchant": "amazon",
-    "source_external_id": "",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "mediaworld",
-        "merchant_name": "MediaWorld",
-        "merchant_id": "18529",
-        "product_id": "169255",
-        "awin_product_id": "36732113524",
-        "title": "FORNETTO ELETTRICO G3 FERRARI Forno Pizza Napoletana, Assorbimento max 1200 W",
-        "brand": "G3 FERRARI",
-        "ean": "8056095873533",
-        "mpn": "G10032",
-        "price": 92.99,
-        "old_price": 101.99,
-        "discount": 8.8,
-        "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_91071558/fee_786_587_png",
-        "url": "https://www.awin1.com/pclick.php?p=36732113524&a=3086723&m=18529",
-        "category": "Piccoli Elettrodomestici da Cucina e Caffè;Cottura cibi;Fornetti elettrici",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {
-          "power_w": 1200.0
-        }
-      }
-    ],
-    "merchant_match_score": 100,
-    "merchant_ean": "8056095873533",
-    "merchant_prices_checked_at": "2026-11-01T12:02:50.622336+01:00"
   }
 ]
