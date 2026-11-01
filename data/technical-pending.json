@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-01T23:01:24+01:00",
+  "generated_at": "2026-11-02T00:31:25+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -1799,20 +1799,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Sony WF-C510 Auricolari True Wireless | In-Ear, Auricolari, Bluetooth, Multipoint, Suono Ambiente, IPX4, 22 h di Autonomia, iOS e Android, Giallo",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Sony WF-C510 Auricolari True Wireless | Auricolari In-Ear Bluetooth, multipoint, modalità trasparenza, IPX4, 22h di autonomia, iOS/Android, Blu",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "VoKinroad Cuffie Wireless Bluetooth Over Ear, Cuscinetti Magnetici Rimovibili con 2 Set Extra, Con ANC,80 Ore di Autonomia, Ricarica Rapida Type-C, Controllo Touch, Comode per Viag",
         "merchant": "amazon",
         "ean": "0716842839394",
@@ -1985,6 +1971,13 @@
         "merchant": "unieuro",
         "ean": "8018080424007",
         "mpn": "BTSEEKTWSW",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Apple Beats Studio Pro Auricolare Con cavo e senza cavo A Padiglione Musica e Chiamate USB tipo C Bluetooth Nero",
+        "merchant": "unieuro",
+        "ean": "0194253715122",
+        "mpn": "MNSMQTP3ZM/A",
         "status": "da_verificare"
       }
     ],
