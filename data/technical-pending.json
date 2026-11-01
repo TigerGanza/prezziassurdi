@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-01T05:36:22+01:00",
+  "generated_at": "2026-11-01T07:06:23+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -381,13 +381,6 @@
     ],
     "tv-in-offerta": [
       {
-        "title": "Hisense Smart TV QLED 43\" 4K TV 43E7DS | Audio Dolby Atmos, VIDAA OS, Dolby Vision IQ, HDR 10+, Game Mode, Bluetooth, Wifi, Alexa, AirPlay2, lativù 4K, 2026 Model",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Xiaomi TV F Pro 32 2025, 32 pollici (81 cm), QLED, Smart TV, Fire TV, Triple Tuner DVB-C/S/S2/T/T2,Dolby Audio, DTS Virtual:X, DTS-HD, Controllo Vocale Alexa, Compatibile con Apple",
         "merchant": "amazon",
         "ean": "6941948706361",
@@ -440,6 +433,13 @@
         "title": "LG NANO AI UHD 43 Pollici, Serie NU8E 2026 Smart TV 4K - 43NU8E0B3LA | Processore con Nano Detail Enhancer, AI Chatbot, AI Concierge, HDR10 Pro, Filmmaker Mode, Design Linear Flow,",
         "merchant": "amazon",
         "ean": "8806096877395",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Hisense Smart TV QLED 43\" 4K TV 43E7DS | Audio Dolby Atmos, VIDAA OS, Dolby Vision IQ, HDR 10+, Game Mode, Bluetooth, Wifi, Alexa, AirPlay2, lativù 4K, 2026 Model",
+        "merchant": "amazon",
+        "ean": "6942351430966",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -1098,15 +1098,8 @@
     ],
     "migliori-monitor": [
       {
-        "title": "Dell 27 Plus USB-C Monitor - S2725DC, QHD (2560x1440), 144Hz, IPS, 1ms MPRT | AMD FreeSync, Regolabile in Altezza, Altoparlanti integrati, 2 USB-C, DisplayPort, HDMI, 2 USB-A, 3 An",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "AOC 24B31H - Monitor Full HD da 24 pollici, 120 Hz, sincronizzazione adattiva dell'immagine 1920x1080, 1x D-Sub, 1x HDMI 1.4 nero, 24 inch FHD IPS, 100 Hz, No Altoparlanti",
-        "merchant": "amazon",
+        "title": "OMEN by HP Monitor da gaming 27'' FHD 240 Hz – OMEN 27s",
+        "merchant": "unieuro",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
@@ -1157,6 +1150,13 @@
         "title": "AOC Gaming Monitor Q27B36X 27 pollici 2560x1440, WQHD, 144Hz, IPS Panel, 4ms GtG, (HDMI1x 2.0 DP 1x 1.4) HDR10, Nero",
         "merchant": "amazon",
         "ean": "4038986183208",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Dell 27 Plus USB-C Monitor - S2725DC, QHD (2560x1440), 144Hz, IPS, 1ms MPRT | AMD FreeSync, Regolabile in Altezza, Altoparlanti integrati, 2 USB-C, DisplayPort, HDMI, 2 USB-A, 3 An",
+        "merchant": "amazon",
+        "ean": "5397184963005",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -1264,13 +1264,6 @@
         "ean": "8806094796315",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "OMEN by HP Monitor da gaming 27'' FHD 240 Hz – OMEN 27s",
-        "merchant": "unieuro",
-        "ean": "0197029615466",
-        "mpn": "780G5AAABB",
-        "status": "da_verificare"
       }
     ],
     "migliori-smartwatch": [
@@ -1283,20 +1276,6 @@
       },
       {
         "title": "AcclaFit Smartwatch Uomo Donna, 1.85\" Orologio Smartwatch con Effettua/Risposta Chiamate, 113 Sportive Smart Watch con Contapassi/SpO2/Sonno/Cardiofrequenzimetro, Impermeabil IP68 ",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Amazfit Smart Scale, Bilancia Pesa Persona Digitale Bilancia Pesapersone Impedenziometrica con 16 Indici di Misurazione Massa Grassa, Massa Magra e Metabolismo Basale, App per IOS ",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Smartwatch Uomo GPS, 1.43\" AMOLED Militari Orologio Smartwatch con Chiamate Bluetooth, 5 ATM Smart Watch con Sonno/Cardiofrequenzimetro/Torcia/Bussola, 160+ Sportive Fitness Tracke",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -1340,6 +1319,13 @@
       {
         "title": "GPS Smartwatch Uomo Orologio con Chiamate: 1,46\" Grande Schermo Tondo Militare Smart Watch Fitness Sport Bussola Torcia Cardiofrequenzimetro Pressione Sonno Impermeabile Salute Oro",
         "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Smartwatch Uomo GPS, 1.43\" AMOLED Militari Orologio Smartwatch con Chiamate Bluetooth, 5 ATM Smart Watch con Sonno/Cardiofrequenzimetro/Torcia/Bussola, 160+ Sportive Fitness Tracke",
+        "merchant": "amazon",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
@@ -1482,6 +1468,13 @@
         "merchant": "unieuro",
         "ean": "8806095084176",
         "mpn": "SM-R960NZKAITV",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Apple Watch Series 10 Serie 10 GPS + Cellular 46mm Cassa in Titanio color Ardesia con Loop in maglia milanese ardesia S/M",
+        "merchant": "unieuro",
+        "ean": "0195949896538",
+        "mpn": "APLMC7R4QL/A",
         "status": "da_verificare"
       }
     ],
@@ -2104,6 +2097,20 @@
     ],
     "aspirapolvere-senza-fili-in-offerta": [
       {
+        "title": "Dyson V10 Konical Aspirapolvere Senza Fili Potente, Scopa Elettrica a Mano | Scopa elettrica senza fili e senza sacco. 150 AW¹, fino a 60 min di autonomia², filtrazione HEPA, coni ",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Dyson V8 Cyclone Aspirapolvere Senza Filo, 60 Minuti, Potenza 150 AW | Spazzola Motorbar Anti Groviglio, Accessori Combinati e Stazione di Ricarica a Muro 2026, Colore Argento e Ni",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Aspirapolvere Senza Fili Scopa Elettrica - Potente Filo Batteria Cordless Vacuum Cleaner Scope Elettriche Sacco Portatile Ciclonico Silenzioso per Divano Tappeti Parquet Pavimenti ",
         "merchant": "amazon",
         "ean": "",
@@ -2128,13 +2135,6 @@
         "title": "Aspirapolvere Senza Filo 55KPA 650W 80Mins,Scopa Elettrica Senza Fili | Aspirapolvere Senza Filo 1,8 L,Aspirapolvere Potente Antigroviglio/Display LED/8 Stadi Filtrat,Per Animali/P",
         "merchant": "amazon",
         "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Dyson V8 Cyclone Aspirapolvere Senza Filo, 60 Minuti, Potenza 150 AW | Spazzola Motorbar Anti Groviglio, Accessori Combinati e Stazione di Ricarica a Muro 2026, Colore Argento e Ni",
-        "merchant": "amazon",
-        "ean": "5025155136195",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -2388,6 +2388,13 @@
     ],
     "migliori-frigoriferi": [
       {
+        "title": "Samsung Frigorifero Combinato EcoFlex AI 2m 390L RB38C774DSA",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "BEKO RCSA300K40GN - Frigorifero Combinato Libera Installazione 291 Litri, 4 Ripiani in Vetro, Frigo con Congelatore 3 Cassetti, Elettrodomestici Cucina, Classe E, 54L x 181,4H x 57",
         "merchant": "",
         "ean": "",
@@ -2589,13 +2596,6 @@
         "ean": "8806094914245",
         "mpn": "RT38CG6624S9ES",
         "status": "da_verificare"
-      },
-      {
-        "title": "Samsung Frigorifero Combinato EcoFlex AI 2m 390L RB38C774DSA",
-        "merchant": "unieuro",
-        "ean": "8806094990324",
-        "mpn": "RB38C774DSA/EF",
-        "status": "da_verificare"
       }
     ],
     "friggitrici-ad-aria-offerte-confronto": [
@@ -2721,7 +2721,14 @@
     ],
     "migliori-moda": [
       {
-        "title": "Smart Tracker Tags 4 Pezzi, Funziona con Apple Dov'è (Solo iOS), Localizzatore Bluetooth Trova Oggetti 365 Giorni, Batteria Sostituibile, Impermeabile IP67, Chiavi/Portafoglio/Baga",
+        "title": "Crep Protect Foam X Unisex - Cura delle Sneakers Nero - One Size - Metal",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "PUMA Scarpe da Calcio Unisex Future 9 Play TT, Glowing Red PUMA White PUMA Black PUMA Silver, 44 EU",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -2920,13 +2927,6 @@
         "title": "fashwork Maglietta Personalizzata Uomo Donna, T-Shirt Personalizzabile con Stampa Foto, Scritta o Logo Fronte Retro, Maglia Manica Corta in 100% Cotone per Regali Personalizzati Bi",
         "merchant": "amazon",
         "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "JOPHY & CO. T-Shirt Personalizzabile in Cotone, Maglietta Personalizzata con Stampa per Uomo e Donna, Idea Regalo Originale (IT, Testo, L, Regular, Regular, Nero)",
-        "merchant": "amazon",
-        "ean": "8054346377250",
         "mpn": "",
         "status": "da_verificare"
       }
