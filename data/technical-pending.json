@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-02T18:31:25+01:00",
+  "generated_at": "2026-11-02T20:06:24+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -693,6 +693,13 @@
     ],
     "migliori-notebook": [
       {
+        "title": "Apple 2024 MacBook Pro Portatile con chip M4 Max, CPU 14 core e GPU 32 core: display Liquid Retina XDR 16,2\", 36GB di memoria unificata, 1TB di archiviazione SSD; color Nero sidera",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "ASUS Vivobook 16 F1605VA#B0FZL8JLW9, Notebook con display 16\" Anti-glare, 60Hz,Intel® Core™ 9 Processor 270H,RAM 16GB, 1TB SSD, WIN11 Home, Argento",
         "merchant": "",
         "ean": "",
@@ -1005,21 +1012,21 @@
     ],
     "migliori-tablet": [
       {
-        "title": "Samsung Galaxy Tab A11+, WiFi, 6GB RAM, 128GB | Tablet Android, Design compatto, 8.7\" 90Hz Display, Silver [versione Italiana]",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Samsung Galaxy Tab A11+, Wi-Fi, 8GB RAM, 256GB | Tablet Android, 11\" 90Hz Dispaly, Silver [Versione italiana]",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Tablet Android da 11 Pollici, Octa-Core, 24GB(4+20) RAM+128GB Memoria, Batteria 8200mAh, Widevine L1, Espandibile fino a 1TB, Doppia Fotocamera, Android Tablet per Studio, Lavoro e",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Samsung Galaxy Tab A11+, Wi-Fi, 8GB RAM, 256GB",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Samsung Galaxy Tab A11+, WiFi, 6GB RAM, 128GB",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -1841,6 +1848,20 @@
     ],
     "cuffie-bluetooth-in-offerta": [
       {
+        "title": "Logitech G G335, cuffia gaming cablata con microfono flip-to-mute | Jack 3,5 mm, memory foam, leggera, per PC, PlayStation, Xbox, Nintendo Switch/Switch 2 - Nero",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "GXTrust Forta Cuffie PS5 Cablate Licenza Ufficiale PlayStation 5, Bianco | Driver 50 mm, Audio 3D, Jack Audio 3.5 mm, Cavo da 1,2 m, Microfono Staccabile",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "VoKinroad Cuffie Wireless Bluetooth Over Ear, Cuscinetti Magnetici Rimovibili con 2 Set Extra, Con ANC,80 Ore di Autonomia, Ricarica Rapida Type-C, Controllo Touch, Comode per Viag",
         "merchant": "amazon",
         "ean": "0716842839394",
@@ -2223,13 +2244,6 @@
     ],
     "aspirapolvere-senza-fili-in-offerta": [
       {
-        "title": "FAMIVAC FV2 Aspirapolvere con Filo 65 kPa/600W, Spazzola per Materassi | 1,3KG Ultra-Leggero; Cavo 7M; Serbatoio 1,5 L; spazzola antigroviglio; autoportante; tappeti, pavimenti e p",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Aspirapolvere Senza Fili Scopa Elettrica - Potente Filo Batteria Cordless Vacuum Cleaner Scope Elettriche Sacco Portatile Ciclonico Silenzioso per Divano Tappeti Parquet Pavimenti ",
         "merchant": "amazon",
         "ean": "",
@@ -2316,6 +2330,20 @@
     ],
     "migliori-lavatrici": [
       {
+        "title": "COMFEE' Lavatrice 9 kg Classe A1400 Giri Motore Inverter Silenzioso | Vapore Igienico, Wool, Lavaggio Rapido e Pannello Touch per Famiglie e Grandi Carichi di Bucato CFP03EW90W-IT",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Candy Smart Lavatrice 9 Kg, 1200 Giri, Classe B, Bianca | Cicli Rapidi, NFC, Connessa, 16 Programmi, Partenza Ritardata, App hOn, 60x52x85 cm, CSS 129TW4-11",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Hisense WF1G7021BW – Lavatrice Slim a Carica Frontale 7 kg, Classe B, Vapore, Allergy Care, 15 Programmi, Motore Inverter, Quick Wash 15’, Pulizia Cestello, Display LED, Bianco",
         "merchant": "amazon",
         "ean": "",
@@ -2358,13 +2386,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Candy Smart Lavatrice 9 Kg, 1200 Giri, Classe B, Bianca",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Samsung WW90J5355FW Lavatrice 9 kg, 1200 Giri, Classe A+++, EcoBubble, Carica Frontale, Lavatrice a Libera Installazione, Bianca",
         "merchant": "",
         "ean": "",
@@ -2382,13 +2403,6 @@
         "title": "LG F4R709TAIDD Lavatrice 9 kg Serie R7, Classe A-10%, AI DD, Wi-Fi | 1400 Giri, TurboWash 360, Vapore su 7 Programmi, Allergy Care, Oblò in Vetro Temperato, Direct Drive, Bianca",
         "merchant": "amazon",
         "ean": "8806084274670",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "COMFEE' Lavatrice 9 kg Classe A1400 Giri Motore Inverter Silenzioso | Vapore Igienico, Wool, Lavaggio Rapido e Pannello Touch per Famiglie e Grandi Carichi di Bucato CFP03EW90W-IT",
-        "merchant": "amazon",
-        "ean": "6945878356726",
         "mpn": "",
         "status": "da_verificare"
       },
