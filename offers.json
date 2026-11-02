@@ -1,5 +1,22 @@
 [
   {
+    "asin": "B0F457M449",
+    "title": "Xiaomi TV F Pro 32 2025, 32 pollici (81 cm), QLED, Smart TV, Fire TV, Triple Tuner DVB-C/S/S2/T/T2,Dolby Audio, DTS Virtual:X, DTS-HD, Controllo Vocale Alexa, Compatibile con Apple AirPlay",
+    "price": 129.99,
+    "old_price": 179.0,
+    "discount": 27.0,
+    "image": "https://m.media-amazon.com/images/I/41r8k59S1mL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0F457M449?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "tv_premium",
+    "macro_group": "tech",
+    "seasonal_title": "",
+    "published_at": "2026-11-02T16:20:51.451087+01:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B0BS41731X",
     "title": "Philips 7000 Ferro da Stiro a Vapore, 2800 W, Colpo Vapore 250g | Serbatoio 300ml, Sistema anticalcare integrato, Vapore continuo 50 g/min, blu/azzurro (DST7020/20)",
     "price": 54.99,
@@ -1648,9 +1665,9 @@
     ],
     "merchant_match_score": 100,
     "merchant_ean": "4069161298790",
-    "merchant_prices_checked_at": "2026-11-02T15:03:13.347154+01:00",
+    "merchant_prices_checked_at": "2026-11-02T16:22:45.799950+01:00",
     "availability": "in_stock",
-    "price_observed_at": "2026-11-02T15:03:13.347154+01:00"
+    "price_observed_at": "2026-11-02T16:22:45.799950+01:00"
   },
   {
     "asin": "W2F5DD5E67",
@@ -1693,9 +1710,9 @@
     ],
     "merchant_match_score": 100,
     "merchant_ean": "0636980785844",
-    "merchant_prices_checked_at": "2026-11-02T15:03:13.347154+01:00",
+    "merchant_prices_checked_at": "2026-11-02T16:22:45.799950+01:00",
     "availability": "in_stock",
-    "price_observed_at": "2026-11-02T15:03:13.347154+01:00"
+    "price_observed_at": "2026-11-02T16:22:45.799950+01:00"
   },
   {
     "asin": "WFDECC6899",
@@ -1746,9 +1763,9 @@
     ],
     "merchant_match_score": 100,
     "merchant_ean": "8718718049502",
-    "merchant_prices_checked_at": "2026-11-02T15:03:13.347154+01:00",
+    "merchant_prices_checked_at": "2026-11-02T16:22:45.799950+01:00",
     "availability": "in_stock",
-    "price_observed_at": "2026-11-02T15:03:13.347154+01:00"
+    "price_observed_at": "2026-11-02T16:22:45.799950+01:00"
   },
   {
     "asin": "B0GQL9JZS7",
@@ -1834,58 +1851,5 @@
     "source_external_id": "",
     "quality_status": "ready",
     "quality_issues": []
-  },
-  {
-    "asin": "W6C3C9DB17",
-    "title": "New Balance Ankle 3 Pack Unisex - Calze Verde - Taglia 39-42 - Algodón",
-    "price": 5.0,
-    "old_price": 13.99,
-    "discount": 64.3,
-    "image": "https://images.footlocker.com/is/image/FLEU/319222215441?wid=620&hei=620&fmt=png-alpha",
-    "url": "https://www.awin1.com/pclick.php?p=44328114671&a=3086723&m=23410",
-    "category": "altro",
-    "macro_group": "awin_discovery",
-    "seasonal_title": "Offerta Foot Locker",
-    "published_at": "2026-11-02T07:41:26.723662+01:00",
-    "source_merchant": "footlocker",
-    "source_external_id": "319222215441930",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "footlocker",
-        "merchant_name": "Foot Locker",
-        "merchant_id": "23410",
-        "product_id": "319222215441930",
-        "awin_product_id": "44328114671",
-        "title": "New Balance Ankle 3 Pack Unisex - Calze Verde - Taglia 39-42 - Algodón",
-        "brand": "New Balance",
-        "ean": "8718718049496",
-        "mpn": "",
-        "price": 5.0,
-        "old_price": 13.99,
-        "discount": 64.3,
-        "image": "https://images.footlocker.com/is/image/FLEU/319222215441?wid=620&hei=620&fmt=png-alpha",
-        "url": "https://www.awin1.com/pclick.php?p=44328114671&a=3086723&m=23410",
-        "category": "Accessori",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {
-          "color": "Green",
-          "size": "39-42",
-          "condition": "new",
-          "gender": "unisex",
-          "fashion_group_key": "1c666a95ba193e5b1ef534a4",
-          "fashion_group_title": "New Balance Ankle 3 Pack Unisex - Calze Verde - Algodón",
-          "shipping_eur": 4.99
-        }
-      }
-    ],
-    "merchant_match_score": 100,
-    "merchant_ean": "8718718049496",
-    "merchant_prices_checked_at": "2026-11-02T15:03:13.347154+01:00",
-    "availability": "in_stock",
-    "price_observed_at": "2026-11-02T15:03:13.347154+01:00"
   }
 ]
