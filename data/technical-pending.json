@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-02T20:06:24+01:00",
+  "generated_at": "2026-11-02T21:36:24+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -1161,13 +1161,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "msi MAG 27CQ6F Monitor Gaming da 27\" WQHD Curvo - Pannello VA Rapid 1500R (2560 x 1440), 180 Hz / 0.5ms (GtG, Min.), Adaptive-Sync - DP 1.4a, HDMI 2.0b CEC",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Xiaomi Monitor G27i",
         "merchant": "",
         "ean": "",
@@ -2032,6 +2025,27 @@
     ],
     "migliori-robot-aspirapolvere": [
       {
+        "title": "roborock Q10 S5 Set Robot Aspirapolvere 10.000Pa, Panno Sollevabile, Nero | Pulizia VibraRise 2.0(3000 volte/min), Anti-groviglio, Evitamento degli Ostacoli, Strategie Tappeti, Con",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "roborock Saros 20 Robot Aspirapolvere Lavapavimenti 36.000Pa, 7,95cm | Supera Ostacoli da 8,8cm, Anti-Groviglio, Evita Oltre 300 Oggetti, Lavaggio Mocio con Acqua a 100°C, Nuovissi",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "roborock Qrevo EdgeT Robot Aspirapolvere Lavapavimenti con LDS Retrattile | 7,98 cm, Antigroviglio, Autopulizia Panno 75°C, Stazione Tutto in Uno, Modalità Tappeti, Bianco",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Lefant M210 PRO OMNI Robot Aspirapolvere Lavapavimenti con Rullo 20.000Pa",
         "merchant": "",
         "ean": "",
@@ -2219,27 +2233,6 @@
         "ean": "5061042263186",
         "mpn": "817170",
         "status": "da_verificare"
-      },
-      {
-        "title": "Ecovacs DEEBOT T50 OMNI Gen2 Robot Aspirapolvere Lavapavimenti, 21000 Pa, Spazzola Laterale Estensibile e Lavapavimenti, lavaggio con acqua calda a 75 ℃,",
-        "merchant": "unieuro",
-        "ean": "6970135037452",
-        "mpn": "T50OMNIBKGEN2",
-        "status": "da_verificare"
-      },
-      {
-        "title": "iRobot Roomba 205 Combo 2 L Senza sacchetto Nero",
-        "merchant": "unieuro",
-        "ean": "5061042263025",
-        "mpn": "817185",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Eureka J15 Ultra Robot Aspirapolvere Lavapavimenti, Potente Aspirazione 19.000 Pa, Lavaggio Mocio ad Acqua Calda a 75℃, Mappatura con AI, Pulizia Avanzat",
-        "merchant": "unieuro",
-        "ean": "6956079731205",
-        "mpn": "J15ULTRA",
-        "status": "da_verificare"
       }
     ],
     "aspirapolvere-senza-fili-in-offerta": [
@@ -2329,6 +2322,13 @@
       }
     ],
     "migliori-lavatrici": [
+      {
+        "title": "Cecotec Lavatrice 10 Kg di carico frontale Bolero DressCode 10800 Inverter Steel A. 1400 giri/min, 16 programmi, classe A, motore inverter plus, vapore SteamMax, lavaggio intellige",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "COMFEE' Lavatrice 9 kg Classe A1400 Giri Motore Inverter Silenzioso | Vapore Igienico, Wool, Lavaggio Rapido e Pannello Touch per Famiglie e Grandi Carichi di Bucato CFP03EW90W-IT",
         "merchant": "amazon",
@@ -2530,13 +2530,6 @@
         "merchant": "unieuro",
         "ean": "8806095550282",
         "mpn": "WW90DB7U34GWU3",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Samsung Lavatrice Crystal Clean 8 kg WW80CGC04DAEET",
-        "merchant": "unieuro",
-        "ean": "8806095210285",
-        "mpn": "WW80CGC04DAEET",
         "status": "da_verificare"
       }
     ],
@@ -2861,6 +2854,20 @@
     ],
     "migliori-moda": [
       {
+        "title": "Skechers Graceful Get Connected, Sneaker Donna, Black Mesh Trim, 37 EU",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Skechers Graceful Get Connected, Sneaker Donna, Black Mesh Rose Gold Trim, 42 EU",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Levi's Housemark Polo, T-shirt Uomo, Mineral Black Plus, M",
         "merchant": "amazon",
         "ean": "",
@@ -3055,23 +3062,23 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      },
+      }
+    ],
+    "migliori-sneakers": [
       {
-        "title": "CustomSolo Maglietta Personalizzata con Foto e Testo, Unisex Doppia Faccia T-Shirt Personalizzata per Uomo e Donna, Maglia Personalizzata per Regali, Compleanni, Famiglia, Logo Azi",
+        "title": "Skechers Graceful Get Connected, Sneaker Donna, Black Mesh Trim, 37 EU",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "JOPHY & CO. T-Shirt Personalizzabile in Cotone, Maglietta Personalizzata con Stampa per Uomo e Donna, Idea Regalo Originale (IT, Testo, L, Regular, Regular, Nero)",
+        "title": "Skechers Graceful Get Connected, Sneaker Donna, Black Mesh Rose Gold Trim, 42 EU",
         "merchant": "amazon",
-        "ean": "8054346377250",
+        "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      }
-    ],
-    "migliori-sneakers": [
+      },
       {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
@@ -3265,20 +3272,6 @@
         "title": "Banlieue The Runner Uomo Sneakers Bianco Taglia 41 Scamosciato",
         "merchant": "footlocker",
         "ean": "7435115916954",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Banlieue The Runner Uomo Sneakers Bianco Taglia 42 Scamosciato",
-        "merchant": "footlocker",
-        "ean": "7435107961986",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Banlieue The Runner Uomo Sneakers Bianco Taglia 42.5 Scamosciato",
-        "merchant": "footlocker",
-        "ean": "7435108526559",
         "mpn": "",
         "status": "da_verificare"
       }
