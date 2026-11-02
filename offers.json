@@ -1,5 +1,22 @@
 [
   {
+    "asin": "B0C6YDHZDH",
+    "title": "Stylophone Pink - Il sintetizzatore elettronico tascabile originale - Edizione speciale | Strumento musicale sintetizzatore | Tastiera sintetizzatore | Strumento penna",
+    "price": 34.95,
+    "old_price": 46.44,
+    "discount": 25.0,
+    "image": "https://m.media-amazon.com/images/I/51ExI3pcopL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0C6YDHZDH?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "audio_studio",
+    "macro_group": "tech",
+    "seasonal_title": "",
+    "published_at": "2026-11-02T18:05:44.609331+01:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B07NVVWY6X",
     "title": "Caffè Borbone Miscela Rossa - 90 capsule - Compatibili con le Macchine a marchio Nescafè®* Dolce Gusto®*",
     "price": 18.9,
@@ -1709,48 +1726,5 @@
     "source_external_id": "",
     "quality_status": "ready",
     "quality_issues": []
-  },
-  {
-    "asin": "B0GR6SXXNM",
-    "title": "Hisense Smart TV QLED 144Hz 75\" 4K 75E7S PRO | Audio Dolby Atmos, VIDAA OS, Native 144Hz Game Mode, Dolby Vision IQ, HDR 10+, AirPlay2, Alexa, lativù 4K, 2026 Model",
-    "price": 849.9,
-    "old_price": 1299.0,
-    "discount": 35.0,
-    "image": "https://m.media-amazon.com/images/I/413OmM48TbL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0GR6SXXNM?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "tv_premium",
-    "macro_group": "tech",
-    "seasonal_title": "",
-    "published_at": "2026-11-02T08:25:45.527474+01:00",
-    "source_merchant": "amazon",
-    "source_external_id": "",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "unieuro",
-        "merchant_name": "Unieuro",
-        "merchant_id": "10139",
-        "product_id": "HIS75Q7S",
-        "awin_product_id": "44558202729",
-        "title": "Hisense Smart TV QLED 75'' 4K TV 75Q7S, 60Hz, Audio Dolby Atmos, VIDAA OS con 1000+ APP, Dolby Vision IQ, HDR 10+, Game Mode Plus, Bluetooth, Wifi, Alexa",
-        "brand": "Hisense",
-        "ean": "6942351431864",
-        "mpn": "75Q7S",
-        "price": 699.9,
-        "old_price": 1199.0,
-        "discount": 41.6,
-        "image": "https://www.unieuro.it/medias/sys_master/root/h20/h89/64828761571358/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-05476d6e3fdafc70dbee4d66b72610f2-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-        "url": "https://www.awin1.com/pclick.php?p=44558202729&a=3086723&m=10139",
-        "category": "TV QLED",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {}
-      }
-    ],
-    "merchant_match_score": 94,
-    "merchant_ean": "6942351431864",
-    "merchant_prices_checked_at": "2026-11-02T08:23:10.315329+01:00"
   }
 ]
