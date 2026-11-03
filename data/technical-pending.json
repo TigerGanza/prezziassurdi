@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-03T13:11:24+01:00",
+  "generated_at": "2026-11-03T14:36:25+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -989,21 +989,14 @@
         "status": "da_verificare"
       },
       {
-        "title": "SOYO Y5, mini PC con processore Intel Core i7 8650U (cache ad alta velocità da 8 MB, fino a 4,20 GHz), 16 GB di RAM LPDDR4, SSD M.2 da 512 GB, supporto per tre display 4K, Wi Fi 5/",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "SOYO M5 Mini PC AMD Ryzen 3 4300U LPDDR4 16GB RAM 512GB ROM Windows 11 Pro Mini Computer Desktop con Doppia Uscita 4K Multi Schermo, WiFi, Bluetooth, LAN Gigabit, Type C, Micro PC ",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Mini PC Gaming Desktop Windows 11 Pro Intel Core I9 10980HK Mini PC 16GB DDR4 1TB SSD Computer per Gamer Dual WIFI 6 BT5.2 4K HD",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "SOYO Y5, mini PC con processore Intel Core i7 8650U (cache ad alta velocità da 8 MB, fino a 4,20 GHz), 16 GB di RAM LPDDR4, SSD M.2 da 512 GB, supporto per tre display 4K, Wi Fi 5/",
         "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
@@ -1145,6 +1138,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "Tablet Teclast P50T Android 16 Gemini AI 32GB(4+28GB) RAM 128GB(fino a 1TB) ROM T610 8 core 11\" 90Hz 8000mAh Type C Widevine L1 GPS",
+        "merchant": "aliexpress",
+        "ean": "6940709680414",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Tablet Teclast P50 2026, Display IPS HD da 11 Pollici, 12GB RAM (4GB + 8GB), 128GB ROM, Processore Octa Core Unisoc T606, Android 16, WiFi Dual Band, Bluetooth 5.0, Batteria 7000mA",
         "merchant": "aliexpress",
         "ean": "",
@@ -1153,6 +1153,27 @@
       }
     ],
     "migliori-monitor": [
+      {
+        "title": "MSI MAG 276CFA E20 Monitor Gaming 27\" FHD Curvo 1500R, Pannello Rapid VA | 1920x1080, 200 Hz, 0,5ms (GtG), HDR Ready, AMD FreeSync Premium, Eye Care,HDMI 2.0b, DP 1.2a, Design Fram",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Lenovo L27-41 Monitor 27\" FHD (1920x1080) Frameless, IPS, 100Hz, Regolabile, Porte HDMI e VGA, Cavo HDMI incluso - Raven Black",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "AOC 27B31H - Monitor Full HD da 27 pollici, 120 Hz, sincronizzazione adattiva dell'immagine 1920x1080, 1x D-Sub, 1x HDMI 1.4 nero, 27 inch FHD IPS, 100 Hz, No Altoparlanti",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Xiaomi Monitor G27i",
         "merchant": "",
@@ -1169,13 +1190,6 @@
       },
       {
         "title": "PHILIPS 27E2N1500L 1000 Series LED-Monitor 68.6 cm (27\") - 2560 x 1440 QHD @ 75 Hz - IPS - 1000:1 - HDR10-4 ms - HDMI, DisplayPort - Schwarz (27E2N1500L/00)",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "AOC 27B31H - Monitor Full HD da 27 pollici, 120 Hz, sincronizzazione adattiva dell'immagine 1920x1080, 1x D-Sub, 1x HDMI 1.4 nero, 27 inch FHD IPS, 100 Hz, No Altoparlanti",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -1478,13 +1492,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Nuovo Smartwatch OnePlus Watch 2 con Schermo AMOLED da 1,43'', Batteria da 500mAh, Oltre 100 Modalità Sportive, 2GB+32GB, 46mm, WiFi, GPS, IP68, Google Pay",
-        "merchant": "aliexpress",
-        "ean": "6921815626626",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "HAYLOU Solar 5 Chiamate vocali Smartwatch 1.58 ''Display AMOLED 60Hz Smart Watch 24 ore Monitoraggio della salute Sport Smartwatch per uomo",
         "merchant": "aliexpress",
         "ean": "",
@@ -1499,16 +1506,16 @@
         "status": "da_verificare"
       },
       {
-        "title": "Smartwatch CMF Watch 3 Pro con Display AMOLED da 1,43 Pollici, 13 Giorni di Autonomia, Doppio GPS, Chiamate Bluetooth con Cancellazione del Rumore AI, Monitoraggio della Frequenza ",
+        "title": "Nuovo Smartwatch OnePlus Watch 2 Schermo AMOLED da 1,43'' Batteria da 500mAh 100+ Modalità Sportive 2GB+32GB 46mm WiFi GPS IP68 Google Pay",
         "merchant": "aliexpress",
-        "ean": "",
+        "ean": "6921815626626",
         "mpn": "",
         "status": "da_verificare"
       },
       {
         "title": "OnePlus Watch Lite Smartwatch con Display AMOLED da 1,46'', GPS Dual Band e Durata della Batteria fino a 10 Giorni",
         "merchant": "aliexpress",
-        "ean": "6921815630210",
+        "ean": "6921815630180",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -1516,13 +1523,6 @@
         "title": "Versione globale OnePlus Watch 3 Smartwatch da 43 mm Display AMOLED da 1,32 pollici Fino a 60 ore di durata della batteria Sistema operativo di Google GPS NFC",
         "merchant": "aliexpress",
         "ean": "6921815628989",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Nuovo arrivo OnePlus Watch 4, smartwatch OnePlus con display AMOLED da 1,5”, Snapdragon W5 Gen 1, fino a 16 giorni di autonomia, GPS, NFC, orologio intelligente da uomo.",
-        "merchant": "aliexpress",
-        "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -1538,6 +1538,20 @@
         "merchant": "unieuro",
         "ean": "8806095630595",
         "mpn": "ET-SOL31LLEGEU",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Samsung Galaxy Watch6 Classic Smartwatch Fitness Tracker Ghiera Interattiva in Acciao Inox 47mm Graphite",
+        "merchant": "unieuro",
+        "ean": "8806095084176",
+        "mpn": "SM-R960NZKAITV",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Apple Watch Series 10 Serie 10 GPS + Cellular 46mm Cassa in Titanio color Ardesia con Loop in maglia milanese ardesia S/M",
+        "merchant": "unieuro",
+        "ean": "0195949896538",
+        "mpn": "APLMC7R4QL/A",
         "status": "da_verificare"
       }
     ],
@@ -1783,16 +1797,16 @@
         "status": "da_verificare"
       },
       {
-        "title": "ULTIMEA Aura S4T 350W Soundbar 7.1ch per TV con Subwoofer, 4 Altoparlanti Surround e Staffe di Montaggio, Sistema Home Theater Surround",
+        "title": "Ultimea 410W, soundbar con audio surround virtuale 7.1, ideale per smart TV, dotata di subwoofer da 6,5 pollici e 2 altoparlanti surround, controllabile tramite app.",
         "merchant": "aliexpress",
-        "ean": "6978897889586",
+        "ean": "6978897889630",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "Ultimea 410W, soundbar con audio surround virtuale 7.1, ideale per smart TV, dotata di subwoofer da 6,5 pollici e 2 altoparlanti surround, controllabile tramite app.",
+        "title": "ULTIMEA Aura S4T 350W Soundbar 7.1ch per TV con Subwoofer, 4 Altoparlanti Surround e Staffe di Montaggio, Sistema Home Theater Surround",
         "merchant": "aliexpress",
-        "ean": "6978897889630",
+        "ean": "6978897889586",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -1840,6 +1854,13 @@
       }
     ],
     "cuffie-bluetooth-in-offerta": [
+      {
+        "title": "Moman H2S Interfono Moto Coppia 1000M Audio Multifunzione Hi-Fi Stereo | Cuffie da moto BT5.3, Dual Chip, ENC&DSP&CVC, riduzione del rumore, IPX6 impermeabili, AI, FM, Hi-Fi Stereo",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Sony WF-C510 Auricolari True Wireless | In-Ear, Auricolari, Bluetooth, Multipoint, Suono Ambiente, IPX4, 22 h di Autonomia, iOS e Android, Rosa",
         "merchant": "amazon",
@@ -1890,13 +1911,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Auricolari Bluetooth FreedConn per Casco Moto, Interfono per Comunicazione di Gruppo, Condivisione Musica, Radio FM, Comunicatore Vivavoce per Fino a 12 Motociclisti",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Eva Fruit Auricolari TWS in Ear Wireless Max Bianco",
         "merchant": "unieuro",
         "ean": "8020595642609",
@@ -1912,6 +1926,13 @@
       },
       {
         "title": "XGP moto interfono casco auricolare Bluetooth controllo vocale DSP/CVC/microfono riduzione del rumore 1000mAh accessori moto",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Auricolari Bluetooth FreedConn per Casco Moto, Interfono per Comunicazione di Gruppo, Condivisione Musica, Radio FM, Comunicatore Vivavoce per Fino a 12 Motociclisti",
         "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
@@ -2024,13 +2045,6 @@
       }
     ],
     "migliori-robot-aspirapolvere": [
-      {
-        "title": "Ecovacs DEEBOT T50 OMNI Gen2 Robot Aspirapolvere Lavapavimenti, 21000 Pa, Spazzola Laterale Estensibile e Lavapavimenti, lavaggio con acqua calda a 75 ℃,",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Lefant M210 PRO OMNI Robot Aspirapolvere Lavapavimenti con Rullo 20.000Pa",
         "merchant": "",
@@ -2165,13 +2179,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "ABIR X6PRO Robot aspirapolvere, Smart Eye System,APP Virtual Barrier, aspirazione 6000PA, Smart Home Mop, detergente per tappeti per pavimenti",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Robot Aspirapolvere ABIR X9, Doppio Lidar, Aspirazione 6500pa, Pulizia UV, Mappa Multi Piano, Area Restringibile tramite APP, Lavapavimenti Intelligente per Casa",
         "merchant": "aliexpress",
         "ean": "",
@@ -2221,6 +2228,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "Ecovacs DEEBOT T50 OMNI Gen2 Robot Aspirapolvere Lavapavimenti, 21000 Pa, Spazzola Laterale Estensibile e Lavapavimenti, lavaggio con acqua calda a 75 ℃,",
+        "merchant": "unieuro",
+        "ean": "6970135037452",
+        "mpn": "T50OMNIBKGEN2",
+        "status": "da_verificare"
+      },
+      {
         "title": "iRobot Roomba 205 Combo 2 L Senza sacchetto Nero",
         "merchant": "unieuro",
         "ean": "5061042263025",
@@ -2232,6 +2246,13 @@
         "merchant": "unieuro",
         "ean": "6956079731205",
         "mpn": "J15ULTRA",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Roborock Saros Z70 Robot Aspirapolvere e Lavapavimenti con Braccio Meccanico OmniGrip, 7,98cm Ultrasottile, Aspirazione 22.000 Pa, Tecnologia FlexiArm, T",
+        "merchant": "unieuro",
+        "ean": "6936905900760",
+        "mpn": "CN82960",
         "status": "da_verificare"
       }
     ],
@@ -2282,13 +2303,6 @@
         "title": "Aspirapolvere Senza Fili Tdyon, Potenza di Aspirazione 50000Pa, Motore da 500W con Display LED, 50 Minuti di Autonomia in Modalità Automatica e Spazzola Anti Groviglio per Tappeti ",
         "merchant": "aliexpress",
         "ean": "0669416793793",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Aspirapolvere Senza Fili V8MAX, 55KPA/50 Minuti di Autonomia, con Luce LED Verde, Spazzola Anti Groviglio a V per Peli di Animali, Tappeti",
-        "merchant": "aliexpress",
-        "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -2854,36 +2868,22 @@
     ],
     "migliori-moda": [
       {
+        "title": "Skechers Donna Go Walk Joy scarpe da ginnastica, Taupe Textile/Trim, 37 EU",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Salomon EXTEGRA Gore-Tex Impermeabili Scarpe da Escursionismo, Uomo",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "CMP Kids Rigel Mid Trekking Shoes Wp, Scarpe da trekking Unisex - Bambini e ragazzi, Graffite Marine, 38 EU",
         "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "JACK & JONES Felpa con Cappuccio con Logo",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Champion Legacy Boy - Big Logo Hoodie, Felpa con Cappuccio Bambino, Black (KK001),",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Puma LaFrance Uomo - Sneakers Rosa - Taglia 42 - Rete/Sintetico",
-        "merchant": "footlocker",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Puma LaFrance Uomo - Sneakers Rosa - Taglia 40.5 - Rete/Sintetico",
-        "merchant": "footlocker",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
@@ -3062,23 +3062,23 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
+      },
+      {
+        "title": "CustomSolo Maglietta Personalizzata con Foto e Testo, Unisex Doppia Faccia T-Shirt Personalizzata per Uomo e Donna, Maglia Personalizzata per Regali, Compleanni, Famiglia, Logo Azi",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "JOPHY & CO. T-Shirt Personalizzabile in Cotone, Maglietta Personalizzata con Stampa per Uomo e Donna, Idea Regalo Originale (IT, Testo, L, Regular, Regular, Nero)",
+        "merchant": "amazon",
+        "ean": "8054346377250",
+        "mpn": "",
+        "status": "da_verificare"
       }
     ],
     "migliori-sneakers": [
-      {
-        "title": "Puma LaFrance Uomo - Sneakers Rosa - Taglia 42 - Rete/Sintetico",
-        "merchant": "footlocker",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Puma LaFrance Uomo - Sneakers Rosa - Taglia 40.5 - Rete/Sintetico",
-        "merchant": "footlocker",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
@@ -3272,6 +3272,20 @@
         "title": "Banlieue The Runner Uomo Sneakers Bianco Taglia 40.5 Scamosciato",
         "merchant": "footlocker",
         "ean": "7435111560557",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Banlieue The Runner Uomo Sneakers Bianco Taglia 41 Scamosciato",
+        "merchant": "footlocker",
+        "ean": "7435115916954",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Banlieue The Runner Uomo Sneakers Bianco Taglia 42 Scamosciato",
+        "merchant": "footlocker",
+        "ean": "7435107961986",
         "mpn": "",
         "status": "da_verificare"
       }
