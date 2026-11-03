@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-03T21:51:23+01:00",
+  "generated_at": "2026-11-03T23:16:23+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -686,6 +686,13 @@
     ],
     "migliori-notebook": [
       {
+        "title": "ASUS Chromebook CM1405CM4A#B0GV4V3CHG, Notebook con display 14\" Anti-glare, 60Hz, processore MediaTek™ Kompanio 540, RAM 4GB, 64G eMMC, ChromeOS, Grigio",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "PC portatile da gaming da 16 pollici, R7 5825U, 16 GB RAM, SSD 1 TB | 8 core e 16 thread fino a 4,5 GHz per multitasking esigente, creazione di contenuti e giochi leggeri",
         "merchant": "amazon",
         "ean": "",
@@ -1167,6 +1174,13 @@
       }
     ],
     "migliori-monitor": [
+      {
+        "title": "ASUS VY249HGR, Eye Care Monitor da 23,8\" FHD IPS (1920 x 1080), Nero | HDMI, VGA, 1 ms (MPRT) Response Time, 120Hz, Adaptive Sync, Tecnologia EyeCare Plus, Filtro Bassa Luce Blu",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Xiaomi Monitor G27i",
         "merchant": "",
@@ -1692,6 +1706,13 @@
     ],
     "migliori-soundbar": [
       {
+        "title": "Hisense AX5125H Soundbar 5.1.2, 500W, 2 altoparlanti posteriore 2 altoparlanti upfiring 1Subwoofer Esterno wireless, Dolby Atmos e DTS:X, Bluetooth, HDMI, USB, Ingresso Audio Ottic",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Samsung Soundbar HW-B66CF/ZF Serie B, 4 Speaker, Wireless, Dolby 5.1ch, Audio a 3.1 Canali, DTS 5.1ch, Surround Sound Expansion, Voice Enhance Mode, Black, 2025",
         "merchant": "",
         "ean": "",
@@ -1700,13 +1721,6 @@
       },
       {
         "title": "TCL S55HE Soundbar 2.1, 220W, Dolby Atmos, DTS Virtual:X, subwoofer wireless, Bluetooth 5.3, HDMI eARC, USB, ottico, montaggio a parete, telecomando incluso",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Hisense AX5125H Soundbar 5.1.2, 500W, 2 altoparlanti posteriore 2 altoparlanti upfiring 1Subwoofer Esterno wireless, Dolby Atmos e DTS:X, Bluetooth, HDMI, USB, Ingresso Audio Ottic",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -2244,27 +2258,6 @@
     ],
     "aspirapolvere-senza-fili-in-offerta": [
       {
-        "title": "Vexilar Aspirapolvere Senza Fili Potente 50,000Pa/ 50 Min, V10Pro Scopa Elettrica Senza Fili Antigroviglio,Ultraleggero,Aspirapolvere Senza Sacco per Pavimenti/Tappeti",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Zynet S9 Aspirapolvere Senza Fili 500W 45000Pa 45Min Scopa Elettrica | Tubo Pieghevole, Motore Brushless, Supporto a Parete, Aspirazione Potente, per Peli di Animali Domestici, Tap",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Aspirapolvere Senza Filo 55KPA 650W 80Mins,Scopa Elettrica Senza Fili | Aspirapolvere Senza Filo 1,8 L,Aspirapolvere Potente Antigroviglio/Display LED/8 Stadi Filtrat,Per Animali/P",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Aspirapolvere Senza Fili Scopa Elettrica - Potente Filo Batteria Cordless Vacuum Cleaner Scope Elettriche Sacco Portatile Ciclonico Silenzioso per Divano Tappeti Parquet Pavimenti ",
         "merchant": "amazon",
         "ean": "",
@@ -2289,6 +2282,13 @@
         "title": "FAMIVAC FV3 Aspirapolvere senza Fili 60KPa/50Min/120㎡, Tubo Pieghevole | Autoportante con Spazzola Antigroviglio, Luce Verde, Scopa Elettrica Potente per Pavimento Duro/Moquette/Pe",
         "merchant": "amazon",
         "ean": "6978669692758",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Aspirapolvere Senza Filo 55KPA 650W 80Mins,Scopa Elettrica Senza Fili | Aspirapolvere Senza Filo 1,8 L,Aspirapolvere Potente Antigroviglio/Display LED/8 Stadi Filtrat,Per Animali/P",
+        "merchant": "amazon",
+        "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -2868,6 +2868,13 @@
     ],
     "migliori-moda": [
       {
+        "title": "Braun Rasoio Elettrico Corpo Uomo Serie 3, +6 Strumenti, BG3575 Grigio | Cura Corpo, con Tecnologia SkinGuard, 6 Strumenti di Rasatura, Impermeabile, Rasoio Intimo Uomo, Ricaricabi",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Chicco Bambini e ragazzi Tuta con Felpa e Pantaloni Lunghi | Comoda e alla Moda FW25 253_4",
         "merchant": "amazon",
         "ean": "",
@@ -3065,13 +3072,6 @@
       },
       {
         "title": "ASOCO DREAM Scarpe da Trail Running Uomo Scarpe da Passeggio Leggero Traspirante Scarpe da Ginnastica Antiscivolo Fitness Running Sneakers,Nero Grigio,39 EU",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "CustomSolo Maglietta Personalizzata con Foto e Testo, Unisex Doppia Faccia T-Shirt Personalizzata per Uomo e Donna, Maglia Personalizzata per Regali, Compleanni, Famiglia, Logo Azi",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
