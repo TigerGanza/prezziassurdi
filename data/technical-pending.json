@@ -1,10 +1,31 @@
 {
   "version": 1,
-  "generated_at": "2026-11-03T20:21:24+01:00",
+  "generated_at": "2026-11-03T21:51:23+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
     "smartphone-in-offerta": [
+      {
+        "title": "Google Pixel 11 Pro XL – Smartphone Android sbloccato - Verde oliva, 512GB | Con Gemini Intelligence, autonomia di oltre 30 ore e display Super Actua da 6,8”",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Google Pixel 11 Pro – Smartphone Android sbloccato - Nero ossidiana, 512GB | Con Gemini Intelligence, autonomia di oltre 30 ore e display Super Actua da 6,3”",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Google Pixel 11 Pro XL – Smartphone Android sbloccato - Verde oliva, 256GB | Con Gemini Intelligence, autonomia di oltre 30 ore e display Super Actua da 6,8”",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Oppo - A77 64GB, Zwart (CPH2339MK)",
         "merchant": "amazon",
@@ -193,27 +214,6 @@
         "ean": "8806099224851",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "Samsung Galaxy A37 5G (Awesome Graygreen, 8 GB di RAM, 256 GB di spazio di archiviazione), IA agentica, tripla fotocamera con video notturno, autonomia di 2 giorni, aggiornamenti d",
-        "merchant": "amazon",
-        "ean": "8806099064099",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "XIAOMI REDMI NOTE 15 PRO+ 5G (6.83'' - 12/512GB) BLACK",
-        "merchant": "amazon",
-        "ean": "6932554468002",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "REDMI Note 17 Pro 5G, Smartphone 8+512GB, Black, Batteria da 8340 mAh | Fotocamera OIS 50MP, HyperCharge 67W, Snapdragon®6s Gen4, Display Flagship Alta Luminosità 3500nit, Protezio",
-        "merchant": "amazon",
-        "ean": "6939093036686",
-        "mpn": "",
-        "status": "da_verificare"
       }
     ],
     "migliori-smartphone-sotto-300-euro": [
@@ -381,7 +381,7 @@
     ],
     "tv-in-offerta": [
       {
-        "title": "LG OLED AI 48 Pollici, Serie B6E 2026 Smart TV 4K - OLED48B6ELC | Nero Perfetto, Dolby Vision & Atmos, Processore α8 Gen3, AI Magic Remote, WebOS con Gemini, VRR, G-Sync 4K@120Hz",
+        "title": "Hisense Smart TV MiniLED 144Hz 50\" 4K 50E8S | Dolby Atmos 2.1 By Devialet, Dolby Vision IQ, HDR10+, VIDAA OS, Alexa, lativù 4K, Wifi, BT, Airplay2, 2026 Model",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -685,6 +685,20 @@
       }
     ],
     "migliori-notebook": [
+      {
+        "title": "PC portatile da gaming da 16 pollici, R7 5825U, 16 GB RAM, SSD 1 TB | 8 core e 16 thread fino a 4,5 GHz per multitasking esigente, creazione di contenuti e giochi leggeri",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "MITUNTUN PC Portatile Gaming 15,6\" R7 6800H, 24GB DDR5 RAM, 1TB SSD,Win 11 | 8 core/16 thread fino a 4,7 GHz per multitasking, creazione di contenuti, streaming, gaming leggero e p",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "ASUS Vivobook 16 F1605VA#B0FZL8JLW9, Notebook con display 16\" Anti-glare, 60Hz,Intel® Core™ 9 Processor 270H,RAM 16GB, 1TB SSD, WIN11 Home, Argento",
         "merchant": "",
@@ -990,6 +1004,27 @@
       }
     ],
     "migliori-tablet": [
+      {
+        "title": "Gleeso Tablet 10 Pollici｜Tablet con Android 16｜Android Tablet con 24GB RAM 1TB TF｜6000mAh｜Sblocco Facciale｜BT 5.4/WiFi 5G｜8MP Fotocamera, Portatile Tablet per Studenti e Aziende - ",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Gleeso Tablet 10 Pollici Android 16 Tablet con Tastiera 24GB+TF 1TB, Android Tablet PC con Mouse, Penna Stylus, 6000mAh, Fotocamera da 8MP, WiFi 5G, Laptop Portatile per Studenti e",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Gleeso Tablet｜Android 16 Tablet 10 Pollici ｜Tablet con Tastiera 24GB+64GB/1TB TF, Android Tablet PC 6000mAh, Fotocamera da 8MP, WiFi 5G, Laptop Portatile 2 in 1 Tablets con Custodi",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Tablet Android da 11 Pollici, Octa-Core, 24GB(4+20) RAM+128GB Memoria, Batteria 8200mAh, Widevine L1, Espandibile fino a 1TB, Doppia Fotocamera, Android Tablet per Studio, Lavoro e",
         "merchant": "",
@@ -1310,6 +1345,20 @@
     ],
     "migliori-smartwatch": [
       {
+        "title": "Garmin fēnix 8, 51mm, Smartwatch GPS Premium Multisport, Slate Grey | Display AMOLED 1,4\", Touchscreen, Speaker e Microfono, Torcia, Mappe, 90+ App per lo Sport, Autonomia 29 giorn",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Garmin fēnix 8, 47mm, Smartwatch GPS Premium Multisport, Slate Grey | Display AMOLED 1,4\", Touchscreen, Speaker e Microfono, Torcia, Mappe, 90+ App per lo Sport, Autonomia 16 giorn",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Amazfit T-Rex 3 Pro Smartwatch Outdoor 48mm, 25 Giorni di Autonomia, Torcia | Display AMOLED in Zaffiro, Ghiera in Titanio, GPS Dual Band, Mappe Offline, 10 ATM, 180+ Modalità Spor",
         "merchant": "amazon",
         "ean": "",
@@ -1503,20 +1552,6 @@
         "merchant": "unieuro",
         "ean": "8806095630595",
         "mpn": "ET-SOL31LLEGEU",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Samsung Galaxy Watch6 Classic Smartwatch Fitness Tracker Ghiera Interattiva in Acciao Inox 47mm Graphite",
-        "merchant": "unieuro",
-        "ean": "8806095084176",
-        "mpn": "SM-R960NZKAITV",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Apple Watch Series 10 Serie 10 GPS + Cellular 46mm Cassa in Titanio color Ardesia con Loop in maglia milanese ardesia S/M",
-        "merchant": "unieuro",
-        "ean": "0195949896538",
-        "mpn": "APLMC7R4QL/A",
         "status": "da_verificare"
       }
     ],
@@ -1997,6 +2032,27 @@
     ],
     "migliori-robot-aspirapolvere": [
       {
+        "title": "ECOVACS T50 OMNI Gen3 Robot Aspirapolvere Lavapavimenti 25000 Pa | ZeroTangle Generation 3.0 Tecnologia Anti-ingombramento, AIVI 3D 3.0, Stazione OMNI All-in-One, Lavaggio a 75 °C,",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "ECOVACS T90S OMNI Robot Aspirapolvere Lavapavimenti, OZMO Roller 30.000 Pa | Lavaggio Mocio Autom, Pulizia Bordi Extreme, Spazzola Anti-Groviglio, Navigazione AI, Ultra Silenzioso,",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "ECOVACS X12 OMNICYCLONE Care Complete Robot Aspirapolvere Lavapavimenti | Aspirazione da 22000 Pa, FocusJet anti-macchie, PowerBoost ultrarapido, OZMO ROLLER Gen 3 Rullo Esteso, Pu",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Lefant M210 PRO OMNI Robot Aspirapolvere Lavapavimenti con Rullo 20.000Pa",
         "merchant": "",
         "ean": "",
@@ -2184,27 +2240,6 @@
         "ean": "6970135037452",
         "mpn": "T50OMNIBKGEN2",
         "status": "da_verificare"
-      },
-      {
-        "title": "iRobot Roomba 205 Combo 2 L Senza sacchetto Nero",
-        "merchant": "unieuro",
-        "ean": "5061042263025",
-        "mpn": "817185",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Eureka J15 Ultra Robot Aspirapolvere Lavapavimenti, Potente Aspirazione 19.000 Pa, Lavaggio Mocio ad Acqua Calda a 75℃, Mappatura con AI, Pulizia Avanzat",
-        "merchant": "unieuro",
-        "ean": "6956079731205",
-        "mpn": "J15ULTRA",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Roborock Saros Z70 Robot Aspirapolvere e Lavapavimenti con Braccio Meccanico OmniGrip, 7,98cm Ultrasottile, Aspirazione 22.000 Pa, Tecnologia FlexiArm, T",
-        "merchant": "unieuro",
-        "ean": "6936905900760",
-        "mpn": "CN82960",
-        "status": "da_verificare"
       }
     ],
     "aspirapolvere-senza-fili-in-offerta": [
@@ -2224,13 +2259,6 @@
       },
       {
         "title": "Aspirapolvere Senza Filo 55KPA 650W 80Mins,Scopa Elettrica Senza Fili | Aspirapolvere Senza Filo 1,8 L,Aspirapolvere Potente Antigroviglio/Display LED/8 Stadi Filtrat,Per Animali/P",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Eureka NEY100 - Aspirapolvere, detergente per tappeti, tappezzeria, per divano, tappezzeria, auto, aspirapolvere a umido e a secco con forte potenza di aspirazione 12500 Pa, 82 dB,",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -2308,13 +2336,6 @@
       }
     ],
     "migliori-lavatrici": [
-      {
-        "title": "Cecotec Lavatrice Asciugatrice 8-5Kg Carico Frontale Bolero Wash&Dry 8580 Inverter Ice Blue A. 1400RPM, 16 Programmi, Inverter Plus, SteamMax, OnSmart, Smooth Wash, SpaCare, Guarni",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Bosch WAN28229IT Serie 4 Lavatrice 9kg 1400 giri/min Bianco Classe A",
         "merchant": "",
@@ -2516,6 +2537,13 @@
         "merchant": "unieuro",
         "ean": "8050147619315",
         "mpn": "869991619310",
+        "status": "da_verificare"
+      },
+      {
+        "title": "LG D2R3S08NSWW Lavasciuga slim 8/5kg AI DD, Classe E, 1200 giri, AI Wash, Vapore",
+        "merchant": "unieuro",
+        "ean": "8806084273680",
+        "mpn": "D2R3S08NSWW.ABWQP",
         "status": "da_verificare"
       }
     ],
@@ -2840,6 +2868,13 @@
     ],
     "migliori-moda": [
       {
+        "title": "Chicco Bambini e ragazzi Tuta con Felpa e Pantaloni Lunghi | Comoda e alla Moda FW25 253_4",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Helly Hansen Driftline Polo, Maglia a Maniche Corte, Design Sportivo e Casual Uomo, S, Blu (Navy)",
         "merchant": "amazon",
         "ean": "",
@@ -2848,13 +2883,6 @@
       },
       {
         "title": "Levi's Housemark Polo, T-shirt Uomo, White +, M",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Skechers Donna Go Walk Joy scarpe da ginnastica, Taupe Textile/Trim, 37 EU",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
