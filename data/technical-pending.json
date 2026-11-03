@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-03T03:16:22+01:00",
+  "generated_at": "2026-11-03T04:41:23+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -3241,13 +3241,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Puma Speedcat Uomo Sneakers Blu Taglia 40.5 Scamosciato",
-        "merchant": "footlocker",
-        "ean": "4069161298790",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Banlieue The Runner Uomo Sneakers Bianco Taglia 40 Scamosciato",
         "merchant": "footlocker",
         "ean": "7435117836816",
@@ -3258,6 +3251,13 @@
         "title": "Banlieue The Runner Uomo Sneakers Bianco Taglia 40.5 Scamosciato",
         "merchant": "footlocker",
         "ean": "7435111560557",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Banlieue The Runner Uomo Sneakers Bianco Taglia 41 Scamosciato",
+        "merchant": "footlocker",
+        "ean": "7435115916954",
         "mpn": "",
         "status": "da_verificare"
       }
