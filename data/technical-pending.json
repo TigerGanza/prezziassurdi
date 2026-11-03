@@ -1,24 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-11-03T08:56:24+01:00",
+  "generated_at": "2026-11-03T10:21:24+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
     "smartphone-in-offerta": [
-      {
-        "title": "Google Pixel 10a - 7 anni di nuovi aggiornamenti e funzionalità, oltre 30 ore di autonomia, Guida fotografica, Gemini Live, Sicurezza Pixel - Viola lavanda, 256GB",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Samsung Galaxy Z Fold 8 Ultra 256GB GRAPHITE",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Gqudyi Nuovo 5g Gt10 PRO 6.8 Pollici Smartphone Android 13 Telefono Cellulare 6gb + 128gb 6800mah 50mp 72mp Dual Sim Dual Standby Riconoscimento Facciale(Size:6GB+128GB,Color:Bianc",
         "merchant": "amazon",
@@ -214,6 +200,20 @@
         "ean": "8806099422677",
         "mpn": "",
         "status": "da_verificare"
+      },
+      {
+        "title": "REDMI Note 17 Pro 5G, Smartphone 8+512GB, Black, Batteria da 8340 mAh | Fotocamera OIS 50MP, HyperCharge 67W, Snapdragon®6s Gen4, Display Flagship Alta Luminosità 3500nit, Protezio",
+        "merchant": "amazon",
+        "ean": "6939093036686",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "REDMI Note 17 Pro 5G, Smartphone 8+512GB, Purple, Batteria da 8340 mAh | Fotocamera OIS 50MP, HyperCharge 67W, Snapdragon®6s Gen4, Display Flagship Alta Luminosità 3500nit, Protezi",
+        "merchant": "amazon",
+        "ean": "6939093036747",
+        "mpn": "",
+        "status": "da_verificare"
       }
     ],
     "migliori-smartphone-sotto-300-euro": [
@@ -380,6 +380,20 @@
       }
     ],
     "tv-in-offerta": [
+      {
+        "title": "LG OLED evo AI 65 Pollici, Serie C6 2026 Smart TV 4K - OLED65C64LA | Brightness Booster, CPU α11 Gen3, AI Engine, Dolby Vision & Atmos, Magic Remote, Gemini, VRR/G-Sync 165Hz",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "LG OLED evo AI 65 Pollici, Serie G6S 2026 Smart TV 4K - OLED65G66LS | Base da Appoggio, Hyper Radiant Color, Reflection Free, Dual AI Engine, Dolby Vision & Atmos, VRR e G-Sync 4K@",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Xiaomi TV F Pro 32 2025, 32 pollici (81 cm), QLED, Smart TV, Fire TV, Triple Tuner DVB-C/S/S2/T/T2,Dolby Audio, DTS Virtual:X, DTS-HD, Controllo Vocale Alexa, Compatibile con Apple",
         "merchant": "amazon",
@@ -575,23 +589,23 @@
         "ean": "6942351430805",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "TCL 65PF650 – Smart TV 4K Ultra HD da 65\", Fire TV | Game Master, Motion Clarity, Dolby Vision & Atmos, Press & Ask Alexa",
-        "merchant": "amazon",
-        "ean": "5901292523343",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "TCL 65V6C – Smart TV 4K HDR Direct LED da 65\", Google TV con Dolby Audio | Game Master, Motion Clarity, Google Assistant, Compatible with Alexa",
-        "merchant": "amazon",
-        "ean": "5901292525972",
-        "mpn": "",
-        "status": "da_verificare"
       }
     ],
     "offerte-tv-55-65-pollici": [
+      {
+        "title": "LG OLED evo AI 65 Pollici, Serie C6 2026 Smart TV 4K - OLED65C64LA | Brightness Booster, CPU α11 Gen3, AI Engine, Dolby Vision & Atmos, Magic Remote, Gemini, VRR/G-Sync 165Hz",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "LG OLED evo AI 65 Pollici, Serie G6S 2026 Smart TV 4K - OLED65G66LS | Base da Appoggio, Hyper Radiant Color, Reflection Free, Dual AI Engine, Dolby Vision & Atmos, VRR e G-Sync 4K@",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Samsung Smart TV 55\" UE55M80HAUXZT Mini LED 4K , HDR 10+, Motion Xcelerator 144Hz, Adpative Sound+, AI Football Mode, Voice Control with AI(VAC), Alexa Built-in, PACCHETTO INTRATTE",
         "merchant": "amazon",
@@ -997,6 +1011,13 @@
       }
     ],
     "migliori-tablet": [
+      {
+        "title": "Samsung Galaxy Tab S10 FE, 3 anni di garanzia, Android Tablet, Display 10.9\" LCD, Wifi, RAM 8GB, 128GB, 8.000 mAh, S Pen, Android 15, IP68, Gray [Versione italiana]",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "MUTSAY Tablet 11 Pollici Android 16 Tablet PC da 24 GB RAM 64 GB ROM 1 TB TF Espandibile IPS 1280x800 Batteria 7800 mAh Wi-Fi 6 BT 5.4 Custodia Tastiera Mouse Penna Cuffie (Nero)",
         "merchant": "amazon",
@@ -1997,13 +2018,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "DREAME L10s Ultra Gen 3 Kit Robot Aspirapolvere, Aspirazione 25.000 Pa | Spazzola Laterale e Mocio Estendibili, Stazione Base All-in-1 Auto-Svuot. e Auto-Pulizia Mocio,Sollevamento",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Lefant M210 PRO OMNI Robot Aspirapolvere Lavapavimenti con Rullo 20.000Pa",
         "merchant": "",
         "ean": "",
@@ -2197,6 +2211,13 @@
         "merchant": "unieuro",
         "ean": "5061042263025",
         "mpn": "817185",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Eureka J15 Ultra Robot Aspirapolvere Lavapavimenti, Potente Aspirazione 19.000 Pa, Lavaggio Mocio ad Acqua Calda a 75℃, Mappatura con AI, Pulizia Avanzat",
+        "merchant": "unieuro",
+        "ean": "6956079731205",
+        "mpn": "J15ULTRA",
         "status": "da_verificare"
       }
     ],
