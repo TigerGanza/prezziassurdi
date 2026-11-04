@@ -1,19 +1,12 @@
 {
   "version": 1,
-  "generated_at": "2026-11-04T22:47:52+01:00",
+  "generated_at": "2026-11-05T00:12:52+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
     "smartphone-in-offerta": [
       {
         "title": "Sony Xperia XZ1 Smartphone da 64 GB, Nero [versione Italia] (Ricondizionato)",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "REDMI Note 17 Pro Max 5G, Smartphone 8+256GB, Black, Batteria 9210mAh | Snapdragon® 6 Gen 5, Fotocamera OIS 50MP, HyperCharge 100W, Resistenza IP66/IP68, Flagship Display, Xiaomi H",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -212,6 +205,13 @@
         "title": "Oppo Reno12 5G, Dual, 256GB 12GB Ram, Astro Silver",
         "merchant": "amazon",
         "ean": "6932169347211",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Samsung Galaxy A37 5G, 128GB, RAM 6GB, Awesome Charcoal [Versione Italiana] | 3 anni di Garanzia, Smartphone sottile, Cerchia e Cerca, Gomma Oggetto, Suggerimento di Modifica, Trip",
+        "merchant": "amazon",
+        "ean": "8806099224851",
         "mpn": "",
         "status": "da_verificare"
       }
@@ -1133,6 +1133,27 @@
     ],
     "migliori-monitor": [
       {
+        "title": "AOC 24B31H - Monitor Full HD da 24 pollici, 120 Hz, sincronizzazione adattiva dell'immagine 1920x1080, 1x D-Sub, 1x HDMI 1.4 nero, 24 inch FHD IPS, 100 Hz, No Altoparlanti",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "MSI PRO MP165A E6 Monitor Portatile 15,6\" FHD 1920x1080 IPS, 60 Hz, 4 ms | tecnologia Eye Care, altoparlante/microfono integrati, HDMI 2.0b, USB-C (15 W PD), compatibile VESA",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Philips Monitor 221v8 22 pollici 1920x1080, FHD, 75Hz, VA Panel, 4ms GtG, (HDMI1) Adaptive Sync, Nero",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Xiaomi Monitor G27i",
         "merchant": "",
         "ean": "",
@@ -1338,20 +1359,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Nuovo Smartwatch Uomo Donna, 100+ Sportive Fitness Tracker con Sonno Contapassi Cardiofrequenzimetro, 1.91\" Smartwatch con Effettua/Risposta Chiamate, Impermeabil IP68 Smart Watch ",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "AcclaFit Smartwatch Uomo Donna con Chiamate Bluetooth, Orologio Fitness Rotondo da 1,38\" con 147+ Modalità Sportive, Cardiofrequenzimetro, Sonno, IP68 Impermeabile, Compatibile con",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "2026 Smartwatch Uomo GPS,2.06\" HD AMOLED Orologio Smartwatch con Chiamate",
         "merchant": "",
         "ean": "",
@@ -1517,6 +1524,20 @@
         "merchant": "aliexpress",
         "ean": "6921815630210",
         "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Amazfit ACTIVE EDGE 3,35 cm (1.32'') TFT 46 mm Digitale 360 x 360 Pixel Touch screen Nero GPS (satellitare)",
+        "merchant": "unieuro",
+        "ean": "6972596107231",
+        "mpn": "AMFW2212EU2N",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Samsung Watch Athleisure Band Cream",
+        "merchant": "unieuro",
+        "ean": "8806095625218",
+        "mpn": "ET-SOL30SWEGEU",
         "status": "da_verificare"
       }
     ],
@@ -1819,6 +1840,13 @@
       }
     ],
     "cuffie-bluetooth-in-offerta": [
+      {
+        "title": "2026 Cuffie Bluetooth 6.1 Sport, Auricolari Bluetooth con 6D Bass Stereo, 120 Ore Cuffie In Ear Cancellazione Rumore ENC e 4 HD Mics, HiFi Cuffiette LED Display, IP7 Impermeabile C",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Soundcore P31i di Anker Cuffie Bluetooth con Cancellazione Adattiva Rumore | Audio Hi-Res, Auricolari con Funzione di Traduzione, 50 ore di Autonomia, Cancellazione Adattiva, IPX5,",
         "merchant": "amazon",
@@ -2295,6 +2323,27 @@
     ],
     "migliori-lavatrici": [
       {
+        "title": "LG F4R709TAIDD Lavatrice 9 kg Serie R7, Classe A-10%, AI DD, Wi-Fi | 1400 Giri, TurboWash 360, Vapore su 7 Programmi, Allergy Care, Oblò in Vetro Temperato, Direct Drive, Bianca",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "LG AI DD F2R3S09AIDD Lavatrice Slim a Carica Frontale 9kg Serie R3, Lavatrice Classe A -10%, 1200 giri, AI Wash, Motore Inverter Direct Drive, Smart Diagnosis, Libera installazione",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Hotpoint Ariston NBT 1048 WD A IT - Lavatrice 10 kg | Libera Installazione, Carica Frontale.1400 Giri/min. Larghezza 59,5cm, Profondità 60,5cm, Altezza 85,0cm, Classe Energetica A",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Candy ProWash 300 Lavatrice Slim 7 Kg, 1200 Giri, Classe A-15%, Bianca | Motore Inverter, Cicli Rapidi, Display LED, Illuminazione LED, 60 Programmi, LxPxA 60x42,4x85 cm, GD 27SB7-",
         "merchant": "amazon",
         "ean": "",
@@ -2368,13 +2417,6 @@
         "title": "Hotpoint Ariston NFR89W IT - Lavatrice 9 kg | Libera Installazione, Carica Frontale. 1400 Giri/min, Classe A-20%. Anti Allergy, Igiene Vapore, 85 x 59,5 x 60,5 cm (AxLxP)",
         "merchant": "amazon",
         "ean": "8050147734346",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "LG F4R709TAIDD Lavatrice 9 kg Serie R7, Classe A-10%, AI DD, Wi-Fi | 1400 Giri, TurboWash 360, Vapore su 7 Programmi, Allergy Care, Oblò in Vetro Temperato, Direct Drive, Bianca",
-        "merchant": "amazon",
-        "ean": "8806084274670",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -2489,23 +2531,16 @@
         "ean": "8806095550282",
         "mpn": "WW90DB7U34GWU3",
         "status": "da_verificare"
-      },
-      {
-        "title": "Samsung Lavatrice Crystal Clean 8 kg WW80CGC04DAEET",
-        "merchant": "unieuro",
-        "ean": "8806095210285",
-        "mpn": "WW80CGC04DAEET",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Hotpoint Ariston Lavatrice da incasso BI WMHG 71483 EU N",
-        "merchant": "unieuro",
-        "ean": "8050147619315",
-        "mpn": "869991619310",
-        "status": "da_verificare"
       }
     ],
     "migliori-frigoriferi": [
+      {
+        "title": "LG GSXV80PZLE Frigorifero Americano Side by Side InstaView Total No Frost con Congelatore, 635 L, Door Cooling, Linear Cooling, Compressore Lineare Inverter - Frigo Smart con Wi-Fi",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Candy Frigorifero Combinato a 2 Porte, 207 L, Libera Installazione, Classe E, Compatto, Temperatura Regolabile, Luce LED, Cassetto Crisper, 55 x 58 x 151 cm, Argento - CHCS514EX",
         "merchant": "amazon",
@@ -2707,13 +2742,6 @@
         "merchant": "unieuro",
         "ean": "8806096558164",
         "mpn": "GBBSJ10DPYAPYQEUZ",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Samsung RT38CG6624S9 frigorifero Doppia Porta EcoFlex AI Libera installazione con congelatore Wifi 393 L Classe E, Inox",
-        "merchant": "unieuro",
-        "ean": "8806094914245",
-        "mpn": "RT38CG6624S9ES",
         "status": "da_verificare"
       }
     ],
