@@ -1,5 +1,48 @@
 [
   {
+    "asin": "B01KWTC5YW",
+    "title": "Beurer IH 26 Aerosol ad Aria Compressa Con Doccia Nasale E Accessori Completi Inclusi, Bianco/Blu, ‎16.6 x 14.8 x 14.1 cm, Tempo di inalazione breve e pressione di esercizio di 0.8 - 1.45 bar",
+    "price": 34.95,
+    "old_price": 70.99,
+    "discount": 51.0,
+    "image": "https://m.media-amazon.com/images/I/41NeGCSx+iL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B01KWTC5YW?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "salute",
+    "macro_group": "cura_persona",
+    "seasonal_title": "",
+    "published_at": "2026-11-04T10:15:45.050501+01:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": [],
+    "merchant_offers": [
+      {
+        "merchant": "unieuro",
+        "merchant_name": "Unieuro",
+        "merchant_id": "10139",
+        "product_id": "BEUIH26",
+        "awin_product_id": "37042866649",
+        "title": "Beurer Aerosol IH 26",
+        "brand": "Beurer",
+        "ean": "4211125601355",
+        "mpn": "IH26",
+        "price": 39.9,
+        "old_price": 71.99,
+        "discount": 44.6,
+        "image": "https://www.unieuro.it/medias/sys_master/root/hfd/hb1/52222851940382/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-b92695c425fae44ebd17e0db56332cef-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
+        "url": "https://www.awin1.com/pclick.php?p=37042866649&a=3086723&m=10139",
+        "category": "Medicali",
+        "category_path": "",
+        "availability": "in_stock",
+        "last_updated": "",
+        "attributes": {}
+      }
+    ],
+    "merchant_match_score": 100,
+    "merchant_ean": "4211125601355",
+    "merchant_prices_checked_at": "2026-11-04T09:53:39.300171+01:00"
+  },
+  {
     "asin": "B09R4YWQWQ",
     "title": "Barilla Pesto alla Genovese con Basilico Fresco Italiano, 190 g | con Parmigiano Reggiano DOP, Senza Glutine, Sugo Pronto Per Pasta",
     "price": 1.49,
@@ -2660,22 +2703,5 @@
     "merchant_prices_checked_at": "2026-11-04T09:53:39.300171+01:00",
     "availability": "in_stock",
     "price_observed_at": "2026-11-04T09:53:39.300171+01:00"
-  },
-  {
-    "asin": "B09TW215N7",
-    "title": "Rowenta x Karl Lagerfeld Studio Dry, Asciugacapelli, Nero, CV581L | con Impostazione Thermo Control, 6 Combinazioni di Velocità e Temperatura, Concentratore 12mm, 2100W",
-    "price": 19.99,
-    "old_price": 29.99,
-    "discount": 33.0,
-    "image": "https://m.media-amazon.com/images/I/31rhWTyvL7L._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B09TW215N7?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "bellezza",
-    "macro_group": "cura_persona",
-    "seasonal_title": "",
-    "published_at": "2026-11-04T06:05:58.245240+01:00",
-    "source_merchant": "amazon",
-    "source_external_id": "",
-    "quality_status": "ready",
-    "quality_issues": []
   }
 ]
