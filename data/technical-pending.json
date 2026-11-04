@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-04T18:28:19+01:00",
+  "generated_at": "2026-11-04T19:58:08+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -388,6 +388,13 @@
     ],
     "tv-in-offerta": [
       {
+        "title": "Samsung 48\" QE48S92HAEXZT OLED 4K LaserSlim Design Smart TV Vision AI 2026 | NQ4 AI Gen 3 Processor, HDR 10+, Motion Xcelerator 165Hz, Dolby Atmos, Gaming Hub, Ultimate Gaming Pack",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Xiaomi TV F Pro 32 2025, 32 pollici (81 cm), QLED, Smart TV, Fire TV, Triple Tuner DVB-C/S/S2/T/T2,Dolby Audio, DTS Virtual:X, DTS-HD, Controllo Vocale Alexa, Compatibile con Apple",
         "merchant": "amazon",
         "ean": "6941948706361",
@@ -587,13 +594,6 @@
         "title": "Hisense Smart TV 65\" UHD 4K 65E6ST | DTS Virtual X, VIDAA OS con 1000+ APP, HDR 10+, Game Mode Plus, Bluetooth, Wifi, Alexa, AirPlay2, lativù 4K, 2026 Model",
         "merchant": "amazon",
         "ean": "6942351430805",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "TCL 65C69BPRO TV 65 Pollici QLED 4K Ultra HD Smart TV, Serie C69B PRO, Google TV, WiFi, HDR, HDMI, USB, Bluetooth, Televisore 4K",
-        "merchant": "amazon",
-        "ean": "5901292524265",
         "mpn": "",
         "status": "da_verificare"
       }
@@ -1834,20 +1834,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Apple AirPods Pro 3, Cancellazione attiva del rumore, Rilevamento della frequenza cardiaca, Cuffie Bluetooth, Audio spaziale, Suono ad alta fedeltà, Ricarica USB-C​​​​​​​",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Beats Studio Buds + | Auricolari true wireless con cancellazione del rumore, compatibilità Apple e Android migliorata, microfono incorporato, cuffie Bluetooth resistenti al sudore ",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Soundcore P31i di Anker Cuffie Bluetooth con Cancellazione Adattiva Rumore | Audio Hi-Res, Auricolari con Funzione di Traduzione, 50 ore di Autonomia, Cancellazione Adattiva, IPX5,",
         "merchant": "amazon",
         "ean": "0194644247409",
@@ -2854,6 +2840,20 @@
     ],
     "migliori-moda": [
       {
+        "title": "Tommy Hilfiger Uomo Felpa Seasonal Fleece con Scollo Rotondo, Beige (Heathered Oatmilk), XXL",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Tommy Hilfiger Felpa con Cappuccio da Uomo, Blu Opulento, M",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
         "ean": "",
@@ -3046,20 +3046,6 @@
         "title": "fashwork Maglietta Personalizzata Uomo Donna, T-Shirt Personalizzabile con Stampa Foto, Scritta o Logo Fronte Retro, Maglia Manica Corta in 100% Cotone per Regali Personalizzati Bi",
         "merchant": "amazon",
         "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "JOPHY & CO. T-Shirt Personalizzabile in Cotone, Maglietta Personalizzata con Stampa per Uomo e Donna, Idea Regalo Originale (IT, Testo, L, Regular, Regular, Nero)",
-        "merchant": "amazon",
-        "ean": "8054346377250",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "JOPHY & CO. T-Shirt Personalizzabile in Cotone, Maglietta Personalizzata con Stampa per Uomo e Donna, Idea Regalo Originale (IT, Testo, M, Regular, Regular, Bianco)",
-        "merchant": "amazon",
-        "ean": "8054346377298",
         "mpn": "",
         "status": "da_verificare"
       }
