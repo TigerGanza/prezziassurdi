@@ -1,5 +1,22 @@
 [
   {
+    "asin": "B00I989MUE",
+    "title": "L'Oréal Paris Contorno Occhi Revitalift Laser X3, Azione Antirughe Anti-Età con Acido Ialuronico e Pro-Xylane, 15 ml",
+    "price": 9.76,
+    "old_price": 15.49,
+    "discount": 37.0,
+    "image": "https://m.media-amazon.com/images/I/2131T6QoFbL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B00I989MUE?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "bellezza",
+    "macro_group": "cura_persona",
+    "seasonal_title": "",
+    "published_at": "2026-11-04T17:21:30.229913+01:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B082DDJ3SJ",
     "title": "Huepar B03CG 3x 360° Livella Laser 12 Linee Verde 45m con Modalità Impulso, con Batteria al Litio Ricaricabile USB, 3D Linea a Croce Orizzontale/Verticale, Base magnetico",
     "price": 134.99,
@@ -1811,48 +1828,5 @@
     "source_external_id": "",
     "quality_status": "ready",
     "quality_issues": []
-  },
-  {
-    "asin": "B0DJ17V3C8",
-    "title": "Cellularline Power Bank 5000 mAh con USB-C In/Out + 2 Porte USB-A - Ricarica Multipla e LED Indicatore - Nero",
-    "price": 7.99,
-    "old_price": 14.95,
-    "discount": 47.0,
-    "image": "https://m.media-amazon.com/images/I/31-y6HpssPL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0DJ17V3C8?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "smartphone_accessori",
-    "macro_group": "tech",
-    "seasonal_title": "",
-    "published_at": "2026-11-04T10:51:09.493687+01:00",
-    "source_merchant": "amazon",
-    "source_external_id": "",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "unieuro",
-        "merchant_name": "Unieuro",
-        "merchant_id": "10139",
-        "product_id": "CEEPBENTRY5000K",
-        "awin_product_id": "39008487310",
-        "title": "Cellularline Power Bank 5000",
-        "brand": "Cellularline",
-        "ean": "8018080481925",
-        "mpn": "PBENTRY5000K",
-        "price": 8.99,
-        "old_price": 14.99,
-        "discount": 40.0,
-        "image": "https://www.unieuro.it/medias/sys_master/root/h9e/hb7/52097702002718/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-75e31350f5b75533bdee0dcef03fe513-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-        "url": "https://www.awin1.com/pclick.php?p=39008487310&a=3086723&m=10139",
-        "category": "Powerbank",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {}
-      }
-    ],
-    "merchant_match_score": 94,
-    "merchant_ean": "8018080481925",
-    "merchant_prices_checked_at": "2026-11-04T09:53:39.300171+01:00"
   }
 ]
