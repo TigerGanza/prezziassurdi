@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-03T23:16:23+01:00",
+  "generated_at": "2026-11-04T00:41:23+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -2549,6 +2549,27 @@
     ],
     "migliori-frigoriferi": [
       {
+        "title": "CANDY Frigorifero Combinato 207 Litri, Statico, Classe E, Bianco | Porta Reversibile, Libera Installazione, Illuminazione LED, Silenziosa, 40 dB, 151x55x58 cm, CHCS 514EW",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "PYRAMIDEA Frigorifero Combinato TOTAL NO FROST 320 litri lordi (ben 290 litri netti) Bianco CMB325NFW Altezza 185 cm. Classe energetica E Silenzioso 41 Db.",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Hisense RB390N4CCD1 Frigorifero Combinato Total No Frost, Inox, 1.86x60cm, Classe D, 304L",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Hotpoint Ariston HPK 26362 XP4E – Frigorifero Combinato 316l | Libera Installazione, Dual No Frost, Classe E, Congelamento Rapido, Acciaio Inox, 186,5 x 59,5 x 66,3 cm",
         "merchant": "amazon",
         "ean": "",
@@ -2564,13 +2585,6 @@
       },
       {
         "title": "Bosch KGN36NLEA Serie 2 Frigorifero Total No Frost 186x60cm Silver",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Hisense RB390N4CCD1 Frigorifero Combinato Total No Frost, Inox, 1.86x60cm, Classe D, 304L",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -2601,13 +2615,6 @@
         "title": "Candy Frigorifero Combinato a 2 Porte, 207 L, Libera Installazione, Classe E, Compatto, Temperatura Regolabile, Luce LED, Cassetto Crisper, 55 x 58 x 151 cm, Argento - CHCS514EX",
         "merchant": "amazon",
         "ean": "8059019035543",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "PYRAMIDEA Frigorifero Combinato TOTAL NO FROST 320 litri lordi (ben 290 litri netti) Bianco CMB325NFW Altezza 185 cm. Classe energetica E Silenzioso 41 Db.",
-        "merchant": "amazon",
-        "ean": "8054890199780",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -2749,13 +2756,6 @@
         "merchant": "unieuro",
         "ean": "8806094914245",
         "mpn": "RT38CG6624S9ES",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Samsung Frigorifero Combinato EcoFlex AI 2m 390L RB38C774DSA",
-        "merchant": "unieuro",
-        "ean": "8806094990324",
-        "mpn": "RB38C774DSA/EF",
         "status": "da_verificare"
       }
     ],
