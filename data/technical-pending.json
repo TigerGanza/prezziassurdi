@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-04T05:01:23+01:00",
+  "generated_at": "2026-11-04T06:26:26+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -1359,6 +1359,20 @@
     ],
     "migliori-smartwatch": [
       {
+        "title": "NAIXUES Smart Ring Uomo Donna, Anello Smart Fitness con Controllo Gestuale/Frequenza Cardiaca(HRV)/SpO2/Sonno/170+ Modalità Sport Impermeabil 5ATM, Smartwatch per Android e iOS, Mi",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "NAIXUES Smart Ring Uomo Donna, Anello Smart Fitness con Controllo Gestuale/Frequenza Cardiaca(HRV)/SpO2/Sonno/170+ Modalità Sport Impermeabil 5ATM, Smartwatch per Android e iOS, Mi",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Garmin fēnix 8, 51mm, Smartwatch GPS Premium Multisport, Slate Grey | Display AMOLED 1,4\", Touchscreen, Speaker e Microfono, Torcia, Mappe, 90+ App per lo Sport, Autonomia 29 giorn",
         "merchant": "amazon",
         "ean": "",
@@ -1367,27 +1381,6 @@
       },
       {
         "title": "Garmin fēnix 8, 47mm, Smartwatch GPS Premium Multisport, Slate Grey | Display AMOLED 1,4\", Touchscreen, Speaker e Microfono, Torcia, Mappe, 90+ App per lo Sport, Autonomia 16 giorn",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Amazfit T-Rex 3 Pro Smartwatch Outdoor 48mm, 25 Giorni di Autonomia, Torcia | Display AMOLED in Zaffiro, Ghiera in Titanio, GPS Dual Band, Mappe Offline, 10 ATM, 180+ Modalità Spor",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Amazfit T-Rex 3 Outdoor Smartwatch 48mm, 27 Giorni Autonomia, Dual Band GPS | AMOLED da 1,5\", Mappe & Navigazione Offline, 6 Sistemi Satellitari, Pagamento NFC, 170+ Modalità Sport",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Amazfit Active 2 Smartwatch 43mm, Pagamento NFC, Mappe Offline, Pelle Nera | 1,75\" AMOLED, GPS, Batteria 10 Giorni, 160+ Modalità Sport, Resistente all’Acqua, Monitoraggio Frequenz",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -1446,6 +1439,13 @@
         "title": "XIAOMI Redmi Watch 6 Lite, Fitness Tracker, Autonomia 18 Giorni, Grigio | Smartwatch Uomo Donna, Schermo 1,96\" AMOLED, Monitor Cardiaco & Sonno, 150+ Sports, GNSS 5 sistemi, 5ATM, ",
         "merchant": "amazon",
         "ean": "6932554406004",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Amazfit Active 2 Smartwatch 43mm, Pagamento NFC, Mappe Offline, Pelle Nera | 1,75\" AMOLED, GPS, Batteria 10 Giorni, 160+ Modalità Sport, Resistente all’Acqua, Monitoraggio Frequenz",
+        "merchant": "amazon",
+        "ean": "6972596108818",
         "mpn": "",
         "status": "da_verificare"
       },
