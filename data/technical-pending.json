@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-05T20:12:54+01:00",
+  "generated_at": "2026-11-05T21:37:54+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -381,13 +381,6 @@
     ],
     "tv-in-offerta": [
       {
-        "title": "TCL 55V6D – Smart TV 4K HDR10+ da 55\" con Fire TV e Dolby Atmos | DTS:X, Game Master, Motion Clarity, Apple AirPlay 2, Press & Ask Alexa",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Xiaomi TV F Pro 32 2025, 32 pollici (81 cm), QLED, Smart TV, Fire TV, Triple Tuner DVB-C/S/S2/T/T2,Dolby Audio, DTS Virtual:X, DTS-HD, Controllo Vocale Alexa, Compatibile con Apple",
         "merchant": "amazon",
         "ean": "6941948706361",
@@ -514,6 +507,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "TCL 55V6D – Smart TV 4K HDR10+ da 55\" con Fire TV e Dolby Atmos | DTS:X, Game Master, Motion Clarity, Apple AirPlay 2, Press & Ask Alexa",
+        "merchant": "amazon",
+        "ean": "5901292530297",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Hisense Smart TV QLED 55\" 4K 55E7DS | Audio Dolby Atmos, VIDAA OS, Dolby Vision IQ, HDR 10+, Game Mode, Bluetooth, Wifi, Alexa, AirPlay2, lativù 4K, 2026 Model",
         "merchant": "amazon",
         "ean": "6942351431345",
@@ -595,7 +595,7 @@
       {
         "title": "TCL 55V6D – Smart TV 4K HDR10+ da 55\" con Fire TV e Dolby Atmos | DTS:X, Game Master, Motion Clarity, Apple AirPlay 2, Press & Ask Alexa",
         "merchant": "amazon",
-        "ean": "",
+        "ean": "5901292530297",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -685,6 +685,13 @@
       }
     ],
     "migliori-notebook": [
+      {
+        "title": "HP Chromebook 14a-nf0000slx, Notebook, Intel Processor N100, 4GB RAM, 128 GB, Grafica integrata, Display 14 FHD IPS Antiriflesso 300 nits, Laptop, ChromeOS, Portatile, Argento",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Lenovo IdeaPad Slim 3 Notebook 15\" IPS, AMD Ryzen 5 40, RAM 8GB, 512GB SSD, Windows 11 Home, WiFi 6, Laptop per Casa, Ufficio, Studio, Multitasking, Uso Quotidiano - Caricatore non",
         "merchant": "amazon",
@@ -1997,13 +2004,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "roborock Qrevo 2 Pro Set Robot Aspirapolvere Lavapavimenti 25.000Pa, Nero | Panno Estensibile, Antigroviglio, Autopulizia Panno 75°C, Rimozione Automatica dei Panni, Evita Ostacoli",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Lefant M210 PRO OMNI Robot Aspirapolvere Lavapavimenti con Rullo 20.000Pa",
         "merchant": "",
         "ean": "",
@@ -2198,18 +2198,32 @@
         "ean": "6956079731205",
         "mpn": "J15ULTRA",
         "status": "da_verificare"
+      },
+      {
+        "title": "Roborock Saros Z70 Robot Aspirapolvere e Lavapavimenti con Braccio Meccanico OmniGrip, 7,98cm Ultrasottile, Aspirazione 22.000 Pa, Tecnologia FlexiArm, T",
+        "merchant": "unieuro",
+        "ean": "6936905900760",
+        "mpn": "CN82960",
+        "status": "da_verificare"
       }
     ],
     "aspirapolvere-senza-fili-in-offerta": [
       {
-        "title": "Dzaki Aspirapolvere Senza Fili, Scopa Elettrica Senza Fili Potente 45Kpa, 55Min Autonomia, Batteria Rimovibile, Display LED per Peli Animali Tappeti Pavimenti",
+        "title": "Aspirapolvere Senza Fili Scopa Elettrica - Potente Filo Batteria Cordless Vacuum Cleaner Scope Elettriche Sacco Portatile Ciclonico Silenzioso per Divano Tappeti Parquet Pavimenti ",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "Aspirapolvere Senza Fili Scopa Elettrica - Potente Filo Batteria Cordless Vacuum Cleaner Scope Elettriche Sacco Portatile Ciclonico Silenzioso per Divano Tappeti Parquet Pavimenti ",
+        "title": "Ariete Handy Force 2361, Scopa elettrica, Arancione/Nero",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Dzaki Aspirapolvere Senza Fili, Scopa Elettrica Senza Fili Potente 45Kpa, 55Min Autonomia, Batteria Rimovibile, Display LED per Peli Animali Tappeti Pavimenti",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -2301,6 +2315,13 @@
       }
     ],
     "migliori-lavatrici": [
+      {
+        "title": "Indesit BWA 71295X WV IT- Lavatrice 7kg | Libera Installazione, Carica Frontale. Centrifuga 1200 Giri Al Minuto. Dimensioni: 84,5cmx59,5cmx57,5xm, Classe Energetica B",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Bosch WAN28229IT Serie 4 Lavatrice 9kg 1400 giri/min Bianco Classe A",
         "merchant": "",
@@ -2502,13 +2523,6 @@
         "merchant": "unieuro",
         "ean": "8050147619315",
         "mpn": "869991619310",
-        "status": "da_verificare"
-      },
-      {
-        "title": "LG D2R3S08NSWW Lavasciuga slim 8/5kg AI DD, Classe E, 1200 giri, AI Wash, Vapore",
-        "merchant": "unieuro",
-        "ean": "8806084273680",
-        "mpn": "D2R3S08NSWW.ABWQP",
         "status": "da_verificare"
       }
     ],
@@ -2726,6 +2740,27 @@
     ],
     "friggitrici-ad-aria-offerte-confronto": [
       {
+        "title": "Moulinex Easy Fry Silence 7L, Friggitrice ad Aria Silenziosa XXL, Fino a 8 Persone, 10 Modalità, con Sistema Genius e Griglia di Cottura Regolabile, Colore Bianco, EZ8421",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Cecotec Friggitrice ad Aria 4L - Air Fryer Cecofry&Grill Duoheat 4000. 1900W, 3in1: Friggitrice, Grill, Piastra. 10 Menù, Doppia Temp 40-200°C, Cottura uniforme e veloce, Cucina sa",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Cecotec Friggitrice ad Aria Senza Olio Cecofry Fantastik 5500 da 5,5 L. 1500W, Tecnologia PerfectCook, 9 modalità di cottura, Touch, Regolabile 80-200°C, Cottura fino a 60 minuti",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Melchioni Family | MATILDE Friggitrice ad Aria 8L 2200W di Potenza, Cestello Removibile con Maniglia, Griglia Separagrassi, Timer 60 Min, Cottura Light con -80% di Grassi",
         "merchant": "amazon",
         "ean": "8006012378269",
@@ -2833,6 +2868,13 @@
     ],
     "migliori-moda": [
       {
+        "title": "Under Armour Ua Undeniable 5.0 Duffle, Borsa sportiva Unisex - Adulto, Pitch Gray Medium Heather/Black/Black, L",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Fila Orbit Low, Scarpe da Ginnastica Basse Uomo, Bianco, 44 EU",
         "merchant": "amazon",
         "ean": "",
@@ -2848,20 +2890,6 @@
       },
       {
         "title": "SALEWA Brenta RDS Piumino Uomo | Piumino, 550 cuin, Antivento, Idrorepellente, Compatto, 390g",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Joma Maxima 2531 TF MAXW2531TF Uomini Turf Scarpe/Nero/Fluoro Giallo, Giallo., 46 EU",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Puma Unisex Kids Puma Caven 2.0 Ac+ Ps Sneakers, Puma White-Puma Silver-Puma Black, 32 EU",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -3041,16 +3069,16 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
+      },
+      {
+        "title": "T-Shirt Nucleo x Zeus Basic Uomo Donna - Maglietta Sportiva Traspirante - Cotone - vestibilità Comoda - Casual & Fitness",
+        "merchant": "amazon",
+        "ean": "8052219608852",
+        "mpn": "",
+        "status": "da_verificare"
       }
     ],
     "migliori-sneakers": [
-      {
-        "title": "Puma Unisex Kids Puma Caven 2.0 Ac+ Ps Sneakers, Puma White-Puma Silver-Puma Black, 32 EU",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
@@ -3251,6 +3279,13 @@
         "title": "Banlieue The Runner Uomo Sneakers Bianco Taglia 42 Scamosciato",
         "merchant": "footlocker",
         "ean": "7435107961986",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Banlieue The Runner Uomo Sneakers Bianco Taglia 42.5 Scamosciato",
+        "merchant": "footlocker",
+        "ean": "7435108526559",
         "mpn": "",
         "status": "da_verificare"
       }
