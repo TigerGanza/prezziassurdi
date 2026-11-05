@@ -1,5 +1,22 @@
 [
   {
+    "asin": "B0GQHGGWHX",
+    "title": "TCL 55V6D – Smart TV 4K HDR10+ da 55\" con Fire TV e Dolby Atmos | DTS:X, Game Master, Motion Clarity, Apple AirPlay 2, Press & Ask Alexa",
+    "price": 329.0,
+    "old_price": 499.0,
+    "discount": 34.0,
+    "image": "https://m.media-amazon.com/images/I/41RPUDxWpXL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0GQHGGWHX?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "tv_premium",
+    "macro_group": "tech",
+    "seasonal_title": "",
+    "published_at": "2026-11-05T13:37:17.763051+01:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B00C7N1QRO",
     "title": "NESCAFÉ DOLCE GUSTO Espresso Intenso Caffè 96 Capsule | Caffè espresso intenso, tostatura media, intensità 7. Caffè torrefatto e macinato. 96 Capsule Compatibili Nescafé Dolce Gusto",
     "price": 22.37,
@@ -1761,50 +1778,5 @@
     "source_external_id": "",
     "quality_status": "ready",
     "quality_issues": []
-  },
-  {
-    "asin": "W90A1788E5",
-    "title": "Epson Daisy Cartuccia Giallo xl",
-    "price": 8.99,
-    "old_price": 20.99,
-    "discount": 57.2,
-    "image": "https://www.unieuro.it/medias/sys_master/root/h06/h19/61625723322398/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-99b68c7e8395bdd995f3f369eef7c6d7-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-    "url": "https://www.awin1.com/pclick.php?p=16847491343&a=3086723&m=10139",
-    "category": "altro",
-    "macro_group": "awin_discovery",
-    "seasonal_title": "Offerta Unieuro",
-    "published_at": "2026-11-05T07:52:57.004686+01:00",
-    "source_merchant": "unieuro",
-    "source_external_id": "EPSC13T18144020",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "unieuro",
-        "merchant_name": "Unieuro",
-        "merchant_id": "10139",
-        "product_id": "EPSC13T18144020",
-        "awin_product_id": "16847491343",
-        "title": "Epson Daisy Cartuccia Giallo xl",
-        "brand": "Epson",
-        "ean": "8715946518138",
-        "mpn": "C13T18144022",
-        "price": 8.99,
-        "old_price": 20.99,
-        "discount": 57.2,
-        "image": "https://www.unieuro.it/medias/sys_master/root/h06/h19/61625723322398/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-99b68c7e8395bdd995f3f369eef7c6d7-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-        "url": "https://www.awin1.com/pclick.php?p=16847491343&a=3086723&m=10139",
-        "category": "Cartucce, Toner e Consumabili",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {}
-      }
-    ],
-    "merchant_match_score": 100,
-    "merchant_ean": "8715946518138",
-    "merchant_prices_checked_at": "2026-11-05T12:30:36.560690+01:00",
-    "availability": "in_stock",
-    "price_observed_at": "2026-11-05T12:30:36.560690+01:00"
   }
 ]
