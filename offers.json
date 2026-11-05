@@ -1,5 +1,22 @@
 [
   {
+    "asin": "B0F12ZNS6R",
+    "title": "Sole Cura Lavatrice Freschezza Floreale, Confezione da 2 Cura Lavatrice da 250 ml",
+    "price": 5.38,
+    "old_price": 7.0,
+    "discount": 23.0,
+    "image": "https://m.media-amazon.com/images/I/51eKcirDlbL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0F12ZNS6R?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "lavaggio_stiro",
+    "macro_group": "casa_cucina",
+    "seasonal_title": "",
+    "published_at": "2026-11-05T18:37:11.681836+01:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B0FZGF8G43",
     "title": "Super Mario Playset Diorama Bros. Wonder | Prodotto con licenza ufficiale; include Bubble Mario da 2,5 pollici, Bulrush e Pianta Piranha; interattivo; 3+",
     "price": 23.6,
@@ -1735,50 +1752,5 @@
     "source_external_id": "",
     "quality_status": "ready",
     "quality_issues": []
-  },
-  {
-    "asin": "B0DCQVQDQ7",
-    "title": "GoPro HERO13 - Action camera impermeabile con video 5.3K60, foto da 27 MP + compatibilità con obiettivi serie HB",
-    "price": 345.0,
-    "old_price": 449.99,
-    "discount": 23.0,
-    "image": "https://m.media-amazon.com/images/I/410HQrvEWNL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0DCQVQDQ7?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "hitech",
-    "macro_group": "tech",
-    "seasonal_title": "",
-    "published_at": "2026-11-05T12:17:42.668578+01:00",
-    "source_merchant": "amazon",
-    "source_external_id": "",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "mediaworld",
-        "merchant_name": "MediaWorld",
-        "merchant_id": "18529",
-        "product_id": "427994",
-        "awin_product_id": "41964145143",
-        "title": "Action Camera GOPRO HERO13 Black + obiettivi serie HB",
-        "brand": "Gopro",
-        "ean": "0810116383306",
-        "mpn": "GPR.CHDRB-132-RW",
-        "price": 499.0,
-        "old_price": 560.49,
-        "discount": 11.0,
-        "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_151522790/fee_786_587_png",
-        "url": "https://www.awin1.com/pclick.php?p=41964145143&a=3086723&m=18529",
-        "category": "Fotografia, Video e Droni;Action Cam;Action Cam 360",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {
-          "color": "black"
-        }
-      }
-    ],
-    "merchant_match_score": 94,
-    "merchant_ean": "0810116383306",
-    "merchant_prices_checked_at": "2026-11-05T11:01:01.818900+01:00"
   }
 ]
