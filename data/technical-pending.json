@@ -1,10 +1,17 @@
 {
   "version": 1,
-  "generated_at": "2026-11-05T14:22:53+01:00",
+  "generated_at": "2026-11-05T15:57:53+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
     "smartphone-in-offerta": [
+      {
+        "title": "SAMSUNG Galaxy S23+ Plus SM-S916B 256 GB Dual sim Phantom Black (Ricondizionato)",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "OnePlus 9 Pro 5G Smartphone con Fotocamera Hasselblad, 8 GB RAM + 128 GB, Nero (Stellar Black) (Ricondizionato)",
         "merchant": "amazon",
@@ -205,13 +212,6 @@
         "title": "Oppo Reno12 5G, Dual, 256GB 12GB Ram, Astro Silver",
         "merchant": "amazon",
         "ean": "6932169347211",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Samsung Galaxy A37 5G (Awesome Graygreen, 8 GB di RAM, 256 GB di spazio di archiviazione), IA agentica, tripla fotocamera con video notturno, autonomia di 2 giorni, aggiornamenti d",
-        "merchant": "amazon",
-        "ean": "8806099064099",
         "mpn": "",
         "status": "da_verificare"
       }
@@ -1004,13 +1004,6 @@
       }
     ],
     "migliori-tablet": [
-      {
-        "title": "Tablet 10 Pollici Android 15 con Gemini AI, 22GB RAM+ 128GB ROM+2TB Esp., Octa‑Core, Widevine L1, Batteria 8000mAh, WiFi 5G BT 5.0, Fotocamera 8/5 MP, Tastiera Mouse Custodia, Corp",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Tablet Android da 11 Pollici, Octa-Core, 24GB(4+20) RAM+128GB Memoria, Batteria 8200mAh, Widevine L1, Espandibile fino a 1TB, Doppia Fotocamera, Android Tablet per Studio, Lavoro e",
         "merchant": "",
@@ -2011,13 +2004,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Dyson Spot+Scrub™ Robot aspirapolvere AI Wet and Dry – Rullo bagnato autopulente, autosvuotante, potenza di aspirazione 4x per tappeti, rimozione macchie AI (nero/blu)",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Lefant M210 PRO OMNI Robot Aspirapolvere Lavapavimenti con Rullo 20.000Pa",
         "merchant": "",
         "ean": "",
@@ -2197,6 +2183,13 @@
         "merchant": "unieuro",
         "ean": "6970135037452",
         "mpn": "T50OMNIBKGEN2",
+        "status": "da_verificare"
+      },
+      {
+        "title": "iRobot Roomba 205 Combo 2 L Senza sacchetto Nero",
+        "merchant": "unieuro",
+        "ean": "5061042263025",
+        "mpn": "817185",
         "status": "da_verificare"
       }
     ],
@@ -2840,28 +2833,28 @@
     ],
     "migliori-moda": [
       {
+        "title": "Zzkouine Impermeabile Giacca da Montagna in Pile da Uomo Giacca da Sci Calda Multi-Tasche Adatto per Sport Invernali e Attività Outdoor in Montagna, Antivento, Impermeabile e Trasp",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "SALEWA Brenta RDS Piumino Uomo | Piumino, 550 cuin, Antivento, Idrorepellente, Compatto, 390g",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Joma Maxima 2531 TF MAXW2531TF Uomini Turf Scarpe/Nero/Fluoro Giallo, Giallo., 46 EU",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Puma Unisex Kids Puma Caven 2.0 Ac+ Ps Sneakers, Puma White-Puma Silver-Puma Black, 32 EU",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Calvin Klein Donna Portafoglio Z/A Wallet Lg Grande, Nero (Black), Taglia Unica",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Guess Donna Portafoglio Zip Around Laurel Ii Slg Small Beige | design iconico Guess, molteplici scomparti, porta carte",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Zzkouine Giacca da Sci Uomo, Impermeabile e Traspirante - Giacca Invernale Imbottita per Montagna XL",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -3263,13 +3256,6 @@
       }
     ],
     "lavapavimenti-elettriche": [
-      {
-        "title": "Dyson Cyclone V10 Submarine Aspirapolvere Senza Filo, 150 Air Watt | Lavapavimenti per Pavimenti Duri, Tecnologia Anti-Groviglio, Fino a 60 Min di Autonomia, Testina a Rullo Umido ",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Tineco Floor ONE S7 Stretch Ultra Lavapavimenti aspirapolvere senza fili | Fino a 50 minuti di autonomia, MHCBS, FlashDry",
         "merchant": "amazon",
