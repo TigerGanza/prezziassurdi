@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-05T23:02:53+01:00",
+  "generated_at": "2026-11-06T00:27:53+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -2004,7 +2004,7 @@
     ],
     "migliori-robot-aspirapolvere": [
       {
-        "title": "Lefant M1 Robot Aspirapolvere Lavapavimenti con Mappatura 3 in 1, 5500Pa | Ultrasottile 32cm, 200min, Navigazione Laser dToF, Controllo APP/Alexa/Google, Doppia Spazzola Laterale, ",
+        "title": "MONSGA MR1 Robot Aspirapolvere Lavapavimenti 3-in-1, 5000Pa/140min | 8CM, Anti-groviglio, Ricarica Automatica, Controllo App/Telecomando/Alexa, Silenzioso, Per Peli Animali, Pavime",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -2049,6 +2049,13 @@
         "title": "dreame D20 Pro Plus Robot Aspirapolvere Lavapavimenti, DuoBrush per Peli",
         "merchant": "",
         "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Lefant M1 Robot Aspirapolvere Lavapavimenti con Mappatura 3 in 1, 5500Pa | Ultrasottile 32cm, 200min, Navigazione Laser dToF, Controllo APP/Alexa/Google, Doppia Spazzola Laterale, ",
+        "merchant": "amazon",
+        "ean": "0780627997739",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -2204,13 +2211,6 @@
         "merchant": "unieuro",
         "ean": "6956079731205",
         "mpn": "J15ULTRA",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Roborock Saros Z70 Robot Aspirapolvere e Lavapavimenti con Braccio Meccanico OmniGrip, 7,98cm Ultrasottile, Aspirazione 22.000 Pa, Tecnologia FlexiArm, T",
-        "merchant": "unieuro",
-        "ean": "6936905900760",
-        "mpn": "CN82960",
         "status": "da_verificare"
       }
     ],
@@ -3299,20 +3299,6 @@
     ],
     "lavapavimenti-elettriche": [
       {
-        "title": "DREAME H14 Pro Aspirapolvere Lavapavimenti, Design Piatto a 180° | Asciugatura in 5 min, Dosaggio Automatico del Detergente, Controllo Tramite App, Aspirazione da 18.000 Pa",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "dreame H12 Pro Ultra Aspirapolvere Lavapavimenti, Aspirazione 16.000 Pa | Lav. e Asciug. Spazzola, Auto-pulizia con Doppia Rotazione e Raschietto, Pulizia su Due Lati, Rilevamento ",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Tineco Floor ONE S7 Stretch Ultra Lavapavimenti aspirapolvere senza fili | Fino a 50 minuti di autonomia, MHCBS, FlashDry",
         "merchant": "amazon",
         "ean": "6932485005857",
@@ -3351,6 +3337,20 @@
         "title": "Tineco Floor ONE i6 Stretch Aspirapolvere e Lavapavimenti , 20.000Pa | Design piatto a 180°, Fino a 40 minuti di autonomia, Anti-Groviglio, Autopulizia",
         "merchant": "amazon",
         "ean": "6971745581151",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "dreame H12 Pro Ultra Aspirapolvere Lavapavimenti, Aspirazione 16.000 Pa | Lav. e Asciug. Spazzola, Auto-pulizia con Doppia Rotazione e Raschietto, Pulizia su Due Lati, Rilevamento ",
+        "merchant": "amazon",
+        "ean": "6976233677378",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "DREAME H14 Pro Aspirapolvere Lavapavimenti, Design Piatto a 180° | Asciugatura in 5 min, Dosaggio Automatico del Detergente, Controllo Tramite App, Aspirazione da 18.000 Pa",
+        "merchant": "amazon",
+        "ean": "8050249741198",
         "mpn": "",
         "status": "da_verificare"
       },
