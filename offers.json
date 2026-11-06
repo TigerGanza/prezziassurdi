@@ -1,5 +1,22 @@
 [
   {
+    "asin": "B0GQLXJXG9",
+    "title": "VTOMAN VS40 Portatile Pannello Solare da 40W, 13,9V, 25% Efficienza | Pieghevole Pannello Solare Impermeabile IP67 porte USB-A (Tipo C), PD30W, Leggero, Per Smartphone, Power bank",
+    "price": 59.0,
+    "old_price": 99.0,
+    "discount": 40.0,
+    "image": "https://m.media-amazon.com/images/I/51n15y7-aJL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0GQLXJXG9?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "outdoor",
+    "macro_group": "fai_da_te_outdoor",
+    "seasonal_title": "",
+    "published_at": "2026-11-06T09:42:33.531960+01:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B004APAEF2",
     "title": "Ariete Steam Iron 2200w 2200 W 25 g/min",
     "price": 15.0,
@@ -2558,51 +2575,5 @@
     "source_external_id": "",
     "quality_status": "ready",
     "quality_issues": []
-  },
-  {
-    "asin": "B0CNH9DX7P",
-    "title": "BEKO - CF100EWN - Congelatore Orizzontale Statico, Classe E | Volume Totale Netto: 98lt, Controllo elettronico, Colore Bianco, Dimensioni HxLxP: 84,5 x 54,5 x 54,5",
-    "price": 148.84,
-    "old_price": 199.0,
-    "discount": 25.0,
-    "image": "https://m.media-amazon.com/images/I/213dIl0SjKL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0CNH9DX7P?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "grandi_elettrodomestici",
-    "macro_group": "casa_cucina",
-    "seasonal_title": "",
-    "published_at": "2026-11-05T23:02:12.218101+01:00",
-    "source_merchant": "amazon",
-    "source_external_id": "",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "unieuro",
-        "merchant_name": "Unieuro",
-        "merchant_id": "10139",
-        "product_id": "BKOCF100EWN",
-        "awin_product_id": "38283049509",
-        "title": "Beko CF100EWN: Congelatore Orizzontale, Statico, 98 L, 54.5 cm",
-        "brand": "Beko",
-        "ean": "8690842609671",
-        "mpn": "8996603200",
-        "price": 169.9,
-        "old_price": 299.9,
-        "discount": 43.3,
-        "image": "https://www.unieuro.it/medias/sys_master/root/h2a/hf4/49714640322590/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-519dbfad1c5e9bdf6500851b5d95e17d-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-        "url": "https://www.awin1.com/pclick.php?p=38283049509&a=3086723&m=10139",
-        "category": "Congelatori",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {
-          "volume_ml": 98000.0,
-          "length_mm": 545.0
-        }
-      }
-    ],
-    "merchant_match_score": 94,
-    "merchant_ean": "8690842609671",
-    "merchant_prices_checked_at": "2026-11-05T22:19:58.487050+01:00"
   }
 ]
