@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-06T13:56:15+01:00",
+  "generated_at": "2026-11-06T15:21:15+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -388,13 +388,6 @@
     ],
     "tv-in-offerta": [
       {
-        "title": "Samsung Smart TV 43\" UE43M72HAUXZT Mini LED 4K , HDR 10+, Motion Xcelerator 144Hz, Dynamic Sound Pack, Gaming Hub, Pure Spectrum Color, Knox Security, Voice Control with AI(VAC), V",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Xiaomi TV F Pro 32 2025, 32 pollici (81 cm), QLED, Smart TV, Fire TV, Triple Tuner DVB-C/S/S2/T/T2,Dolby Audio, DTS Virtual:X, DTS-HD, Controllo Vocale Alexa, Compatibile con Apple",
         "merchant": "amazon",
         "ean": "6941948706361",
@@ -433,6 +426,13 @@
         "title": "LG 32LQ63006LA Smart TV 32\" Full HD, TV LED 2022 con Processore α5 Gen 5 con AI, webOS 22, HDR, Wi-Fi, Bluetooth, Game Optimizer, Google Stadia e GeForce NOW, Compatibile con Googl",
         "merchant": "amazon",
         "ean": "8806091638359",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Samsung Smart TV 43\" UE43M72HAUXZT Mini LED 4K , HDR 10+, Motion Xcelerator 144Hz, Dynamic Sound Pack, Gaming Hub, Pure Spectrum Color, Knox Security, Voice Control with AI(VAC), V",
+        "merchant": "amazon",
+        "ean": "8806099126568",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -791,13 +791,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "NUOVO Laptop 2026 con Windows 11, Intel ATOM X7 A3950, 12GB RAM, 512GB/1TB SSD, 1920*1080, Computer per Ufficio e Studio",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Laptop con 16GB RAM e 1TB/2TB SSD Schermo HD da 15,6 Pollici, Intel Core I9 9900, Windows 11 Professional, Computer Portatile",
         "merchant": "aliexpress",
         "ean": "",
@@ -820,6 +813,13 @@
       },
       {
         "title": "Laptop da Ufficio e Studio FUCHU Windows 11 Intel Atom X7 A3950 180 ° Laptop pieghevole sottile da gaming 12GB RAM 512GB 1TB SSD 1920*1080",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "NUOVO Laptop 2026 con Windows 11, Intel ATOM X7 A3950, 12GB RAM, 512GB/1TB SSD, 1920*1080, Computer per Ufficio e Studio",
         "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
@@ -989,14 +989,14 @@
         "status": "da_verificare"
       },
       {
-        "title": "Mini PC Gaming Desktop Windows 11 Pro Intel Core I9 10980HK Mini PC 16GB DDR4 1TB SSD Computer per Gamer Dual WIFI 6 BT5.2 4K HD",
+        "title": "SOYO Y5, mini PC con processore Intel Core i7 8650U (cache ad alta velocità da 8 MB, fino a 4,20 GHz), 16 GB di RAM DDR4, SSD M.2 da 512 GB, supporto per tre display 4K, Wi Fi 5/BT",
         "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "SOYO Y5, mini PC con processore Intel Core i7 8650U (cache ad alta velocità da 8 MB, fino a 4,20 GHz), 16 GB di RAM LPDDR4, SSD M.2 da 512 GB, supporto per tre display 4K, Wi Fi 5/",
+        "title": "Mini PC Gaming Desktop Windows 11 Pro Intel Core I9 10980HK Mini PC 16GB DDR4 1TB SSD Computer per Gamer Dual WIFI 6 BT5.2 4K HD",
         "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
@@ -1485,6 +1485,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "Versione globale OnePlus Watch 3 Smartwatch da 43 mm Display AMOLED da 1,32 pollici Fino a 60 ore di durata della batteria Sistema operativo di Google GPS NFC",
+        "merchant": "aliexpress",
+        "ean": "6921815628989",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Amazfit ACTIVE EDGE 3,35 cm (1.32'') TFT 46 mm Digitale 360 x 360 Pixel Touch screen Nero GPS (satellitare)",
         "merchant": "unieuro",
         "ean": "6972596107231",
@@ -1748,6 +1755,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "Ultimea 410W, soundbar con audio surround virtuale 7.1, ideale per smart TV, dotata di subwoofer da 6,5 pollici e 2 altoparlanti surround, controllabile tramite app.",
+        "merchant": "aliexpress",
+        "ean": "6978897889630",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "ULTIMEA Soundbar Compatta 2.1ch per TV con Controllo App, Subwoofer Integrato da 3 Pollici BassMX ™ Soundbar All in One per PC da Gaming",
         "merchant": "aliexpress",
         "ean": "6978897889548",
@@ -1762,23 +1776,9 @@
         "status": "da_verificare"
       },
       {
-        "title": "Ultimea 410W, soundbar con audio surround virtuale 7.1, ideale per smart TV, dotata di subwoofer da 6,5 pollici e 2 altoparlanti surround, controllabile tramite app.",
-        "merchant": "aliexpress",
-        "ean": "6978897889630",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "ULTIMEA Aura S4T 350W Soundbar 7.1ch per TV con Subwoofer, 4 Altoparlanti Surround e Staffe di Montaggio, Sistema Home Theater Surround",
         "merchant": "aliexpress",
         "ean": "6978897889586",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "ULTIMEA Soundbar 5.1 con Dolby Atmos, Sistema Home Theater Surround per TV con Subwoofer Cablato da 5,25\", Controllo tramite APP",
-        "merchant": "aliexpress",
-        "ean": "6978897889623",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -1870,6 +1870,13 @@
       },
       {
         "title": "Auricolare Bluetooth per Casco Moto XGP X1 con Controlli Vocali e Funzione di Risposta Automatica alle Chiamate, Accessorio Portatile per Moto",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Auricolari Bluetooth wireless VOULAO di alta qualità con traduttore AI per non udenti e ipoudenti, comodi e con cancellazione del rumore.",
         "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
@@ -2279,6 +2286,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "INSE V770 Aspirapolvere Senza Fili, 30Kpa 6 in 1 Leggero per Tappeti, Pavimenti Duri, Peli di Animali",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Aspirapolvere Senza Fili Tdyon, Potenza di Aspirazione 50000Pa, Motore da 500W con Display LED, 50 Minuti di Autonomia in Modalità Automatica e Spazzola Anti Groviglio per Tappeti ",
         "merchant": "aliexpress",
         "ean": "0669416793793",
@@ -2296,13 +2310,6 @@
         "title": "Aspirapolvere senza fili Erabros EV3, potente aspirazione da 500 W e 60 kPa, aspirapolvere verticale, autonomia di 60 minuti, spazzola anti groviglio, batteria rimovibile, aspirapo",
         "merchant": "aliexpress",
         "ean": "6978669692154",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Aspirapolvere Senza Fili Grenintol S119 per Peli di Cani e Animali Domestici | Design pieghevole, controllo a 3 velocità | Adatto agli animali domestici",
-        "merchant": "aliexpress",
-        "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -2542,20 +2549,6 @@
     ],
     "migliori-frigoriferi": [
       {
-        "title": "CANDY Frigorifero Combinato 207 Litri, Statico, Classe E, Bianco | Porta Reversibile, Libera Installazione, Illuminazione LED, Silenziosa, 40 dB, 151x55x58 cm, CHCS 514EW",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Hisense RB390N4CCD1 Frigorifero Combinato Total No Frost, Inox, 1.86x60cm, Classe D, 304L",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "BEKO RCSA300K40GN - Frigorifero Combinato Libera Installazione 291 Litri, 4 Ripiani in Vetro, Frigo con Congelatore 3 Cassetti, Elettrodomestici Cucina, Classe E, 54L x 181,4H x 57",
         "merchant": "",
         "ean": "",
@@ -2564,6 +2557,13 @@
       },
       {
         "title": "Bosch KGN36NLEA Serie 2 Frigorifero Total No Frost 186x60cm Silver",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Hisense RB390N4CCD1 Frigorifero Combinato Total No Frost, Inox, 1.86x60cm, Classe D, 304L",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -2749,6 +2749,13 @@
         "merchant": "unieuro",
         "ean": "8806094914245",
         "mpn": "RT38CG6624S9ES",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Samsung Frigorifero Combinato EcoFlex AI 2m 390L RB38C774DSA",
+        "merchant": "unieuro",
+        "ean": "8806094990324",
+        "mpn": "RB38C774DSA/EF",
         "status": "da_verificare"
       }
     ],
