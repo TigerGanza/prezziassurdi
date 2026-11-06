@@ -1,5 +1,22 @@
 [
   {
+    "asin": "B0FTGNDF9X",
+    "title": "Melchioni Family Cremosa Macchina da Caffè a Capsule Compatibile Nespresso, 3 Selezioni Caffè (Corto, Lungo, Doppio), Serbatoio 0.5L, 1400W, Poggiatazzina Regolabile – Espresso e Caffè Crema",
+    "price": 50.99,
+    "old_price": 65.53,
+    "discount": 22.0,
+    "image": "https://m.media-amazon.com/images/I/41LrqJoj8vL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0FTGNDF9X?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "cucina",
+    "macro_group": "casa_cucina",
+    "seasonal_title": "",
+    "published_at": "2026-11-06T11:35:33.740271+01:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B0DPLDKM4B",
     "title": "LUNEDA Set Vaschetta e Coperchio per Lievitazione Pasta, Pane, Pizza Contenitore 12 L Bianco in Polietilene Sovrapponibile Uso Alimentare per Panetti, Made in Italy - 30 x 40 x 10 cm",
     "price": 24.8,
@@ -2405,60 +2422,5 @@
     "source_external_id": "",
     "quality_status": "ready",
     "quality_issues": []
-  },
-  {
-    "asin": "W17BAFB501",
-    "title": "Remington Asciugacapelli PROLuxe AC9140",
-    "price": 30.0,
-    "old_price": 69.99,
-    "discount": 57.1,
-    "image": "https://www.unieuro.it/medias/sys_master/root/hae/hf8/51782714753054/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-5f07fcd7f43ab54300b55e4f968ea5cf-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-    "url": "https://www.awin1.com/pclick.php?p=36099386326&a=3086723&m=10139",
-    "category": "cura-persona",
-    "macro_group": "awin_discovery",
-    "seasonal_title": "Offerta Unieuro",
-    "published_at": "2026-11-06T06:17:29.009390+01:00",
-    "source_merchant": "unieuro",
-    "source_external_id": "REMAC9140",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "unieuro",
-        "merchant_name": "Unieuro",
-        "merchant_id": "10139",
-        "product_id": "REMAC9140",
-        "awin_product_id": "36099386326",
-        "title": "Remington Asciugacapelli PROLuxe AC9140",
-        "brand": "Remington",
-        "ean": "4008496873449",
-        "mpn": "AC9140",
-        "price": 30.0,
-        "old_price": 69.99,
-        "discount": 57.1,
-        "image": "https://www.unieuro.it/medias/sys_master/root/hae/hf8/51782714753054/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-5f07fcd7f43ab54300b55e4f968ea5cf-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-        "url": "https://www.awin1.com/pclick.php?p=36099386326&a=3086723&m=10139",
-        "category": "Asciugacapelli",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {}
-      },
-      {
-        "merchant": "amazon",
-        "merchant_name": "Amazon",
-        "price": 34.49,
-        "old_price": null,
-        "discount": null,
-        "url": "https://www.amazon.it/dp/B01KLXFBVI?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-        "title": "Remington Asciugacapelli Professionale 2400W - Teconologia OPTIheat per risultati di lunga durata - 3 accessori styling, cura ionica, Anti crespo, Motore di lunga durata - PROluxe AC9140",
-        "image": "https://m.media-amazon.com/images/I/41g8k+W062L._SL500_.jpg"
-      }
-    ],
-    "merchant_match_score": 100,
-    "merchant_ean": "4008496873449",
-    "merchant_prices_checked_at": "2026-11-06T10:23:45.091777+01:00",
-    "availability": "in_stock",
-    "price_observed_at": "2026-11-06T10:23:45.091777+01:00"
   }
 ]
