@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-06T22:46:15+01:00",
+  "generated_at": "2026-11-07T00:11:15+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -409,27 +409,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Hisense Smart TV QLED 144Hz 75\" 4K 75E7S PRO | Audio Dolby Atmos, VIDAA OS, Native 144Hz Game Mode, Dolby Vision IQ, HDR 10+, AirPlay2, Alexa, lativù 4K, 2026 Model",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Samsung 75\" UE75U7000HUXZT Crystal UHD 4K 50Hz, Smart TV Vision AI 2026 | Crystal 4K Processor, HDR10+, PurColor, Motion Xcelerator, Dynamic Sound Pack, Gaming Hub, pacchetto intra",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Samsung Smart TV 75\" UE75U8090HUXZT Crystal UHD, Crystal 4K Processor, HDR10+, PurColor, Motion Xcelerator, Dynamic Sound Pack, Gaming Hub, TV Plus, Knox Security, Vision AI, 2026",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Xiaomi TV F Pro 32 2025, 32 pollici (81 cm), QLED, Smart TV, Fire TV, Triple Tuner DVB-C/S/S2/T/T2,Dolby Audio, DTS Virtual:X, DTS-HD, Controllo Vocale Alexa, Compatibile con Apple",
         "merchant": "amazon",
         "ean": "6941948706361",
@@ -594,6 +573,27 @@
         "title": "Samsung TV 55 Pollici 4K UHD Smart TV UE55U8072HUXXH, Crystal UHD, Crystal Processor 4K, HDR10+, Tizen, Wi-Fi, Bluetooth, HDMI, USB, Vision AI, U8000H 2026",
         "merchant": "amazon",
         "ean": "8806097977698",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "XIAOMI TV F 65 2025, 65 pollici (165 cm),4K UHD,Smart TV, Fire TV,Triple Tuner DVB-C/S/S2/T/T2, HDR10,MEMC, Modalità Game Boost 120Hz, Controllo Vocale Alexa, 2GB+32GB, Compatibile",
+        "merchant": "amazon",
+        "ean": "6941948706705",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "TCL 65PF650 – Smart TV 4K Ultra HD da 65\", Fire TV | Game Master, Motion Clarity, Dolby Vision & Atmos, Press & Ask Alexa",
+        "merchant": "amazon",
+        "ean": "5901292523343",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "TCL 65V6C – Smart TV 4K HDR Direct LED da 65\", Google TV con Dolby Audio | Game Master, Motion Clarity, Google Assistant, Compatible with Alexa",
+        "merchant": "amazon",
+        "ean": "5901292525972",
         "mpn": "",
         "status": "da_verificare"
       }
@@ -1011,6 +1011,13 @@
       }
     ],
     "migliori-tablet": [
+      {
+        "title": "TECLAST M60 Android 17 Tablet 12 Pollici 2K Tablets 90Hz, 4G LTE Dual SIM, 32GB RAM+128GB ROM(8TB TF), T7250 2GHz Octa Core, 80000mAh, 5G WiFi, Widevine L1, GPS/13MP, Gemini AI Gam",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Tablet Android da 11 Pollici, Octa-Core, 24GB(4+20) RAM+128GB Memoria, Batteria 8200mAh, Widevine L1, Espandibile fino a 1TB, Doppia Fotocamera, Android Tablet per Studio, Lavoro e",
         "merchant": "",
@@ -1820,6 +1827,13 @@
     ],
     "cuffie-bluetooth-in-offerta": [
       {
+        "title": "WOLFANG Lettore MP3 con Bluetooth 5.2, clip sportiva (Arancione) | formato mini, peso 28,3 g, radio FM HiF, registratore vocale, auricolari inclusi, Scheda SD non inclusa",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Sony ULT WEAR Cuffie bluetooth con Cancellazione Rumore e bassi profondi | Over-Ear, wireless, WH-1000XM5 processore, chiamate nitide, 30 ore batteria, noise cancelling, iOS & Andr",
         "merchant": "amazon",
         "ean": "",
@@ -2229,6 +2243,13 @@
       }
     ],
     "aspirapolvere-senza-fili-in-offerta": [
+      {
+        "title": "LEHMANN EasyWash Lavatappeti Portatile 750 W, Aspirapolvere Aspira, Lava e Asciuga, Sistema a Doppio Serbatoio, Pulitore e lava Tappezzeria, Tappeti, Moquette, Materassi, Auto e Pu",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Aspirapolvere Senza Fili Scopa Elettrica - Potente Filo Batteria Cordless Vacuum Cleaner Scope Elettriche Sacco Portatile Ciclonico Silenzioso per Divano Tappeti Parquet Pavimenti ",
         "merchant": "amazon",
@@ -2854,6 +2875,13 @@
     ],
     "migliori-moda": [
       {
+        "title": "SINOPHANT Leggins Donna Vita Alta Sportivi Nero SM | Leggings Palestra Abbigliamento Pilates Fitness Pantaloni Yoga Controllo della Pancia Opaco Elastici Morbido",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "PUMA Unisex Caven 2.0 Scarpe da ginnastica, Puma White Puma Silver, 44 EU",
         "merchant": "amazon",
         "ean": "",
@@ -2869,13 +2897,6 @@
       },
       {
         "title": "PUMA Cilia Mode, Sneaker Donna, Black Silver, 39 EU",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "FALARY Slip Uomo Cotone Pacco da 6 Intimo Uomo Multicolore | 100% cotone morbido e traspirante. Vestibilità confortevole, senza etichetta, supporto stabile e taglio ergonomico 3D.",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
