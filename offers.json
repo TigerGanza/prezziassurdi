@@ -1,5 +1,22 @@
 [
   {
+    "asin": "B0C3CNR1WK",
+    "title": "Nobleza Cuccia Cane Interno, 87x77cm Letto per Cani, Cuscino Morbida per Animali, Lavabile, Cuscino Cane Traspirante Grande/Media/Piccola",
+    "price": 20.11,
+    "old_price": 37.99,
+    "discount": 47.0,
+    "image": "https://m.media-amazon.com/images/I/41lsva1CRtL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0C3CNR1WK?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "animali",
+    "macro_group": "famiglia_animali",
+    "seasonal_title": "",
+    "published_at": "2026-11-07T22:41:15.959850+01:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B0FX2QCHCJ",
     "title": "SERVOMASTER Aspirapolvere Auto Potente, Aspirapolvere Portatile | Aspirabriciole Senza Fili con Filtro HEPA, Kit Pulizia Interni, Aspiratore Auto per peli, casa e ufficio",
     "price": 17.13,
@@ -1799,48 +1816,5 @@
     "source_external_id": "",
     "quality_status": "ready",
     "quality_issues": []
-  },
-  {
-    "asin": "B0CGM691F4",
-    "title": "Bosch SMV2HVX02E Serie 2 Lavastoviglie incasso a scomparsa totale | Lavastoviglie a scomparsa totale, Smart, Puntatore a pavimento, Made in Europe",
-    "price": 342.0,
-    "old_price": 499.0,
-    "discount": 31.0,
-    "image": "https://m.media-amazon.com/images/I/41+PrVEz-hL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0CGM691F4?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "grandi_elettrodomestici",
-    "macro_group": "casa_cucina",
-    "seasonal_title": "",
-    "published_at": "2026-11-07T16:01:11.466642+01:00",
-    "source_merchant": "amazon",
-    "source_external_id": "",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "unieuro",
-        "merchant_name": "Unieuro",
-        "merchant_id": "10139",
-        "product_id": "BOHSMV2HVX02E",
-        "awin_product_id": "36457280418",
-        "title": "Bosch Serie 2 SMV2HVX02E Lavastoviglie da incasso a scomparsa totale 13 coperti Classe D",
-        "brand": "Bosch",
-        "ean": "4242005434084",
-        "mpn": "SMV2HVX02E",
-        "price": 399.9,
-        "old_price": 719.9,
-        "discount": 44.5,
-        "image": "https://www.unieuro.it/medias/sys_master/root/h2f/h90/49078483812382/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-5484f66e53576451ca498f2139dab3a3-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-        "url": "https://www.awin1.com/pclick.php?p=36457280418&a=3086723&m=10139",
-        "category": "Lavastoviglie da incasso",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {}
-      }
-    ],
-    "merchant_match_score": 100,
-    "merchant_ean": "4242005434084",
-    "merchant_prices_checked_at": "2026-11-07T15:23:59.265341+01:00"
   }
 ]
