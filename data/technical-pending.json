@@ -1,10 +1,24 @@
 {
   "version": 1,
-  "generated_at": "2026-11-07T07:16:22+01:00",
+  "generated_at": "2026-11-07T08:41:16+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
     "smartphone-in-offerta": [
+      {
+        "title": "Apple iPhone 16e 128 GB: progettato per Apple Intelligence, con chip A18, un’autonomia grandiosa, fotocamera Fusion da 48MP e display Super Retina XDR 6,1''; Bianco",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Apple iPhone 17 256 GB: display 6,3\" con ProMotion, chip A19, fotocamera frontale Center Stage per selfie di gruppo più facili, più resistenza ai graffi, un giorno intero di batter",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "ZTE V80 Pro Smartphone 4G RAM 20GB(8+12), memoria 256GB, Display 6,75\" High-res 120HZ con Live Island 2.0, Tripla fotocamera 108MP, Fotocamera frontale 16MP, Android 16, Batteria 5",
         "merchant": "amazon",
@@ -200,20 +214,6 @@
         "ean": "6932169375795",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "Oppo Reno12 5G, Dual, 256GB 12GB Ram, Astro Silver",
-        "merchant": "amazon",
-        "ean": "6932169347211",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "realme 16 Pro 5G Smartphone 8+256GB, Grey | Batteria 6500mAh, Ricarica Rapida 80W, Display AMOLED 6,78 pollici, 144Hz, Fotocamera 200MP, Dimensity 7300 Max, IP69",
-        "merchant": "amazon",
-        "ean": "6941764462892",
-        "mpn": "",
-        "status": "da_verificare"
       }
     ],
     "migliori-smartphone-sotto-300-euro": [
@@ -387,13 +387,6 @@
       }
     ],
     "tv-in-offerta": [
-      {
-        "title": "LG QNED evo AI MiniLED 43 Pollici, QNED86B 2026 Smart TV 4K - 43QNED86B6B | AI Magic Remote, HDR10 Pro, WebOS con Gemini, Spessore 29,7mm, Gaming con VRR 60Hz, 4 HDMI",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Xiaomi TV F Pro 32 2025, 32 pollici (81 cm), QLED, Smart TV, Fire TV, Triple Tuner DVB-C/S/S2/T/T2,Dolby Audio, DTS Virtual:X, DTS-HD, Controllo Vocale Alexa, Compatibile con Apple",
         "merchant": "amazon",
@@ -596,6 +589,13 @@
         "ean": "6942351431703",
         "mpn": "",
         "status": "da_verificare"
+      },
+      {
+        "title": "Samsung Smart TV 75\" UE75U8090HUXZT Crystal UHD, Crystal 4K Processor, HDR10+, PurColor, Motion Xcelerator, Dynamic Sound Pack, Gaming Hub, TV Plus, Knox Security, Vision AI, 2026",
+        "merchant": "amazon",
+        "ean": "8806097963455",
+        "mpn": "",
+        "status": "da_verificare"
       }
     ],
     "offerte-tv-55-65-pollici": [
@@ -685,13 +685,6 @@
       }
     ],
     "migliori-notebook": [
-      {
-        "title": "Lenovo Chromebook 14\" Notebook IPS WUXGA (1920x1200), 128GB SSD, 8GB RAM, Wi-Fi6E, ChromeOS, Intel N150 - Laptop Leggero per Studio, Streaming e Uso Quotidiano - Caricatore non inc",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "ASUS Vivobook 16 F1605VA#B0FZL8JLW9, Notebook con display 16\" Anti-glare, 60Hz,Intel® Core™ 9 Processor 270H,RAM 16GB, 1TB SSD, WIN11 Home, Argento",
         "merchant": "",
@@ -1004,6 +997,13 @@
       }
     ],
     "migliori-tablet": [
+      {
+        "title": "Gleeso Tablet Bambini | Android 16 Tablet per Bambini 10 Pollici, Kids Tablet | 24GB+1TB TF | Controllo Parentale | 8MP Fotocamera | WiFi 6/BT 5.3, Tablet con Custodia Protettiva -",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "TECLAST M60 Android 17 Tablet 12 Pollici 2K Tablets 90Hz, 4G LTE Dual SIM, 32GB RAM+128GB ROM(8TB TF), T7250 2GHz Octa Core, 80000mAh, 5G WiFi, Widevine L1, GPS/13MP, Gemini AI Gam",
         "merchant": "amazon",
@@ -1397,13 +1397,6 @@
         "title": "Amazfit Active Max Smartwatch 48mm, 25 Giorni Autonomia, Mappe Offline, NFC | 1,5'' AMOLED, GPS, 4GB di Memoria, 170+ Sportive, 5 ATM, Monitoraggio Fitness, Sonno & Battito per And",
         "merchant": "amazon",
         "ean": "6972596109631",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Samsung Galaxy Watch9, 44mm, Graphite, Bluetooth [Versione Italiana] | 3 anni di garanzia, Design anti-urto, guida al sonno, coaching salute, benessere cardiaco, 445 mAh, Snapdrago",
-        "merchant": "amazon",
-        "ean": "8806099479237",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -1813,28 +1806,21 @@
     ],
     "cuffie-bluetooth-in-offerta": [
       {
+        "title": "AKG K52 Cuffie da studio di monitoraggio chiuse ad alte prestazioni, con cavo, design leggero, adattatori da 3,5 mm e 1/4\", cavo da 3 m - Nero",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Soundcore di Anker Q20i, Cuffie Bluetooth Over-Ear con Cancellazione Rumore | ANC ibrida, 40 ore con ANC, audio Hi-Res, bassi potenti, modalità trasparenza, connessione wireless e ",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "WOLFANG Lettore MP3 con Bluetooth 5.2, clip sportiva (Arancione) | formato mini, peso 28,3 g, radio FM HiF, registratore vocale, auricolari inclusi, Scheda SD non inclusa",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Sony ULT WEAR Cuffie bluetooth con Cancellazione Rumore e bassi profondi | Over-Ear, wireless, WH-1000XM5 processore, chiamate nitide, 30 ore batteria, noise cancelling, iOS & Andr",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Sony ULT WEAR Cuffie bluetooth con Cancellazione Rumore e bassi profondi | Over-Ear, wireless, WH-1000XM5 processore, chiamate nitide, 30 ore batteria, noise cancelling, iOS & Andr",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Sony WH-CH720N | Cuffie Wireless con Noise Cancelling, Connessione Multipoint, Fino a 35 ore di durata della batteria e Ricarica Rapida - Blu",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -1851,13 +1837,6 @@
         "title": "Soundcore di Anker Space One, Cuffie Bluetooth Over-Ear con ANC Adattiva | Riduzione voce umana 2X più forte, 40 ore con ANC, audio Hi-Res Wireless LDAC, chiamate chiare e controll",
         "merchant": "amazon",
         "ean": "0194644127015",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Soundcore di Anker Q20i, Cuffie Bluetooth Over-Ear con Cancellazione Rumore | ANC ibrida, 40 ore con ANC, audio Hi-Res, bassi potenti, modalità trasparenza, connessione wireless e ",
-        "merchant": "amazon",
-        "ean": "1946441357206",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -2017,13 +1996,6 @@
       }
     ],
     "migliori-robot-aspirapolvere": [
-      {
-        "title": "Dyson R2 Nurovi Wash+Dry Robot Aspirapolvere Lavapavimenti (2026) | Robot aspirapolvere e lavapavimenti in uno. Panni Reuleaux fin dentro gli angoli. 21.000 Pa Twin-capture su ogni",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Lefant M210 PRO OMNI Robot Aspirapolvere Lavapavimenti con Rullo 20.000Pa",
         "merchant": "",
@@ -2226,6 +2198,13 @@
         "ean": "6956079731205",
         "mpn": "J15ULTRA",
         "status": "da_verificare"
+      },
+      {
+        "title": "Roborock Saros Z70 Robot Aspirapolvere e Lavapavimenti con Braccio Meccanico OmniGrip, 7,98cm Ultrasottile, Aspirazione 22.000 Pa, Tecnologia FlexiArm, T",
+        "merchant": "unieuro",
+        "ean": "6936905900760",
+        "mpn": "CN82960",
+        "status": "da_verificare"
       }
     ],
     "aspirapolvere-senza-fili-in-offerta": [
@@ -2329,6 +2308,20 @@
       }
     ],
     "migliori-lavatrici": [
+      {
+        "title": "LG AI DD F4R3011NSWB Lavatrice Classe A -10%, Carica Frontale Serie R3, Lavatrice 11kg, 1400 giri, AIWash, Lavaggio a vapore, Motore Direct Drive, Smart Diagnosis, Libera installaz",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "LG AI DD F0P3020TSWC Lavatrice 20kg, a Carica Frontale, Capacità XL Serie P3, Classe B, 1000 Giri, TurboWash 360, Vapore, Wi-Fi, Motore Inverter Direct Drive, Libera installazione,",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Whirlpool FFB 848 BSV IT - Lavatrice 8 kg | Libera Installazione, 1400 Giri/Min, Classe A-20%, 6° SENSO, Refresh Vapore, FreshCare+, 85 x 59,5 x 63 cm (AxLxP)",
         "merchant": "amazon",
@@ -2523,20 +2516,6 @@
         "merchant": "unieuro",
         "ean": "8806095210285",
         "mpn": "WW80CGC04DAEET",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Hotpoint Ariston Lavatrice da incasso BI WMHG 71483 EU N",
-        "merchant": "unieuro",
-        "ean": "8050147619315",
-        "mpn": "869991619310",
-        "status": "da_verificare"
-      },
-      {
-        "title": "LG D2R3S08NSWW Lavasciuga slim 8/5kg AI DD, Classe E, 1200 giri, AI Wash, Vapore",
-        "merchant": "unieuro",
-        "ean": "8806084273680",
-        "mpn": "D2R3S08NSWW.ABWQP",
         "status": "da_verificare"
       }
     ],
@@ -2861,6 +2840,34 @@
     ],
     "migliori-moda": [
       {
+        "title": "Lacoste Spinor Uomo - Sneakers Nero - Taglia 42 - Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Lacoste Spinor Uomo - Sneakers Nero - Taglia 40.5 - Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Lacoste Spinor Uomo - Sneakers Nero - Taglia 43 - Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Lacoste Spinor Uomo - Sneakers Nero - Taglia 39.5 - Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "DC Shoes Court Graffik Uomo - Sneakers Grigio - Taglia 40.5 - Scamosciato",
         "merchant": "footlocker",
         "ean": "",
@@ -3041,37 +3048,37 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "PUMA Sneakers Club II Era Unisex, White-Black-Vapor Gray, 37 EU",
-        "merchant": "amazon",
-        "ean": "4067979300148",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Vans Asher, Sneaker, Uomo, Canvas Black/White, 44 EU",
-        "merchant": "amazon",
-        "ean": "0192364837245",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "PUMA Caven 2.0, Sneaker Unisex - Adulto, White Silver, 38 EU",
-        "merchant": "amazon",
-        "ean": "4099683251256",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "PUMA Sneakers Smash v2 L Unisex, White-White-Peacoat-Team Gold, 45 EU",
-        "merchant": "amazon",
-        "ean": "4063699638301",
-        "mpn": "",
-        "status": "da_verificare"
       }
     ],
     "migliori-sneakers": [
+      {
+        "title": "Lacoste Spinor Uomo - Sneakers Nero - Taglia 42 - Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Lacoste Spinor Uomo - Sneakers Nero - Taglia 40.5 - Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Lacoste Spinor Uomo - Sneakers Nero - Taglia 43 - Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Lacoste Spinor Uomo - Sneakers Nero - Taglia 39.5 - Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "DC Shoes Court Graffik Uomo - Sneakers Grigio - Taglia 40.5 - Scamosciato",
         "merchant": "footlocker",
@@ -3251,34 +3258,6 @@
         "title": "PUMA Caven 2.0, Sneaker Unisex - Adulto, White Silver, 38 EU",
         "merchant": "amazon",
         "ean": "4099683251256",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "PUMA Sneakers Smash v2 L Unisex, White-White-Peacoat-Team Gold, 45 EU",
-        "merchant": "amazon",
-        "ean": "4063699638301",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Lotto Sneaker Unisex, Nero/Grigio, 41 EU, Nero/Grigio, 41 EU | Scarpe sportive per uomo e donna, extra leggere e comode, disponibili anche in taglie per bambini",
-        "merchant": "amazon",
-        "ean": "4068577006159",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Hitmars Scarpe Running Uomo Ginnastica Donna Scarpe da Corsa Trekking Sneakers Trail Sportive Fitness Correre Running Shoes Camminare Verde EU 42",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Scarpe Sportive Uomo Scarpe Running Corsa Jogging Ginnastica Trail Sneakers | Hitmars Scarpe Running Uomo Donna, Fitness, Camminata, Outdoor, Antiscivolo, Sneakers Sportive, Trekki",
-        "merchant": "amazon",
-        "ean": "",
         "mpn": "",
         "status": "da_verificare"
       }
