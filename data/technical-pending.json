@@ -1,10 +1,24 @@
 {
   "version": 1,
-  "generated_at": "2026-11-07T10:06:15+01:00",
+  "generated_at": "2026-11-07T11:31:15+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
     "smartphone-in-offerta": [
+      {
+        "title": "Google Pixel 11 Pro XL – Smartphone Android sbloccato – Rosa opaco, 256GB | Con Gemini Intelligence, autonomia di oltre 30 ore e display Super Actua da 6,8”",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Google Pixel 10a - 7 anni di nuovi aggiornamenti e funzionalità, oltre 30 ore di autonomia, Guida fotografica, Gemini Live, Sicurezza Pixel - Nero ossidiana, 128GB",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Apple iPhone 16e 128 GB: progettato per Apple Intelligence, con chip A18, un’autonomia grandiosa, fotocamera Fusion da 48MP e display Super Retina XDR 6,1''; Bianco",
         "merchant": "amazon",
@@ -198,20 +212,6 @@
         "title": "Xiaomi REDMI Note 15 5G, Smartphone 8+512GB, Blu Ghiacciaio Resistenza IP65 | Design ultrasottile, Fotocamera super nitida da 108 MP, Display FHD+ da 6,77\", Garanzia 2 anni",
         "merchant": "amazon",
         "ean": "6932554400644",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "OPPO Reno14 F 5G Smartphone 8GB RAM 256GB CPH2743 Luminous Green | Sbloccato, Display 6,57\" 120Hz AMOLED, Fotocamera AI 50+32MP, Batteria 6000mAh, IP69",
-        "merchant": "amazon",
-        "ean": "6932169375795",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Oppo Reno12 5G, Dual, 256GB 12GB Ram, Astro Silver",
-        "merchant": "amazon",
-        "ean": "6932169347211",
         "mpn": "",
         "status": "da_verificare"
       }
@@ -2868,27 +2868,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Converse Cl98 Uomo - Sneakers Nero - Taglia 41 - Scamosciato",
-        "merchant": "footlocker",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Zzkouine Giacca da Sci Montagna Calda Invernale Parka da Neve Imbottita Cappotto da Snowboard in Pile Giubbotto con Cappuccio Impermeabile Uomo-Grey-2XL",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "SINOPHANT Leggins Donna Vita Alta Sportivi Nero SM | Leggings Palestra Abbigliamento Pilates Fitness Pantaloni Yoga Controllo della Pancia Opaco Elastici Morbido",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
         "ean": "",
@@ -3020,6 +2999,27 @@
         "ean": "4099683251256",
         "mpn": "",
         "status": "da_verificare"
+      },
+      {
+        "title": "PUMA Sneakers Smash v2 L Unisex, White-White-Peacoat-Team Gold, 45 EU",
+        "merchant": "amazon",
+        "ean": "4063699638301",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Lotto Sneaker Unisex, Nero/Grigio, 41 EU, Nero/Grigio, 41 EU | Scarpe sportive per uomo e donna, extra leggere e comode, disponibili anche in taglie per bambini",
+        "merchant": "amazon",
+        "ean": "4068577006159",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Hitmars Scarpe Running Uomo Ginnastica Donna Scarpe da Corsa Trekking Sneakers Trail Sportive Fitness Correre Running Shoes Camminare Verde EU 42",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
       }
     ],
     "migliori-sneakers": [
@@ -3074,13 +3074,6 @@
       },
       {
         "title": "Converse Cl98 Uomo - Sneakers Nero - Taglia 45 - Scamosciato",
-        "merchant": "footlocker",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Converse Cl98 Uomo - Sneakers Nero - Taglia 41 - Scamosciato",
         "merchant": "footlocker",
         "ean": "",
         "mpn": "",
@@ -3230,6 +3223,13 @@
         "title": "Lotto Sneaker Unisex, Nero/Grigio, 41 EU, Nero/Grigio, 41 EU | Scarpe sportive per uomo e donna, extra leggere e comode, disponibili anche in taglie per bambini",
         "merchant": "amazon",
         "ean": "4068577006159",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Hitmars Scarpe Running Uomo Ginnastica Donna Scarpe da Corsa Trekking Sneakers Trail Sportive Fitness Correre Running Shoes Camminare Verde EU 42",
+        "merchant": "amazon",
+        "ean": "",
         "mpn": "",
         "status": "da_verificare"
       }
