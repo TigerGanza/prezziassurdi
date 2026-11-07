@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-07T15:46:15+01:00",
+  "generated_at": "2026-11-07T17:11:15+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -21,20 +21,6 @@
       },
       {
         "title": "Samsung Galaxy S24 FE 5G, 128GB, Blau - Unlocked (Ricondizionato)",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Google Pixel 11 Pro XL – Smartphone Android sbloccato – Rosa opaco, 256GB | Con Gemini Intelligence, autonomia di oltre 30 ore e display Super Actua da 6,8”",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Google Pixel 10a - 7 anni di nuovi aggiornamenti e funzionalità, oltre 30 ore di autonomia, Guida fotografica, Gemini Live, Sicurezza Pixel - Nero ossidiana, 128GB",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -212,6 +198,20 @@
         "title": "OPPO Reno15 F 5G Smartphone, 256GB, 8GB RAM, 6500mAh batteria, 80W, Black | Selfie 50MP, video 4K, OIS, batteria 6500mAh, ricarica 80W, memoria espandibile, protezione IP68, campo ",
         "merchant": "amazon",
         "ean": "6942675407071",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Xiaomi REDMI Note 15 5G, Smartphone 8+512GB, Blu Ghiacciaio Resistenza IP65 | Design ultrasottile, Fotocamera super nitida da 108 MP, Display FHD+ da 6,77\", Garanzia 2 anni",
+        "merchant": "amazon",
+        "ean": "6932554400644",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "OPPO Reno14 F 5G Smartphone 8GB RAM 256GB CPH2743 Luminous Green | Sbloccato, Display 6,57\" 120Hz AMOLED, Fotocamera AI 50+32MP, Batteria 6000mAh, IP69",
+        "merchant": "amazon",
+        "ean": "6932169375795",
         "mpn": "",
         "status": "da_verificare"
       }
@@ -1302,6 +1302,13 @@
       }
     ],
     "migliori-smartwatch": [
+      {
+        "title": "Garmin fēnix 8, 47mm, Smartwatch GPS Premium Multisport, Slate Grey | Display AMOLED 1,4\", Touchscreen, Speaker e Microfono, Torcia, Mappe, 90+ App per lo Sport, Autonomia 16 giorn",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Amazfit Balance 2 Smartwatch 47mm, 21 Giorni Batteria, Mappe Offline | AMOLED 1,5\", GPS Dual Band, 170+ Modalità Sportive, HYROX e Golf, Allenamento di Forza, Cardio & Sonno per An",
         "merchant": "amazon",
@@ -2805,6 +2812,13 @@
     ],
     "migliori-moda": [
       {
+        "title": "ONLY Onlwauw Life Mid SK DNM Bj777 Noos, Jeans Donna, Blue Black Denim/Detail:bj777, M / 32L",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Fokky Set 5 Elastico palestra Tessili Resistenti con Borsa Trasportabile | Elastici fitness Non Arrotolabili, Delicato sulla pelle. Bande elastiche fitness per palestra, pilates, a",
         "merchant": "amazon",
         "ean": "",
@@ -3004,13 +3018,6 @@
         "title": "Mufanton Scarpe da Trail Running Uomo Scarpe Trekking Scarpe da Escursionismo Outdoor Antiscivolo Fitness Running Sneakers,Nero,EU44",
         "merchant": "amazon",
         "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "T-Shirt Nucleo x Zeus Basic Uomo Donna - Maglietta Sportiva Traspirante - Cotone - vestibilità Comoda - Casual & Fitness",
-        "merchant": "amazon",
-        "ean": "8052219608852",
         "mpn": "",
         "status": "da_verificare"
       }
