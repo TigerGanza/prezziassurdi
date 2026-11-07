@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-07T17:11:15+01:00",
+  "generated_at": "2026-11-07T18:41:16+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -381,6 +381,27 @@
     ],
     "tv-in-offerta": [
       {
+        "title": "Hisense Smart TV QLED 55\" 4K 55E7DS | Audio Dolby Atmos, VIDAA OS, Dolby Vision IQ, HDR 10+, Game Mode, Bluetooth, Wifi, Alexa, AirPlay2, lativù 4K, 2026 Model",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Hisense Smart TV QLED 43\" 4K TV 43E7DS | Audio Dolby Atmos, VIDAA OS, Dolby Vision IQ, HDR 10+, Game Mode, Bluetooth, Wifi, Alexa, AirPlay2, lativù 4K, 2026 Model",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Hisense Smart TV QLED 43\" 4K Dèco TV 43S5Q, 60Hz, Audio Dolby Atmos, VIDAA OS con 1000+ app, HDR10, Game Mode Plus, Bluetooth, wifi, Works with Alexa, AirPlay2, lativù",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Xiaomi TV F Pro 32 2025, 32 pollici (81 cm), QLED, Smart TV, Fire TV, Triple Tuner DVB-C/S/S2/T/T2,Dolby Audio, DTS Virtual:X, DTS-HD, Controllo Vocale Alexa, Compatibile con Apple",
         "merchant": "amazon",
         "ean": "6941948706361",
@@ -440,13 +461,6 @@
         "title": "LG NANO AI UHD 43 Pollici, Serie NU8E 2026 Smart TV 4K - 43NU8E0B3LA | Processore con Nano Detail Enhancer, AI Chatbot, AI Concierge, HDR10 Pro, Filmmaker Mode, Design Linear Flow,",
         "merchant": "amazon",
         "ean": "8806096877395",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Hisense Smart TV QLED 43\" 4K TV 43E7DS | Audio Dolby Atmos, VIDAA OS, Dolby Vision IQ, HDR 10+, Game Mode, Bluetooth, Wifi, Alexa, AirPlay2, lativù 4K, 2026 Model",
-        "merchant": "amazon",
-        "ean": "6942351430966",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -514,13 +528,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Hisense Smart TV QLED 55\" 4K 55E7DS | Audio Dolby Atmos, VIDAA OS, Dolby Vision IQ, HDR 10+, Game Mode, Bluetooth, Wifi, Alexa, AirPlay2, lativù 4K, 2026 Model",
-        "merchant": "amazon",
-        "ean": "6942351431345",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Xiaomi TV 55 pollici 2026, 4K UHD Smart TV Fire OS8 HDR10 L55MB-FAVEU | Triple Tuner DVB-C/S/S2/T/T2, 120Hz Game Boost Mode, 2GB+32GB, works with Apple AirPlay,Alexa,HDR10,MEMC",
         "merchant": "amazon",
         "ean": "6941948710474",
@@ -582,27 +589,20 @@
         "ean": "6942351431703",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "Samsung Smart TV 75\" UE75U8090HUXZT Crystal UHD, Crystal 4K Processor, HDR10+, PurColor, Motion Xcelerator, Dynamic Sound Pack, Gaming Hub, TV Plus, Knox Security, Vision AI, 2026",
-        "merchant": "amazon",
-        "ean": "8806097963455",
-        "mpn": "",
-        "status": "da_verificare"
       }
     ],
     "offerte-tv-55-65-pollici": [
       {
-        "title": "TCL 55V6D – Smart TV 4K HDR10+ da 55\" con Fire TV e Dolby Atmos | DTS:X, Game Master, Motion Clarity, Apple AirPlay 2, Press & Ask Alexa",
+        "title": "Hisense Smart TV QLED 55\" 4K 55E7DS | Audio Dolby Atmos, VIDAA OS, Dolby Vision IQ, HDR 10+, Game Mode, Bluetooth, Wifi, Alexa, AirPlay2, lativù 4K, 2026 Model",
         "merchant": "amazon",
-        "ean": "5901292530297",
+        "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "Hisense Smart TV QLED 55\" 4K 55E7DS | Audio Dolby Atmos, VIDAA OS, Dolby Vision IQ, HDR 10+, Game Mode, Bluetooth, Wifi, Alexa, AirPlay2, lativù 4K, 2026 Model",
+        "title": "TCL 55V6D – Smart TV 4K HDR10+ da 55\" con Fire TV e Dolby Atmos | DTS:X, Game Master, Motion Clarity, Apple AirPlay 2, Press & Ask Alexa",
         "merchant": "amazon",
-        "ean": "6942351431345",
+        "ean": "5901292530297",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -1125,6 +1125,13 @@
       }
     ],
     "migliori-monitor": [
+      {
+        "title": "Philips Monitor 221v8A 22 pollici 1920x1080, FHD, 75Hz, VA Panel, 4ms GtG, Speakers, (HDMI1) Adaptive Sync, Nero",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Xiaomi Monitor G27i",
         "merchant": "",
@@ -2173,6 +2180,13 @@
       }
     ],
     "aspirapolvere-senza-fili-in-offerta": [
+      {
+        "title": "Dyson V8 Absolute Aspirapolvere Senza Filo, 115 AW, Autonomia 40 min | Pulizia Versatile Portatile e Silenziosa, Tecnologia Radial Root Cyclone, Spazzola Motorbar Anti-Groviglio e ",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Aspirapolvere Senza Fili Scopa Elettrica - Potente Filo Batteria Cordless Vacuum Cleaner Scope Elettriche Sacco Portatile Ciclonico Silenzioso per Divano Tappeti Parquet Pavimenti ",
         "merchant": "amazon",
