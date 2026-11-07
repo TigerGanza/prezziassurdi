@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-07T21:31:16+01:00",
+  "generated_at": "2026-11-07T23:01:15+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -1126,6 +1126,20 @@
     ],
     "migliori-monitor": [
       {
+        "title": "MSI PRO MP275QA E14 Monitor 27\" WQHD, 2560x1440 IPS, 144 Hz, 1 ms | HDR Ready, Adaptive-Sync, Eye Care, altoparlante integrato, HDMI 2.0b, DP 1.2a, senza cornice, inclinabile, comp",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "MSI G32C4X monitor gaming 32\" (FHD), 250Hz / 1ms, pannello VA (1920 x 1080) | AMD FreeSync Premium, HDR Ready, Curvatura 1500R, Anti-sfarfallio - Display Port 1.2a, HDMI™ 2.0",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "ASUS GT730, Scheda Grafica 2 GB GDDR5 NVIDIA GeForce, Blu | PCIe 2.0, 4 HDMI 1.4b, OpenGL 4.6, Fino a 4 Monitor, Massima Risoluzione 3840x2160, PSU Consigliata 300W, GPU Tweak II",
         "merchant": "amazon",
         "ean": "",
@@ -1185,13 +1199,6 @@
         "title": "AOC Gaming Monitor Q27B36X 27 pollici 2560x1440, WQHD, 144Hz, IPS Panel, 4ms GtG, (HDMI1x 2.0 DP 1x 1.4) HDR10, Nero",
         "merchant": "amazon",
         "ean": "4038986183208",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "MSI PRO MP275QA E14 Monitor 27\" WQHD, 2560x1440 IPS, 144 Hz, 1 ms | HDR Ready, Adaptive-Sync, Eye Care, altoparlante integrato, HDMI 2.0b, DP 1.2a, senza cornice, inclinabile, comp",
-        "merchant": "amazon",
-        "ean": "4711377397247",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -2854,20 +2861,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "ONLY Onlwauw Life Mid SK DNM Bj777 Noos, Jeans Donna, Blue Black Denim/Detail:bj777, M / 32L",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Fokky Set 5 Elastico palestra Tessili Resistenti con Borsa Trasportabile | Elastici fitness Non Arrotolabili, Delicato sulla pelle. Bande elastiche fitness per palestra, pilates, a",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
         "ean": "",
@@ -3037,6 +3030,20 @@
       },
       {
         "title": "HOBIBEAR Scarpe da Ginnastica da Uomo e da Donna con Punta Larga, Minimal, Drop Zero, Sneaker da Trail Running, Sneakers Casual da Esterno",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Sneakers Uomo Scarpe Estive Ginnastica Uomo Sportive Trail Running Trekking Tennis Scrapa da Lavoro Comode Nere 43",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "JOMIX Scarpe da Ginnastica Uomo Sneaker Sportive Corsa Running Sneakers Casual Traspirante per Correre Camminare Trail Trekking SU138-13 (Bianco, 42)",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
