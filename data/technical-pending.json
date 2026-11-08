@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-08T07:41:15+01:00",
+  "generated_at": "2026-11-08T09:06:15+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -679,13 +679,6 @@
     ],
     "migliori-notebook": [
       {
-        "title": "Vowmoon 18.5\" PC Portatile Processore 16 GB RAM 1TB SSD, processore dual-core m3-8100Y fino a 3,4 GHz, HDMI, RJ45, ampio schermo, ideale per lavoro da remoto, multitasking e intrat",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "ASUS Vivobook 16 F1605VA#B0FZL8JLW9, Notebook con display 16\" Anti-glare, 60Hz,Intel® Core™ 9 Processor 270H,RAM 16GB, 1TB SSD, WIN11 Home, Argento",
         "merchant": "",
         "ean": "",
@@ -1331,13 +1324,6 @@
     ],
     "migliori-smartwatch": [
       {
-        "title": "XDQX Smartwatch Uomo Donna, Fitness Tracker Senza Schermo, Smart Band con 107+ Modalità Sportive, Orologio Fitness con Cardiofrequenzimetro, IP68 Impermeabile, APP Inclusa a Vita, ",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "2026 Smartwatch Uomo GPS,2.06\" HD AMOLED Orologio Smartwatch con Chiamate",
         "merchant": "",
         "ean": "",
@@ -1475,13 +1461,6 @@
         "merchant": "aliexpress",
         "ean": "6936520886746",
         "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Amazfit ACTIVE EDGE 3,35 cm (1.32'') TFT 46 mm Digitale 360 x 360 Pixel Touch screen Nero GPS (satellitare)",
-        "merchant": "unieuro",
-        "ean": "6972596107231",
-        "mpn": "AMFW2212EU2N",
         "status": "da_verificare"
       },
       {
@@ -1806,13 +1785,6 @@
     ],
     "cuffie-bluetooth-in-offerta": [
       {
-        "title": "Paekole Cuffie Auricolari Bluetooth 6.1 - Wireless Cuffie In Ear con 6 ENC Cancellazione Rumore Mics, Cuffiette Senza Filo Stereo HiFi 48 Ore di Riproduzione per iOS/Android - Avor",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Soundcore P31i di Anker Cuffie Bluetooth con Cancellazione Adattiva Rumore | Audio Hi-Res, Auricolari con Funzione di Traduzione, 50 ore di Autonomia, Cancellazione Adattiva, IPX5,",
         "merchant": "amazon",
         "ean": "0194644247409",
@@ -2004,6 +1976,13 @@
     ],
     "migliori-robot-aspirapolvere": [
       {
+        "title": "Eureka J15 Ultra Robot Aspirapolvere Lavapavimenti, Potente Aspirazione 19.000 Pa, Lavaggio Mocio ad Acqua Calda a 75℃, Mappatura con AI, Pulizia Avanzat",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Lefant M210 PRO OMNI Robot Aspirapolvere Lavapavimenti con Rullo 20.000Pa",
         "merchant": "",
         "ean": "",
@@ -2186,13 +2165,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Eureka J15 Ultra Robot Aspirapolvere Lavapavimenti, Potente Aspirazione 19.000 Pa, Lavaggio Mocio ad Acqua Calda a 75℃, Mappatura con AI, Pulizia Avanzat",
-        "merchant": "unieuro",
-        "ean": "6956079731205",
-        "mpn": "J15ULTRA",
-        "status": "da_verificare"
-      },
-      {
         "title": "Roborock Saros Z70 Robot Aspirapolvere e Lavapavimenti con Braccio Meccanico OmniGrip, 7,98cm Ultrasottile, Aspirazione 22.000 Pa, Tecnologia FlexiArm, T",
         "merchant": "unieuro",
         "ean": "6936905900760",
@@ -2201,6 +2173,20 @@
       }
     ],
     "aspirapolvere-senza-fili-in-offerta": [
+      {
+        "title": "Pdgrid 55Kpa&650W Aspirapolvere Senza Fili, 75Mins Scopa Elettrica Senza Aspirapolvere Senza Fili Potente con 2 litri doppio contenitore, supporto di ricarica da parete/Schermo OLE",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Slivamo S16 Aspirapolvere Senza Fili, 50kPa/600W/45min, Batteria Rimovibile | Scopa Elettrica Leggero con Luce LED Verde, Autoportante, per Peli Di Animali/Pavimenti Duri",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Aspirapolvere Senza Fili Scopa Elettrica - Potente Filo Batteria Cordless Vacuum Cleaner Scope Elettriche Sacco Portatile Ciclonico Silenzioso per Divano Tappeti Parquet Pavimenti ",
         "merchant": "amazon",
@@ -2297,13 +2283,6 @@
         "merchant": "unieuro",
         "ean": "8806096154229",
         "mpn": "A9T-PRIME1C.DCBQ",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Rowenta X Force Flex 14.60, Aspirapolvere Senza Fili, Fino a 200 Air Watt, Tecnologia Flex, Kit Animal Care, RH99A9",
-        "merchant": "unieuro",
-        "ean": "3221616060449",
-        "mpn": "RH99A9",
         "status": "da_verificare"
       }
     ],
@@ -2840,6 +2819,13 @@
     ],
     "migliori-moda": [
       {
+        "title": "Calvin Klein Uomo Pantaloncini Boxer Vita Bassa Confezione da 3 Intimo, Multicolore (Black/White/Grey Heather), L",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Lacoste Storm 2k Uomo - Sneakers Grigio - Taglia 46 - Rete/Sintetico",
         "merchant": "footlocker",
         "ean": "",
@@ -2912,27 +2898,6 @@
       {
         "title": "Puma Magnify Nitro Uomo - Sneakers Bianco - Taglia 40.5 - Rete/Sintetico",
         "merchant": "footlocker",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Chicco Bambini e Ragazzi Completo Tuta | con Felpa e Pantaloni Lunghi, in Morbido Tessuto Non Felpato 263",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "ONLY ONLSHILO PU SNEAKER NOOS - Scarpe da ginnastica Donna, White, 40 EU",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "PUMA Sneakers Carina Street Donna, White-Frosty Pink-Alpine Snow, 40 EU",
-        "merchant": "amazon",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
@@ -3048,6 +3013,20 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
+      },
+      {
+        "title": "PUMA Sneakers Club II Era Unisex, White-Black-Vapor Gray, 37 EU",
+        "merchant": "amazon",
+        "ean": "4067979300148",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Vans Asher, Sneaker, Uomo, Canvas Black/White, 44 EU",
+        "merchant": "amazon",
+        "ean": "0192364837245",
+        "mpn": "",
+        "status": "da_verificare"
       }
     ],
     "migliori-sneakers": [
@@ -3110,13 +3089,6 @@
       {
         "title": "Puma Magnify Nitro Uomo - Sneakers Bianco - Taglia 40.5 - Rete/Sintetico",
         "merchant": "footlocker",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "PUMA Sneakers Carina Street Donna, White-Frosty Pink-Alpine Snow, 40 EU",
-        "merchant": "amazon",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
@@ -3258,6 +3230,13 @@
         "title": "PUMA Sneakers Smash v2 Unisex, Black-Black, 45 EU",
         "merchant": "amazon",
         "ean": "4059504977512",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "PUMA Sneakers Smash v2 L Unisex, White-White-Peacoat-Team Gold, 45 EU",
+        "merchant": "amazon",
+        "ean": "4063699638301",
         "mpn": "",
         "status": "da_verificare"
       }
