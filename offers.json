@@ -1,5 +1,102 @@
 [
   {
+    "asin": "W8FBB14472",
+    "title": "HoMedics Remove Microdermabrasion",
+    "price": 69.99,
+    "old_price": 159.99,
+    "discount": 56.3,
+    "image": "https://www.unieuro.it/medias/sys_master/root/hcb/h94/48656982769694/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-f05f5bf43cd95a8a175759e278bd8379-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
+    "url": "https://www.awin1.com/pclick.php?p=31842977281&a=3086723&m=10139",
+    "category": "altro",
+    "macro_group": "awin_discovery",
+    "seasonal_title": "Offerta Unieuro",
+    "published_at": "2026-11-09T07:46:58.967731+01:00",
+    "source_merchant": "unieuro",
+    "source_external_id": "HOMMD1000EU2",
+    "quality_status": "ready",
+    "quality_issues": [],
+    "merchant_offers": [
+      {
+        "merchant": "unieuro",
+        "merchant_name": "Unieuro",
+        "merchant_id": "10139",
+        "product_id": "HOMMD1000EU2",
+        "awin_product_id": "31842977281",
+        "title": "HoMedics Remove Microdermabrasion",
+        "brand": "Homedics",
+        "ean": "5010777153538",
+        "mpn": "MD-1000-EU2",
+        "price": 69.99,
+        "old_price": 159.99,
+        "discount": 56.3,
+        "image": "https://www.unieuro.it/medias/sys_master/root/hcb/h94/48656982769694/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-f05f5bf43cd95a8a175759e278bd8379-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
+        "url": "https://www.awin1.com/pclick.php?p=31842977281&a=3086723&m=10139",
+        "category": "Altri",
+        "category_path": "",
+        "availability": "in_stock",
+        "last_updated": "",
+        "attributes": {}
+      }
+    ],
+    "merchant_match_score": 100,
+    "merchant_ean": "5010777153538",
+    "merchant_prices_checked_at": "2026-11-09T07:45:46.787525+01:00",
+    "availability": "in_stock",
+    "price_observed_at": "2026-11-09T07:45:46.787525+01:00"
+  },
+  {
+    "asin": "W813F800E2",
+    "title": "Adidas Graphics Uomo - Magliette Beige - Taglia XL",
+    "price": 10.0,
+    "old_price": 24.99,
+    "discount": 60.0,
+    "image": "https://images.footlocker.com/is/image/FLEU/317660329911?wid=620&hei=620&fmt=png-alpha",
+    "url": "https://www.awin1.com/pclick.php?p=45085928643&a=3086723&m=23410",
+    "category": "moda",
+    "macro_group": "awin_discovery",
+    "seasonal_title": "Offerta Foot Locker",
+    "published_at": "2026-11-09T07:45:50.509730+01:00",
+    "source_merchant": "footlocker",
+    "source_external_id": "317660329911960",
+    "quality_status": "ready",
+    "quality_issues": [],
+    "merchant_offers": [
+      {
+        "merchant": "footlocker",
+        "merchant_name": "Foot Locker",
+        "merchant_id": "23410",
+        "product_id": "317660329911960",
+        "awin_product_id": "45085928643",
+        "title": "Adidas Graphics Uomo - Magliette Beige - Taglia XL",
+        "brand": "Adidas",
+        "ean": "4071125726058",
+        "mpn": "",
+        "price": 10.0,
+        "old_price": 24.99,
+        "discount": 60.0,
+        "image": "https://images.footlocker.com/is/image/FLEU/317660329911?wid=620&hei=620&fmt=png-alpha",
+        "url": "https://www.awin1.com/pclick.php?p=45085928643&a=3086723&m=23410",
+        "category": "Abbigliamento",
+        "category_path": "",
+        "availability": "in_stock",
+        "last_updated": "",
+        "attributes": {
+          "color": "Beige",
+          "size": "XL",
+          "gender": "male",
+          "fashion_group_key": "c8e778b11bec02233b231356",
+          "fashion_group_title": "Adidas Graphics Uomo - Magliette Beige",
+          "shipping_eur": 4.99
+        }
+      }
+    ],
+    "merchant_match_score": 100,
+    "merchant_ean": "4071125726058",
+    "merchant_prices_checked_at": "2026-11-09T07:45:46.787525+01:00",
+    "availability": "in_stock",
+    "price_observed_at": "2026-11-09T07:45:46.787525+01:00"
+  },
+  {
     "asin": "W3B0CFBD86",
     "title": "Adidas Tech Essentials Uomo - Magliette Nero - Taglia L - Poly Jersey",
     "price": 10.0,
@@ -47,9 +144,9 @@
     ],
     "merchant_match_score": 100,
     "merchant_ean": "4068819696605",
-    "merchant_prices_checked_at": "2026-11-09T06:23:50.257615+01:00",
+    "merchant_prices_checked_at": "2026-11-09T07:45:46.787525+01:00",
     "availability": "in_stock",
-    "price_observed_at": "2026-11-09T06:23:50.257615+01:00"
+    "price_observed_at": "2026-11-09T07:45:46.787525+01:00"
   },
   {
     "asin": "B0GK1ZYPFF",
@@ -109,9 +206,9 @@
     ],
     "merchant_match_score": 100,
     "merchant_ean": "8050999985903",
-    "merchant_prices_checked_at": "2026-11-09T06:23:50.257615+01:00",
+    "merchant_prices_checked_at": "2026-11-09T07:45:46.787525+01:00",
     "availability": "in_stock",
-    "price_observed_at": "2026-11-09T06:23:50.257615+01:00"
+    "price_observed_at": "2026-11-09T07:45:46.787525+01:00"
   },
   {
     "asin": "WF77F09091",
@@ -161,9 +258,9 @@
     ],
     "merchant_match_score": 100,
     "merchant_ean": "4068819696667",
-    "merchant_prices_checked_at": "2026-11-09T06:23:50.257615+01:00",
+    "merchant_prices_checked_at": "2026-11-09T07:45:46.787525+01:00",
     "availability": "in_stock",
-    "price_observed_at": "2026-11-09T06:23:50.257615+01:00"
+    "price_observed_at": "2026-11-09T07:45:46.787525+01:00"
   },
   {
     "asin": "W9A5B45C43",
@@ -214,9 +311,9 @@
     ],
     "merchant_match_score": 100,
     "merchant_ean": "4069996789319",
-    "merchant_prices_checked_at": "2026-11-09T06:23:50.257615+01:00",
+    "merchant_prices_checked_at": "2026-11-09T07:45:46.787525+01:00",
     "availability": "in_stock",
-    "price_observed_at": "2026-11-09T06:23:50.257615+01:00"
+    "price_observed_at": "2026-11-09T07:45:46.787525+01:00"
   },
   {
     "asin": "B0D7HHHG9Q",
@@ -310,9 +407,9 @@
     ],
     "merchant_match_score": 100,
     "merchant_ean": "8050999985897",
-    "merchant_prices_checked_at": "2026-11-09T06:23:50.257615+01:00",
+    "merchant_prices_checked_at": "2026-11-09T07:45:46.787525+01:00",
     "availability": "in_stock",
-    "price_observed_at": "2026-11-09T06:23:50.257615+01:00"
+    "price_observed_at": "2026-11-09T07:45:46.787525+01:00"
   },
   {
     "asin": "W266164107",
@@ -363,9 +460,9 @@
     ],
     "merchant_match_score": 100,
     "merchant_ean": "4069996790117",
-    "merchant_prices_checked_at": "2026-11-09T06:23:50.257615+01:00",
+    "merchant_prices_checked_at": "2026-11-09T07:45:46.787525+01:00",
     "availability": "in_stock",
-    "price_observed_at": "2026-11-09T06:23:50.257615+01:00"
+    "price_observed_at": "2026-11-09T07:45:46.787525+01:00"
   },
   {
     "asin": "W8FC5D2D30",
@@ -416,9 +513,9 @@
     ],
     "merchant_match_score": 100,
     "merchant_ean": "4069996789289",
-    "merchant_prices_checked_at": "2026-11-09T06:23:50.257615+01:00",
+    "merchant_prices_checked_at": "2026-11-09T07:45:46.787525+01:00",
     "availability": "in_stock",
-    "price_observed_at": "2026-11-09T06:23:50.257615+01:00"
+    "price_observed_at": "2026-11-09T07:45:46.787525+01:00"
   },
   {
     "asin": "W903782F7A",
@@ -465,9 +562,9 @@
     ],
     "merchant_match_score": 100,
     "merchant_ean": "8006530021821",
-    "merchant_prices_checked_at": "2026-11-09T06:23:50.257615+01:00",
+    "merchant_prices_checked_at": "2026-11-09T07:45:46.787525+01:00",
     "availability": "in_stock",
-    "price_observed_at": "2026-11-09T06:23:50.257615+01:00"
+    "price_observed_at": "2026-11-09T07:45:46.787525+01:00"
   },
   {
     "asin": "W5BABCB230",
@@ -518,9 +615,9 @@
     ],
     "merchant_match_score": 100,
     "merchant_ean": "4069996790070",
-    "merchant_prices_checked_at": "2026-11-09T06:23:50.257615+01:00",
+    "merchant_prices_checked_at": "2026-11-09T07:45:46.787525+01:00",
     "availability": "in_stock",
-    "price_observed_at": "2026-11-09T06:23:50.257615+01:00"
+    "price_observed_at": "2026-11-09T07:45:46.787525+01:00"
   },
   {
     "asin": "W517F62F38",
@@ -571,9 +668,9 @@
     ],
     "merchant_match_score": 100,
     "merchant_ean": "4068815840064",
-    "merchant_prices_checked_at": "2026-11-09T06:23:50.257615+01:00",
+    "merchant_prices_checked_at": "2026-11-09T07:45:46.787525+01:00",
     "availability": "in_stock",
-    "price_observed_at": "2026-11-09T06:23:50.257615+01:00"
+    "price_observed_at": "2026-11-09T07:45:46.787525+01:00"
   },
   {
     "asin": "B09GKVJDJR",
@@ -635,9 +732,9 @@
     ],
     "merchant_match_score": 100,
     "merchant_ean": "0195949896538",
-    "merchant_prices_checked_at": "2026-11-09T06:23:50.257615+01:00",
+    "merchant_prices_checked_at": "2026-11-09T07:45:46.787525+01:00",
     "availability": "in_stock",
-    "price_observed_at": "2026-11-09T06:23:50.257615+01:00"
+    "price_observed_at": "2026-11-09T07:45:46.787525+01:00"
   },
   {
     "asin": "W85ACA3E1E",
@@ -688,9 +785,9 @@
     ],
     "merchant_match_score": 100,
     "merchant_ean": "4068815838771",
-    "merchant_prices_checked_at": "2026-11-09T06:23:50.257615+01:00",
+    "merchant_prices_checked_at": "2026-11-09T07:45:46.787525+01:00",
     "availability": "in_stock",
-    "price_observed_at": "2026-11-09T06:23:50.257615+01:00"
+    "price_observed_at": "2026-11-09T07:45:46.787525+01:00"
   },
   {
     "asin": "W629773F0C",
@@ -741,9 +838,9 @@
     ],
     "merchant_match_score": 100,
     "merchant_ean": "4068815840057",
-    "merchant_prices_checked_at": "2026-11-09T06:23:50.257615+01:00",
+    "merchant_prices_checked_at": "2026-11-09T07:45:46.787525+01:00",
     "availability": "in_stock",
-    "price_observed_at": "2026-11-09T06:23:50.257615+01:00"
+    "price_observed_at": "2026-11-09T07:45:46.787525+01:00"
   },
   {
     "asin": "WB9CF1DB56",
@@ -798,9 +895,9 @@
     ],
     "merchant_match_score": 100,
     "merchant_ean": "8806095510002",
-    "merchant_prices_checked_at": "2026-11-09T06:23:50.257615+01:00",
+    "merchant_prices_checked_at": "2026-11-09T07:45:46.787525+01:00",
     "availability": "in_stock",
-    "price_observed_at": "2026-11-09T06:23:50.257615+01:00"
+    "price_observed_at": "2026-11-09T07:45:46.787525+01:00"
   },
   {
     "asin": "W430A91A9E",
@@ -851,9 +948,9 @@
     ],
     "merchant_match_score": 100,
     "merchant_ean": "4068815840033",
-    "merchant_prices_checked_at": "2026-11-09T06:23:50.257615+01:00",
+    "merchant_prices_checked_at": "2026-11-09T07:45:46.787525+01:00",
     "availability": "in_stock",
-    "price_observed_at": "2026-11-09T06:23:50.257615+01:00"
+    "price_observed_at": "2026-11-09T07:45:46.787525+01:00"
   },
   {
     "asin": "W132B9FEE1",
@@ -903,9 +1000,9 @@
     ],
     "merchant_match_score": 100,
     "merchant_ean": "198486721028",
-    "merchant_prices_checked_at": "2026-11-09T06:23:50.257615+01:00",
+    "merchant_prices_checked_at": "2026-11-09T07:45:46.787525+01:00",
     "availability": "in_stock",
-    "price_observed_at": "2026-11-09T06:23:50.257615+01:00"
+    "price_observed_at": "2026-11-09T07:45:46.787525+01:00"
   },
   {
     "asin": "B06WGM9V5B",
@@ -980,9 +1077,9 @@
     ],
     "merchant_match_score": 100,
     "merchant_ean": "4242002681450",
-    "merchant_prices_checked_at": "2026-11-09T06:23:50.257615+01:00",
+    "merchant_prices_checked_at": "2026-11-09T07:45:46.787525+01:00",
     "availability": "in_stock",
-    "price_observed_at": "2026-11-09T06:23:50.257615+01:00"
+    "price_observed_at": "2026-11-09T07:45:46.787525+01:00"
   },
   {
     "asin": "W5550F07EB",
@@ -1032,9 +1129,9 @@
     ],
     "merchant_match_score": 100,
     "merchant_ean": "198486721059",
-    "merchant_prices_checked_at": "2026-11-09T06:23:50.257615+01:00",
+    "merchant_prices_checked_at": "2026-11-09T07:45:46.787525+01:00",
     "availability": "in_stock",
-    "price_observed_at": "2026-11-09T06:23:50.257615+01:00"
+    "price_observed_at": "2026-11-09T07:45:46.787525+01:00"
   },
   {
     "asin": "W820701D95",
@@ -1084,9 +1181,9 @@
     ],
     "merchant_match_score": 100,
     "merchant_ean": "196923866820",
-    "merchant_prices_checked_at": "2026-11-09T06:23:50.257615+01:00",
+    "merchant_prices_checked_at": "2026-11-09T07:45:46.787525+01:00",
     "availability": "in_stock",
-    "price_observed_at": "2026-11-09T06:23:50.257615+01:00"
+    "price_observed_at": "2026-11-09T07:45:46.787525+01:00"
   },
   {
     "asin": "B0CCYPKJHL",
@@ -1202,9 +1299,9 @@
     ],
     "merchant_match_score": 100,
     "merchant_ean": "6970135036530",
-    "merchant_prices_checked_at": "2026-11-09T06:23:50.257615+01:00",
+    "merchant_prices_checked_at": "2026-11-09T07:45:46.787525+01:00",
     "availability": "in_stock",
-    "price_observed_at": "2026-11-09T06:23:50.257615+01:00"
+    "price_observed_at": "2026-11-09T07:45:46.787525+01:00"
   },
   {
     "asin": "W43975EDE7",
@@ -1254,9 +1351,9 @@
     ],
     "merchant_match_score": 100,
     "merchant_ean": "198487832334",
-    "merchant_prices_checked_at": "2026-11-09T06:23:50.257615+01:00",
+    "merchant_prices_checked_at": "2026-11-09T07:45:46.787525+01:00",
     "availability": "in_stock",
-    "price_observed_at": "2026-11-09T06:23:50.257615+01:00"
+    "price_observed_at": "2026-11-09T07:45:46.787525+01:00"
   },
   {
     "asin": "W4169C2F72",
@@ -1306,9 +1403,9 @@
     ],
     "merchant_match_score": 100,
     "merchant_ean": "198487798500",
-    "merchant_prices_checked_at": "2026-11-09T06:23:50.257615+01:00",
+    "merchant_prices_checked_at": "2026-11-09T07:45:46.787525+01:00",
     "availability": "in_stock",
-    "price_observed_at": "2026-11-09T06:23:50.257615+01:00"
+    "price_observed_at": "2026-11-09T07:45:46.787525+01:00"
   },
   {
     "asin": "B0DLWY63DB",
@@ -2457,68 +2554,5 @@
     "source_external_id": "",
     "quality_status": "ready",
     "quality_issues": []
-  },
-  {
-    "asin": "B07BY94TPR",
-    "title": "La Molisana, Rigatoni n. 31, Pasta da Solo Grano Italiano - Trafilata al Bronzo, Ruvida e Tenace con Eccellente Tenuta in Cottura - Confezione da 500 g",
-    "price": 0.65,
-    "old_price": 1.49,
-    "discount": 56.0,
-    "image": "https://m.media-amazon.com/images/I/41rVOhwdRzL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B07BY94TPR?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "cibo",
-    "macro_group": "spesa_bevande",
-    "seasonal_title": "",
-    "published_at": "2026-11-08T19:05:34.766223+01:00",
-    "source_merchant": "amazon",
-    "source_external_id": "",
-    "quality_status": "ready",
-    "quality_issues": []
-  },
-  {
-    "asin": "B0915C748N",
-    "title": "Tineco FLOOR ONE S5 Aspirapolvere Senza Fili Intelligente, Lavapavimenti",
-    "price": 159.0,
-    "old_price": 339.0,
-    "discount": 53.0,
-    "image": "https://m.media-amazon.com/images/I/31bV-J81JXL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0915C748N?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "casa_smart",
-    "macro_group": "casa_cucina",
-    "seasonal_title": "",
-    "published_at": "2026-11-08T19:00:33.556572+01:00",
-    "source_merchant": "amazon",
-    "source_external_id": "",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "mediaworld",
-        "merchant_name": "MediaWorld",
-        "merchant_id": "18529",
-        "product_id": "556576",
-        "awin_product_id": "43884484952",
-        "title": "LAVAPAVIMENTI TINECO FLOOR ONE S5 MAX, Potenza 210 W, bianco",
-        "brand": "TINECO",
-        "ean": "6932485008988",
-        "mpn": "CQ42338",
-        "price": 299.99,
-        "old_price": 329.99,
-        "discount": 9.1,
-        "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_170323486/fee_786_587_png",
-        "url": "https://www.awin1.com/pclick.php?p=43884484952&a=3086723&m=18529",
-        "category": "Pulizia e Stiro;Scope Elettriche;Lavapavimenti",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {
-          "color": "white",
-          "power_w": 210.0
-        }
-      }
-    ],
-    "merchant_match_score": 94,
-    "merchant_ean": "6932485008988",
-    "merchant_prices_checked_at": "2026-11-08T18:53:17.392678+01:00"
   }
 ]
