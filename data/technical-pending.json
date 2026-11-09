@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-09T11:11:17+01:00",
+  "generated_at": "2026-11-09T12:36:17+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -377,9 +377,23 @@
         "ean": "6932554469252",
         "mpn": "",
         "status": "da_verificare"
+      },
+      {
+        "title": "Samsung Galaxy S26+ Smartphone AI, 256GB, Processore avanzato, Assistente Foto, Creative Studio, Camera 50 MP, 4900 mAh, White",
+        "merchant": "unieuro",
+        "ean": "8806099453879",
+        "mpn": "F-US947BZWDEUE",
+        "status": "da_verificare"
       }
     ],
     "tv-in-offerta": [
+      {
+        "title": "LG OLED evo AI 65 Pollici, Serie G6S 2026 Smart TV 4K - OLED65G66LS | Base da Appoggio, Hyper Radiant Color, Reflection Free, Dual AI Engine, Dolby Vision & Atmos, VRR e G-Sync 4K@",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Xiaomi TV F Pro 32 2025, 32 pollici (81 cm), QLED, Smart TV, Fire TV, Triple Tuner DVB-C/S/S2/T/T2,Dolby Audio, DTS Virtual:X, DTS-HD, Controllo Vocale Alexa, Compatibile con Apple",
         "merchant": "amazon",
@@ -582,16 +596,16 @@
         "ean": "8806099323899",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "Hisense Smart TV QLED 65\" 4K 65E7DS | Audio Dolby Atmos, VIDAA OS, Dolby Vision IQ, HDR 10+, Game Mode, Bluetooth, Wifi, Alexa, AirPlay2, lativù 4K, 2026 Model",
-        "merchant": "amazon",
-        "ean": "6942351431703",
-        "mpn": "",
-        "status": "da_verificare"
       }
     ],
     "offerte-tv-55-65-pollici": [
+      {
+        "title": "LG OLED evo AI 65 Pollici, Serie G6S 2026 Smart TV 4K - OLED65G66LS | Base da Appoggio, Hyper Radiant Color, Reflection Free, Dual AI Engine, Dolby Vision & Atmos, VRR e G-Sync 4K@",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "TCL 55V6D – Smart TV 4K HDR10+ da 55\" con Fire TV e Dolby Atmos | DTS:X, Game Master, Motion Clarity, Apple AirPlay 2, Press & Ask Alexa",
         "merchant": "amazon",
@@ -1664,21 +1678,21 @@
     ],
     "migliori-soundbar": [
       {
-        "title": "Hisense AX5125H Soundbar 5.1.2, 500W, 2 altoparlanti posteriore 2 altoparlanti upfiring 1Subwoofer Esterno wireless, Dolby Atmos e DTS:X, Bluetooth, HDMI, USB, Ingresso Audio Ottic",
-        "merchant": "amazon",
+        "title": "Samsung Soundbar HW-B66CF/ZF Serie B, 4 Speaker, Wireless, Dolby 5.1ch, Audio a 3.1 Canali, DTS 5.1ch, Surround Sound Expansion, Voice Enhance Mode, Black, 2025",
+        "merchant": "",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
         "title": "TCL S55HE Soundbar 2.1, 220W, Dolby Atmos, DTS Virtual:X, subwoofer wireless, Bluetooth 5.3, HDMI eARC, USB, ottico, montaggio a parete, telecomando incluso",
-        "merchant": "amazon",
+        "merchant": "",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "Samsung Soundbar HW-B66CF/ZF Serie B, 4 Speaker, Wireless, Dolby 5.1ch, Audio a 3.1 Canali, DTS 5.1ch, Surround Sound Expansion, Voice Enhance Mode, Black, 2025",
+        "title": "Hisense AX5125H Soundbar 5.1.2, 500W, 2 altoparlanti posteriore 2 altoparlanti upfiring 1Subwoofer Esterno wireless, Dolby Atmos e DTS:X, Bluetooth, HDMI, USB, Ingresso Audio Ottic",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -2833,6 +2847,13 @@
     ],
     "migliori-moda": [
       {
+        "title": "NEW BALANCE 515 Sneaker | suede/mesh",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Kipling SEOUL S Zaino piccolo, Grey Gris (Grigio)",
         "merchant": "amazon",
         "ean": "",
@@ -3034,16 +3055,16 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      },
+      }
+    ],
+    "migliori-sneakers": [
       {
-        "title": "ASOCO DREAM Scarpe da Trail Running Uomo Scarpe da Passeggio Leggero Traspirante Scarpe da Ginnastica Antiscivolo Fitness Running Sneakers,Nero Grigio,39 EU",
+        "title": "NEW BALANCE 515 Sneaker | suede/mesh",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      }
-    ],
-    "migliori-sneakers": [
+      },
       {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
@@ -3244,13 +3265,6 @@
         "title": "Banlieue The Runner Uomo Sneakers Bianco Taglia 40.5 Scamosciato",
         "merchant": "footlocker",
         "ean": "7435111560557",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Banlieue The Runner Uomo Sneakers Bianco Taglia 41 Scamosciato",
-        "merchant": "footlocker",
-        "ean": "7435115916954",
         "mpn": "",
         "status": "da_verificare"
       }
