@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-09T22:41:16+01:00",
+  "generated_at": "2026-11-10T00:06:17+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -402,13 +402,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "TCL 40V5D – Smart TV QLED Full HD HDR da 40\" con Fire TV | Direct LED, Apple AirPlay 2, Press & Ask Alexa, Metallic Bezel-Less Design",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Hisense Smart TV 32\" HD Ready 32E4ST | DTS Virtual X, VIDAA OS con 1000+ APP, Game Mode, Wifi, AirPlay2, Works with Alexa, lativù, 2026 Model",
         "merchant": "amazon",
         "ean": "6942351429250",
@@ -601,6 +594,13 @@
         "title": "TCL 65PF650 – Smart TV 4K Ultra HD da 65\", Fire TV | Game Master, Motion Clarity, Dolby Vision & Atmos, Press & Ask Alexa",
         "merchant": "amazon",
         "ean": "5901292523343",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Hisense Smart TV QLED 65\" 4K 65E7DS | Audio Dolby Atmos, VIDAA OS, Dolby Vision IQ, HDR 10+, Game Mode, Bluetooth, Wifi, Alexa, AirPlay2, lativù 4K, 2026 Model",
+        "merchant": "amazon",
+        "ean": "6942351431703",
         "mpn": "",
         "status": "da_verificare"
       }
