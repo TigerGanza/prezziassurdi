@@ -1,10 +1,17 @@
 {
   "version": 1,
-  "generated_at": "2026-11-09T14:01:17+01:00",
+  "generated_at": "2026-11-09T15:31:16+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
     "smartphone-in-offerta": [
+      {
+        "title": "Fujifilm instax mini Evo Black, Fotocamera Istantanea Ibrida digitale | Fotocamera Digitale Compatta, Stampante per Smartphone, Design Analogico, 100 Effetti, Dimensioni Stampa 86 ",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Google Pixel 11 Pro – Smartphone Android sbloccato – Rosa opaco, 512GB | Con Gemini Intelligence, autonomia di oltre 30 ore e display Super Actua da 6,3”",
         "merchant": "amazon",
@@ -207,16 +214,16 @@
         "ean": "6932169347211",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "Xiaomi POCO M8 Pro 5G, Smartphone 12+512GB, Nero, Snapdragon® 7s Gen 4 | Display AMOLED CrystalRes 6,83\" 1.5K, Fotocamera 50MP Light Fusion 800 con OIS, IP68, Garanzia 2 anni",
-        "merchant": "amazon",
-        "ean": "6932554481117",
-        "mpn": "",
-        "status": "da_verificare"
       }
     ],
     "migliori-smartphone-sotto-300-euro": [
+      {
+        "title": "Fujifilm instax mini Evo Black, Fotocamera Istantanea Ibrida digitale | Fotocamera Digitale Compatta, Stampante per Smartphone, Design Analogico, 100 Effetti, Dimensioni Stampa 86 ",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Samsung Galaxy A14 5G Smartphone Android, Display LCD FHD+ 6.6\", 4GB RAM, 64GB Memoria interna espandibile, Batteria 5.000 mAh, Black [Versione italiana] (Ricondizionato)",
         "merchant": "amazon",
@@ -819,34 +826,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "FUCHU Laptop da 14.1 pollici Intel Atom A3950 Windows 11 Laptop 12GB RAM 1TB 2TB SSD Computer portatile Notebook da gioco Ufficio Tempo libero PC 1920*1080 HD 4K",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "FUCHU 2026 Laptop Intel Atom X7 A3950 12GB RAM 1TB 2TB SSD 14.1 Pollici Computer Ultra Sottile Windows 11 Pro PC da Gaming per Ufficio Studio e Business",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "FUCHU Nuovo Laptop da Ufficio con Intel Atom A3950, 12GB RAM, 2TB SSD, PC da Gaming, Display HD 1920*1080, Computer per Studio, PC 14.1\" con Windows 11 Pro, Ultra Sottile",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Ninkear A15, notebook da 15,6 pollici con schermo IPS FHD, 16 GB di RAM DDR4, SSD da 512 GB, processore AMD Ryzen 5 5500U, ideale per ufficio e studio, con connettività Wi Fi 6, ta",
-        "merchant": "aliexpress",
-        "ean": "6976593090466",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Ninkear S14 Laptop 14' 2.2K IPS AMD Ryzen 5 6600H 6 Core 4.55GHz 16GB LPDDR5X 1TB PCIe SSD WiFi 6 BT5.3 PD65W Ricarica Rapida 1kg Ultra Leggero Type C Windows 11,180 ° Hinge Finger",
         "merchant": "aliexpress",
         "ean": "6976593090664",
@@ -1161,27 +1140,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "PHILIPS Monitor 27E1N1800A 27 pollici 3840x2160, UHD, 60Hz, IPS Panel, 4ms GtG, Speakers, (HDMI2x 2.0 DP 1x 1.4) HDR10, Nero",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "PHILIPS Monitor 27E1N1800AE 27 pollici 3840x2160, UHD, 60Hz, IPS Panel, 4ms GtG, Speakers, Height Adjustment, (HDMI2x 2.0 DP 1x 1.4) HDR10, Nero",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "MSI MAG 275UPDA E14 Gaming Monitor 27\",4K UHD, 3840x2160 IPS, 288Hz, 1ms, | HDR Ready, AMD FreeSync Premium, Eye Care, Dual-Mode, HDMI 2.1, DP 1.4a, Frameless, Stand Tilt/Altezza R",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Xiaomi Monitor G27i",
         "merchant": "",
         "ean": "",
@@ -1366,13 +1324,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Apple Watch Series 10 Serie 10 GPS + Cellular 46mm Cassa in Titanio color Ardesia con Loop in maglia milanese ardesia - S/M",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "2026 Smartwatch Uomo GPS,2.06\" HD AMOLED Orologio Smartwatch con Chiamate",
         "merchant": "",
         "ean": "",
@@ -1501,6 +1452,27 @@
       {
         "title": "Nuovo Smartwatch OnePlus Watch 2 con Schermo AMOLED da 1,43'', WiFi, GPS, IP68, Google Pay",
         "merchant": "aliexpress",
+        "ean": "6921815625766",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "HAYLOU Solar 5 Chiamate vocali Smartwatch 1.58 ''Display AMOLED 60Hz Smart Watch 24 ore Monitoraggio della salute Sport Smartwatch per uomo",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "OnePlus Watch Lite Smartwatch con Display AMOLED da 1,46'', GPS Dual Band e Durata della Batteria fino a 10 Giorni",
+        "merchant": "aliexpress",
+        "ean": "6921815630210",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Nuovo Smartwatch OnePlus Watch 2 con Schermo AMOLED da 1,43'', Batteria da 500mAh, Oltre 100 Modalità Sportive, 2GB+32GB, 46mm, WiFi, GPS, IP68, Google Pay",
+        "merchant": "aliexpress",
         "ean": "6921815626626",
         "mpn": "",
         "status": "da_verificare"
@@ -1513,9 +1485,9 @@
         "status": "da_verificare"
       },
       {
-        "title": "OnePlus Watch Lite Smartwatch con Display AMOLED da 1,46'', GPS Dual Band e Durata della Batteria fino a 10 Giorni",
+        "title": "Computer da Ciclismo Garmin Edge 540, Navigatore GPS per Esterni, Contachilometri per Bici da Montagna e Strada, Impermeabile, Regalo per Ciclisti",
         "merchant": "aliexpress",
-        "ean": "6921815630210",
+        "ean": "7537593221680",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -1545,6 +1517,13 @@
         "merchant": "unieuro",
         "ean": "8806095084176",
         "mpn": "SM-R960NZKAITV",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Apple Watch Series 10 Serie 10 GPS + Cellular 46mm Cassa in Titanio color Ardesia con Loop in maglia milanese ardesia S/M",
+        "merchant": "unieuro",
+        "ean": "0195949896538",
+        "mpn": "APLMC7R4QL/A",
         "status": "da_verificare"
       }
     ],
@@ -1779,27 +1758,6 @@
         "title": "Ultimea 410W, soundbar con audio surround virtuale 7.1, ideale per smart TV, dotata di subwoofer da 6,5 pollici e 2 altoparlanti surround, controllabile tramite app.",
         "merchant": "aliexpress",
         "ean": "6978897889630",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "ULTIMEA Soundbar Compatta 2.1ch per TV con Controllo App, Subwoofer Integrato da 3 Pollici BassMX ™ Soundbar All in One per PC da Gaming",
-        "merchant": "aliexpress",
-        "ean": "6978897889548",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "ULTIMEA Soundbar 240W 2.1ch con Subwoofer Wireless da 5.25\" e Controllo App, Sistema Home Theater per Smart TV, BassMX e VoiceMX",
-        "merchant": "aliexpress",
-        "ean": "6978897889739",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "ULTIMEA Aura S4T 350W Soundbar 7.1ch per TV con Subwoofer, 4 Altoparlanti Surround e Staffe di Montaggio, Sistema Home Theater Surround",
-        "merchant": "aliexpress",
-        "ean": "6978897889586",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -2158,6 +2116,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "(Codice promozionale: GCC800)Aspirapolvere Robot ABIR X8, sistema Laser, mappe a più piani, pulizia delle Zone, impostazione dell'area limitata per il lavaggio della moquette domes",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Robot Aspirapolvere ABIR X9, Doppio Lidar, Aspirazione 6500pa, Pulizia UV, Mappa Multi Piano, Area Restringibile tramite APP, Lavapavimenti Intelligente per Casa",
         "merchant": "aliexpress",
         "ean": "",
@@ -2272,13 +2237,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Aspirapolvere Senza Fili Tdyon, Potenza di Aspirazione 50000Pa, Motore da 500W con Display LED, 50 Minuti di Autonomia in Modalità Automatica e Spazzola Anti Groviglio per Tappeti ",
-        "merchant": "aliexpress",
-        "ean": "0669416793793",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Aspirapolvere Wet Dry Ultra Cordless JONR S20 per moquette e pavimenti duri, ricaricabile e leggero",
         "merchant": "aliexpress",
         "ean": "",
@@ -2286,16 +2244,9 @@
         "status": "da_verificare"
       },
       {
-        "title": "Aspirapolvere Senza Fili V8MAX, 55KPA/50 Minuti di Autonomia, con Luce LED Verde, Spazzola Anti Groviglio a V per Peli di Animali, Tappeti",
+        "title": "Aspirapolvere Senza Fili Tdyon, Potenza di Aspirazione 50000Pa, Motore da 500W con Display LED, 50 Minuti di Autonomia in Modalità Automatica e Spazzola Anti Groviglio per Tappeti ",
         "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Aspirapolvere senza fili Erabros EV3, potente aspirazione da 500 W e 60 kPa, aspirapolvere verticale, autonomia di 60 minuti, spazzola anti groviglio, batteria rimovibile, aspirapo",
-        "merchant": "aliexpress",
-        "ean": "6978669692154",
+        "ean": "0669416793793",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -2322,6 +2273,41 @@
       }
     ],
     "migliori-lavatrici": [
+      {
+        "title": "LG AI DD F4R7011TSWG Lavatrice 11kg, a Carica Frontale, Serie R7, Lavatrice Classe A -10%, 1400 giri, TurboWash 360, Vapore su 7 Programmi, Wi-Fi, Libera installazione, Bianco",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "LG F4R3010NSWW Lavatrice 10 kg Serie R3, Classe A-10%, AI DD, Vapore | 1400 Giri, Allergy Care Approvato BAF, Motore Inverter Direct Drive, Cestello a Bolle, Smart Diagnosis, Bianc",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Midea Lavatrice 8 kg Classe A 1400 Giri Silent Inverter Motor | Vapore Igienizzante, Rimozione Peli Animali, Programma Sport e Motore Silenzioso per Case con Animali MFV3EW80BA10",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Candy ProWash 500 Lavatrice Carica dall’Alto 7 Kg 1200 RPM Classe A Slim 40,5 cm WiFi App hOn Motore Inverter AI Weight Sense 17 Programmi Rapidi AxLxP 86x40,5x60 cm TCA274TM5-S",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Bosch WAN28228IT Serie 4 Lavatrice 8kg 1400 giri/min Bianco Classe A | Lavatrice con vapore, Riconoscimento del carico, Motore silenzioso e duraturo con 10 anni di assistenza, Made",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Bosch WAN28229IT Serie 4 Lavatrice 9kg 1400 giri/min Bianco Classe A",
         "merchant": "",
@@ -2361,20 +2347,6 @@
         "title": "Indesit BWE 91296X WV IT - Lavatrice 9kg",
         "merchant": "",
         "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Bosch WAN28228IT Serie 4 Lavatrice 8kg 1400 giri/min Bianco Classe A | Lavatrice con vapore, Riconoscimento del carico, Motore silenzioso e duraturo con 10 anni di assistenza, Made",
-        "merchant": "amazon",
-        "ean": "4242005532612",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Midea Lavatrice 8 kg Classe A 1400 Giri Silent Inverter Motor | Vapore Igienizzante, Rimozione Peli Animali, Programma Sport e Motore Silenzioso per Case con Animali MFV3EW80BA10",
-        "merchant": "amazon",
-        "ean": "6945878356702",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -2509,27 +2481,6 @@
         "merchant": "unieuro",
         "ean": "8806095550282",
         "mpn": "WW90DB7U34GWU3",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Samsung Lavatrice Crystal Clean 8 kg WW80CGC04DAEET",
-        "merchant": "unieuro",
-        "ean": "8806095210285",
-        "mpn": "WW80CGC04DAEET",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Hotpoint Ariston Lavatrice da incasso BI WMHG 71483 EU N",
-        "merchant": "unieuro",
-        "ean": "8050147619315",
-        "mpn": "869991619310",
-        "status": "da_verificare"
-      },
-      {
-        "title": "LG D2R3S08NSWW Lavasciuga slim 8/5kg AI DD, Classe E, 1200 giri, AI Wash, Vapore",
-        "merchant": "unieuro",
-        "ean": "8806084273680",
-        "mpn": "D2R3S08NSWW.ABWQP",
         "status": "da_verificare"
       }
     ],
@@ -2789,13 +2740,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Friggitrice ad Aria con Forno per Pizza da 12 Pollici, 2200W, 11 in 1 con Doppio Riscaldamento e Finestra di Visualizzazione, Capacità XL 4.2L, 360° ° Cottura a 360°, Senza Girare",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Ardes ARFRYA01 6,5 L Indipendente 1700 W Friggitrice ad aria calda Bianco",
         "merchant": "unieuro",
         "ean": "8004032114997",
@@ -2853,6 +2797,20 @@
       }
     ],
     "migliori-moda": [
+      {
+        "title": "PUMA Scarpe da Calcio Future 9 Play TT, Glowing Red, 44 EU",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "JACK & JONES Jeans da uomo Intelligence Glenn Original AM 814",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "NEW BALANCE 515 Sneaker | suede/mesh",
         "merchant": "amazon",
@@ -3044,20 +3002,6 @@
       },
       {
         "title": "HOBIBEAR Scarpe da Ginnastica da Uomo e da Donna con Punta Larga, Minimal, Drop Zero, Sneaker da Trail Running, Sneakers Casual da Esterno",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "JOMIX Scarpe da Ginnastica Uomo Sneaker Sportive Corsa Running Sneakers Casual Traspirante per Correre Camminare Trail Trekking SU138-13 (Bianco, 42)",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "ASOCO DREAM Scarpe da Trail Running Uomo Scarpe da Passeggio Leggero Traspirante Scarpe da Ginnastica Antiscivolo Fitness Running Sneakers,Nero Grigio,39 EU",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
