@@ -1,5 +1,39 @@
 [
   {
+    "asin": "B0DD45SH7Y",
+    "title": "NOVOO Hub USB-A 4 Porte USB 2.0, Splitter Dati per PS5 e PC",
+    "price": 6.99,
+    "old_price": 9.99,
+    "discount": 30.0,
+    "image": "https://m.media-amazon.com/images/I/31La50WaAVL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0DD45SH7Y?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "pc_components",
+    "macro_group": "tech",
+    "seasonal_title": "",
+    "published_at": "2026-11-09T22:10:41.511982+01:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
+    "asin": "B0GXFBBQW8",
+    "title": "Erinde Palette Ombretti Nude 9 Colori, Palette Trucco Occhi Toni Marroni Caldi e Neutri, Ombretto Occhi Altamente Pigmentati, Opachi a Lunga Durata, per un Look Naturale Quotidiano, #02",
+    "price": 9.99,
+    "old_price": 13.71,
+    "discount": 27.0,
+    "image": "https://m.media-amazon.com/images/I/41R5s4ctxSL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0GXFBBQW8?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "bellezza",
+    "macro_group": "cura_persona",
+    "seasonal_title": "",
+    "published_at": "2026-11-09T22:05:51.523710+01:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B0BV7J86RM",
     "title": "Clementoni Scienza e Gioco Lab - La Mia Prima Chimica, Laboratorio di Chimica Bambini 8+ Anni, 100 Esperimenti, Tavola Periodica e Strumenti Scientifici, Gioco Made in Italy, Lingua Italiana, 19358",
     "price": 11.9,
@@ -1750,67 +1784,5 @@
     "source_external_id": "",
     "quality_status": "ready",
     "quality_issues": []
-  },
-  {
-    "asin": "B0F43GFGJ1",
-    "title": "TARION Borsa Fotografica Monospalla 2-in-1 Zaino Fotografica Piccola | Custodia Macchina Fotocamera Compatto e Versatile per DSLR SLR Mirrorless Fotografica e Obiettivi Xprober",
-    "price": 36.69,
-    "old_price": 49.99,
-    "discount": 27.0,
-    "image": "https://m.media-amazon.com/images/I/41N858RjldL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0F43GFGJ1?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "fotografia",
-    "macro_group": "tech",
-    "seasonal_title": "",
-    "published_at": "2026-11-09T15:15:43.603707+01:00",
-    "source_merchant": "amazon",
-    "source_external_id": "",
-    "quality_status": "ready",
-    "quality_issues": []
-  },
-  {
-    "asin": "B0CBSLTT9L",
-    "title": "LG AI DD F4R7011TSWG Lavatrice 11kg, a Carica Frontale, Serie R7, Lavatrice Classe A -10%, 1400 giri, TurboWash 360, Vapore su 7 Programmi, Wi-Fi, Libera installazione, Bianco",
-    "price": 431.14,
-    "old_price": 599.0,
-    "discount": 28.0,
-    "image": "https://m.media-amazon.com/images/I/41T2IGZfoCL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0CBSLTT9L?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "grandi_elettrodomestici",
-    "macro_group": "casa_cucina",
-    "seasonal_title": "",
-    "published_at": "2026-11-09T15:10:36.613495+01:00",
-    "source_merchant": "amazon",
-    "source_external_id": "",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "unieuro",
-        "merchant_name": "Unieuro",
-        "merchant_id": "10139",
-        "product_id": "GOLF4R7011TSWC",
-        "awin_product_id": "43837128188",
-        "title": "LG F4R7011TSWC Lavatrice 11kg AI DD, Classe A-10%, 1400 giri, TurboWash, Vapore",
-        "brand": "LG",
-        "ean": "8806084287120",
-        "mpn": "F4R7011TSWCABWQPI",
-        "price": 549.9,
-        "old_price": 999.0,
-        "discount": 45.0,
-        "image": "https://www.unieuro.it/medias/sys_master/root/h2a/h4c/51180432556062/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-f6485c28241548739ae6bf117832a325-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-        "url": "https://www.awin1.com/pclick.php?p=43837128188&a=3086723&m=10139",
-        "category": "Lavatrici",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {
-          "capacity_kg": 11.0
-        }
-      }
-    ],
-    "merchant_match_score": 92,
-    "merchant_ean": "8806084287120",
-    "merchant_prices_checked_at": "2026-11-09T14:37:24.844756+01:00"
   }
 ]
