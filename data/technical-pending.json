@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-09T21:16:17+01:00",
+  "generated_at": "2026-11-09T22:41:16+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -2260,41 +2260,6 @@
     ],
     "migliori-lavatrici": [
       {
-        "title": "LG AI DD F4R7011TSWG Lavatrice 11kg, a Carica Frontale, Serie R7, Lavatrice Classe A -10%, 1400 giri, TurboWash 360, Vapore su 7 Programmi, Wi-Fi, Libera installazione, Bianco",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "LG F4R3010NSWW Lavatrice 10 kg Serie R3, Classe A-10%, AI DD, Vapore | 1400 Giri, Allergy Care Approvato BAF, Motore Inverter Direct Drive, Cestello a Bolle, Smart Diagnosis, Bianc",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Midea Lavatrice 8 kg Classe A 1400 Giri Silent Inverter Motor | Vapore Igienizzante, Rimozione Peli Animali, Programma Sport e Motore Silenzioso per Case con Animali MFV3EW80BA10",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Candy ProWash 500 Lavatrice Carica dall’Alto 7 Kg 1200 RPM Classe A Slim 40,5 cm WiFi App hOn Motore Inverter AI Weight Sense 17 Programmi Rapidi AxLxP 86x40,5x60 cm TCA274TM5-S",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Bosch WAN28228IT Serie 4 Lavatrice 8kg 1400 giri/min Bianco Classe A | Lavatrice con vapore, Riconoscimento del carico, Motore silenzioso e duraturo con 10 anni di assistenza, Made",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Bosch WAN28229IT Serie 4 Lavatrice 9kg 1400 giri/min Bianco Classe A",
         "merchant": "",
         "ean": "",
@@ -2337,9 +2302,23 @@
         "status": "da_verificare"
       },
       {
+        "title": "Bosch WAN28228IT Serie 4 Lavatrice 8kg 1400 giri/min Bianco Classe A | Lavatrice con vapore, Riconoscimento del carico, Motore silenzioso e duraturo con 10 anni di assistenza, Made",
+        "merchant": "amazon",
+        "ean": "4242005532612",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "LG F4NA1009NWK Lavatrice 9 kg Serie A1, Classe A, 1400 Giri, Vapore | Top Rimovibile per Incasso Sottopiano, Programma Igiene con Vapore, Rapido 30, Cestello a Bolle, Design Minima",
         "merchant": "amazon",
         "ean": "8806096118863",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Midea Lavatrice 8 kg Classe A 1400 Giri Silent Inverter Motor | Vapore Igienizzante, Rimozione Peli Animali, Programma Sport e Motore Silenzioso per Case con Animali MFV3EW80BA10",
+        "merchant": "amazon",
+        "ean": "6945878356702",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -2467,6 +2446,27 @@
         "merchant": "unieuro",
         "ean": "8806095550282",
         "mpn": "WW90DB7U34GWU3",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Samsung Lavatrice Crystal Clean 8 kg WW80CGC04DAEET",
+        "merchant": "unieuro",
+        "ean": "8806095210285",
+        "mpn": "WW80CGC04DAEET",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Hotpoint Ariston Lavatrice da incasso BI WMHG 71483 EU N",
+        "merchant": "unieuro",
+        "ean": "8050147619315",
+        "mpn": "869991619310",
+        "status": "da_verificare"
+      },
+      {
+        "title": "LG D2R3S08NSWW Lavasciuga slim 8/5kg AI DD, Classe E, 1200 giri, AI Wash, Vapore",
+        "merchant": "unieuro",
+        "ean": "8806084273680",
+        "mpn": "D2R3S08NSWW.ABWQP",
         "status": "da_verificare"
       }
     ],
@@ -2784,7 +2784,7 @@
     ],
     "migliori-moda": [
       {
-        "title": "PUMA Scarpe da Calcio Future 9 Play TT, Glowing Red, 44 EU",
+        "title": "MCA Pantaloni Donna Palazzo Elasticizzati Gamba Dritta Larga Made in Italy (IT, Testo, XS, Regular, Regular, Nero)",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
