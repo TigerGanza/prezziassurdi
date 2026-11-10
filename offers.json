@@ -1,5 +1,22 @@
 [
   {
+    "asin": "B08998KT95",
+    "title": "ALPRO BARISTA, Bevanda all'AVENA - 8x1L | NATURALMENTE SENZA LATTOSIO E 100% VEGETALE, Ideale con il Caffè per una Schiuma Perfetta",
+    "price": 13.21,
+    "old_price": 19.0,
+    "discount": 30.0,
+    "image": "https://m.media-amazon.com/images/I/51iuJIn-zoL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B08998KT95?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "bevande_analcoliche",
+    "macro_group": "spesa_bevande",
+    "seasonal_title": "",
+    "published_at": "2026-11-10T22:10:44.809494+01:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B09P47NZGL",
     "title": "Optimum Nutrition ON Platinum PUMP Pre-Workout, Integratore Alimentare Pre-Workout Intenso Senza Caffeina con Fruitflow, Beta-Alanina, L-Arginina, L-Citrullina, Gusto Fruttato, 20 dosi, 420 g",
     "price": 26.99,
@@ -1809,22 +1826,5 @@
     "merchant_match_score": 92,
     "merchant_ean": "5702018063385",
     "merchant_prices_checked_at": "2026-11-10T15:44:18.673557+01:00"
-  },
-  {
-    "asin": "B00TFB0YX8",
-    "title": "Optimum Nutrition Gold Standard Pre-Workout in Polvere, 330g, 30 Porzioni | Anguria, 3,4 g di Creatina Monoidrato, 175 mg di Caffeina Naturale, Beta-Alanina, Favorisce Energia e Concentrazione",
-    "price": 22.99,
-    "old_price": 32.99,
-    "discount": 30.0,
-    "image": "https://m.media-amazon.com/images/I/41VeRymicrL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B00TFB0YX8?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "integratori_preworkout",
-    "macro_group": "tempo_libero",
-    "seasonal_title": "",
-    "published_at": "2026-11-10T16:37:54.079433+01:00",
-    "source_merchant": "amazon",
-    "source_external_id": "",
-    "quality_status": "ready",
-    "quality_issues": []
   }
 ]
