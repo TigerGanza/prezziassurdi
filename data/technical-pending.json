@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-10T01:31:16+01:00",
+  "generated_at": "2026-11-10T02:56:16+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -2120,6 +2120,13 @@
         "merchant": "aliexpress",
         "ean": "0740111631136",
         "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Roborock Qrevo Curv Robot Aspirapolvere e Lavapavimenti, Aspirazione 18.500 Pa, Lavaggio a 75 °C e Asciugatura del Panno, Spazzola Laterale, Doppio Panno",
+        "merchant": "unieuro",
+        "ean": "6970995789942",
+        "mpn": "MEARR0006",
         "status": "da_verificare"
       },
       {
