@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-11T20:06:17+01:00",
+  "generated_at": "2026-11-11T21:51:17+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -1019,6 +1019,13 @@
     ],
     "migliori-tablet": [
       {
+        "title": "Apple iPad Air 13'' (M4): display Liquid Retina, 128 GB, fotocamera frontale e posteriore da 12MP, Wi-Fi 7 con chip Apple N1 – Grigio siderale",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Tablet Android da 11 Pollici, Octa-Core, 24GB(4+20) RAM+128GB Memoria, Batteria 8200mAh, Widevine L1, Espandibile fino a 1TB, Doppia Fotocamera, Android Tablet per Studio, Lavoro e",
         "merchant": "",
         "ean": "",
@@ -1139,6 +1146,13 @@
       }
     ],
     "migliori-monitor": [
+      {
+        "title": "LG UltraWide 29U511A Monitor 29\" IPS WFHD(2560x1080) 100Hz per multitasking | Formato UltraWide 21:9, HDR10, colori accurati sRGB 99%, schermo antiriflesso e comfort visivo",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Xiaomi Monitor G27i",
         "merchant": "",
@@ -1262,13 +1276,6 @@
         "title": "LG Monitor 32UR55ZK 2026, 32\" Ultra HD 4K (3840x2160) HDR10 | Immagini dettagliate con DCI-P3 90%, Speaker Stereo 10W, 60Hz, 4ms, FreeSync, HDMI 2.0, DP, Uscita Cuffie, Stand Pivot",
         "merchant": "amazon",
         "ean": "8806096788912",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "LG UltraWide 29U511A Monitor 29\" IPS WFHD(2560x1080) 100Hz per multitasking | Formato UltraWide 21:9, HDR10, colori accurati sRGB 99%, schermo antiriflesso e comfort visivo",
-        "merchant": "amazon",
-        "ean": "8806096534601",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -1827,6 +1834,13 @@
     ],
     "cuffie-bluetooth-in-offerta": [
       {
+        "title": "Moman H2S Interfono Moto 1000M Audio Multifunzione Hi-Fi Stereo (2 PCS) | Auricolare Casco Moto Sistema di Comunicazione Riduzione del Rumore Tripla Radio FM Controllo Vocale AI IP",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Sony Mdr-Zx110 Cuffie On-Ear, Nero, Cablato",
         "merchant": "amazon",
         "ean": "",
@@ -2028,13 +2042,6 @@
         "ean": "1200130004605",
         "mpn": "JBLLIVE770NCBLU",
         "status": "da_verificare"
-      },
-      {
-        "title": "JBL Live LIVE 770NC WHT Cuffie circum aurali wireless con cancellazione del rumore adattiva",
-        "merchant": "unieuro",
-        "ean": "1200130004599",
-        "mpn": "JBLLIVE770NCWHT",
-        "status": "da_verificare"
       }
     ],
     "migliori-robot-aspirapolvere": [
@@ -2054,20 +2061,6 @@
       },
       {
         "title": "MONSGA 8000Pa Robot Aspirapolvere Lavapavimenti (Nero Premium) | Anti-groviglio, Ricarica Automatica, Controllo App/Telecomando/Alexa, Silenzioso, Per Peli Animali, Pavimenti e Tap",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "iRobot Roomba® Max 775 Combo robot aspirapolvere lavapavimenti, 30.000 Pa | Con stazione AutoWash™ autosvuotante, PowerSpin™ Mop con acqua calda 75°C e asciugatura a caldo, LiDAR +",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Lefant M330 Pro Robot Aspirapolvere Lavapavimenti 5000Pa Grigio | PSD 190°, Rilevamento Tappeti, Anti-Groviglio, 3 Mappe, Zone Vietate, Pulizia Programmata, WiFi/App/Alexa, Peli An",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -2119,6 +2112,13 @@
         "title": "Lefant M1 Robot Aspirapolvere Lavapavimenti con Mappatura 3 in 1, 5500 Pa | Ultrasottile 32cm, 200min, Navigazione Laser dToF, Controllo APP/Alexa, per Peli di Animali e Pavimenti ",
         "merchant": "amazon",
         "ean": "0787480986122",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Lefant M330 Pro Robot Aspirapolvere Lavapavimenti 5000Pa Grigio | PSD 190°, Rilevamento Tappeti, Anti-Groviglio, 3 Mappe, Zone Vietate, Pulizia Programmata, WiFi/App/Alexa, Peli An",
+        "merchant": "amazon",
+        "ean": "0674026774100",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -2246,6 +2246,13 @@
         "merchant": "unieuro",
         "ean": "5061042263186",
         "mpn": "817170",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Ecovacs DEEBOT T50 OMNI Gen2 Robot Aspirapolvere Lavapavimenti, 21000 Pa, Spazzola Laterale Estensibile e Lavapavimenti, lavaggio con acqua calda a 75 ℃,",
+        "merchant": "unieuro",
+        "ean": "6970135037452",
+        "mpn": "T50OMNIBKGEN2",
         "status": "da_verificare"
       }
     ],
@@ -2868,6 +2875,13 @@
     ],
     "migliori-moda": [
       {
+        "title": "Chicco Bambini e ragazzi Tuta con Felpa e Pantaloni Lunghi | Comoda e alla Moda FW25 253_4",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
         "ean": "",
@@ -3067,13 +3081,6 @@
         "title": "JOPHY & CO. T-Shirt Personalizzabile in Cotone, Maglietta Personalizzata con Stampa per Uomo e Donna, Idea Regalo Originale (IT, Testo, S, Regular, Regular, Bianco)",
         "merchant": "amazon",
         "ean": "8054346377281",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Puzzletee Maglietta Padel Personalizzata sul Retro con Nome/Numero - T-Shirt Tecnica Traspirante Quick Dry - Uomo/Donna - Ideale Allenamento e Tornei - Nero, M",
-        "merchant": "amazon",
-        "ean": "",
         "mpn": "",
         "status": "da_verificare"
       }
