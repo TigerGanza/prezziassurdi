@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-11T11:16:17+01:00",
+  "generated_at": "2026-11-11T12:46:18+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -977,6 +977,13 @@
     ],
     "migliori-tablet": [
       {
+        "title": "Microsoft Surface Pro | Copilot+ PC | LCD Touchscreen 12” | Snapdragon® X Plus | 16GB di RAM | 512GB di memoria | Ultimo modello | Platino",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Tablet Android 16 11 Pollici, 32GB RAM 256GB ROM 1TB Espandibile, Batteria 7800mAh, Processore Penta-Core, WiFi 6, Schermo HD IPS, Doppia Fotocamera",
         "merchant": "amazon",
         "ean": "",
@@ -1763,6 +1770,13 @@
       }
     ],
     "cuffie-bluetooth-in-offerta": [
+      {
+        "title": "Nothing Ear (3a) auricolari Bluetooth con ANC ibrida fino a 45 dB, driver da 12 mm, audio Hi-Res, bassi potenti, 6 microfoni, connessione multipoint",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Soundcore di Anker Liberty 5, Cuffie Bluetooth In Ear con ANC, Dolby Audio | ANC in Tempo Reale, Riduzione della Voce 2X più Forte, Chiamate Chiare con 6 Mic IA, Lunga Durata, Nero",
         "merchant": "amazon",
@@ -2798,13 +2812,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "LCKR Oswego Uomo - Pantaloni Nero - Taglia XS - Pile di cotone",
-        "merchant": "footlocker",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
         "ean": "",
@@ -2990,6 +2997,13 @@
         "title": "Donna Scarpe da Running Ginnastica Camminata Sportive Trekking Tennis Trail Jogging Palestra Mesh Basket Sport Outdoor Fitness Sport Platform Sneakers Nero 38 EU",
         "merchant": "amazon",
         "ean": "0050132443947",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "T-Shirt Nucleo x Zeus Basic Uomo Donna - Maglietta Sportiva Traspirante - Cotone - vestibilità Comoda - Casual & Fitness",
+        "merchant": "amazon",
+        "ean": "8052219608852",
         "mpn": "",
         "status": "da_verificare"
       }
@@ -3208,9 +3222,23 @@
     ],
     "lavapavimenti-elettriche": [
       {
+        "title": "Tineco Floor ONE S9 Master Lavapavimenti, 23.000Pa Potente aspirazione | Pulizia continua con acqua calda, ThermoBlast, StreakFree, FlashDry",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Tineco iFLOOR 5 Breeze Complete Lavapavimenti, Design Leggero, Autopulizia | Aspira e Lava in un Solo Passaggio, Durata di funzionamento prolungata senza interruzioni, Pulizia dei ",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Tineco Floor ONE S7 Stretch Ultra Lavapavimenti aspirapolvere senza fili | Fino a 50 minuti di autonomia, MHCBS, FlashDry",
         "merchant": "amazon",
-        "ean": "6932485005857",
+        "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
