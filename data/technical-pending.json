@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-11T08:26:17+01:00",
+  "generated_at": "2026-11-11T09:51:18+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -1941,27 +1941,6 @@
     ],
     "migliori-robot-aspirapolvere": [
       {
-        "title": "roborock Qrevo Edge 2 Set Robot Aspirapolvere Lavapavimenti 25.000Pa | LDS Retrattile, 7,98 cm, FlexiArm, Antigroviglio, Autopulizia Panno 80°C, Evita Oltre 280 Oggetti, Videochiam",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "roborock Qrevo Curv 2 Pro Robot Aspirapolvere Lavapavimenti, LDS Retrattile | 7,98 cm, 25.000 Pa, Telaio AdaptiLift, Zero-Grovigli, Acqua 100°C, Evita Ostacoli, Stazione Multifunzi",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "roborock Qrevo S Pro Robot Aspirapolvere Lavapavimenti, Lavaggio Panno 75°C | Asciugatura Aria Calda 45°C, 18.500Pa, Antigroviglio, Evitare Ostacoli, Stazione Tutto in Uno, Modalit",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Lefant M210 PRO OMNI Robot Aspirapolvere Lavapavimenti con Rullo 20.000Pa",
         "merchant": "",
         "ean": "",
@@ -2042,6 +2021,13 @@
         "title": "Proscenic Q10 Robot Aspirapolvere Lavapavimenti con Mappatura, Robot Pavimenti 10000Pa 200min, LiDAR Intelligente, Controllo APP/Alexa/WiFi/Siri/IFTTT, Ideale per Pulizia Domestica",
         "merchant": "amazon",
         "ean": "6924843249898",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "roborock Qrevo S Pro Robot Aspirapolvere Lavapavimenti, Lavaggio Panno 75°C | Asciugatura Aria Calda 45°C, 18.500Pa, Antigroviglio, Evitare Ostacoli, Stazione Tutto in Uno, Modalit",
+        "merchant": "amazon",
+        "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -2149,9 +2135,30 @@
         "ean": "5061042263186",
         "mpn": "817170",
         "status": "da_verificare"
+      },
+      {
+        "title": "Ecovacs DEEBOT T50 OMNI Gen2 Robot Aspirapolvere Lavapavimenti, 21000 Pa, Spazzola Laterale Estensibile e Lavapavimenti, lavaggio con acqua calda a 75 ℃,",
+        "merchant": "unieuro",
+        "ean": "6970135037452",
+        "mpn": "T50OMNIBKGEN2",
+        "status": "da_verificare"
+      },
+      {
+        "title": "iRobot Roomba 205 Combo 2 L Senza sacchetto Nero",
+        "merchant": "unieuro",
+        "ean": "5061042263025",
+        "mpn": "817185",
+        "status": "da_verificare"
       }
     ],
     "aspirapolvere-senza-fili-in-offerta": [
+      {
+        "title": "FAMIVAC FV2 Aspirapolvere con Filo, 65Kpa/600W Scopa Elettrica Potente con Spazzola per Materasso, 1,3KG Ultra-Leggero, Cavo 7M, 1,5L, Antigroviglio & Autoportante per Tappeti/Pavi",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Aspirapolvere Senza Fili Scopa Elettrica - Potente Filo Batteria Cordless Vacuum Cleaner Scope Elettriche Sacco Portatile Ciclonico Silenzioso per Divano Tappeti Parquet Pavimenti ",
         "merchant": "amazon",
@@ -2231,6 +2238,27 @@
       }
     ],
     "migliori-lavatrici": [
+      {
+        "title": "Haier X Serie 5 Lavatrice 9 Kg, 1400 Giri, Classe A-25%, Bianca | Vapore, Ciclo Refresh, Smart AI, Wi-Fi, App hOn, Libera Installazione, 72 dB, 85x60x55.9 cm, HW90-BP14357U-IT",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Haier X Serie 5 Lavatrice 12 Kg, 1400 Giri, Classe A-30%, Bianca | Vapore, Ciclo Refresh, Smart AI, Wi-Fi, App hOn, Libera Installazione, 60 Programmi, 85x60x66 cm, HW120-BP14357UI",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Haier SuperDrum Serie 7 Lavatrice 15 Kg, 1400 Giri, Classe A, Antracite [Classe di efficienza energetica A]",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Bosch WAN28229IT Serie 4 Lavatrice 9kg 1400 giri/min Bianco Classe A",
         "merchant": "",
@@ -2418,27 +2446,6 @@
         "merchant": "unieuro",
         "ean": "8806095210285",
         "mpn": "WW80CGC04DAEET",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Hotpoint Ariston Lavatrice da incasso BI WMHG 71483 EU N",
-        "merchant": "unieuro",
-        "ean": "8050147619315",
-        "mpn": "869991619310",
-        "status": "da_verificare"
-      },
-      {
-        "title": "LG D2R3S08NSWW Lavasciuga slim 8/5kg AI DD, Classe E, 1200 giri, AI Wash, Vapore",
-        "merchant": "unieuro",
-        "ean": "8806084273680",
-        "mpn": "D2R3S08NSWW.ABWQP",
-        "status": "da_verificare"
-      },
-      {
-        "title": "LG F4NX5009TKB Lavatrice Intelligente 9 kg Classe A 40% Bianoc/Nero",
-        "merchant": "unieuro",
-        "ean": "8806096639238",
-        "mpn": "F4NX5009TKBABWQPI",
         "status": "da_verificare"
       }
     ],
@@ -2784,20 +2791,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Fila Orbit Low, Scarpe da Ginnastica Basse Uomo, Bianco, 44 EU",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "PUMA Sneakers Club II Era Unisex, White-Black-Vapor Gray, 44 EU",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
         "ean": "",
@@ -2978,16 +2971,23 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      }
-    ],
-    "migliori-sneakers": [
+      },
       {
-        "title": "PUMA Sneakers Club II Era Unisex, White-Black-Vapor Gray, 44 EU",
+        "title": "Donna Scarpe da Running Ginnastica Camminata Sportive Trekking Tennis Trail Jogging Palestra Mesh Basket Sport Outdoor Fitness Sport Platform Sneakers Nero 38 EU",
         "merchant": "amazon",
-        "ean": "",
+        "ean": "0050132443947",
         "mpn": "",
         "status": "da_verificare"
       },
+      {
+        "title": "T-Shirt Nucleo x Zeus Basic Uomo Donna - Maglietta Sportiva Traspirante - Cotone - vestibilità Comoda - Casual & Fitness",
+        "merchant": "amazon",
+        "ean": "8052219608852",
+        "mpn": "",
+        "status": "da_verificare"
+      }
+    ],
+    "migliori-sneakers": [
       {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
@@ -3188,6 +3188,13 @@
         "title": "Banlieue The Runner Uomo Sneakers Bianco Taglia 41 Scamosciato",
         "merchant": "footlocker",
         "ean": "7435115916954",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Banlieue The Runner Uomo Sneakers Bianco Taglia 42 Scamosciato",
+        "merchant": "footlocker",
+        "ean": "7435107961986",
         "mpn": "",
         "status": "da_verificare"
       }
