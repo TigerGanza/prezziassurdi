@@ -1,17 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-11-11T07:01:03+01:00",
+  "generated_at": "2026-11-11T08:26:17+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
     "smartphone-in-offerta": [
-      {
-        "title": "nubia Air, Smartphone 5G ultrasottile, Display AMOLED 6,78\", 256 GB, RAM 20GB (8+12GB RAM fusion), Tripla fotocamera AI 50MP, Batt. 5000mAh, resistente ad acqua e polvere (IP68 & I",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Motorola moto g06 (4/256GB, Fotocamera 50MP+flicker cam, selfie 8MP, Display HD+ 6.88\", MediaTek Helio G81 Extreme, 5200mAh, Android 15), Arabesque",
         "merchant": "amazon",
@@ -214,16 +207,16 @@
         "ean": "6939093036686",
         "mpn": "",
         "status": "da_verificare"
+      },
+      {
+        "title": "REDMI Note 17 Pro 5G, Smartphone 8+512GB, Sky Blue, Batteria da 8340 mAh | Fotocamera OIS 50MP, HyperCharge 67W, Snapdragon®6s Gen4, Display Flagship Alta Luminosità 3500nit, Prote",
+        "merchant": "amazon",
+        "ean": "6939093036785",
+        "mpn": "",
+        "status": "da_verificare"
       }
     ],
     "migliori-smartphone-sotto-300-euro": [
-      {
-        "title": "nubia Air, Smartphone 5G ultrasottile, Display AMOLED 6,78\", 256 GB, RAM 20GB (8+12GB RAM fusion), Tripla fotocamera AI 50MP, Batt. 5000mAh, resistente ad acqua e polvere (IP68 & I",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Motorola moto g06 (4/256GB, Fotocamera 50MP+flicker cam, selfie 8MP, Display HD+ 6.88\", MediaTek Helio G81 Extreme, 5200mAh, Android 15), Arabesque",
         "merchant": "amazon",
@@ -686,13 +679,6 @@
     ],
     "migliori-notebook": [
       {
-        "title": "ASUS Vivobook 15 F1504MA#B0H262LDPL, Notebook con display 15.6\" IPS, Anti-glare, 60Hz,Intel® Core™ 3 Processor 304,RAM 8GB, 256GB SSD, WIN11 Home, Argento, Caricatore non incluso",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "ASUS Vivobook 16 F1605VA#B0FZL8JLW9, Notebook con display 16\" Anti-glare, 60Hz,Intel® Core™ 9 Processor 270H,RAM 16GB, 1TB SSD, WIN11 Home, Argento",
         "merchant": "",
         "ean": "",
@@ -983,6 +969,13 @@
       }
     ],
     "migliori-tablet": [
+      {
+        "title": "Tablet Android 16 11 Pollici, 32GB RAM 256GB ROM 1TB Espandibile, Batteria 7800mAh, Processore Penta-Core, WiFi 6, Schermo HD IPS, Doppia Fotocamera",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Tablet Android da 11 Pollici, Octa-Core, 24GB(4+20) RAM+128GB Memoria, Batteria 8200mAh, Widevine L1, Espandibile fino a 1TB, Doppia Fotocamera, Android Tablet per Studio, Lavoro e",
         "merchant": "",
@@ -1302,13 +1295,6 @@
       }
     ],
     "migliori-smartwatch": [
-      {
-        "title": "Apple Watch Series 12 GPS 46 mm Smartwatch | Cassa in alluminio nero con cinturino Sport nero - M/L",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "2026 Smartwatch Uomo GPS,2.06\" HD AMOLED Orologio Smartwatch con Chiamate",
         "merchant": "",
@@ -2246,13 +2232,6 @@
     ],
     "migliori-lavatrici": [
       {
-        "title": "Candy RapidÓ Lavatrice Slim 7 Kg, Libera Installazione, Carica Frontale, Classe A, 1200 Giri, 9 Programmi Rapidi, Funzione Vapore, Wi-Fi + BLE e App hOn, 60 x 45 x 85 cm, Bianca - ",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Bosch WAN28229IT Serie 4 Lavatrice 9kg 1400 giri/min Bianco Classe A",
         "merchant": "",
         "ean": "",
@@ -2319,6 +2298,13 @@
         "title": "Bosch WGG244Z0IT Serie 6 Lavatrice 9kg 1400 giri/min bianco | Lavatrice con vapore, Sitema di riconoscimento del carico, Sistema Antimacchia, Motore silenzioso con 10 anni di assis",
         "merchant": "amazon",
         "ean": "4242005442355",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Candy RapidÓ Lavatrice Slim 7 Kg, Libera Installazione, Carica Frontale, Classe A, 1200 Giri, 9 Programmi Rapidi, Funzione Vapore, Wi-Fi + BLE e App hOn, 60 x 45 x 85 cm, Bianca - ",
+        "merchant": "amazon",
+        "ean": "8059019044651",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -2670,6 +2656,27 @@
     ],
     "friggitrici-ad-aria-offerte-confronto": [
       {
+        "title": "LEHMANN LEHMANN Friggitrice ad Aria XXL 8L con Divisorio Rimovibile, Air Fryer Doppia Zona Flessibile 1800 W, 12 Modalità Intelligenti & 76-200°C, Pannello Digitale, Lavabile in La",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Moulinex Ever Fry Dual Flex, Friggitrice ad Aria 9L | doppio cestello flessibile, Doppia resistenza, Tecnologia Infra Heat, EZ9288",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Cosori Twinfry Compact Friggitrice ad Aria 8,6 Litri, Air Fryer Ceramico | Doppio Cestello 4,3L+4,3L, Doppia Resistenza, Separatore Rimovibile, 6 Funzioni, 35-240℃, 2700W, Nero Pro",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Cecotec Friggitrice ad Aria 8 Litri - Air Fryer Cecofry&Grill Duoheat 8000. 2200W, Doppia Resistenza, Dietetica e Digitale, Finestra, Temperatura Regolabile 80-200°C, 8 Menu",
         "merchant": "amazon",
         "ean": "8435771915895",
@@ -2687,13 +2694,6 @@
         "title": "LEHMANN Friggitrice ad Aria 8 Litri, Air Fryer XXL con Inserto Divisorio per Doppio Scomparto, Finestra di Visualizzazione, 12 Programmi & Regolazione Manuale 76–200°C, Lavabile in",
         "merchant": "amazon",
         "ean": "5905999063690",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "LEHMANN LEHMANN Friggitrice ad Aria XXL 8L con Divisorio Rimovibile, Air Fryer Doppia Zona Flessibile 1800 W, 12 Modalità Intelligenti & 76-200°C, Pannello Digitale, Lavabile in La",
-        "merchant": "amazon",
-        "ean": "5905884559680",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -2769,6 +2769,20 @@
       }
     ],
     "migliori-moda": [
+      {
+        "title": "LCKR Oswego Uomo - Pantaloni Nero - Taglia M - Pile di cotone",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "LCKR Oswego Uomo - Pantaloni Nero - Taglia XS - Pile di cotone",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Fila Orbit Low, Scarpe da Ginnastica Basse Uomo, Bianco, 44 EU",
         "merchant": "amazon",
@@ -2962,20 +2976,6 @@
         "title": "Scarpe da Running Uomo Corsa Sportive Ginnastica Trail Running Sneakers | Rete traspirante piedi asciutti, Suola Ammortizzazione antiscivolo, Comodo leggero per camminata, Allename",
         "merchant": "amazon",
         "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Donna Scarpe da Running Ginnastica Camminata Sportive Trekking Tennis Trail Jogging Palestra Mesh Basket Sport Outdoor Fitness Sport Platform Sneakers Nero 38 EU",
-        "merchant": "amazon",
-        "ean": "0050132443947",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "T-Shirt Nucleo x Zeus Basic Uomo Donna - Maglietta Sportiva Traspirante - Cotone - vestibilità Comoda - Casual & Fitness",
-        "merchant": "amazon",
-        "ean": "8052219608852",
         "mpn": "",
         "status": "da_verificare"
       }
