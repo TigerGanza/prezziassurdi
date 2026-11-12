@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-12T11:16:18+01:00",
+  "generated_at": "2026-11-12T12:41:38+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -2251,6 +2251,20 @@
     ],
     "aspirapolvere-senza-fili-in-offerta": [
       {
+        "title": "Vactidy Aspirapolvere Senza Fili V8,25KPa Scopa Elettrica Senza Fili Potente 4 in 1, Aspirapolvere Portatile Ultra-leggero, Autonomia 35 Min con Batteria Rimovibile",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Aspirapolvere Senza Fili 65KPa 650W 70Min Autoportante LED, Antigroviglio | Scopa Elettrica Senza Fili Potente 8 Stadi Filtrazione per Peli Animali, Pavimenti e Tappeti, Auto",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Dyson V8 Cyclone Aspirapolvere Senza Filo, 60 Minuti, Potenza 150 AW | Spazzola Motorbar Anti Groviglio, Accessori Combinati e Stazione di Ricarica a Muro 2026, Colore Argento e Ni",
         "merchant": "amazon",
         "ean": "",
@@ -2343,13 +2357,6 @@
       }
     ],
     "migliori-lavatrici": [
-      {
-        "title": "Cecotec Lavatrice Asciugatrice 8-5Kg Carico Frontale Bolero Wash&Dry 8580 Inverter Ice Blue A. 1400RPM, 16 Programmi, Inverter Plus, SteamMax, OnSmart, Smooth Wash, SpaCare, Guarni",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Bosch WAN28229IT Serie 4 Lavatrice 9kg 1400 giri/min Bianco Classe A",
         "merchant": "",
@@ -2552,23 +2559,16 @@
         "ean": "8806084273680",
         "mpn": "D2R3S08NSWW.ABWQP",
         "status": "da_verificare"
+      },
+      {
+        "title": "LG F4NX5009TKB Lavatrice Intelligente 9 kg Classe A 40% Bianoc/Nero",
+        "merchant": "unieuro",
+        "ean": "8806096639238",
+        "mpn": "F4NX5009TKBABWQPI",
+        "status": "da_verificare"
       }
     ],
     "migliori-frigoriferi": [
-      {
-        "title": "Samsung Frigorifero Combinato EcoFlex AI 2m 387L RL38C776ASR",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Samsung Frigorifero Side By Side 640L RS70F64KETEF",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "BEKO RCSA300K40GN - Frigorifero Combinato Libera Installazione 291 Litri, 4 Ripiani in Vetro, Frigo con Congelatore 3 Cassetti, Elettrodomestici Cucina, Classe E, 54L x 181,4H x 57",
         "merchant": "",
@@ -2764,6 +2764,20 @@
         "ean": "8806095276878",
         "mpn": "RT31CG5624WWES",
         "status": "da_verificare"
+      },
+      {
+        "title": "LG GBBSJ10DPY Frigorifero combinato Fit&Max 60cm, Classe D, 333L, AI Inverter, Prime Silver",
+        "merchant": "unieuro",
+        "ean": "8806096558164",
+        "mpn": "GBBSJ10DPYAPYQEUZ",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Samsung RT38CG6624S9 frigorifero Doppia Porta EcoFlex AI Libera installazione con congelatore Wifi 393 L Classe E, Inox",
+        "merchant": "unieuro",
+        "ean": "8806094914245",
+        "mpn": "RT38CG6624S9ES",
+        "status": "da_verificare"
       }
     ],
     "friggitrici-ad-aria-offerte-confronto": [
@@ -2884,13 +2898,6 @@
       {
         "title": "adidas Bambine e ragazze Disney T-Shirt & Leggings Set Track_Suit, dark blue/Semi Frozen Lemon, 9-10 Years",
         "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "LCKR Oswego Uomo - Pantaloni Nero - Taglia S - Pile di cotone",
-        "merchant": "footlocker",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
@@ -3072,6 +3079,13 @@
       },
       {
         "title": "CustomSolo Maglietta Personalizzata con Foto e Testo, Unisex Doppia Faccia T-Shirt Personalizzata per Uomo e Donna, Maglia Personalizzata per Regali, Compleanni, Famiglia, Logo Azi",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "WORLD SELL T-Shirt Uomo/Donna Personalizzata Fronte e Retro – 100% Cotone – Made in Italy – Maglietta Personalizzabile con Testo, Logo o Immagine (IT, Testo, M, Regular, Regular, B",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
