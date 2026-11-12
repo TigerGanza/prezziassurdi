@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-12T06:47:01+01:00",
+  "generated_at": "2026-11-12T08:21:19+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -1026,13 +1026,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Apple iPad Air 13'' (M4): display Liquid Retina, 128 GB, fotocamera frontale e posteriore da 12MP, Wi-Fi 7 con chip Apple N1 – Grigio siderale",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Tablet Android da 11 Pollici, Octa-Core, 24GB(4+20) RAM+128GB Memoria, Batteria 8200mAh, Widevine L1, Espandibile fino a 1TB, Doppia Fotocamera, Android Tablet per Studio, Lavoro e",
         "merchant": "",
         "ean": "",
@@ -1146,13 +1139,6 @@
       }
     ],
     "migliori-monitor": [
-      {
-        "title": "LG UltraWide 29U511A Monitor 29\" IPS WFHD(2560x1080) 100Hz per multitasking | Formato UltraWide 21:9, HDR10, colori accurati sRGB 99%, schermo antiriflesso e comfort visivo",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Xiaomi Monitor G27i",
         "merchant": "",
@@ -1276,6 +1262,13 @@
         "title": "PHILIPS Monitor 32E1N1800LA 32 pollici 3840x2160, UHD, 60Hz, VA Panel, 4ms GtG, Speakers, (HDMI2x 2.0 DP 1x 1.4) HDR10, Nero",
         "merchant": "amazon",
         "ean": "8721038000597",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "LG UltraWide 29U511A Monitor 29\" IPS WFHD(2560x1080) 100Hz per multitasking | Formato UltraWide 21:9, HDR10, colori accurati sRGB 99%, schermo antiriflesso e comfort visivo",
+        "merchant": "amazon",
+        "ean": "8806096534601",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -1834,34 +1827,6 @@
     ],
     "cuffie-bluetooth-in-offerta": [
       {
-        "title": "Moman H2S Interfono Moto 1000M Audio Multifunzione Hi-Fi Stereo (2 PCS) | Auricolare Casco Moto Sistema di Comunicazione Riduzione del Rumore Tripla Radio FM Controllo Vocale AI IP",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Sony Mdr-Zx110 Cuffie On-Ear, Nero, Cablato",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Logitech G733 LIGHTSPEED Cuffia wireless con microfono gaming | Fascia per la testa a sospensione, LIGHTSYNC RGB, tecnologia microfono Blue VO!CE e driver audio PRO-G - Nero",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "JLab Go Work Cuffie wireless 2a gen con Microfono - 55+ Playtime | Bluetooth o USB-C Dongle per PC, connessione multipunto a computer e cellulare, cuffie on-ear cablate o wireless",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Soundcore P31i di Anker Cuffie Bluetooth con Cancellazione Adattiva Rumore | Audio Hi-Res, Auricolari con Funzione di Traduzione, 50 ore di Autonomia, Cancellazione Adattiva, IPX5,",
         "merchant": "amazon",
         "ean": "0194644247409",
@@ -2042,6 +2007,20 @@
         "ean": "1200130004599",
         "mpn": "JBLLIVE770NCWHT",
         "status": "da_verificare"
+      },
+      {
+        "title": "Cellularline SEEK",
+        "merchant": "unieuro",
+        "ean": "8018080424007",
+        "mpn": "BTSEEKTWSW",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Apple Beats Studio Pro Auricolare Con cavo e senza cavo A Padiglione Musica e Chiamate USB tipo C Bluetooth Nero",
+        "merchant": "unieuro",
+        "ean": "0194253715122",
+        "mpn": "MNSMQTP3ZM/A",
+        "status": "da_verificare"
       }
     ],
     "migliori-robot-aspirapolvere": [
@@ -2075,13 +2054,6 @@
       },
       {
         "title": "Lefant M330 Plus Robot Aspirapolvere Lavapavimenti Anti-Groviglio | Aspirazione 5000Pa, Peli Animali, Mop Magnetico, Rilevamento Tappeti, 3 Mappe, Aspirapolvere Robot per Casa , Gr",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "roborock F25 GT GEN2 Aspirapolvere Lavapavimenti 20kPa, Autopulizia 90°C | Pulizia Completa 20 kPa, Design Inclinazione 180°, Pulizia a Doppio Bordo per Pavimenti",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -2254,6 +2226,13 @@
         "ean": "6956079725570",
         "mpn": "J12ULTRA",
         "status": "da_verificare"
+      },
+      {
+        "title": "iRobot Roomba 105 Combo Robot + AutoEmpty Nero",
+        "merchant": "unieuro",
+        "ean": "5061042263186",
+        "mpn": "817170",
+        "status": "da_verificare"
       }
     ],
     "aspirapolvere-senza-fili-in-offerta": [
@@ -2350,6 +2329,20 @@
       }
     ],
     "migliori-lavatrici": [
+      {
+        "title": "Cecotec Lavatrice Asciugatrice 8-5Kg Carico Frontale Bolero Wash&Dry 8580 Inverter Ice Blue A. 1400RPM, 16 Programmi, Inverter Plus, SteamMax, OnSmart, Smooth Wash, SpaCare, Guarni",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Hotpoint Ariston NBT 1048 WD A IT - Lavatrice 10 kg | Libera Installazione, Carica Frontale.1400 Giri/min. Larghezza 59,5cm, Profondità 60,5cm, Altezza 85,0cm, Classe Energetica A",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Samsung WD10HG6U94BEU3 lavasciuga Libera installazione Caricamento frontale Bianco",
         "merchant": "unieuro",
@@ -2545,23 +2538,23 @@
         "ean": "8806095550282",
         "mpn": "WW90DB7U34GWU3",
         "status": "da_verificare"
-      },
-      {
-        "title": "Samsung Lavatrice Crystal Clean 8 kg WW80CGC04DAEET",
-        "merchant": "unieuro",
-        "ean": "8806095210285",
-        "mpn": "WW80CGC04DAEET",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Hotpoint Ariston Lavatrice da incasso BI WMHG 71483 EU N",
-        "merchant": "unieuro",
-        "ean": "8050147619315",
-        "mpn": "869991619310",
-        "status": "da_verificare"
       }
     ],
     "migliori-frigoriferi": [
+      {
+        "title": "Samsung Frigorifero Combinato EcoFlex AI 2m 387L RL38C776ASR",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Samsung Frigorifero Side By Side 640L RS70F64KETEF",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "BEKO RCSA300K40GN - Frigorifero Combinato Libera Installazione 291 Litri, 4 Ripiani in Vetro, Frigo con Congelatore 3 Cassetti, Elettrodomestici Cucina, Classe E, 54L x 181,4H x 57",
         "merchant": "",
@@ -2757,20 +2750,6 @@
         "ean": "8806095276878",
         "mpn": "RT31CG5624WWES",
         "status": "da_verificare"
-      },
-      {
-        "title": "LG GBBSJ10DPY Frigorifero combinato Fit&Max 60cm, Classe D, 333L, AI Inverter, Prime Silver",
-        "merchant": "unieuro",
-        "ean": "8806096558164",
-        "mpn": "GBBSJ10DPYAPYQEUZ",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Samsung RT38CG6624S9 frigorifero Doppia Porta EcoFlex AI Libera installazione con congelatore Wifi 393 L Classe E, Inox",
-        "merchant": "unieuro",
-        "ean": "8806094914245",
-        "mpn": "RT38CG6624S9ES",
-        "status": "da_verificare"
       }
     ],
     "friggitrici-ad-aria-offerte-confronto": [
@@ -2875,6 +2854,34 @@
     ],
     "migliori-moda": [
       {
+        "title": "adidas Bambine e ragazze Disney T-Shirt & Leggings Set Track_Suit, dark blue/Semi Frozen Lemon, 9-10 Years",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "LCKR Oswego Uomo - Pantaloni Nero - Taglia S - Pile di cotone",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "LCKR Oswego Uomo - Pantaloni Nero - Taglia XXL - Pile di cotone",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "LCKR Oswego Uomo - Pantaloni Nero - Taglia XL - Pile di cotone",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "LCKR Oswego Uomo - Pantaloni Nero - Taglia L - Pile di cotone",
         "merchant": "footlocker",
         "ean": "",
@@ -2905,13 +2912,6 @@
       {
         "title": "Puma Speedcat Uomo - Sneakers Blu - Taglia 42.5 - Scamosciato",
         "merchant": "footlocker",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Chicco Bambini e ragazzi Tuta con Felpa e Pantaloni Lunghi | Comoda e alla Moda FW25 253_4",
-        "merchant": "amazon",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
@@ -3060,27 +3060,6 @@
         "title": "Lotto Sneaker Unisex, Rosso/Bianco, 41 EU, Rosso Bianco, 41 EU | Scarpe sportive per uomo e donna, extra leggere e comode, disponibili anche in taglie per bambini",
         "merchant": "amazon",
         "ean": "4068577005930",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Hitmars Scarpe Running Uomo Ginnastica Donna Scarpe da Corsa Trekking Sneakers Trail Sportive Fitness Correre Running Shoes Camminare Negro EU 41",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Hitmars Scarpe Running Uomo Ginnastica Donna Scarpe da Corsa Trekking Sneakers Trail Sportive Fitness Correre Running Shoes Camminare Verde EU 42",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Scarpe Sportive Uomo Scarpe Running Corsa Jogging Ginnastica Trail Sneakers | Hitmars Scarpe Running Uomo Donna, Fitness, Camminata, Outdoor, Antiscivolo, Sneakers Sportive, Trekki",
-        "merchant": "amazon",
-        "ean": "",
         "mpn": "",
         "status": "da_verificare"
       }
@@ -3299,13 +3278,6 @@
     ],
     "lavapavimenti-elettriche": [
       {
-        "title": "Bissell CrossWave Edge Aspirapolvere e Lavapavimenti 4088N | Pulitore multisuperficie con sistema autopulente, aspirapolvere a filo ZeroGap, per pavimenti duri e tappeti, cavo 7,5 ",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Tineco Floor ONE S7 Stretch Ultra Lavapavimenti aspirapolvere senza fili | Fino a 50 minuti di autonomia, MHCBS, FlashDry",
         "merchant": "amazon",
         "ean": "6932485005857",
@@ -3369,6 +3341,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "DREAME T12 Pro-A Aspirap. Lavap., Ultrasottile da 9,85 cm, 25.000 Pa | Autopulente a 95 °C, Asciugatura a Caldo a 95 °C, 0 Grovigli e Striature, Leggero, Autonomia di 60 min",
+        "merchant": "amazon",
+        "ean": "6979181925027",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Tineco Floor ONE i6 Stretch Aspirapolvere e Lavapavimenti , 20.000Pa | Design piatto a 180°, Fino a 40 minuti di autonomia, Anti-Groviglio, Autopulizia",
         "merchant": "amazon",
         "ean": "6971745581151",
@@ -3379,6 +3358,13 @@
         "title": "Bissell CrossWave HF3 Aspirapolvere Senza Fili 3598N | Aspira e lava insieme, scopa elettrica leggera, 25 minuti di autonomia, lavasciuga pavimenti, solo per pavimenti duri",
         "merchant": "amazon",
         "ean": "5011423000626",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Bissell CrossWave Edge Aspirapolvere e Lavapavimenti 4088N | Pulitore multisuperficie con sistema autopulente, aspirapolvere a filo ZeroGap, per pavimenti duri e tappeti, cavo 7,5 ",
+        "merchant": "amazon",
+        "ean": "0011120279689",
         "mpn": "",
         "status": "da_verificare"
       },
