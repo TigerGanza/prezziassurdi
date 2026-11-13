@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-13T17:11:19+01:00",
+  "generated_at": "2026-11-13T18:36:19+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -686,6 +686,13 @@
     ],
     "migliori-notebook": [
       {
+        "title": "Lenovo Legion Pro 7 Gaming AI Notebook OLED 16\" (2560x1600) 240Hz, NVIDIA GeForce RTX 5080, AMD R9 9955HX3D, RAM 32GB DDR5, SSD 2TB, Windows 11, Tastiera RGB QWERTY, 3 mesi GamePas",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "ASUS Vivobook 16 F1605VA#B0FZL8JLW9, Notebook con display 16\" Anti-glare, 60Hz,Intel® Core™ 9 Processor 270H,RAM 16GB, 1TB SSD, WIN11 Home, Argento",
         "merchant": "",
         "ean": "",
@@ -977,7 +984,7 @@
     ],
     "migliori-tablet": [
       {
-        "title": "LENOVO TAB ONE",
+        "title": "ZIOVO Tablet Bambini 10 Pollici Android 17 con Gemini AI,30GB RAM+64GB ROM(TF 4TB),WiFi 6 Tablet,IWAWA/Kids Space/Octa-Core/BT 5.1/6000mAh/Widevine L1/Controlli Parentali,Tablet co",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -1118,6 +1125,13 @@
       }
     ],
     "migliori-monitor": [
+      {
+        "title": "YOSUDA Vogatore Professionale per Casa, 41kg Magnetwiderstand, 16 Livell | Vogatore Magnetico Silenzioso con APP, Monitor Bluetooth & Stent Capacità di Carico 160KG",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Xiaomi Monitor G27i",
         "merchant": "",
@@ -1799,20 +1813,6 @@
     ],
     "cuffie-bluetooth-in-offerta": [
       {
-        "title": "Sony WF-C710N Auricolari Wireless con Cancellazione del Rumore | Auricolari In-Ear, Qualità delle Chiamate con IA, Multipoint, IPX4, Fino a 40 h di Autonomia, iOS e Android, Rosa",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Sony WH-CH530 Cuffie Bluetooth Wireless - Nero | Leggero, senza fili, EQ a 10 bande, 360 Reality Audio, chiamate nitide con AI, 55h batteria, ricarica rapida, iOS e Android",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Soundcore P31i di Anker Cuffie Bluetooth con Cancellazione Adattiva Rumore | Audio Hi-Res, Auricolari con Funzione di Traduzione, 50 ore di Autonomia, Cancellazione Adattiva, IPX5,",
         "merchant": "amazon",
         "ean": "0194644247409",
@@ -2006,6 +2006,13 @@
         "merchant": "unieuro",
         "ean": "8018080424007",
         "mpn": "BTSEEKTWSW",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Apple Beats Studio Pro Auricolare Con cavo e senza cavo A Padiglione Musica e Chiamate USB tipo C Bluetooth Nero",
+        "merchant": "unieuro",
+        "ean": "0194253715122",
+        "mpn": "MNSMQTP3ZM/A",
         "status": "da_verificare"
       }
     ],
@@ -2224,13 +2231,6 @@
     "aspirapolvere-senza-fili-in-offerta": [
       {
         "title": "Aspirapolvere Senza Fili Scopa Elettrica - Potente Filo Batteria Cordless Vacuum Cleaner Scope Elettriche Sacco Portatile Ciclonico Silenzioso per Divano Tappeti Parquet Pavimenti ",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "aspirapolvere senza fili 55KPa/650W/70Min Per Animali/Pavimenti/Tappeti | Aspirapolvere Verticale Senza Fili con Display LED, Spazzola Antigroviglio, Ricarica Parete, Filtrazione 8",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -2868,13 +2868,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Under Armour Ua Undeniable 5.0 Duffle, Borsa sportiva Unisex - Adulto, Pitch Gray Medium Heather/Black/Black, L",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
         "ean": "",
@@ -3051,6 +3044,13 @@
       },
       {
         "title": "CustomSolo Maglietta Personalizzata con Foto e Testo, Unisex Doppia Faccia T-Shirt Personalizzata per Uomo e Donna, Maglia Personalizzata per Regali, Compleanni, Famiglia, Logo Azi",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "WORLD SELL T-Shirt Uomo/Donna Personalizzata Fronte e Retro – 100% Cotone – Made in Italy – Maglietta Personalizzabile con Testo, Logo o Immagine (IT, Testo, M, Regular, Regular, B",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
