@@ -1,5 +1,22 @@
 [
   {
+    "asin": "B0039ONB14",
+    "title": "Caffè Vergnano 1882 - Caffè in Grani Espresso | 1 Confezione da 1 Kg",
+    "price": 14.4,
+    "old_price": 23.9,
+    "discount": 40.0,
+    "image": "https://m.media-amazon.com/images/I/31uAvWJsayL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0039ONB14?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "bevande_analcoliche",
+    "macro_group": "spesa_bevande",
+    "seasonal_title": "",
+    "published_at": "2026-11-13T21:15:36.464700+01:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B09M6S2FBY",
     "title": "MATEIN Zaino Porta PC Porta Pranzo Termico, Zaino Lavoro Uomo Donna Grande | Zaino PC con Pranzo Termico, Multitasche Zaino da Lavoro Uomo, Impermeabile Borsa Frigo per Università Viaggio Picnic, Nero",
     "price": 26.99,
@@ -1739,22 +1756,5 @@
     "merchant_match_score": 90,
     "merchant_ean": "6936905908124",
     "merchant_prices_checked_at": "2026-11-13T15:19:22.721945+01:00"
-  },
-  {
-    "asin": "B0GMH56TRH",
-    "title": "roborock Qrevo Edge 2 Set Robot Aspirapolvere Lavapavimenti 25.000Pa, Nero | LDS Retrattile, 7,98 cm, FlexiArm, Antigroviglio, Autopulizia Panno 80°C, Evita Oltre 280 Oggetti, Videochiamata",
-    "price": 479.99,
-    "old_price": 899.99,
-    "discount": 47.0,
-    "image": "https://m.media-amazon.com/images/I/41IYcGEFHVL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0GMH56TRH?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "casa_smart",
-    "macro_group": "casa_cucina",
-    "seasonal_title": "",
-    "published_at": "2026-11-13T16:02:03.661450+01:00",
-    "source_merchant": "amazon",
-    "source_external_id": "",
-    "quality_status": "ready",
-    "quality_issues": []
   }
 ]
