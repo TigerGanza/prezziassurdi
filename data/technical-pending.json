@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-12T18:21:17+01:00",
+  "generated_at": "2026-11-13T08:16:31+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -381,6 +381,13 @@
     ],
     "tv-in-offerta": [
       {
+        "title": "Samsung Smart TV 55\" QE55QN82HAUXZT Neo QLED 4K, NQ AI Gen2 Processor, Quantum Mini LED, NQ HDR+, Motion Xcelerator, Dolby Atmos, OTS Lite, Gaming Hub, Vision AI, Monolith Edge Des",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Hisense Smart TV 32\" HD Ready 32E4ST | DTS Virtual X, VIDAA OS con 1000+ APP, Game Mode, Wifi, AirPlay2, Works with Alexa, lativù, 2026 Model",
         "merchant": "amazon",
         "ean": "6942351429250",
@@ -582,16 +589,16 @@
         "ean": "5901292525972",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "Hisense Smart TV 65\" UHD 4K 65E6ST | DTS Virtual X, VIDAA OS con 1000+ APP, HDR 10+, Game Mode Plus, Bluetooth, Wifi, Alexa, AirPlay2, lativù 4K, 2026 Model",
-        "merchant": "amazon",
-        "ean": "6942351430805",
-        "mpn": "",
-        "status": "da_verificare"
       }
     ],
     "offerte-tv-55-65-pollici": [
+      {
+        "title": "Samsung Smart TV 55\" QE55QN82HAUXZT Neo QLED 4K, NQ AI Gen2 Processor, Quantum Mini LED, NQ HDR+, Motion Xcelerator, Dolby Atmos, OTS Lite, Gaming Hub, Vision AI, Monolith Edge Des",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "TCL 55V6D – Smart TV 4K HDR10+ da 55\" con Fire TV e Dolby Atmos | DTS:X, Game Master, Motion Clarity, Apple AirPlay 2, Press & Ask Alexa",
         "merchant": "amazon",
@@ -2826,14 +2833,14 @@
     ],
     "migliori-moda": [
       {
-        "title": "M-Wave Borsa portapacchi Amsterdam Double, nera, 30 l",
-        "merchant": "amazon",
+        "title": "Puma MB.05 Uomo - Sneakers Arancione - Taglia 42.5 - Rete/Sintetico",
+        "merchant": "footlocker",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "Salomon EXTEGRA Gore-Tex Impermeabili Scarpe da Escursionismo, Uomo",
+        "title": "M-Wave Borsa portapacchi Amsterdam Double, nera, 30 l",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -3038,6 +3045,13 @@
     ],
     "migliori-sneakers": [
       {
+        "title": "Puma MB.05 Uomo - Sneakers Arancione - Taglia 42.5 - Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
         "ean": "",
@@ -3237,13 +3251,6 @@
         "title": "Banlieue The Runner Uomo Sneakers Bianco Taglia 42.5 Scamosciato",
         "merchant": "footlocker",
         "ean": "7435108526559",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Banlieue The Runner Uomo Sneakers Bianco Taglia 43 Scamosciato",
-        "merchant": "footlocker",
-        "ean": "7435112660690",
         "mpn": "",
         "status": "da_verificare"
       }
