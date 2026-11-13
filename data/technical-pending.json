@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-13T20:01:18+01:00",
+  "generated_at": "2026-11-13T21:26:17+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -388,20 +388,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Samsung 55\" QE55S99HATXZT OLED 4K Glare Free 165 Hz Smart TV Vision AI 2026 | Glare Free with Real Black & Real Color, HDR 10+, Dolby Atmos, Floatlayer Design, Alexa Built-in, pacc",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Samsung 48\" QE48S83HAEXZT OLED 4K AI Football Mode Smart TV Vision AI 2026 | NQ4 AI Gen2 Processor, OLED HDR, Motion Xcelerator 120Hz, Dolby Atmos, FreeSync Premium, Premium Gaming",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Hisense Smart TV 32\" HD Ready 32E4ST | DTS Virtual X, VIDAA OS con 1000+ APP, Game Mode, Wifi, AirPlay2, Works with Alexa, lativù, 2026 Model",
         "merchant": "amazon",
         "ean": "6942351429250",
@@ -589,16 +575,23 @@
         "ean": "6941948706705",
         "mpn": "",
         "status": "da_verificare"
-      }
-    ],
-    "offerte-tv-55-65-pollici": [
+      },
       {
-        "title": "Samsung 55\" QE55S99HATXZT OLED 4K Glare Free 165 Hz Smart TV Vision AI 2026 | Glare Free with Real Black & Real Color, HDR 10+, Dolby Atmos, Floatlayer Design, Alexa Built-in, pacc",
+        "title": "TCL 65PF650 – Smart TV 4K Ultra HD da 65\", Fire TV | Game Master, Motion Clarity, Dolby Vision & Atmos, Press & Ask Alexa",
         "merchant": "amazon",
-        "ean": "",
+        "ean": "5901292523343",
         "mpn": "",
         "status": "da_verificare"
       },
+      {
+        "title": "TCL 65V6C – Smart TV 4K HDR Direct LED da 65\", Google TV con Dolby Audio | Game Master, Motion Clarity, Google Assistant, Compatible with Alexa",
+        "merchant": "amazon",
+        "ean": "5901292525972",
+        "mpn": "",
+        "status": "da_verificare"
+      }
+    ],
+    "offerte-tv-55-65-pollici": [
       {
         "title": "Hisense Smart TV QLED 55\" 4K 55E7DS | Audio Dolby Atmos, VIDAA OS, Dolby Vision IQ, HDR 10+, Game Mode, Bluetooth, Wifi, Alexa, AirPlay2, lativù 4K, 2026 Model",
         "merchant": "amazon",
@@ -1139,6 +1132,13 @@
       }
     ],
     "migliori-monitor": [
+      {
+        "title": "KOORUI Monitor Gaming 27 Pollici Curvo FHD 180Hz 1500R HDR10 Schermo | VA 1080p, MPRT 1ms, Contrasto 3000:1,Eye Care, 99% sRGB, Mirino FPS Integrato, 2xHDMI2.0, 1xDP1.2,VESA 27E6CA",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "YOSUDA Vogatore Professionale per Casa, 41kg Magnetwiderstand, 16 Livell | Vogatore Magnetico Silenzioso con APP, Monitor Bluetooth & Stent Capacità di Carico 160KG",
         "merchant": "amazon",
@@ -2046,13 +2046,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "roborock Qrevo Edge 2 Set Robot Aspirapolvere Lavapavimenti 25.000Pa, Nero | LDS Retrattile, 7,98 cm, FlexiArm, Antigroviglio, Autopulizia Panno 80°C, Evita Oltre 280 Oggetti, Vide",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Lefant M210 PRO OMNI Robot Aspirapolvere Lavapavimenti con Rullo 20.000Pa",
         "merchant": "",
         "ean": "",
@@ -2068,6 +2061,13 @@
       },
       {
         "title": "iRobot Roomba® Plus 576 Combo robot aspirapolvere lavapavimenti, 25.000 Pa",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "roborock Qrevo Edge 2 Set Robot Aspirapolvere Lavapavimenti 25.000Pa, Nero",
         "merchant": "",
         "ean": "",
         "mpn": "",
