@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-14T10:31:21+01:00",
+  "generated_at": "2026-11-14T12:11:52+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -381,6 +381,13 @@
     ],
     "tv-in-offerta": [
       {
+        "title": "Hisense Smart TV MiniLED 144Hz 50\" 4K 50E8S | Dolby Atmos 2.1 By Devialet, Dolby Vision IQ, HDR10+, VIDAA OS, Alexa, lativù 4K, Wifi, BT, Airplay2, 2026 Model",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Hisense Smart TV QLED 43\" 4K TV 43E7DS | Audio Dolby Atmos, VIDAA OS, Dolby Vision IQ, HDR 10+, Game Mode, Bluetooth, Wifi, Alexa, AirPlay2, lativù 4K, 2026 Model",
         "merchant": "amazon",
         "ean": "",
@@ -580,13 +587,6 @@
         "title": "Hisense Smart TV QLED 65\" 4K 65E7DS | Audio Dolby Atmos, VIDAA OS, Dolby Vision IQ, HDR 10+, Game Mode, Bluetooth, Wifi, Alexa, AirPlay2, lativù 4K, 2026 Model",
         "merchant": "amazon",
         "ean": "6942351431703",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "XIAOMI TV F 65 2025, 65 pollici (165 cm),4K UHD,Smart TV, Fire TV,Triple Tuner DVB-C/S/S2/T/T2, HDR10,MEMC, Modalità Game Boost 120Hz, Controllo Vocale Alexa, 2GB+32GB, Compatibile",
-        "merchant": "amazon",
-        "ean": "6941948706705",
         "mpn": "",
         "status": "da_verificare"
       }
@@ -2236,13 +2236,6 @@
       }
     ],
     "aspirapolvere-senza-fili-in-offerta": [
-      {
-        "title": "SCOPA ELETTRICA SEVERIN Scopa elettrica TwinClean - HV7195, Potenza Max 140 W, Autonomia fino a 35 min, Bianco",
-        "merchant": "mediaworld",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Aspirapolvere Senza Fili Scopa Elettrica - Potente Filo Batteria Cordless Vacuum Cleaner Scope Elettriche Sacco Portatile Ciclonico Silenzioso per Divano Tappeti Parquet Pavimenti ",
         "merchant": "amazon",
