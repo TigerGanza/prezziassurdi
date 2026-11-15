@@ -1,10 +1,24 @@
 {
   "version": 1,
-  "generated_at": "2026-11-15T19:51:20+01:00",
+  "generated_at": "2026-11-15T21:16:19+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
     "smartphone-in-offerta": [
+      {
+        "title": "Google Pixel 11 Pro – Smartphone Android sbloccato - Grigio nebbia, 512GB | Con Gemini Intelligence, autonomia di oltre 30 ore e display Super Actua da 6,3”",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Google Pixel 11 - Smartphone Android sbloccato - Verde pistacchio, 256GB | Con Gemini Intelligence, autonomia di oltre 30 ore e display Super Actua da 6,3\"",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Samsung Galaxy A14 5G Smartphone Android, Display LCD FHD+ 6.6\", 4GB RAM, 64GB Memoria interna espandibile, Batteria 5.000 mAh, Black [Versione italiana] (Ricondizionato)",
         "merchant": "amazon",
@@ -198,20 +212,6 @@
         "title": "realme 16 Pro 5G Smartphone, 8GB+256GB, Display AMOLED 144Hz 6,78\", Batteria 6500mAh, Fotocamera 200MP OIS, IP69K, Ricarica Rapida 45W, Doppia SIM, Next AI, Oro, Garantía de 3 años",
         "merchant": "amazon",
         "ean": "6941764485020",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Samsung Galaxy A27 5G, 256GB, RAM 8GB, Blue [Versione Italiana] | 3 anni di Garanzia, Smartphone sottile, Cerchia e Cerca, Gomma Oggetto, Trascrizione Vocale, Tripla Camera, IP64, ",
-        "merchant": "amazon",
-        "ean": "8806099422684",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "OPPO Reno15 FS 5G Smartphone, 512GB, 8GB RAM, 6500mAh batteria, 80W, Black | Selfie 50MP, video 4K, OIS, batteria 6500mAh, ricarica 80W, memoria espandibile, protezione IP68, campo",
-        "merchant": "amazon",
-        "ean": "6942675407057",
         "mpn": "",
         "status": "da_verificare"
       }
@@ -686,6 +686,13 @@
     ],
     "migliori-notebook": [
       {
+        "title": "ASUS V16 F3607VM#B0H37C8553, Notebook con display 16\" LED, Anti-glare, 144Hz, Intel® Core™ 7 Processor 240H, NVIDIA® GeForce RTX™ 5060, RAM 16GB, 1TB SSD, WIN11 Home, Nero",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "ASUS Vivobook 16 F1605VA#B0FZL8JLW9, Notebook con display 16\" Anti-glare, 60Hz,Intel® Core™ 9 Processor 270H,RAM 16GB, 1TB SSD, WIN11 Home, Argento",
         "merchant": "",
         "ean": "",
@@ -738,13 +745,6 @@
         "title": "Breloom 2026 PC Portatile 15.6 Pollici Win 11 Laptop, Core i3-6100U, 16GB RAM 512GB SSD, Notebook per Studenti con Lettore di Impronte Digitali, Tastiera Retroilluminata, WiFi 5, U",
         "merchant": "amazon",
         "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "ASUS V16 F3607VM#B0H37C8553, Notebook con display 16\" LED, Anti-glare, 144Hz, Intel® Core™ 7 Processor 240H, NVIDIA® GeForce RTX™ 5060, RAM 16GB, 1TB SSD, WIN11 Home, Nero",
-        "merchant": "amazon",
-        "ean": "4711636636261",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -1283,20 +1283,6 @@
       },
       {
         "title": "Smartwatch Uomo Donna, 2026 Bluetooth Chiamate 1.91\"HD Orologio Smart Watch | Watches Sonno/Cardiofrequenzimetro/SpO2, Fitness Tracker, Contapassi, 110+ Modalità Sportive, IP68 Wat",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Fitbit Versa 4 Smartwatch per il fitness con abbonamento Google Health Premium di 3 mesi incluso, fino a 6 giorni di autonomia e compatibile con iOS & Android, Nero / Alluminio gri",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Fitbit Versa 4 Bundle (con cinturino sportivo) Fitness Smartwatch con GPS integrato e fino a 6 giorni di durata della batteria - compatibile con Android e iOS.",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -2805,13 +2791,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Head Rebls - Borsa da Sci Singola Corta, 180 cm",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
         "ean": "",
@@ -3002,6 +2981,13 @@
       },
       {
         "title": "Magliette Divertenti Scritte Ironiche - Essere Normale Maglietta",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "CustomSolo Maglietta Personalizzata con Foto e Testo, Unisex Doppia Faccia T-Shirt Personalizzata per Uomo e Donna, Maglia Personalizzata per Regali, Compleanni, Famiglia, Logo Azi",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
