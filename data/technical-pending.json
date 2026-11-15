@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-15T22:41:20+01:00",
+  "generated_at": "2026-11-16T00:06:20+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -388,6 +388,20 @@
     ],
     "tv-in-offerta": [
       {
+        "title": "LG Mini RGB 55 Pollici, Serie MRGB87 2026 Smart TV 4K - 55MRGB87B6B | RGB Primary Color Pro, DualColor 100% DCI-P3/Adobe RGB, Dolby Vision & Atmos, WebOS con Gemini, Motion Booster",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "LG OLED AI 55 Pollici, Serie B6E 2026 Smart TV 4K - OLED55B6ELC | Nero Perfetto, Dolby Vision & Atmos, Processore α8 Gen3, AI Magic Remote, WebOS con Gemini, VRR, G-Sync 4K@120Hz",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Xiaomi TV F Pro 65,65 pollici (165 cm),4K UHD QLED,Smart TV, Fire TV, Triple Tuner DVB-C/S/S2/T/T2, HDR10+, Modalità Game Boost 120Hz, MEMC, Controllo Vocale Alexa, 2GB+32GB, Compa",
         "merchant": "amazon",
         "ean": "",
@@ -582,23 +596,23 @@
         "ean": "6942351431703",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "XIAOMI TV F 65 2025, 65 pollici (165 cm),4K UHD,Smart TV, Fire TV,Triple Tuner DVB-C/S/S2/T/T2, HDR10,MEMC, Modalità Game Boost 120Hz, Controllo Vocale Alexa, 2GB+32GB, Compatibile",
-        "merchant": "amazon",
-        "ean": "6941948706705",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "TCL 65PF650 – Smart TV 4K Ultra HD da 65\", Fire TV | Game Master, Motion Clarity, Dolby Vision & Atmos, Press & Ask Alexa",
-        "merchant": "amazon",
-        "ean": "5901292523343",
-        "mpn": "",
-        "status": "da_verificare"
       }
     ],
     "offerte-tv-55-65-pollici": [
+      {
+        "title": "LG Mini RGB 55 Pollici, Serie MRGB87 2026 Smart TV 4K - 55MRGB87B6B | RGB Primary Color Pro, DualColor 100% DCI-P3/Adobe RGB, Dolby Vision & Atmos, WebOS con Gemini, Motion Booster",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "LG OLED AI 55 Pollici, Serie B6E 2026 Smart TV 4K - OLED55B6ELC | Nero Perfetto, Dolby Vision & Atmos, Processore α8 Gen3, AI Magic Remote, WebOS con Gemini, VRR, G-Sync 4K@120Hz",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Xiaomi TV F Pro 65,65 pollici (165 cm),4K UHD QLED,Smart TV, Fire TV, Triple Tuner DVB-C/S/S2/T/T2, HDR10+, Modalità Game Boost 120Hz, MEMC, Controllo Vocale Alexa, 2GB+32GB, Compa",
         "merchant": "amazon",
@@ -1750,13 +1764,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Beats Solo Buds — Auricolari Bluetooth Wireless | 18 ore di autonomia | Compatibilità Apple e Android | Microfono integrato - Nero opaco (versione precedente)",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Soundcore P31i di Anker Cuffie Bluetooth con Cancellazione Adattiva Rumore | Audio Hi-Res, Auricolari con Funzione di Traduzione, 50 ore di Autonomia, Cancellazione Adattiva, IPX5,",
         "merchant": "amazon",
         "ean": "0194644247409",
@@ -2791,7 +2798,21 @@
     ],
     "migliori-moda": [
       {
-        "title": "FREE SOLDIER Occhiali da Sole da Uomo Polarizzati 5 in 1 Occhiale Ciclismo MTB Softair Occhiali Tattici Militari Anti-UV400 Protezione per Ciclismo, Corsa, Pesca, Guida, Sport All'",
+        "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Bianco White Black, 45 EU",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "PUMA Sneakers Smash v2 L Unisex, White-White-Peacoat-Team Gold, 41 EU",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "PUMA Sneakers ST Runner v4 NL Unisex, Persian Blue-White-Canvas, 41 EU",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -2920,13 +2941,6 @@
         "title": "PUMA Caven 2.0, Sneaker Unisex - Adulto, White Silver, 38 EU",
         "merchant": "amazon",
         "ean": "4099683251256",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Bianco White Black, 45 EU",
-        "merchant": "amazon",
-        "ean": "4059505057138",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -2992,16 +3006,30 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      },
+      }
+    ],
+    "migliori-sneakers": [
       {
-        "title": "CustomSolo Maglietta Personalizzata con Foto e Testo, Unisex Doppia Faccia T-Shirt Personalizzata per Uomo e Donna, Maglia Personalizzata per Regali, Compleanni, Famiglia, Logo Azi",
+        "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Bianco White Black, 45 EU",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      }
-    ],
-    "migliori-sneakers": [
+      },
+      {
+        "title": "PUMA Sneakers Smash v2 L Unisex, White-White-Peacoat-Team Gold, 41 EU",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "PUMA Sneakers ST Runner v4 NL Unisex, Persian Blue-White-Canvas, 41 EU",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
@@ -3129,13 +3157,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Bianco White Black, 45 EU",
-        "merchant": "amazon",
-        "ean": "4059505057138",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "PUMA Sneakers Smash v2 L Unisex, White-White-Peacoat-Team Gold, 45 EU",
         "merchant": "amazon",
         "ean": "4063699638301",
@@ -3195,20 +3216,6 @@
         "title": "Banlieue The Runner Uomo Sneakers Bianco Taglia 41 Scamosciato",
         "merchant": "footlocker",
         "ean": "7435115916954",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Banlieue The Runner Uomo Sneakers Bianco Taglia 42 Scamosciato",
-        "merchant": "footlocker",
-        "ean": "7435107961986",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Banlieue The Runner Uomo Sneakers Bianco Taglia 42.5 Scamosciato",
-        "merchant": "footlocker",
-        "ean": "7435108526559",
         "mpn": "",
         "status": "da_verificare"
       }
