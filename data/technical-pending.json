@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-15T05:31:19+01:00",
+  "generated_at": "2026-11-15T06:56:19+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -48,6 +48,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "HONOR 600 SMART 5G BLACK 4+128GB",
+        "merchant": "amazon",
+        "ean": "6942785104617",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "realme C100 5G Smartphone 128GB ROM, Batteria Titan 6600mAh e Ricarica Rapida 45W, Telefono Cellulare con 144Hz Ultra Brillante, Android 16 Cellulari Resistenza agli Urti Militare,",
         "merchant": "amazon",
         "ean": "6941764461970",
@@ -58,13 +65,6 @@
         "title": "REDMI Note 17, Smartphone 4+128GB, Black, Batteria da 7700 mAh | Fotocamera 50MP, Ricarica Turbo 45W, Display AMOLED FHD+ 6,99\", Xiaomi HyperOS 3+Google Gemini, Resistenza Polvere&",
         "merchant": "amazon",
         "ean": "6939093040638",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "POCO C95 Pro, Smartphone 6+128GB, Nero, Batteria 7500mAh,Ricarica Turbo 45W | Display Immersivo da 6,9\" 120Hz, Potente Helio G91-Ultra, Doppia Fotocamera AI da 50 MP, HyperOS 3, 1 ",
-        "merchant": "amazon",
-        "ean": "6939093059760",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -90,6 +90,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "Samsung Galaxy A27 5G, 128GB, RAM 6GB, Black [Versione Italiana] | 3 anni di Garanzia, Smartphone sottile, Cerchia e Cerca, Gomma Oggetto, Trascrizione Vocale, Tripla Camera, IP64,",
+        "merchant": "amazon",
+        "ean": "8806099422660",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "REDMI Note 17, Smartphone 6+256GB, Black, Batteria da 7700 mAh | Fotocamera 50MP, Ricarica Turbo 45W, Display AMOLED FHD+ 6,99\", Xiaomi HyperOS 3+Google Gemini, Resistenza Polvere&",
         "merchant": "amazon",
         "ean": "6939093040652",
@@ -107,13 +114,6 @@
         "title": "Motorola moto g56 5G 8/256GB, Fotocamera 50MP + sensore antisfarfallio, Display 6.72\" FHD+ 120Hz, batteria 5200mAh, MediaTek Dimensity 7060, Android 15, PANTONE Dill",
         "merchant": "amazon",
         "ean": "0840023292156",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Motorola Moto G67 5G 256GB/8GB Dual SIM Cinzento",
-        "merchant": "amazon",
-        "ean": "0840493620596",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -167,20 +167,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Redmi Note 15 Pro 5G 8+256 Black (No power adapter included)",
-        "merchant": "amazon",
-        "ean": "6932554471521",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "OPPO Reno15 F 5G Smartphone, 256GB, 8GB RAM, 6500mAh batteria, 80W, Black | Selfie 50MP, video 4K, OIS, batteria 6500mAh, ricarica 80W, memoria espandibile, protezione IP68, campo ",
-        "merchant": "amazon",
-        "ean": "6942675407071",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "OPPO Reno15 F 5G AI Smartphone, Tripla fotocamera 50+8+2MP, Selfie 50MP, Display 6.57\" 120HZ AMOLED FHD+, 6500mAh, RAM 8GB(Esp2GB/4GB/8GB)+ROM 256GB [Versione Italia], Aurora Blue",
         "merchant": "amazon",
         "ean": "6932169394925",
@@ -202,9 +188,23 @@
         "status": "da_verificare"
       },
       {
-        "title": "Xiaomi POCO M8 Pro 5G, Smartphone 12+512GB, Argento, Snapdragon® 7s Gen 4 | Display AMOLED CrystalRes 6,83\" 1.5K, Fotocamera 50MP Light Fusion 800 con OIS, IP68, Garanzia 2 anni",
+        "title": "realme 16 Pro 5G Smartphone, 8GB+256GB, Display AMOLED 144Hz 6,78\", Batteria 6500mAh, Fotocamera 200MP OIS, IP69K, Ricarica Rapida 45W, Doppia SIM, Next AI, Oro, Garantía de 3 años",
         "merchant": "amazon",
-        "ean": "6932554481179",
+        "ean": "6941764485020",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "OPPO Reno15 FS 5G Smartphone, 512GB, 8GB RAM, 6500mAh batteria, 80W, Black | Selfie 50MP, video 4K, OIS, batteria 6500mAh, ricarica 80W, memoria espandibile, protezione IP68, campo",
+        "merchant": "amazon",
+        "ean": "6942675407057",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Xiaomi POCO M8 Pro 5G, Smartphone 12+512GB, Nero, Snapdragon® 7s Gen 4 | Display AMOLED CrystalRes 6,83\" 1.5K, Fotocamera 50MP Light Fusion 800 con OIS, IP68, Garanzia 2 anni",
+        "merchant": "amazon",
+        "ean": "6932554481117",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -260,6 +260,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "HONOR 600 SMART 5G BLACK 4+128GB",
+        "merchant": "amazon",
+        "ean": "6942785104617",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "realme C100 5G Smartphone 128GB ROM, Batteria Titan 6600mAh e Ricarica Rapida 45W, Telefono Cellulare con 144Hz Ultra Brillante, Android 16 Cellulari Resistenza agli Urti Militare,",
         "merchant": "amazon",
         "ean": "6941764461970",
@@ -270,13 +277,6 @@
         "title": "REDMI Note 17, Smartphone 4+128GB, Black, Batteria da 7700 mAh | Fotocamera 50MP, Ricarica Turbo 45W, Display AMOLED FHD+ 6,99\", Xiaomi HyperOS 3+Google Gemini, Resistenza Polvere&",
         "merchant": "amazon",
         "ean": "6939093040638",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "POCO C95 Pro, Smartphone 6+128GB, Nero, Batteria 7500mAh,Ricarica Turbo 45W | Display Immersivo da 6,9\" 120Hz, Potente Helio G91-Ultra, Doppia Fotocamera AI da 50 MP, HyperOS 3, 1 ",
-        "merchant": "amazon",
-        "ean": "6939093059760",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -302,6 +302,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "Samsung Galaxy A27 5G, 128GB, RAM 6GB, Black [Versione Italiana] | 3 anni di Garanzia, Smartphone sottile, Cerchia e Cerca, Gomma Oggetto, Trascrizione Vocale, Tripla Camera, IP64,",
+        "merchant": "amazon",
+        "ean": "8806099422660",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "REDMI Note 17, Smartphone 6+256GB, Black, Batteria da 7700 mAh | Fotocamera 50MP, Ricarica Turbo 45W, Display AMOLED FHD+ 6,99\", Xiaomi HyperOS 3+Google Gemini, Resistenza Polvere&",
         "merchant": "amazon",
         "ean": "6939093040652",
@@ -319,13 +326,6 @@
         "title": "Motorola moto g56 5G 8/256GB, Fotocamera 50MP + sensore antisfarfallio, Display 6.72\" FHD+ 120Hz, batteria 5200mAh, MediaTek Dimensity 7060, Android 15, PANTONE Dill",
         "merchant": "amazon",
         "ean": "0840023292156",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Motorola Moto G67 5G 256GB/8GB Dual SIM Cinzento",
-        "merchant": "amazon",
-        "ean": "0840493620596",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -382,13 +382,6 @@
     "tv-in-offerta": [
       {
         "title": "TCL 40V5D – Smart TV QLED Full HD HDR da 40\" con Fire TV | Direct LED, Apple AirPlay 2, Press & Ask Alexa, Metallic Bezel-Less Design",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Samsung Smart TV 43\" UE43U8090HUXZT Crystal UHD, Crystal 4K Processor, HDR10+, PurColor, Motion Xcelerator, Dynamic Sound Pack, Gaming Hub, TV Plus, Knox Security, Vision AI, 2026",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -556,6 +549,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "Samsung TV 55 Pollici 4K UHD Smart TV UE55U8072HUXXH, Crystal UHD, Crystal Processor 4K, HDR10+, Tizen, Wi-Fi, Bluetooth, HDMI, USB, Vision AI, U8000H 2026",
+        "merchant": "amazon",
+        "ean": "8806097977698",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Xiaomi TV F Pro 65,65 pollici (165 cm),4K UHD QLED,Smart TV, Fire TV, Triple Tuner DVB-C/S/S2/T/T2, HDR10+, Modalità Game Boost 120Hz, MEMC, Controllo Vocale Alexa, 2GB+32GB, Compa",
         "merchant": "amazon",
         "ean": "6941948706583",
@@ -624,6 +624,13 @@
         "title": "TCL 55V6C – Smart TV 4K HDR Direct LED da 55\", Google TV con Dolby Audio | Game Master, Motion Clarity, Google Assistant, Compatible with Alexa",
         "merchant": "amazon",
         "ean": "5901292525989",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Samsung TV 55 Pollici 4K UHD Smart TV UE55U8072HUXXH, Crystal UHD, Crystal Processor 4K, HDR10+, Tizen, Wi-Fi, Bluetooth, HDMI, USB, Vision AI, U8000H 2026",
+        "merchant": "amazon",
+        "ean": "8806097977698",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -700,13 +707,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Lenovo IdeaPad Slim 3 Notebook 15\" IPS, Snapdragon X X1-26-100, RAM 16GB, 256GB SSD, Windows 11 Home, WiFi 6, Laptop per Casa, Ufficio, Studio, Multitasking, Uso Quotidiano - Caric",
-        "merchant": "amazon",
-        "ean": "0199276920201",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "PC Portatile 15.6 Pollici con Core i3-8100Y Processore, Win 11 Notebook 16GB RAM 512GB SSD, Laptop 1080P IPS FHD Schermo Tastierino Numerico, Computer Portatile con Type-C Mini-HDM",
         "merchant": "amazon",
         "ean": "0725078238994",
@@ -724,6 +724,13 @@
         "title": "Lenovo, Pc portatile Intel Core i5 Pronto All'Uso con Pacchetto libre office, Notebook Con Display HD da 14\", Ram 16Gb, SSD 512Gb, Garanzia Italiana (Ricondizionato)",
         "merchant": "amazon",
         "ean": "8050999940780",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "PC Portatile 16 Pollici con Core i5-8210Y CPU, Notebook Win 11 16GB RAM 512GB SSD, Laptop 1200P FHD con Tastiera Retroilluminata e Tastierino Numerico, Mini-HDMI USB3.0 Type-C Webc",
+        "merchant": "amazon",
+        "ean": "0725078238659",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -763,9 +770,9 @@
         "status": "da_verificare"
       },
       {
-        "title": "MSI Cyborg 15 C13WEO-495ITY - Notebook Gaming. 15.6\" FHD , 144Hz 100% sRGB | NVIDIA RTX 5050, GDDR7 8GB, Raptor Lake i7-13620H, DDR4 16GB, SSD 512GB PCIe4, Win 11 Home [Layout e Ga",
+        "title": "HyperX OMEN, Notebook Gaming, 15\", NVIDIA RTX 5060 8GB | IPS 165 Hz 2K (1920 x 1200), Intel Core 7-240H, 16 GB RAM, 512 GB SSD, 15-ga0002slx, Windows 11 QWERTY Italiano",
         "merchant": "amazon",
-        "ean": "4711377475457",
+        "ean": "0821844591826",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -856,27 +863,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "STGSivir PC Gaming Fisso, Ryzen 5 5500, RTX 3050 6G, 16G DDR4, 512G SSD | Computer Gaming per Streaming, Editing Video, Compiti, fino a 4.2 GHz, WiFi 6, BT 5.0, 4K,HDMI,Win11 Pro, ",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Vibox IV-576 PC Gaming Completo • AMD Ryzen 7 5700X 8 cores • Nvidia RTX 3050 6GB • 16GB RAM • 500GB SSD • Windows 11 • WiFi 6 + Bluetooth 5.4",
-        "merchant": "amazon",
-        "ean": "5063575170016",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "GER-POL PC Gaming | Intel CORE I7 | GeForce RTX 5060 | 32GB RAM | 1TB SSD | WLAN | Windows 11",
-        "merchant": "amazon",
-        "ean": "5904181709125",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Vibox V-581 PC Gaming Completo • AMD Ryzen 5 5500 6 cores • Nvidia RTX 3060 12GB • 16GB RAM • 500GB SSD • Windows 11 • 23\" Monitor • WiFi 6 + Bluetooth 5.4",
         "merchant": "amazon",
         "ean": "5063575177978",
@@ -887,6 +873,27 @@
         "title": "msi MAG Infinite E1 14NVL5-104EU Gaming PC – Processore Intel Core i5 14400F, scheda video GeForce RTX 5060 8G, 16GB di RAM DDR5, 1TB SSD PCIe GEN4x4 w/o DRAM NVMe - Alimentatore 8",
         "merchant": "amazon",
         "ean": "4711377377522",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "YEYIAN PC Gaming Intel i5-14400F RTX 5060 8GB 32GB DDR5 SSD NVMe 1TB WiFi 6",
+        "merchant": "amazon",
+        "ean": "7500619020312",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Vibox VIII-619 PC Gaming Completo • Intel Core i9 12900KF 16 cores • Nvidia RTX 3060 12GB • 16GB RAM • 500GB SSD • Windows 11 • 23\" Monitor • WiFi 6 + Bluetooth 5.4",
+        "merchant": "amazon",
+        "ean": "5063575142006",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Greed MK2 - Gaming PC - AMD Ryzen 7 5700X & Nvidia Geforce RTX 5060Ti (8GB) | High end computer / desktop da 4,6 GHz – 4K & Raytracing - 32 GB DDR4 RAM – 1TB SSD – WiFi + Windows 1",
+        "merchant": "amazon",
+        "ean": "4742024635023",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -1068,16 +1075,16 @@
         "status": "da_verificare"
       },
       {
-        "title": "Samsung Galaxy Tab A11+ 5G 6+128GB Grau",
+        "title": "TECLAST P50 Tablet 11 Pollici 90Hz Tablets Android 16, T7250 2GHz Octa-Core, 32GB RAM+128GB ROM(TF 6TB), 8000mAh, Dual SIM 4G LTE+5G WiFi, Widevine L1/13MP/GPS/OTG, Gemini AI Table",
         "merchant": "amazon",
-        "ean": "8806097854845",
+        "ean": "6940709681329",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "realme Pad 3 5G Tablet 11.6\" 2.8K 120Hz Display Dimensity 7300-Max Up to (8+10) GB RAM 256GB Storage 12200mAh 45W Fast Charge Android 16, Grigio",
+        "title": "Samsung Galaxy Tab A11+ 5G 6+128GB Grau",
         "merchant": "amazon",
-        "ean": "6971914088443",
+        "ean": "8806097854845",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -1331,7 +1338,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "Smartwatch Uomo GPS,1.43\" AMOLED Chiamate Bluetooth, Orologio Tattico Sportivo Impermeabile 5ATM, Tracker Attività con Sonno/Cardiofrequenzimetro/Torcia/Bussola,160+ Modalità Sport",
+        "title": "Davesin Orologio Smartwatch Uomo con ECG+HRV+AI GPT e Torcia LED, Nero | 24H Pressione Sanguigna/Frequenza Cardiaca/SpO2/Sonno, 1.53\" AMOLED, 120+ Modalità Sportive, Impermeabilità",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -1366,16 +1373,9 @@
         "status": "da_verificare"
       },
       {
-        "title": "2026 Nuovo Smartwatch Uomo Con ECG/BP/HRV/BMI,Per Android iOS AMOLED (Nero) | 1,43\"Orologio Salute Con 24H Pressione Arteriosa/ Frequenza Cardiaca/SpO2/Sonno/Chiamata SOS, Contapas",
+        "title": "Amazfit Active 2 Smartwatch 44mm, Pagamento NFC, AI, Controllo Vocale, GPS | Mappe Gratuite, Batteria da 10 Giorni, 160+ Modalità Sportive, Resistente all'Acqua 5 ATM per Android e",
         "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Garmin Venu X1, 51mm, Smartwatch GPS, Black | Ampio Display AMOLED 2\", Torcia LED, Cassa Ultra Sottile da 8 mm, 100 App Sportive Precaricate, Autonomia fino a 8 giorni",
-        "merchant": "amazon",
-        "ean": "0753759342760",
+        "ean": "6970100377552",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -1383,6 +1383,13 @@
         "title": "Garmin Forerunner 55, 42mm. Smartwatch GPS per la Corsa, Black | Cardio, Piani di allenamento inclusi, VO2max, Allenamenti personalizzati, Connect IQ, Autonomia fino a 2 Settimane",
         "merchant": "amazon",
         "ean": "0753759364717",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Garmin Instinct 3 Solar, 45mm, Smartwatch GPS Ultra Resistente, Black | isplay SOLAR, GPS Multi-band, 10ATM, Torcia LED, 90+ App per lo Sport, Pay, Connect IQ, Autonomia 28 giorni",
+        "merchant": "amazon",
+        "ean": "0753759339500",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -1401,16 +1408,16 @@
         "status": "da_verificare"
       },
       {
-        "title": "Samsung Galaxy Watch8 (Dark Gray, BT, 40mm), Galaxy AI [Versione Italiana] | Smartwatch Galaxy AI, Allenatore Personale, Design Resistente agli Urti, Processore 3nm, Monitoraggio A",
+        "title": "Samsung Galaxy Watch8 (Silver, BT, 40mm), Galaxy AI [Versione Italiana] | Smartwatch Galaxy AI, Allenatore Personale, Design Resistente agli Urti, Processore 3nm, Monitoraggio Atti",
         "merchant": "amazon",
-        "ean": "8806097415800",
+        "ean": "8806097415749",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "Samsung Galaxy Watch9, 44mm, Graphite, Bluetooth [Versione Italiana] | 3 anni di garanzia, Design anti-urto, guida al sonno, coaching salute, benessere cardiaco, 445 mAh, Snapdrago",
+        "title": "Apple Watch SE 3 GPS 40 mm Smartwatch | Cassa in alluminio mezzanotte con Cinturino Sport blu marino - M/L",
         "merchant": "amazon",
-        "ean": "8806099479237",
+        "ean": "0195951259147",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -1487,13 +1494,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "SONY Console PlayStation 5 Edition Digital",
-        "merchant": "amazon",
-        "ean": "0711719425090",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Sony Playstation 5 825GB BluRay (PS5) white + 2 DualSense Controllers",
         "merchant": "amazon",
         "ean": "0711719563839",
@@ -1501,16 +1501,16 @@
         "status": "da_verificare"
       },
       {
-        "title": "Playstation 5 Console Slim + 1 DualSense White",
+        "title": "SONY PS5 with Blu-Ray 1TB SSD D-Chassis Slim EU",
         "merchant": "amazon",
-        "ean": "0711719577171",
+        "ean": "0711719577188",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "SONY PS5 with Blu-Ray 1TB SSD D-Chassis Slim EU",
+        "title": "Playstation 5 Console Slim + 1 DualSense White",
         "merchant": "amazon",
-        "ean": "0711719577188",
+        "ean": "0711719577171",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -1536,16 +1536,9 @@
         "status": "da_verificare"
       },
       {
-        "title": "Xbox Series S",
+        "title": "Xbox Series S 512GB - Bianca",
         "merchant": "amazon",
-        "ean": "0889842651386",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Xbox Series S 512GB Console",
-        "merchant": "amazon",
-        "ean": "0889842651317",
+        "ean": "0196388421435",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -1553,6 +1546,13 @@
         "title": "Microsoft Xbox Series X 1TB, Black",
         "merchant": "amazon",
         "ean": "0728040678569",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Xbox Series X - 1 TB - Nera",
+        "merchant": "amazon",
+        "ean": "0889842640809",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -1650,6 +1650,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "Hisense HS3100 Soundbar 3.1, Potenza 480W, Subwoofer Esterno wireless, Supporta Dolby Digital e DTS Virtual :X, Bluetooth, HDMI, USB, Ingresso Audio Ottico",
+        "merchant": "amazon",
+        "ean": "6942351409085",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "JBL Cinema SB 510, Soundbar 3.1 Canali con Subwoofer Integrato, Bluetooth per Streaming Wireless, Dolby Atmos Integrato, Connessione HDMI ARC e Ottica, Design Compatto, Telecomando",
         "merchant": "amazon",
         "ean": "1200130009099",
@@ -1667,13 +1674,6 @@
         "title": "Hisense HS2100 Soundbar 2.1, 240W, Subwoofer Sottile Esterno wireless, Supporta Dolby Digital e DTS Virtual:X, Bluetooth, HDMI, USB, Ingresso Audio Ottico",
         "merchant": "amazon",
         "ean": "6942147497937",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Majority Bowfell Axis Soundbar 2.1 con Subwoofer per TV | Soundbar per dispositivi TV, HDMI eARC, Bluetooth 5.3, 40 cm, montaggio a parete per PC, soundbar, EQ, telecomando incluso",
-        "merchant": "amazon",
-        "ean": "5056444113375",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -1771,13 +1771,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Fodsports FX-S Interfono Moto Coppia, Auricolare Casco Bluetooth 5.4 per 2 Piloti, Sistema di Comunicazione 1000m, Tripla Riduzione Rumore, Stereo HiFi, Vivavoce Musica e Chiamate,",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Soundcore P31i di Anker Cuffie Bluetooth con Cancellazione Adattiva Rumore | Audio Hi-Res, Auricolari con Funzione di Traduzione, 50 ore di Autonomia, Cancellazione Adattiva, IPX5,",
         "merchant": "amazon",
         "ean": "0194644247409",
@@ -1788,13 +1781,6 @@
         "title": "Soundcore di Anker Liberty 5, Cuffie Bluetooth In Ear con ANC, Dolby Audio | ANC in Tempo Reale, Riduzione della Voce 2X più Forte, Chiamate Chiare con 6 Mic IA, Lunga Durata, Nero",
         "merchant": "amazon",
         "ean": "6950469699748",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "HUAWEI FreeBuds SE 5 MAX, Auricolari Wireless, Fino a 80 Ore di Automonia | ANC Multimodale a 52 dB, Audio Hi-Res, iOS e Android, Chiamate Nitide, Garanzia di 30 mesi, Bluetooth 6.",
-        "merchant": "amazon",
-        "ean": "6942711328988",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -1976,13 +1962,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Dyson R2 Nurovi Wash+Dry Robot Aspirapolvere Lavapavimenti (2026) | Robot aspirapolvere e lavapavimenti in uno. Panni Reuleaux fin dentro gli angoli. 21.000 Pa Twin-capture su ogni",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Lefant M210 PRO OMNI Robot Aspirapolvere Lavapavimenti con Rullo 20.000Pa",
         "merchant": "",
         "ean": "",
@@ -2053,16 +2032,16 @@
         "status": "da_verificare"
       },
       {
-        "title": "roborock Qrevo S Pro Robot Aspirapolvere Lavapavimenti, Lavaggio Panno 75°C | Asciugatura Aria Calda 45°C, 18.500Pa, Antigroviglio, Evitare Ostacoli, Stazione Tutto in Uno, Modalit",
+        "title": "roborock Qrevo Curv 2 Flow Robot Aspirapolvere Lavapavimenti con Rullo | 270mm, Protezione Rullo per Tappeti Asciutti, 20.000Pa, Antigroviglio, Stazione Multifunzionale, Videochiam",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "DREAME L10s Ultra Gen 3 Kit-A Robot Aspirapolvere e Lavapavimenti,Aspirazione da 25.000 Pa,Spazzola Laterale e Moci Estensibili,Stazione di Pulizia Automatica All-in-One,Controllo ",
+        "title": "VONKO Robot Aspirapolvere Lavapavimenti con Stazione, 8000Pa, LiDAR 2.0 | Svuotamento automatico, 180 min, tappeti, App e Alexa, ideale per peli di animali e pavimenti duri, Nero F",
         "merchant": "amazon",
-        "ean": "6979932404160",
+        "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -2070,13 +2049,6 @@
         "title": "eufy C10 Robot Aspirapolvere con Stazione Aspirazione Automatica | Design ultra piatto 7,2 cm, Pulizia tappeti, Spazzola estensibile angoli, Svuotamento auto, Navigazione laser.",
         "merchant": "amazon",
         "ean": "0194644230708",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Eureka E20 Plus Aspirapolvere Robot con Stazione senza Sacchetto, 8.000 Pa, Svuotamento Automatico, Batteria 180 min, DuoDetect AI 3D Evitamento Ostacoli, per Tappeti e Peli di Ani",
-        "merchant": "amazon",
-        "ean": "6956079727734",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -2177,9 +2149,44 @@
         "ean": "6970135037452",
         "mpn": "T50OMNIBKGEN2",
         "status": "da_verificare"
+      },
+      {
+        "title": "iRobot Roomba 205 Combo 2 L Senza sacchetto Nero",
+        "merchant": "unieuro",
+        "ean": "5061042263025",
+        "mpn": "817185",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Eureka J15 Ultra Robot Aspirapolvere Lavapavimenti, Potente Aspirazione 19.000 Pa, Lavaggio Mocio ad Acqua Calda a 75℃, Mappatura con AI, Pulizia Avanzat",
+        "merchant": "unieuro",
+        "ean": "6956079731205",
+        "mpn": "J15ULTRA",
+        "status": "da_verificare"
       }
     ],
     "aspirapolvere-senza-fili-in-offerta": [
+      {
+        "title": "BLACK+DECKER - Scopa Elettrica con Filo 600W | 3 in 1 Scopa, Portatile e Lancia | Triplo Filtro Ciclonico + Filtro EPA Lavabile | Serbatoio Grande Capacità | Cavo 6m | Peso Leggero",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Ariete Handy Force 2361, Scopa elettrica, Arancione/Nero",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "MONSGA Aspirapolvere Senza Fili 45KPA/550W/50Min, Anti-Groviglio | Display LED, Batteria Rimovibile, Ricaricabile a Parete, Scopa Elettrica Senza Fili per Pavimenti Duri/Tappeti/Pe",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Aspirapolvere Senza Fili Scopa Elettrica - Potente Filo Batteria Cordless Vacuum Cleaner Scope Elettriche Sacco Portatile Ciclonico Silenzioso per Divano Tappeti Parquet Pavimenti ",
         "merchant": "amazon",
@@ -2281,8 +2288,22 @@
     ],
     "migliori-lavatrici": [
       {
-        "title": "Bosch WAN28229IT Serie 4 Lavatrice 9kg 1400 giri/min Bianco Classe A",
-        "merchant": "",
+        "title": "Bosch WAN28229IT Serie 4 Lavatrice 9kg 1400 giri/min Bianco Classe A | Lavatrice con vapore, Riconoscimento del carico, Motore silenzioso e duraturo con 10 anni di assistenza, Made",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Cecotec Lavatrice a Carica Frontale - Lavatrice 9Kg Carico Frontale Bolero DressCode 9900 Inverter FullColor A. Bianco, 1400 rpm, Display 10,3\", 11 programmi, Motore Inverter Plus,",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "LG F4NA1009NWK Lavatrice 9 kg Serie A1, Classe A, 1400 Giri, Vapore | Top Rimovibile per Incasso Sottopiano, Programma Igiene con Vapore, Rapido 30, Cestello a Bolle, Design Minima",
+        "merchant": "amazon",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
@@ -2330,27 +2351,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "LG F4NA1009NWK Lavatrice 9 kg Serie A1, Classe A, 1400 Giri, Vapore | Top Rimovibile per Incasso Sottopiano, Programma Igiene con Vapore, Rapido 30, Cestello a Bolle, Design Minima",
-        "merchant": "amazon",
-        "ean": "8806096118863",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "LG F4NX5009TKB Lavatrice Intelligente 9 kg X5, Classe A-40%, AI Wash | 1400 Giri, TurboWash 360, Microplastic Care, Vapore Steam, Wi-Fi ThinQ UP, Smart Pairing, Controllo Vocale, W",
-        "merchant": "amazon",
-        "ean": "8806096639238",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Midea Lavatrice 8 kg Classe A 1400 Giri Silent Inverter Motor | Vapore Igienizzante, Rimozione Peli Animali, Programma Sport e Motore Silenzioso per Case con Animali MFV3EW80BA10",
-        "merchant": "amazon",
-        "ean": "6945878356702",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "LG F4R709TAIDD Lavatrice 9 kg Serie R7, Classe A-10%, AI DD, Wi-Fi | 1400 Giri, TurboWash 360, Vapore su 7 Programmi, Allergy Care, Oblò in Vetro Temperato, Direct Drive, Bianca",
         "merchant": "amazon",
         "ean": "8806084274670",
@@ -2379,23 +2379,23 @@
         "status": "da_verificare"
       },
       {
-        "title": "COMFEE' Lavatrice Ultra Slim 7 kg Classe Motore BLDC | Vapore Igienizzante, Baby Care e 16 Programmi per Piccole Famiglie e Spazi Ridotti CFP01EW70W",
-        "merchant": "amazon",
-        "ean": "6945878358560",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "COMFEE' Lavatrice Ultra Slim 6 kg Classe A Motore BLDC | Vapore Igienizzante, Baby Care e 16 Programmi per Piccoli Appartamenti CFP01EW60W",
-        "merchant": "amazon",
-        "ean": "6945878358553",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Whirlpool WSB 726 K IT Lavatrice 7 kg 1200 giri/min, Classe A | Slim, Libera Installazione, Carica Frontale, Igiene Vapore, Motore Inverter, Refresh Vapore, 85,0 x 59,5 x 45,1 cm (",
         "merchant": "amazon",
         "ean": "8690842880261",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Hisense WF1I7022BWJ NUOVA Lavatrice Slim 7 kg, 1200 RPM, 15 Programmi, Display Touch, Motore Inverter, Fine Programmata, AutoMix Dispenser, Classe A, White/Black",
+        "merchant": "amazon",
+        "ean": "6901101837462",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Electrolux Serie 600 Lavatrice SensiCare 6 kg 1200 Giri, EW6S526A | Lavaggi su misura del carico: SensiCare, vapore Anti-Allergy, Time Manager e programma Rapido",
+        "merchant": "amazon",
+        "ean": "7333394131764",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -2489,6 +2489,13 @@
         "ean": "8806084273680",
         "mpn": "D2R3S08NSWW.ABWQP",
         "status": "da_verificare"
+      },
+      {
+        "title": "LG F4NX5009TKB Lavatrice Intelligente 9 kg Classe A 40% Bianoc/Nero",
+        "merchant": "unieuro",
+        "ean": "8806096639238",
+        "mpn": "F4NX5009TKBABWQPI",
+        "status": "da_verificare"
       }
     ],
     "migliori-frigoriferi": [
@@ -2545,6 +2552,13 @@
         "title": "Samsung EcoFlex AI Frigorifero Combinato RB38C600DSA/EF, Wifi, All-Around Cooling, Space Max, Total No Frost, 390 L, LxAxP: 59,5 x 203 x 65,8 cm, Silver Inox",
         "merchant": "amazon",
         "ean": "8806094768183",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Electrolux LNB6MD34U0 Frigorifero Combinato Inox 200 cm | 200 cm, frigorifero combinato, finitura inox",
+        "merchant": "amazon",
+        "ean": "7333394136523",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -2694,13 +2708,6 @@
         "ean": "8806094914245",
         "mpn": "RT38CG6624S9ES",
         "status": "da_verificare"
-      },
-      {
-        "title": "Samsung Frigorifero Combinato EcoFlex AI 2m 390L RB38C774DSA",
-        "merchant": "unieuro",
-        "ean": "8806094990324",
-        "mpn": "RB38C774DSA/EF",
-        "status": "da_verificare"
       }
     ],
     "friggitrici-ad-aria-offerte-confronto": [
@@ -2719,13 +2726,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Cosori Friggitrice ad Aria Doppio Cestello 8,5 Litri, Con Finestra, Oro | 8 Funzioni Preimpostate, Sync e Match, 35-230°C, 1750W, 71% di Risparmio Energetico, Ricette Online, CAF-R",
-        "merchant": "amazon",
-        "ean": "0810123674619",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "LEHMANN Friggitrice ad Aria 8 Litri, Air Fryer XXL con Inserto Divisorio per Doppio Scomparto, Finestra di Visualizzazione, 12 Programmi & Regolazione Manuale 76–200°C, Lavabile in",
         "merchant": "amazon",
         "ean": "5905999063690",
@@ -2736,6 +2736,13 @@
         "title": "LEHMANN LEHMANN Friggitrice ad Aria XXL 8L con Divisorio Rimovibile, Air Fryer Doppia Zona Flessibile 1800 W, 12 Modalità Intelligenti & 76-200°C, Pannello Digitale, Lavabile in La",
         "merchant": "amazon",
         "ean": "5905884559680",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Friggitrice ad Aria Smart, con App, capacità 8l, 1700W, Schermo LED Touch, Circolazione 360°, Cestello trasparente, BPA Free",
+        "merchant": "amazon",
+        "ean": "8056585287062",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -2805,6 +2812,20 @@
     ],
     "migliori-moda": [
       {
+        "title": "Lacoste Spinor Uomo - Sneakers Nero - Taglia 42.5 - Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Converse Chuck Taylor All Star Uomo - Sneakers Bianco - Taglia 41.5 - Tela",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Fitness Tracker Uomo Donna con ECG e HRV: Senza Schermo Bracciale Smart Band Cardiofrequenzimetro SpO2 Sonno Impermeabile 3ATM Batteria a Lunghissima Durata e 120+ Sport Smartband ",
         "merchant": "amazon",
         "ean": "",
@@ -2833,34 +2854,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "PUMA Sneakers ST Runner v4 NL Unisex, Persian Blue-White-Canvas, 42 EU",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "PUMA Rebound V6, Scarpe da ginnastica Unisex - Adulto, White Black For All Time Red, 43 EU",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Reebok Glide Ripple Clip, Sneaker Unisex - Adulto, 43 EU, Core Black Core Black Pure Grey 5",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "JJIGLENN JJBASIC SQ 330 NOOS Jeans Slim Fit Blu 31/30 | Slim Fit, Washed, Casual, Temperatura massima 30°C ciclo normale",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
         "ean": "",
@@ -3001,184 +2994,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "Hitmars Scarpe Running Uomo Ginnastica Donna Scarpe da Corsa Trekking Sneakers Trail Sportive Fitness Correre Running Shoes Camminare Negro EU 41",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Hitmars Scarpe Running Uomo Ginnastica Donna Scarpe da Corsa Trekking Sneakers Trail Sportive Fitness Correre Running Shoes Camminare Verde EU 42",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      }
-    ],
-    "migliori-sneakers": [
-      {
-        "title": "Tommy Hilfiger Uomo Sneakers Court Detail Essential in Pelle, Bianco (White/Desert Sky), 45",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "PUMA Sneakers ST Runner v4 NL Unisex, Persian Blue-White-Canvas, 42 EU",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Reebok Glide Ripple Clip, Sneaker Unisex - Adulto, 43 EU, Core Black Core Black Pure Grey 5",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Feethit Sneakers Uomo Scarpe Running Ginnastica Camminata Palestra Nero 43",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Giniros Scarpe Sportive Donna Sneaker Ginnastica Running Palestra Bianco 39",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Giniros Sneakers Uomo Slip on Scarpe Ginnastica Running Corsa Camminata",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Hitmars Scarpe Running Donna Ginnastica Scarpe da Corsa Sportive Sneakers Tennis Fitness Running Shoes Sport Shoes Comode Leggere Nero Nero EU 38",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Hitmars Scarpe Running Donna Uomo Ginnastica Scarpe da Corsa Nero EU 43",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Puma Unisex Adults Club II Era Sneaker, Puma White-Puma Black-Vapor Gray, 40 EU",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Vans Sneakers Knu Skool da Uomo e da Donna VN0009QC6BT1",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Hitmars Scarpe Running Uomo Donna Sneakers Sportive Leggere Scarpe da Corsa Fitness Jogging Outdoor Antiscivolo e Comode Pompola Rotante EU42 duc-Rosso",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Hitmars Scarpe Running Uomo Donna Sneakers Sportive Leggere Scarpe da Corsa Fitness Jogging Outdoor Antiscivolo e Comode Pompola Rotante EU43 duc-Nero",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "New Balance Nitrel V6 Sneaker",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Hitmars Scarpe Running Uomo Ginnastica Donna Scarpe da Corsa Trekking Sneakers Trail Sportive Fitness Correre Running Shoes Camminare Azul EU 43",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Hitmars Scarpe Running Uomo Ginnastica Donna Scarpe da Corsa Trekking Sneakers Trail Sportive Fitness Correre Running Shoes Camminare Negro EU 42",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Hitmars Scarpe Running Uomo Ginnastica Donna Scarpe da Corsa Trekking Sneakers Trail Sportive Fitness Correre Running Shoes Camminare Verde EU 43",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Hitmars Scarpe Running Uomo Ginnastica Donna Scarpe da Corsa Trekking Sneakers Trail Sportive Fitness Correre Running Shoes Negro Blanco EU 42",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Kricely Scarpe da Trail Running Trekking da Escursionismo Uomo Fitness Running Sneakers （Kaki 43）",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "PUMA Caven 2.0, Sneaker Unisex - Adulto, White Silver, 38 EU",
-        "merchant": "amazon",
-        "ean": "4099683251256",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "PUMA Sneakers Smash v2 L Unisex, White-White-Peacoat-Team Gold, 45 EU",
-        "merchant": "amazon",
-        "ean": "4063699638301",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "PUMA Sneakers Shuffle Downtown Unisex, White-White-Gold, 36 EU",
-        "merchant": "amazon",
-        "ean": "4069156771536",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Bianco, 42 EU",
-        "merchant": "amazon",
-        "ean": "4059505057152",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Hitmars Scarpe Running Uomo Ginnastica Donna Scarpe da Corsa Trekking Sneakers Trail Sportive Fitness Correre Running Shoes Camminare Negro EU 41",
+        "title": "Hitmars Scarpe Running Uomo Ginnastica Donna Scarpe da Corsa Trekking Sneakers Trail Sportive Fitness Correre Running Shoes Camminare Negro EU 45",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -3199,7 +3015,191 @@
         "status": "da_verificare"
       },
       {
-        "title": "Hitmars Scarpe Running Uomo Sneakers Sport Corsa Trail Leggere Traspiranti | Hitmars Scarpe Sport Uomo Sneakers Uomo Scarpe da corsa Sportive Ginnastica Passeggio Antiscivolo Chius",
+        "title": "AONETIGER Unisex Barefoot Scarpe Uomo Donna Ampia Antiscivolo Piedi Nudi Minimaliste Trail Running Confortevoli Sneaker con Suola Zero Drop(Bianco-Verde 42EU)",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      }
+    ],
+    "migliori-sneakers": [
+      {
+        "title": "Lacoste Spinor Uomo - Sneakers Nero - Taglia 42.5 - Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Converse Chuck Taylor All Star Uomo - Sneakers Bianco - Taglia 41.5 - Tela",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Tommy Hilfiger Uomo Sneakers Court Detail Essential in Pelle, Bianco (White/Desert Sky), 45",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Feethit Sneakers Uomo Scarpe Running Ginnastica Camminata Palestra Nero 43",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Giniros Scarpe Sportive Donna Sneaker Ginnastica Running Palestra Bianco 39",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Giniros Sneakers Uomo Slip on Scarpe Ginnastica Running Corsa Camminata",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Hitmars Scarpe Running Donna Ginnastica Scarpe da Corsa Sportive Sneakers Tennis Fitness Running Shoes Sport Shoes Comode Leggere Nero Nero EU 38",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Hitmars Scarpe Running Donna Uomo Ginnastica Scarpe da Corsa Nero EU 43",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Puma Unisex Adults Club II Era Sneaker, Puma White-Puma Black-Vapor Gray, 40 EU",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Vans Sneakers Knu Skool da Uomo e da Donna VN0009QC6BT1",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Hitmars Scarpe Running Uomo Donna Sneakers Sportive Leggere Scarpe da Corsa Fitness Jogging Outdoor Antiscivolo e Comode Pompola Rotante EU42 duc-Rosso",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Hitmars Scarpe Running Uomo Donna Sneakers Sportive Leggere Scarpe da Corsa Fitness Jogging Outdoor Antiscivolo e Comode Pompola Rotante EU43 duc-Nero",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "New Balance Nitrel V6 Sneaker",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Hitmars Scarpe Running Uomo Ginnastica Donna Scarpe da Corsa Trekking Sneakers Trail Sportive Fitness Correre Running Shoes Camminare Azul EU 43",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Hitmars Scarpe Running Uomo Ginnastica Donna Scarpe da Corsa Trekking Sneakers Trail Sportive Fitness Correre Running Shoes Camminare Negro EU 42",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Hitmars Scarpe Running Uomo Ginnastica Donna Scarpe da Corsa Trekking Sneakers Trail Sportive Fitness Correre Running Shoes Camminare Verde EU 43",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Hitmars Scarpe Running Uomo Ginnastica Donna Scarpe da Corsa Trekking Sneakers Trail Sportive Fitness Correre Running Shoes Negro Blanco EU 42",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Kricely Scarpe da Trail Running Trekking da Escursionismo Uomo Fitness Running Sneakers （Kaki 43）",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "PUMA Caven 2.0, Sneaker Unisex - Adulto, White Silver, 38 EU",
+        "merchant": "amazon",
+        "ean": "4099683251256",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "PUMA Sneakers Smash v2 L Unisex, White-White-Peacoat-Team Gold, 45 EU",
+        "merchant": "amazon",
+        "ean": "4063699638301",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "PUMA Sneakers Shuffle Downtown Unisex, White-White-Gold, 36 EU",
+        "merchant": "amazon",
+        "ean": "4069156771536",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Bianco, 42 EU",
+        "merchant": "amazon",
+        "ean": "4059505057152",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Hitmars Scarpe Running Uomo Ginnastica Donna Scarpe da Corsa Trekking Sneakers Trail Sportive Fitness Correre Running Shoes Camminare Negro EU 45",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Hitmars Scarpe Running Uomo Ginnastica Donna Scarpe da Corsa Trekking Sneakers Trail Sportive Fitness Correre Running Shoes Camminare Verde EU 42",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Scarpe Sportive Uomo Scarpe Running Corsa Jogging Ginnastica Trail Sneakers | Hitmars Scarpe Running Uomo Donna, Fitness, Camminata, Outdoor, Antiscivolo, Sneakers Sportive, Trekki",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -3225,6 +3225,13 @@
         "ean": "7435115916954",
         "mpn": "",
         "status": "da_verificare"
+      },
+      {
+        "title": "Banlieue The Runner Uomo Sneakers Bianco Taglia 42 Scamosciato",
+        "merchant": "footlocker",
+        "ean": "7435107961986",
+        "mpn": "",
+        "status": "da_verificare"
       }
     ],
     "lavapavimenti-elettriche": [
@@ -3232,6 +3239,13 @@
         "title": "Tineco Floor ONE S7 Stretch Ultra Lavapavimenti aspirapolvere senza fili | Fino a 50 minuti di autonomia, MHCBS, FlashDry",
         "merchant": "amazon",
         "ean": "6932485005857",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "dreame H12 Pro FlexReach Aspirapolvere Lavapavimenti, Design Piatto a 180° | 18.000 Pa, 5 min di Asciugatura, Pulizia a Caldo a 90 °C, Pulizia dei Bordi su Due Lati, 50 Minuti di P",
+        "merchant": "amazon",
+        "ean": "6977328065582",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -3264,23 +3278,9 @@
         "status": "da_verificare"
       },
       {
-        "title": "Tineco Floor ONE Stretch S6 AspirapolvereLavapavimenti, FlashDry, iLOOP | Soluzioni flessibili per una maggiore pulizia, Autonomia fino a 40 minuti",
-        "merchant": "amazon",
-        "ean": "6974950106751",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "dreame H12 Pro Ultra Aspirapolvere Lavapavimenti, Aspirazione 16.000 Pa | Lav. e Asciug. Spazzola, Auto-pulizia con Doppia Rotazione e Raschietto, Pulizia su Due Lati, Rilevamento ",
         "merchant": "amazon",
         "ean": "6976233677378",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "dreame H12 Pro FlexReach Aspirapolvere Lavapavimenti, Design Piatto a 180° | 18.000 Pa, 5 min di Asciugatura, Pulizia a Caldo a 90 °C, Pulizia dei Bordi su Due Lati, 50 Minuti di P",
-        "merchant": "amazon",
-        "ean": "6977328065582",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -3334,13 +3334,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Tineco iFLOOR 5 Breeze Complete Lavapavimenti, Design Leggero, Autopulizia | Aspira e Lava in un Solo Passaggio, Durata di funzionamento prolungata senza interruzioni, Pulizia dei ",
-        "merchant": "amazon",
-        "ean": "6974950104986",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "M10 Air Set scopa aspirapolvere lavapavimenti, aspirazione da 20.000 Pa | auto-pulizia con asciugatura ad aria calda (60 °C), design piatto a 180°, pulizia su due lati a 500 giri a",
         "merchant": "amazon",
         "ean": "6978794733302",
@@ -3351,6 +3344,13 @@
         "title": "MOVA M50 Aspirapolvere Lavapavimenti, Powered by dreame | Pulizia a Doppio Bordo, 22KPa, 0 Grovigli di Peli e Capelli, Lavaggio con Spazzola a 85°C, Rotazione flessibile a 90°",
         "merchant": "amazon",
         "ean": "6978794731216",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Tineco Floor ONE i6 Stretch Aspirapolvere e Lavapavimenti , 20.000Pa | Design piatto a 180°, Fino a 40 minuti di autonomia, Anti-Groviglio, Autopulizia",
+        "merchant": "amazon",
+        "ean": "6971745581151",
         "mpn": "",
         "status": "da_verificare"
       },
