@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-15T12:36:19+01:00",
+  "generated_at": "2026-11-15T14:06:20+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -1317,13 +1317,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Amazfit Active Max Smartwatch 48mm, 25 Giorni Autonomia, Mappe Offline, NFC | 1,5'' AMOLED, GPS, 4GB di Memoria, 170+ Sportive, 5 ATM, Monitoraggio Fitness, Sonno & Battito per And",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "2026 Smartwatch Uomo GPS,2.06\" HD AMOLED Orologio Smartwatch con Chiamate",
         "merchant": "",
         "ean": "",
@@ -1376,6 +1369,13 @@
         "title": "vivo Watch GT2 Smartwatch Uomo Donna, Batteria 25 Giorni, Display AMOLED 2,07'', Chiamate Bluetooth e GPS, 100+ Sport incl. Padel, 5ATM Impermeabile, Cardio SpO2 Sonno, NFC, Bianco",
         "merchant": "amazon",
         "ean": "6932204528391",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Amazfit Active Max Smartwatch 48mm, 25 Giorni Autonomia, Mappe Offline, NFC | 1,5'' AMOLED, GPS, 4GB di Memoria, 170+ Sportive, 5 ATM, Monitoraggio Fitness, Sonno & Battito per And",
+        "merchant": "amazon",
+        "ean": "6972596109631",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -1622,6 +1622,20 @@
     ],
     "migliori-soundbar": [
       {
+        "title": "Samsung Soundbar HW-S800D/ZF Serie S, 10 Speaker, Wireless Dolby Atmos, Audio a 3.1.2 Canali, Q-Simphony, Alexa integrato e compatibile con Google Assistant, Titan Black 2024",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Bose Smart Soundbar Dolby Atmos, il Diffusore soundbar Bluetooth con controllo vocale e Amazon Alexa integrati, compatibile con Assistente Google, Nero",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Samsung Soundbar HW-B66CF/ZF Serie B, 4 Speaker, Wireless, Dolby 5.1ch, Audio a 3.1 Canali, DTS 5.1ch, Surround Sound Expansion, Voice Enhance Mode, Black, 2025",
         "merchant": "",
         "ean": "",
@@ -1688,13 +1702,6 @@
         "title": "Hisense HS2100 Soundbar 2.1, 240W, Subwoofer Sottile Esterno wireless, Supporta Dolby Digital e DTS Virtual:X, Bluetooth, HDMI, USB, Ingresso Audio Ottico",
         "merchant": "amazon",
         "ean": "6942147497937",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Bose Smart Soundbar Dolby Atmos, il Diffusore soundbar Bluetooth con controllo vocale e Amazon Alexa integrati, compatibile con Assistente Google, Nero",
-        "merchant": "amazon",
-        "ean": "0017817856164",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -2507,6 +2514,27 @@
     ],
     "migliori-frigoriferi": [
       {
+        "title": "Samsung EcoFlex AI Frigorifero Combinato RB38C600DSA/EF, Wifi, All-Around Cooling, Space Max, Total No Frost, 390 L, LxAxP: 59,5 x 203 x 65,8 cm, Silver Inox",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Hisense RB390N4CCD1 Frigorifero Combinato Total No Frost, Inox, 1.86x60cm, Classe D, 304L",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Candy Frigorifero Combinato a 2 Porte, 207 L, Libera Installazione, Classe E, Compatto, Temperatura Regolabile, Luce LED, Cassetto Crisper, 55 x 58 x 151 cm, Argento - CHCS514EX",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "BEKO RCSA300K40GN - Frigorifero Combinato Libera Installazione 291 Litri, 4 Ripiani in Vetro, Frigo con Congelatore 3 Cassetti, Elettrodomestici Cucina, Classe E, 54L x 181,4H x 57",
         "merchant": "",
         "ean": "",
@@ -2515,13 +2543,6 @@
       },
       {
         "title": "Bosch KGN36NLEA Serie 2 Frigorifero Total No Frost 186x60cm Silver",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Hisense RB390N4CCD1 Frigorifero Combinato Total No Frost, Inox, 1.86x60cm, Classe D, 304L",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -2545,20 +2566,6 @@
         "title": "Candy CCG3L517ES - Frigorifero combinato, 260 l, Low Frost, 4 ripiani, 3 balconi, cassetto verdura, controllo elettronico della temperatura, illuminazione LED, larghezza 55 x altez",
         "merchant": "",
         "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Candy Frigorifero Combinato a 2 Porte, 207 L, Libera Installazione, Classe E, Compatto, Temperatura Regolabile, Luce LED, Cassetto Crisper, 55 x 58 x 151 cm, Argento - CHCS514EX",
-        "merchant": "amazon",
-        "ean": "8059019035543",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Samsung EcoFlex AI Frigorifero Combinato RB38C600DSA/EF, Wifi, All-Around Cooling, Space Max, Total No Frost, 390 L, LxAxP: 59,5 x 203 x 65,8 cm, Silver Inox",
-        "merchant": "amazon",
-        "ean": "8806094768183",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -2719,13 +2726,6 @@
     ],
     "friggitrici-ad-aria-offerte-confronto": [
       {
-        "title": "Friggitrice ad aria TOGNANA IRIDEA, 8 L, 2000W, programmi preimpostati, doppia resistenza, Grigio Perla",
-        "merchant": "mediaworld",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Cecotec Friggitrice ad Aria 8 Litri - Air Fryer Cecofry&Grill Duoheat 8000. 2200W, Doppia Resistenza, Dietetica e Digitale, Finestra, Temperatura Regolabile 80-200°C, 8 Menu",
         "merchant": "amazon",
         "ean": "8435771915895",
@@ -2817,6 +2817,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "Friggitrice ad aria TOGNANA IRIDEA, 8 L, 2000W, programmi preimpostati, doppia resistenza, Grigio Perla",
+        "merchant": "mediaworld",
+        "ean": "8056444560381",
+        "mpn": "D2DFA13IRPEA",
+        "status": "da_verificare"
+      },
+      {
         "title": "Haier I Master Series 5 HAF5P 011 Singolo 5 L Indipendente 1500 W Friggitrice ad aria calda Nero",
         "merchant": "unieuro",
         "ean": "8059019087412",
@@ -2826,22 +2833,15 @@
     ],
     "migliori-moda": [
       {
-        "title": "Tommy Hilfiger Cintura Fissa Uomo Oliver Saffiano 3.5 AM0AM14573, NERO (Nero), 90",
+        "title": "SZDPC Bagaglio a Mano 40x20x25 Ryanair Zaino Borsa da Viaggio Borsa da Cabina",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "Converse Essential Slide Uomo - Infradito e sandali Verde - Taglia 41 - Plastic/Polycarbonate",
-        "merchant": "footlocker",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Converse Essential Slide Uomo - Infradito e sandali Verde - Taglia 46.5 - Plastic/Polycarbonate",
-        "merchant": "footlocker",
+        "title": "Tommy Hilfiger Cintura Fissa Uomo Oliver Saffiano 3.5 AM0AM14573, NERO (Nero), 90",
+        "merchant": "amazon",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
@@ -3030,6 +3030,13 @@
       },
       {
         "title": "Magliette Divertenti Scritte Ironiche - Essere Normale Maglietta",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "CustomSolo Maglietta Personalizzata con Foto e Testo, Unisex Doppia Faccia T-Shirt Personalizzata per Uomo e Donna, Maglia Personalizzata per Regali, Compleanni, Famiglia, Logo Azi",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
