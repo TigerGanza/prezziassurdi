@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-15T21:16:19+01:00",
+  "generated_at": "2026-11-15T22:41:20+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -388,6 +388,13 @@
     ],
     "tv-in-offerta": [
       {
+        "title": "Xiaomi TV F Pro 65,65 pollici (165 cm),4K UHD QLED,Smart TV, Fire TV, Triple Tuner DVB-C/S/S2/T/T2, HDR10+, Modalità Game Boost 120Hz, MEMC, Controllo Vocale Alexa, 2GB+32GB, Compa",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Hisense Smart TV 32\" HD Ready 32E4ST | DTS Virtual X, VIDAA OS con 1000+ APP, Game Mode, Wifi, AirPlay2, Works with Alexa, lativù, 2026 Model",
         "merchant": "amazon",
         "ean": "6942351429250",
@@ -556,13 +563,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Xiaomi TV F Pro 65,65 pollici (165 cm),4K UHD QLED,Smart TV, Fire TV, Triple Tuner DVB-C/S/S2/T/T2, HDR10+, Modalità Game Boost 120Hz, MEMC, Controllo Vocale Alexa, 2GB+32GB, Compa",
-        "merchant": "amazon",
-        "ean": "6941948706583",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Samsung Smart TV 65\" UE65U8090HUXZT Crystal UHD, Crystal 4K Processor, HDR10+, PurColor, Motion Xcelerator, Dynamic Sound Pack, Gaming Hub, TV Plus, Knox Security, Vision AI, 2026",
         "merchant": "amazon",
         "ean": "8806097963448",
@@ -599,6 +599,13 @@
       }
     ],
     "offerte-tv-55-65-pollici": [
+      {
+        "title": "Xiaomi TV F Pro 65,65 pollici (165 cm),4K UHD QLED,Smart TV, Fire TV, Triple Tuner DVB-C/S/S2/T/T2, HDR10+, Modalità Game Boost 120Hz, MEMC, Controllo Vocale Alexa, 2GB+32GB, Compa",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Hisense Smart TV QLED 55\" 4K 55E7DS | Audio Dolby Atmos, VIDAA OS, Dolby Vision IQ, HDR 10+, Game Mode, Bluetooth, Wifi, Alexa, AirPlay2, lativù 4K, 2026 Model",
         "merchant": "amazon",
@@ -638,13 +645,6 @@
         "title": "Hisense Smart TV QLED 55\" 4K 55A7S | Audio Dolby Atmos, Design Unibody Slim, VIDAA OS, Dolby Vision IQ, HDR 10+, BT, Wifi, Alexa, AirPlay2, lativù 4K, 2026 Model",
         "merchant": "amazon",
         "ean": "6942351435466",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Xiaomi TV F Pro 65,65 pollici (165 cm),4K UHD QLED,Smart TV, Fire TV, Triple Tuner DVB-C/S/S2/T/T2, HDR10+, Modalità Game Boost 120Hz, MEMC, Controllo Vocale Alexa, 2GB+32GB, Compa",
-        "merchant": "amazon",
-        "ean": "6941948706583",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -970,6 +970,13 @@
     ],
     "migliori-tablet": [
       {
+        "title": "Microsoft Surface Pro | Copilot+ PC | LCD Touchscreen 12” | Snapdragon® X Plus | 16GB di RAM | 512GB di memoria | Ultimo modello | Oceano",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Tablet Android da 11 Pollici, Octa-Core, 24GB(4+20) RAM+128GB Memoria, Batteria 8200mAh, Widevine L1, Espandibile fino a 1TB, Doppia Fotocamera, Android Tablet per Studio, Lavoro e",
         "merchant": "",
         "ean": "",
@@ -1274,20 +1281,6 @@
       }
     ],
     "migliori-smartwatch": [
-      {
-        "title": "Smartwatch Donna con 7 Cinturini, 1,83'' Orologio Smartwatch con Chiamate Bluetooth, Notifiche, Contapassi, Sonno, Cardiofrequenzimetro, SpO2, Smart Watch per Android iOS, Regali C",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Smartwatch Uomo Donna, 2026 Bluetooth Chiamate 1.91\"HD Orologio Smart Watch | Watches Sonno/Cardiofrequenzimetro/SpO2, Fitness Tracker, Contapassi, 110+ Modalità Sportive, IP68 Wat",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "2026 Smartwatch Uomo GPS,2.06\" HD AMOLED Orologio Smartwatch con Chiamate",
         "merchant": "",
@@ -1594,6 +1587,13 @@
     ],
     "migliori-soundbar": [
       {
+        "title": "TCL S60K 3.1 Channel Dolby Atmos Soundbar with Wireless Subwoofer | 3.1 Immersive Channels – Tutti Choral – Dolby Atmos – DTS:X – AI Sonic-adaptation - HDMI eARC",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Samsung Soundbar HW-B66CF/ZF Serie B, 4 Speaker, Wireless, Dolby 5.1ch, Audio a 3.1 Canali, DTS 5.1ch, Surround Sound Expansion, Voice Enhance Mode, Black, 2025",
         "merchant": "",
         "ean": "",
@@ -1625,13 +1625,6 @@
         "title": "Samsung Soundbar HW-B750F/ZF Serie B, 6 Speaker, Wireless, Dolby 5.1ch, Audio a 5.1 Canali, DTS Virtual:X, Surround Sound Expansion, Voice Enhance Mode, Adaptive Sound, Q-Simphony,",
         "merchant": "",
         "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "TCL S60K 3.1 Channel Dolby Atmos Soundbar with Wireless Subwoofer | 3.1 Immersive Channels – Tutti Choral – Dolby Atmos – DTS:X – AI Sonic-adaptation - HDMI eARC",
-        "merchant": "amazon",
-        "ean": "5901292531492",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -1749,6 +1742,13 @@
       }
     ],
     "cuffie-bluetooth-in-offerta": [
+      {
+        "title": "Bose QuietComfort Earbuds Auricolari Wireless Bluetooth con Cancellazione del Rumore Attiva, Microfono, Durata della Batteria Fino a 8,5 Ore, Deep Bass, IPX4, Blu crepuscolo - Ediz",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Beats Solo Buds — Auricolari Bluetooth Wireless | 18 ore di autonomia | Compatibilità Apple e Android | Microfono integrato - Nero opaco (versione precedente)",
         "merchant": "amazon",
@@ -2153,6 +2153,13 @@
     ],
     "aspirapolvere-senza-fili-in-offerta": [
       {
+        "title": "Philips PowerPro Compact Aspirapolvere senza sacchetto – 900W, PowerCyclone 5, Raccolta polvere 99,9%, Filtro Allergy H13, Ugello TriActive, Smaltimento igienico (FC9331/09)",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "350W/45KPA - Aspirapolvere senza fili, 55 minuti, per pavimenti duri | Lavabile con 4 filtri, convertibile a mano, luce LED integrata, spazzola motorizzata, diversi accessori",
         "merchant": "amazon",
         "ean": "",
@@ -2253,6 +2260,13 @@
     ],
     "migliori-lavatrici": [
       {
+        "title": "Candy ProWash 300 Lavatrice Slim 7 Kg, 1200 Giri, Classe A-15%, Bianca [Classe di efficienza energetica A]",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Bosch WAN28229IT Serie 4 Lavatrice 9kg 1400 giri/min Bianco Classe A",
         "merchant": "",
         "ean": "",
@@ -2333,13 +2347,6 @@
         "title": "Candy RapidÓ Lavatrice Slim 7 Kg, Libera Installazione, Carica Frontale, Classe A, 1200 Giri, 9 Programmi Rapidi, Funzione Vapore, Wi-Fi + BLE e App hOn, 60 x 45 x 85 cm, Bianca - ",
         "merchant": "amazon",
         "ean": "8059019044651",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Candy ProWash 300 Lavatrice Slim 7 Kg, 1200 Giri, Classe A-15%, Bianca [Classe di efficienza energetica A]",
-        "merchant": "amazon",
-        "ean": "8059019114026",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -2464,13 +2471,6 @@
       }
     ],
     "migliori-frigoriferi": [
-      {
-        "title": "CANDY Frigorifero Combinato 207 Litri, Statico, Classe E, Bianco | Porta Reversibile, Libera Installazione, Illuminazione LED, Silenziosa, 40 dB, 151x55x58 cm, CHCS 514EW",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "BEKO RCSA300K40GN - Frigorifero Combinato Libera Installazione 291 Litri, 4 Ripiani in Vetro, Frigo con Congelatore 3 Cassetti, Elettrodomestici Cucina, Classe E, 54L x 181,4H x 57",
         "merchant": "",
@@ -2672,6 +2672,13 @@
         "merchant": "unieuro",
         "ean": "8806096558164",
         "mpn": "GBBSJ10DPYAPYQEUZ",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Samsung RT38CG6624S9 frigorifero Doppia Porta EcoFlex AI Libera installazione con congelatore Wifi 393 L Classe E, Inox",
+        "merchant": "unieuro",
+        "ean": "8806094914245",
+        "mpn": "RT38CG6624S9ES",
         "status": "da_verificare"
       }
     ],
