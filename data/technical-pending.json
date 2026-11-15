@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-15T14:06:20+01:00",
+  "generated_at": "2026-11-15T15:31:19+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -803,13 +803,6 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "Ninkear A15, notebook da 15,6 pollici con schermo IPS FHD, 16 GB di RAM DDR4, SSD da 512 GB, processore AMD Ryzen 5 5500U, ideale per ufficio e studio, con connettività Wi Fi 6, ta",
-        "merchant": "aliexpress",
-        "ean": "6976593090466",
-        "mpn": "",
-        "status": "da_verificare"
       }
     ],
     "migliori-pc-desktop": [
@@ -975,7 +968,7 @@
         "status": "da_verificare"
       },
       {
-        "title": "SOYO S5 Air Mini PC Gaming Ryzen 5 7535HS 16GB LPDDR5 512GB NVME SSD Win11Pro Supporta Triplo Display 4K WiFi6/BT5.2 Mini Computer",
+        "title": "SOYO Y5, mini PC con processore Intel Core i7 8650U (cache ad alta velocità da 8 MB, fino a 4,20 GHz), 16 GB di RAM DDR4, SSD M.2 da 512 GB, supporto per tre display 4K, Wi Fi 5/BT",
         "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
@@ -983,13 +976,6 @@
       }
     ],
     "migliori-tablet": [
-      {
-        "title": "Samsung Galaxy Tab S10 FE, 3 anni di garanzia, Android Tablet, Display 10.9\" LCD, Wifi, RAM 8GB, 128GB, 8.000 mAh, S Pen, Android 15, IP68, Gray [Versione italiana]",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Tablet Android da 11 Pollici, Octa-Core, 24GB(4+20) RAM+128GB Memoria, Batteria 8200mAh, Widevine L1, Espandibile fino a 1TB, Doppia Fotocamera, Android Tablet per Studio, Lavoro e",
         "merchant": "",
@@ -1303,14 +1289,21 @@
     ],
     "migliori-smartwatch": [
       {
-        "title": "Garmin fēnix 8, 51mm, Smartwatch GPS Premium Multisport, Slate Grey | Display AMOLED 1,4\", Touchscreen, Speaker e Microfono, Torcia, Mappe, 90+ App per lo Sport, Autonomia 29 giorn",
+        "title": "Fitbit Versa 4 Smartwatch per il fitness con abbonamento Google Health Premium di 3 mesi incluso, fino a 6 giorni di autonomia e compatibile con iOS & Android, Nero / Alluminio gri",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "Amazfit Balance 2 Smartwatch 47mm, 21 Giorni Batteria, Mappe Offline | AMOLED 1,5\", GPS Dual Band, 170+ Modalità Sportive, HYROX e Golf, Allenamento di Forza, Cardio & Sonno per An",
+        "title": "Fitbit Versa 4 Bundle (con cinturino sportivo) Fitness Smartwatch con GPS integrato e fino a 6 giorni di durata della batteria - compatibile con Android e iOS.",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Garmin fēnix 8, 51mm, Smartwatch GPS Premium Multisport, Slate Grey | Display AMOLED 1,4\", Touchscreen, Speaker e Microfono, Torcia, Mappe, 90+ App per lo Sport, Autonomia 29 giorn",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -1785,27 +1778,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "2026 Cuffie Bluetooth 6.1 Sport, Auricolari Bluetooth con 6D Bass Stereo, 120 Ore Cuffie In Ear Cancellazione Rumore ENC e 4 HD Mics, HiFi Cuffiette LED Display, IP7 Impermeabile C",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Cuffie Bluetooth Sport, Auricolari Bluetooth 5.4 HiFi Stereo, 32 EQ via App | 62 Rumori Bianchi, 50 Ore Cuffie Wireless, Cancellazione Rumore Mic, Cuffiette Bluetooth IP7 Impermeab",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Cuffie Bluetooth Sport, Auricolari Bluetooth 5.4 HiFi Stereo, 75 Ore Cuffie Wireless Cancellazione Rumore, IPX8 Impermeabile Cuffiette Bluetooth, Ricarica Rapida USB-C, Cuffie Senz",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Soundcore P31i di Anker Cuffie Bluetooth con Cancellazione Adattiva Rumore | Audio Hi-Res, Auricolari con Funzione di Traduzione, 50 ore di Autonomia, Cancellazione Adattiva, IPX5,",
         "merchant": "amazon",
         "ean": "0194644247409",
@@ -1863,6 +1835,13 @@
       },
       {
         "title": "OneOdio SuperEQ T44 Cuffie Wireless Bluetooth 5.3 a Conduzione Aerea con Auricolari Sportivi e 4 Microfoni ENC Bass OWS",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "2PCS BF 88E Walkie Talkie BAOFENG PMR Radio bidirezionale 16CH 446.00625 446.19375MHz con auricolare con caricatore USB Spedito dalla Germania",
         "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
@@ -2144,13 +2123,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Robot aspirapolvere completo Lefant M5 Roller con funzione di lavaggio, 18000 Pa, rulli autopulenti, svuotamento automatico, navigazione dTOF Lidar",
-        "merchant": "aliexpress",
-        "ean": "0740111631136",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Roborock Qrevo Curv Robot Aspirapolvere e Lavapavimenti, Aspirazione 18.500 Pa, Lavaggio a 75 °C e Asciugatura del Panno, Spazzola Laterale, Doppio Panno",
         "merchant": "unieuro",
         "ean": "6970995789942",
@@ -2301,13 +2273,6 @@
       }
     ],
     "migliori-lavatrici": [
-      {
-        "title": "Cecotec Lavatrice 10 Kg di carico frontale Bolero DressCode 10800 Inverter Steel A. 1400 giri/min, 16 programmi, classe A, motore inverter plus, vapore SteamMax, lavaggio intellige",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Bosch WAN28229IT Serie 4 Lavatrice 9kg 1400 giri/min Bianco Classe A",
         "merchant": "",
@@ -2509,6 +2474,13 @@
         "merchant": "unieuro",
         "ean": "8806084273680",
         "mpn": "D2R3S08NSWW.ABWQP",
+        "status": "da_verificare"
+      },
+      {
+        "title": "LG F4NX5009TKB Lavatrice Intelligente 9 kg Classe A 40% Bianoc/Nero",
+        "merchant": "unieuro",
+        "ean": "8806096639238",
+        "mpn": "F4NX5009TKBABWQPI",
         "status": "da_verificare"
       }
     ],
@@ -2833,6 +2805,13 @@
     ],
     "migliori-moda": [
       {
+        "title": "Head Rebls - Borsa da Sci Singola Corta, 180 cm",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "SZDPC Bagaglio a Mano 40x20x25 Ryanair Zaino Borsa da Viaggio Borsa da Cabina",
         "merchant": "amazon",
         "ean": "",
@@ -3030,13 +3009,6 @@
       },
       {
         "title": "Magliette Divertenti Scritte Ironiche - Essere Normale Maglietta",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "CustomSolo Maglietta Personalizzata con Foto e Testo, Unisex Doppia Faccia T-Shirt Personalizzata per Uomo e Donna, Maglia Personalizzata per Regali, Compleanni, Famiglia, Logo Azi",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
