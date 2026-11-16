@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-16T19:01:23+01:00",
+  "generated_at": "2026-11-16T20:31:21+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -381,6 +381,13 @@
     ],
     "tv-in-offerta": [
       {
+        "title": "Samsung 77\" QE77S92HATXZT OLED 4K LaserSlim Design Smart TV Vision AI 2026 | NQ4 AI Gen 3 Processor, HDR 10+, Motion Xcelerator 165Hz, Dolby Atmos, Gaming Hub, Ultimate Gaming Pack",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Xiaomi TV F Pro 32 2025, 32 pollici (81 cm), QLED, Smart TV, Fire TV, Triple Tuner DVB-C/S/S2/T/T2,Dolby Audio, DTS Virtual:X, DTS-HD, Controllo Vocale Alexa, Compatibile con Apple",
         "merchant": "amazon",
         "ean": "6941948706361",
@@ -580,13 +587,6 @@
         "title": "Hisense Smart TV 65\" UHD 4K 65E6ST | DTS Virtual X, VIDAA OS con 1000+ APP, HDR 10+, Game Mode Plus, Bluetooth, Wifi, Alexa, AirPlay2, lativù 4K, 2026 Model",
         "merchant": "amazon",
         "ean": "6942351430805",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Smart TV TCL 65V6C 65 pollici 4K HDR Direct LED, Google TV | Dolby Audio, Game Master, Motion Clarity, Google Assistant, Compatibile con Alexa",
-        "merchant": "amazon",
-        "ean": "5901292525972",
         "mpn": "",
         "status": "da_verificare"
       }
@@ -1090,6 +1090,20 @@
       }
     ],
     "migliori-monitor": [
+      {
+        "title": "ASUS VY249HGR, Eye Care Monitor da 23,8\" FHD IPS (1920 x 1080), Nero | HDMI, VGA, 1 ms (MPRT) Response Time, 120Hz, Adaptive Sync, Tecnologia EyeCare Plus, Filtro Bassa Luce Blu",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "UPERFECT Monitor Portatile con Supporto Pieghevole, 14\" 125% sRGB | 2000:1 Contrasto HDR EyeCare FHD Opaco Secondo Schermo Ultrasottile per Laptop/PC/Smartphone/Console di Gioco",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "BTICINO 317913 Videocitofono Easykit Essential, Kit Monofamiliare Espandibile, Plug-In 2 Fili, Monitor 7\" a Colori, Vivavoce, Visione Notturna, Audio Bidirezionale, Pulsantiera Est",
         "merchant": "amazon",
@@ -1700,6 +1714,20 @@
       }
     ],
     "cuffie-bluetooth-in-offerta": [
+      {
+        "title": "Sony WH-1000XM5 Premium Cuffie bluetooth con Cancellazione Rumore | Over-Ear, wireless, chiamate nitide, Hi-Res, 30 ore batteria, custodia rigida, iOS & Android, noise cancelling -",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Sony ULT WEAR Cuffie bluetooth con Cancellazione Rumore e bassi profondi | Over-Ear, wireless, WH-1000XM5 processore, chiamate nitide, 30 ore batteria, noise cancelling, iOS & Andr",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Soundcore P31i di Anker Cuffie Bluetooth con Cancellazione Adattiva Rumore | Audio Hi-Res, Auricolari con Funzione di Traduzione, 50 ore di Autonomia, Cancellazione Adattiva, IPX5,",
         "merchant": "amazon",
