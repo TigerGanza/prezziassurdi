@@ -1,5 +1,22 @@
 [
   {
+    "asin": "B0FNCNWN1J",
+    "title": "CROWNFUL Macchina per Ghiaccio Portatile, 8 Cubetti in 6 Minuti, Produttore di Ghiaccio Autopulente, 12 kg/24h, per Casa, Cucina, Ufficio, Bar e Feste (Nero)",
+    "price": 85.99,
+    "old_price": 109.99,
+    "discount": 22.0,
+    "image": "https://m.media-amazon.com/images/I/41EM+ygfb4L._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0FNCNWN1J?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "cucina_pro",
+    "macro_group": "casa_cucina",
+    "seasonal_title": "",
+    "published_at": "2026-11-16T09:20:33.053279+01:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B0DK6YL89L",
     "title": "XIAOMI Smart Band 9 Pro, Fitness Tracker, Display 1.74\" | GPS+Bussola, Argento, Monitoraggio sonno migliorato, batteria 21 giorni, 150+ modalità sport, 5ATM impermeabile",
     "price": 64.09,
@@ -2513,51 +2530,5 @@
     "source_external_id": "",
     "quality_status": "ready",
     "quality_issues": []
-  },
-  {
-    "asin": "B0HDC588JC",
-    "title": "TCL S60K 3.1 Channel Dolby Atmos Soundbar with Wireless Subwoofer | 3.1 Immersive Channels – Tutti Choral – Dolby Atmos – DTS:X – AI Sonic-adaptation - HDMI eARC",
-    "price": 89.0,
-    "old_price": 129.0,
-    "discount": 31.0,
-    "image": "https://m.media-amazon.com/images/I/31E727shn0L._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0HDC588JC?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "audio_casa",
-    "macro_group": "tech",
-    "seasonal_title": "",
-    "published_at": "2026-11-15T22:30:54.895837+01:00",
-    "source_merchant": "amazon",
-    "source_external_id": "",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "unieuro",
-        "merchant_name": "Unieuro",
-        "merchant_id": "10139",
-        "product_id": "TCLS60K",
-        "awin_product_id": "46192961488",
-        "title": "TCL S S60K altoparlante soundbar Nero, Titanio 3.1 canali 340 W",
-        "brand": "Tcl",
-        "ean": "5901292531492",
-        "mpn": "S60K",
-        "price": 89.0,
-        "old_price": 149.99,
-        "discount": 40.7,
-        "image": "https://www.unieuro.it/medias/sys_master/root/h47/hcb/65343902449694/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-8b4aa4e4bfb1fc5574cefd465c94770d-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-        "url": "https://www.awin1.com/pclick.php?p=46192961488&a=3086723&m=10139",
-        "category": "Soundbar",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {
-          "color": "black",
-          "power_w": 340.0
-        }
-      }
-    ],
-    "merchant_match_score": 100,
-    "merchant_ean": "5901292531492",
-    "merchant_prices_checked_at": "2026-11-15T21:53:23.710260+01:00"
   }
 ]
