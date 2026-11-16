@@ -1,5 +1,108 @@
 [
   {
+    "asin": "W5DF03B028",
+    "title": "Nike Everyday Cushioned Crew 3 Pack Unisex - Calze Rosso - Taglia 34 - 37.5",
+    "price": 10.0,
+    "old_price": 22.99,
+    "discount": 56.5,
+    "image": "https://images.footlocker.com/is/image/FLEU/319222161330?wid=620&hei=620&fmt=png-alpha",
+    "url": "https://www.awin1.com/pclick.php?p=46336771074&a=3086723&m=23410",
+    "category": "altro",
+    "macro_group": "awin_discovery",
+    "seasonal_title": "Offerta Foot Locker",
+    "published_at": "2026-11-16T07:00:42.956760+01:00",
+    "source_merchant": "footlocker",
+    "source_external_id": "319222161330920",
+    "quality_status": "ready",
+    "quality_issues": [],
+    "merchant_offers": [
+      {
+        "merchant": "footlocker",
+        "merchant_name": "Foot Locker",
+        "merchant_id": "23410",
+        "product_id": "319222161330920",
+        "awin_product_id": "46336771074",
+        "title": "Nike Everyday Cushioned Crew 3 Pack Unisex - Calze Rosso - Taglia 34 - 37.5",
+        "brand": "Nike",
+        "ean": "198481657070",
+        "mpn": "",
+        "price": 10.0,
+        "old_price": 22.99,
+        "discount": 56.5,
+        "image": "https://images.footlocker.com/is/image/FLEU/319222161330?wid=620&hei=620&fmt=png-alpha",
+        "url": "https://www.awin1.com/pclick.php?p=46336771074&a=3086723&m=23410",
+        "category": "Accessori",
+        "category_path": "",
+        "availability": "in_stock",
+        "last_updated": "",
+        "attributes": {
+          "color": "Red",
+          "size": "34 - 37.5",
+          "gender": "unisex",
+          "fashion_group_key": "5b34c642235a367e99f64fb9",
+          "fashion_group_title": "Nike Everyday Cushioned Crew 3 Pack Unisex - Calze Rosso",
+          "shipping_eur": 4.99
+        }
+      }
+    ],
+    "merchant_match_score": 100,
+    "merchant_ean": "198481657070",
+    "merchant_prices_checked_at": "2026-11-16T06:54:45.955582+01:00",
+    "availability": "in_stock",
+    "price_observed_at": "2026-11-16T06:54:45.955582+01:00"
+  },
+  {
+    "asin": "B0DGT1PY4V",
+    "title": "Wc Net Disincrostante: Disinfettante Gel per Sanitari e Superfici 700ml x12 | Rimuove il 100% del calcare, agendo fin sotto l'acqua. Prodotto Disinfettante PMC: elimina fino al 99,9% dei batteri.",
+    "price": 17.07,
+    "old_price": 21.95,
+    "discount": 22.0,
+    "image": "https://m.media-amazon.com/images/I/51ViFLMMEUL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0DGT1PY4V?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "salute",
+    "macro_group": "cura_persona",
+    "seasonal_title": "",
+    "published_at": "2026-11-16T06:56:14.162430+01:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
+    "asin": "B07JJSVFK9",
+    "title": "Cecotec Radiatore elettrico a basso risparmio in ceramica calda 5200 scatola ceramica 2000 W, display digitale, IPX2, timer programmabile, 3 modalità, protezione contro il surriscaldamento",
+    "price": 39.9,
+    "old_price": 56.64,
+    "discount": 30.0,
+    "image": "https://m.media-amazon.com/images/I/21VCrD2osYL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B07JJSVFK9?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "comfort_casa",
+    "macro_group": "casa_cucina",
+    "seasonal_title": "",
+    "published_at": "2026-11-16T06:50:59.789788+01:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
+    "asin": "B00QNBLILK",
+    "title": "Post-it Foglietti Super Sticky, 6 Blocchetti (540 Fogli), 76 mm x 76 mm | Foglietti Adesivi Riposizionabili a Tenuta Extra Forte per Promemoria ed Elenchi; Aderiscono a Superfici Verticali",
+    "price": 9.29,
+    "old_price": 17.49,
+    "discount": 47.0,
+    "image": "https://m.media-amazon.com/images/I/41UfUCHqKVL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B00QNBLILK?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "ufficio",
+    "macro_group": "tempo_libero",
+    "seasonal_title": "",
+    "published_at": "2026-11-16T06:50:47.522644+01:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "W0C05CEA02",
     "title": "Nike Everyday Cushioned Crew 3 Pack Unisex - Calze Rosso - Taglia 38 - 42",
     "price": 10.0,
@@ -47,9 +150,9 @@
     ],
     "merchant_match_score": 100,
     "merchant_ean": "198481678686",
-    "merchant_prices_checked_at": "2026-11-16T05:33:56.231392+01:00",
+    "merchant_prices_checked_at": "2026-11-16T06:54:45.955582+01:00",
     "availability": "in_stock",
-    "price_observed_at": "2026-11-16T05:33:56.231392+01:00"
+    "price_observed_at": "2026-11-16T06:54:45.955582+01:00"
   },
   {
     "asin": "W3C5726BDE",
@@ -94,9 +197,9 @@
     ],
     "merchant_match_score": 100,
     "merchant_ean": "6970078070691",
-    "merchant_prices_checked_at": "2026-11-16T05:33:56.231392+01:00",
+    "merchant_prices_checked_at": "2026-11-16T06:54:45.955582+01:00",
     "availability": "in_stock",
-    "price_observed_at": "2026-11-16T05:33:56.231392+01:00"
+    "price_observed_at": "2026-11-16T06:54:45.955582+01:00"
   },
   {
     "asin": "W14E723A10",
@@ -146,9 +249,9 @@
     ],
     "merchant_match_score": 100,
     "merchant_ean": "198481683093",
-    "merchant_prices_checked_at": "2026-11-16T05:33:56.231392+01:00",
+    "merchant_prices_checked_at": "2026-11-16T06:54:45.955582+01:00",
     "availability": "in_stock",
-    "price_observed_at": "2026-11-16T05:33:56.231392+01:00"
+    "price_observed_at": "2026-11-16T06:54:45.955582+01:00"
   },
   {
     "asin": "B004LLZP3Q",
@@ -283,9 +386,9 @@
     ],
     "merchant_match_score": 100,
     "merchant_ean": "199012237709",
-    "merchant_prices_checked_at": "2026-11-16T05:33:56.231392+01:00",
+    "merchant_prices_checked_at": "2026-11-16T06:54:45.955582+01:00",
     "availability": "in_stock",
-    "price_observed_at": "2026-11-16T05:33:56.231392+01:00"
+    "price_observed_at": "2026-11-16T06:54:45.955582+01:00"
   },
   {
     "asin": "W53903CB61",
@@ -333,9 +436,9 @@
     ],
     "merchant_match_score": 100,
     "merchant_ean": "4069989180765",
-    "merchant_prices_checked_at": "2026-11-16T05:33:56.231392+01:00",
+    "merchant_prices_checked_at": "2026-11-16T06:54:45.955582+01:00",
     "availability": "in_stock",
-    "price_observed_at": "2026-11-16T05:33:56.231392+01:00"
+    "price_observed_at": "2026-11-16T06:54:45.955582+01:00"
   },
   {
     "asin": "W4F41148E1",
@@ -385,9 +488,9 @@
     ],
     "merchant_match_score": 100,
     "merchant_ean": "4060509396666",
-    "merchant_prices_checked_at": "2026-11-16T05:33:56.231392+01:00",
+    "merchant_prices_checked_at": "2026-11-16T06:54:45.955582+01:00",
     "availability": "in_stock",
-    "price_observed_at": "2026-11-16T05:33:56.231392+01:00"
+    "price_observed_at": "2026-11-16T06:54:45.955582+01:00"
   },
   {
     "asin": "B095WRN9ZV",
@@ -483,9 +586,9 @@
     ],
     "merchant_match_score": 100,
     "merchant_ean": "8050147737309",
-    "merchant_prices_checked_at": "2026-11-16T05:33:56.231392+01:00",
+    "merchant_prices_checked_at": "2026-11-16T06:54:45.955582+01:00",
     "availability": "in_stock",
-    "price_observed_at": "2026-11-16T05:33:56.231392+01:00"
+    "price_observed_at": "2026-11-16T06:54:45.955582+01:00"
   },
   {
     "asin": "WEC3C7EFF8",
@@ -535,9 +638,9 @@
     ],
     "merchant_match_score": 100,
     "merchant_ean": "4065419399325",
-    "merchant_prices_checked_at": "2026-11-16T05:33:56.231392+01:00",
+    "merchant_prices_checked_at": "2026-11-16T06:54:45.955582+01:00",
     "availability": "in_stock",
-    "price_observed_at": "2026-11-16T05:33:56.231392+01:00"
+    "price_observed_at": "2026-11-16T06:54:45.955582+01:00"
   },
   {
     "asin": "WBD634B1F4",
@@ -587,9 +690,9 @@
     ],
     "merchant_match_score": 100,
     "merchant_ean": "4065419399363",
-    "merchant_prices_checked_at": "2026-11-16T05:33:56.231392+01:00",
+    "merchant_prices_checked_at": "2026-11-16T06:54:45.955582+01:00",
     "availability": "in_stock",
-    "price_observed_at": "2026-11-16T05:33:56.231392+01:00"
+    "price_observed_at": "2026-11-16T06:54:45.955582+01:00"
   },
   {
     "asin": "B0D62X9CTT",
@@ -651,9 +754,9 @@
     ],
     "merchant_match_score": 100,
     "merchant_ean": "7612981243470",
-    "merchant_prices_checked_at": "2026-11-16T05:33:56.231392+01:00",
+    "merchant_prices_checked_at": "2026-11-16T06:54:45.955582+01:00",
     "availability": "in_stock",
-    "price_observed_at": "2026-11-16T05:33:56.231392+01:00"
+    "price_observed_at": "2026-11-16T06:54:45.955582+01:00"
   },
   {
     "asin": "W6C685B770",
@@ -703,9 +806,9 @@
     ],
     "merchant_match_score": 100,
     "merchant_ean": "4065419403008",
-    "merchant_prices_checked_at": "2026-11-16T05:33:56.231392+01:00",
+    "merchant_prices_checked_at": "2026-11-16T06:54:45.955582+01:00",
     "availability": "in_stock",
-    "price_observed_at": "2026-11-16T05:33:56.231392+01:00"
+    "price_observed_at": "2026-11-16T06:54:45.955582+01:00"
   },
   {
     "asin": "W0B41A5CAA",
@@ -755,9 +858,9 @@
     ],
     "merchant_match_score": 100,
     "merchant_ean": "4065419399356",
-    "merchant_prices_checked_at": "2026-11-16T05:33:56.231392+01:00",
+    "merchant_prices_checked_at": "2026-11-16T06:54:45.955582+01:00",
     "availability": "in_stock",
-    "price_observed_at": "2026-11-16T05:33:56.231392+01:00"
+    "price_observed_at": "2026-11-16T06:54:45.955582+01:00"
   },
   {
     "asin": "B005YPK7V8",
@@ -2117,103 +2220,6 @@
     "macro_group": "tech",
     "seasonal_title": "",
     "published_at": "2026-11-15T20:06:09.151932+01:00",
-    "source_merchant": "amazon",
-    "source_external_id": "",
-    "quality_status": "ready",
-    "quality_issues": []
-  },
-  {
-    "asin": "B0H62R5M54",
-    "title": "Google Pixel 11 Pro – Smartphone Android sbloccato - Grigio nebbia, 512GB | Con Gemini Intelligence, autonomia di oltre 30 ore e display Super Actua da 6,3”",
-    "price": 999.0,
-    "old_price": 1329.0,
-    "discount": 25.0,
-    "image": "https://m.media-amazon.com/images/I/31CUWsJeTZL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0H62R5M54?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "hitech",
-    "macro_group": "tech",
-    "seasonal_title": "",
-    "published_at": "2026-11-15T20:06:07.478420+01:00",
-    "source_merchant": "amazon",
-    "source_external_id": "",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "mediaworld",
-        "merchant_name": "MediaWorld",
-        "merchant_id": "18529",
-        "product_id": "596732",
-        "awin_product_id": "45577313494",
-        "title": "GOOGLE Pixel 11 PRO 512GB, 512 GB, Grigio nebbia",
-        "brand": "Google",
-        "ean": "0840353957176",
-        "mpn": "13240038",
-        "price": 1199.49,
-        "old_price": 1329.0,
-        "discount": 9.7,
-        "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_180621283/fee_786_587_png",
-        "url": "https://www.awin1.com/pclick.php?p=45577313494&a=3086723&m=18529",
-        "category": "Telefonia;Smartphone e Cellulari;Smartphone",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {
-          "color": "grey",
-          "storage_gb": 512.0
-        }
-      }
-    ],
-    "merchant_match_score": 94,
-    "merchant_ean": "0840353957176",
-    "merchant_prices_checked_at": "2026-11-15T19:14:04.203248+01:00"
-  },
-  {
-    "asin": "B0H62NRX69",
-    "title": "Google Pixel 11 - Smartphone Android sbloccato - Verde pistacchio, 256GB | Con Gemini Intelligence, autonomia di oltre 30 ore e display Super Actua da 6,3\"",
-    "price": 679.0,
-    "old_price": 999.0,
-    "discount": 32.0,
-    "image": "https://m.media-amazon.com/images/I/31H4YPXIotL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0H62NRX69?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "hitech",
-    "macro_group": "tech",
-    "seasonal_title": "",
-    "published_at": "2026-11-15T20:06:07.423000+01:00",
-    "source_merchant": "amazon",
-    "source_external_id": "",
-    "quality_status": "ready",
-    "quality_issues": []
-  },
-  {
-    "asin": "B092SDF2R2",
-    "title": "Chicco Scaldabiberon Portatile da Viaggio e Scalda Pappa con 3 Programmi e Spegnimento Automatico, Scalda in Modo Graduale, Anche per Vasetti e Latte Materno, Mantiene il Calore, 220W, Bianco, 1 Pezzo",
-    "price": 31.9,
-    "old_price": 49.9,
-    "discount": 36.0,
-    "image": "https://m.media-amazon.com/images/I/31tPKNYffQL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B092SDF2R2?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "bambini_completo",
-    "macro_group": "famiglia_animali",
-    "seasonal_title": "",
-    "published_at": "2026-11-15T20:01:08.298284+01:00",
-    "source_merchant": "amazon",
-    "source_external_id": "",
-    "quality_status": "ready",
-    "quality_issues": []
-  },
-  {
-    "asin": "B0GF25K1HN",
-    "title": "Philips Avent Scaldabiberon Set regalo – Scaldabiberon veloce e biberon Natural Response, controllo temperatura smart, riscaldamento uniforme, spegnimento automatico, SCF358/10",
-    "price": 39.99,
-    "old_price": 65.99,
-    "discount": 39.0,
-    "image": "https://m.media-amazon.com/images/I/51cCTkhSIsL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0GF25K1HN?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "bambini_completo",
-    "macro_group": "famiglia_animali",
-    "seasonal_title": "",
-    "published_at": "2026-11-15T20:01:03.413400+01:00",
     "source_merchant": "amazon",
     "source_external_id": "",
     "quality_status": "ready",
