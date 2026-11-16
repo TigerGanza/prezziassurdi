@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-16T10:06:22+01:00",
+  "generated_at": "2026-11-16T11:36:21+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -388,13 +388,6 @@
     ],
     "tv-in-offerta": [
       {
-        "title": "LG Mini RGB 55 Pollici, Serie MRGB87 2026 Smart TV 4K - 55MRGB87B6B | RGB Primary Color Pro, DualColor 100% DCI-P3/Adobe RGB, Dolby Vision & Atmos, WebOS con Gemini, Motion Booster",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Xiaomi TV F Pro 32 2025, 32 pollici (81 cm), QLED, Smart TV, Fire TV, Triple Tuner DVB-C/S/S2/T/T2,Dolby Audio, DTS Virtual:X, DTS-HD, Controllo Vocale Alexa, Compatibile con Apple",
         "merchant": "amazon",
         "ean": "6941948706361",
@@ -596,16 +589,16 @@
         "ean": "5901292525972",
         "mpn": "",
         "status": "da_verificare"
+      },
+      {
+        "title": "Hisense Smart TV QLED 65\" 4K 65E7DS | Audio Dolby Atmos, VIDAA OS, Dolby Vision IQ, HDR 10+, Game Mode, Bluetooth, Wifi, Alexa, AirPlay2, lativù 4K, 2026 Model",
+        "merchant": "amazon",
+        "ean": "6942351431703",
+        "mpn": "",
+        "status": "da_verificare"
       }
     ],
     "offerte-tv-55-65-pollici": [
-      {
-        "title": "LG Mini RGB 55 Pollici, Serie MRGB87 2026 Smart TV 4K - 55MRGB87B6B | RGB Primary Color Pro, DualColor 100% DCI-P3/Adobe RGB, Dolby Vision & Atmos, WebOS con Gemini, Motion Booster",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "TCL 55V6D – Smart TV 4K HDR10+ da 55\" con Fire TV e Dolby Atmos | DTS:X, Game Master, Motion Clarity, Apple AirPlay 2, Press & Ask Alexa",
         "merchant": "amazon",
@@ -693,6 +686,27 @@
     ],
     "migliori-notebook": [
       {
+        "title": "ASUS Vivobook 15 F1504MA#B0H262LDPL, Notebook con display 15.6\" IPS, Anti-glare, 60Hz,Intel® Core™ 3 Processor 304,RAM 8GB, 256GB SSD, WIN11 Home, Argento, Caricatore non incluso",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "ASUS Vivobook 15 F1504MA#B0H261K2KN, Notebook con display 15.6\" IPS, Anti-glare, 60Hz,Intel® Core™ 5 Processor 320,RAM 16GB, 512GB SSD, WIN11 Home, Argento",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Lenovo IdeaPad Slim 3 Notebook 15\" FHD (1920x1080) AMD Ryzen 3, RAM 8GB, 256GB SSD, Windows 11 Home, WiFi 6, Laptop per Casa, Ufficio, Studio, Uso Quotidiano - Caricatore non inclu",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Lenovo IdeaPad Slim 3 Notebook 15\" IPS Intel Core 7 350, RAM 16GB, 512GB SSD, Windows 11 Home, WiFi 6, Laptop per Casa, Ufficio, Studio, Multitasking, Uso Quotidiano - Caricatore n",
         "merchant": "amazon",
         "ean": "",
@@ -717,13 +731,6 @@
         "title": "HP Laptop 15-fd1000slx, Notebook, Intel Core 7 150U, 16 GB RAM, 512 GB, Grafica integrata, Display 15,6\" FHD Antiriflesso 250 nits, Laptop, Windows 11, Portatile, Argento",
         "merchant": "amazon",
         "ean": "0821844597996",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "ASUS Vivobook 15 F1504MA#B0H261K2KN, Notebook con display 15.6\" IPS, Anti-glare, 60Hz,Intel® Core™ 5 Processor 320,RAM 16GB, 512GB SSD, WIN11 Home, Argento",
-        "merchant": "amazon",
-        "ean": "4711636643122",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -2181,6 +2188,20 @@
     ],
     "aspirapolvere-senza-fili-in-offerta": [
       {
+        "title": "HYCHIKA Battimaterasso 16 kPa, Aspirapolvere per Materassi con Luce UV-C | Aspirapolvere antiacaro, Aria Calda 60 °C, Ultrasuoni, Doppia Cyclonic System, Rimuove 99,2% Allergeni, p",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Vacmaster SCC1201H 500W Aspirapolvere Pulitore per tappeti con tecnologia di riscaldamento Dispositivo per la pulizia di tappezzeria Ideale per Pulisci Scale, divano, Sedili Auto, ",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Aspirapolvere Senza Fili Scopa Elettrica - Potente Filo Batteria Cordless Vacuum Cleaner Scope Elettriche Sacco Portatile Ciclonico Silenzioso per Divano Tappeti Parquet Pavimenti ",
         "merchant": "amazon",
         "ean": "",
@@ -2493,6 +2514,20 @@
     ],
     "migliori-frigoriferi": [
       {
+        "title": "LG GSXV91MCAE Frigorifero Americano Side by Side InstaView Total No Frost con Congelatore, 635 L, Dispenser Acqua e Ghiaccio UV Nano, Door Cooling, Linear Cooling - Frigo Smart con",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Gorenje NRS8182KX Frigorifero Side by Side, Capacità 550 litri, Total No Frost, Convert Active Zone, Motore Inverter, Controllo Elettronico Touch, Cassetto Fresh Crisper, Classe E,",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Samsung RB38T607BS9 frigorifero Combinato EcoFlex Libera installazione con congelatore 2m 387 L Classe B, Inox",
         "merchant": "unieuro",
         "ean": "",
@@ -2687,20 +2722,6 @@
         "ean": "8806094990003",
         "mpn": "RB34C675DSA/EF",
         "status": "da_verificare"
-      },
-      {
-        "title": "Samsung RB50DG601EB1 Libera installazione 508 L Antracite",
-        "merchant": "unieuro",
-        "ean": "8806095536378",
-        "mpn": "RB50DG601EB1EF",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Samsung RT31CG5624WW Libera installazione 305 L Bianco",
-        "merchant": "unieuro",
-        "ean": "8806095276878",
-        "mpn": "RT31CG5624WWES",
-        "status": "da_verificare"
       }
     ],
     "friggitrici-ad-aria-offerte-confronto": [
@@ -2889,62 +2910,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Adidas adilette Donna - Infradito e sandali Nero - Taglia 38 2/3 - Rete/Sintetico",
-        "merchant": "footlocker",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Adidas adilette Donna - Infradito e sandali Rosa - Taglia 38 - Rete/Sintetico",
-        "merchant": "footlocker",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Adidas adilette Donna - Infradito e sandali Rosa - Taglia 40.5 - Rete/Sintetico",
-        "merchant": "footlocker",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Adidas adilette Donna - Infradito e sandali Rosa - Taglia 42 - Rete/Sintetico",
-        "merchant": "footlocker",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Adidas adilette Donna - Infradito e sandali Rosa - Taglia 37 - Rete/Sintetico",
-        "merchant": "footlocker",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Bianco White Black, 45 EU",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "PUMA Sneakers Smash v2 L Unisex, White-White-Peacoat-Team Gold, 41 EU",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "PUMA Sneakers ST Runner v4 NL Unisex, Persian Blue-White-Canvas, 41 EU",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
         "ean": "",
@@ -3020,6 +2985,62 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
+      },
+      {
+        "title": "Hitmars Scarpe Running Uomo Ginnastica Donna Scarpe da Corsa Trekking Sneakers Trail Sportive Fitness Correre Running Shoes Camminare Azul EU 43",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Hitmars Scarpe Running Uomo Ginnastica Donna Scarpe da Corsa Trekking Sneakers Trail Sportive Fitness Correre Running Shoes Camminare Negro EU 42",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Hitmars Scarpe Running Uomo Ginnastica Donna Scarpe da Corsa Trekking Sneakers Trail Sportive Fitness Correre Running Shoes Camminare Verde EU 43",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Hitmars Scarpe Running Uomo Ginnastica Donna Scarpe da Corsa Trekking Sneakers Trail Sportive Fitness Correre Running Shoes Negro Blanco EU 42",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Kricely Scarpe da Trail Running Trekking da Escursionismo Uomo Fitness Running Sneakers （Kaki 43）",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "PUMA Caven 2.0, Sneaker Unisex - Adulto, White Silver, 38 EU",
+        "merchant": "amazon",
+        "ean": "4099683251256",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Bianco Puma White Puma Black, 42 EU",
+        "merchant": "amazon",
+        "ean": "4059505056117",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "PUMA Sneakers Smash v2 L Unisex, White-White-Peacoat-Team Gold, 45 EU",
+        "merchant": "amazon",
+        "ean": "4063699638301",
+        "mpn": "",
+        "status": "da_verificare"
       }
     ],
     "migliori-sneakers": [
@@ -3081,27 +3102,6 @@
       },
       {
         "title": "PUMA Sneakers ST Runner v4 NL Unisex, Persian Blue-White-Canvas, 44.5 EU",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Bianco White Black, 45 EU",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "PUMA Sneakers Smash v2 L Unisex, White-White-Peacoat-Team Gold, 41 EU",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "PUMA Sneakers ST Runner v4 NL Unisex, Persian Blue-White-Canvas, 41 EU",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -3230,6 +3230,27 @@
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Bianco Puma White Puma Black, 42 EU",
         "merchant": "amazon",
         "ean": "4059505056117",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "PUMA Sneakers Smash v2 L Unisex, White-White-Peacoat-Team Gold, 45 EU",
+        "merchant": "amazon",
+        "ean": "4063699638301",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Black Black, 42 EU",
+        "merchant": "amazon",
+        "ean": "4059505056995",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "PUMA Sneakers Shuffle Downtown Unisex, White-White-Gold, 36 EU",
+        "merchant": "amazon",
+        "ean": "4069156771536",
         "mpn": "",
         "status": "da_verificare"
       }
