@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-16T21:56:24+01:00",
+  "generated_at": "2026-11-16T23:21:20+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -381,6 +381,13 @@
     ],
     "tv-in-offerta": [
       {
+        "title": "Xiaomi TV 43 pollici 2026, HD Smart TV Fire TV Dolby Audio L43MB-FAVEU | Triple Tuner DVB-C/S/S2/T/T2,HDR10, MEMC, Alexa Voice Control, 2GB+32GB, Compatible with Apple AirPlay",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Samsung 77\" QE77S92HATXZT OLED 4K LaserSlim Design Smart TV Vision AI 2026 | NQ4 AI Gen 3 Processor, HDR 10+, Motion Xcelerator 165Hz, Dolby Atmos, Gaming Hub, Ultimate Gaming Pack",
         "merchant": "amazon",
         "ean": "",
@@ -447,13 +454,6 @@
         "title": "LG NANO AI UHD 43 Pollici, Serie NU8E 2026 Smart TV 4K - 43NU8E0B3LA | Processore con Nano Detail Enhancer, AI Chatbot, AI Concierge, HDR10 Pro, Filmmaker Mode, Design Linear Flow,",
         "merchant": "amazon",
         "ean": "8806096877395",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Xiaomi TV 43 pollici 2026, HD Smart TV Fire TV Dolby Audio L43MB-FAVEU | Triple Tuner DVB-C/S/S2/T/T2,HDR10, MEMC, Alexa Voice Control, 2GB+32GB, Compatible with Apple AirPlay",
-        "merchant": "amazon",
-        "ean": "6941948710467",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -714,41 +714,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Dell 15 Laptop - Intel Core i5-1334U, 8GB RAM, 512GB SSD | 15.6'' FHD 120Hz Display, IPS, Intel UHD Graphics, Win 11 Home, QWERTY Italiano (Caricatore venduto separatamente)",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Dell 15 Laptop - Intel Core i5-1334U, 16GB RAM, 512GB SSD | 15, 6'' FHD 120Hz anti-riflesso, Intel UHD Graphics, Windows 11 Home (Caricatore venduto separatamente)",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Lenovo IdeaPad Slim 3 Notebook 15\" IPS, Snapdragon X X1-26-100, RAM 16GB, 256GB SSD, Windows 11 Home, WiFi 6, Laptop per Casa, Ufficio, Studio, Multitasking, Uso Quotidiano - Caric",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "HP OmniBook 5 16-ag1000slx 16\" IPS, Ryzen AI 5 330, 16GB, 512GB | Notebook 2K (1920 x 1200) IPS, AMD Radeon 820M, Windows 11, per lavoro, portatile, 16-ag1000slx, Argento, QWERTY I",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Lenovo IdeaPad Slim 3 Notebook 15\" IPS (1920x1200) Intel Core i5-13420H, 16GB RAM DDR5, 512GB SSD, WiFi 6, Windows 11 Home, Laptop Sottile per Lavoro, Studio e Multitasking - Caric",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "ASUS Vivobook 16 F1605VA#B0FZL8JLW9, Notebook con display 16\" Anti-glare, 60Hz,Intel® Core™ 9 Processor 270H,RAM 16GB, 1TB SSD, WIN11 Home, Argento",
         "merchant": "",
         "ean": "",
@@ -759,6 +724,13 @@
         "title": "Lenovo Notebook Ram 16GB CPU Intel i5-1342H Monitor 15.6\" Full HD SSD 512 GB LAN, HDMI, USB Win 11 Pro e Libre Office Pc portatile pronto all'uso - Colore Nero",
         "merchant": "",
         "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Lenovo IdeaPad Slim 3 Notebook 15\" IPS, Snapdragon X X1-26-100, RAM 16GB, 256GB SSD, Windows 11 Home, WiFi 6, Laptop per Casa, Ufficio, Studio, Multitasking, Uso Quotidiano - Caric",
+        "merchant": "amazon",
+        "ean": "0199276920201",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -977,14 +949,7 @@
     ],
     "migliori-tablet": [
       {
-        "title": "Samsung Galaxy Tab A11+ Wi-Fi, 6 GB RAM, 128 GB, 11\", Argento | Android 14, Display 90 Hz, Altoparlanti Dolby Quad, Batteria 7.040 mAh, Ricarica Rapida 25 W, Bluetooth",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Ainmel Tablet 10 Pollici Android 16, 2 in 1 Tastiera Mouse Pennino Custodia, 24GB RAM 1TB Espandibile, HD IPS Widevine L1, Batteria 6000mAh, Doppia Fotocamera Sblocco Facciale, WiF",
+        "title": "Apple iPad Air 11'' (M4): display Liquid Retina, 128 GB, fotocamera frontale e posteriore da 12MP, Wi-Fi 7 con chip Apple N1 – Galassia",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -999,6 +964,13 @@
       },
       {
         "title": "Samsung Galaxy Tab A11+, Wi-Fi, 8GB RAM, 256GB",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Samsung Galaxy Tab A11+, WiFi, 6GB RAM, 128GB",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -1127,20 +1099,6 @@
       },
       {
         "title": "BTICINO 317913 Videocitofono Easykit Essential, Kit Monofamiliare Espandibile, Plug-In 2 Fili, Monitor 7\" a Colori, Vivavoce, Visione Notturna, Audio Bidirezionale, Pulsantiera Est",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "LG 32MR50C Monitor Curvo 32\" Full HD LED VA, 1920x1080, 5ms (GtG), AMD FreeSync 100Hz, 2x HDMI 1.4 VRR (HDCP 1.4), VGA, AUX, Schermo Antiriflesso, Flicker Safe, Nero",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "LG UltraGear 32GS60QC Monitor Gaming 32\" Curvo QHD (2560x1440), 180Hz, 1ms, AMD FreeSync Premium, HDR 10, HDMI 2.0, DisplayPort 1.4, AUX, Flicker Safe, Nero",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -1729,6 +1687,13 @@
     ],
     "cuffie-bluetooth-in-offerta": [
       {
+        "title": "Sony WF-C710N Auricolari Wireless con Cancellazione del Rumore | Auricolari In-Ear, Qualità delle Chiamate con IA, Multipoint, IPX4, Fino a 40 h di Autonomia, iOS e Android, Nero",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Sony WH-1000XM5 Premium Cuffie bluetooth con Cancellazione Rumore | Over-Ear, wireless, chiamate nitide, Hi-Res, 30 ore batteria, custodia rigida, iOS & Android, noise cancelling -",
         "merchant": "amazon",
         "ean": "",
@@ -2190,20 +2155,6 @@
     ],
     "migliori-lavatrici": [
       {
-        "title": "LG F4R709TAIDD Lavatrice 9 kg Serie R7, Classe A-10%, AI DD, Wi-Fi | 1400 Giri, TurboWash 360, Vapore su 7 Programmi, Allergy Care, Oblò in Vetro Temperato, Direct Drive, Bianca",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "LG AI DD F4R3013NSWB Lavatrice Classe A -10%, Carica Frontale Serie R3, Lavatrice 13kg, 1400 giri, AIWash, Lavaggio a vapore, Motore Direct Drive, Smart Diagnosis, Libera installaz",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Bosch WAN28229IT Serie 4 Lavatrice 9kg 1400 giri/min Bianco Classe A",
         "merchant": "",
         "ean": "",
@@ -2397,6 +2348,20 @@
         "merchant": "unieuro",
         "ean": "8050147619315",
         "mpn": "869991619310",
+        "status": "da_verificare"
+      },
+      {
+        "title": "LG D2R3S08NSWW Lavasciuga slim 8/5kg AI DD, Classe E, 1200 giri, AI Wash, Vapore",
+        "merchant": "unieuro",
+        "ean": "8806084273680",
+        "mpn": "D2R3S08NSWW.ABWQP",
+        "status": "da_verificare"
+      },
+      {
+        "title": "LG F4NX5009TKB Lavatrice Intelligente 9 kg Classe A 40% Bianoc/Nero",
+        "merchant": "unieuro",
+        "ean": "8806096639238",
+        "mpn": "F4NX5009TKBABWQPI",
         "status": "da_verificare"
       }
     ],
@@ -3145,6 +3110,13 @@
     ],
     "lavapavimenti-elettriche": [
       {
+        "title": "Tineco Floor ONE S7 Stretch Steam Lavapavimenti a Vapore Senza Fili | 160℃ HyperSteam, Design 180° a posizione piatta, Sistema di autopulizia FlashDry, Autonomia ultra lunga",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Tineco Floor ONE S7 Stretch Ultra Lavapavimenti aspirapolvere senza fili | Fino a 50 minuti di autonomia, MHCBS, FlashDry",
         "merchant": "amazon",
         "ean": "6932485005857",
@@ -3155,13 +3127,6 @@
         "title": "Tineco Floor ONE Switch S7 Stretch 5 in 1Aspirapolvere Lavapavimenti | ZeroTangle, Passaggio facile con il motore SwitchPro per la pulizia di tutta la casa",
         "merchant": "amazon",
         "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Tineco Floor ONE S7 Stretch Steam Lavapavimenti a Vapore Senza Fili | 160℃ HyperSteam, Design 180° a posizione piatta, Sistema di autopulizia FlashDry, Autonomia ultra lunga",
-        "merchant": "amazon",
-        "ean": "6971745581182",
         "mpn": "",
         "status": "da_verificare"
       },
