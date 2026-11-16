@@ -1,5 +1,67 @@
 [
   {
+    "asin": "B0FJY2C7LR",
+    "title": "Samsung Galaxy Buds3 FE, Auricolari Wireless [Versione Italiana] | Suono Equilibrato, Audio 360, Cancellazione Attiva del Rumore e Chiamate Nitide, Controllo Semplice, Gemini AI, Gray 2025",
+    "price": 69.99,
+    "old_price": 149.0,
+    "discount": 53.0,
+    "image": "https://m.media-amazon.com/images/I/31pSYrgG5kL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0FJY2C7LR?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "audio_hifi",
+    "macro_group": "tech",
+    "seasonal_title": "",
+    "published_at": "2026-11-16T13:07:37.974256+01:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": [],
+    "merchant_offers": [
+      {
+        "merchant": "unieuro",
+        "merchant_name": "Unieuro",
+        "merchant_id": "10139",
+        "product_id": "SAMSMR420NZAA",
+        "awin_product_id": "42317717257",
+        "title": "Samsung Galaxy Buds3 FE, Auricolari Wireless, Audio 360, Gemini AI, Gray",
+        "brand": "Samsung",
+        "ean": "8806097621218",
+        "mpn": "SM-R420NZAAITV",
+        "price": 79.99,
+        "old_price": 149.99,
+        "discount": 46.7,
+        "image": "https://www.unieuro.it/medias/sys_master/root/h48/h20/50523748565022/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-bf90f3e2000cabcfed9a5589296950a0-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
+        "url": "https://www.awin1.com/pclick.php?p=42317717257&a=3086723&m=10139",
+        "category": "Cuffie e Auricolari",
+        "category_path": "",
+        "availability": "in_stock",
+        "last_updated": "",
+        "attributes": {
+          "color": "grey"
+        }
+      }
+    ],
+    "merchant_match_score": 94,
+    "merchant_ean": "8806097621218",
+    "merchant_prices_checked_at": "2026-11-16T12:18:50.532987+01:00"
+  },
+  {
+    "asin": "B0GPWB6458",
+    "title": "MOTO BUDS PLUS 2 SILHOUETTE",
+    "price": 59.9,
+    "old_price": 149.9,
+    "discount": 60.0,
+    "image": "https://m.media-amazon.com/images/I/31IZ2wyM8CL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0GPWB6458?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "audio_hifi",
+    "macro_group": "tech",
+    "seasonal_title": "",
+    "published_at": "2026-11-16T13:07:37.518392+01:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B0D5BGPHMC",
     "title": "Aminoacidi Essenziali - Complesso ad Alto Dosaggio - 270 Compresse, 12 Aminoacidi (6.470 mg) - EAA Amino 8 + L Arginina, L Carnitina, Taurina e Glicina - Vegan - Testato in Laboratorio",
     "price": 14.24,
@@ -1889,39 +1951,5 @@
     "merchant_prices_checked_at": "2026-11-16T12:18:50.532987+01:00",
     "availability": "in_stock",
     "price_observed_at": "2026-11-16T12:18:50.532987+01:00"
-  },
-  {
-    "asin": "B0CXJK4BQN",
-    "title": "JBL Cinema SB 510, Soundbar 3.1 Canali con Subwoofer Integrato, Bluetooth per Streaming Wireless, Dolby Atmos Integrato, Connessione HDMI ARC e Ottica, Design Compatto, Telecomando, 200 Watt, Nero",
-    "price": 129.49,
-    "old_price": 169.99,
-    "discount": 24.0,
-    "image": "https://m.media-amazon.com/images/I/215+LoFwvqL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0CXJK4BQN?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "audio_casa",
-    "macro_group": "tech",
-    "seasonal_title": "",
-    "published_at": "2026-11-16T07:40:36.856933+01:00",
-    "source_merchant": "amazon",
-    "source_external_id": "",
-    "quality_status": "ready",
-    "quality_issues": []
-  },
-  {
-    "asin": "B0FDR5PKYP",
-    "title": "MAJORITY Naga 80 140W Soundbar per TV con Bluetooth e HDMI ARC | Barra Audio 2.2 Canali con Subwoofer Integrato | Ottico, AUX, USB | Soundbar per Smart TV con Suono Surround 3D",
-    "price": 59.96,
-    "old_price": 99.95,
-    "discount": 40.0,
-    "image": "https://m.media-amazon.com/images/I/21cOwGLTblL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0FDR5PKYP?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "audio_casa",
-    "macro_group": "tech",
-    "seasonal_title": "",
-    "published_at": "2026-11-16T07:40:36.819031+01:00",
-    "source_merchant": "amazon",
-    "source_external_id": "",
-    "quality_status": "ready",
-    "quality_issues": []
   }
 ]
