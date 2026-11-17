@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-17T13:56:20+01:00",
+  "generated_at": "2026-11-17T15:26:20+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -686,13 +686,6 @@
     ],
     "migliori-notebook": [
       {
-        "title": "Lenovo IdeaPad Slim 3 Notebook 15\" IPS, AMD Ryzen 5 40, RAM 8GB, 512GB SSD, Windows 11 Home, WiFi 6, Laptop per Casa, Ufficio, Studio, Multitasking, Uso Quotidiano - Caricatore non",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "ASUS Vivobook 16 F1605VA#B0FZL8JLW9, Notebook con display 16\" Anti-glare, 60Hz,Intel® Core™ 9 Processor 270H,RAM 16GB, 1TB SSD, WIN11 Home, Argento",
         "merchant": "",
         "ean": "",
@@ -935,6 +928,27 @@
     ],
     "migliori-tablet": [
       {
+        "title": "Laptok Android 16 Tablet 10 Pollici Gemini AI, 36GB RAM+128GB ROM+1TB TF | Widevine L1/BT5.4/WIFI6/OTG, Octa-Core, 6000mAh, 8MP+5MP, Tablet 2 in 1 con Tastiera, Mouse, Penna, Custo",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "DOOGEETab U11 Android 16 Tablet 11 Pollici Gemini AI, 16GB+128GB/2TB TF, 90Hz, 8580mAh, Tablet con Tastiera e penna, Mouse, Case, Gaming Tablets Unisoc T7200 Octa Core/13MP+5MP/WiF",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "TABWEE Tablet 11 Pollici Tablet Android 16, Gemini AI, 24GB RAM + 128GB ROM | 2TB TF, Tablet con Tastiera e Penna, Display FHD, Batteria 8000mAh, Widevine L1, Dual WiFi 5G, GPS, Fa",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Tablet Android da 11 Pollici, Octa-Core, 24GB(4+20) RAM+128GB Memoria, Batteria 8200mAh, Widevine L1, Espandibile fino a 1TB, Doppia Fotocamera, Android Tablet per Studio, Lavoro e",
         "merchant": "",
         "ean": "",
@@ -1049,13 +1063,6 @@
       {
         "title": "ANTIOXID Tablet 11 pollici Android 16 tablet con sim,Dual SIM 4G LTE 5G Wi-Fi,2,0GHz Octa-Core, 8000mAh, 36 GB RAM + 512GB, 2000x1200/GPS,tablet in offerta con tastiera",
         "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "HYJOY G9 Tablet liquidazione magazzino economico 11,5 pollici IPS 1280×800 Android15 A733 octa core 30GB (6+24) 128GB WiFi6 8400mAh doppia fotocamera stereo scheda TF fino a 1TB sp",
-        "merchant": "aliexpress",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
@@ -1232,6 +1239,20 @@
       }
     ],
     "migliori-smartwatch": [
+      {
+        "title": "Apple Watch SE 3 GPS 40 mm Smartwatch | Cassa in alluminio galassia con Cinturino Sport sabbia - S/M",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Apple Watch SE 3 GPS 44 mm Smartwatch | Cassa in alluminio mezzanotte con Cinturino Sport blu marino - S/M",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "2026 Smartwatch Uomo GPS,2.06\" HD AMOLED Orologio Smartwatch con Chiamate",
         "merchant": "",
@@ -1524,14 +1545,14 @@
     ],
     "migliori-soundbar": [
       {
-        "title": "TCL S55HE Soundbar 2.1, 220W, Dolby Atmos, DTS Virtual:X, subwoofer wireless, Bluetooth 5.3, HDMI eARC, USB, ottico, montaggio a parete, telecomando incluso",
-        "merchant": "amazon",
+        "title": "Samsung Soundbar HW-B66CF/ZF Serie B, 4 Speaker, Wireless, Dolby 5.1ch, Audio a 3.1 Canali, DTS 5.1ch, Surround Sound Expansion, Voice Enhance Mode, Black, 2025",
+        "merchant": "",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "Samsung Soundbar HW-B66CF/ZF Serie B, 4 Speaker, Wireless, Dolby 5.1ch, Audio a 3.1 Canali, DTS 5.1ch, Surround Sound Expansion, Voice Enhance Mode, Black, 2025",
+        "title": "TCL S55HE Soundbar 2.1, 220W, Dolby Atmos, DTS Virtual:X, subwoofer wireless, Bluetooth 5.3, HDMI eARC, USB, ottico, montaggio a parete, telecomando incluso",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -1836,13 +1857,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "ECOVACS T50 PRO OMNI Gen3 Robot Aspirapolvere Lavapavimenti 25000 Pa | AIVI 3D 3.0, Lavaggio a 75 °C, ZeroTangle Generation 3.0 Tecnologia Anti-ingombramento, Ricarica Automatica, ",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Lefant M210 PRO OMNI Robot Aspirapolvere Lavapavimenti con Rullo 20.000Pa",
         "merchant": "",
         "ean": "",
@@ -1888,6 +1902,13 @@
         "title": "Lefant M1 Robot Aspirapolvere Lavapavimenti con Mappatura 3 in 1, 5500 Pa | Ultrasottile 32cm, 200min, Navigazione Laser dToF, Controllo APP/Alexa, per Peli di Animali e Pavimenti ",
         "merchant": "amazon",
         "ean": "0787480986122",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "ECOVACS T50 PRO OMNI Gen3 Robot Aspirapolvere Lavapavimenti 25000 Pa | AIVI 3D 3.0, Lavaggio a 75 °C, ZeroTangle Generation 3.0 Tecnologia Anti-ingombramento, Ricarica Automatica, ",
+        "merchant": "amazon",
+        "ean": "6979463770598",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -2644,21 +2665,28 @@
     ],
     "migliori-moda": [
       {
+        "title": "Asics Gel-Contend 10 Scarpe da Running",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Asics Gel-Pulse 17 Scarpe da Running",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Asics GT-1000 15 Scarpe da Running",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Tommy Hilfiger Bambina Felpa con Scollo Rotondo, Blu (Dark Night Navy), 5 Anni",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Bosch Professional Sistema 12V Trapano Avvitatore Con Percussione GSB 12V-15, Incl. Batteria 2x2.0 Ah + Caricabatterie, 2x Set Di Trapani, 1x Set Di Punte, In Borsa, Amazon Exclusi",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "EASTPAK THE ONE Borsa a Tracolla, 2.5 L - Black (Nero)",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -2841,13 +2869,6 @@
       },
       {
         "title": "Magliette Manica Corta Divertenti Ansia A Livello Agonistico Maglietta",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Magliette Divertenti Scritte Ironiche - Essere Normale Maglietta",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
