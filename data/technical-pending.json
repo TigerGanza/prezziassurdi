@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-17T02:11:20+01:00",
+  "generated_at": "2026-11-17T03:36:21+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -1405,6 +1405,13 @@
         "merchant": "amazon",
         "ean": "0195951259772",
         "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Amazfit ACTIVE EDGE 3,35 cm (1.32'') TFT 46 mm Digitale 360 x 360 Pixel Touch screen Nero GPS (satellitare)",
+        "merchant": "unieuro",
+        "ean": "6972596107231",
+        "mpn": "AMFW2212EU2N",
         "status": "da_verificare"
       },
       {
