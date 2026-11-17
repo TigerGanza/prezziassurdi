@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-17T19:46:33+01:00",
+  "generated_at": "2026-11-17T21:11:32+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -381,6 +381,13 @@
     ],
     "tv-in-offerta": [
       {
+        "title": "Xiaomi TV 55 pollici 2026, 4K UHD Smart TV Fire OS8 HDR10 L55MB-FAVEU | Triple Tuner DVB-C/S/S2/T/T2, 120Hz Game Boost Mode, 2GB+32GB, works with Apple AirPlay,Alexa,HDR10,MEMC",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "TCL 55V6D – Smart TV 4K HDR10+ da 55\" con Fire TV e Dolby Atmos | DTS:X, Game Master, Motion Clarity, Apple AirPlay 2, Press & Ask Alexa",
         "merchant": "amazon",
         "ean": "",
@@ -582,16 +589,16 @@
         "ean": "6942351430805",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "Smart TV TCL 65V6C 65 pollici 4K HDR Direct LED, Google TV | Dolby Audio, Game Master, Motion Clarity, Google Assistant, Compatibile con Alexa",
-        "merchant": "amazon",
-        "ean": "5901292525972",
-        "mpn": "",
-        "status": "da_verificare"
       }
     ],
     "offerte-tv-55-65-pollici": [
+      {
+        "title": "Xiaomi TV 55 pollici 2026, 4K UHD Smart TV Fire OS8 HDR10 L55MB-FAVEU | Triple Tuner DVB-C/S/S2/T/T2, 120Hz Game Boost Mode, 2GB+32GB, works with Apple AirPlay,Alexa,HDR10,MEMC",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "TCL 55V6D – Smart TV 4K HDR10+ da 55\" con Fire TV e Dolby Atmos | DTS:X, Game Master, Motion Clarity, Apple AirPlay 2, Press & Ask Alexa",
         "merchant": "amazon",
@@ -785,20 +792,6 @@
       }
     ],
     "migliori-pc-desktop": [
-      {
-        "title": "Lenovo A100 Computer desktop All-In-One, Display 24\" FHD, Intel N100, RAM 8GB, 256GB SSD, 2x Altoparlanti, WiFi 6, Windows 11 Home, Tastiera + Mouse Wireless - Cloud Grey",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Lenovo IdeaCentre Computer desktop All-In-One, Display 27\" FHD, Intel Core Ultra 5 226V, 512GB SSD, RAM 16GB, Altoparlanti Harman, WiFi 6, Windows 11 H, Tastiera + Mouse Wireless",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Betashop PC Fisso Completo - Computer Desktop i7-4790 • RAM 32GB • SSD 1TB (512 SSD + 512HDD) • Grafica Integrata HD 430 • Wi-Fi • Masterizzatore DVD • HDMI • USB 3.0 • Windows 11 ",
         "merchant": "",
@@ -1078,13 +1071,6 @@
       },
       {
         "title": "Gigabyte GS25F14 Monitor Gaming FHD da 25” - 1920 x 1080, 144Hz, 1ms, 300 cd/m², Display HDR 10, HDMI 2.0, DisplayPort 1.2",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Monitor Smart MSI Modern MD272UPSW 27\" 4K UHD Google TV | IPS, Dolby Audio, Display Wireless, Multi Control, Wi-Fi 5, Bluetooth 5.0, HDMI 2.0b, DP 1.4a, Type-C 65 W PD, KVM",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -2048,6 +2034,13 @@
     ],
     "aspirapolvere-senza-fili-in-offerta": [
       {
+        "title": "Aspirapolvere Senza Fili, 55KPA/650W/70Mins Scopa Elettrica Senza Fili, Autoportante Anti-groviglio/OLED Schermo/1,8L Cup Aspirapolvere senza fili potente, Adatto per Tappeti/Pavim",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "coovy SU7 Ultra Aspirapolvere senza Fili 650W/55000Pa/80Min Scopa Elettrica | Potente, Sta in Piedi da Solo, LED Touchscreen, Spazzola Anti Groviglio, per Tappeti Pavimento Peli An",
         "merchant": "amazon",
         "ean": "",
@@ -2572,27 +2565,6 @@
     ],
     "friggitrici-ad-aria-offerte-confronto": [
       {
-        "title": "Melchioni Family | Friggitrice ad Aria Emma 5L, 8 Programmi, Display Touch, 1500W, Temperatura 80-200°C, Antiaderente, Compatta e Controllo Visivo",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Cecotec Friggitrice ad Aria calda 5.5 L Cecofry Full InoxBlack Pro 5500, 1700 W, Compatta e Digitale, Friggitrice dietetica in Acciaio inox, senza Olio, Tecnologia PerfectCook, Ter",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Cecotec Friggitrice Ad Aria da 8L Cecofry Supreme 8000. 1800 W, Pannello Touch, 30º-200 ºC, 10 Modalità Preimpostate, Preriscaldamento, Avviso, Finiture In Acciaio Inossidabile",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Cecotec Friggitrice ad Aria 9 Litri - Air Fryer Cecofry Dual 9000. 2850W, Dietetica e Digitale, Pannello Tattile, Divisibile in 2, Temperatura Doppia e Regolabile, 6 Modalità, Tecn",
         "merchant": "amazon",
         "ean": "8435771907081",
@@ -2699,6 +2671,34 @@
       }
     ],
     "migliori-moda": [
+      {
+        "title": "Saucony Jazz Original Vintage, Sneaker Uomo, Black Silver White, 42 EU",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Saucony Jazz Original Vintage, Sneaker Donna, Bianco Oro, 39 EU",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Saucony Jazz Original Vintage, Sneaker Donna, Bianco Rosa, 39 EU",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Skechers Donna Go Walk Joy scarpe da ginnastica, Taupe Textile/Trim, 37 EU",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
@@ -2880,37 +2880,30 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "Vintage 1981 45 Compleanno Regalo 45 Anni Uomo Donna Maglietta",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Corno Rosso Sciò Italiano Napoletano Buona Fortuna Simbolo Divertente Maglietta",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Magliette Divertenti Scritte Ironiche - Essere Normale Maglietta",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "CustomSolo Maglietta Personalizzata con Foto e Testo, Unisex Doppia Faccia T-Shirt Personalizzata per Uomo e Donna, Maglia Personalizzata per Regali, Compleanni, Famiglia, Logo Azi",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
       }
     ],
     "migliori-sneakers": [
+      {
+        "title": "Saucony Jazz Original Vintage, Sneaker Uomo, Black Silver White, 42 EU",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Saucony Jazz Original Vintage, Sneaker Donna, Bianco Oro, 39 EU",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Saucony Jazz Original Vintage, Sneaker Donna, Bianco Rosa, 39 EU",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
@@ -3097,27 +3090,6 @@
         "title": "Banlieue The Runner Uomo Sneakers Bianco Taglia 40.5 Scamosciato",
         "merchant": "footlocker",
         "ean": "7435111560557",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Banlieue The Runner Uomo Sneakers Bianco Taglia 41 Scamosciato",
-        "merchant": "footlocker",
-        "ean": "7435115916954",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Banlieue The Runner Uomo Sneakers Bianco Taglia 42 Scamosciato",
-        "merchant": "footlocker",
-        "ean": "7435107961986",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Banlieue The Runner Uomo Sneakers Bianco Taglia 42.5 Scamosciato",
-        "merchant": "footlocker",
-        "ean": "7435108526559",
         "mpn": "",
         "status": "da_verificare"
       }
