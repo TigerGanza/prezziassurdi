@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-17T08:01:20+01:00",
+  "generated_at": "2026-11-17T09:26:21+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -388,13 +388,6 @@
     ],
     "tv-in-offerta": [
       {
-        "title": "Xiaomi TV 43 pollici 2026, HD Smart TV Fire TV Dolby Audio L43MB-FAVEU | Triple Tuner DVB-C/S/S2/T/T2,HDR10, MEMC, Alexa Voice Control, 2GB+32GB, Compatible with Apple AirPlay",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Xiaomi TV F Pro 32 2025, 32 pollici (81 cm), QLED, Smart TV, Fire TV, Triple Tuner DVB-C/S/S2/T/T2,Dolby Audio, DTS Virtual:X, DTS-HD, Controllo Vocale Alexa, Compatibile con Apple",
         "merchant": "amazon",
         "ean": "6941948706361",
@@ -454,6 +447,13 @@
         "title": "LG NANO AI UHD 43 Pollici, Serie NU8E 2026 Smart TV 4K - 43NU8E0B3LA | Processore con Nano Detail Enhancer, AI Chatbot, AI Concierge, HDR10 Pro, Filmmaker Mode, Design Linear Flow,",
         "merchant": "amazon",
         "ean": "8806096877395",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Xiaomi TV 43 pollici 2026, HD Smart TV Fire TV Dolby Audio L43MB-FAVEU | Triple Tuner DVB-C/S/S2/T/T2,HDR10, MEMC, Alexa Voice Control, 2GB+32GB, Compatible with Apple AirPlay",
+        "merchant": "amazon",
+        "ean": "6941948710467",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -935,7 +935,21 @@
     ],
     "migliori-tablet": [
       {
-        "title": "Apple iPad Air 11'' (M4): display Liquid Retina, 128 GB, fotocamera frontale e posteriore da 12MP, Wi-Fi 7 con chip Apple N1 – Galassia",
+        "title": "Samsung Galaxy Tab A11+, Wi-Fi, 8GB RAM, 256GB | Tablet Android, 11\" 90Hz Dispaly, Silver [Versione italiana]",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Tablet 10 Pollici Android 15 con Tastiera- 36GB RAM+ 256GB ROM(1TB TF), Octa-Core | WiFi 6 | 8000mAh | 1280 * 800 | 8MP+5MP | Widevine L1 | Bluetooth 5.0, Tablet in Offerta con Mou",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "DOOGEETab U11 Pro Android 16 Tablet 11 Pollici, 30GB RAM+256GB ROM (2TB TF), Unisoc T7200 Octa Core Tablet PC, 8580mAh, 90 Hz Display, 13MP+5MP, WIFI 5 /Widevine L1/ GPS/Face ID/OT",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -943,13 +957,6 @@
       },
       {
         "title": "Tablet Android da 11 Pollici, Octa-Core, 24GB(4+20) RAM+128GB Memoria, Batteria 8200mAh, Widevine L1, Espandibile fino a 1TB, Doppia Fotocamera, Android Tablet per Studio, Lavoro e",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Samsung Galaxy Tab A11+, Wi-Fi, 8GB RAM, 256GB",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -1069,20 +1076,6 @@
       }
     ],
     "migliori-monitor": [
-      {
-        "title": "MSI MAG 274QF X24 Monitor Gaming 27\" WQHD – 2560x1440 Rapid IPS, 240Hz | 0,5ms, HDR Ready - AMD FreeSync Premium, Eye Care, AI Vision, HDMI 2.0b, DP 1.4a, Supporto Inclinabile, VES",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "ASUS TUF GAMING VG27UQ1A, Monitor Gaming da 27\" 4K HDR, Nero | (3840x2160), 1ms Response Time, 160Hz, AMD FreeSync Premium, Compatibile con NVIDIA G-SYNC, 95% DCI-P3",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Xiaomi Monitor G27i",
         "merchant": "",
@@ -1545,14 +1538,14 @@
     ],
     "migliori-soundbar": [
       {
-        "title": "Samsung Soundbar HW-B66CF/ZF Serie B, 4 Speaker, Wireless, Dolby 5.1ch, Audio a 3.1 Canali, DTS 5.1ch, Surround Sound Expansion, Voice Enhance Mode, Black, 2025",
-        "merchant": "",
+        "title": "TCL S55HE Soundbar 2.1, 220W, Dolby Atmos, DTS Virtual:X, subwoofer wireless, Bluetooth 5.3, HDMI eARC, USB, ottico, montaggio a parete, telecomando incluso",
+        "merchant": "amazon",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "TCL S55HE Soundbar 2.1, 220W, Dolby Atmos, DTS Virtual:X, subwoofer wireless, Bluetooth 5.3, HDMI eARC, USB, ottico, montaggio a parete, telecomando incluso",
+        "title": "Samsung Soundbar HW-B66CF/ZF Serie B, 4 Speaker, Wireless, Dolby 5.1ch, Audio a 3.1 Canali, DTS 5.1ch, Surround Sound Expansion, Voice Enhance Mode, Black, 2025",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -1696,13 +1689,6 @@
       {
         "title": "JBL Live LIVE 770NC WHT Cuffie circum-aurali wireless con cancellazione del rumore adattiva",
         "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Sony WF-C710N Auricolari Wireless con Cancellazione del Rumore | Auricolari In-Ear, Qualità delle Chiamate con IA, Multipoint, IPX4, Fino a 40 h di Autonomia, iOS e Android, Nero",
-        "merchant": "amazon",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
@@ -2693,6 +2679,27 @@
     ],
     "migliori-moda": [
       {
+        "title": "Bosch Professional Sistema 12V Trapano Avvitatore Con Percussione GSB 12V-15, Incl. Batteria 2x2.0 Ah + Caricabatterie, 2x Set Di Trapani, 1x Set Di Punte, In Borsa, Amazon Exclusi",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "EASTPAK THE ONE Borsa a Tracolla, 2.5 L - Black (Nero)",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Desigual borsa a tracolla Half Logo Venecia 4.0 Crossbody Bag Black nero",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "New Balance Fresh Foam Trainer Donna - Sneakers Grigio - Taglia 40 - Rete/Sintetico",
         "merchant": "footlocker",
         "ean": "",
@@ -2876,27 +2883,6 @@
       },
       {
         "title": "Magliette Manica Corta Divertenti Ansia A Livello Agonistico Maglietta",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Magliette Divertenti Scritte Ironiche - Essere Normale Maglietta",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "CustomSolo Maglietta Personalizzata con Foto e Testo, Unisex Doppia Faccia T-Shirt Personalizzata per Uomo e Donna, Maglia Personalizzata per Regali, Compleanni, Famiglia, Logo Azi",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "WORLD SELL T-Shirt Uomo/Donna Personalizzata Fronte e Retro – 100% Cotone – Made in Italy – Maglietta Personalizzabile con Testo, Logo o Immagine (IT, Testo, M, Regular, Regular, B",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -3124,13 +3110,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Tineco Floor ONE S7 Stretch Steam Lavapavimenti a Vapore Senza Fili | 160℃ HyperSteam, Design 180° a posizione piatta, Sistema di autopulizia FlashDry, Autonomia ultra lunga",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Tineco Floor ONE S7 Stretch Ultra Lavapavimenti aspirapolvere senza fili | Fino a 50 minuti di autonomia, MHCBS, FlashDry",
         "merchant": "amazon",
         "ean": "6932485005857",
@@ -3141,6 +3120,13 @@
         "title": "Tineco Floor ONE Switch S7 Stretch 5 in 1Aspirapolvere Lavapavimenti | ZeroTangle, Passaggio facile con il motore SwitchPro per la pulizia di tutta la casa",
         "merchant": "amazon",
         "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Tineco Floor ONE S7 Stretch Steam Lavapavimenti a Vapore Senza Fili | 160℃ HyperSteam, Design 180° a posizione piatta, Sistema di autopulizia FlashDry, Autonomia ultra lunga",
+        "merchant": "amazon",
+        "ean": "6971745581182",
         "mpn": "",
         "status": "da_verificare"
       },
