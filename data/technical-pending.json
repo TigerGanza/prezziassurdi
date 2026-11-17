@@ -1,17 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-11-17T09:26:21+01:00",
+  "generated_at": "2026-11-17T10:51:21+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
     "smartphone-in-offerta": [
-      {
-        "title": "Apple iPhone 15, 128GB, Nero (Ricondizionato)",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Motorola moto g06 (4/256GB, Fotocamera 50MP+flicker cam, selfie 8MP, Display HD+ 6.88\", MediaTek Helio G81 Extreme, 5200mAh, Android 15), Arabesque",
         "merchant": "amazon",
@@ -212,6 +205,13 @@
         "title": "Xiaomi POCO M8 Pro 5G, Smartphone 12+512GB, Argento, Snapdragon® 7s Gen 4 | Display AMOLED CrystalRes 6,83\" 1.5K, Fotocamera 50MP Light Fusion 800 con OIS, IP68, Garanzia 2 anni",
         "merchant": "amazon",
         "ean": "6932554481179",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Xiaomi POCO M8 Pro 5G, Smartphone 12+512GB, Nero, Snapdragon® 7s Gen 4 | Display AMOLED CrystalRes 6,83\" 1.5K, Fotocamera 50MP Light Fusion 800 con OIS, IP68, Garanzia 2 anni",
+        "merchant": "amazon",
+        "ean": "6932554481117",
         "mpn": "",
         "status": "da_verificare"
       }
@@ -686,8 +686,8 @@
     ],
     "migliori-notebook": [
       {
-        "title": "LENOVO IdeaPad Slim 3 NOTEBOOK, 15,3 \", processore AMD Ryzen 5 125, Radeon™ Onboard Graphics, RAM 8 GB, 512 GB SSD, Grey, Windows 11 Home",
-        "merchant": "mediaworld",
+        "title": "Lenovo IdeaPad Slim 3 Notebook 15\" IPS, AMD Ryzen 5 40, RAM 8GB, 512GB SSD, Windows 11 Home, WiFi 6, Laptop per Casa, Ufficio, Studio, Multitasking, Uso Quotidiano - Caricatore non",
+        "merchant": "amazon",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
@@ -1687,13 +1687,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "JBL Live LIVE 770NC WHT Cuffie circum-aurali wireless con cancellazione del rumore adattiva",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Soundcore P31i di Anker Cuffie Bluetooth con Cancellazione Adattiva Rumore | Audio Hi-Res, Auricolari con Funzione di Traduzione, 50 ore di Autonomia, Cancellazione Adattiva, IPX5,",
         "merchant": "amazon",
         "ean": "0194644247409",
@@ -1834,6 +1827,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "JBL Live LIVE 770NC WHT Cuffie circum aurali wireless con cancellazione del rumore adattiva",
+        "merchant": "unieuro",
+        "ean": "1200130004599",
+        "mpn": "JBLLIVE770NCWHT",
+        "status": "da_verificare"
+      },
+      {
         "title": "Beats by Dr. Dre Beats Studio Buds + Auricolare True Wireless Stereo (TWS) In ear Musica e Chiamate Bluetooth Nero, Oro",
         "merchant": "unieuro",
         "ean": "0194253563662",
@@ -1856,6 +1856,13 @@
       }
     ],
     "migliori-robot-aspirapolvere": [
+      {
+        "title": "ECOVACS T50 PRO OMNI Gen3 Robot Aspirapolvere Lavapavimenti 25000 Pa | AIVI 3D 3.0, Lavaggio a 75 °C, ZeroTangle Generation 3.0 Tecnologia Anti-ingombramento, Ricarica Automatica, ",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Lefant M210 PRO OMNI Robot Aspirapolvere Lavapavimenti con Rullo 20.000Pa",
         "merchant": "",
@@ -1902,13 +1909,6 @@
         "title": "Lefant M1 Robot Aspirapolvere Lavapavimenti con Mappatura 3 in 1, 5500 Pa | Ultrasottile 32cm, 200min, Navigazione Laser dToF, Controllo APP/Alexa, per Peli di Animali e Pavimenti ",
         "merchant": "amazon",
         "ean": "0787480986122",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "ECOVACS T50 PRO OMNI Gen3 Robot Aspirapolvere Lavapavimenti 25000 Pa | AIVI 3D 3.0, Lavaggio a 75 °C, ZeroTangle Generation 3.0 Tecnologia Anti-ingombramento, Ricarica Automatica, ",
-        "merchant": "amazon",
-        "ean": "6979463770598",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -2558,27 +2558,6 @@
     ],
     "friggitrici-ad-aria-offerte-confronto": [
       {
-        "title": "Cosori Friggitrice ad Aria Turbo Blaze 6 Litri, DC Motore, 9 Funzioni 1725W | Rivestimento Ceramico No PFAS, 30-230℃, 5 Velocità della Ventola Automatica, Usa Fino al 95% di Olio i",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Cecotec Friggitrice ad Aria Cecofry Fantastik Window 4000. Air Fryer Air Fryer. 1400 W, Capacità 4 L, 9 Menu, Controllo Tattile, Tecnologia Perfectcoo, Tempo Regolabile 80-200ºc, 0",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Cosori Friggitrice ad Aria Doppio Cestello 8,5 Litri, Con Finestra, Oro | 8 Funzioni Preimpostate, Sync e Match, 35-230°C, 1750W, 71% di Risparmio Energetico, Ricette Online, CAF-R",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Cecotec Friggitrice ad Aria 8 Litri - Air Fryer Cecofry&Grill Duoheat 8000. 2200W, Doppia Resistenza, Dietetica e Digitale, Finestra, Temperatura Regolabile 80-200°C, 8 Menu",
         "merchant": "amazon",
         "ean": "8435771915895",
@@ -2589,6 +2568,13 @@
         "title": "Melchioni Family | MATILDE Friggitrice ad Aria 8L 2200W di Potenza, Cestello Removibile con Maniglia, Griglia Separagrassi, Timer 60 Min, Cottura Light con -80% di Grassi",
         "merchant": "amazon",
         "ean": "8006012378269",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Cosori Friggitrice ad Aria Doppio Cestello 8,5 Litri, Con Finestra, Oro | 8 Funzioni Preimpostate, Sync e Match, 35-230°C, 1750W, 71% di Risparmio Energetico, Ricette Online, CAF-R",
+        "merchant": "amazon",
+        "ean": "0810123674619",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -2695,13 +2681,6 @@
       {
         "title": "Desigual borsa a tracolla Half Logo Venecia 4.0 Crossbody Bag Black nero",
         "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "New Balance Fresh Foam Trainer Donna - Sneakers Grigio - Taglia 40 - Rete/Sintetico",
-        "merchant": "footlocker",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
@@ -2887,16 +2866,16 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      }
-    ],
-    "migliori-sneakers": [
+      },
       {
-        "title": "New Balance Fresh Foam Trainer Donna - Sneakers Grigio - Taglia 40 - Rete/Sintetico",
-        "merchant": "footlocker",
+        "title": "Magliette Divertenti Scritte Ironiche - Essere Normale Maglietta",
+        "merchant": "amazon",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      },
+      }
+    ],
+    "migliori-sneakers": [
       {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
@@ -3099,16 +3078,16 @@
         "ean": "7435108526559",
         "mpn": "",
         "status": "da_verificare"
+      },
+      {
+        "title": "Banlieue The Runner Uomo Sneakers Bianco Taglia 43 Scamosciato",
+        "merchant": "footlocker",
+        "ean": "7435112660690",
+        "mpn": "",
+        "status": "da_verificare"
       }
     ],
     "lavapavimenti-elettriche": [
-      {
-        "title": "Bosch Scopa elettrica lavapavimenti 2in1 Unlimited 7 ProHygienic Aqua Bianco",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Tineco Floor ONE S7 Stretch Ultra Lavapavimenti aspirapolvere senza fili | Fino a 50 minuti di autonomia, MHCBS, FlashDry",
         "merchant": "amazon",
@@ -3268,6 +3247,13 @@
         "merchant": "unieuro",
         "ean": "0011120271638",
         "mpn": "3639N",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Bosch Scopa elettrica lavapavimenti 2in1 Unlimited 7 ProHygienic Aqua Bianco",
+        "merchant": "unieuro",
+        "ean": "4242005436989",
+        "mpn": "BCS71HYG4",
         "status": "da_verificare"
       }
     ]
