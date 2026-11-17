@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-17T16:56:20+01:00",
+  "generated_at": "2026-11-17T18:21:21+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -388,6 +388,20 @@
     ],
     "tv-in-offerta": [
       {
+        "title": "TCL 55V6D – Smart TV 4K HDR10+ da 55\" con Fire TV e Dolby Atmos | DTS:X, Game Master, Motion Clarity, Apple AirPlay 2, Press & Ask Alexa",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "TCL 50Q6C – Smart TV QD‑Mini LED 4K HDR10+ da 50\", Google TV | Dolby Vision IQ & Atmos, 144Hz Motion Clarity Pro, Game Master, Apple AirPlay 2, Voice Control",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Xiaomi TV F Pro 32 2025, 32 pollici (81 cm), QLED, Smart TV, Fire TV, Triple Tuner DVB-C/S/S2/T/T2,Dolby Audio, DTS Virtual:X, DTS-HD, Controllo Vocale Alexa, Compatibile con Apple",
         "merchant": "amazon",
         "ean": "6941948706361",
@@ -514,13 +528,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "TCL 55V6D – Smart TV 4K HDR10+ da 55\" con Fire TV e Dolby Atmos | DTS:X, Game Master, Motion Clarity, Apple AirPlay 2, Press & Ask Alexa",
-        "merchant": "amazon",
-        "ean": "5901292530297",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Hisense Smart TV QLED 55\" 4K 55E7DS | Audio Dolby Atmos, VIDAA OS, Dolby Vision IQ, HDR 10+, Game Mode, Bluetooth, Wifi, Alexa, AirPlay2, lativù 4K, 2026 Model",
         "merchant": "amazon",
         "ean": "6942351431345",
@@ -589,20 +596,13 @@
         "ean": "5901292525972",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "Hisense Smart TV QLED 65\" 4K 65E7DS | Audio Dolby Atmos, VIDAA OS, Dolby Vision IQ, HDR 10+, Game Mode, Bluetooth, Wifi, Alexa, AirPlay2, lativù 4K, 2026 Model",
-        "merchant": "amazon",
-        "ean": "6942351431703",
-        "mpn": "",
-        "status": "da_verificare"
       }
     ],
     "offerte-tv-55-65-pollici": [
       {
         "title": "TCL 55V6D – Smart TV 4K HDR10+ da 55\" con Fire TV e Dolby Atmos | DTS:X, Game Master, Motion Clarity, Apple AirPlay 2, Press & Ask Alexa",
         "merchant": "amazon",
-        "ean": "5901292530297",
+        "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -1260,20 +1260,6 @@
       }
     ],
     "migliori-smartwatch": [
-      {
-        "title": "Apple Watch SE 3 GPS 40 mm Smartwatch | Cassa in alluminio galassia con Cinturino Sport sabbia - S/M",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Apple Watch SE 3 GPS 44 mm Smartwatch | Cassa in alluminio mezzanotte con Cinturino Sport blu marino - S/M",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "2026 Smartwatch Uomo GPS,2.06\" HD AMOLED Orologio Smartwatch con Chiamate",
         "merchant": "",
@@ -2721,13 +2707,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Tommy Hilfiger Bambina Felpa con Scollo Rotondo, Blu (Dark Night Navy), 5 Anni",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
         "ean": "",
@@ -2904,6 +2883,13 @@
       },
       {
         "title": "Magliette Manica Corta Divertenti Ansia A Livello Agonistico Maglietta",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Magliette Divertenti Scritte Ironiche - Essere Normale Maglietta",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
