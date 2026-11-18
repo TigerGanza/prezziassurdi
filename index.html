@@ -2538,7 +2538,7 @@ html.pa-live-search-active #offerte,html.pa-live-search-active #seasonBox{displa
           <a href="/categorie/smartphone/">📱 Smartphone</a>
           <a href="/categorie/tv-audio/">📺 TV &amp; Audio</a>
           <a href="/guide/migliori-notebook/">💻 Notebook</a>
-          <a href="/categorie/informatica/">🖥️ Informatica</a>
+          
           <a href="/categorie/casa/">🏠 Casa</a>
           <a href="/categorie/cucina/">🍳 Cucina</a>
           <a href="/guide/migliori-lavatrici/">🧺 Elettrodomestici</a>
@@ -2567,7 +2567,7 @@ html.pa-live-search-active #offerte,html.pa-live-search-active #seasonBox{displa
         <a href="/guide/">Guide</a>
         <a href="/categorie/smartphone/">Smartphone</a>
         <a href="/categorie/tv-audio/">TV &amp; Audio</a>
-        <a href="/categorie/informatica/">Informatica</a>
+        
         <a href="/categorie/casa/">Casa</a>
         <a href="/categorie/gaming/">Gaming</a>
         <a href="/categorie/moda/">Moda</a>
@@ -26534,7 +26534,7 @@ html.pa-live-search-active #offerte,html.pa-live-search-active #seasonBox{displa
 
   <nav class="seo-cat-nav" aria-label="Categorie principali">
     <a href="/categorie/smartphone/">Smartphone</a>
-    <a href="/categorie/informatica/">Informatica</a>
+    
     <a href="/categorie/tv-audio/">TV & Audio</a>
     <a href="/categorie/gaming/">Gaming</a>
     <a href="/categorie/casa/">Casa</a>
@@ -27937,5 +27937,29 @@ document.addEventListener('input',function(e){var el=e.target;if(!el||!el.matche
 })();
 </script>
 <!-- PA_GA4_CONSENT_V1_END -->
+<script id="pa-category-navigation-v1">
+(()=>{
+ const retired=v=>String(v||'').toLowerCase().replace(/[^a-z]/g,'')==='informatica';
+ let pending=false;
+ function cleanControls(){
+  pending=false;
+  document.querySelectorAll('a[href*="/categorie/informatica"]').forEach(link=>{
+   try{const url=new URL(link.href,location.href);if(url.origin===location.origin&&url.pathname.replace(/\/$/,'')==='/categorie/informatica')link.remove();}catch{}
+  });
+  document.querySelectorAll('[data-pa-home-category] option,button.chip').forEach(node=>{
+   if(!retired(node.value)&&!retired(node.textContent))return;
+   const select=node.closest('select'),selected=Boolean(select&&node.selected);
+   node.remove();
+   if(selected){select.value='all';select.dispatchEvent(new Event('change',{bubbles:true}));}
+  });
+ }
+ function start(){
+  cleanControls();
+  new MutationObserver(()=>{if(!pending){pending=true;queueMicrotask(cleanControls);}})
+   .observe(document.body,{childList:true,subtree:true});
+ }
+ if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',start,{once:true});else start();
+})();
+</script>
 </body>
 </html>
