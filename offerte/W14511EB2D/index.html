@@ -1,2 +1,18 @@
-<!doctype html><html lang='it'><head><meta charset='utf-8'><meta name='viewport' content='width=device-width,initial-scale=1'><meta name='robots' content='noindex,follow'><title>Offerta ritirata | Prezzi Assurdi</title><style>body{margin:0;background:#111827;color:#fff;font:18px system-ui}main{max-width:760px;margin:12vh auto;padding:28px}a{color:#ffe000}</style></head><body><main><p>PREZZI ASSURDI</p><h1>Offerta ritirata</h1><p>Il link del negozio non apre la scheda del prodotto. Il prezzo pubblicato non è verificato.</p><p>Questa proposta è stata esclusa dalle offerte e dai confronti finché i dati non saranno chiariti.</p><p><a href='https://prezziassurdi.com/'>Torna alla ricerca di prodotti</a></p><p><a href='https://prezziassurdi.com/trasparenza/'>Come selezioniamo le offerte</a></p></main><footer class="pa-privacy-footer" style="padding:16px;text-align:center"><a class="pa-privacy-link" href="/privacy/">Privacy e cookie</a></footer>
+<!doctype html><html lang='it'><head>
+<!-- PA_NO_ALIEXPRESS_HTML_V1 -->
+<script>/* PA_NO_ALIEXPRESS_CLIENT_V1 */
+window.PAWithoutAli = (()=>{
+  const store=v=>['x','ali','aliexpress','aliexpressit','aliexpressitalia'].includes(String(v||'').toLowerCase().replace(/[^a-z0-9]/g,''));
+  const url=v=>{try{const u=new URL(String(v||''),location.href),h=u.hostname.toLowerCase();return /(^|\.)aliexpress\.(com|ru|us)$/.test(h)||((h==='awin1.com'||h.endsWith('.awin1.com'))&&['m','awinmid','mid'].some(k=>u.searchParams.get(k)==='12251'));}catch{return false;}};
+  const maps=new Set(['stores','store_status','merchant_counts','logos','attempts','best_by_store','store_summaries','by_store','plans']);
+  const walk=(v,k='')=>{
+    if(Array.isArray(v))return v.filter(x=>!(k==='o'&&Array.isArray(x)&&store(x[0]))).map(x=>walk(x,k)).filter(x=>x!==null);
+    if(!v||typeof v!=='object')return v;
+    if(['merchant','source_merchant','merchant_name','store','_store','store_code'].some(k=>store(v[k]))||['url','product_url','affiliate_url','aw_deep_link'].some(k=>url(v[k]))||['merchant_id','advertiser_id'].some(k=>String(v[k]||'')==='12251'))return null;
+    const out={};for(const [key,x]of Object.entries(v)){if(key==='aliexpress'||maps.has(k)&&store(key))continue;const y=walk(x,key);if(y!==null)out[key]=y;}
+    for(const key of ['offers','offer_details','o'])if(Array.isArray(v[key])&&v[key].length&&!out[key]?.length)return null;
+    return out;
+  };return v=>walk(v);
+})();</script>
+<meta charset='utf-8'><meta name='viewport' content='width=device-width,initial-scale=1'><meta name='robots' content='noindex,follow'><title>Offerta ritirata | Prezzi Assurdi</title><style>body{margin:0;background:#111827;color:#fff;font:18px system-ui}main{max-width:760px;margin:12vh auto;padding:28px}a{color:#ffe000}</style></head><body><main><p>PREZZI ASSURDI</p><h1>Offerta ritirata</h1><p>Il link del negozio non apre la scheda del prodotto. Il prezzo pubblicato non è verificato.</p><p>Questa proposta è stata esclusa dalle offerte e dai confronti finché i dati non saranno chiariti.</p><p><a href='https://prezziassurdi.com/'>Torna alla ricerca di prodotti</a></p><p><a href='https://prezziassurdi.com/trasparenza/'>Come selezioniamo le offerte</a></p></main><footer class="pa-privacy-footer" style="padding:16px;text-align:center"><a class="pa-privacy-link" href="/privacy/">Privacy e cookie</a></footer>
 </body></html>

@@ -1,6 +1,22 @@
 <!doctype html>
 <html lang="it">
 <head>
+<!-- PA_NO_ALIEXPRESS_HTML_V1 -->
+<script>/* PA_NO_ALIEXPRESS_CLIENT_V1 */
+window.PAWithoutAli = (()=>{
+  const store=v=>['x','ali','aliexpress','aliexpressit','aliexpressitalia'].includes(String(v||'').toLowerCase().replace(/[^a-z0-9]/g,''));
+  const url=v=>{try{const u=new URL(String(v||''),location.href),h=u.hostname.toLowerCase();return /(^|\.)aliexpress\.(com|ru|us)$/.test(h)||((h==='awin1.com'||h.endsWith('.awin1.com'))&&['m','awinmid','mid'].some(k=>u.searchParams.get(k)==='12251'));}catch{return false;}};
+  const maps=new Set(['stores','store_status','merchant_counts','logos','attempts','best_by_store','store_summaries','by_store','plans']);
+  const walk=(v,k='')=>{
+    if(Array.isArray(v))return v.filter(x=>!(k==='o'&&Array.isArray(x)&&store(x[0]))).map(x=>walk(x,k)).filter(x=>x!==null);
+    if(!v||typeof v!=='object')return v;
+    if(['merchant','source_merchant','merchant_name','store','_store','store_code'].some(k=>store(v[k]))||['url','product_url','affiliate_url','aw_deep_link'].some(k=>url(v[k]))||['merchant_id','advertiser_id'].some(k=>String(v[k]||'')==='12251'))return null;
+    const out={};for(const [key,x]of Object.entries(v)){if(key==='aliexpress'||maps.has(k)&&store(key))continue;const y=walk(x,key);if(y!==null)out[key]=y;}
+    for(const key of ['offers','offer_details','o'])if(Array.isArray(v[key])&&v[key].length&&!out[key]?.length)return null;
+    return out;
+  };return v=>walk(v);
+})();</script>
+
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="robots" content="index,follow">
@@ -45,7 +61,7 @@
 <p>Informative dei fornitori: <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement">GitHub</a>, <a href="https://www.cloudflare.com/privacypolicy/">Cloudflare</a>, <a href="https://policies.google.com/privacy?hl=it">Google</a>. Alcuni fornitori possono trattare informazioni anche fuori dallo Spazio economico europeo secondo gli strumenti e le garanzie applicabili ai propri servizi. Le specifiche condizioni dei rispettivi trattamenti sono illustrate nelle informative e nei documenti contrattuali disponibili presso i fornitori.</p>
 
 <h2>6. Affiliazioni e link verso negozi esterni</h2>
-<p>Prezzi Assurdi partecipa al Programma Affiliazione Amazon e utilizza collegamenti affiliati Awin, anche per offerte relative a Unieuro, MediaWorld, ManoMano e AliExpress. In qualità di Affiliato Amazon ricevo un guadagno dagli acquisti idonei. Alcuni acquisti effettuati dopo un clic sui link possono generare commissioni anche attraverso altre reti di affiliazione.</p>
+<p>Prezzi Assurdi partecipa al Programma Affiliazione Amazon e utilizza collegamenti affiliati Awin, anche per offerte relative a Unieuro, MediaWorld, ManoMano. In qualità di Affiliato Amazon ricevo un guadagno dagli acquisti idonei. Alcuni acquisti effettuati dopo un clic sui link possono generare commissioni anche attraverso altre reti di affiliazione.</p>
 <p>Quando segui un collegamento esterno, il browser può passare attraverso domini di reindirizzamento e misurazione delle affiliazioni. Awin descrive l'utilizzo di cookie e altre tecnologie per attribuire le transazioni tra publisher e inserzionisti. I siti di destinazione e i partner applicano le proprie informative privacy e cookie; consulta ad esempio l'<a href="https://www.awin.com/it/privacy">informativa Awin</a>. Il consenso alle statistiche GA4 di Prezzi Assurdi non corrisponde a un consenso per tutti i trattamenti eventualmente svolti da siti terzi dopo il clic.</p>
 
 <h2>7. Conservazione e criteri</h2>

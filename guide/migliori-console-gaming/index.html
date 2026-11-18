@@ -1,6 +1,22 @@
 <!doctype html>
 <html lang="it">
 <head>
+<!-- PA_NO_ALIEXPRESS_HTML_V1 -->
+<script>/* PA_NO_ALIEXPRESS_CLIENT_V1 */
+window.PAWithoutAli = (()=>{
+  const store=v=>['x','ali','aliexpress','aliexpressit','aliexpressitalia'].includes(String(v||'').toLowerCase().replace(/[^a-z0-9]/g,''));
+  const url=v=>{try{const u=new URL(String(v||''),location.href),h=u.hostname.toLowerCase();return /(^|\.)aliexpress\.(com|ru|us)$/.test(h)||((h==='awin1.com'||h.endsWith('.awin1.com'))&&['m','awinmid','mid'].some(k=>u.searchParams.get(k)==='12251'));}catch{return false;}};
+  const maps=new Set(['stores','store_status','merchant_counts','logos','attempts','best_by_store','store_summaries','by_store','plans']);
+  const walk=(v,k='')=>{
+    if(Array.isArray(v))return v.filter(x=>!(k==='o'&&Array.isArray(x)&&store(x[0]))).map(x=>walk(x,k)).filter(x=>x!==null);
+    if(!v||typeof v!=='object')return v;
+    if(['merchant','source_merchant','merchant_name','store','_store','store_code'].some(k=>store(v[k]))||['url','product_url','affiliate_url','aw_deep_link'].some(k=>url(v[k]))||['merchant_id','advertiser_id'].some(k=>String(v[k]||'')==='12251'))return null;
+    const out={};for(const [key,x]of Object.entries(v)){if(key==='aliexpress'||maps.has(k)&&store(key))continue;const y=walk(x,key);if(y!==null)out[key]=y;}
+    for(const key of ['offers','offer_details','o'])if(Array.isArray(v[key])&&v[key].length&&!out[key]?.length)return null;
+    return out;
+  };return v=>walk(v);
+})();</script>
+
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Migliori console gaming: quale scegliere | Prezzi Assurdi</title>
@@ -404,7 +420,7 @@ img { image-rendering:auto; }
 <div><strong>🔎 Non trovi la console giusta?</strong><span>Controlla subito su Amazon prezzo, disponibilità e alternative aggiornate. Il collegamento mantiene l'affiliazione di Prezzi Assurdi.</span></div>
 <a href="https://www.amazon.it/s?k=console+gaming&amp;tag=prezziassur00-21" target="_blank" rel="nofollow sponsored noopener">🔎 CERCA ORA SU AMAZON →</a>
 </div>
-<section class="card pa-guide-live" data-guide-live><h2>Confronta i prezzi con i filtri scelti</h2><p>La ricerca usa modelli con caratteristiche documentate. Ogni negozio può avere una copertura diversa e le specifiche mancanti restano da verificare.</p><button type="button" class="cta" data-guide-live-start>CONFRONTA NEI 5 NEGOZI</button><p role="status" aria-live="polite" data-guide-live-status></p><div class="grid" data-guide-live-results></div></section><style>.pa-guide-live{margin:18px 0;padding:18px;min-width:0}.pa-guide-live h2{font-size:23px}.pa-guide-live p{font-size:13px;line-height:1.6}.pa-guide-live article{min-width:0;padding:14px;border:1px solid #d5dbe4;border-radius:14px;background:#fff;color:#172033}.pa-guide-live h3{overflow-wrap:anywhere}.pa-guide-live a{display:block;padding:10px;margin:8px 0;border-radius:9px;background:#ffbf62;color:#191919;font-weight:800}.pa-guide-live small{display:block;line-height:1.5}.pa-guide-live button{min-height:44px;border:0;cursor:pointer}</style><script>window.PA_GUIDE_LIVE_CONFIG={"slug": "migliori-console-gaming", "endpoint": "https://api.prezziassurdi.com/guide-search"};</script><script>(()=>{
+<section class="card pa-guide-live" data-guide-live><h2>Confronta i prezzi con i filtri scelti</h2><p>La ricerca usa modelli con caratteristiche documentate. Ogni negozio può avere una copertura diversa e le specifiche mancanti restano da verificare.</p><button type="button" class="cta" data-guide-live-start>CONFRONTA NEI più NEGOZI</button><p role="status" aria-live="polite" data-guide-live-status></p><div class="grid" data-guide-live-results></div></section><style>.pa-guide-live{margin:18px 0;padding:18px;min-width:0}.pa-guide-live h2{font-size:23px}.pa-guide-live p{font-size:13px;line-height:1.6}.pa-guide-live article{min-width:0;padding:14px;border:1px solid #d5dbe4;border-radius:14px;background:#fff;color:#172033}.pa-guide-live h3{overflow-wrap:anywhere}.pa-guide-live a{display:block;padding:10px;margin:8px 0;border-radius:9px;background:#ffbf62;color:#191919;font-weight:800}.pa-guide-live small{display:block;line-height:1.5}.pa-guide-live button{min-height:44px;border:0;cursor:pointer}</style><script>window.PA_GUIDE_LIVE_CONFIG={"slug": "migliori-console-gaming", "endpoint": "https://api.prezziassurdi.com/guide-search"};</script><script>(()=>{
 'use strict';const config=window.PA_GUIDE_LIVE_CONFIG,box=document.querySelector('[data-guide-live]');if(!config||!box)return;
 const button=box.querySelector('[data-guide-live-start]'),status=box.querySelector('[data-guide-live-status]'),output=box.querySelector('[data-guide-live-results]');
 const names={a:'Amazon',u:'Unieuro',w:'MediaWorld',m:'ManoMano',x:'AliExpress'};let controller,serial=0;
@@ -419,7 +435,7 @@ async function run(){
  try{
   const u=new URL(config.endpoint);u.searchParams.set('guide',config.slug);u.searchParams.set('filters',filters.join(','));
   const response=await fetch(u.href,{signal:ctl.signal,cache:'no-store',headers:{Accept:'application/json'}});
-  if(!response.ok)throw Error('http');const data=await response.json();if(id!==serial)return;
+  if(!response.ok)throw Error('http');const data=window.PAWithoutAli(await response.json());if(id!==serial)return;
   if(!data.ok){status.textContent=data.note||'Ricerca temporaneamente non disponibile.';return;}
   const checked=Array.isArray(data.models_checked)?data.models_checked:[];
   status.textContent=(data.state==='partial'?'Verifica incompleta. ':'')+(data.results.length?data.results.length+' configurazioni trovate. ':'Nessun prezzo recente corrisponde ai filtri tra i modelli controllati. ')+(checked.length?'Modelli controllati: '+checked.join(', ')+'. ':'Nessun modello dispone di dati tecnici sufficienti per questa combinazione. ')+(data.coverage_limited?'Il confronto non copre tutti i modelli compatibili.':'');
@@ -636,10 +652,10 @@ document.addEventListener('click',event=>{if(event.target.closest('[data-guide-f
 <div class="store-chips"><span class="store-chip amazon"><img class="merchant-logo compact" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" loading="lazy" referrerpolicy="no-referrer"></span></div>
 <a class="cta" href="https://www.amazon.it/dp/B0CLT54ZNZ?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI SU AMAZON →</a>
 </article></div></div>
-<p class="note"><strong>17 prodotti pertinenti</strong> · Pagina aggiornata il 18/11/2026 alle 20:29. I prodotti del catalogo guide mostrano anche l'orario dell'ultimo controllo prezzo. Prezzi e disponibilità possono cambiare nei negozi.</p>
+<p class="note"><strong>17 prodotti pertinenti</strong> · Pagina aggiornata il 18/11/2026 alle 22:03. I prodotti del catalogo guide mostrano anche l'orario dell'ultimo controllo prezzo. Prezzi e disponibilità possono cambiare nei negozi.</p>
 </div>
 </div>
-<div class="guide-updated">Aggiornato il 18/11/2026 alle 20:29</div>
+<div class="guide-updated">Aggiornato il 18/11/2026 alle 22:03</div>
 <div class="guide-layout">
 <details class="card guide-info-card" style="--theme-bg-1:#0c1514;--theme-bg-2:#124a43;--theme-bg-3:#081113;--theme-glow-1:rgba(16,185,129,.24);--theme-glow-2:rgba(99,102,241,.16);--theme-accent:#9bf2d3;--theme-accent-soft:rgba(155,242,211,.14);--theme-image:url(&quot;https://prezziassurdi.com/assets/guide-console.png&quot;)"><summary>Come scegliere ▾</summary><p class="guide-copy">La console si sceglie soprattutto in base ai giochi, agli amici con cui si gioca, ai servizi online e al tipo di utilizzo. Prestazioni, memoria, lettore disco, portabilità e costo degli abbonamenti completano il confronto.</p></details>
 <details class="card guide-info-card" style="--theme-bg-1:#0c1514;--theme-bg-2:#124a43;--theme-bg-3:#081113;--theme-glow-1:rgba(16,185,129,.24);--theme-glow-2:rgba(99,102,241,.16);--theme-accent:#9bf2d3;--theme-accent-soft:rgba(155,242,211,.14);--theme-image:url(&quot;https://prezziassurdi.com/assets/guide-console.png&quot;)"><summary>Cosa controllare ▾</summary><ul class="checklist"><li>Controlla catalogo giochi, esclusive e compatibilità con i titoli che già possiedi.</li><li>Valuta memoria interna ed eventuale costo dell&#x27;espansione.</li><li>Per il salotto considera 4K, 120 Hz, VRR e compatibilità del televisore.</li><li>Per una portatile contano autonomia, peso, display e facilità di sospensione/ripresa.</li></ul></details>
@@ -655,7 +671,7 @@ document.addEventListener('click',event=>{if(event.target.closest('[data-guide-f
 <h2 class="section-title">Altre guide</h2>
 <nav class="categories" aria-label="Altre guide"><a href="https://prezziassurdi.com/guide/smartphone-in-offerta/">📱 Migliori SMARTPHONE</a><a href="https://prezziassurdi.com/guide/tv-in-offerta/">📺 Migliori TV</a><a href="https://prezziassurdi.com/guide/migliori-notebook/">💻 Migliori NOTEBOOK</a><a href="https://prezziassurdi.com/guide/migliori-pc-desktop/">🖥️ Migliori PC DESKTOP</a><a href="https://prezziassurdi.com/guide/migliori-tablet/">📲 Migliori TABLET</a><a href="https://prezziassurdi.com/guide/migliori-monitor/">🖥️ Migliori MONITOR</a><a href="https://prezziassurdi.com/guide/migliori-smartwatch/">⌚ Migliori SMARTWATCH</a><a href="https://prezziassurdi.com/guide/migliori-soundbar/">🔊 Migliori SOUNDBAR</a><a href="https://prezziassurdi.com/guide/migliori-robot-aspirapolvere/">🤖 Migliori ROBOT ASPIRAPOLVERE</a><a href="https://prezziassurdi.com/guide/migliori-lavatrici/">🧺 Migliori LAVATRICI</a><a href="https://prezziassurdi.com/guide/migliori-frigoriferi/">❄️ Migliori FRIGORIFERI</a><a href="https://prezziassurdi.com/guide/migliori-moda/">🛍️ Migliori MODA</a><a href="https://prezziassurdi.com/guide/cuffie-bluetooth-in-offerta/">🎧 Migliori CUFFIE BLUETOOTH</a><a href="https://prezziassurdi.com/guide/friggitrici-ad-aria-offerte-confronto/">🍟 Migliori FRIGGITRICI AD ARIA</a><a href="https://prezziassurdi.com/guide/aspirapolvere-senza-fili-in-offerta/">🧹 Migliori ASPIRAPOLVERE SENZA FILI</a><a href="https://prezziassurdi.com/guide/integratori-guida-acquisto/">💊 Migliori INTEGRATORI</a><a href="https://prezziassurdi.com/guide/lavapavimenti-elettriche/">🧽 Lavapavimenti elettriche: guida e confronto prezzi</a></nav>
 </div></main>
-<footer>PREZZI ASSURDI — Alcuni link sono affiliati. In qualità di Affiliato Amazon ricevo un guadagno dagli acquisti idonei; per Unieuro, MediaWorld, ManoMano, AliExpress e Foot Locker utilizziamo link tracciati del network Awin. Prezzi e disponibilità possono cambiare sui siti dei negozi.<br><a href="https://prezziassurdi.com/chi-siamo/">Chi siamo</a> · <a href="https://prezziassurdi.com/trasparenza/">Trasparenza e criteri</a> · <a href="https://prezziassurdi.com/stato-offerte/">Controlli offerte</a></footer>
+<footer>PREZZI ASSURDI — Alcuni link sono affiliati. In qualità di Affiliato Amazon ricevo un guadagno dagli acquisti idonei; per Unieuro, MediaWorld, ManoMano e Foot Locker utilizziamo link tracciati del network Awin. Prezzi e disponibilità possono cambiare sui siti dei negozi.<br><a href="https://prezziassurdi.com/chi-siamo/">Chi siamo</a> · <a href="https://prezziassurdi.com/trasparenza/">Trasparenza e criteri</a> · <a href="https://prezziassurdi.com/stato-offerte/">Controlli offerte</a></footer>
 <script>
 (function(){
   function initGuideFilters(){
