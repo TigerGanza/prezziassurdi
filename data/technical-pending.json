@@ -1,17 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-11-18T09:56:22+01:00",
+  "generated_at": "2026-11-18T11:21:21+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
     "smartphone-in-offerta": [
-      {
-        "title": "Samsung Galaxy A18, 128GB, Black [Versione Italiana] | 3 anni di Garanzia, Design Sottile, Cerchia e Cerca, Tripla Camera 50MP, 5.000 mAh, IP64, RAM 4GB + 4GB Ram Plus",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Motorola moto g06 (4/256GB, Fotocamera 50MP+flicker cam, selfie 8MP, Display HD+ 6.88\", MediaTek Helio G81 Extreme, 5200mAh, Android 15), Arabesque",
         "merchant": "amazon",
@@ -214,16 +207,16 @@
         "ean": "8806099422684",
         "mpn": "",
         "status": "da_verificare"
+      },
+      {
+        "title": "Xiaomi POCO M8 Pro 5G, Smartphone 12+512GB, Argento, Snapdragon® 7s Gen 4 | Display AMOLED CrystalRes 6,83\" 1.5K, Fotocamera 50MP Light Fusion 800 con OIS, IP68, Garanzia 2 anni",
+        "merchant": "amazon",
+        "ean": "6932554481179",
+        "mpn": "",
+        "status": "da_verificare"
       }
     ],
     "migliori-smartphone-sotto-300-euro": [
-      {
-        "title": "Samsung Galaxy A18, 128GB, Black [Versione Italiana] | 3 anni di Garanzia, Design Sottile, Cerchia e Cerca, Tripla Camera 50MP, 5.000 mAh, IP64, RAM 4GB + 4GB Ram Plus",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Motorola moto g06 (4/256GB, Fotocamera 50MP+flicker cam, selfie 8MP, Display HD+ 6.88\", MediaTek Helio G81 Extreme, 5200mAh, Android 15), Arabesque",
         "merchant": "amazon",
@@ -396,20 +389,6 @@
     "tv-in-offerta": [
       {
         "title": "Hisense Smart TV QLED 55\" 4K 55E7DS | Audio Dolby Atmos, VIDAA OS, Dolby Vision IQ, HDR 10+, Game Mode, Bluetooth, Wifi, Alexa, AirPlay2, lativù 4K, 2026 Model",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Samsung 48\" QE48S92HAEXZT OLED 4K LaserSlim Design Smart TV Vision AI 2026 | NQ4 AI Gen 3 Processor, HDR 10+, Motion Xcelerator 165Hz, Dolby Atmos, Gaming Hub, Ultimate Gaming Pack",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Samsung 43\" QE43QN72HAUXZT NeoQLED 4K QD Mini LED Smart TV Vision AI 2026 | NQ4 AI Processor, Real QLED 100% Colour Volume, HDR 10+, Motion Xcelerator 50Hz, AirSlim Design, Alexa B",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -601,6 +580,20 @@
         "title": "XIAOMI TV F 65 2025, 65 pollici (165 cm),4K UHD,Smart TV, Fire TV,Triple Tuner DVB-C/S/S2/T/T2, HDR10,MEMC, Modalità Game Boost 120Hz, Controllo Vocale Alexa, 2GB+32GB, Compatibile",
         "merchant": "amazon",
         "ean": "6941948706705",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Hisense Smart TV 65\" UHD 4K 65E6ST | DTS Virtual X, VIDAA OS con 1000+ APP, HDR 10+, Game Mode Plus, Bluetooth, Wifi, Alexa, AirPlay2, lativù 4K, 2026 Model",
+        "merchant": "amazon",
+        "ean": "6942351430805",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Samsung 75\" UE75U7000HUXZT Crystal UHD 4K 50Hz, Smart TV Vision AI 2026 | Crystal 4K Processor, HDR10+, PurColor, Motion Xcelerator, Dynamic Sound Pack, Gaming Hub, pacchetto intra",
+        "merchant": "amazon",
+        "ean": "8806099323882",
         "mpn": "",
         "status": "da_verificare"
       }
@@ -1373,13 +1366,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Amazfit ACTIVE EDGE 3,35 cm (1.32'') TFT 46 mm Digitale 360 x 360 Pixel Touch screen Nero GPS (satellitare)",
-        "merchant": "unieuro",
-        "ean": "6972596107231",
-        "mpn": "AMFW2212EU2N",
-        "status": "da_verificare"
-      },
-      {
         "title": "Samsung Watch Athleisure Band Cream",
         "merchant": "unieuro",
         "ean": "8806095625218",
@@ -1680,37 +1666,16 @@
         "status": "da_verificare"
       },
       {
-        "title": "Nothing Ear (3) Auricolari Wireless In-Ear, Cancellazione Adattiva del Rumore, Audio Hi-Res compatibile con LDAC, Super Mic, IP54, Ricarica Rapida, 22 Ore di Autonomia, Android e i",
+        "title": "Soundcore P31i di Anker Cuffie Bluetooth con Cancellazione Adattiva Rumore | Audio Hi-Res, Auricolari con Funzione di Traduzione, 50 ore di Autonomia, Cancellazione Adattiva, IPX5,",
         "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "CMF by Nothing Buds Pro 2 Auricolari wireless con Audio HiFi, Cancellazione attiva del rumore ibrida da 50dB, 6 microfoni HD e Effetto audio spaziale, 2025 - Grigio Chiaro",
-        "merchant": "amazon",
-        "ean": "",
+        "ean": "0194644247409",
         "mpn": "",
         "status": "da_verificare"
       },
       {
         "title": "CMF Headphone Pro - Cuffie Bluetooth Over-Ear Wireless – Fino a 100h di Batteria, Hi-Res con LDAC, Audio Spaziale, con Cancellazione Attiva del Rumore – Grigio Scuro",
         "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Beats by Dr. Dre Beats Studio Buds + Auricolare True Wireless Stereo (TWS) In-ear Musica e Chiamate Bluetooth Nero, Oro",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Soundcore P31i di Anker Cuffie Bluetooth con Cancellazione Adattiva Rumore | Audio Hi-Res, Auricolari con Funzione di Traduzione, 50 ore di Autonomia, Cancellazione Adattiva, IPX5,",
-        "merchant": "amazon",
-        "ean": "0194644247409",
+        "ean": "6974434226722",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -2018,13 +1983,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Roborock Qrevo Curv Robot Aspirapolvere e Lavapavimenti, Aspirazione 18.500 Pa, Lavaggio a 75 °C e Asciugatura del Panno, Spazzola Laterale, Doppio Panno",
-        "merchant": "unieuro",
-        "ean": "6970995789942",
-        "mpn": "MEARR0006",
-        "status": "da_verificare"
-      },
-      {
         "title": "Eureka J12 Ultra Robot Aspirapolvere e Lavapavimenti con Stazione, Evitamento Ostacoli AI 3D, Autosvuotante per 75 Giorni, Autopulente, Autoasciugante de",
         "merchant": "unieuro",
         "ean": "6956079725570",
@@ -2136,13 +2094,6 @@
         "merchant": "unieuro",
         "ean": "8806096154229",
         "mpn": "A9T-PRIME1C.DCBQ",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Rowenta X Force Flex 14.60, Aspirapolvere Senza Fili, Fino a 200 Air Watt, Tecnologia Flex, Kit Animal Care, RH99A9",
-        "merchant": "unieuro",
-        "ean": "3221616060449",
-        "mpn": "RH99A9",
         "status": "da_verificare"
       }
     ],
@@ -2700,20 +2651,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Tommy Hilfiger Uomo Portafoglio Eton Trifold con Scomparto Monete, Nero (Black), Taglia Unica",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Columbia Watertight II Jacket, Giacca Impermeabile Bambino, Mountain Blue, taglia XXS",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
         "ean": "",
@@ -2883,6 +2820,20 @@
       },
       {
         "title": "Hitmars Scarpe Running Uomo Scarpe da Corsa Trekking Ginnastica EU42 | Scarpe Sportive Uomo Trail Running Fitness Sneakers Casual Leggere Antiscivolo Traspiranti",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Hitmars Scarpe Running Uomo Sneakers Sport Corsa Trail Leggere Traspiranti | Hitmars Scarpe Sport Uomo Sneakers Uomo Scarpe da corsa Sportive Ginnastica Passeggio Antiscivolo Chius",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Magliette Manica Corta Divertenti Ansia A Livello Agonistico Maglietta",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
