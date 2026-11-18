@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-18T12:51:21+01:00",
+  "generated_at": "2026-11-18T14:21:22+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -388,6 +388,13 @@
     ],
     "tv-in-offerta": [
       {
+        "title": "Hisense Smart TV MiniLED 144Hz 85\" 4K 85E8S | Dolby Atmos 2.1 By Devialet, Dolby Vision IQ, HDR10+, VIDAA OS, Alexa, lativù 4K, Wifi, BT, Airplay2, 2026 Model",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Hisense Smart TV QLED 55\" 4K 55E7DS | Audio Dolby Atmos, VIDAA OS, Dolby Vision IQ, HDR 10+, Game Mode, Bluetooth, Wifi, Alexa, AirPlay2, lativù 4K, 2026 Model",
         "merchant": "amazon",
         "ean": "",
@@ -589,13 +596,6 @@
         "ean": "6942351430805",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "Samsung 75\" UE75U7000HUXZT Crystal UHD 4K 50Hz, Smart TV Vision AI 2026 | Crystal 4K Processor, HDR10+, PurColor, Motion Xcelerator, Dynamic Sound Pack, Gaming Hub, pacchetto intra",
-        "merchant": "amazon",
-        "ean": "8806099323882",
-        "mpn": "",
-        "status": "da_verificare"
       }
     ],
     "offerte-tv-55-65-pollici": [
@@ -782,6 +782,20 @@
         "ean": "0821844603741",
         "mpn": "",
         "status": "da_verificare"
+      },
+      {
+        "title": "Laptop con 16GB RAM e 1TB/2TB SSD Schermo HD da 15,6 Pollici, Intel Core I9 9900, Windows 11 Professional, Computer Portatile",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Laptop da Ufficio e Studio FUCHU Windows 11 Intel Atom X7 A3950 180 ° Laptop pieghevole sottile da gaming 12GB RAM 512GB 1TB SSD 1920*1080",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
       }
     ],
     "migliori-pc-desktop": [
@@ -931,9 +945,44 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
+      },
+      {
+        "title": "Mini PC Soyo M5 con Processore AMD Ryzen 3 4300U, Memoria LPDDR4 16GB, ROM 512GB, Sistema Operativo Windows 11 Pro, Computer Desktop",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Mini PC Gaming Desktop Windows 11 Pro Intel Core I9 10980HK Mini PC 16GB DDR4 1TB SSD Computer per Gamer Dual WIFI 6 BT5.2 4K HD",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Mini PC Soyo M5, computer compatto con processore AMD Ryzen 3 4300U, memoria LPDDR4 da 16 GB, ROM da 512 GB, sistema operativo Windows 11 Pro, computer desktop.",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "SOYO Y5, mini PC con processore Intel Core i7 8650U (cache ad alta velocità da 8 MB, fino a 4,20 GHz), 16 GB di RAM DDR4, SSD M.2 da 512 GB, supporto per tre display 4K, Wi Fi 5/BT",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
       }
     ],
     "migliori-tablet": [
+      {
+        "title": "Lenovo Tab One, Tablet Display 8.7\" HD (1340x800), RAM 4GB, Memoria 64GB, WiFi 5, Processore MediaTek Helio G85, Tablet Android 14, Clear Case incluso - Luna Grey",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Tablet Android da 11 Pollici, Octa-Core, 24GB(4+20) RAM+128GB Memoria, Batteria 8200mAh, Widevine L1, Espandibile fino a 1TB, Doppia Fotocamera, Android Tablet per Studio, Lavoro e",
         "merchant": "",
@@ -1055,6 +1104,13 @@
       }
     ],
     "migliori-monitor": [
+      {
+        "title": "AOC Gaming Monitor Q27G4ZDRAD 27 pollici 2560x1440, WQHD, 240Hz, QD-OLED Panel, 0.03ms GtG, USB Hub Height Adjustment, (HDMI2x 2.1 DP 1x 1.4) HDR10, G-Sync Compatible, Nero",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Xiaomi Monitor G27i",
         "merchant": "",
@@ -1217,6 +1273,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "Videocitofono a 4 fili per casa, sistema di intercomunicazione TMEZON con monitor e telecamera da 7 pollici, sblocco remoto, visione notturna, pulsante touch",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "OMEN by HP Monitor da gaming 27'' FHD 240 Hz – OMEN 27s",
         "merchant": "unieuro",
         "ean": "0197029615466",
@@ -1348,6 +1411,27 @@
         "title": "Garmin Instinct 3, 45mm Smartwatch GPS Ultra Resistente, Black | Display AMOLED 1,2\", Lunetta in metallo, GPS Multi-band, 10ATM, Torcia LED, 90+ App per lo Sport, Pay, Autonomia 18",
         "merchant": "amazon",
         "ean": "0753759339487",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Versione Globale OnePlus Watch Lite Smartwatch Display AMOLED da 1,46'' Fino a 10 giorni di autonomia GPS Dual Band Chiamate Bluetooth",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Nuovo Smartwatch OnePlus Watch 2 con Schermo AMOLED da 1,43'', Batteria da 500mAh, Oltre 100 Modalità Sportive, 2GB+32GB, 46mm, WiFi, GPS, IP68, Google Pay",
+        "merchant": "aliexpress",
+        "ean": "6921815626626",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Smartwatch per Bambini Blackview Z30, Videochiamata 4G, Orologio Tracker Impermeabile per Bambini, Schermo HD da 1,75 Pollici, GPS, LBS, WIFI",
+        "merchant": "aliexpress",
+        "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -1615,6 +1699,34 @@
         "status": "da_verificare"
       },
       {
+        "title": "ULTIMEA Soundbar Compatta 120W 2.1ch per TV, Subwoofer Integrato da 3 Pollici, Bluetooth ® Soundbar TV 5.4, Altoparlanti con Controllo App, OPT/AUX/Montaggio a Parete",
+        "merchant": "aliexpress",
+        "ean": "6978897889548",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Ultimea 410W, soundbar con audio surround virtuale 7.1, ideale per smart TV, dotata di subwoofer da 6,5 pollici e 2 altoparlanti surround, controllabile tramite app.",
+        "merchant": "aliexpress",
+        "ean": "6978897889630",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "ULTIMEA Aura S4T 350W Sistema Soundbar 7.1ch con Subwoofer e 4 Altoparlanti Surround, Home Theater All in One per TV, Controllo tramite App",
+        "merchant": "aliexpress",
+        "ean": "6978897889586",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "ULTIMEA 470W Soundbar 9.1 canali Dolby Atmos staccabile con Subwoofer e Altoparlanti Surround, Sistema Audio Surround per TV, Luce RGB",
+        "merchant": "aliexpress",
+        "ean": "6977897234204",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Samsung Music Frame Speaker HW LS60D/ZF, Wireless Music Streaming, Dolby Atmos 3D, Frame Design con sfondo personalizzabile, Wide Sweet Spot, 2024",
         "merchant": "unieuro",
         "ean": "8806095465173",
@@ -1701,13 +1813,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Freedconn Auricolare Bluetooth per Moto Interfono 1000M Comunicatore Handsfree di Gruppo per 6 Motociclisti Impermeabile con Musica e Radio FM Tipo C",
-        "merchant": "aliexpress",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "【Stock UE】Interfono per casco moto Moman con telecamera 1080P, scheda da 32 GB, 120 ° Auricolare Wireless con AI e Controllo Vocale a Bocca Libera e Ampio Angolo di Visione",
         "merchant": "aliexpress",
         "ean": "",
@@ -1719,6 +1824,27 @@
         "merchant": "unieuro",
         "ean": "8020595642609",
         "mpn": "INMAXW",
+        "status": "da_verificare"
+      },
+      {
+        "title": "OneOdio SuperEQ T44 Cuffie Wireless Bluetooth 5.3 a Conduzione Aerea con Auricolari Sportivi e 4 Microfoni ENC Bass OWS",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "2PCS BF 88E Walkie Talkie BAOFENG PMR Radio bidirezionale 16CH 446.00625 446.19375MHz con auricolare con caricatore USB Spedito dalla Germania",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Picun F8 Pro ANC Cuffie wireless Monitoraggio della testa Audio spaziale 3D 52dB ANC HIFI Auricolare Bluetooth ENC HD Mic APP a bassa latenza",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
         "status": "da_verificare"
       },
       {
@@ -1983,6 +2109,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "(Nuovo 2026) Robot Aspirapolvere per Piscina Seauto Navigazione Intelligente AI, 360 ° ° Pulizia dalla punta del piede alla punta delle dita, 4 modalità di pulizia, per tutte le pi",
+        "merchant": "aliexpress",
+        "ean": "9247650746251",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Roborock Qrevo Curv Robot Aspirapolvere e Lavapavimenti, Aspirazione 18.500 Pa, Lavaggio a 75 °C e Asciugatura del Panno, Spazzola Laterale, Doppio Panno",
         "merchant": "unieuro",
         "ean": "6970995789942",
@@ -2093,6 +2226,20 @@
         "title": "ABIR G80 Pulitore per Tappeti Portatile, Macchina per Pulizia Spot 15000PA, Aspirabagnato per Casa con Funzione Autopulente: Divani, Tappeti, Interni Auto, Lavaggio Tessuti per Cuc",
         "merchant": "aliexpress",
         "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Aspirapolvere Senza Fili 60KPA, Aspirapolvere a Bastone Leggero con Spazzola LED, Rullo Anti Groviglio, Montaggio a Parete, per Pavimenti Duri",
+        "merchant": "aliexpress",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Aspirapolvere Senza Fili Tdyon, Potenza di Aspirazione 50000Pa, Motore da 500W con Display LED, 50 Minuti di Autonomia in Modalità Automatica e Spazzola Anti Groviglio per Tappeti ",
+        "merchant": "aliexpress",
+        "ean": "0669416793793",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -2651,20 +2798,6 @@
     ],
     "migliori-moda": [
       {
-        "title": "PUMA Sneakers Club II Era Unisex, Black-White-Gold, 42 EU",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Only ONPLOUNGE LS Hood Felpa, Felpa con Cappuccio, Nero, M",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
         "ean": "",
@@ -2859,16 +2992,23 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      }
-    ],
-    "migliori-sneakers": [
+      },
       {
-        "title": "PUMA Sneakers Club II Era Unisex, Black-White-Gold, 42 EU",
+        "title": "WORLD SELL T-Shirt Uomo/Donna Personalizzata Fronte e Retro – 100% Cotone – Made in Italy – Maglietta Personalizzabile con Testo, Logo o Immagine (IT, Testo, L, Regular, Regular, C",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
+      {
+        "title": "JOPHY & CO. T-Shirt Personalizzabile in Cotone, Maglietta Personalizzata con Stampa per Uomo e Donna, Idea Regalo Originale (IT, Testo, L, Regular, Regular, Nero)",
+        "merchant": "amazon",
+        "ean": "8054346377250",
+        "mpn": "",
+        "status": "da_verificare"
+      }
+    ],
+    "migliori-sneakers": [
       {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
@@ -3069,6 +3209,13 @@
         "title": "Banlieue The Runner Uomo Sneakers Bianco Taglia 41 Scamosciato",
         "merchant": "footlocker",
         "ean": "7435115916954",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Banlieue The Runner Uomo Sneakers Bianco Taglia 42 Scamosciato",
+        "merchant": "footlocker",
+        "ean": "7435107961986",
         "mpn": "",
         "status": "da_verificare"
       }
