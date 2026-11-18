@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-18T11:21:21+01:00",
+  "generated_at": "2026-11-18T12:51:21+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -935,13 +935,6 @@
     ],
     "migliori-tablet": [
       {
-        "title": "Tablet per bambini AMAZON KIDS TABLET 8 (modello 2026), 64 GB, 8\", 1 anno di Kids+ con video, app, giochi e audiolibri, custodia rigida sottile inclusa, Turchese",
-        "merchant": "mediaworld",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Tablet Android da 11 Pollici, Octa-Core, 24GB(4+20) RAM+128GB Memoria, Batteria 8200mAh, Widevine L1, Espandibile fino a 1TB, Doppia Fotocamera, Android Tablet per Studio, Lavoro e",
         "merchant": "",
         "ean": "",
@@ -1062,13 +1055,6 @@
       }
     ],
     "migliori-monitor": [
-      {
-        "title": "Samsung Monitor Gaming Odyssey G5 (S32CG554), Curvo (1000R), 32\", 2560x1440 (WQHD 2K), HDR10, VA, 165 Hz, 1 ms (MPRT), FreeSync, HDMI, Display Port, Ingresso Audio, Flicker Free, E",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Xiaomi Monitor G27i",
         "merchant": "",
@@ -1366,6 +1352,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "Amazfit ACTIVE EDGE 3,35 cm (1.32'') TFT 46 mm Digitale 360 x 360 Pixel Touch screen Nero GPS (satellitare)",
+        "merchant": "unieuro",
+        "ean": "6972596107231",
+        "mpn": "AMFW2212EU2N",
+        "status": "da_verificare"
+      },
+      {
         "title": "Samsung Watch Athleisure Band Cream",
         "merchant": "unieuro",
         "ean": "8806095625218",
@@ -1659,13 +1652,6 @@
     ],
     "cuffie-bluetooth-in-offerta": [
       {
-        "title": "Apple Beats Studio Pro Auricolare Con cavo e senza cavo A Padiglione Musica e Chiamate USB tipo-C Bluetooth Nero",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Soundcore P31i di Anker Cuffie Bluetooth con Cancellazione Adattiva Rumore | Audio Hi-Res, Auricolari con Funzione di Traduzione, 50 ore di Autonomia, Cancellazione Adattiva, IPX5,",
         "merchant": "amazon",
         "ean": "0194644247409",
@@ -1827,10 +1813,24 @@
         "status": "da_verificare"
       },
       {
+        "title": "Beats by Dr. Dre Beats Studio Buds + Auricolare True Wireless Stereo (TWS) In ear Musica e Chiamate Bluetooth Nero, Oro",
+        "merchant": "unieuro",
+        "ean": "0194253563662",
+        "mpn": "MNSMQLH3ZM/A",
+        "status": "da_verificare"
+      },
+      {
         "title": "Cellularline SEEK",
         "merchant": "unieuro",
         "ean": "8018080424007",
         "mpn": "BTSEEKTWSW",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Apple Beats Studio Pro Auricolare Con cavo e senza cavo A Padiglione Musica e Chiamate USB tipo C Bluetooth Nero",
+        "merchant": "unieuro",
+        "ean": "0194253715122",
+        "mpn": "MNSMQTP3ZM/A",
         "status": "da_verificare"
       }
     ],
@@ -1983,6 +1983,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "Roborock Qrevo Curv Robot Aspirapolvere e Lavapavimenti, Aspirazione 18.500 Pa, Lavaggio a 75 °C e Asciugatura del Panno, Spazzola Laterale, Doppio Panno",
+        "merchant": "unieuro",
+        "ean": "6970995789942",
+        "mpn": "MEARR0006",
+        "status": "da_verificare"
+      },
+      {
         "title": "Eureka J12 Ultra Robot Aspirapolvere e Lavapavimenti con Stazione, Evitamento Ostacoli AI 3D, Autosvuotante per 75 Giorni, Autopulente, Autoasciugante de",
         "merchant": "unieuro",
         "ean": "6956079725570",
@@ -2008,6 +2015,13 @@
         "merchant": "unieuro",
         "ean": "5061042263025",
         "mpn": "817185",
+        "status": "da_verificare"
+      },
+      {
+        "title": "iRobot Roomba Combo j5 Antracite",
+        "merchant": "unieuro",
+        "ean": "5060944997168",
+        "mpn": "817088",
         "status": "da_verificare"
       },
       {
@@ -2095,9 +2109,37 @@
         "ean": "8806096154229",
         "mpn": "A9T-PRIME1C.DCBQ",
         "status": "da_verificare"
+      },
+      {
+        "title": "Rowenta X Force Flex 14.60, Aspirapolvere Senza Fili, Fino a 200 Air Watt, Tecnologia Flex, Kit Animal Care, RH99A9",
+        "merchant": "unieuro",
+        "ean": "3221616060449",
+        "mpn": "RH99A9",
+        "status": "da_verificare"
       }
     ],
     "migliori-lavatrici": [
+      {
+        "title": "Haier X Serie 5 Lavatrice 9 Kg, 1400 Giri, Classe A-25%, Bianca | Vapore, Ciclo Refresh, Smart AI, Wi-Fi, App hOn, Libera Installazione, 72 dB, 85x60x55.9 cm, HW90-BP14357U-IT",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Haier X Serie 5 Lavatrice 12 Kg, 1400 Giri, Classe A-30%, Bianca | Vapore, Ciclo Refresh, Smart AI, Wi-Fi, App hOn, Libera Installazione, 60 Programmi, 85x60x66 cm, HW120-BP14357UI",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Haier I-Pro Serie 3 Lavatrice Slim 7 Kg, 1400 Giri, Classe A-10% [Classe di efficienza energetica A]",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Bosch WAN28229IT Serie 4 Lavatrice 9kg 1400 giri/min Bianco Classe A",
         "merchant": "",
@@ -2137,13 +2179,6 @@
         "title": "Indesit BWE 91296X WV IT - Lavatrice 9kg",
         "merchant": "",
         "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Haier X Serie 5 Lavatrice 9 Kg, 1400 Giri, Classe A-25%, Bianca | Vapore, Ciclo Refresh, Smart AI, Wi-Fi, App hOn, Libera Installazione, 72 dB, 85x60x55.9 cm, HW90-BP14357U-IT",
-        "merchant": "amazon",
-        "ean": "6921081514139",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -2292,20 +2327,6 @@
         "merchant": "unieuro",
         "ean": "8806084273680",
         "mpn": "D2R3S08NSWW.ABWQP",
-        "status": "da_verificare"
-      },
-      {
-        "title": "LG F4NX5009TKB Lavatrice Intelligente 9 kg Classe A 40% Bianoc/Nero",
-        "merchant": "unieuro",
-        "ean": "8806096639238",
-        "mpn": "F4NX5009TKBABWQPI",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Samsung Lavatrice AI Control Ecodosatore 11Kg WW11DG6B85LHU3",
-        "merchant": "unieuro",
-        "ean": "8806095539843",
-        "mpn": "WW11DG6B85LHU3",
         "status": "da_verificare"
       }
     ],
@@ -2644,13 +2665,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Tommy Hilfiger Uomo Portafoglio Johnson Mini Piccolo, Nero (Black), Taglia Unica",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
         "ean": "",
@@ -2834,6 +2848,13 @@
       },
       {
         "title": "Magliette Manica Corta Divertenti Ansia A Livello Agonistico Maglietta",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "CustomSolo Maglietta Personalizzata con Foto e Testo, Unisex Doppia Faccia T-Shirt Personalizzata per Uomo e Donna, Maglia Personalizzata per Regali, Compleanni, Famiglia, Logo Azi",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
