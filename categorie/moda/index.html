@@ -1,6 +1,22 @@
 <!doctype html>
 <html lang="it">
 <head>
+<!-- PA_NO_ALIEXPRESS_HTML_V1 -->
+<script>/* PA_NO_ALIEXPRESS_CLIENT_V1 */
+window.PAWithoutAli = (()=>{
+  const store=v=>['x','ali','aliexpress','aliexpressit','aliexpressitalia'].includes(String(v||'').toLowerCase().replace(/[^a-z0-9]/g,''));
+  const url=v=>{try{const u=new URL(String(v||''),location.href),h=u.hostname.toLowerCase();return /(^|\.)aliexpress\.(com|ru|us)$/.test(h)||((h==='awin1.com'||h.endsWith('.awin1.com'))&&['m','awinmid','mid'].some(k=>u.searchParams.get(k)==='12251'));}catch{return false;}};
+  const maps=new Set(['stores','store_status','merchant_counts','logos','attempts','best_by_store','store_summaries','by_store','plans']);
+  const walk=(v,k='')=>{
+    if(Array.isArray(v))return v.filter(x=>!(k==='o'&&Array.isArray(x)&&store(x[0]))).map(x=>walk(x,k)).filter(x=>x!==null);
+    if(!v||typeof v!=='object')return v;
+    if(['merchant','source_merchant','merchant_name','store','_store','store_code'].some(k=>store(v[k]))||['url','product_url','affiliate_url','aw_deep_link'].some(k=>url(v[k]))||['merchant_id','advertiser_id'].some(k=>String(v[k]||'')==='12251'))return null;
+    const out={};for(const [key,x]of Object.entries(v)){if(key==='aliexpress'||maps.has(k)&&store(key))continue;const y=walk(x,key);if(y!==null)out[key]=y;}
+    for(const key of ['offers','offer_details','o'])if(Array.isArray(v[key])&&v[key].length&&!out[key]?.length)return null;
+    return out;
+  };return v=>walk(v);
+})();</script>
+
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Moda in offerta | Prezzi Assurdi</title>
@@ -340,8 +356,27 @@ img { image-rendering:auto; }
 })();
 </script>
 <!-- /PA_STYLE_V1429 -->
+<style id="pa-category-desktop-images-v1">
+@media (min-width:981px){
+body[data-pa-category-page] .card .photo{
+ display:flex!important;align-items:center!important;justify-content:center!important;
+ min-width:0!important;min-height:0!important;box-sizing:border-box!important;flex-shrink:0!important;
+}
+body[data-pa-category-page] .card .photo>a{
+ display:flex!important;align-items:center!important;justify-content:center!important;
+ width:100%!important;height:100%!important;min-width:0!important;min-height:0!important;
+ max-width:100%!important;max-height:100%!important;box-sizing:border-box!important;
+}
+body[data-pa-category-page] .card .photo img{
+ display:block!important;width:100%!important;height:100%!important;
+ min-width:0!important;min-height:0!important;max-width:100%!important;max-height:100%!important;
+ object-fit:contain!important;object-position:center!important;box-sizing:border-box!important;
+ transform:none!important;margin:0!important;flex-shrink:1!important;
+}
+}
+</style>
 </head>
-<body>
+<body data-pa-category-page="true">
 <header><div class="wrap top">
 <a class="brand" href="https://prezziassurdi.com/"><img src="https://prezziassurdi.com/logo-prezzi-assurdi.png" alt="Prezzi Assurdi"><span>PREZZI ASSURDI</span></a>
 <nav class="page-nav" aria-label="Navigazione pagine"><a class="home" href="https://prezziassurdi.com/offerte/">Offerte per negozio</a><a class="home" href="https://prezziassurdi.com/">← Torna al motore di ricerca</a></nav>
@@ -386,346 +421,71 @@ img { image-rendering:auto; }
 <div class="price">1,00 €<span class="old">4,99 €</span></div><div class="discount">Sconto dichiarato: -80%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=43851137512&amp;a=3086723&amp;m=23410" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
 </article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/S81ade566e57b4518b3dc406f837fdd31y.jpg" alt="VEITHDIA Occhiali da sole da uomo modello pilota, alla moda, polarizzati" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=44927390268&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VEITHDIA Occhiali da sole da uomo modello pilota, alla moda, polarizzati</a></h3>
-<div class="price">9,15 €<span class="old">46,34 €</span></div><div class="discount">Sconto dichiarato: -80%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=44927390268&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/S81ade566e57b4518b3dc406f837fdd31y.jpg" alt="VEITHDIA Occhiali da sole da uomo modello pilota, alla moda, polarizzati" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=44927390266&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VEITHDIA Occhiali da sole da uomo modello pilota, alla moda, polarizzati</a></h3>
-<div class="price">9,15 €<span class="old">46,34 €</span></div><div class="discount">Sconto dichiarato: -80%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=44927390266&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/S81ade566e57b4518b3dc406f837fdd31y.jpg" alt="VEITHDIA Occhiali da sole da uomo modello pilota, alla moda, polarizzati" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=44927390269&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VEITHDIA Occhiali da sole da uomo modello pilota, alla moda, polarizzati</a></h3>
-<div class="price">11,11 €<span class="old">55,70 €</span></div><div class="discount">Sconto dichiarato: -80%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=44927390269&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/S81ade566e57b4518b3dc406f837fdd31y.jpg" alt="VEITHDIA Occhiali da sole da uomo modello pilota, alla moda, polarizzati" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=45294878430&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VEITHDIA Occhiali da sole da uomo modello pilota, alla moda, polarizzati</a></h3>
-<div class="price">11,11 €<span class="old">55,70 €</span></div><div class="discount">Sconto dichiarato: -80%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=45294878430&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/S81ade566e57b4518b3dc406f837fdd31y.jpg" alt="VEITHDIA Occhiali da sole da uomo modello pilota, alla moda, polarizzati" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=44927390267&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VEITHDIA Occhiali da sole da uomo modello pilota, alla moda, polarizzati</a></h3>
-<div class="price">11,11 €<span class="old">55,70 €</span></div><div class="discount">Sconto dichiarato: -80%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=44927390267&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/S55887c9ef85749e2a0cbcee07d487f460.jpg" alt="Zaino per gatti espandibile, zaino da viaggio per animali domestici traspirante con…" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46449646639&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Zaino per gatti espandibile, zaino da viaggio per animali domestici traspirante con…</a></h3>
-<div class="price">26,99 €<span class="old">128,54 €</span></div><div class="discount">Sconto dichiarato: -79%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46449646639&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/S55887c9ef85749e2a0cbcee07d487f460.jpg" alt="Zaino per gatti espandibile, zaino da viaggio per animali domestici traspirante con…" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46449646638&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Zaino per gatti espandibile, zaino da viaggio per animali domestici traspirante con…</a></h3>
-<div class="price">26,99 €<span class="old">128,54 €</span></div><div class="discount">Sconto dichiarato: -79%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46449646638&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/S55887c9ef85749e2a0cbcee07d487f460.jpg" alt="Zaino per gatti espandibile, zaino da viaggio per animali domestici traspirante con…" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46449646637&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Zaino per gatti espandibile, zaino da viaggio per animali domestici traspirante con…</a></h3>
-<div class="price">26,99 €<span class="old">128,54 €</span></div><div class="discount">Sconto dichiarato: -79%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46449646637&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/S55887c9ef85749e2a0cbcee07d487f460.jpg" alt="Zaino per gatti espandibile, zaino da viaggio per animali domestici traspirante con…" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46449646636&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Zaino per gatti espandibile, zaino da viaggio per animali domestici traspirante con…</a></h3>
-<div class="price">26,99 €<span class="old">128,54 €</span></div><div class="discount">Sconto dichiarato: -79%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46449646636&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/See5e6bff5a184bfc81424ee1e9aab590z.jpg" alt="Guanti in Nitrile Arancioni Resistenti 8 Mil" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46202152442&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Guanti in Nitrile Arancioni Resistenti 8 Mil</a></h3>
-<div class="price">16,49 €<span class="old">70,82 €</span></div><div class="discount">Sconto dichiarato: -77%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46202152442&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Sd46eb32313ee4be5b876f8ce073e6fe8e.jpg" alt="Guanti Tattici Invernali in Pelle Scamosciata per Uomo e Donna, Mezze Dita, Caldi" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46682613451&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Guanti Tattici Invernali in Pelle Scamosciata per Uomo e Donna, Mezze Dita, Caldi</a></h3>
-<div class="price">21,49 €<span class="old">93,43 €</span></div><div class="discount">Sconto dichiarato: -77%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46682613451&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Sd46eb32313ee4be5b876f8ce073e6fe8e.jpg" alt="Guanti Tattici Invernali in Pelle Scamosciata per Uomo e Donna, Mezze Dita, Caldi" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46682613450&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Guanti Tattici Invernali in Pelle Scamosciata per Uomo e Donna, Mezze Dita, Caldi</a></h3>
-<div class="price">21,49 €<span class="old">93,43 €</span></div><div class="discount">Sconto dichiarato: -77%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46682613450&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Sd46eb32313ee4be5b876f8ce073e6fe8e.jpg" alt="Guanti Tattici Invernali in Pelle Scamosciata per Uomo e Donna, Mezze Dita, Caldi" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46682613449&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Guanti Tattici Invernali in Pelle Scamosciata per Uomo e Donna, Mezze Dita, Caldi</a></h3>
-<div class="price">21,49 €<span class="old">93,43 €</span></div><div class="discount">Sconto dichiarato: -77%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46682613449&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Sff0724f235d54d568b42a0017df4d754N.png" alt="Carrello per la spesa a 2 ruote, borsa in tessuto PVC Oxford impermeabile con tessuto…" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46855719074&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Carrello per la spesa a 2 ruote, borsa in tessuto PVC Oxford impermeabile con tessuto…</a></h3>
-<div class="price">31,69 €<span class="old">137,96 €</span></div><div class="discount">Sconto dichiarato: -77%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46855719074&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Sd11c28b7f40d4a18963f10baf4f81153a.jpg" alt="Calzini in pile con fiocco, perfetti per l’autunno e l’inverno, morbidi e soffici" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46855713928&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Calzini in pile con fiocco, perfetti per l’autunno e l’inverno, morbidi e soffici</a></h3>
-<div class="price">36,69 €<span class="old">159,84 €</span></div><div class="discount">Sconto dichiarato: -77%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46855713928&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Sd11c28b7f40d4a18963f10baf4f81153a.jpg" alt="Calzini in pile con fiocco, perfetti per l’autunno e l’inverno, morbidi e soffici" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46855713923&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Calzini in pile con fiocco, perfetti per l’autunno e l’inverno, morbidi e soffici</a></h3>
-<div class="price">36,69 €<span class="old">159,84 €</span></div><div class="discount">Sconto dichiarato: -77%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46855713923&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Sd11c28b7f40d4a18963f10baf4f81153a.jpg" alt="Calzini in pile con fiocco, perfetti per l’autunno e l’inverno, morbidi e soffici" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46855713933&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Calzini in pile con fiocco, perfetti per l’autunno e l’inverno, morbidi e soffici</a></h3>
-<div class="price">36,79 €<span class="old">160,24 €</span></div><div class="discount">Sconto dichiarato: -77%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46855713933&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Sd11c28b7f40d4a18963f10baf4f81153a.jpg" alt="Calzini in pile con fiocco, perfetti per l’autunno e l’inverno, morbidi e soffici" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46855713932&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Calzini in pile con fiocco, perfetti per l’autunno e l’inverno, morbidi e soffici</a></h3>
-<div class="price">37,29 €<span class="old">162,24 €</span></div><div class="discount">Sconto dichiarato: -77%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46855713932&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Sd11c28b7f40d4a18963f10baf4f81153a.jpg" alt="Calzini in pile con fiocco, perfetti per l’autunno e l’inverno, morbidi e soffici" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46855713931&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Calzini in pile con fiocco, perfetti per l’autunno e l’inverno, morbidi e soffici</a></h3>
-<div class="price">37,29 €<span class="old">162,24 €</span></div><div class="discount">Sconto dichiarato: -77%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46855713931&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Sd11c28b7f40d4a18963f10baf4f81153a.jpg" alt="Calzini in pile con fiocco, perfetti per l’autunno e l’inverno, morbidi e soffici" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46855713921&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Calzini in pile con fiocco, perfetti per l’autunno e l’inverno, morbidi e soffici</a></h3>
-<div class="price">37,49 €<span class="old">163,04 €</span></div><div class="discount">Sconto dichiarato: -77%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46855713921&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Sd11c28b7f40d4a18963f10baf4f81153a.jpg" alt="Calzini in pile con fiocco, perfetti per l’autunno e l’inverno, morbidi e soffici" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46855713935&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Calzini in pile con fiocco, perfetti per l’autunno e l’inverno, morbidi e soffici</a></h3>
-<div class="price">37,79 €<span class="old">164,24 €</span></div><div class="discount">Sconto dichiarato: -77%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46855713935&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Sd11c28b7f40d4a18963f10baf4f81153a.jpg" alt="Calzini in pile con fiocco, perfetti per l’autunno e l’inverno, morbidi e soffici" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46855713930&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Calzini in pile con fiocco, perfetti per l’autunno e l’inverno, morbidi e soffici</a></h3>
-<div class="price">37,99 €<span class="old">165,04 €</span></div><div class="discount">Sconto dichiarato: -77%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46855713930&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Sd11c28b7f40d4a18963f10baf4f81153a.jpg" alt="Calzini in pile con fiocco, perfetti per l’autunno e l’inverno, morbidi e soffici" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46855713934&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Calzini in pile con fiocco, perfetti per l’autunno e l’inverno, morbidi e soffici</a></h3>
-<div class="price">38,09 €<span class="old">165,44 €</span></div><div class="discount">Sconto dichiarato: -77%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46855713934&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Sd11c28b7f40d4a18963f10baf4f81153a.jpg" alt="Calzini in pile con fiocco, perfetti per l’autunno e l’inverno, morbidi e soffici" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46855713922&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Calzini in pile con fiocco, perfetti per l’autunno e l’inverno, morbidi e soffici</a></h3>
-<div class="price">38,09 €<span class="old">165,44 €</span></div><div class="discount">Sconto dichiarato: -77%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46855713922&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Sbb7515cc4ecf40ef868b7c26a7f88b7bO.jpg" alt="IDOGEAR SPORTS Cintura Tattica a Sgancio Rapido con Regolazione Rapida" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46583648061&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">IDOGEAR SPORTS Cintura Tattica a Sgancio Rapido con Regolazione Rapida</a></h3>
-<div class="price">38,19 €<span class="old">163,36 €</span></div><div class="discount">Sconto dichiarato: -77%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46583648061&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Sbb7515cc4ecf40ef868b7c26a7f88b7bO.jpg" alt="IDOGEAR SPORTS Cintura Tattica a Sgancio Rapido con Regolazione Rapida" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46583648060&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">IDOGEAR SPORTS Cintura Tattica a Sgancio Rapido con Regolazione Rapida</a></h3>
-<div class="price">38,19 €<span class="old">163,31 €</span></div><div class="discount">Sconto dichiarato: -77%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46583648060&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Sbb7515cc4ecf40ef868b7c26a7f88b7bO.jpg" alt="IDOGEAR SPORTS Cintura Tattica a Sgancio Rapido con Regolazione Rapida" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46583648059&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">IDOGEAR SPORTS Cintura Tattica a Sgancio Rapido con Regolazione Rapida</a></h3>
-<div class="price">38,19 €<span class="old">163,36 €</span></div><div class="discount">Sconto dichiarato: -77%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46583648059&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Sbb7515cc4ecf40ef868b7c26a7f88b7bO.jpg" alt="IDOGEAR SPORTS Cintura Tattica a Sgancio Rapido con Regolazione Rapida" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46583648058&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">IDOGEAR SPORTS Cintura Tattica a Sgancio Rapido con Regolazione Rapida</a></h3>
-<div class="price">38,19 €<span class="old">163,36 €</span></div><div class="discount">Sconto dichiarato: -77%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46583648058&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Sbb7515cc4ecf40ef868b7c26a7f88b7bO.jpg" alt="IDOGEAR SPORTS Cintura Tattica a Sgancio Rapido con Regolazione Rapida" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46583648057&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">IDOGEAR SPORTS Cintura Tattica a Sgancio Rapido con Regolazione Rapida</a></h3>
-<div class="price">38,19 €<span class="old">163,36 €</span></div><div class="discount">Sconto dichiarato: -77%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46583648057&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Sbb7515cc4ecf40ef868b7c26a7f88b7bO.jpg" alt="IDOGEAR SPORTS Cintura Tattica a Sgancio Rapido con Regolazione Rapida" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46583648056&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">IDOGEAR SPORTS Cintura Tattica a Sgancio Rapido con Regolazione Rapida</a></h3>
-<div class="price">38,19 €<span class="old">163,36 €</span></div><div class="discount">Sconto dichiarato: -77%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46583648056&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Sbb7515cc4ecf40ef868b7c26a7f88b7bO.jpg" alt="IDOGEAR SPORTS Cintura Tattica a Sgancio Rapido con Regolazione Rapida" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46583648055&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">IDOGEAR SPORTS Cintura Tattica a Sgancio Rapido con Regolazione Rapida</a></h3>
-<div class="price">38,19 €<span class="old">163,31 €</span></div><div class="discount">Sconto dichiarato: -77%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46583648055&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Sbb7515cc4ecf40ef868b7c26a7f88b7bO.jpg" alt="IDOGEAR SPORTS Cintura Tattica a Sgancio Rapido con Regolazione Rapida" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46583648054&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">IDOGEAR SPORTS Cintura Tattica a Sgancio Rapido con Regolazione Rapida</a></h3>
-<div class="price">38,19 €<span class="old">163,31 €</span></div><div class="discount">Sconto dichiarato: -77%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46583648054&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Sbb7515cc4ecf40ef868b7c26a7f88b7bO.jpg" alt="IDOGEAR SPORTS Cintura Tattica a Sgancio Rapido con Regolazione Rapida" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46583648053&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">IDOGEAR SPORTS Cintura Tattica a Sgancio Rapido con Regolazione Rapida</a></h3>
-<div class="price">38,19 €<span class="old">163,36 €</span></div><div class="discount">Sconto dichiarato: -77%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46583648053&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Sbb7515cc4ecf40ef868b7c26a7f88b7bO.jpg" alt="IDOGEAR SPORTS Cintura Tattica a Sgancio Rapido con Regolazione Rapida" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46583648052&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">IDOGEAR SPORTS Cintura Tattica a Sgancio Rapido con Regolazione Rapida</a></h3>
-<div class="price">38,19 €<span class="old">163,36 €</span></div><div class="discount">Sconto dichiarato: -77%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46583648052&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Sbb7515cc4ecf40ef868b7c26a7f88b7bO.jpg" alt="IDOGEAR SPORTS Cintura Tattica a Sgancio Rapido con Regolazione Rapida" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46583648051&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">IDOGEAR SPORTS Cintura Tattica a Sgancio Rapido con Regolazione Rapida</a></h3>
-<div class="price">38,19 €<span class="old">163,36 €</span></div><div class="discount">Sconto dichiarato: -77%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46583648051&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Sbb7515cc4ecf40ef868b7c26a7f88b7bO.jpg" alt="IDOGEAR SPORTS Cintura Tattica a Sgancio Rapido con Regolazione Rapida" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46583648050&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">IDOGEAR SPORTS Cintura Tattica a Sgancio Rapido con Regolazione Rapida</a></h3>
-<div class="price">38,19 €<span class="old">163,36 €</span></div><div class="discount">Sconto dichiarato: -77%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46583648050&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Sbb7515cc4ecf40ef868b7c26a7f88b7bO.jpg" alt="IDOGEAR SPORTS Cintura Tattica a Sgancio Rapido con Regolazione Rapida" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46583648049&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">IDOGEAR SPORTS Cintura Tattica a Sgancio Rapido con Regolazione Rapida</a></h3>
-<div class="price">38,19 €<span class="old">163,36 €</span></div><div class="discount">Sconto dichiarato: -77%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46583648049&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Sd11c28b7f40d4a18963f10baf4f81153a.jpg" alt="Calzini in pile con fiocco, perfetti per l’autunno e l’inverno, morbidi e soffici" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46855713926&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Calzini in pile con fiocco, perfetti per l’autunno e l’inverno, morbidi e soffici</a></h3>
-<div class="price">38,59 €<span class="old">167,44 €</span></div><div class="discount">Sconto dichiarato: -77%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46855713926&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Sd11c28b7f40d4a18963f10baf4f81153a.jpg" alt="Calzini in pile con fiocco, perfetti per l’autunno e l’inverno, morbidi e soffici" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46855713925&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Calzini in pile con fiocco, perfetti per l’autunno e l’inverno, morbidi e soffici</a></h3>
-<div class="price">38,69 €<span class="old">167,84 €</span></div><div class="discount">Sconto dichiarato: -77%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46855713925&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Sd11c28b7f40d4a18963f10baf4f81153a.jpg" alt="Calzini in pile con fiocco, perfetti per l’autunno e l’inverno, morbidi e soffici" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46855713924&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Calzini in pile con fiocco, perfetti per l’autunno e l’inverno, morbidi e soffici</a></h3>
-<div class="price">39,29 €<span class="old">170,24 €</span></div><div class="discount">Sconto dichiarato: -77%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46855713924&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Sd11c28b7f40d4a18963f10baf4f81153a.jpg" alt="Calzini in pile con fiocco, perfetti per l’autunno e l’inverno, morbidi e soffici" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46855713927&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Calzini in pile con fiocco, perfetti per l’autunno e l’inverno, morbidi e soffici</a></h3>
-<div class="price">39,39 €<span class="old">170,64 €</span></div><div class="discount">Sconto dichiarato: -77%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46855713927&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Sd11c28b7f40d4a18963f10baf4f81153a.jpg" alt="Calzini in pile con fiocco, perfetti per l’autunno e l’inverno, morbidi e soffici" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46855713929&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Calzini in pile con fiocco, perfetti per l’autunno e l’inverno, morbidi e soffici</a></h3>
-<div class="price">40,09 €<span class="old">173,44 €</span></div><div class="discount">Sconto dichiarato: -77%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46855713929&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Sa95542ffe5154a958d20ed0b9609deffl.jpg" alt="HGKJ S3 Restauratore di plastica per auto Cappotto per restauro di sedili in pelle…" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46108730266&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">HGKJ S3 Restauratore di plastica per auto Cappotto per restauro di sedili in pelle…</a></h3>
-<div class="price">12,49 €<span class="old">51,43 €</span></div><div class="discount">Sconto dichiarato: -76%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46108730266&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/S3a69c12a166543f1987152d7674d90642.jpg" alt="Guanti da saldatura HZXVOGEN da 14/16 pollici per saldatura ARC TIG MIG, barbecue" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46583639447&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Guanti da saldatura HZXVOGEN da 14/16 pollici per saldatura ARC TIG MIG, barbecue</a></h3>
-<div class="price">17,99 €<span class="old">73,97 €</span></div><div class="discount">Sconto dichiarato: -76%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46583639447&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/A477cdd8768ce429c8cf49d497fc1292eB.jpg" alt="Corda per traino auto 5 m, trazione 5 t" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46583638858&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Corda per traino auto 5 m, trazione 5 t</a></h3>
-<div class="price">22,22 €<span class="old">92,58 €</span></div><div class="discount">Sconto dichiarato: -76%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46583638858&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/S9e11d21d8cc144b482e74d0174dd81d4y.jpg" alt="1 braccialetto bohémien verde con perline, perline rotonde in avventurina lucida" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46812612572&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">1 braccialetto bohémien verde con perline, perline rotonde in avventurina lucida</a></h3>
-<div class="price">36,99 €<span class="old">156,41 €</span></div><div class="discount">Sconto dichiarato: -76%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46812612572&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/S3cc8554e5338461ba8238310694dfe0c5.jpg" alt="Cintura di Sicurezza Retrattile a 3 Punti, 3 Metri, 2 Pezzi" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=45637923807&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Cintura di Sicurezza Retrattile a 3 Punti, 3 Metri, 2 Pezzi</a></h3>
-<div class="price">41,09 €<span class="old">172,61 €</span></div><div class="discount">Sconto dichiarato: -76%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=45637923807&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/S016f716871f1442d9cd339967ed03429t.jpg" alt="Datewink 4PCS 36LED Luci Par piatte con borsa RGB Effetto di illuminazione scenica…" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=45317841932&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Datewink 4PCS 36LED Luci Par piatte con borsa RGB Effetto di illuminazione scenica…</a></h3>
-<div class="price">57,99 €<span class="old">241,63 €</span></div><div class="discount">Sconto dichiarato: -76%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=45317841932&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Sf98629265327414590ad252df9727280j.jpg" alt="2027 1 pz Cintura Tattica da Uomo per Esterni Multifunzione con Fibbia in Lega…" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46855715027&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">2027 1 pz Cintura Tattica da Uomo per Esterni Multifunzione con Fibbia in Lega…</a></h3>
-<div class="price">98,69 €<span class="old">413,92 €</span></div><div class="discount">Sconto dichiarato: -76%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46855715027&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Sd21fa031b5124e32839f8386fa2fc5b1u.jpg" alt="Datewink 60W Staffa combinata Luci RGBW LED Par Light DMX Illuminazione scenica per…" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=45363657066&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Datewink 60W Staffa combinata Luci RGBW LED Par Light DMX Illuminazione scenica per…</a></h3>
-<div class="price">104,99 €<span class="old">437,46 €</span></div><div class="discount">Sconto dichiarato: -76%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=45363657066&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Sf98629265327414590ad252df9727280j.jpg" alt="2027 1 pz Cintura Tattica da Uomo per Esterni Multifunzione con Fibbia in Lega…" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46855715028&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">2027 1 pz Cintura Tattica da Uomo per Esterni Multifunzione con Fibbia in Lega…</a></h3>
-<div class="price">106,69 €<span class="old">445,23 €</span></div><div class="discount">Sconto dichiarato: -76%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46855715028&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/S444b8076cd924de3b1bd515aba721a87h.jpg" alt="Accessori per Volante in Vera Fibra di Carbonio" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46583633945&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Accessori per Volante in Vera Fibra di Carbonio</a></h3>
-<div class="price">145,99 €<span class="old">608,29 €</span></div><div class="discount">Sconto dichiarato: -76%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46583633945&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/S444b8076cd924de3b1bd515aba721a87h.jpg" alt="Accessori per Volante in Vera Fibra di Carbonio" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46583633944&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Accessori per Volante in Vera Fibra di Carbonio</a></h3>
-<div class="price">145,99 €<span class="old">608,29 €</span></div><div class="discount">Sconto dichiarato: -76%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46583633944&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/S444b8076cd924de3b1bd515aba721a87h.jpg" alt="Accessori per Volante in Vera Fibra di Carbonio" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46583633943&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Accessori per Volante in Vera Fibra di Carbonio</a></h3>
-<div class="price">145,99 €<span class="old">608,15 €</span></div><div class="discount">Sconto dichiarato: -76%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46583633943&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Sc2abb4d31c834c00843938ef6902ac349.jpg" alt="Volante in fibra di carbonio blu per VW Golf MK7/7.5 GTI/R/GTD/GTE Tiguan/Pasat/Polo…" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46167551809&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Volante in fibra di carbonio blu per VW Golf MK7/7.5 GTI/R/GTD/GTE Tiguan/Pasat/Polo…</a></h3>
-<div class="price">151,99 €<span class="old">633,29 €</span></div><div class="discount">Sconto dichiarato: -76%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46167551809&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
 </section>
 <section class="editorial-panel" style="margin-top:18px">
 <h2>Come valutare le offerte</h2>
 <p class="note" style="font-size:14px;margin-top:4px">Questa pagina raccoglie occasioni su abbigliamento, scarpe e accessori. Prima dell&#x27;acquisto verifica tabella taglie, materiali, vestibilità, colori disponibili e condizioni di reso.</p>
 </section>
 <section class="editorial-panel" style="margin-top:18px"><h2>Guide utili per scegliere</h2><nav class="categories" aria-label="Guide della categoria"><a href="https://prezziassurdi.com/guide/migliori-moda/">🛍️ Migliori MODA: abbigliamento, scarpe e accessori</a></nav></section>
-<nav class="categories" aria-label="Altre categorie"><a href="https://prezziassurdi.com/categorie/smartphone/">📱 Smartphone in offerta</a><a href="https://prezziassurdi.com/categorie/informatica/">💻 Informatica in offerta</a><a href="https://prezziassurdi.com/categorie/tv-audio/">📺 TV e Audio in offerta</a><a href="https://prezziassurdi.com/categorie/gaming/">🎮 Gaming in offerta</a><a href="https://prezziassurdi.com/categorie/casa/">🏠 Casa in offerta</a><a href="https://prezziassurdi.com/categorie/cucina/">🍳 Cucina in offerta</a><a href="https://prezziassurdi.com/categorie/fai-da-te/">🔧 Fai da te in offerta</a><a href="https://prezziassurdi.com/categorie/cura-persona/">✨ Cura persona e profumi in offerta</a><a href="https://prezziassurdi.com/categorie/integratori/">💊 Migliori INTEGRATORI</a><a href="https://prezziassurdi.com/categorie/sport/">🏋️ Sport e fitness in offerta</a><a href="https://prezziassurdi.com/categorie/outdoor/">🏕️ Outdoor e viaggio in offerta</a><a href="https://prezziassurdi.com/categorie/bambini/">🧸 Bambini in offerta</a><a href="https://prezziassurdi.com/categorie/animali/">🐾 Animali in offerta</a></nav>
+<nav class="categories" aria-label="Altre categorie"><a href="https://prezziassurdi.com/categorie/smartphone/">📱 Smartphone in offerta</a><a href="https://prezziassurdi.com/categorie/tv-audio/">📺 TV e Audio in offerta</a><a href="https://prezziassurdi.com/categorie/gaming/">🎮 Gaming in offerta</a><a href="https://prezziassurdi.com/categorie/casa/">🏠 Casa in offerta</a><a href="https://prezziassurdi.com/categorie/cucina/">🍳 Cucina in offerta</a><a href="https://prezziassurdi.com/categorie/fai-da-te/">🔧 Fai da te in offerta</a><a href="https://prezziassurdi.com/categorie/cura-persona/">✨ Cura persona e profumi in offerta</a><a href="https://prezziassurdi.com/categorie/integratori/">💊 Migliori INTEGRATORI</a><a href="https://prezziassurdi.com/categorie/sport/">🏋️ Sport e fitness in offerta</a><a href="https://prezziassurdi.com/categorie/outdoor/">🏕️ Outdoor e viaggio in offerta</a><a href="https://prezziassurdi.com/categorie/bambini/">🧸 Bambini in offerta</a><a href="https://prezziassurdi.com/categorie/animali/">🐾 Animali in offerta</a></nav>
 <p class="note">Prezzi, sconti e disponibilità possono cambiare rapidamente. Verifica sempre le condizioni finali sul sito del negozio.</p>
 </div></main>
-<footer>PREZZI ASSURDI — Alcuni link sono affiliati. In qualità di Affiliato Amazon ricevo un guadagno dagli acquisti idonei; per Unieuro, MediaWorld, ManoMano, AliExpress e Foot Locker utilizziamo link tracciati del network Awin. Prezzi e disponibilità possono cambiare sui siti dei negozi.<br><a href="https://prezziassurdi.com/chi-siamo/">Chi siamo</a> · <a href="https://prezziassurdi.com/trasparenza/">Trasparenza e criteri</a> · <a href="https://prezziassurdi.com/stato-offerte/">Controlli offerte</a></footer>
+<footer>PREZZI ASSURDI — Alcuni link sono affiliati. In qualità di Affiliato Amazon ricevo un guadagno dagli acquisti idonei; per Unieuro, MediaWorld, ManoMano e Foot Locker utilizziamo link tracciati del network Awin. Prezzi e disponibilità possono cambiare sui siti dei negozi.<br><a href="https://prezziassurdi.com/chi-siamo/">Chi siamo</a> · <a href="https://prezziassurdi.com/trasparenza/">Trasparenza e criteri</a> · <a href="https://prezziassurdi.com/stato-offerte/">Controlli offerte</a></footer>
 <script>
 (function(){
   function initGuideFilters(){

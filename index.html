@@ -2538,7 +2538,7 @@ html.pa-live-search-active #offerte,html.pa-live-search-active #seasonBox{displa
           <a href="/categorie/smartphone/">📱 Smartphone</a>
           <a href="/categorie/tv-audio/">📺 TV &amp; Audio</a>
           <a href="/guide/migliori-notebook/">💻 Notebook</a>
-          <a href="/categorie/informatica/">🖥️ Informatica</a>
+          
           <a href="/categorie/casa/">🏠 Casa</a>
           <a href="/categorie/cucina/">🍳 Cucina</a>
           <a href="/guide/migliori-lavatrici/">🧺 Elettrodomestici</a>
@@ -2567,7 +2567,7 @@ html.pa-live-search-active #offerte,html.pa-live-search-active #seasonBox{displa
         <a href="/guide/">Guide</a>
         <a href="/categorie/smartphone/">Smartphone</a>
         <a href="/categorie/tv-audio/">TV &amp; Audio</a>
-        <a href="/categorie/informatica/">Informatica</a>
+        
         <a href="/categorie/casa/">Casa</a>
         <a href="/categorie/gaming/">Gaming</a>
         <a href="/categorie/moda/">Moda</a>
@@ -26530,7 +26530,7 @@ html.pa-live-search-active #offerte,html.pa-live-search-active #seasonBox{displa
 
   <nav class="seo-cat-nav" aria-label="Categorie principali">
     <a href="/categorie/smartphone/">Smartphone</a>
-    <a href="/categorie/informatica/">Informatica</a>
+    
     <a href="/categorie/tv-audio/">TV & Audio</a>
     <a href="/categorie/gaming/">Gaming</a>
     <a href="/categorie/casa/">Casa</a>
@@ -27666,7 +27666,7 @@ document.addEventListener('DOMContentLoaded',function(){
       const storeParam=store&&store!=='all'?`&store=${encodeURIComponent(API_STORES[store]||store)}`:'';
       const r=await fetch(`${LIVE_API}${sep}q=${encodeURIComponent(query)}${storeParam}`,{cache:'no-store',signal:ctl.signal,headers:{'Accept':'application/json'}});
       if(!r.ok)throw new Error(`HTTP ${r.status}`);
-      const data=await r.json();
+      const data=window.PAWithoutAli(await r.json());
       if(!Array.isArray(data?.results))throw new Error('Risposta live non valida');
       return data;
     }finally{clearTimeout(timer);}
@@ -27710,7 +27710,7 @@ document.addEventListener('DOMContentLoaded',function(){
   function startLiveProgress(store){
     const el=document.getElementById('paLiveProgress');
     if(!el)return ()=>{};
-    const labels=store==='all'?['Interrogo Amazon…','Controllo Unieuro…','Verifico MediaWorld…','Controllo ManoMano…','Verifico AliExpress…','Controllo Foot Locker…','Confronto i prezzi migliori…']:[`Controllo ${storeLabel(store)}…`,`Confronto i prezzi disponibili…`];
+    const labels=store==='all'?['Interrogo Amazon…','Controllo Unieuro…','Verifico MediaWorld…','Controllo ManoMano…','Controllo Foot Locker…','Confronto i prezzi migliori…']:[`Controllo ${storeLabel(store)}…`,`Confronto i prezzi disponibili…`];
     let i=0;el.textContent=labels[0];
     const timer=setInterval(()=>{i=(i+1)%labels.length;const node=document.getElementById('paLiveProgress');if(node)node.textContent=labels[i];},700);
     return ()=>clearInterval(timer);
@@ -27933,5 +27933,26 @@ document.addEventListener('input',function(e){var el=e.target;if(!el||!el.matche
 })();
 </script>
 <!-- PA_GA4_CONSENT_V1_END -->
+<script id="pa-category-navigation-v1">
+(()=>{
+ const retired=v=>String(v||'').toLowerCase().replace(/[^a-z]/g,'')==='informatica';
+ let pending=false;
+ function cleanControls(){
+  pending=false;
+  document.querySelectorAll('[data-pa-home-category] option,button.chip').forEach(node=>{
+   if(!retired(node.value)&&!retired(node.textContent))return;
+   const select=node.closest('select'),selected=Boolean(select&&node.selected);
+   node.remove();
+   if(selected){select.value='all';select.dispatchEvent(new Event('change',{bubbles:true}));}
+  });
+ }
+ function start(){
+  cleanControls();
+  new MutationObserver(()=>{if(!pending){pending=true;queueMicrotask(cleanControls);}})
+   .observe(document.body,{childList:true,subtree:true});
+ }
+ if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',start,{once:true});else start();
+})();
+</script>
 </body>
 </html>

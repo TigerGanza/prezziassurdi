@@ -1,6 +1,22 @@
 <!doctype html>
 <html lang="it">
 <head>
+<!-- PA_NO_ALIEXPRESS_HTML_V1 -->
+<script>/* PA_NO_ALIEXPRESS_CLIENT_V1 */
+window.PAWithoutAli = (()=>{
+  const store=v=>['x','ali','aliexpress','aliexpressit','aliexpressitalia'].includes(String(v||'').toLowerCase().replace(/[^a-z0-9]/g,''));
+  const url=v=>{try{const u=new URL(String(v||''),location.href),h=u.hostname.toLowerCase();return /(^|\.)aliexpress\.(com|ru|us)$/.test(h)||((h==='awin1.com'||h.endsWith('.awin1.com'))&&['m','awinmid','mid'].some(k=>u.searchParams.get(k)==='12251'));}catch{return false;}};
+  const maps=new Set(['stores','store_status','merchant_counts','logos','attempts','best_by_store','store_summaries','by_store','plans']);
+  const walk=(v,k='')=>{
+    if(Array.isArray(v))return v.filter(x=>!(k==='o'&&Array.isArray(x)&&store(x[0]))).map(x=>walk(x,k)).filter(x=>x!==null);
+    if(!v||typeof v!=='object')return v;
+    if(['merchant','source_merchant','merchant_name','store','_store','store_code'].some(k=>store(v[k]))||['url','product_url','affiliate_url','aw_deep_link'].some(k=>url(v[k]))||['merchant_id','advertiser_id'].some(k=>String(v[k]||'')==='12251'))return null;
+    const out={};for(const [key,x]of Object.entries(v)){if(key==='aliexpress'||maps.has(k)&&store(key))continue;const y=walk(x,key);if(y!==null)out[key]=y;}
+    for(const key of ['offers','offer_details','o'])if(Array.isArray(v[key])&&v[key].length&&!out[key]?.length)return null;
+    return out;
+  };return v=>walk(v);
+})();</script>
+
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>PC & Gaming: offerte, notebook, componenti e guide | Prezzi Assurdi</title>
@@ -37,7 +53,7 @@ footer{background:#101d31;color:#becbdd;padding:26px 0;font-size:12px}footer .wr
 <body>
 <header><div class="wrap top">
 <a class="brand" href="/" aria-label="Prezzi Assurdi, homepage"><img src="/logo-prezzi-assurdi.png" alt="Logo Prezzi Assurdi" width="56" height="56"><strong>PREZZI ASSURDI</strong></a>
-<nav class="topnav" aria-label="Menu PC e gaming"><a href="/" >Home</a><a href="/pc-gaming/" aria-current="page">PC &amp; Gaming</a><a href="/guide/">Guide</a><a class="primary" href="/categorie/informatica/">Offerte informatica</a></nav>
+<nav class="topnav" aria-label="Menu PC e gaming"><a href="/" >Home</a><a href="/pc-gaming/" aria-current="page">PC &amp; Gaming</a><a href="/guide/">Guide</a></nav>
 </div></header>
 <main class="wrap">
 <div class="crumb"><a href="/">Home</a> / PC &amp; Gaming</div>
@@ -57,7 +73,7 @@ footer{background:#101d31;color:#becbdd;padding:26px 0;font-size:12px}footer .wr
 <a class="card" href="/?q=scheda%20video"><div class="emoji" aria-hidden="true">🧩</div><small>Hardware</small><h3>Componenti</h3><p>GPU, CPU, RAM, SSD e schede madri: cerca i prezzi tra i negozi indicizzati.</p><span class="go">Cerca componenti →</span></a>
 </div></section>
 <section class="section" aria-labelledby="offerte-title">
-<div class="section-title"><div><h2 id="offerte-title">Offerte e confronto prezzi</h2><p>Le ricerche aprono il motore multistore già attivo di Prezzi Assurdi.</p></div><a href="/categorie/informatica/">Tutte le offerte informatica →</a></div>
+<div class="section-title"><div><h2 id="offerte-title">Offerte e confronto prezzi</h2><p>Le ricerche aprono il motore multistore già attivo di Prezzi Assurdi.</p></div></div>
 <div class="split">
 <div class="panel dark"><h2>Trova quello che cerchi</h2><p>Confronta il prezzo del modello preciso: stessa configurazione, RAM, SSD, scheda video e codice prodotto. Le disponibilità e i prezzi vanno verificati nel negozio prima dell'acquisto.</p><a class="btn" href="/?q=notebook%20gaming">Cerca notebook gaming →</a></div>
 <div class="panel"><h2>Le offerte per categoria</h2><p>Scopri le offerte pubblicate nelle categorie informatica e gaming, oppure avvia una ricerca più specifica.</p><a class="btn" href="/categorie/gaming/">Vai alle offerte gaming →</a></div>

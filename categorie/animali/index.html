@@ -1,6 +1,22 @@
 <!doctype html>
 <html lang="it">
 <head>
+<!-- PA_NO_ALIEXPRESS_HTML_V1 -->
+<script>/* PA_NO_ALIEXPRESS_CLIENT_V1 */
+window.PAWithoutAli = (()=>{
+  const store=v=>['x','ali','aliexpress','aliexpressit','aliexpressitalia'].includes(String(v||'').toLowerCase().replace(/[^a-z0-9]/g,''));
+  const url=v=>{try{const u=new URL(String(v||''),location.href),h=u.hostname.toLowerCase();return /(^|\.)aliexpress\.(com|ru|us)$/.test(h)||((h==='awin1.com'||h.endsWith('.awin1.com'))&&['m','awinmid','mid'].some(k=>u.searchParams.get(k)==='12251'));}catch{return false;}};
+  const maps=new Set(['stores','store_status','merchant_counts','logos','attempts','best_by_store','store_summaries','by_store','plans']);
+  const walk=(v,k='')=>{
+    if(Array.isArray(v))return v.filter(x=>!(k==='o'&&Array.isArray(x)&&store(x[0]))).map(x=>walk(x,k)).filter(x=>x!==null);
+    if(!v||typeof v!=='object')return v;
+    if(['merchant','source_merchant','merchant_name','store','_store','store_code'].some(k=>store(v[k]))||['url','product_url','affiliate_url','aw_deep_link'].some(k=>url(v[k]))||['merchant_id','advertiser_id'].some(k=>String(v[k]||'')==='12251'))return null;
+    const out={};for(const [key,x]of Object.entries(v)){if(key==='aliexpress'||maps.has(k)&&store(key))continue;const y=walk(x,key);if(y!==null)out[key]=y;}
+    for(const key of ['offers','offer_details','o'])if(Array.isArray(v[key])&&v[key].length&&!out[key]?.length)return null;
+    return out;
+  };return v=>walk(v);
+})();</script>
+
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Animali in offerta | Prezzi Assurdi</title>
@@ -340,8 +356,27 @@ img { image-rendering:auto; }
 })();
 </script>
 <!-- /PA_STYLE_V1429 -->
+<style id="pa-category-desktop-images-v1">
+@media (min-width:981px){
+body[data-pa-category-page] .card .photo{
+ display:flex!important;align-items:center!important;justify-content:center!important;
+ min-width:0!important;min-height:0!important;box-sizing:border-box!important;flex-shrink:0!important;
+}
+body[data-pa-category-page] .card .photo>a{
+ display:flex!important;align-items:center!important;justify-content:center!important;
+ width:100%!important;height:100%!important;min-width:0!important;min-height:0!important;
+ max-width:100%!important;max-height:100%!important;box-sizing:border-box!important;
+}
+body[data-pa-category-page] .card .photo img{
+ display:block!important;width:100%!important;height:100%!important;
+ min-width:0!important;min-height:0!important;max-width:100%!important;max-height:100%!important;
+ object-fit:contain!important;object-position:center!important;box-sizing:border-box!important;
+ transform:none!important;margin:0!important;flex-shrink:1!important;
+}
+}
+</style>
 </head>
-<body>
+<body data-pa-category-page="true">
 <header><div class="wrap top">
 <a class="brand" href="https://prezziassurdi.com/"><img src="https://prezziassurdi.com/logo-prezzi-assurdi.png" alt="Prezzi Assurdi"><span>PREZZI ASSURDI</span></a>
 <nav class="page-nav" aria-label="Navigazione pagine"><a class="home" href="https://prezziassurdi.com/offerte/">Offerte per negozio</a><a class="home" href="https://prezziassurdi.com/">← Torna al motore di ricerca</a></nav>
@@ -355,377 +390,17 @@ img { image-rendering:auto; }
 </section>
 <section class="category-offers-panel">
 <h2 class="section-title" style="margin-top:0">Prezzi e offerte animali in offerta</h2>
-<div class="grid">
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/S70ec6c2e22404c269112ad2c85d6cb4cD.jpg" alt="Pulitore per tappeti portatile ABIR G80, aspirazione 15000PA, copertura autopulente" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=45110926143&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Pulitore per tappeti portatile ABIR G80, aspirazione 15000PA, copertura autopulente</a></h3>
-<div class="price">79,38 €<span class="old">468,11 €</span></div><div class="discount">Sconto dichiarato: -83%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=45110926143&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/S70ec6c2e22404c269112ad2c85d6cb4cD.jpg" alt="Pulitore per tappeti portatile ABIR G80, aspirazione 15000PA, copertura autopulente" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=45110926142&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Pulitore per tappeti portatile ABIR G80, aspirazione 15000PA, copertura autopulente</a></h3>
-<div class="price">79,38 €<span class="old">468,11 €</span></div><div class="discount">Sconto dichiarato: -83%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=45110926142&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/S70ec6c2e22404c269112ad2c85d6cb4cD.jpg" alt="Pulitore per tappeti portatile ABIR G80, aspirazione 15000PA, copertura autopulente" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=45110926141&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Pulitore per tappeti portatile ABIR G80, aspirazione 15000PA, copertura autopulente</a></h3>
-<div class="price">79,38 €<span class="old">468,11 €</span></div><div class="discount">Sconto dichiarato: -83%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=45110926141&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/S44dc32c954624093aad7744aa9e11c44V.jpg" alt="ABIR G80 Pulitore per Tappeti Portatile, Macchina per Pulizia Spot 15000PA" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46653968139&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">ABIR G80 Pulitore per Tappeti Portatile, Macchina per Pulizia Spot 15000PA</a></h3>
-<div class="price">80,39 €<span class="old">468,11 €</span></div><div class="discount">Sconto dichiarato: -83%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46653968139&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/S44dc32c954624093aad7744aa9e11c44V.jpg" alt="ABIR G80 Pulitore per Tappeti Portatile, Macchina per Pulizia Spot 15000PA" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46653968137&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">ABIR G80 Pulitore per Tappeti Portatile, Macchina per Pulizia Spot 15000PA</a></h3>
-<div class="price">80,39 €<span class="old">468,11 €</span></div><div class="discount">Sconto dichiarato: -83%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46653968137&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/S1d9b49f7dca044d2954845d00fe7a57eA.jpg" alt="Ciotole Galleggianti per Cani e Gatti, Anti Imbottigliamento, Senza Sversamento" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46583639708&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Ciotole Galleggianti per Cani e Gatti, Anti Imbottigliamento, Senza Sversamento</a></h3>
-<div class="price">14,39 €<span class="old">80,32 €</span></div><div class="discount">Sconto dichiarato: -82%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46583639708&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/S1d9b49f7dca044d2954845d00fe7a57eA.jpg" alt="Ciotole Galleggianti per Cani e Gatti, Anti Imbottigliamento, Senza Sversamento" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46583639707&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Ciotole Galleggianti per Cani e Gatti, Anti Imbottigliamento, Senza Sversamento</a></h3>
-<div class="price">14,39 €<span class="old">80,32 €</span></div><div class="discount">Sconto dichiarato: -82%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46583639707&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/S1d9b49f7dca044d2954845d00fe7a57eA.jpg" alt="Ciotole Galleggianti per Cani e Gatti, Anti Imbottigliamento, Senza Sversamento" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46583639706&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Ciotole Galleggianti per Cani e Gatti, Anti Imbottigliamento, Senza Sversamento</a></h3>
-<div class="price">14,39 €<span class="old">80,32 €</span></div><div class="discount">Sconto dichiarato: -82%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46583639706&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Sd7da74183b1d44198ce0a14dbea1aa08o.jpg" alt="Abbigliamento in morbido pile per cani" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46682616503&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Abbigliamento in morbido pile per cani</a></h3>
-<div class="price">14,89 €<span class="old">83,16 €</span></div><div class="discount">Sconto dichiarato: -82%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46682616503&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Sd7da74183b1d44198ce0a14dbea1aa08o.jpg" alt="Abbigliamento in morbido pile per cani" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46682616497&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Abbigliamento in morbido pile per cani</a></h3>
-<div class="price">14,89 €<span class="old">83,16 €</span></div><div class="discount">Sconto dichiarato: -82%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46682616497&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Sd7da74183b1d44198ce0a14dbea1aa08o.jpg" alt="Abbigliamento in morbido pile per cani" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46682616494&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Abbigliamento in morbido pile per cani</a></h3>
-<div class="price">14,89 €<span class="old">83,16 €</span></div><div class="discount">Sconto dichiarato: -82%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46682616494&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Sd7da74183b1d44198ce0a14dbea1aa08o.jpg" alt="Abbigliamento in morbido pile per cani" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46682616499&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Abbigliamento in morbido pile per cani</a></h3>
-<div class="price">15,99 €<span class="old">89,24 €</span></div><div class="discount">Sconto dichiarato: -82%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46682616499&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Sd7da74183b1d44198ce0a14dbea1aa08o.jpg" alt="Abbigliamento in morbido pile per cani" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46682616496&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Abbigliamento in morbido pile per cani</a></h3>
-<div class="price">15,99 €<span class="old">89,24 €</span></div><div class="discount">Sconto dichiarato: -82%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46682616496&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Sd7da74183b1d44198ce0a14dbea1aa08o.jpg" alt="Abbigliamento in morbido pile per cani" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46682616489&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Abbigliamento in morbido pile per cani</a></h3>
-<div class="price">15,99 €<span class="old">89,24 €</span></div><div class="discount">Sconto dichiarato: -82%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46682616489&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Sd7da74183b1d44198ce0a14dbea1aa08o.jpg" alt="Abbigliamento in morbido pile per cani" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46682616500&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Abbigliamento in morbido pile per cani</a></h3>
-<div class="price">17,89 €<span class="old">99,88 €</span></div><div class="discount">Sconto dichiarato: -82%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46682616500&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Sd7da74183b1d44198ce0a14dbea1aa08o.jpg" alt="Abbigliamento in morbido pile per cani" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46682616493&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Abbigliamento in morbido pile per cani</a></h3>
-<div class="price">17,89 €<span class="old">99,88 €</span></div><div class="discount">Sconto dichiarato: -82%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46682616493&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Sd7da74183b1d44198ce0a14dbea1aa08o.jpg" alt="Abbigliamento in morbido pile per cani" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46682616490&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Abbigliamento in morbido pile per cani</a></h3>
-<div class="price">17,89 €<span class="old">99,88 €</span></div><div class="discount">Sconto dichiarato: -82%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46682616490&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Sd7da74183b1d44198ce0a14dbea1aa08o.jpg" alt="Abbigliamento in morbido pile per cani" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46682616501&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Abbigliamento in morbido pile per cani</a></h3>
-<div class="price">19,19 €<span class="old">107,08 €</span></div><div class="discount">Sconto dichiarato: -82%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46682616501&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Sd7da74183b1d44198ce0a14dbea1aa08o.jpg" alt="Abbigliamento in morbido pile per cani" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46682616498&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Abbigliamento in morbido pile per cani</a></h3>
-<div class="price">19,19 €<span class="old">107,08 €</span></div><div class="discount">Sconto dichiarato: -82%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46682616498&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Sd7da74183b1d44198ce0a14dbea1aa08o.jpg" alt="Abbigliamento in morbido pile per cani" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46682616491&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Abbigliamento in morbido pile per cani</a></h3>
-<div class="price">19,19 €<span class="old">107,08 €</span></div><div class="discount">Sconto dichiarato: -82%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46682616491&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Sd7da74183b1d44198ce0a14dbea1aa08o.jpg" alt="Abbigliamento in morbido pile per cani" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46682616502&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Abbigliamento in morbido pile per cani</a></h3>
-<div class="price">20,19 €<span class="old">112,80 €</span></div><div class="discount">Sconto dichiarato: -82%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46682616502&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Sd7da74183b1d44198ce0a14dbea1aa08o.jpg" alt="Abbigliamento in morbido pile per cani" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46682616495&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Abbigliamento in morbido pile per cani</a></h3>
-<div class="price">20,19 €<span class="old">112,80 €</span></div><div class="discount">Sconto dichiarato: -82%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46682616495&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Sd7da74183b1d44198ce0a14dbea1aa08o.jpg" alt="Abbigliamento in morbido pile per cani" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46682616492&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Abbigliamento in morbido pile per cani</a></h3>
-<div class="price">20,19 €<span class="old">112,80 €</span></div><div class="discount">Sconto dichiarato: -82%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46682616492&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/S36e6aa51a7ae468b9ad969e1149ecd00g.jpg" alt="Luce LED per Acquario con Timer e Regolazione Luminosità Spettro Completo" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46131043897&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Luce LED per Acquario con Timer e Regolazione Luminosità Spettro Completo</a></h3>
-<div class="price">25,79 €<span class="old">140,57 €</span></div><div class="discount">Sconto dichiarato: -82%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46131043897&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Scb8d2ebd31d741128d02c384227e6d17u.jpg" alt="Luce LED Subacquea per Acquario, Controllo APP Intelligente" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46131043867&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Luce LED Subacquea per Acquario, Controllo APP Intelligente</a></h3>
-<div class="price">43,59 €<span class="old">237,14 €</span></div><div class="discount">Sconto dichiarato: -82%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46131043867&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Scb8d2ebd31d741128d02c384227e6d17u.jpg" alt="Luce LED Subacquea per Acquario, Controllo APP Intelligente" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46131043866&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Luce LED Subacquea per Acquario, Controllo APP Intelligente</a></h3>
-<div class="price">23,20 €<span class="old">124,22 €</span></div><div class="discount">Sconto dichiarato: -81%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46131043866&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/S690548d8386e4ddaa2873f3ddafbd69dj.jpg" alt="Cuccia Invernale Rotonda in Peluche per Gatti, Cuscino Caldo per Gatti" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46792341957&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Cuccia Invernale Rotonda in Peluche per Gatti, Cuscino Caldo per Gatti</a></h3>
-<div class="price">25,99 €<span class="old">133,85 €</span></div><div class="discount">Sconto dichiarato: -81%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46792341957&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/S690548d8386e4ddaa2873f3ddafbd69dj.jpg" alt="Cuccia Invernale Rotonda in Peluche per Gatti, Cuscino Caldo per Gatti" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46792341956&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Cuccia Invernale Rotonda in Peluche per Gatti, Cuscino Caldo per Gatti</a></h3>
-<div class="price">25,99 €<span class="old">133,85 €</span></div><div class="discount">Sconto dichiarato: -81%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46792341956&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Scb8d2ebd31d741128d02c384227e6d17u.jpg" alt="Luce LED Subacquea per Acquario, Controllo APP Intelligente" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46131043865&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Luce LED Subacquea per Acquario, Controllo APP Intelligente</a></h3>
-<div class="price">28,75 €<span class="old">148,42 €</span></div><div class="discount">Sconto dichiarato: -81%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46131043865&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/S36e6aa51a7ae468b9ad969e1149ecd00g.jpg" alt="Luce LED per Acquario con Timer e Regolazione Luminosità Spettro Completo" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46131043895&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Luce LED per Acquario con Timer e Regolazione Luminosità Spettro Completo</a></h3>
-<div class="price">31,11 €<span class="old">162,51 €</span></div><div class="discount">Sconto dichiarato: -81%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46131043895&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Scb8d2ebd31d741128d02c384227e6d17u.jpg" alt="Luce LED Subacquea per Acquario, Controllo APP Intelligente" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46131043870&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Luce LED Subacquea per Acquario, Controllo APP Intelligente</a></h3>
-<div class="price">32,29 €<span class="old">169,61 €</span></div><div class="discount">Sconto dichiarato: -81%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46131043870&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/S36e6aa51a7ae468b9ad969e1149ecd00g.jpg" alt="Luce LED per Acquario con Timer e Regolazione Luminosità Spettro Completo" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46131043896&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Luce LED per Acquario con Timer e Regolazione Luminosità Spettro Completo</a></h3>
-<div class="price">34,87 €<span class="old">185,06 €</span></div><div class="discount">Sconto dichiarato: -81%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46131043896&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Scb8d2ebd31d741128d02c384227e6d17u.jpg" alt="Luce LED Subacquea per Acquario, Controllo APP Intelligente" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46131043869&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Luce LED Subacquea per Acquario, Controllo APP Intelligente</a></h3>
-<div class="price">36,71 €<span class="old">196,21 €</span></div><div class="discount">Sconto dichiarato: -81%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46131043869&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/S36e6aa51a7ae468b9ad969e1149ecd00g.jpg" alt="Luce LED per Acquario con Timer e Regolazione Luminosità Spettro Completo" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46131043893&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Luce LED per Acquario con Timer e Regolazione Luminosità Spettro Completo</a></h3>
-<div class="price">39,25 €<span class="old">211,28 €</span></div><div class="discount">Sconto dichiarato: -81%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46131043893&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/S36e6aa51a7ae468b9ad969e1149ecd00g.jpg" alt="Luce LED per Acquario con Timer e Regolazione Luminosità Spettro Completo" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46131043894&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Luce LED per Acquario con Timer e Regolazione Luminosità Spettro Completo</a></h3>
-<div class="price">44,84 €<span class="old">237,14 €</span></div><div class="discount">Sconto dichiarato: -81%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46131043894&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/S36e6aa51a7ae468b9ad969e1149ecd00g.jpg" alt="Luce LED per Acquario con Timer e Regolazione Luminosità Spettro Completo" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46131043892&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Luce LED per Acquario con Timer e Regolazione Luminosità Spettro Completo</a></h3>
-<div class="price">51,00 €<span class="old">273,04 €</span></div><div class="discount">Sconto dichiarato: -81%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46131043892&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/S2e0f70fae54b421486d542400cbd0010J.jpg" alt="Pompa Sommergibile Aggiornata Serie EB 701 a 709, Potenza 15 135W" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46049147720&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Pompa Sommergibile Aggiornata Serie EB 701 a 709, Potenza 15 135W</a></h3>
-<div class="price">21,63 €<span class="old">108,16 €</span></div><div class="discount">Sconto dichiarato: -80%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46049147720&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/S2e0f70fae54b421486d542400cbd0010J.jpg" alt="Pompa Sommergibile Aggiornata Serie EB 701 a 709, Potenza 15 135W" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46049147718&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Pompa Sommergibile Aggiornata Serie EB 701 a 709, Potenza 15 135W</a></h3>
-<div class="price">22,98 €<span class="old">114,92 €</span></div><div class="discount">Sconto dichiarato: -80%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46049147718&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/S43ee5ad471bf4fb4b6300bc9c8ccfdfeQ.jpg" alt="Lunch Box elettrico 80W 1.8L Scaldavivande portatile con forchetta e cucchiaio…" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46682613707&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Lunch Box elettrico 80W 1.8L Scaldavivande portatile con forchetta e cucchiaio…</a></h3>
-<div class="price">23,39 €<span class="old">116,95 €</span></div><div class="discount">Sconto dichiarato: -80%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46682613707&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/S2e0f70fae54b421486d542400cbd0010J.jpg" alt="Pompa Sommergibile Aggiornata Serie EB 701 a 709, Potenza 15 135W" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46049147719&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Pompa Sommergibile Aggiornata Serie EB 701 a 709, Potenza 15 135W</a></h3>
-<div class="price">25,69 €<span class="old">128,44 €</span></div><div class="discount">Sconto dichiarato: -80%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46049147719&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/S690548d8386e4ddaa2873f3ddafbd69dj.jpg" alt="Cuccia Invernale Rotonda in Peluche per Gatti, Cuscino Caldo per Gatti" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46792341955&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Cuccia Invernale Rotonda in Peluche per Gatti, Cuscino Caldo per Gatti</a></h3>
-<div class="price">25,99 €<span class="old">133,50 €</span></div><div class="discount">Sconto dichiarato: -80%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46792341955&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/S2e0f70fae54b421486d542400cbd0010J.jpg" alt="Pompa Sommergibile Aggiornata Serie EB 701 a 709, Potenza 15 135W" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46049147716&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Pompa Sommergibile Aggiornata Serie EB 701 a 709, Potenza 15 135W</a></h3>
-<div class="price">26,36 €<span class="old">131,82 €</span></div><div class="discount">Sconto dichiarato: -80%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46049147716&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/S2e0f70fae54b421486d542400cbd0010J.jpg" alt="Pompa Sommergibile Aggiornata Serie EB 701 a 709, Potenza 15 135W" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46049147717&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Pompa Sommergibile Aggiornata Serie EB 701 a 709, Potenza 15 135W</a></h3>
-<div class="price">28,39 €<span class="old">141,96 €</span></div><div class="discount">Sconto dichiarato: -80%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46049147717&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/S2e0f70fae54b421486d542400cbd0010J.jpg" alt="Pompa Sommergibile Aggiornata Serie EB 701 a 709, Potenza 15 135W" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46049147723&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Pompa Sommergibile Aggiornata Serie EB 701 a 709, Potenza 15 135W</a></h3>
-<div class="price">31,10 €<span class="old">155,48 €</span></div><div class="discount">Sconto dichiarato: -80%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46049147723&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Scffa6ad7c3184e94b9a023d371971ae9j.jpg" alt="Pawhut, gabbia modulare per gatti, con struttura a barile e cavo per graffiare" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46059789951&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Pawhut, gabbia modulare per gatti, con struttura a barile e cavo per graffiare</a></h3>
-<div class="price">32,70 €<span class="old">163,49 €</span></div><div class="discount">Sconto dichiarato: -80%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46059789951&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/S3a9f5a1a22de497e83d21ec9189b4ba4f.jpg" alt="Lettiera in tofu senza polvere 4KG/8KG, alta assorbenza e agglutinazione rapida" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46202141552&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Lettiera in tofu senza polvere 4KG/8KG, alta assorbenza e agglutinazione rapida</a></h3>
-<div class="price">33,33 €<span class="old">166,67 €</span></div><div class="discount">Sconto dichiarato: -80%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46202141552&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/S2e0f70fae54b421486d542400cbd0010J.jpg" alt="Pompa Sommergibile Aggiornata Serie EB 701 a 709, Potenza 15 135W" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46049147724&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Pompa Sommergibile Aggiornata Serie EB 701 a 709, Potenza 15 135W</a></h3>
-<div class="price">38,53 €<span class="old">192,66 €</span></div><div class="discount">Sconto dichiarato: -80%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46049147724&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/S2e0f70fae54b421486d542400cbd0010J.jpg" alt="Pompa Sommergibile Aggiornata Serie EB 701 a 709, Potenza 15 135W" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46049147721&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Pompa Sommergibile Aggiornata Serie EB 701 a 709, Potenza 15 135W</a></h3>
-<div class="price">40,56 €<span class="old">202,80 €</span></div><div class="discount">Sconto dichiarato: -80%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46049147721&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Scb8d2ebd31d741128d02c384227e6d17u.jpg" alt="Luce LED Subacquea per Acquario, Controllo APP Intelligente" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46131043868&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Luce LED Subacquea per Acquario, Controllo APP Intelligente</a></h3>
-<div class="price">41,73 €<span class="old">213,45 €</span></div><div class="discount">Sconto dichiarato: -80%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46131043868&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/S2e0f70fae54b421486d542400cbd0010J.jpg" alt="Pompa Sommergibile Aggiornata Serie EB 701 a 709, Potenza 15 135W" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46049147722&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Pompa Sommergibile Aggiornata Serie EB 701 a 709, Potenza 15 135W</a></h3>
-<div class="price">46,64 €<span class="old">233,22 €</span></div><div class="discount">Sconto dichiarato: -80%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46049147722&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/S3a9f5a1a22de497e83d21ec9189b4ba4f.jpg" alt="Lettiera in tofu senza polvere 4KG/8KG, alta assorbenza e agglutinazione rapida" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46202141553&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Lettiera in tofu senza polvere 4KG/8KG, alta assorbenza e agglutinazione rapida</a></h3>
-<div class="price">22,23 €<span class="old">101,03 €</span></div><div class="discount">Sconto dichiarato: -78%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46202141553&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Seb11e77857ce429da3b6f9fe223cc02bO.jpeg" alt="Fontanella wireless per cani e gatti, grande distributore d&#x27;acqua con filtro" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=45724645882&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Fontanella wireless per cani e gatti, grande distributore d&#x27;acqua con filtro</a></h3>
-<div class="price">26,37 €<span class="old">121,65 €</span></div><div class="discount">Sconto dichiarato: -78%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=45724645882&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Seb11e77857ce429da3b6f9fe223cc02bO.jpeg" alt="Fontanella wireless per cani e gatti, grande distributore d&#x27;acqua con filtro" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=45724645881&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Fontanella wireless per cani e gatti, grande distributore d&#x27;acqua con filtro</a></h3>
-<div class="price">26,37 €<span class="old">121,65 €</span></div><div class="discount">Sconto dichiarato: -78%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=45724645881&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Sfa82b8ec872643a9b19201b4044ba0f38.jpg" alt="Mangiatoia per polli Argento 21 x 16 x 33 cm Acciaio zincato" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46108721775&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Mangiatoia per polli Argento 21 x 16 x 33 cm Acciaio zincato</a></h3>
-<div class="price">39,20 €<span class="old">178,19 €</span></div><div class="discount">Sconto dichiarato: -78%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46108721775&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/S96937376e79c4d5f8238a781c83b3019S.jpg" alt="ROJECO Fontanella per gatti in acciaio inossidabile" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46049137591&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">ROJECO Fontanella per gatti in acciaio inossidabile</a></h3>
-<div class="price">38,59 €<span class="old">170,97 €</span></div><div class="discount">Sconto dichiarato: -77%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46049137591&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/S92399e7b2f094f8996e0d1b781a55fc6J.jpg" alt="Tiragraffi per Gatti M/L, Tiragraffi a Forma di Albero con Foro per il Gatto e…" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=45985550857&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Tiragraffi per Gatti M/L, Tiragraffi a Forma di Albero con Foro per il Gatto e…</a></h3>
-<div class="price">25,48 €<span class="old">108,16 €</span></div><div class="discount">Sconto dichiarato: -76%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=45985550857&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Sf73ef2b61dc8492184e20a38c5b10940t.jpg" alt="Lotto 2 Mangiatoie per Polli in Acciaio Galvanizzato Argento 40" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46801104182&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Lotto 2 Mangiatoie per Polli in Acciaio Galvanizzato Argento 40</a></h3>
-<div class="price">81,87 €<span class="old">341,11 €</span></div><div class="discount">Sconto dichiarato: -76%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46801104182&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/S2b6da8c9d5384c19a23c69276d5f00a2o.jpg" alt="Rotolo di rete metallica zincata SucceBuy" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46682631196&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Rotolo di rete metallica zincata SucceBuy</a></h3>
-<div class="price">18,39 €<span class="old">73,56 €</span></div><div class="discount">Sconto dichiarato: -75%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46682631196&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/Sf90364ea214d4818adbdbe4679d25fc9J.jpg" alt="Set di 10 Dissuasori per Piccioni in Acciaio Inossidabile, Repellente per Uccelli" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46682612232&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Set di 10 Dissuasori per Piccioni in Acciaio Inossidabile, Repellente per Uccelli</a></h3>
-<div class="price">24,89 €<span class="old">99,56 €</span></div><div class="discount">Sconto dichiarato: -75%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46682612232&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://ae-pic-a1.aliexpress-media.com/kf/S9d6193507eac490c9138d0f92cda41157.jpg" alt="Lettiera per gatti da 4kg / 8kg realizzata con residui di soia" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=46219162214&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">Lettiera per gatti da 4kg / 8kg realizzata con residui di soia</a></h3>
-<div class="price">25,31 €<span class="old">101,23 €</span></div><div class="discount">Sconto dichiarato: -75%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=46219162214&amp;a=3086723&amp;m=12251" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article></div>
+<div class="grid"><p class="category-refresh-note">Cerca le offerte aggiornate nel motore multistore. <a href="/?q=animali">Cerca prodotti di questa categoria →</a></p></div>
 </section>
 <section class="editorial-panel" style="margin-top:18px">
 <h2>Come valutare le offerte</h2>
 <p class="note" style="font-size:14px;margin-top:4px">Qui trovi offerte su accessori e prodotti per animali domestici. Controlla taglia, materiali, quantità, modalità d&#x27;uso e indicazioni specifiche per il proprio animale.</p>
 </section>
 
-<nav class="categories" aria-label="Altre categorie"><a href="https://prezziassurdi.com/categorie/smartphone/">📱 Smartphone in offerta</a><a href="https://prezziassurdi.com/categorie/informatica/">💻 Informatica in offerta</a><a href="https://prezziassurdi.com/categorie/tv-audio/">📺 TV e Audio in offerta</a><a href="https://prezziassurdi.com/categorie/gaming/">🎮 Gaming in offerta</a><a href="https://prezziassurdi.com/categorie/casa/">🏠 Casa in offerta</a><a href="https://prezziassurdi.com/categorie/cucina/">🍳 Cucina in offerta</a><a href="https://prezziassurdi.com/categorie/fai-da-te/">🔧 Fai da te in offerta</a><a href="https://prezziassurdi.com/categorie/cura-persona/">✨ Cura persona e profumi in offerta</a><a href="https://prezziassurdi.com/categorie/integratori/">💊 Migliori INTEGRATORI</a><a href="https://prezziassurdi.com/categorie/sport/">🏋️ Sport e fitness in offerta</a><a href="https://prezziassurdi.com/categorie/outdoor/">🏕️ Outdoor e viaggio in offerta</a><a href="https://prezziassurdi.com/categorie/bambini/">🧸 Bambini in offerta</a><a href="https://prezziassurdi.com/categorie/moda/">👕 Moda in offerta</a></nav>
+<nav class="categories" aria-label="Altre categorie"><a href="https://prezziassurdi.com/categorie/smartphone/">📱 Smartphone in offerta</a><a href="https://prezziassurdi.com/categorie/tv-audio/">📺 TV e Audio in offerta</a><a href="https://prezziassurdi.com/categorie/gaming/">🎮 Gaming in offerta</a><a href="https://prezziassurdi.com/categorie/casa/">🏠 Casa in offerta</a><a href="https://prezziassurdi.com/categorie/cucina/">🍳 Cucina in offerta</a><a href="https://prezziassurdi.com/categorie/fai-da-te/">🔧 Fai da te in offerta</a><a href="https://prezziassurdi.com/categorie/cura-persona/">✨ Cura persona e profumi in offerta</a><a href="https://prezziassurdi.com/categorie/integratori/">💊 Migliori INTEGRATORI</a><a href="https://prezziassurdi.com/categorie/sport/">🏋️ Sport e fitness in offerta</a><a href="https://prezziassurdi.com/categorie/outdoor/">🏕️ Outdoor e viaggio in offerta</a><a href="https://prezziassurdi.com/categorie/bambini/">🧸 Bambini in offerta</a><a href="https://prezziassurdi.com/categorie/moda/">👕 Moda in offerta</a></nav>
 <p class="note">Prezzi, sconti e disponibilità possono cambiare rapidamente. Verifica sempre le condizioni finali sul sito del negozio.</p>
 </div></main>
-<footer>PREZZI ASSURDI — Alcuni link sono affiliati. In qualità di Affiliato Amazon ricevo un guadagno dagli acquisti idonei; per Unieuro, MediaWorld, ManoMano, AliExpress e Foot Locker utilizziamo link tracciati del network Awin. Prezzi e disponibilità possono cambiare sui siti dei negozi.<br><a href="https://prezziassurdi.com/chi-siamo/">Chi siamo</a> · <a href="https://prezziassurdi.com/trasparenza/">Trasparenza e criteri</a> · <a href="https://prezziassurdi.com/stato-offerte/">Controlli offerte</a></footer>
+<footer>PREZZI ASSURDI — Alcuni link sono affiliati. In qualità di Affiliato Amazon ricevo un guadagno dagli acquisti idonei; per Unieuro, MediaWorld, ManoMano e Foot Locker utilizziamo link tracciati del network Awin. Prezzi e disponibilità possono cambiare sui siti dei negozi.<br><a href="https://prezziassurdi.com/chi-siamo/">Chi siamo</a> · <a href="https://prezziassurdi.com/trasparenza/">Trasparenza e criteri</a> · <a href="https://prezziassurdi.com/stato-offerte/">Controlli offerte</a></footer>
 <script>
 (function(){
   function initGuideFilters(){
