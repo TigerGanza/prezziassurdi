@@ -1,6 +1,22 @@
 <!doctype html>
 <html lang="it">
 <head>
+<!-- PA_NO_ALIEXPRESS_HTML_V1 -->
+<script>/* PA_NO_ALIEXPRESS_CLIENT_V1 */
+window.PAWithoutAli = (()=>{
+  const store=v=>['x','ali','aliexpress','aliexpressit','aliexpressitalia'].includes(String(v||'').toLowerCase().replace(/[^a-z0-9]/g,''));
+  const url=v=>{try{const u=new URL(String(v||''),location.href),h=u.hostname.toLowerCase();return /(^|\.)aliexpress\.(com|ru|us)$/.test(h)||((h==='awin1.com'||h.endsWith('.awin1.com'))&&['m','awinmid','mid'].some(k=>u.searchParams.get(k)==='12251'));}catch{return false;}};
+  const maps=new Set(['stores','store_status','merchant_counts','logos','attempts','best_by_store','store_summaries','by_store','plans']);
+  const walk=(v,k='')=>{
+    if(Array.isArray(v))return v.filter(x=>!(k==='o'&&Array.isArray(x)&&store(x[0]))).map(x=>walk(x,k)).filter(x=>x!==null);
+    if(!v||typeof v!=='object')return v;
+    if(['merchant','source_merchant','merchant_name','store','_store','store_code'].some(k=>store(v[k]))||['url','product_url','affiliate_url','aw_deep_link'].some(k=>url(v[k]))||['merchant_id','advertiser_id'].some(k=>String(v[k]||'')==='12251'))return null;
+    const out={};for(const [key,x]of Object.entries(v)){if(key==='aliexpress'||maps.has(k)&&store(key))continue;const y=walk(x,key);if(y!==null)out[key]=y;}
+    for(const key of ['offers','offer_details','o'])if(Array.isArray(v[key])&&v[key].length&&!out[key]?.length)return null;
+    return out;
+  };return v=>walk(v);
+})();</script>
+
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <meta name="description" content="Trova il miglior prezzo con Prezzi Assurdi: cerca un prodotto e confronta le offerte disponibili su Amazon, Unieuro e MediaWorld.">
@@ -3570,7 +3586,7 @@ html.pa-live-search-active #offerte,html.pa-live-search-active #seasonBox{displa
 
         <h1>Le migliori <span>offerte</span>,<br>sempre con te.</h1>
 
-        <div class="hero-copy">Confronta i prezzi disponibili tra <b>Amazon</b>, <b>Unieuro</b>, <b>MediaWorld</b>, <b>ManoMano</b>, <b>AliExpress</b> e <b>Foot Locker</b>: trova subito l’offerta più conveniente.</div>
+        <div class="hero-copy">Confronta i prezzi disponibili tra <b>Amazon</b>, <b>Unieuro</b>, <b>MediaWorld</b>, <b>ManoMano</b> e <b>Foot Locker</b>: trova subito l’offerta più conveniente.</div>
 
         <div class="amazon-box">
           <div class="amazon-label">
@@ -3592,7 +3608,7 @@ html.pa-live-search-active #offerte,html.pa-live-search-active #seasonBox{displa
             <span class="pa-store-logo"><img referrerpolicy="no-referrer" src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Unieuro_Logo_2015.png" alt="Unieuro"></span>
             <span class="pa-store-logo"><img referrerpolicy="no-referrer" src="https://cms-images.mmst.eu/hzxov1nxpus5/FeeaTPsFbPj8u1cfFmnrk/45e5d9ec059d12513e93c348d9b9e0cb/MW_logo_red.svg?q=80" alt="MediaWorld"></span>
             <span class="pa-store-logo"><img referrerpolicy="no-referrer" src="https://commons.wikimedia.org/wiki/Special:Redirect/file/ManoMano_2018.png" alt="ManoMano"></span>
-            <span class="pa-store-logo"><img referrerpolicy="no-referrer" src="https://commons.wikimedia.org/wiki/Special:Redirect/file/AliExpress_2024.svg" alt="AliExpress"></span>
+            
             <span class="pa-store-logo"><img class="merchant-logo compact" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Foot_Locker_2020_Wordmark_Logo.svg" alt="Foot Locker" loading="lazy" referrerpolicy="no-referrer"></span>
             <a class="pa-store-directory-link" href="/offerte/">Offerte per negozio →</a>
           </div>
@@ -26137,10 +26153,12 @@ html.pa-live-search-active #offerte,html.pa-live-search-active #seasonBox{displa
 
 
 
+
+
 <!-- PA_HOME_TRUST_V1469_START -->
 <section class="pa-home-trust" aria-label="Come verifichiamo le offerte">
   <div><strong>Prezzo e orario visibili</strong><span>Ogni card indica quando il prezzo è stato rilevato.</span></div>
-  <div><strong>Confronto tra più negozi</strong><span>Amazon, Unieuro, MediaWorld, ManoMano, AliExpress e Foot Locker.</span></div>
+  <div><strong>Confronto tra più negozi</strong><span>Amazon, Unieuro, MediaWorld, ManoMano e Foot Locker.</span></div>
   <div><strong>Errori possibili separati</strong><span>Le anomalie restano consultabili, ma non vengono spacciate per offerte certe.</span></div>
 </section>
 <!-- PA_HOME_TRUST_V1469_END -->
@@ -26217,7 +26235,7 @@ html.pa-live-search-active #offerte,html.pa-live-search-active #seasonBox{displa
 <div class="discount">Risparmi 15,00 €</div>
 <div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="Amazon" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
 <a class="buy" href="https://www.amazon.it/dp/B0GC7GGY66?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI L'OFFERTA</a>
-<div class="meta">Prezzo controllato 54 min fa</div>
+<div class="meta">Prezzo controllato 1 h fa</div>
 </article>
 <article class="card" data-pa-home-card data-pa-category="tv-audio" data-pa-category-label="TV e Audio" data-pa-store="amazon" data-pa-price="18.99" data-pa-discount="51" data-pa-date="1795027233.608597">
 <span class="badge super">⚡ PREZZO ASSURDO</span>
@@ -26252,7 +26270,7 @@ html.pa-live-search-active #offerte,html.pa-live-search-active #seasonBox{displa
 <div class="discount">Risparmi 9,89 €</div>
 <div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="Amazon" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
 <a class="buy" href="https://www.amazon.it/dp/B0CR6NVZ6T?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI L'OFFERTA</a>
-<div class="meta">Prezzo controllato 1 min fa</div>
+<div class="meta">Prezzo controllato 10 min fa</div>
 </article>
 <article class="card" data-pa-home-card data-pa-category="integratori" data-pa-category-label="Migliori INTEGRATORI" data-pa-store="amazon" data-pa-price="9.9" data-pa-discount="40" data-pa-date="1795034433.729442">
 <span class="badge super">⚡ PREZZO ASSURDO</span>
@@ -26264,7 +26282,7 @@ html.pa-live-search-active #offerte,html.pa-live-search-active #seasonBox{displa
 <div class="discount">Risparmi 6,48 €</div>
 <div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="Amazon" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
 <a class="buy" href="https://www.amazon.it/dp/B018UFDCRY?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI L'OFFERTA</a>
-<div class="meta">Prezzo controllato 1 min fa</div>
+<div class="meta">Prezzo controllato 10 min fa</div>
 </article>
 <article class="card" data-pa-home-card data-pa-category="animali" data-pa-category-label="Animali" data-pa-store="amazon" data-pa-price="22.1" data-pa-discount="45" data-pa-date="1795034132.701502">
 <span class="badge super">⚡ PREZZO ASSURDO</span>
@@ -26276,7 +26294,7 @@ html.pa-live-search-active #offerte,html.pa-live-search-active #seasonBox{displa
 <div class="discount">Risparmi 17,85 €</div>
 <div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="Amazon" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
 <a class="buy" href="https://www.amazon.it/dp/B01N01LDPG?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI L'OFFERTA</a>
-<div class="meta">Prezzo controllato 5 min fa</div>
+<div class="meta">Prezzo controllato 15 min fa</div>
 </article>
 <article class="card" data-pa-home-card data-pa-category="moda" data-pa-category-label="Moda" data-pa-store="amazon" data-pa-price="459.99" data-pa-discount="21" data-pa-date="1795033834.330115">
 <span class="badge new">NUOVA</span>
@@ -26288,7 +26306,7 @@ html.pa-live-search-active #offerte,html.pa-live-search-active #seasonBox{displa
 <div class="discount">Risparmi 120,00 €</div>
 <div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="Amazon" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
 <a class="buy" href="https://www.amazon.it/dp/B0F4DVYFFH?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI L'OFFERTA</a>
-<div class="meta">Prezzo controllato 10 min fa</div>
+<div class="meta">Prezzo controllato 20 min fa</div>
 </article>
 <article class="card" data-pa-home-card data-pa-category="fai-da-te" data-pa-category-label="Fai da te" data-pa-store="amazon" data-pa-price="89.94" data-pa-discount="22" data-pa-date="1795033834.211595">
 <span class="badge new">NUOVA</span>
@@ -26300,7 +26318,7 @@ html.pa-live-search-active #offerte,html.pa-live-search-active #seasonBox{displa
 <div class="discount">Risparmi 25,60 €</div>
 <div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="Amazon" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
 <a class="buy" href="https://www.amazon.it/dp/B08XWN9H9N?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI L'OFFERTA</a>
-<div class="meta">Prezzo controllato 10 min fa</div>
+<div class="meta">Prezzo controllato 20 min fa</div>
 </article>
 <article class="card" data-pa-home-card data-pa-category="fai-da-te" data-pa-category-label="Fai da te" data-pa-store="amazon" data-pa-price="105.99" data-pa-discount="24" data-pa-date="1795033834.074202">
 <span class="badge new">NUOVA</span>
@@ -26312,7 +26330,7 @@ html.pa-live-search-active #offerte,html.pa-live-search-active #seasonBox{displa
 <div class="discount">Risparmi 34,00 €</div>
 <div class="home-store-source" style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:8px 0"><span style="font-size:10px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;color:#8f96a3">Offerta su</span><span title="Amazon" style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:4px 7px;display:inline-flex;align-items:center;height:28px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" style="max-width:72px;max-height:18px;object-fit:contain" loading="lazy" referrerpolicy="no-referrer"></span></div>
 <a class="buy" href="https://www.amazon.it/dp/B015WGDX6E?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI L'OFFERTA</a>
-<div class="meta">Prezzo controllato 10 min fa</div>
+<div class="meta">Prezzo controllato 20 min fa</div>
 </article>
 <!-- PA_HOME_LATEST_END -->
 </div>
@@ -26681,7 +26699,7 @@ async function loadPromotions(){
   try{
     const response=await fetch("promozioni.json?ts="+Date.now(),{cache:"no-store"});
     if(!response.ok)throw new Error("HTTP "+response.status);
-    renderPromotions(await response.json());
+    renderPromotions(window.PAWithoutAli(await response.json()));
   }catch(error){
     console.error(error);
     const box=document.getElementById("promoStrips");
@@ -26874,7 +26892,7 @@ function card(p){
       <div class="photo">
         ${details?`<a href="${details}" aria-label="Apri i dettagli di ${esc(p.title)}">${visual}</a>`:visual}
       </div>
-      <div class="category pa-v5-card-store">${(()=>{/* PA_HOME_MERCHANT_BADGE_SYNC_V2 */const m=String(p.source_merchant||p.merchant||"").toLowerCase().replace(/[^a-z0-9]/g,"");const u=String(p.url||"").toLowerCase();const k=m.includes("footlocker")||(!m&&/[?&]awinmid=23410(?:&|$)/.test(u))?"footlocker":m.includes("unieuro")?"unieuro":m.includes("mediaworld")?"mediaworld":m.includes("manomano")?"manomano":m.includes("aliexpress")?"aliexpress":m.includes("amazon")?"amazon":"";const logos={"amazon":"https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg","unieuro":"https://commons.wikimedia.org/wiki/Special:Redirect/file/Unieuro_Logo_2015.png","mediaworld":"https://cms-images.mmst.eu/hzxov1nxpus5/FeeaTPsFbPj8u1cfFmnrk/45e5d9ec059d12513e93c348d9b9e0cb/MW_logo_red.svg?q=80","manomano":"https://commons.wikimedia.org/wiki/Special:Redirect/file/ManoMano_2018.png","aliexpress":"https://commons.wikimedia.org/wiki/Special:Redirect/file/AliExpress_2024.svg","footlocker":"https://upload.wikimedia.org/wikipedia/commons/a/a9/Foot_Locker_2020_Wordmark_Logo.svg"};const labels={"amazon":"Amazon","unieuro":"Unieuro","mediaworld":"MediaWorld","manomano":"ManoMano","aliexpress":"AliExpress","footlocker":"Foot Locker"};return k&&logos[k]?`<img src="${esc(logos[k])}" alt="${esc(labels[k])}" loading="lazy" referrerpolicy="no-referrer">`:`<span>${esc(labels[k]||"Negozio")}</span>`;})()}</div>
+      <div class="category pa-v5-card-store">${(()=>{/* PA_HOME_MERCHANT_BADGE_SYNC_V2 */const m=String(p.source_merchant||p.merchant||"").toLowerCase().replace(/[^a-z0-9]/g,"");const u=String(p.url||"").toLowerCase();const k=m.includes("footlocker")||(!m&&/[?&]awinmid=23410(?:&|$)/.test(u))?"footlocker":m.includes("unieuro")?"unieuro":m.includes("mediaworld")?"mediaworld":m.includes("manomano")?"manomano":m.includes("aliexpress")?"aliexpress":m.includes("amazon")?"amazon":"";const logos={"amazon":"https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg","unieuro":"https://commons.wikimedia.org/wiki/Special:Redirect/file/Unieuro_Logo_2015.png","mediaworld":"https://cms-images.mmst.eu/hzxov1nxpus5/FeeaTPsFbPj8u1cfFmnrk/45e5d9ec059d12513e93c348d9b9e0cb/MW_logo_red.svg?q=80","manomano":"https://commons.wikimedia.org/wiki/Special:Redirect/file/ManoMano_2018.png","footlocker":"https://upload.wikimedia.org/wikipedia/commons/a/a9/Foot_Locker_2020_Wordmark_Logo.svg"};const labels={"amazon":"Amazon","unieuro":"Unieuro","mediaworld":"MediaWorld","manomano":"ManoMano","footlocker":"Foot Locker"};return k&&logos[k]?`<img src="${esc(logos[k])}" alt="${esc(labels[k])}" loading="lazy" referrerpolicy="no-referrer">`:`<span>${esc(labels[k]||"Negozio")}</span>`;})()}</div>
       <h3>${details?`<a href="${details}">${esc(compactProductTitle(p.title))}</a>`:esc(compactProductTitle(p.title))}</h3>
       ${(!manual && p.price!=null && Number(p.price)>0)
         ? `<div class="prices">
@@ -27148,7 +27166,7 @@ async function loadOffers(){
   try{
     const r=await fetch("offers.json?ts="+Date.now(),{cache:"no-store"});
     if(!r.ok)throw new Error("HTTP "+r.status);
-    const data=await r.json();
+    const data=window.PAWithoutAli(await r.json());
     products=Array.isArray(data)?data:[];
     offersLoaded=true;
     buildChips();
@@ -27235,10 +27253,10 @@ document.addEventListener('DOMContentLoaded',function(){
 (()=>{
   // PA_SEARCH_STORES_UI_20261026_1
   const SHARDS=8;
-  const LOGOS={"a": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg", "u": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Unieuro_Logo_2015.png", "w": "https://cms-images.mmst.eu/hzxov1nxpus5/FeeaTPsFbPj8u1cfFmnrk/45e5d9ec059d12513e93c348d9b9e0cb/MW_logo_red.svg?q=80", "m": "https://commons.wikimedia.org/wiki/Special:Redirect/file/ManoMano_2018.png", "x": "https://commons.wikimedia.org/wiki/Special:Redirect/file/AliExpress_2024.svg", "f": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Foot_Locker_2020_Wordmark_Logo.svg"};
-  const LABELS={a:'Amazon',u:'Unieuro',w:'MediaWorld',m:'ManoMano',x:'AliExpress',f:'Foot Locker'};
-  const STORE_OPTIONS={all:'Tutti gli store',a:'Amazon',u:'Unieuro',w:'MediaWorld',m:'ManoMano',x:'AliExpress',f:'Foot Locker'};
-  const API_STORES={a:'amazon',u:'unieuro',w:'mediaworld',m:'manomano',x:'aliexpress',f:'footlocker'};
+  const LOGOS={"a": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg", "u": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Unieuro_Logo_2015.png", "w": "https://cms-images.mmst.eu/hzxov1nxpus5/FeeaTPsFbPj8u1cfFmnrk/45e5d9ec059d12513e93c348d9b9e0cb/MW_logo_red.svg?q=80", "m": "https://commons.wikimedia.org/wiki/Special:Redirect/file/ManoMano_2018.png", "f": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Foot_Locker_2020_Wordmark_Logo.svg"};
+  const LABELS={a:'Amazon',u:'Unieuro',w:'MediaWorld',m:'ManoMano',f:'Foot Locker'};
+  const STORE_OPTIONS={all:'Tutti gli store',a:'Amazon',u:'Unieuro',w:'MediaWorld',m:'ManoMano',f:'Foot Locker'};
+  const API_STORES={a:'amazon',u:'unieuro',w:'mediaworld',m:'manomano',f:'footlocker'};
   const LIVE_API="https://api.prezziassurdi.com/search";
   let indexPromise=null;
   let selectedStore='all';
@@ -27297,7 +27315,7 @@ document.addEventListener('DOMContentLoaded',function(){
     if(indexPromise)return indexPromise;
     indexPromise=(async()=>{
       const settled=await Promise.allSettled(Array.from({length:SHARDS},(_,i)=>
-        fetch(`/search/index-${i}.json`,{cache:'default'}).then(r=>{if(!r.ok)throw new Error(`HTTP ${r.status}`);return r.json();})
+        fetch(`/search/index-${i}.json`,{cache:'default'}).then(r=>{if(!r.ok)throw new Error(`HTTP ${r.status}`);return r.json().then(window.PAWithoutAli);})
       ));
       const all=[];
       settled.forEach(x=>{if(x.status==='fulfilled' && Array.isArray(x.value?.items))all.push(...x.value.items);});
@@ -27592,7 +27610,7 @@ document.addEventListener('DOMContentLoaded',function(){
       @media(max-width:650px){#priceSearchPanel .pa-clean-grid{grid-template-columns:minmax(0,1fr)}#priceSearchPanel .pa-clean-photo{height:110px}#priceSearchPanel .pa-clean-store-box{flex:1 1 140px}}
     </style>`;
     const storeKeys=keys.slice().sort((a,b)=>storeHits(b)-storeHits(a));
-    const allButton=`<div class="pa-clean-store-box"><button class="pa-clean-store-filter" type="button" data-search-store="all" aria-pressed="${store==='all'}"><b>Tutti gli store</b><span class="pa-clean-store-count">6 negozi</span></button></div>`;
+    const allButton=`<div class="pa-clean-store-box"><button class="pa-clean-store-filter" type="button" data-search-store="all" aria-pressed="${store==='all'}"><b>Tutti gli store</b><span class="pa-clean-store-count">più negozi</span></button></div>`;
     const statuses=storeKeys.map(key=>{
       const status=(data.store_status||{})[key]||{},fallback=status.fallback_url?searchSafeUrl(status.fallback_url):'';
       const incomplete=status.timed_out||status.match_state==='unverifiable';
@@ -27810,7 +27828,7 @@ document.addEventListener('DOMContentLoaded',function(){
   const box=document.querySelector('.pa-home-controls');if(!box)return;
   const fields={category:box.querySelector('[data-pa-home-category]'),store:box.querySelector('[data-pa-home-store]'),discount:box.querySelector('[data-pa-home-discount]'),price:box.querySelector('[data-pa-home-price]'),sort:box.querySelector('[data-pa-home-sort]')};
   const cards=()=>Array.from(document.querySelectorAll('[data-pa-home-card]'));
-  const labels={amazon:'Amazon',unieuro:'Unieuro',mediaworld:'MediaWorld',manomano:'ManoMano',aliexpress:'AliExpress',footlocker:'Foot Locker'};
+  const labels={amazon:'Amazon',unieuro:'Unieuro',mediaworld:'MediaWorld',manomano:'ManoMano',footlocker:'Foot Locker'};
   const addOptions=(select,values)=>{values.forEach(([value,label])=>{if(!Array.from(select.options).some(o=>o.value===value)){const option=document.createElement('option');option.value=value;option.textContent=label;select.appendChild(option)}})};
   const initial=cards();
   addOptions(fields.category,Array.from(new Map(initial.map(c=>[c.dataset.paCategory,c.dataset.paCategoryLabel||c.dataset.paCategory])).entries()).filter(x=>x[0]).sort((a,b)=>a[1].localeCompare(b[1],'it')));

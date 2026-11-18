@@ -1,6 +1,22 @@
 <!doctype html>
 <html lang="it">
 <head>
+<!-- PA_NO_ALIEXPRESS_HTML_V1 -->
+<script>/* PA_NO_ALIEXPRESS_CLIENT_V1 */
+window.PAWithoutAli = (()=>{
+  const store=v=>['x','ali','aliexpress','aliexpressit','aliexpressitalia'].includes(String(v||'').toLowerCase().replace(/[^a-z0-9]/g,''));
+  const url=v=>{try{const u=new URL(String(v||''),location.href),h=u.hostname.toLowerCase();return /(^|\.)aliexpress\.(com|ru|us)$/.test(h)||((h==='awin1.com'||h.endsWith('.awin1.com'))&&['m','awinmid','mid'].some(k=>u.searchParams.get(k)==='12251'));}catch{return false;}};
+  const maps=new Set(['stores','store_status','merchant_counts','logos','attempts','best_by_store','store_summaries','by_store','plans']);
+  const walk=(v,k='')=>{
+    if(Array.isArray(v))return v.filter(x=>!(k==='o'&&Array.isArray(x)&&store(x[0]))).map(x=>walk(x,k)).filter(x=>x!==null);
+    if(!v||typeof v!=='object')return v;
+    if(['merchant','source_merchant','merchant_name','store','_store','store_code'].some(k=>store(v[k]))||['url','product_url','affiliate_url','aw_deep_link'].some(k=>url(v[k]))||['merchant_id','advertiser_id'].some(k=>String(v[k]||'')==='12251'))return null;
+    const out={};for(const [key,x]of Object.entries(v)){if(key==='aliexpress'||maps.has(k)&&store(key))continue;const y=walk(x,key);if(y!==null)out[key]=y;}
+    for(const key of ['offers','offer_details','o'])if(Array.isArray(v[key])&&v[key].length&&!out[key]?.length)return null;
+    return out;
+  };return v=>walk(v);
+})();</script>
+
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Offerte Estate | Prezzi Assurdi</title>
@@ -359,11 +375,11 @@ img { image-rendering:auto; }
 <div class="crumb"><a href="https://prezziassurdi.com/">Home</a> › Estate</div>
 <section class="hero"><span class="hero-badge">CALENDARIO PREZZI ASSURDI</span><h1>Offerte Estate</h1>
 <p>Periodo della raccolta: 01/05/2026 – 31/08/2026.</p><p>Il periodo di questa raccolta è concluso. Cerca i prodotti per controllare i prezzi attuali.</p></section>
-<section class="pa-event-page" aria-label="Proposte stagionali"><div class="empty-band"><strong>Nessuna proposta recente pubblicata per questa raccolta.</strong><p>Prova le ricerche qui sotto: il motore confronta le fonti dei sei store, quando disponibili.</p></div></section>
+<section class="pa-event-page" aria-label="Proposte stagionali"><div class="empty-band"><strong>Nessuna proposta recente pubblicata per questa raccolta.</strong><p>Prova le ricerche qui sotto: il motore confronta le fonti dei più store, quando disponibili.</p></div></section>
 <h2 class="section-title">Cerca ciò che ti serve</h2>
 <nav class="pa-season-topics" aria-label="Ricerche per Estate"><a href="https://prezziassurdi.com/?q=ventilatore#confronta">Cerca ventilatore</a><a href="https://prezziassurdi.com/?q=condizionatore%20portatile#confronta">Cerca condizionatore portatile</a><a href="https://prezziassurdi.com/?q=piscina%20gonfiabile#confronta">Cerca piscina gonfiabile</a><a href="https://prezziassurdi.com/?q=ombrellone#confronta">Cerca ombrellone</a><a href="https://prezziassurdi.com/?q=barbecue#confronta">Cerca barbecue</a><a href="https://prezziassurdi.com/?q=tenda%20campeggio#confronta">Cerca tenda campeggio</a><a href="https://prezziassurdi.com/?q=frigorifero%20portatile#confronta">Cerca frigorifero portatile</a><a href="https://prezziassurdi.com/?q=crema%20solare#confronta">Cerca crema solare</a></nav>
-<p class="note">Amazon è interrogato tramite API; Unieuro, MediaWorld, ManoMano e AliExpress tramite i cataloghi partner. Non tutti i negozi vendono ogni categoria. Prezzi, disponibilità, venditore e consegna vanno confermati sul negozio. I link di acquisto seguono l’affiliazione già configurata.</p></div></main>
-<footer>PREZZI ASSURDI — Alcuni link sono affiliati. In qualità di Affiliato Amazon ricevo un guadagno dagli acquisti idonei; per Unieuro, MediaWorld, ManoMano, AliExpress e Foot Locker utilizziamo link tracciati del network Awin. Prezzi e disponibilità possono cambiare sui siti dei negozi.<br><a href="https://prezziassurdi.com/chi-siamo/">Chi siamo</a> · <a href="https://prezziassurdi.com/trasparenza/">Trasparenza e criteri</a> · <a href="https://prezziassurdi.com/stato-offerte/">Controlli offerte</a></footer>
+<p class="note">Amazon è interrogato tramite API; Unieuro, MediaWorld, ManoMano tramite i cataloghi partner. Non tutti i negozi vendono ogni categoria. Prezzi, disponibilità, venditore e consegna vanno confermati sul negozio. I link di acquisto seguono l’affiliazione già configurata.</p></div></main>
+<footer>PREZZI ASSURDI — Alcuni link sono affiliati. In qualità di Affiliato Amazon ricevo un guadagno dagli acquisti idonei; per Unieuro, MediaWorld, ManoMano e Foot Locker utilizziamo link tracciati del network Awin. Prezzi e disponibilità possono cambiare sui siti dei negozi.<br><a href="https://prezziassurdi.com/chi-siamo/">Chi siamo</a> · <a href="https://prezziassurdi.com/trasparenza/">Trasparenza e criteri</a> · <a href="https://prezziassurdi.com/stato-offerte/">Controlli offerte</a></footer>
 <script>
 (function(){
   function initGuideFilters(){
