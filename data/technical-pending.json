@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-19T13:06:52+01:00",
+  "generated_at": "2026-11-19T14:31:54+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -1083,27 +1083,6 @@
       }
     ],
     "migliori-monitor": [
-      {
-        "title": "Samsung Monitor Gaming Odyssey G5 (S32CG554), Curvo (1000R), 32\", 2560x1440 (WQHD 2K), HDR10, VA, 165 Hz, 1 ms (MPRT), FreeSync, HDMI, Display Port, Ingresso Audio, Flicker Free, E",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Samsung Monitor Gaming Odyssey G4, 25'', (S25HG402EU) | Flat, 1920x1080 FHD, Fast IPS, 300Hz, 1ms, HDR10, AMD FreeSync Premium, HAS, Pivot, Tilt, Swivel, HDMI, Display Port",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Samsung Monitor Gaming Odyssey G4, 27'', (S27BG400) | Flat, 1920x1080 FHD, IPS, 240Hz, 1ms, Freesync Premium, G-Sync, HAS, Pivot, Eye Saver Mode, Flicker Free, HDMI, DP",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Xiaomi Monitor G27i",
         "merchant": "",
@@ -2239,6 +2218,27 @@
     ],
     "migliori-lavatrici": [
       {
+        "title": "COMFEE' Lavatrice 9 kg Classe A1400 Giri Motore Inverter Silenzioso | Vapore Igienico, Wool, Lavaggio Rapido e Pannello Touch per Famiglie e Grandi Carichi di Bucato CFP03EW90W-IT",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Indesit BWE 91296X WV IT - Lavatrice 9kg | Libera Installazione carica frontale, Classe A, 1150 giri, Bianco, Partenza Ritardata",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "COMFEE' Lavatrice Slim 9 kg Classe A 1400 Giri Motore BLDC Silenzioso | 15 Programmi, Steam, Quick Wash e Design Compatto per Famiglie e Grandi Carichi CFP01EW90W",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Hotpoint Ariston NBT 1048 WD A IT - Lavatrice 10 kg | Libera Installazione, Carica Frontale.1400 Giri/min. Larghezza 59,5cm, Profondità 60,5cm, Altezza 85,0cm, Classe Energetica A",
         "merchant": "amazon",
         "ean": "",
@@ -2267,13 +2267,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "COMFEE' Lavatrice Slim 9 kg Classe A 1400 Giri Motore BLDC Silenzioso",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Candy Smart Lavatrice 9 Kg, 1200 Giri, Classe B, Bianca",
         "merchant": "",
         "ean": "",
@@ -2288,23 +2281,9 @@
         "status": "da_verificare"
       },
       {
-        "title": "Indesit BWE 91296X WV IT - Lavatrice 9kg",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Haier X Serie 5 Lavatrice 9 Kg, 1400 Giri, Classe A-25%, Bianca | Vapore, Ciclo Refresh, Smart AI, Wi-Fi, App hOn, Libera Installazione, 72 dB, 85x60x55.9 cm, HW90-BP14357U-IT",
         "merchant": "amazon",
         "ean": "6921081514139",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "COMFEE' Lavatrice 9 kg Classe A1400 Giri Motore Inverter Silenzioso | Vapore Igienico, Wool, Lavaggio Rapido e Pannello Touch per Famiglie e Grandi Carichi di Bucato CFP03EW90W-IT",
-        "merchant": "amazon",
-        "ean": "6945878356726",
         "mpn": "",
         "status": "da_verificare"
       },
