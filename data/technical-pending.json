@@ -1,10 +1,17 @@
 {
   "version": 1,
-  "generated_at": "2026-11-19T05:46:30+01:00",
+  "generated_at": "2026-11-19T07:16:48+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
     "smartphone-in-offerta": [
+      {
+        "title": "Samsung Galaxy S26 FE, 256GB, Blueberry [Versione Italiana] | 3 Anni di Garanzia, Galaxy AI, Camera 50MP, Assistente Foto, My FanCam, Blocco Orizzontale Video, Batteria 4900 mAh, R",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Motorola moto g06 (4/256GB, Fotocamera 50MP+flicker cam, selfie 8MP, Display HD+ 6.88\", MediaTek Helio G81 Extreme, 5200mAh, Android 15), Arabesque",
         "merchant": "amazon",
@@ -205,13 +212,6 @@
         "title": "Samsung Galaxy A27 5G, 256GB, RAM 8GB, Black [Versione Italiana] | 3 anni di Garanzia, Smartphone sottile, Cerchia e Cerca, Gomma Oggetto, Trascrizione Vocale, Tripla Camera, IP64,",
         "merchant": "amazon",
         "ean": "8806099422677",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Samsung Galaxy A27 5G, 256GB, RAM 8GB, Blue [Versione Italiana] | 3 anni di Garanzia, Smartphone sottile, Cerchia e Cerca, Gomma Oggetto, Trascrizione Vocale, Tripla Camera, IP64, ",
-        "merchant": "amazon",
-        "ean": "8806099422684",
         "mpn": "",
         "status": "da_verificare"
       }
@@ -1070,20 +1070,6 @@
     ],
     "migliori-monitor": [
       {
-        "title": "PHILIPS Monitor 27E1N1800AE 27 pollici 3840x2160, UHD, 60Hz, IPS Panel, 4ms GtG, Speakers, Height Adjustment, (HDMI2x 2.0 DP 1x 1.4) HDR10, Nero",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Samsung Monitor S39GD, 27'', (S27D396GAU) | Curvo 1800R, 1920x1080 Full HD, VA, 100Hz, 4ms (GtG), Eye Saver Mode, Flicker Free, Speaker Integrati, HDMI, D-Sub",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Xiaomi Monitor G27i",
         "merchant": "",
         "ean": "",
@@ -1601,6 +1587,13 @@
     ],
     "migliori-soundbar": [
       {
+        "title": "LG Soundbar SG10TY, 420W su 3.1 canali, Dolby Atmos, Wi-Fi, Design a filo muro",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Samsung Soundbar HW-B66CF/ZF Serie B, 4 Speaker, Wireless, Dolby 5.1ch, Audio a 3.1 Canali, DTS 5.1ch, Surround Sound Expansion, Voice Enhance Mode, Black, 2025",
         "merchant": "",
         "ean": "",
@@ -1713,13 +1706,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "LG Soundbar SG10TY, 420W su 3.1 canali, Dolby Atmos, Wi Fi, Design a filo muro",
-        "merchant": "unieuro",
-        "ean": "8806091960146",
-        "mpn": "GOLSG10TY.DEUSLLK",
-        "status": "da_verificare"
-      },
-      {
         "title": "Samsung Soundbar HW B650F/ZF, Audio 3.1 canali, Wireless Dolby 5.1ch, 2025",
         "merchant": "unieuro",
         "ean": "8806097069225",
@@ -1743,21 +1729,7 @@
     ],
     "cuffie-bluetooth-in-offerta": [
       {
-        "title": "AKG K52 Cuffie da studio di monitoraggio chiuse ad alte prestazioni, con cavo, design leggero, adattatori da 3,5 mm e 1/4\", cavo da 3 m - Nero",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "PHILIPS TAH4209WH Cuffie On-Ear wireless bluetooth leggere con isolamento acustico passivo - 55 ore di riproduzione, suono naturale, chiamate chiare, bassi dinamici, 2 ore di caric",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "2026 Cuffie Bluetooth 5.4, Auricolari Bluetooth Stereo HiFi Con 4 ENC Microfoni Anti-Rumore, Durata 50 Ore Cuffiette In Ear, Cuffiette Touch Control, Impermeabili IP7 Cuffie Senza ",
+        "title": "Music Sound | HEADBAND Bluetooth Basic | Cuffie on Ear Bluetooth con Archetto Estendibile - PlayTime 14h - Colore Bianco, One Size",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -1951,9 +1923,30 @@
         "ean": "0197192348017",
         "mpn": "7G8F3AA",
         "status": "da_verificare"
+      },
+      {
+        "title": "Marshall MAJOR IV Cuffie Con cavo e senza cavo A Padiglione MUSICA USB tipo C Bluetooth Nero",
+        "merchant": "unieuro",
+        "ean": "7340055379458",
+        "mpn": "MRS1005773",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Sony Cuffie Bluetooth wireless WH CH520 Durata della batteria fino a 50 ore con ricarica rapida, stile on ear Bianco",
+        "merchant": "unieuro",
+        "ean": "4548736142817",
+        "mpn": "SONWHCH520W.CE7",
+        "status": "da_verificare"
       }
     ],
     "migliori-robot-aspirapolvere": [
+      {
+        "title": "DREAME D20 Air Plus Robot Aspirapolvere, Aspirazione 20.000 Pa | Stazione Auto-Svuot. 120 gg, Tecnologia Anti-Groviglio, Pulizia Bordo-Angolo, Pulizia Profonda Tappeti e Navigaz. S",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Lefant M210 PRO OMNI Robot Aspirapolvere Lavapavimenti con Rullo 20.000Pa",
         "merchant": "",
@@ -2131,6 +2124,13 @@
       }
     ],
     "aspirapolvere-senza-fili-in-offerta": [
+      {
+        "title": "FAMIVAC FV3 Aspirapolvere senza Fili 60KPa/50Min/120㎡, Tubo Pieghevole | Autoportante con Spazzola Antigroviglio, Luce Verde, Scopa Elettrica Potente per Pavimento Duro/Moquette/Pe",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Aspirapolvere Senza Fili Scopa Elettrica - Potente Filo Batteria Cordless Vacuum Cleaner Scope Elettriche Sacco Portatile Ciclonico Silenzioso per Divano Tappeti Parquet Pavimenti ",
         "merchant": "amazon",
@@ -2756,6 +2756,76 @@
     ],
     "migliori-moda": [
       {
+        "title": "Puma MB.01 Uomo - Sneakers Bianco - Taglia 44 - Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Puma MB.01 Uomo - Sneakers Viola - Taglia 46 - Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Puma MB.01 Uomo - Sneakers Viola - Taglia 43 - Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Puma MB.01 Uomo - Sneakers Viola - Taglia 47 - Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Puma MB.01 Uomo - Sneakers Viola - Taglia 41 - Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Puma MB.01 Uomo - Sneakers Viola - Taglia 42.5 - Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Puma MB.01 Uomo - Sneakers Viola - Taglia 42 - Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Puma MB.01 Uomo - Sneakers Viola - Taglia 40.5 - Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Puma MB.01 Uomo - Sneakers Viola - Taglia 44 - Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Puma MB.01 Uomo - Sneakers Viola - Taglia 44.5 - Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "MINECRAFT Pile Pigiama Intero Ragazzo con Cappuccio Tuta Intera - Regalo Bambino (AOP Nero, 9-10 Anni)",
         "merchant": "amazon",
         "ean": "",
@@ -2894,79 +2964,79 @@
         "ean": "4059505055998",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Black Black, 42 EU",
-        "merchant": "amazon",
-        "ean": "4059505056995",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "PUMA Sneakers Shuffle Downtown Unisex, White-White-Gold, 36 EU",
-        "merchant": "amazon",
-        "ean": "4069156771536",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Bianco, 42 EU",
-        "merchant": "amazon",
-        "ean": "4059505057152",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Scarpe Sportive Uomo Scarpe Running Corsa Jogging Ginnastica Trail Sneakers | Hitmars Scarpe Running Uomo Donna, Fitness, Camminata, Outdoor, Antiscivolo, Sneakers Sportive, Trekki",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Hitmars Scarpe Running Uomo Ginnastica Donna Scarpe da Corsa Trekking Sneakers Trail Sportive Fitness Correre Running Shoes Camminare Verde EU 42",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "JOMIX Scarpe da Ginnastica Uomo Sneaker Sportive Corsa Running Sneakers Casual Traspirante per Correre Camminare Trail Trekking SU138-13 (Bianco, 42)",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Mnking Scarpe da Ginnastica Uomo Donna Scarpe Corsa Sportive Running Fitness Trail Mesh Leggera Respirabile Gym Sneaker Basse Nero Bianco EU38",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Hitmars Scarpe Running Uomo Scarpe da Corsa Trekking Ginnastica EU42 | Scarpe Sportive Uomo Trail Running Fitness Sneakers Casual Leggere Antiscivolo Traspiranti",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Hitmars Scarpe Running Uomo Sneakers Sport Corsa Trail Leggere Traspiranti | Hitmars Scarpe Sport Uomo Sneakers Uomo Scarpe da corsa Sportive Ginnastica Passeggio Antiscivolo Chius",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Marvel Logo Avengers Pop Art Maglietta",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
       }
     ],
     "migliori-sneakers": [
+      {
+        "title": "Puma MB.01 Uomo - Sneakers Bianco - Taglia 44 - Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Puma MB.01 Uomo - Sneakers Viola - Taglia 46 - Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Puma MB.01 Uomo - Sneakers Viola - Taglia 43 - Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Puma MB.01 Uomo - Sneakers Viola - Taglia 47 - Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Puma MB.01 Uomo - Sneakers Viola - Taglia 41 - Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Puma MB.01 Uomo - Sneakers Viola - Taglia 42.5 - Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Puma MB.01 Uomo - Sneakers Viola - Taglia 42 - Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Puma MB.01 Uomo - Sneakers Viola - Taglia 40.5 - Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Puma MB.01 Uomo - Sneakers Viola - Taglia 44 - Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Puma MB.01 Uomo - Sneakers Viola - Taglia 44.5 - Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
@@ -3104,76 +3174,6 @@
         "title": "PUMA Sneakers Shuffle Downtown Unisex, White-White-Gold, 36 EU",
         "merchant": "amazon",
         "ean": "4069156771536",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Bianco, 42 EU",
-        "merchant": "amazon",
-        "ean": "4059505057152",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Scarpe Sportive Uomo Scarpe Running Corsa Jogging Ginnastica Trail Sneakers | Hitmars Scarpe Running Uomo Donna, Fitness, Camminata, Outdoor, Antiscivolo, Sneakers Sportive, Trekki",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Hitmars Scarpe Running Uomo Ginnastica Donna Scarpe da Corsa Trekking Sneakers Trail Sportive Fitness Correre Running Shoes Camminare Verde EU 42",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "JOMIX Scarpe da Ginnastica Uomo Sneaker Sportive Corsa Running Sneakers Casual Traspirante per Correre Camminare Trail Trekking SU138-13 (Bianco, 42)",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Hitmars Scarpe Running Uomo Scarpe da Corsa Trekking Ginnastica EU42 | Scarpe Sportive Uomo Trail Running Fitness Sneakers Casual Leggere Antiscivolo Traspiranti",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Hitmars Scarpe Running Uomo Sneakers Sport Corsa Trail Leggere Traspiranti | Hitmars Scarpe Sport Uomo Sneakers Uomo Scarpe da corsa Sportive Ginnastica Passeggio Antiscivolo Chius",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Puma MB.01 Uomo Sneakers Bianco Taglia 40.5 Rete/Sintetico",
-        "merchant": "footlocker",
-        "ean": "4070032492896",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Puma MB.01 Uomo Sneakers Bianco Taglia 41 Rete/Sintetico",
-        "merchant": "footlocker",
-        "ean": "4070032492964",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Puma MB.01 Uomo Sneakers Bianco Taglia 42 Rete/Sintetico",
-        "merchant": "footlocker",
-        "ean": "4070032492902",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Puma MB.01 Uomo Sneakers Bianco Taglia 42.5 Rete/Sintetico",
-        "merchant": "footlocker",
-        "ean": "4070032492971",
         "mpn": "",
         "status": "da_verificare"
       }
