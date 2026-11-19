@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-19T17:21:48+01:00",
+  "generated_at": "2026-11-19T18:51:48+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -388,6 +388,13 @@
     ],
     "tv-in-offerta": [
       {
+        "title": "LG OLED evo AI 48 Pollici, Serie G5 2025 Smart TV 4K - OLED48G56LS | Base da Appoggio Inclusa, Processore α11 Gen2, Brightness Booster, WebOS con AI, Dolby Vision, Atmos, VRR, GSYN",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "LG OLED evo AI 65 Pollici, Serie G6S 2026 Smart TV 4K - OLED65G66LS | Base da Appoggio, Hyper Radiant Color, Reflection Free, Dual AI Engine, Dolby Vision & Atmos, VRR e G-Sync 4K@",
         "merchant": "amazon",
         "ean": "",
@@ -587,13 +594,6 @@
         "title": "Samsung Smart TV 65\" UE65U8090HUXZT Crystal UHD, Crystal 4K Processor, HDR10+, PurColor, Motion Xcelerator, Dynamic Sound Pack, Gaming Hub, TV Plus, Knox Security, Vision AI, 2026",
         "merchant": "amazon",
         "ean": "8806097963448",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "XIAOMI TV F 65 2025, 65 pollici (165 cm),4K UHD,Smart TV, Fire TV,Triple Tuner DVB-C/S/S2/T/T2, HDR10,MEMC, Modalità Game Boost 120Hz, Controllo Vocale Alexa, 2GB+32GB, Compatibile",
-        "merchant": "amazon",
-        "ean": "6941948706705",
         "mpn": "",
         "status": "da_verificare"
       }
@@ -963,6 +963,27 @@
     ],
     "migliori-tablet": [
       {
+        "title": "Tablet Android Gemini AI, 30GB RAM+128GB ROM/2TB Tablet 10 Pollici, 8000mAh, 5G WiFi, Corpo Metallico, Unisoc Octa Core/5+8MP/Widevine L1/Face ID/BT5.0/GPS Tablets con Tastiera e M",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "OPPO Pad SE Tablet Android Wi-Fi, 11 pollici, 4 GB + 128 GB, Twilight Blue | Batteria a lunga durata da 9340 mAh, display immersivo Eye-Care, Kids Mode, 1920*1200, 90 Hz, 500 nit",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "HUAWEI MatePad 11.5 2025 Tablet, Display FullView da 2.5K e 120 Hz che Garantisce Comfort Visivo, 8+128GB, Batteria de 10,100 mAh, Ricarica Rapida a 40 W, Quattro Altoparlanti",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Tablet Android da 11 Pollici, Octa-Core, 24GB(4+20) RAM+128GB Memoria, Batteria 8200mAh, Widevine L1, Espandibile fino a 1TB, Doppia Fotocamera, Android Tablet per Studio, Lavoro e",
         "merchant": "",
         "ean": "",
@@ -1000,13 +1021,6 @@
       {
         "title": "TECLAST P50T Android 16 Tablet 11 Pollici Gemini AI, 90Hz Display, T7250 2GHz Octa Core Gaming Tablets, 16GB RAM+128GB ROM(5TB TF), 8000mAh, Widevine L1, 5G WiFi 6, GPS/13MP/OTG, 2",
         "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Tablet Android Gemini AI, 30GB RAM+128GB ROM/2TB Tablet 10 Pollici, 8000mAh, 5G WiFi, Corpo Metallico, Unisoc Octa Core/5+8MP/Widevine L1/Face ID/BT5.0/GPS Tablets con Tastiera e M",
-        "merchant": "amazon",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
@@ -1275,13 +1289,6 @@
     ],
     "migliori-smartwatch": [
       {
-        "title": "Google Fitbit Sense 2 Smartwatch per fitness e benessere con GPS integrato, fino a 6 giorni di autonomia e compatibile con Compatible with iOS 15 & Android OS 9.0",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "2026 Smartwatch Uomo GPS,2.06\" HD AMOLED Orologio Smartwatch con Chiamate",
         "merchant": "",
         "ean": "",
@@ -1482,6 +1489,13 @@
         "merchant": "unieuro",
         "ean": "8055776233062",
         "mpn": "IOPEXTWATCH670",
+        "status": "da_verificare"
+      },
+      {
+        "title": "IOPLEE IOPEXTWATCH671GR smartwatch e orologio sportivo 3,63 cm (1.43'') AMOLED Digitale 466 x 466 Pixel Touch screen Argento",
+        "merchant": "unieuro",
+        "ean": "8055776233079",
+        "mpn": "IOPEXTWATCH671",
         "status": "da_verificare"
       }
     ],
@@ -2656,6 +2670,20 @@
     ],
     "friggitrici-ad-aria-offerte-confronto": [
       {
+        "title": "Philips Airfryer 4000 - Friggitrice ad aria Verticale 10L (5+5L) | Doppio Cestello 5L + 5L, RapidAir, Rivestimento in ceramica PFAS Free, Funzione Sync, 45% più piccola, Finestrell",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Ninja Double Stack XL, Friggitrice ad Aria Verticale, 9,5L, Nero/Rame | 6 Funzioni, Doppio Cestello, Griglie, Piastre, 4 Livelli, Ricette 8 Persone, Accessori Lavabili in Lavastovi",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Cecotec Friggitrice ad Aria 8 Litri - Air Fryer Cecofry&Grill Duoheat 8000. 2200W, Doppia Resistenza, Dietetica e Digitale, Finestra, Temperatura Regolabile 80-200°C, 8 Menu",
         "merchant": "amazon",
         "ean": "8435771915895",
@@ -2790,6 +2818,13 @@
       }
     ],
     "migliori-moda": [
+      {
+        "title": "Skechers Uomo Contour Foam Cozy Fit Slip-Ins, White Mesh, 44 EU",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "ANYOO Amaca da Giardino in Cotone Tessuto Comodo con Cinghie Rispettose degli Alberi per Appendere, Durevole Amaca Portatile con Borsa da Viaggio per Campeggio, Esterno/Interno, Ba",
         "merchant": "amazon",
@@ -2988,13 +3023,6 @@
       },
       {
         "title": "Marvel Logo Avengers Pop Art Maglietta",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Magliette Manica Corta Divertenti Ansia A Livello Agonistico Maglietta",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
