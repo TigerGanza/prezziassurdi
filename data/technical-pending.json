@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-19T14:31:54+01:00",
+  "generated_at": "2026-11-19T15:56:50+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -388,7 +388,21 @@
     ],
     "tv-in-offerta": [
       {
-        "title": "TV Sony BRAVIA 3Ⅱ43 pollici, Smart TV 4K (Google TV), processore XR con tecnologia AI, 120 Hz con Dolby Vision/Atmos, compatibile con PS5, modello 43XR32M2, anno 2026",
+        "title": "LG OLED evo AI 65 Pollici, Serie G6S 2026 Smart TV 4K - OLED65G66LS | Base da Appoggio, Hyper Radiant Color, Reflection Free, Dual AI Engine, Dolby Vision & Atmos, VRR e G-Sync 4K@",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "LG OLED evo AI 65 Pollici, Serie C6 2026 Smart TV 4K - OLED65C64LA | Brightness Booster, CPU α11 Gen3, AI Engine, Dolby Vision & Atmos, Magic Remote, Gemini, VRR/G-Sync 165Hz",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "LG OLED evo AI 55 Pollici, Serie C6 2026 Smart TV 4K - OLED55C64LA | Brightness Booster, Processore α11 Gen3, Dual AI Engine, Dolby Vision & Atmos, AI Magic Remote, Gemini, 165Hz V",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -582,23 +596,30 @@
         "ean": "6941948706705",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "Hisense Smart TV 65\" UHD 4K 65E6ST | DTS Virtual X, VIDAA OS con 1000+ APP, HDR 10+, Game Mode Plus, Bluetooth, Wifi, Alexa, AirPlay2, lativù 4K, 2026 Model",
-        "merchant": "amazon",
-        "ean": "6942351430805",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Smart TV TCL 65V6C 65 pollici 4K HDR Direct LED, Google TV | Dolby Audio, Game Master, Motion Clarity, Google Assistant, Compatibile con Alexa",
-        "merchant": "amazon",
-        "ean": "5901292525972",
-        "mpn": "",
-        "status": "da_verificare"
       }
     ],
     "offerte-tv-55-65-pollici": [
+      {
+        "title": "LG OLED evo AI 65 Pollici, Serie G6S 2026 Smart TV 4K - OLED65G66LS | Base da Appoggio, Hyper Radiant Color, Reflection Free, Dual AI Engine, Dolby Vision & Atmos, VRR e G-Sync 4K@",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "LG OLED evo AI 65 Pollici, Serie C6 2026 Smart TV 4K - OLED65C64LA | Brightness Booster, CPU α11 Gen3, AI Engine, Dolby Vision & Atmos, Magic Remote, Gemini, VRR/G-Sync 165Hz",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "LG OLED evo AI 55 Pollici, Serie C6 2026 Smart TV 4K - OLED55C64LA | Brightness Booster, Processore α11 Gen3, Dual AI Engine, Dolby Vision & Atmos, AI Magic Remote, Gemini, 165Hz V",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "TCL 55V6D – Smart TV 4K HDR10+ da 55\" con Fire TV e Dolby Atmos | DTS:X, Game Master, Motion Clarity, Apple AirPlay 2, Press & Ask Alexa",
         "merchant": "amazon",
@@ -693,13 +714,6 @@
     ],
     "migliori-notebook": [
       {
-        "title": "ASUS V16 V3607VH#B0H37KKLCQ, Notebook con display 16\" LED, Anti-glare, 144Hz, Intel® Core™ 5 Processor 210H, NVIDIA® GeForce RTX™ 5050, RAM 16GB, 512GB SSD, WIN11 Home, Nero",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "ASUS Vivobook 16 F1605VA#B0FZL8JLW9, Notebook con display 16\" Anti-glare, 60Hz,Intel® Core™ 9 Processor 270H,RAM 16GB, 1TB SSD, WIN11 Home, Argento",
         "merchant": "",
         "ean": "",
@@ -752,6 +766,13 @@
         "title": "Lenovo IdeaPad Slim 3 Notebook 15\" IPS, Snapdragon X X1-26-100, RAM 16GB, 256GB SSD, Windows 11 Home, WiFi 6, Laptop per Casa, Ufficio, Studio, Multitasking, Uso Quotidiano - Caric",
         "merchant": "amazon",
         "ean": "0199276920201",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "ASUS V16 V3607VH#B0H37KKLCQ, Notebook con display 16\" LED, Anti-glare, 144Hz, Intel® Core™ 5 Processor 210H, NVIDIA® GeForce RTX™ 5050, RAM 16GB, 512GB SSD, WIN11 Home, Nero",
+        "merchant": "amazon",
+        "ean": "4711636636254",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -941,13 +962,6 @@
       }
     ],
     "migliori-tablet": [
-      {
-        "title": "Gleeso Tablet Bambini | Android 16 Tablet per Bambini 10 Pollici, Kids Tablet | 24GB+1TB TF | Controllo Parentale | 8MP Fotocamera | WiFi 6/BT 5.3, Tablet con Custodia Protettiva -",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Tablet Android da 11 Pollici, Octa-Core, 24GB(4+20) RAM+128GB Memoria, Batteria 8200mAh, Widevine L1, Espandibile fino a 1TB, Doppia Fotocamera, Android Tablet per Studio, Lavoro e",
         "merchant": "",
@@ -1261,6 +1275,13 @@
     ],
     "migliori-smartwatch": [
       {
+        "title": "Google Fitbit Sense 2 Smartwatch per fitness e benessere con GPS integrato, fino a 6 giorni di autonomia e compatibile con Compatible with iOS 15 & Android OS 9.0",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "2026 Smartwatch Uomo GPS,2.06\" HD AMOLED Orologio Smartwatch con Chiamate",
         "merchant": "",
         "ean": "",
@@ -1461,13 +1482,6 @@
         "merchant": "unieuro",
         "ean": "8055776233062",
         "mpn": "IOPEXTWATCH670",
-        "status": "da_verificare"
-      },
-      {
-        "title": "IOPLEE IOPEXTWATCH671GR smartwatch e orologio sportivo 3,63 cm (1.43'') AMOLED Digitale 466 x 466 Pixel Touch screen Argento",
-        "merchant": "unieuro",
-        "ean": "8055776233079",
-        "mpn": "IOPEXTWATCH671",
         "status": "da_verificare"
       }
     ],
@@ -1962,6 +1976,13 @@
     ],
     "migliori-robot-aspirapolvere": [
       {
+        "title": "Dyson R2 Nurovi Wash+Dry Robot Aspirapolvere Lavapavimenti (2026) | Robot aspirapolvere e lavapavimenti in uno. Panni Reuleaux fin dentro gli angoli. 21.000 Pa Twin-capture su ogni",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Lefant M210 PRO OMNI Robot Aspirapolvere Lavapavimenti con Rullo 20.000Pa",
         "merchant": "",
         "ean": "",
@@ -2239,20 +2260,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Hotpoint Ariston NBT 1048 WD A IT - Lavatrice 10 kg | Libera Installazione, Carica Frontale.1400 Giri/min. Larghezza 59,5cm, Profondità 60,5cm, Altezza 85,0cm, Classe Energetica A",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Hotpoint Ariston HB 123 CARE IT – Lavatrice 12 Kg | Libera Installazione, Carica Frontale, 1400 giri/min, Classe A-30%, PetHair Care, FabricCare, 84,5 x 60 x 63 cm (AxLxP)",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Bosch WAN28229IT Serie 4 Lavatrice 9kg 1400 giri/min Bianco Classe A",
         "merchant": "",
         "ean": "",
@@ -2425,6 +2432,20 @@
         "merchant": "unieuro",
         "ean": "8806096639238",
         "mpn": "F4NX5009TKBABWQPI",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Samsung Lavatrice AI Control Ecodosatore 11Kg WW11DG6B85LHU3",
+        "merchant": "unieuro",
+        "ean": "8806095539843",
+        "mpn": "WW11DG6B85LHU3",
+        "status": "da_verificare"
+      },
+      {
+        "title": "LG WT1210WWF Elettrodomestico",
+        "merchant": "unieuro",
+        "ean": "8806096136287",
+        "mpn": "WT1210WWF.ABWQPIS",
         "status": "da_verificare"
       }
     ],
@@ -2777,21 +2798,7 @@
     ],
     "migliori-moda": [
       {
-        "title": "PUMA Sneakers Club II Era Unisex, White-Black-Vapor Gray, 46 EU",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Fila Orbit Men, Scarpe da Ginnastica Basse Uomo, Blu Dress Blue, 44 EU",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Bianco White Black, 44 EU",
+        "title": "ANYOO Amaca da Giardino in Cotone Tessuto Comodo con Cinghie Rispettose degli Alberi per Appendere, Durevole Amaca Portatile con Borsa da Viaggio per Campeggio, Esterno/Interno, Ba",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -2985,23 +2992,23 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
+      },
+      {
+        "title": "Marvel Logo Avengers Pop Art Maglietta",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Magliette Manica Corta Divertenti Ansia A Livello Agonistico Maglietta",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
       }
     ],
     "migliori-sneakers": [
-      {
-        "title": "PUMA Sneakers Club II Era Unisex, White-Black-Vapor Gray, 46 EU",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Bianco White Black, 44 EU",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
@@ -3195,6 +3202,20 @@
         "title": "Puma MB.01 Uomo Sneakers Bianco Taglia 40.5 Rete/Sintetico",
         "merchant": "footlocker",
         "ean": "4070032492896",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Puma MB.01 Uomo Sneakers Bianco Taglia 41 Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "4070032492964",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Puma MB.01 Uomo Sneakers Bianco Taglia 42 Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "4070032492902",
         "mpn": "",
         "status": "da_verificare"
       }
