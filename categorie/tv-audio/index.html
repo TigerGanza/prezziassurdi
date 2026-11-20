@@ -375,13 +375,55 @@ body[data-pa-category-page] .card .photo img{
 }
 }
 </style>
+<!-- PA_SEASONAL_SITE_STYLE_START -->
+<style id="pa-seasonal-site-style">
+body[data-pa-season="black_friday"]{--pa-season-paper:#f4f4f6;--pa-season-dark:#15161d;--pa-season-surface:#343642;--pa-season-accent:#ffe076;--pa-season-ink:#20212b}body[data-pa-season]{--pa-ribbon:url("https://prezziassurdi.com/assets/seasonal3d/black_friday-ribbon-v148612.webp");--pa-icon:url("https://prezziassurdi.com/assets/seasonal3d/black_friday-icon-v148612.webp")}
+
+body[data-pa-season] {--yellow:var(--pa-season-accent);--pa-v5-yellow:var(--pa-season-accent);--pa-v5-blue:var(--pa-season-dark);--pa-v5-blue2:var(--pa-season-surface)}
+body[data-pa-season][data-pa-layout="home"] {background:var(--pa-season-paper)!important}
+body[data-pa-season] > header {border-bottom:3px solid var(--pa-season-accent)!important}
+body[data-pa-season][data-pa-layout="page"] > header {background:var(--pa-season-dark)!important;color:#fff!important}
+body[data-pa-season][data-pa-layout="page"] > header a {color:#fff!important}
+body[data-pa-season] .hero-main {background:radial-gradient(circle at 88% 10%,#ffffff15,transparent 36%),linear-gradient(135deg,var(--pa-season-dark),var(--pa-season-surface))!important}
+body[data-pa-season] .hero-main h1 span {color:var(--pa-season-accent)!important}
+body[data-pa-season][data-pa-layout="page"] .hero::after {background:linear-gradient(90deg,var(--pa-season-dark),var(--pa-season-surface))!important;opacity:.88}
+body[data-pa-season] .top-choices-wrap,body[data-pa-season] .guide-band {border-color:var(--pa-season-accent)!important}
+body[data-pa-season] .pa-v5-social-footer {background:linear-gradient(135deg,var(--pa-season-dark),var(--pa-season-surface))!important}
+body[data-pa-season] .card .buy,body[data-pa-season] .feature .deal-buy,body[data-pa-season] .amazon-search-btn {background:var(--pa-season-accent)!important;color:var(--pa-season-ink)!important}
+body[data-pa-season] .pa-v5-header-search:focus-within {border-color:var(--pa-season-dark)}
+body[data-pa-season] .pa-season-banner,body[data-pa-season] .pa-season-banner * {box-sizing:border-box}
+body[data-pa-season] .pa-season-banner {position:relative;isolation:isolate;display:flex;align-items:center;gap:20px;width:100%;max-width:100%;margin:0 0 22px;padding:22px 26px;border:1px solid var(--pa-season-accent);border-radius:20px;background:linear-gradient(115deg,var(--pa-season-dark),var(--pa-season-surface));color:#fff;overflow:hidden}
+body[data-pa-season] .pa-season-art {flex:0 0 72px;width:72px;height:72px;display:flex;align-items:center;justify-content:center;border-radius:20px;background:#ffffff0d;color:var(--pa-season-accent)}
+body[data-pa-season] .pa-season-art svg {display:block;width:56px!important;height:56px!important;max-width:none!important;max-height:none!important}
+body[data-pa-season] .pa-season-copy {flex:1 1 300px;min-width:0}
+body[data-pa-season] .pa-season-kicker {display:block;margin:0 0 5px;color:var(--pa-season-accent);font:800 10px/1.5 system-ui,sans-serif;letter-spacing:1.3px;text-transform:uppercase}
+body[data-pa-season] .pa-season-title {display:block;margin:0;color:#fff!important;font:800 24px/1.2 system-ui,sans-serif;letter-spacing:-.5px;overflow-wrap:anywhere}
+body[data-pa-season] .pa-season-description {display:block;margin:7px 0 0;color:#f3f3f6!important;font:400 13px/1.55 system-ui,sans-serif;max-width:70ch;overflow-wrap:anywhere}
+body[data-pa-season] .pa-season-link {display:flex;align-items:center;justify-content:center;flex:0 0 auto;min-height:46px;padding:12px 18px;border-radius:12px;background:var(--pa-season-accent)!important;color:var(--pa-season-ink)!important;font:800 12px/1.4 system-ui,sans-serif;text-decoration:none!important;text-align:center;white-space:normal}
+body[data-pa-season] .pa-season-link:focus-visible {outline:3px solid #fff;outline-offset:4px}
+body[data-pa-season] .pa-season-link:hover {box-shadow:0 0 0 3px #ffffff40}
+body[data-pa-season] .pa-season-topics {display:flex;flex-wrap:wrap;gap:9px;margin:18px 0 24px}
+body[data-pa-season] .pa-season-topics a {display:inline-flex;align-items:center;min-height:44px;padding:10px 14px;border:1px solid var(--pa-season-accent);border-radius:12px;background:var(--pa-season-dark);color:#fff!important;font:700 12px/1.4 system-ui,sans-serif;text-decoration:none}
+body[data-pa-season] .pa-season-topics a:focus-visible {outline:3px solid var(--pa-season-accent);outline-offset:3px}
+body[data-pa-season] .pa-season-product-mark {display:flex;justify-content:flex-end;align-items:center;width:100%;height:36px;min-height:36px;margin-top:6px;padding:4px 8px;box-sizing:border-box;border-radius:10px;background:linear-gradient(115deg,var(--pa-season-dark),var(--pa-season-surface));grid-column:1/-1;flex:0 0 auto;pointer-events:none}
+body[data-pa-season] .pa-season-product-mark svg {display:block;width:32px!important;height:32px!important;box-sizing:border-box;padding:5px;background:#ffffff0d;border:1px solid var(--pa-season-accent);border-radius:10px;max-width:none!important;max-height:none!important}
+body[data-pa-season] .pa-season-3d-icon {display:block;width:64px;height:64px;background:var(--pa-icon) center/contain no-repeat;flex-shrink:0}
+body[data-pa-season] .pa-season-product-mark {height:54px;min-height:54px;padding:0;background-image:var(--pa-ribbon),linear-gradient(115deg,var(--pa-season-dark),var(--pa-season-surface));background-size:100% auto,100% 100%;background-repeat:no-repeat;background-position:right center,center}
+body[data-pa-season] .pa-season-product-mark .pa-season-3d-icon {display:none}
+@media(max-width:800px){body[data-pa-season] .pa-season-banner{flex-wrap:wrap;padding:20px;gap:14px}body[data-pa-season] .pa-season-copy{flex-basis:calc(100% - 90px)}body[data-pa-season] .pa-season-link{flex:1 1 100%}}
+@media(max-width:480px){body[data-pa-season] .pa-season-banner{padding:16px;gap:12px;border-radius:16px}body[data-pa-season] .pa-season-art{flex-basis:48px;width:48px;height:48px;border-radius:13px}body[data-pa-season] .pa-season-art svg{width:38px!important;height:38px!important}body[data-pa-season] .pa-season-copy{flex-basis:calc(100% - 60px)}body[data-pa-season] .pa-season-title{font-size:21px}body[data-pa-season] .pa-season-kicker{font-size:9px;letter-spacing:.7px}}
+@media print{body[data-pa-season] .pa-season-banner{display:none}}
+</style>
+<!-- PA_SEASONAL_SITE_STYLE_END -->
 </head>
-<body data-pa-category-page="true">
+<body data-pa-season="black_friday" data-pa-layout="page" data-pa-category-page="true">
 <header><div class="wrap top">
 <a class="brand" href="https://prezziassurdi.com/"><img src="https://prezziassurdi.com/logo-prezzi-assurdi.png" alt="Prezzi Assurdi"><span>PREZZI ASSURDI</span></a>
 <nav class="page-nav" aria-label="Navigazione pagine"><a class="home" href="https://prezziassurdi.com/offerte/">Offerte per negozio</a><a class="home" href="https://prezziassurdi.com/">← Torna al motore di ricerca</a></nav>
 </div></header>
-<main><div class="wrap">
+<main><div class="wrap"><!-- PA_SEASONAL_SITE_BANNER_START -->
+<section class="pa-season-banner" aria-label="Offerte Black Friday"><div class="pa-season-art" aria-hidden="true"><span class="pa-season-3d-icon"></span></div><div class="pa-season-copy"><span class="pa-season-kicker">Calendario Prezzi Assurdi · 20/11/2026 – 29/11/2026</span><strong class="pa-season-title">Offerte Black Friday</strong><span class="pa-season-description">Confronta i prezzi e controlla la variante prima di acquistare.</span></div><a class="pa-season-link" href="https://prezziassurdi.com/eventi/black-friday/">Scopri le proposte →</a></section>
+<!-- PA_SEASONAL_SITE_BANNER_END -->
 <div class="crumb"><a href="https://prezziassurdi.com/">Home</a> › TV e Audio in offerta</div>
 <section class="hero">
 <div style="font-size:13px;font-weight:900;color:#ffd83d">PREZZI ASSURDI · CATEGORIA</div>
@@ -396,361 +438,361 @@ body[data-pa-category-page] .card .photo img{
 <h3><a href="https://prezziassurdi.com/offerte/WF42BA2679/">Eva Fruit Auricolari TWS in Ear Wireless Max Bianco</a></h3>
 <div class="price">10,99 €<span class="old">49,99 €</span></div><div class="discount">Sconto dichiarato: -78%</div>
 <a class="cta" href="https://prezziassurdi.com/offerte/WF42BA2679/">VEDI DETTAGLI →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/hbf/h8d/48576353009694/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-ea53b888b63ddebee13476e07758fb90-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="LG XBOOM Go XG2T, Speaker Bluetooth 5W, Sound Boost, IP67, Batteria, Nero" loading="lazy"></div>
 <h3><a href="https://prezziassurdi.com/offerte/W3EF636C75/">LG XBOOM Go XG2T, Speaker Bluetooth 5W, Sound Boost, IP67, Batteria, Nero</a></h3>
 <div class="price">29,99 €<span class="old">99,99 €</span></div><div class="discount">Sconto dichiarato: -70%</div>
 <a class="cta" href="https://prezziassurdi.com/offerte/W3EF636C75/">VEDI DETTAGLI →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/hfa/hb7/50361767985182/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-6d18e8d38e521e322ac9ab49f8210cdb-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Hama Kit installazione amplificatore auto Power Kit &#x27;&#x27;AMP KIT 10&#x27;&#x27;" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=16847496249&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Hama Kit installazione amplificatore auto Power Kit &#x27;&#x27;AMP KIT 10&#x27;&#x27;</a></h3>
 <div class="price">10,99 €<span class="old">34,99 €</span></div><div class="discount">Sconto dichiarato: -69%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=16847496249&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/hb1/h21/62999792713758/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-1e269d221ea3eb887a7bcaedfe59065a-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="AQL Evade" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=45519418853&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">AQL Evade</a></h3>
 <div class="price">18,99 €<span class="old">59,99 €</span></div><div class="discount">Sconto dichiarato: -68%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=45519418853&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/he0/h33/50140606038046/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-1a2c095d30f68df87df656fef8a23b92-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Panasonic Cuffie a Padiglione Wireless RB HX220BDEK, Nero" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=35599294082&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Panasonic Cuffie a Padiglione Wireless RB HX220BDEK, Nero</a></h3>
 <div class="price">19,90 €<span class="old">59,99 €</span></div><div class="discount">Sconto dichiarato: -67%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=35599294082&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h9d/h52/50140659810334/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-41c2b6d7b3fac794493ebe8a70b7d91b-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Panasonic Cuffie a Padiglione Wireless RB HX220BDES, Argento" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=36121010848&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Panasonic Cuffie a Padiglione Wireless RB HX220BDES, Argento</a></h3>
 <div class="price">19,99 €<span class="old">59,99 €</span></div><div class="discount">Sconto dichiarato: -67%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=36121010848&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/31Py0ZyI4EL._SL500_.jpg" alt="Soundcore P31i di Anker Cuffie Bluetooth con Cancellazione Adattiva Rumore" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B0FNWCYLZN?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Soundcore P31i di Anker Cuffie Bluetooth con Cancellazione Adattiva Rumore</a></h3>
 <div class="price">25,49 €<span class="old">69,99 €</span></div><div class="discount">Sconto dichiarato: -64%</div>
 <a class="cta" href="https://www.amazon.it/dp/B0FNWCYLZN?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h04/hb2/50510395867166/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-0caeeaf47358d4a3ac1637bfb0a08b66-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Samsung Music Frame Speaker HW LS60D/ZF, Wireless Music Streaming, Dolby Atmos 3D" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=43152280250&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Samsung Music Frame Speaker HW LS60D/ZF, Wireless Music Streaming, Dolby Atmos 3D</a></h3>
 <div class="price">179,00 €<span class="old">499,90 €</span></div><div class="discount">Sconto dichiarato: -64%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=43152280250&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/haa/h7c/50454482780190/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-cbced9ead59b33df7cf5fb2cd04f5e64-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Cellularline STUNT" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=45260330117&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Cellularline STUNT</a></h3>
 <div class="price">10,99 €<span class="old">29,99 €</span></div><div class="discount">Sconto dichiarato: -63%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=45260330117&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/hda/hb1/52035926720542/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-820809430a037166f7443ae5dec7fb29-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Samsung Soundbar HW B750F/ZF, Audio 5.1 canali , Wireless Dolby 5.1ch, 2025" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=41961121847&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Samsung Soundbar HW B750F/ZF, Audio 5.1 canali , Wireless Dolby 5.1ch, 2025</a></h3>
 <div class="price">146,49 €<span class="old">399,90 €</span></div><div class="discount">Sconto dichiarato: -63%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=41961121847&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h87/h0e/50309425856542/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-b8e96f9f89a0a8c9dac24530d53e3de1-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Samsung TV Crystal UHD 4K 98&#x27;&#x27; UE98DU9070UXZT Smart TV Wi Fi Graphite Black" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=37889668295&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Samsung TV Crystal UHD 4K 98&#x27;&#x27; UE98DU9070UXZT Smart TV Wi Fi Graphite Black</a></h3>
 <div class="price">1.499,00 €<span class="old">3.999,00 €</span></div><div class="discount">Sconto dichiarato: -62%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=37889668295&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/ha8/h9c/50466505359390/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-afe5928f0751d9cb344c88a5653e3fd7-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Sony LinkBuds Auricolare True Wireless Connessione Bluetooth® multipoint* Batteria…" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=32279945403&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Sony LinkBuds Auricolare True Wireless Connessione Bluetooth® multipoint* Batteria…</a></h3>
 <div class="price">69,99 €<span class="old">179,99 €</span></div><div class="discount">Sconto dichiarato: -61%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=32279945403&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/hb4/h90/50449657757726/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-715733723509df87aa29dea228c18a40-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Xtreme 40336W cuffia e auricolare True Wireless Stereo (TWS) In ear Musica e Chiamate…" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=32733255771&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Xtreme 40336W cuffia e auricolare True Wireless Stereo (TWS) In ear Musica e Chiamate…</a></h3>
 <div class="price">9,99 €<span class="old">24,99 €</span></div><div class="discount">Sconto dichiarato: -60%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=32733255771&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h1a/hee/50434885255198/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-24881bdfd6413d895f497c75fad3d452-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="LG XBOOMGo PL2P Altoparlante portatile mono Rosa 5 W" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=29257112509&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">LG XBOOMGo PL2P Altoparlante portatile mono Rosa 5 W</a></h3>
 <div class="price">59,99 €<span class="old">149,99 €</span></div><div class="discount">Sconto dichiarato: -60%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=29257112509&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h4d/hdb/52036016111646/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-95249c48333e2ae508bba2bcda180380-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Samsung Q series Soundbar HW Q600F/ZF, Audio 3.1.2 canali , Wireless Dolby Atmos, 2025" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=41703824126&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Samsung Q series Soundbar HW Q600F/ZF, Audio 3.1.2 canali , Wireless Dolby Atmos, 2025</a></h3>
 <div class="price">199,00 €<span class="old">499,90 €</span></div><div class="discount">Sconto dichiarato: -60%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=41703824126&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/ha3/h51/65488283500574/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-859c33a1ae812cd758326450ec2a1ff1-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Haier TV QLED Mini LED Ultra 55&#x27;&#x27; H55M80GUX, 4K, Ultra Sense AI, Google TV" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=46637872292&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Haier TV QLED Mini LED Ultra 55&#x27;&#x27; H55M80GUX, 4K, Ultra Sense AI, Google TV</a></h3>
 <div class="price">399,00 €<span class="old">999,00 €</span></div><div class="discount">Sconto dichiarato: -60%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=46637872292&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/he9/h02/62999696572446/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-dd0c1d328aa968e95d2cacf9addfd6bd-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="AQL Plume" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=45519418864&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">AQL Plume</a></h3>
 <div class="price">24,99 €<span class="old">59,99 €</span></div><div class="discount">Sconto dichiarato: -58%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=45519418864&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h0d/h9b/50524452749342/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-7547b8d20c1788d23c975c0d65c18f0a-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Philips Serie 3000 TAT3509GY/00 cuffia e auricolare True Wireless Stereo (TWS) In ear…" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=39162872462&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Philips Serie 3000 TAT3509GY/00 cuffia e auricolare True Wireless Stereo (TWS) In ear…</a></h3>
 <div class="price">24,99 €<span class="old">59,99 €</span></div><div class="discount">Sconto dichiarato: -58%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=39162872462&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h54/h85/50467645259806/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-7e0878ba1118454e00a17200901af198-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Corsair HS55 STEREO Auricolare Cablato A Padiglione Gaming Carbonio" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=35828025044&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Corsair HS55 STEREO Auricolare Cablato A Padiglione Gaming Carbonio</a></h3>
 <div class="price">29,99 €<span class="old">69,99 €</span></div><div class="discount">Sconto dichiarato: -57%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=35828025044&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/hb4/h6b/50510433484830/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-dbb4e3cc447bf030d0b0cb3059776195-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Philips Serie 6000 TAH6509BK/00 cuffia e auricolare Wireless A Padiglione…" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=39026613216&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Philips Serie 6000 TAH6509BK/00 cuffia e auricolare Wireless A Padiglione…</a></h3>
 <div class="price">39,99 €<span class="old">89,99 €</span></div><div class="discount">Sconto dichiarato: -56%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=39026613216&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h9f/hbc/51665569808414/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-aa28008176b635a4fa744600a855f1eb-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="JBL Live LIVE 770NC BLU Cuffie circum aurali wireless con cancellazione del rumore…" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=45352663606&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">JBL Live LIVE 770NC BLU Cuffie circum aurali wireless con cancellazione del rumore…</a></h3>
 <div class="price">79,99 €<span class="old">179,99 €</span></div><div class="discount">Sconto dichiarato: -56%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=45352663606&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/hb9/hab/48575977357342/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-fc969507ea9af5a9d8a290a940f38de9-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="JBL Live LIVE 770NC WHT Cuffie circum aurali wireless con cancellazione del rumore…" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=45352663612&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">JBL Live LIVE 770NC WHT Cuffie circum aurali wireless con cancellazione del rumore…</a></h3>
 <div class="price">79,99 €<span class="old">179,99 €</span></div><div class="discount">Sconto dichiarato: -56%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=45352663612&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h60/h24/50495986532382/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-0f79202f791153229b9ba0e23cda1d28-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Panasonic SC TMAX45 Party Speaker" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=46831732456&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Panasonic SC TMAX45 Party Speaker</a></h3>
 <div class="price">199,00 €<span class="old">449,90 €</span></div><div class="discount">Sconto dichiarato: -56%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=46831732456&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h3d/hb4/51968413335582/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-89129f60eee52ed49c91b23af2ffe2f0-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Cellularline SEEK" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=38214661262&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Cellularline SEEK</a></h3>
 <div class="price">17,99 €<span class="old">39,99 €</span></div><div class="discount">Sconto dichiarato: -55%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=38214661262&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h75/h91/50465269678110/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-69ee502e3352baed9eba8abef8197ac1-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="LG Soundbar SQC1 160W 2.1 canali, Dolby Digital, Subwoofer wireless, NOVITÀ 2022" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=34195275347&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">LG Soundbar SQC1 160W 2.1 canali, Dolby Digital, Subwoofer wireless, NOVITÀ 2022</a></h3>
 <div class="price">89,90 €<span class="old">199,99 €</span></div><div class="discount">Sconto dichiarato: -55%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=34195275347&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/hd7/hb5/48985128960030/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-80e9c77d973fab1adf5f7c9163332864-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Beats by Dr. Dre Beats Studio Buds + Auricolare True Wireless Stereo (TWS) In ear…" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=46691093383&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Beats by Dr. Dre Beats Studio Buds + Auricolare True Wireless Stereo (TWS) In ear…</a></h3>
 <div class="price">89,99 €<span class="old">199,99 €</span></div><div class="discount">Sconto dichiarato: -55%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=46691093383&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h08/he0/48985156976670/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-480a1823542002b04860fb976a346904-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Apple Beats Studio Pro Auricolare Con cavo e senza cavo A Padiglione Musica e…" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=43152277398&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Apple Beats Studio Pro Auricolare Con cavo e senza cavo A Padiglione Musica e…</a></h3>
 <div class="price">179,00 €<span class="old">399,90 €</span></div><div class="discount">Sconto dichiarato: -55%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=43152277398&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h45/h55/50504106082334/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-d2b986b7c3c63ccd9f2d9ba6383b4e57-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="LG Soundbar SG10TY, 420W su 3.1 canali, Dolby Atmos, Wi Fi, Design a filo muro" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=44502843055&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">LG Soundbar SG10TY, 420W su 3.1 canali, Dolby Atmos, Wi Fi, Design a filo muro</a></h3>
 <div class="price">359,00 €<span class="old">799,90 €</span></div><div class="discount">Sconto dichiarato: -55%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=44502843055&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h34/h93/65082186924062/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-94da89146347c3c2a52ead8a6ec3f9ab-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Haier Smart TV Mini LED QLED 85&#x27;&#x27; H85M80FUX, 4K, Google TV, Dolby Vision, HDR10" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=42916277972&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Haier Smart TV Mini LED QLED 85&#x27;&#x27; H85M80FUX, 4K, Google TV, Dolby Vision, HDR10</a></h3>
 <div class="price">899,00 €<span class="old">1.999,00 €</span></div><div class="discount">Sconto dichiarato: -55%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=42916277972&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h81/h6e/52582723158046/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-9f92e9e0e86e959f333846ccdfbaf276-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Samsung OLED AI TV 77&#x27;&#x27; QE77S85FAEXZT 4K, Processore NQ4 AI Gen2, 4K AI Upscaling" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=41218152705&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Samsung OLED AI TV 77&#x27;&#x27; QE77S85FAEXZT 4K, Processore NQ4 AI Gen2, 4K AI Upscaling</a></h3>
 <div class="price">1.499,00 €<span class="old">3.299,00 €</span></div><div class="discount">Sconto dichiarato: -55%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=41218152705&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/hac/h80/52583823638558/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-59a73e553425a035ba3a8448c1633c68-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Samsung 115&#x27;&#x27; Neo QLED QN90F 4K Vision AI Smart TV (2025)" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=46171616198&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Samsung 115&#x27;&#x27; Neo QLED QN90F 4K Vision AI Smart TV (2025)</a></h3>
 <div class="price">8.999,00 €<span class="old">19.999,00 €</span></div><div class="discount">Sconto dichiarato: -55%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=46171616198&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h24/hf4/48575980240926/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-f60bcc63729e4624be3dd0875073be0d-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="JBL Live 670NC Auricolare Wireless A Padiglione Musica e Chiamate Bluetooth Bianco" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=44772337346&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">JBL Live 670NC Auricolare Wireless A Padiglione Musica e Chiamate Bluetooth Bianco</a></h3>
 <div class="price">59,99 €<span class="old">129,99 €</span></div><div class="discount">Sconto dichiarato: -54%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=44772337346&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h75/h0b/48576119930910/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-a3231ce0c2bba66580f32a8cf65657e9-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="JBL Live 670NC Auricolare Wireless A Padiglione Musica e Chiamate Bluetooth Blu" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=45352663608&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">JBL Live 670NC Auricolare Wireless A Padiglione Musica e Chiamate Bluetooth Blu</a></h3>
 <div class="price">59,99 €<span class="old">129,99 €</span></div><div class="discount">Sconto dichiarato: -54%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=45352663608&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h71/hc3/48576238157854/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-d828af0f415ff5877df63c1c01c4543a-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="JBL Live 670NC Auricolare Wireless A Padiglione Musica e Chiamate Bluetooth Sabbia" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=44772337351&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">JBL Live 670NC Auricolare Wireless A Padiglione Musica e Chiamate Bluetooth Sabbia</a></h3>
 <div class="price">59,99 €<span class="old">129,99 €</span></div><div class="discount">Sconto dichiarato: -54%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=44772337351&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/hdc/h89/50418261065758/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-911dba6c68179d1bbfdf0b7ba5d5a053-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="TELE System Decoder TV Sat TS9018HEVC tivùsat con smart card" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=27197441743&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">TELE System Decoder TV Sat TS9018HEVC tivùsat con smart card</a></h3>
 <div class="price">59,99 €<span class="old">129,99 €</span></div><div class="discount">Sconto dichiarato: -54%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=27197441743&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h39/h54/52036141023262/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-01d1891b08627cb21a2a376c642a84e6-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Samsung Soundbar HW B650F/ZF, Audio 3.1 canali, Wireless Dolby 5.1ch, 2025" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=41961121828&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Samsung Soundbar HW B650F/ZF, Audio 3.1 canali, Wireless Dolby 5.1ch, 2025</a></h3>
 <div class="price">149,99 €<span class="old">329,90 €</span></div><div class="discount">Sconto dichiarato: -54%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=41961121828&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h5a/h4a/65453002194974/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-0c3bdbb01574d6480426c15b278f7adf-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Haier S85 Series H55S85GTV 139,7 cm (55&#x27;&#x27;) 4K Qled Ultra HD Smart TV Wi Fi Nero" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=46291565845&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Haier S85 Series H55S85GTV 139,7 cm (55&#x27;&#x27;) 4K Qled Ultra HD Smart TV Wi Fi Nero</a></h3>
 <div class="price">349,00 €<span class="old">749,90 €</span></div><div class="discount">Sconto dichiarato: -54%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=46291565845&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h51/h2e/52582268272670/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-b1454b6511aecd89f84c075c57bd3bc7-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Samsung Neo QLED AI TV 43&#x27;&#x27; QE43QN90FATXZT 4K Mini LED, Processore NQ4 AI Gen3" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=41218152661&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Samsung Neo QLED AI TV 43&#x27;&#x27; QE43QN90FATXZT 4K Mini LED, Processore NQ4 AI Gen3</a></h3>
 <div class="price">599,00 €<span class="old">1.299,00 €</span></div><div class="discount">Sconto dichiarato: -54%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=41218152661&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h1b/h0c/52583589347358/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-ee717518b4c045c18a4db095a3ebb7a0-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Samsung Neo QLED AI TV 100&#x27;&#x27; QE100QN80FUXZT 4K Mini LED, Processore NQ4 AI Gen2" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=42013105367&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Samsung Neo QLED AI TV 100&#x27;&#x27; QE100QN80FUXZT 4K Mini LED, Processore NQ4 AI Gen2</a></h3>
 <div class="price">2.791,00 €<span class="old">5.999,00 €</span></div><div class="discount">Sconto dichiarato: -54%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=42013105367&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h19/h13/50474665738270/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-e21e77ce34e1dab9afeaa52f1b8e0968-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Marshall MAJOR IV Cuffie Con cavo e senza cavo A Padiglione MUSICA USB tipo C…" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=39151987723&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Marshall MAJOR IV Cuffie Con cavo e senza cavo A Padiglione MUSICA USB tipo C…</a></h3>
 <div class="price">69,90 €<span class="old">149,99 €</span></div><div class="discount">Sconto dichiarato: -53%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=39151987723&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/31ZtAP+BXFL._SL500_.jpg" alt="Amazon Ember serie 4 da 50&quot; con Fire TV (ultimo modello), smart TV 4K UHD, HDR10+" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B0DFNWC8PW?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Amazon Ember serie 4 da 50&quot; con Fire TV (ultimo modello), smart TV 4K UHD, HDR10+</a></h3>
 <div class="price">279,99 €<span class="old">599,99 €</span></div><div class="discount">Sconto dichiarato: -53%</div>
 <a class="cta" href="https://www.amazon.it/dp/B0DFNWC8PW?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h50/h2e/64906032119838/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-e90cae2401d1fa840bca6fdb861a0269-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Samsung 43&#x27;&#x27; The Frame LS03HE 4K Vision AI Smart TV (2026)" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=45482716487&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Samsung 43&#x27;&#x27; The Frame LS03HE 4K Vision AI Smart TV (2026)</a></h3>
 <div class="price">515,00 €<span class="old">1.099,00 €</span></div><div class="discount">Sconto dichiarato: -53%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=45482716487&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/ha0/h5e/61661841555486/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-5f78b6edd44681a00c7389d457c1fdf3-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Samsung OLED AI TV 55&#x27;&#x27; QE55S90FAEXZT 4K, Processore NQ4 AI Gen3, 4K AI Upscaling Pro" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=41218152638&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Samsung OLED AI TV 55&#x27;&#x27; QE55S90FAEXZT 4K, Processore NQ4 AI Gen3, 4K AI Upscaling Pro</a></h3>
 <div class="price">899,00 €<span class="old">1.899,00 €</span></div><div class="discount">Sconto dichiarato: -53%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=41218152638&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h18/h5f/49597825286174/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-d837e2ff4bdf0643f09951e4de01c8af-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Sony Cuffie Bluetooth wireless WH CH520 Durata della batteria fino a 50 ore con…" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=35398813541&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Sony Cuffie Bluetooth wireless WH CH520 Durata della batteria fino a 50 ore con…</a></h3>
 <div class="price">29,00 €<span class="old">59,99 €</span></div><div class="discount">Sconto dichiarato: -52%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=35398813541&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/hf7/hd2/49597841735710/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-d4fbe6a2c32168ec8cabf0d1f8efda90-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Sony Cuffie Bluetooth wireless WH CH520 Durata della batteria fino a 50 ore con…" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=35398813539&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Sony Cuffie Bluetooth wireless WH CH520 Durata della batteria fino a 50 ore con…</a></h3>
 <div class="price">29,00 €<span class="old">59,99 €</span></div><div class="discount">Sconto dichiarato: -52%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=35398813539&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h41/h3d/49597868081182/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-56527620ae3d38bfade7f8bf7ac081a7-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Sony Cuffie Bluetooth wireless WH CH520 Durata della batteria fino a 50 ore con…" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=35398813537&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Sony Cuffie Bluetooth wireless WH CH520 Durata della batteria fino a 50 ore con…</a></h3>
 <div class="price">29,00 €<span class="old">59,99 €</span></div><div class="discount">Sconto dichiarato: -52%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=35398813537&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/hf5/h89/49598305370142/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-bba27ea2d8db882892a6d5dba9caba3a-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Sony WHCH520P.CE7 cuffia e auricolare Wireless A Padiglione Musica e Chiamate USB…" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=40881812725&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Sony WHCH520P.CE7 cuffia e auricolare Wireless A Padiglione Musica e Chiamate USB…</a></h3>
 <div class="price">29,00 €<span class="old">59,99 €</span></div><div class="discount">Sconto dichiarato: -52%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=40881812725&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h89/h5a/49598317756446/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-e02f66bfb3399bb73c8c356b43f0e0f3-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Sony WHCH520Y.CE7 cuffia e auricolare Wireless A Padiglione Musica e Chiamate USB…" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=40881812726&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Sony WHCH520Y.CE7 cuffia e auricolare Wireless A Padiglione Musica e Chiamate USB…</a></h3>
 <div class="price">29,00 €<span class="old">59,99 €</span></div><div class="discount">Sconto dichiarato: -52%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=40881812726&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/ha4/h0d/50460293562398/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-6ba77ef09ed3b4cc4d657efa3393b5f4-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Samsung EP T6530 Cuffie, Auricolare, Netbook, Computer portatile, Smartphone" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=33701179755&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Samsung EP T6530 Cuffie, Auricolare, Netbook, Computer portatile, Smartphone</a></h3>
 <div class="price">33,49 €<span class="old">69,99 €</span></div><div class="discount">Sconto dichiarato: -52%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=33701179755&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/hd4/h3b/65466950483998/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-dc795b312f880823956cec4c9fd8ed0f-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Amazon Fire TV Stick 4K (2026 release)" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=46239812615&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Amazon Fire TV Stick 4K (2026 release)</a></h3>
 <div class="price">35,99 €<span class="old">74,99 €</span></div><div class="discount">Sconto dichiarato: -52%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=46239812615&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_185467778/fee_1500_1500_png" alt="VIDEO STREAMING AMAZON Fire TV Stick 4K (2026 release)" loading="lazy"></div>
 <h3><a href="https://prezziassurdi.com/offerte/W848871C85/">VIDEO STREAMING AMAZON Fire TV Stick 4K (2026 release)</a></h3>
 <div class="price">35,99 €<span class="old">74,99 €</span></div><div class="discount">Sconto dichiarato: -52%</div>
 <a class="cta" href="https://prezziassurdi.com/offerte/W848871C85/">VEDI DETTAGLI →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h6c/hfb/52035981180958/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-596d5270350cf5525b6f45816148ff1a-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Samsung B Series Soundbar HW B450F/ZF, Audio 2.1 canali, Wireless Dolby 2ch, 2025" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=42005789124&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Samsung B Series Soundbar HW B450F/ZF, Audio 2.1 canali, Wireless Dolby 2ch, 2025</a></h3>
 <div class="price">119,00 €<span class="old">249,90 €</span></div><div class="discount">Sconto dichiarato: -52%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=42005789124&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/ha9/h26/51999967477790/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-178f6475ec79c985ba7a20d1858dc846-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="LG QNED AI 75QNED80A6A TV Serie QNED80 75&#x27;&#x27; 4K, α7 Gen8, HDR10, 20W" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=46022768927&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">LG QNED AI 75QNED80A6A TV Serie QNED80 75&#x27;&#x27; 4K, α7 Gen8, HDR10, 20W</a></h3>
 <div class="price">762,00 €<span class="old">1.599,00 €</span></div><div class="discount">Sconto dichiarato: -52%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=46022768927&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/hbb/h38/51995324383262/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-ffc863677118f05782a113168fdb44b5-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="LG OLED AI OLED77B56LA TV Serie B5 77&#x27;&#x27; 4K, α8 Gen2, Dolby Vision, 20W" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=40994060982&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">LG OLED AI OLED77B56LA TV Serie B5 77&#x27;&#x27; 4K, α8 Gen2, Dolby Vision, 20W</a></h3>
 <div class="price">1.599,00 €<span class="old">3.299,00 €</span></div><div class="discount">Sconto dichiarato: -52%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=40994060982&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h71/h0f/51561523183646/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-ed3887faa3c02b317126aa44b719cc7c-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="LG OLED evo AI OLED65G54LW TV Serie G5 65&#x27;&#x27; 4K, α11 Gen2, Brightness Booster Ultimate" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=40994060987&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">LG OLED evo AI OLED65G54LW TV Serie G5 65&#x27;&#x27; 4K, α11 Gen2, Brightness Booster Ultimate</a></h3>
 <div class="price">1.599,00 €<span class="old">3.299,00 €</span></div><div class="discount">Sconto dichiarato: -52%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=40994060987&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h58/h2b/50450112806942/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-f92a375fbb5d821e2fb7eed51214435c-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Turtle Beach Recon 70 Auricolare Cablato A Padiglione Gaming Nero, Argento" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=32333626623&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Turtle Beach Recon 70 Auricolare Cablato A Padiglione Gaming Nero, Argento</a></h3>
 <div class="price">16,99 €<span class="old">34,99 €</span></div><div class="discount">Sconto dichiarato: -51%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=32333626623&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h74/h96/51791797944350/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-66a522d1a8f152a85c13baee10c2f0e3-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="IOPLEE IOPEXTSBARS672 altoparlante soundbar Nero 2.0 canali 60 W" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=44149746947&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">IOPLEE IOPEXTSBARS672 altoparlante soundbar Nero 2.0 canali 60 W</a></h3>
 <div class="price">59,99 €<span class="old">121,99 €</span></div><div class="discount">Sconto dichiarato: -51%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=44149746947&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h0c/h05/50496918192158/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-a3fd8562f2e8bc8c88859b5b1eccda26-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Sony ULT FIELD 1 Speaker portatile wireless Bluetooth con ULT POWER SOUND" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=37605717244&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Sony ULT FIELD 1 Speaker portatile wireless Bluetooth con ULT POWER SOUND</a></h3>
 <div class="price">69,00 €<span class="old">139,99 €</span></div><div class="discount">Sconto dichiarato: -51%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=37605717244&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h31/h03/50497025671198/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-343813d7f9498dd0f6a36ea1a73633a6-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Sony ULT FIELD 1 Speaker portatile wireless Bluetooth con ULT POWER SOUND" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=37605717243&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Sony ULT FIELD 1 Speaker portatile wireless Bluetooth con ULT POWER SOUND</a></h3>
 <div class="price">69,00 €<span class="old">139,99 €</span></div><div class="discount">Sconto dichiarato: -51%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=37605717243&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h01/h52/50496946176030/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-8665a192c11ec77c469d57acf3e89cd5-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Sony ULT FIELD 1 Speaker portatile wireless Bluetooth con ULT POWER SOUND" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=37605717242&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Sony ULT FIELD 1 Speaker portatile wireless Bluetooth con ULT POWER SOUND</a></h3>
 <div class="price">69,00 €<span class="old">139,99 €</span></div><div class="discount">Sconto dichiarato: -51%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=37605717242&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article></div>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article></div>
 </section>
 <section class="editorial-panel" style="margin-top:18px">
 <h2>Come valutare le offerte</h2>
@@ -1033,4 +1075,8 @@ document.addEventListener('input',function(e){var el=e.target;if(!el||!el.matche
 })();
 </script>
 <!-- PA_GA4_CONSENT_V1_END -->
-</body></html>
+<!-- PA_SEASONAL_PRODUCT_SCRIPT_START --><script>(function(){const markup="<span class=\"pa-season-product-mark\" aria-hidden=\"true\" title=\"Decorazione stagionale: Black Friday\"><span class=\"pa-season-3d-icon\"><\/span><\/span>";
+function decorate(){document.querySelectorAll('.photo,.top-choice-photo,.quick-photo,.deal-image').forEach(function(photo){const card=photo.closest('.card,.top-choice,.quick-pick,.single,.feature');if(!card||Array.from(card.children).some(function(n){return n.classList.contains('pa-season-product-mark');}))return;const holder=document.createElement('div');holder.innerHTML=markup;card.appendChild(holder.firstElementChild);});}
+function start(){decorate();if(typeof MutationObserver!=='undefined'){new MutationObserver(decorate).observe(document.querySelector('main')||document.body,{childList:true,subtree:true});}}
+if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',start);else start();
+})();</script><!-- PA_SEASONAL_PRODUCT_SCRIPT_END --></body></html>

@@ -375,13 +375,55 @@ body[data-pa-category-page] .card .photo img{
 }
 }
 </style>
+<!-- PA_SEASONAL_SITE_STYLE_START -->
+<style id="pa-seasonal-site-style">
+body[data-pa-season="black_friday"]{--pa-season-paper:#f4f4f6;--pa-season-dark:#15161d;--pa-season-surface:#343642;--pa-season-accent:#ffe076;--pa-season-ink:#20212b}body[data-pa-season]{--pa-ribbon:url("https://prezziassurdi.com/assets/seasonal3d/black_friday-ribbon-v148612.webp");--pa-icon:url("https://prezziassurdi.com/assets/seasonal3d/black_friday-icon-v148612.webp")}
+
+body[data-pa-season] {--yellow:var(--pa-season-accent);--pa-v5-yellow:var(--pa-season-accent);--pa-v5-blue:var(--pa-season-dark);--pa-v5-blue2:var(--pa-season-surface)}
+body[data-pa-season][data-pa-layout="home"] {background:var(--pa-season-paper)!important}
+body[data-pa-season] > header {border-bottom:3px solid var(--pa-season-accent)!important}
+body[data-pa-season][data-pa-layout="page"] > header {background:var(--pa-season-dark)!important;color:#fff!important}
+body[data-pa-season][data-pa-layout="page"] > header a {color:#fff!important}
+body[data-pa-season] .hero-main {background:radial-gradient(circle at 88% 10%,#ffffff15,transparent 36%),linear-gradient(135deg,var(--pa-season-dark),var(--pa-season-surface))!important}
+body[data-pa-season] .hero-main h1 span {color:var(--pa-season-accent)!important}
+body[data-pa-season][data-pa-layout="page"] .hero::after {background:linear-gradient(90deg,var(--pa-season-dark),var(--pa-season-surface))!important;opacity:.88}
+body[data-pa-season] .top-choices-wrap,body[data-pa-season] .guide-band {border-color:var(--pa-season-accent)!important}
+body[data-pa-season] .pa-v5-social-footer {background:linear-gradient(135deg,var(--pa-season-dark),var(--pa-season-surface))!important}
+body[data-pa-season] .card .buy,body[data-pa-season] .feature .deal-buy,body[data-pa-season] .amazon-search-btn {background:var(--pa-season-accent)!important;color:var(--pa-season-ink)!important}
+body[data-pa-season] .pa-v5-header-search:focus-within {border-color:var(--pa-season-dark)}
+body[data-pa-season] .pa-season-banner,body[data-pa-season] .pa-season-banner * {box-sizing:border-box}
+body[data-pa-season] .pa-season-banner {position:relative;isolation:isolate;display:flex;align-items:center;gap:20px;width:100%;max-width:100%;margin:0 0 22px;padding:22px 26px;border:1px solid var(--pa-season-accent);border-radius:20px;background:linear-gradient(115deg,var(--pa-season-dark),var(--pa-season-surface));color:#fff;overflow:hidden}
+body[data-pa-season] .pa-season-art {flex:0 0 72px;width:72px;height:72px;display:flex;align-items:center;justify-content:center;border-radius:20px;background:#ffffff0d;color:var(--pa-season-accent)}
+body[data-pa-season] .pa-season-art svg {display:block;width:56px!important;height:56px!important;max-width:none!important;max-height:none!important}
+body[data-pa-season] .pa-season-copy {flex:1 1 300px;min-width:0}
+body[data-pa-season] .pa-season-kicker {display:block;margin:0 0 5px;color:var(--pa-season-accent);font:800 10px/1.5 system-ui,sans-serif;letter-spacing:1.3px;text-transform:uppercase}
+body[data-pa-season] .pa-season-title {display:block;margin:0;color:#fff!important;font:800 24px/1.2 system-ui,sans-serif;letter-spacing:-.5px;overflow-wrap:anywhere}
+body[data-pa-season] .pa-season-description {display:block;margin:7px 0 0;color:#f3f3f6!important;font:400 13px/1.55 system-ui,sans-serif;max-width:70ch;overflow-wrap:anywhere}
+body[data-pa-season] .pa-season-link {display:flex;align-items:center;justify-content:center;flex:0 0 auto;min-height:46px;padding:12px 18px;border-radius:12px;background:var(--pa-season-accent)!important;color:var(--pa-season-ink)!important;font:800 12px/1.4 system-ui,sans-serif;text-decoration:none!important;text-align:center;white-space:normal}
+body[data-pa-season] .pa-season-link:focus-visible {outline:3px solid #fff;outline-offset:4px}
+body[data-pa-season] .pa-season-link:hover {box-shadow:0 0 0 3px #ffffff40}
+body[data-pa-season] .pa-season-topics {display:flex;flex-wrap:wrap;gap:9px;margin:18px 0 24px}
+body[data-pa-season] .pa-season-topics a {display:inline-flex;align-items:center;min-height:44px;padding:10px 14px;border:1px solid var(--pa-season-accent);border-radius:12px;background:var(--pa-season-dark);color:#fff!important;font:700 12px/1.4 system-ui,sans-serif;text-decoration:none}
+body[data-pa-season] .pa-season-topics a:focus-visible {outline:3px solid var(--pa-season-accent);outline-offset:3px}
+body[data-pa-season] .pa-season-product-mark {display:flex;justify-content:flex-end;align-items:center;width:100%;height:36px;min-height:36px;margin-top:6px;padding:4px 8px;box-sizing:border-box;border-radius:10px;background:linear-gradient(115deg,var(--pa-season-dark),var(--pa-season-surface));grid-column:1/-1;flex:0 0 auto;pointer-events:none}
+body[data-pa-season] .pa-season-product-mark svg {display:block;width:32px!important;height:32px!important;box-sizing:border-box;padding:5px;background:#ffffff0d;border:1px solid var(--pa-season-accent);border-radius:10px;max-width:none!important;max-height:none!important}
+body[data-pa-season] .pa-season-3d-icon {display:block;width:64px;height:64px;background:var(--pa-icon) center/contain no-repeat;flex-shrink:0}
+body[data-pa-season] .pa-season-product-mark {height:54px;min-height:54px;padding:0;background-image:var(--pa-ribbon),linear-gradient(115deg,var(--pa-season-dark),var(--pa-season-surface));background-size:100% auto,100% 100%;background-repeat:no-repeat;background-position:right center,center}
+body[data-pa-season] .pa-season-product-mark .pa-season-3d-icon {display:none}
+@media(max-width:800px){body[data-pa-season] .pa-season-banner{flex-wrap:wrap;padding:20px;gap:14px}body[data-pa-season] .pa-season-copy{flex-basis:calc(100% - 90px)}body[data-pa-season] .pa-season-link{flex:1 1 100%}}
+@media(max-width:480px){body[data-pa-season] .pa-season-banner{padding:16px;gap:12px;border-radius:16px}body[data-pa-season] .pa-season-art{flex-basis:48px;width:48px;height:48px;border-radius:13px}body[data-pa-season] .pa-season-art svg{width:38px!important;height:38px!important}body[data-pa-season] .pa-season-copy{flex-basis:calc(100% - 60px)}body[data-pa-season] .pa-season-title{font-size:21px}body[data-pa-season] .pa-season-kicker{font-size:9px;letter-spacing:.7px}}
+@media print{body[data-pa-season] .pa-season-banner{display:none}}
+</style>
+<!-- PA_SEASONAL_SITE_STYLE_END -->
 </head>
-<body data-pa-category-page="true">
+<body data-pa-season="black_friday" data-pa-layout="page" data-pa-category-page="true">
 <header><div class="wrap top">
 <a class="brand" href="https://prezziassurdi.com/"><img src="https://prezziassurdi.com/logo-prezzi-assurdi.png" alt="Prezzi Assurdi"><span>PREZZI ASSURDI</span></a>
 <nav class="page-nav" aria-label="Navigazione pagine"><a class="home" href="https://prezziassurdi.com/offerte/">Offerte per negozio</a><a class="home" href="https://prezziassurdi.com/">← Torna al motore di ricerca</a></nav>
 </div></header>
-<main><div class="wrap">
+<main><div class="wrap"><!-- PA_SEASONAL_SITE_BANNER_START -->
+<section class="pa-season-banner" aria-label="Offerte Black Friday"><div class="pa-season-art" aria-hidden="true"><span class="pa-season-3d-icon"></span></div><div class="pa-season-copy"><span class="pa-season-kicker">Calendario Prezzi Assurdi · 20/11/2026 – 29/11/2026</span><strong class="pa-season-title">Offerte Black Friday</strong><span class="pa-season-description">Confronta i prezzi e controlla la variante prima di acquistare.</span></div><a class="pa-season-link" href="https://prezziassurdi.com/eventi/black-friday/">Scopri le proposte →</a></section>
+<!-- PA_SEASONAL_SITE_BANNER_END -->
 <div class="crumb"><a href="https://prezziassurdi.com/">Home</a> › Sport e fitness in offerta</div>
 <section class="hero">
 <div style="font-size:13px;font-weight:900;color:#ffd83d">PREZZI ASSURDI · CATEGORIA</div>
@@ -396,361 +438,361 @@ body[data-pa-category-page] .card .photo img{
 <h3><a href="https://prezziassurdi.com/offerte/WF6BD2526C/">Action Figure IT WHY FUNKO POP 43 HERMIONE</a></h3>
 <div class="price">4,99 €<span class="old">17,99 €</span></div><div class="discount">Sconto dichiarato: -72%</div>
 <a class="cta" href="https://prezziassurdi.com/offerte/WF6BD2526C/">VEDI DETTAGLI →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_84838774/fee_786_587_png" alt="Action Figure IT WHY FUNKO POP 515 P.A.N.D.A" loading="lazy"></div>
 <h3><a href="https://prezziassurdi.com/offerte/WFD4044FF7/">Action Figure IT WHY FUNKO POP 515 P.A.N.D.A</a></h3>
 <div class="price">4,99 €<span class="old">16,99 €</span></div><div class="discount">Sconto dichiarato: -71%</div>
 <a class="cta" href="https://prezziassurdi.com/offerte/WFD4044FF7/">VEDI DETTAGLI →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_84769311/fee_786_587_png" alt="ACTION FIGURE IT WHY POP FUNKO MOSCA" loading="lazy"></div>
 <h3><a href="https://prezziassurdi.com/offerte/WA75AF2480/">ACTION FIGURE IT WHY POP FUNKO MOSCA</a></h3>
 <div class="price">4,99 €<span class="old">16,99 €</span></div><div class="discount">Sconto dichiarato: -71%</div>
 <a class="cta" href="https://prezziassurdi.com/offerte/WA75AF2480/">VEDI DETTAGLI →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_85011845/fee_786_587_png" alt="ACTION FIGURE IT WHY POP FUNKO:Tower Recon" loading="lazy"></div>
 <h3><a href="https://prezziassurdi.com/offerte/WD56651A7B/">ACTION FIGURE IT WHY POP FUNKO:Tower Recon</a></h3>
 <div class="price">4,99 €<span class="old">16,99 €</span></div><div class="discount">Sconto dichiarato: -71%</div>
 <a class="cta" href="https://prezziassurdi.com/offerte/WD56651A7B/">VEDI DETTAGLI →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h6e/hf1/50348696633374/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-6428215e7e7b6715ea9340eeacd3c323-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="FeiYu Tech WG2 video stabilizzatore Stabilizzatore per videocamera Sport action Nero" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=37031898281&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">FeiYu Tech WG2 video stabilizzatore Stabilizzatore per videocamera Sport action Nero</a></h3>
 <div class="price">154,99 €<span class="old">349,90 €</span></div><div class="discount">Sconto dichiarato: -56%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=37031898281&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h6b/h03/50360360075294/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-c3c94afed2241e226ad215d9420efd9a-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="FeiYu Tech G5 Stabilizzatore per videocamera Sport action Nero" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=37031898282&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">FeiYu Tech G5 Stabilizzatore per videocamera Sport action Nero</a></h3>
 <div class="price">135,99 €<span class="old">299,90 €</span></div><div class="discount">Sconto dichiarato: -55%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=37031898282&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_151525335/fee_786_587_png" alt="Penne CLEMENTONI Mini Lab Butterfly" loading="lazy"></div>
 <h3><a href="https://prezziassurdi.com/offerte/W70508F748/">Penne CLEMENTONI Mini Lab Butterfly</a></h3>
 <div class="price">4,99 €<span class="old">10,49 €</span></div><div class="discount">Sconto dichiarato: -52%</div>
 <a class="cta" href="https://prezziassurdi.com/offerte/W70508F748/">VEDI DETTAGLI →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_151525933/fee_786_587_png" alt="Penne CLEMENTONI Mini Lab Mermaid" loading="lazy"></div>
 <h3><a href="https://prezziassurdi.com/offerte/WD80696722/">Penne CLEMENTONI Mini Lab Mermaid</a></h3>
 <div class="price">4,99 €<span class="old">10,49 €</span></div><div class="discount">Sconto dichiarato: -52%</div>
 <a class="cta" href="https://prezziassurdi.com/offerte/WD80696722/">VEDI DETTAGLI →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_151525340/fee_786_587_png" alt="Penne CLEMENTONI Mini Lab Pen Best Friends" loading="lazy"></div>
 <h3><a href="https://prezziassurdi.com/offerte/WBE97E5FEA/">Penne CLEMENTONI Mini Lab Pen Best Friends</a></h3>
 <div class="price">4,99 €<span class="old">10,49 €</span></div><div class="discount">Sconto dichiarato: -52%</div>
 <a class="cta" href="https://prezziassurdi.com/offerte/WBE97E5FEA/">VEDI DETTAGLI →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/hd4/h9b/50436226678814/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-f256fc98e93787b33776f8f966a0c41d-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Rhütten 260009 riparazione e manutenzione della bicicletta Kit di riparazione" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=31059358253&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Rhütten 260009 riparazione e manutenzione della bicicletta Kit di riparazione</a></h3>
 <div class="price">1,49 €<span class="old">2,99 €</span></div><div class="discount">Sconto dichiarato: -50%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=31059358253&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h79/h08/50397995630622/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-535c1e2ab65455e1eb7537c4abe645d5-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="T&#x27;nB UMLEDCLIP illuminazione bicicletta Illuminazione delle ruote LED" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=25308979805&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">T&#x27;nB UMLEDCLIP illuminazione bicicletta Illuminazione delle ruote LED</a></h3>
 <div class="price">2,50 €<span class="old">4,99 €</span></div><div class="discount">Sconto dichiarato: -50%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=25308979805&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/hea/h5c/50436421025822/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-d123ae9d4b3adcc715e34aab6384c907-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Rhütten 263544 riparazione e manutenzione della bicicletta Kit di riparazione" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=31068560615&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Rhütten 263544 riparazione e manutenzione della bicicletta Kit di riparazione</a></h3>
 <div class="price">2,99 €<span class="old">5,99 €</span></div><div class="discount">Sconto dichiarato: -50%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=31068560615&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/ha6/hfc/50398637555742/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-907395096f978bea0b7d421f85dd9c4c-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="T&#x27;nB UMLED1 illuminazione bicicletta Illuminazione anteriore LED" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=25159738351&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">T&#x27;nB UMLED1 illuminazione bicicletta Illuminazione anteriore LED</a></h3>
 <div class="price">3,00 €<span class="old">5,99 €</span></div><div class="discount">Sconto dichiarato: -50%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=25159738351&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_151516652/fee_786_587_png" alt="Penne Monster CLEMENTONI Mini Lab" loading="lazy"></div>
 <h3><a href="https://prezziassurdi.com/offerte/WE88EF72D4/">Penne Monster CLEMENTONI Mini Lab</a></h3>
 <div class="price">4,99 €<span class="old">9,99 €</span></div><div class="discount">Sconto dichiarato: -50%</div>
 <a class="cta" href="https://prezziassurdi.com/offerte/WE88EF72D4/">VEDI DETTAGLI →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_151518917/fee_786_587_png" alt="Penne Tropical CLEMENTONI Mini Lab" loading="lazy"></div>
 <h3><a href="https://prezziassurdi.com/offerte/W6111BBEFE/">Penne Tropical CLEMENTONI Mini Lab</a></h3>
 <div class="price">4,99 €<span class="old">9,99 €</span></div><div class="discount">Sconto dichiarato: -50%</div>
 <a class="cta" href="https://prezziassurdi.com/offerte/W6111BBEFE/">VEDI DETTAGLI →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/hbf/hcf/50398411915294/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-97380d2f6213b73ff7aabf373066c4fd-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="T&#x27;nB UMLED3 illuminazione bicicletta Illuminazione posteriore LED" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=25315405213&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">T&#x27;nB UMLED3 illuminazione bicicletta Illuminazione posteriore LED</a></h3>
 <div class="price">7,50 €<span class="old">14,99 €</span></div><div class="discount">Sconto dichiarato: -50%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=25315405213&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h82/h50/50398469619742/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-973edc11a6563b69002bd4aa8ac1d833-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="T&#x27;nB UMLED2 illuminazione bicicletta Illuminazione posteriore + Illuminazione…" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=25310915261&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">T&#x27;nB UMLED2 illuminazione bicicletta Illuminazione posteriore + Illuminazione…</a></h3>
 <div class="price">8,50 €<span class="old">16,99 €</span></div><div class="discount">Sconto dichiarato: -50%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=25310915261&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/hbe/h57/50398635917342/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-e57932f1eb3b744129c7930e0f1b9b6d-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="T&#x27;nB UMLED4 illuminazione bicicletta Illuminazione posteriore LED" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=25347565443&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">T&#x27;nB UMLED4 illuminazione bicicletta Illuminazione posteriore LED</a></h3>
 <div class="price">20,00 €<span class="old">39,99 €</span></div><div class="discount">Sconto dichiarato: -50%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=25347565443&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h90/h0f/50397953228830/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-166f8a954e335f853b71e4de87d6930b-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="T&#x27;nB UMLEDUSB illuminazione bicicletta Illuminazione posteriore + Illuminazione…" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=25310915275&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">T&#x27;nB UMLEDUSB illuminazione bicicletta Illuminazione posteriore + Illuminazione…</a></h3>
 <div class="price">25,00 €<span class="old">49,99 €</span></div><div class="discount">Sconto dichiarato: -50%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=25310915275&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_91457019/fee_786_587_png" alt="ACTION FIGURE IT WHY FUNKO POP 378 WONDER W." loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=41857502571&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">ACTION FIGURE IT WHY FUNKO POP 378 WONDER W.</a></h3>
 <div class="price">9,99 €<span class="old">17,99 €</span></div><div class="discount">Sconto dichiarato: -44%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=41857502571&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h84/h43/50510582480926/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-d8ccea2429aa6f443ac8efac4a455716-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Nilox XSNAP2 fotocamera per sport d&#x27;azione 8 MP 4K Ultra HD CMOS Wi Fi 56,2 g" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=39186637638&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Nilox XSNAP2 fotocamera per sport d&#x27;azione 8 MP 4K Ultra HD CMOS Wi Fi 56,2 g</a></h3>
 <div class="price">39,99 €<span class="old">69,99 €</span></div><div class="discount">Sconto dichiarato: -43%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=39186637638&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_84769330/fee_786_587_png" alt="Action Figure IT WHY POP FUNKO 609 ALL FOR ONE" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=44067758839&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">Action Figure IT WHY POP FUNKO 609 ALL FOR ONE</a></h3>
 <div class="price">9,99 €<span class="old">16,99 €</span></div><div class="discount">Sconto dichiarato: -41%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=44067758839&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/hac/h46/50436372725790/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-3340a2d5bffec1311ad5bc247a43ab1f-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Rhütten 263218 borraccia Bicicletta 500 ml Plastica Bianco" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=31059358269&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Rhütten 263218 borraccia Bicicletta 500 ml Plastica Bianco</a></h3>
 <div class="price">2,99 €<span class="old">4,99 €</span></div><div class="discount">Sconto dichiarato: -40%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=31059358269&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_107638301/fee_786_587_png" alt="ACTION FIGURE FUNKO STAR WARS 597 DARTH VADER" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=40630489615&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">ACTION FIGURE FUNKO STAR WARS 597 DARTH VADER</a></h3>
 <div class="price">9,99 €<span class="old">15,49 €</span></div><div class="discount">Sconto dichiarato: -36%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=40630489615&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_172690264/fee_786_587_png" alt="MODELLINO AUTO MATTEL Brick Shop 68 Camaro" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=44641647367&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">MODELLINO AUTO MATTEL Brick Shop 68 Camaro</a></h3>
 <div class="price">15,92 €<span class="old">24,99 €</span></div><div class="discount">Sconto dichiarato: -36%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=44641647367&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_174782275/fee_786_587_png" alt="ROBOT DA PISCINA ZODIAC FREEDOM LITE" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=44739114546&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">ROBOT DA PISCINA ZODIAC FREEDOM LITE</a></h3>
 <div class="price">417,22 €<span class="old">649,00 €</span></div><div class="discount">Sconto dichiarato: -36%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=44739114546&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
+<article class="card">
+<div class="photo"><img src="https://m.media-amazon.com/images/I/31L8VJObftL._SL500_.jpg" alt="adidas Unisex Club Fold Over Tongue Turf Football Boots Shoes" loading="lazy"></div>
+<h3><a href="https://prezziassurdi.com/offerte/B0FWG8LDPM/">adidas Unisex Club Fold Over Tongue Turf Football Boots Shoes</a></h3>
+<div class="price">42,02 €<span class="old">65,00 €</span></div><div class="discount">Sconto dichiarato: -35%</div>
+<a class="cta" href="https://prezziassurdi.com/offerte/B0FWG8LDPM/">VEDI DETTAGLI →</a>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_174784081/fee_786_587_png" alt="ROBOT DA PISCINA ZODIAC OP 3220 PIXEL" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=44739114717&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">ROBOT DA PISCINA ZODIAC OP 3220 PIXEL</a></h3>
 <div class="price">327,48 €<span class="old">499,00 €</span></div><div class="discount">Sconto dichiarato: -34%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=44739114717&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_166147351/fee_786_587_png" alt="MITAMA HOBBY &amp; CREATIVE" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=43226464777&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">MITAMA HOBBY &amp; CREATIVE</a></h3>
 <div class="price">1,99 €<span class="old">2,90 €</span></div><div class="discount">Sconto dichiarato: -31%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=43226464777&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_165164177/fee_786_587_png" alt="ACTION FIGURE FUNKO TIGER WOODS (RED SHIRT)" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=43774489439&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">ACTION FIGURE FUNKO TIGER WOODS (RED SHIRT)</a></h3>
 <div class="price">12,99 €<span class="old">18,90 €</span></div><div class="discount">Sconto dichiarato: -31%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=43774489439&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_154354082/fee_786_587_png" alt="SET CANCELLERIA BIG BEN STATIONERY SUPERMARIO" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=41442693038&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">SET CANCELLERIA BIG BEN STATIONERY SUPERMARIO</a></h3>
 <div class="price">3,47 €<span class="old">4,99 €</span></div><div class="discount">Sconto dichiarato: -30%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=41442693038&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_159617577/fee_786_587_png" alt="Set cancellaria BIG BEN SET STATIONARY PEACH" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=42484777917&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">Set cancellaria BIG BEN SET STATIONARY PEACH</a></h3>
 <div class="price">4,17 €<span class="old">5,99 €</span></div><div class="discount">Sconto dichiarato: -30%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=42484777917&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_143577178/fee_786_587_png" alt="SET CANCELLERIA BIG BEN 2 MATITE MARIO" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=38894915098&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">SET CANCELLERIA BIG BEN 2 MATITE MARIO</a></h3>
 <div class="price">4,86 €<span class="old">6,99 €</span></div><div class="discount">Sconto dichiarato: -30%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=38894915098&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_133929322/fee_786_587_png" alt="QUADERNO ABYSSE A5 POKEMON ST" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=36597397038&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">QUADERNO ABYSSE A5 POKEMON ST</a></h3>
 <div class="price">6,95 €<span class="old">9,99 €</span></div><div class="discount">Sconto dichiarato: -30%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=36597397038&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_143579632/fee_786_587_png" alt="TAZZA BIG BEN DA CAMPEGGIO MARIO" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=45078083537&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">TAZZA BIG BEN DA CAMPEGGIO MARIO</a></h3>
 <div class="price">6,95 €<span class="old">9,99 €</span></div><div class="discount">Sconto dichiarato: -30%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=45078083537&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_151556821/fee_786_587_png" alt="MODELLINO AUTO MATTEL HW CAMBIA COLORE" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=41335108839&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">MODELLINO AUTO MATTEL HW CAMBIA COLORE</a></h3>
 <div class="price">6,99 €<span class="old">9,99 €</span></div><div class="discount">Sconto dichiarato: -30%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=41335108839&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_154354080/fee_786_587_png" alt="BOTTIGLIA BIG BEN IT&#x27;S ME MARIO" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=41442693039&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">BOTTIGLIA BIG BEN IT&#x27;S ME MARIO</a></h3>
 <div class="price">9,04 €<span class="old">12,99 €</span></div><div class="discount">Sconto dichiarato: -30%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=41442693039&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_143579647/fee_786_587_png" alt="BIG BEN GIFT SET MARIO TAZZA" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=44281369844&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">BIG BEN GIFT SET MARIO TAZZA</a></h3>
 <div class="price">11,13 €<span class="old">15,99 €</span></div><div class="discount">Sconto dichiarato: -30%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=44281369844&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_165172404/fee_786_587_png" alt="ACTION FIGURE FUNKO ROCKS GN&#x27;R AXL ROSE" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=43774489452&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">ACTION FIGURE FUNKO ROCKS GN&#x27;R AXL ROSE</a></h3>
 <div class="price">12,88 €<span class="old">18,49 €</span></div><div class="discount">Sconto dichiarato: -30%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=43774489452&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_165157332/fee_786_587_png" alt="ACTION FIGURE FUNKO WTP TIGGER WBALLOON" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=43774489432&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">ACTION FIGURE FUNKO WTP TIGGER WBALLOON</a></h3>
 <div class="price">12,99 €<span class="old">18,49 €</span></div><div class="discount">Sconto dichiarato: -30%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=43774489432&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_136590174/fee_786_587_png" alt="SUPPORTO BICI E MOTO SBS LockPro Extreme" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=38366426025&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">SUPPORTO BICI E MOTO SBS LockPro Extreme</a></h3>
 <div class="price">41,97 €<span class="old">59,95 €</span></div><div class="discount">Sconto dichiarato: -30%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=38366426025&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_154780247/fee_786_587_png" alt="CARTE DA GIOCO ASMODEE Unlock! Gatto Schrödinger" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=41518760363&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">CARTE DA GIOCO ASMODEE Unlock! Gatto Schrödinger</a></h3>
 <div class="price">4,99 €<span class="old">6,99 €</span></div><div class="discount">Sconto dichiarato: -29%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=41518760363&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_154780246/fee_786_587_png" alt="CARTE DA GIOCO ASMODEE Unlock! Maschera Rossa" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=41518760362&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">CARTE DA GIOCO ASMODEE Unlock! Maschera Rossa</a></h3>
 <div class="price">4,99 €<span class="old">6,99 €</span></div><div class="discount">Sconto dichiarato: -29%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=41518760362&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_154780243/fee_786_587_png" alt="CARTE DA GIOCO ASMODEE Unlock! Risveglio Mummia" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=41518760364&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">CARTE DA GIOCO ASMODEE Unlock! Risveglio Mummia</a></h3>
 <div class="price">4,99 €<span class="old">6,99 €</span></div><div class="discount">Sconto dichiarato: -29%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=41518760364&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_177280258/fee_786_587_png" alt="Carte da gioco POKÉMON Pokemon Abyss Eye (Busta Da 5 Carte, JP)" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=45121939543&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">Carte da gioco POKÉMON Pokemon Abyss Eye (Busta Da 5 Carte, JP)</a></h3>
 <div class="price">4,99 €<span class="old">6,99 €</span></div><div class="discount">Sconto dichiarato: -29%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=45121939543&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_142446150/fee_786_587_png" alt="COFANETTI ANIMALETTI MATTEL Polly Pocket Pet" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=38366426021&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">COFANETTI ANIMALETTI MATTEL Polly Pocket Pet</a></h3>
 <div class="price">4,99 €<span class="old">6,99 €</span></div><div class="discount">Sconto dichiarato: -29%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=38366426021&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_155455654/fee_786_587_png" alt="PASTA MODELLARE MITAMA FUNNY DOO" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=41839959492&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">PASTA MODELLARE MITAMA FUNNY DOO</a></h3>
 <div class="price">4,99 €<span class="old">6,99 €</span></div><div class="discount">Sconto dichiarato: -29%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=41839959492&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_143580947/fee_786_587_png" alt="QUADERNO A5 BIG BEN SUPERMARIO 3D" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=38911639833&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">QUADERNO A5 BIG BEN SUPERMARIO 3D</a></h3>
 <div class="price">4,99 €<span class="old">6,99 €</span></div><div class="discount">Sconto dichiarato: -29%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=38911639833&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_165165418/fee_786_587_png" alt="ACTION FIGURE FUNKO SW FL BOBA FETT(GW)" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=43774489436&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">ACTION FIGURE FUNKO SW FL BOBA FETT(GW)</a></h3>
 <div class="price">12,99 €<span class="old">17,99 €</span></div><div class="discount">Sconto dichiarato: -28%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=43774489436&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_157569213/fee_786_587_png" alt="CARTE DA GIOCO STUDIO SUPERNOVA TUTTO MA PROPRIO T" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=41839959483&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">CARTE DA GIOCO STUDIO SUPERNOVA TUTTO MA PROPRIO T</a></h3>
 <div class="price">17,99 €<span class="old">24,90 €</span></div><div class="discount">Sconto dichiarato: -28%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=41839959483&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_185883937/fee_1500_1500_png" alt="FORNETTO ELETTRICO SEVERIN Fornello elettrico piastra singola 1500W KP1091" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=46512061855&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">FORNETTO ELETTRICO SEVERIN Fornello elettrico piastra singola 1500W KP1091</a></h3>
 <div class="price">17,99 €<span class="old">24,99 €</span></div><div class="discount">Sconto dichiarato: -28%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=46512061855&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_158354330/fee_786_587_png" alt="PORTACHIAVI A BATTERIA BONTEMPI Portachiavi soft CHITARRA" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=41940626444&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">PORTACHIAVI A BATTERIA BONTEMPI Portachiavi soft CHITARRA</a></h3>
 <div class="price">5,49 €<span class="old">7,49 €</span></div><div class="discount">Sconto dichiarato: -27%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=41940626444&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_166346275/fee_786_587_png" alt="ACTION FIGURE FUNKO ASS BITTYPOP 4pk ST SZN1" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=45399569347&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">ACTION FIGURE FUNKO ASS BITTYPOP 4pk ST SZN1</a></h3>
 <div class="price">12,99 €<span class="old">17,90 €</span></div><div class="discount">Sconto dichiarato: -27%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=45399569347&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_165714262/fee_786_587_png" alt="ACTION FIGURE FUNKO BITTY SIMPSONS SCRATCHY" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=45399570114&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">ACTION FIGURE FUNKO BITTY SIMPSONS SCRATCHY</a></h3>
 <div class="price">12,99 €<span class="old">17,90 €</span></div><div class="discount">Sconto dichiarato: -27%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=45399570114&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_163176313/fee_786_587_png" alt="TUBETTO IN BLISTER CRYSTAL BALL" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=42793614719&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">TUBETTO IN BLISTER CRYSTAL BALL</a></h3>
 <div class="price">2,99 €<span class="old">3,99 €</span></div><div class="discount">Sconto dichiarato: -25%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=42793614719&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_163601060/fee_786_587_png" alt="Action Figure EPOCH Sylvanian Families" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=43069253122&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">Action Figure EPOCH Sylvanian Families</a></h3>
 <div class="price">5,99 €<span class="old">7,99 €</span></div><div class="discount">Sconto dichiarato: -25%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=43069253122&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_181106007/fee_1500_1500_png" alt="GIOCO EDUCATIVO CLEMENTONI Microscopio Smart AI" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=46244557790&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">GIOCO EDUCATIVO CLEMENTONI Microscopio Smart AI</a></h3>
 <div class="price">34,49 €<span class="old">45,99 €</span></div><div class="discount">Sconto dichiarato: -25%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=46244557790&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_165165416/fee_786_587_png" alt="ACTION FIGURE FUNKO STAR WARS SWNC CHEWBACCA" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=43774489437&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">ACTION FIGURE FUNKO STAR WARS SWNC CHEWBACCA</a></h3>
 <div class="price">12,99 €<span class="old">16,99 €</span></div><div class="discount">Sconto dichiarato: -24%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=43774489437&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_154814622/fee_786_587_png" alt="CARTE DA GIOCO GOLIATH SCREAM THE GAME" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=41518760370&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">CARTE DA GIOCO GOLIATH SCREAM THE GAME</a></h3>
 <div class="price">17,99 €<span class="old">23,52 €</span></div><div class="discount">Sconto dichiarato: -24%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=41518760370&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
-<div class="photo"><img src="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_172290787/fee_786_587_png" alt="GIOCO TRIS BONTEMPI DRAGO" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=44723056975&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">GIOCO TRIS BONTEMPI DRAGO</a></h3>
-<div class="price">9,99 €<span class="old">12,99 €</span></div><div class="discount">Sconto dichiarato: -23%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=44723056975&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
-<article class="card">
-<div class="photo"><img src="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_161520155/fee_786_587_png" alt="MODELLINO AUTO MATTEL HotWheels 5pack F1 edit" loading="lazy"></div>
-<h3><a href="https://www.awin1.com/pclick.php?p=42772764806&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">MODELLINO AUTO MATTEL HotWheels 5pack F1 edit</a></h3>
-<div class="price">9,99 €<span class="old">13,00 €</span></div><div class="discount">Sconto dichiarato: -23%</div>
-<a class="cta" href="https://www.awin1.com/pclick.php?p=42772764806&amp;a=3086723&amp;m=18529" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article></div>
+<div class="photo"><img src="https://m.media-amazon.com/images/I/31ikofDb7aL._SL500_.jpg" alt="Puma Scarpe da Calcio Unisex 7 Play TT, Ultra Rosso, Nero e Bianco, Taglia 42" loading="lazy"></div>
+<h3><a href="https://prezziassurdi.com/offerte/B0FV8SM88C/">Puma Scarpe da Calcio Unisex 7 Play TT, Ultra Rosso, Nero e Bianco, Taglia 42</a></h3>
+<div class="price">29,99 €<span class="old">39,47 €</span></div><div class="discount">Sconto dichiarato: -24%</div>
+<a class="cta" href="https://prezziassurdi.com/offerte/B0FV8SM88C/">VEDI DETTAGLI →</a>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article></div>
 </section>
 <section class="editorial-panel" style="margin-top:18px">
 <h2>Come valutare le offerte</h2>
@@ -1033,4 +1075,8 @@ document.addEventListener('input',function(e){var el=e.target;if(!el||!el.matche
 })();
 </script>
 <!-- PA_GA4_CONSENT_V1_END -->
-</body></html>
+<!-- PA_SEASONAL_PRODUCT_SCRIPT_START --><script>(function(){const markup="<span class=\"pa-season-product-mark\" aria-hidden=\"true\" title=\"Decorazione stagionale: Black Friday\"><span class=\"pa-season-3d-icon\"><\/span><\/span>";
+function decorate(){document.querySelectorAll('.photo,.top-choice-photo,.quick-photo,.deal-image').forEach(function(photo){const card=photo.closest('.card,.top-choice,.quick-pick,.single,.feature');if(!card||Array.from(card.children).some(function(n){return n.classList.contains('pa-season-product-mark');}))return;const holder=document.createElement('div');holder.innerHTML=markup;card.appendChild(holder.firstElementChild);});}
+function start(){decorate();if(typeof MutationObserver!=='undefined'){new MutationObserver(decorate).observe(document.querySelector('main')||document.body,{childList:true,subtree:true});}}
+if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',start);else start();
+})();</script><!-- PA_SEASONAL_PRODUCT_SCRIPT_END --></body></html>

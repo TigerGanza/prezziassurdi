@@ -375,13 +375,55 @@ body[data-pa-category-page] .card .photo img{
 }
 }
 </style>
+<!-- PA_SEASONAL_SITE_STYLE_START -->
+<style id="pa-seasonal-site-style">
+body[data-pa-season="black_friday"]{--pa-season-paper:#f4f4f6;--pa-season-dark:#15161d;--pa-season-surface:#343642;--pa-season-accent:#ffe076;--pa-season-ink:#20212b}body[data-pa-season]{--pa-ribbon:url("https://prezziassurdi.com/assets/seasonal3d/black_friday-ribbon-v148612.webp");--pa-icon:url("https://prezziassurdi.com/assets/seasonal3d/black_friday-icon-v148612.webp")}
+
+body[data-pa-season] {--yellow:var(--pa-season-accent);--pa-v5-yellow:var(--pa-season-accent);--pa-v5-blue:var(--pa-season-dark);--pa-v5-blue2:var(--pa-season-surface)}
+body[data-pa-season][data-pa-layout="home"] {background:var(--pa-season-paper)!important}
+body[data-pa-season] > header {border-bottom:3px solid var(--pa-season-accent)!important}
+body[data-pa-season][data-pa-layout="page"] > header {background:var(--pa-season-dark)!important;color:#fff!important}
+body[data-pa-season][data-pa-layout="page"] > header a {color:#fff!important}
+body[data-pa-season] .hero-main {background:radial-gradient(circle at 88% 10%,#ffffff15,transparent 36%),linear-gradient(135deg,var(--pa-season-dark),var(--pa-season-surface))!important}
+body[data-pa-season] .hero-main h1 span {color:var(--pa-season-accent)!important}
+body[data-pa-season][data-pa-layout="page"] .hero::after {background:linear-gradient(90deg,var(--pa-season-dark),var(--pa-season-surface))!important;opacity:.88}
+body[data-pa-season] .top-choices-wrap,body[data-pa-season] .guide-band {border-color:var(--pa-season-accent)!important}
+body[data-pa-season] .pa-v5-social-footer {background:linear-gradient(135deg,var(--pa-season-dark),var(--pa-season-surface))!important}
+body[data-pa-season] .card .buy,body[data-pa-season] .feature .deal-buy,body[data-pa-season] .amazon-search-btn {background:var(--pa-season-accent)!important;color:var(--pa-season-ink)!important}
+body[data-pa-season] .pa-v5-header-search:focus-within {border-color:var(--pa-season-dark)}
+body[data-pa-season] .pa-season-banner,body[data-pa-season] .pa-season-banner * {box-sizing:border-box}
+body[data-pa-season] .pa-season-banner {position:relative;isolation:isolate;display:flex;align-items:center;gap:20px;width:100%;max-width:100%;margin:0 0 22px;padding:22px 26px;border:1px solid var(--pa-season-accent);border-radius:20px;background:linear-gradient(115deg,var(--pa-season-dark),var(--pa-season-surface));color:#fff;overflow:hidden}
+body[data-pa-season] .pa-season-art {flex:0 0 72px;width:72px;height:72px;display:flex;align-items:center;justify-content:center;border-radius:20px;background:#ffffff0d;color:var(--pa-season-accent)}
+body[data-pa-season] .pa-season-art svg {display:block;width:56px!important;height:56px!important;max-width:none!important;max-height:none!important}
+body[data-pa-season] .pa-season-copy {flex:1 1 300px;min-width:0}
+body[data-pa-season] .pa-season-kicker {display:block;margin:0 0 5px;color:var(--pa-season-accent);font:800 10px/1.5 system-ui,sans-serif;letter-spacing:1.3px;text-transform:uppercase}
+body[data-pa-season] .pa-season-title {display:block;margin:0;color:#fff!important;font:800 24px/1.2 system-ui,sans-serif;letter-spacing:-.5px;overflow-wrap:anywhere}
+body[data-pa-season] .pa-season-description {display:block;margin:7px 0 0;color:#f3f3f6!important;font:400 13px/1.55 system-ui,sans-serif;max-width:70ch;overflow-wrap:anywhere}
+body[data-pa-season] .pa-season-link {display:flex;align-items:center;justify-content:center;flex:0 0 auto;min-height:46px;padding:12px 18px;border-radius:12px;background:var(--pa-season-accent)!important;color:var(--pa-season-ink)!important;font:800 12px/1.4 system-ui,sans-serif;text-decoration:none!important;text-align:center;white-space:normal}
+body[data-pa-season] .pa-season-link:focus-visible {outline:3px solid #fff;outline-offset:4px}
+body[data-pa-season] .pa-season-link:hover {box-shadow:0 0 0 3px #ffffff40}
+body[data-pa-season] .pa-season-topics {display:flex;flex-wrap:wrap;gap:9px;margin:18px 0 24px}
+body[data-pa-season] .pa-season-topics a {display:inline-flex;align-items:center;min-height:44px;padding:10px 14px;border:1px solid var(--pa-season-accent);border-radius:12px;background:var(--pa-season-dark);color:#fff!important;font:700 12px/1.4 system-ui,sans-serif;text-decoration:none}
+body[data-pa-season] .pa-season-topics a:focus-visible {outline:3px solid var(--pa-season-accent);outline-offset:3px}
+body[data-pa-season] .pa-season-product-mark {display:flex;justify-content:flex-end;align-items:center;width:100%;height:36px;min-height:36px;margin-top:6px;padding:4px 8px;box-sizing:border-box;border-radius:10px;background:linear-gradient(115deg,var(--pa-season-dark),var(--pa-season-surface));grid-column:1/-1;flex:0 0 auto;pointer-events:none}
+body[data-pa-season] .pa-season-product-mark svg {display:block;width:32px!important;height:32px!important;box-sizing:border-box;padding:5px;background:#ffffff0d;border:1px solid var(--pa-season-accent);border-radius:10px;max-width:none!important;max-height:none!important}
+body[data-pa-season] .pa-season-3d-icon {display:block;width:64px;height:64px;background:var(--pa-icon) center/contain no-repeat;flex-shrink:0}
+body[data-pa-season] .pa-season-product-mark {height:54px;min-height:54px;padding:0;background-image:var(--pa-ribbon),linear-gradient(115deg,var(--pa-season-dark),var(--pa-season-surface));background-size:100% auto,100% 100%;background-repeat:no-repeat;background-position:right center,center}
+body[data-pa-season] .pa-season-product-mark .pa-season-3d-icon {display:none}
+@media(max-width:800px){body[data-pa-season] .pa-season-banner{flex-wrap:wrap;padding:20px;gap:14px}body[data-pa-season] .pa-season-copy{flex-basis:calc(100% - 90px)}body[data-pa-season] .pa-season-link{flex:1 1 100%}}
+@media(max-width:480px){body[data-pa-season] .pa-season-banner{padding:16px;gap:12px;border-radius:16px}body[data-pa-season] .pa-season-art{flex-basis:48px;width:48px;height:48px;border-radius:13px}body[data-pa-season] .pa-season-art svg{width:38px!important;height:38px!important}body[data-pa-season] .pa-season-copy{flex-basis:calc(100% - 60px)}body[data-pa-season] .pa-season-title{font-size:21px}body[data-pa-season] .pa-season-kicker{font-size:9px;letter-spacing:.7px}}
+@media print{body[data-pa-season] .pa-season-banner{display:none}}
+</style>
+<!-- PA_SEASONAL_SITE_STYLE_END -->
 </head>
-<body data-pa-category-page="true">
+<body data-pa-season="black_friday" data-pa-layout="page" data-pa-category-page="true">
 <header><div class="wrap top">
 <a class="brand" href="https://prezziassurdi.com/"><img src="https://prezziassurdi.com/logo-prezzi-assurdi.png" alt="Prezzi Assurdi"><span>PREZZI ASSURDI</span></a>
 <nav class="page-nav" aria-label="Navigazione pagine"><a class="home" href="https://prezziassurdi.com/offerte/">Offerte per negozio</a><a class="home" href="https://prezziassurdi.com/">← Torna al motore di ricerca</a></nav>
 </div></header>
-<main><div class="wrap">
+<main><div class="wrap"><!-- PA_SEASONAL_SITE_BANNER_START -->
+<section class="pa-season-banner" aria-label="Offerte Black Friday"><div class="pa-season-art" aria-hidden="true"><span class="pa-season-3d-icon"></span></div><div class="pa-season-copy"><span class="pa-season-kicker">Calendario Prezzi Assurdi · 20/11/2026 – 29/11/2026</span><strong class="pa-season-title">Offerte Black Friday</strong><span class="pa-season-description">Confronta i prezzi e controlla la variante prima di acquistare.</span></div><a class="pa-season-link" href="https://prezziassurdi.com/eventi/black-friday/">Scopri le proposte →</a></section>
+<!-- PA_SEASONAL_SITE_BANNER_END -->
 <div class="crumb"><a href="https://prezziassurdi.com/">Home</a> › Cucina in offerta</div>
 <section class="hero">
 <div style="font-size:13px;font-weight:900;color:#ffd83d">PREZZI ASSURDI · CATEGORIA</div>
@@ -396,361 +438,361 @@ body[data-pa-category-page] .card .photo img{
 <h3><a href="https://prezziassurdi.com/offerte/W3DABCC958/">Ardes ARFRYA01 6,5 L Indipendente 1700 W Friggitrice ad aria calda Bianco</a></h3>
 <div class="price">49,99 €<span class="old">169,99 €</span></div><div class="discount">Sconto dichiarato: -71%</div>
 <a class="cta" href="https://prezziassurdi.com/offerte/W3DABCC958/">VEDI DETTAGLI →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h95/h2d/50491379154974/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-f253a30e10d554564aadb4788fae03a8-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Bosch Serie 4 MSM4W220 Frullatore a immersione ErgoMaster 600 W Bianco" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=37688843394&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Bosch Serie 4 MSM4W220 Frullatore a immersione ErgoMaster 600 W Bianco</a></h3>
 <div class="price">33,99 €<span class="old">109,99 €</span></div><div class="discount">Sconto dichiarato: -69%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=37688843394&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_185707781/fee_1500_1500_png" alt="MICROONDE SEVERIN Microonde Solo 20L, base piatta in vetro MW7761, capacità 20 l" loading="lazy"></div>
 <h3><a href="https://prezziassurdi.com/offerte/W0CE29A345/">MICROONDE SEVERIN Microonde Solo 20L, base piatta in vetro MW7761, capacità 20 l</a></h3>
 <div class="price">58,99 €<span class="old">169,99 €</span></div><div class="discount">Sconto dichiarato: -65%</div>
 <a class="cta" href="https://prezziassurdi.com/offerte/W0CE29A345/">VEDI DETTAGLI →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h4c/h41/64283870199838/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-491e0722695830d9dbdf85e490c671a5-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Haier I Master Series 5 HAF5TWA 011 6" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=36891679768&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Haier I Master Series 5 HAF5TWA 011 6</a></h3>
 <div class="price">79,99 €<span class="old">219,99 €</span></div><div class="discount">Sconto dichiarato: -64%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=36891679768&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h3b/h64/49062943326238/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-0983b848c246cf19fa76328638fbb628-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Bosch Serie 4 , Frullatore a immersione, ErgoMaster, 1000 W, Nero, antracite MSM4B6V2" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=41085852071&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Bosch Serie 4 , Frullatore a immersione, ErgoMaster, 1000 W, Nero, antracite MSM4B6V2</a></h3>
 <div class="price">58,99 €<span class="old">159,99 €</span></div><div class="discount">Sconto dichiarato: -63%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=41085852071&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/hac/hb5/50393437372446/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-2cc5fba1312d0819d4edca2f6d79a200-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="De’Longhi IdealFry FH2101 Friggitrice ad aria calda 1400W" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=23907443491&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">De’Longhi IdealFry FH2101 Friggitrice ad aria calda 1400W</a></h3>
 <div class="price">69,99 €<span class="old">189,99 €</span></div><div class="discount">Sconto dichiarato: -63%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=23907443491&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/hfe/hc3/63200521224222/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-5cdf8257d76ac2e4a8f50c903e3b095c-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Whirlpool Lavastoviglie da Incasso WIC 3C33 F" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=37339288825&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Whirlpool Lavastoviglie da Incasso WIC 3C33 F</a></h3>
 <div class="price">349,00 €<span class="old">949,00 €</span></div><div class="discount">Sconto dichiarato: -63%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=37339288825&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h73/h7e/51852953387038/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-2769ffa4527656bbac41421481fa4708-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Moulinex EZ5058 Friggitrice Senza Olio e Griglia Elettrica, 4,2 Litri, 1400W" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=44212894015&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Moulinex EZ5058 Friggitrice Senza Olio e Griglia Elettrica, 4,2 Litri, 1400W</a></h3>
 <div class="price">59,99 €<span class="old">159,99 €</span></div><div class="discount">Sconto dichiarato: -62%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=44212894015&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/ha9/h26/50431454380062/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-8baf05f6744176164fce699726b74b04-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Ardes AR6238B fornetto con tostapane 38 L 1600 W Nero" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=35772899680&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Ardes AR6238B fornetto con tostapane 38 L 1600 W Nero</a></h3>
 <div class="price">64,99 €<span class="old">169,99 €</span></div><div class="discount">Sconto dichiarato: -62%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=35772899680&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h7f/h4f/64616931655710/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-799aaa9d84ad1696627d0c644a4a44ba-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="LG GBBSJ21DPY Frigorifero combinato Fit&amp;Max 60cm, Classe D, 375L, AI Inverter" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=43142157082&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">LG GBBSJ21DPY Frigorifero combinato Fit&amp;Max 60cm, Classe D, 375L, AI Inverter</a></h3>
 <div class="price">549,90 €<span class="old">1.399,00 €</span></div><div class="discount">Sconto dichiarato: -61%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=43142157082&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h73/h02/51525348655134/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-db03340ebe4ce5ebf646fb6d588a5c51-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="LG GBBS322CPY Frigorifero combinato Fit &amp; Max 60cm, Classe C, 375L, AI Inverter" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=43083232641&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">LG GBBS322CPY Frigorifero combinato Fit &amp; Max 60cm, Classe C, 375L, AI Inverter</a></h3>
 <div class="price">629,00 €<span class="old">1.599,00 €</span></div><div class="discount">Sconto dichiarato: -61%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=43083232641&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h2c/ha4/61871299493918/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-6eaf5725d60cbf92e90b0e2f678abfa1-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="LG InstaView GMV860EPDE Frigorifero Multidoor Slim, Classe E, 530L, Wi Fi" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=40778887778&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">LG InstaView GMV860EPDE Frigorifero Multidoor Slim, Classe E, 530L, Wi Fi</a></h3>
 <div class="price">1.176,79 €<span class="old">2.999,00 €</span></div><div class="discount">Sconto dichiarato: -61%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=40778887778&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/hf8/h17/50491457208350/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-bc3d6e76e60377bee46cfe6b6b484f50-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Bosch MSMP1000 Frullatore a immersione YourCollection 350 W Bianco, Rosso" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=37777039341&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Bosch MSMP1000 Frullatore a immersione YourCollection 350 W Bianco, Rosso</a></h3>
 <div class="price">11,99 €<span class="old">29,99 €</span></div><div class="discount">Sconto dichiarato: -60%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=37777039341&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h3c/h4e/50355095830558/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-6e818eb45728b5082065adbc89428de3-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Wpro Teglia forno estensibile UBT521" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=21820011767&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Wpro Teglia forno estensibile UBT521</a></h3>
 <div class="price">14,99 €<span class="old">37,99 €</span></div><div class="discount">Sconto dichiarato: -60%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=21820011767&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h6a/h73/50426462339102/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-b333570d18637f049e9d828d8501f020-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Ardes Eldorada Maxi Singolo 5 L Indipendente 1450 W Friggitrice ad aria calda Nero" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=28412156603&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Ardes Eldorada Maxi Singolo 5 L Indipendente 1450 W Friggitrice ad aria calda Nero</a></h3>
 <div class="price">39,99 €<span class="old">99,99 €</span></div><div class="discount">Sconto dichiarato: -60%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=28412156603&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h66/h02/50785956298782/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-c9aa5afb5f70cdf98d918a578707a1d4-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Tognana Porcellane Avantspace 0,7 L Frullatore ad immersione 200 W Nero" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=40271253347&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Tognana Porcellane Avantspace 0,7 L Frullatore ad immersione 200 W Nero</a></h3>
 <div class="price">39,99 €<span class="old">99,99 €</span></div><div class="discount">Sconto dichiarato: -60%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=40271253347&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h4a/hf0/50504601501726/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-c11d7fd53109f22e6b90ffe60f76aeba-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Electroline SDLE06SM1WE0 frigorifero Superficie piana 41 L Bianco" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=38574816058&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Electroline SDLE06SM1WE0 frigorifero Superficie piana 41 L Bianco</a></h3>
 <div class="price">79,99 €<span class="old">199,90 €</span></div><div class="discount">Sconto dichiarato: -60%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=38574816058&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h7f/h87/50470085066782/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-5189c511547d702ebcc185a6b4e9fdb8-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Lagostina Evelia set di pentole 13 pz" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=35153553727&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Lagostina Evelia set di pentole 13 pz</a></h3>
 <div class="price">129,00 €<span class="old">319,90 €</span></div><div class="discount">Sconto dichiarato: -60%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=35153553727&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h9e/h44/50487522131998/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-4ad2f01251f508cf8510e7b102cf13a6-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Hisense BSA66211AX forno 77 L 3500 W Acciaio inox" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=37137070995&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Hisense BSA66211AX forno 77 L 3500 W Acciaio inox</a></h3>
 <div class="price">299,90 €<span class="old">749,90 €</span></div><div class="discount">Sconto dichiarato: -60%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=37137070995&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/had/h1c/51190224191518/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-795bf4d7a002f0b272325c716f3876d7-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Moulinex EZ505D10 friggitrice Singolo 4" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=43303131746&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Moulinex EZ505D10 friggitrice Singolo 4</a></h3>
 <div class="price">69,99 €<span class="old">169,99 €</span></div><div class="discount">Sconto dichiarato: -59%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=43303131746&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_185716590/fee_1500_1500_png" alt="MICROONDE + GRILL SEVERIN Microonde con Grill, base piatta in vetro MW7763" loading="lazy"></div>
 <h3><a href="https://prezziassurdi.com/offerte/W21FE1B057/">MICROONDE + GRILL SEVERIN Microonde con Grill, base piatta in vetro MW7763</a></h3>
 <div class="price">89,99 €<span class="old">219,99 €</span></div><div class="discount">Sconto dichiarato: -59%</div>
 <a class="cta" href="https://prezziassurdi.com/offerte/W21FE1B057/">VEDI DETTAGLI →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/ha8/h17/65086202445854/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-8bc5d6eb21367703d7b65a2f182b6a37-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Hotpoint Ariston HA4IUFD14B, Lavastoviglie 60cm, classe D, 14 coperti, 46dBA" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=46015887654&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Hotpoint Ariston HA4IUFD14B, Lavastoviglie 60cm, classe D, 14 coperti, 46dBA</a></h3>
 <div class="price">349,90 €<span class="old">849,90 €</span></div><div class="discount">Sconto dichiarato: -59%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=46015887654&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h5e/h17/50700781355038/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-9ec4f0a63ea25ba61c0586751419f8d7-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Hoover HONCQ4T620DX frigorifero con congelatore Libera installazione 409 L D Acciaio…" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=42759094462&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Hoover HONCQ4T620DX frigorifero con congelatore Libera installazione 409 L D Acciaio…</a></h3>
 <div class="price">449,90 €<span class="old">1.099,00 €</span></div><div class="discount">Sconto dichiarato: -59%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=42759094462&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h00/h7c/61645579157534/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-1210252cb099847fa47ea06173469b70-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Samsung Frigorifero Combinato EcoFlex AI 1.85m 344L RB34C675DSA" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=38121126888&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Samsung Frigorifero Combinato EcoFlex AI 1.85m 344L RB34C675DSA</a></h3>
 <div class="price">599,90 €<span class="old">1.449,00 €</span></div><div class="discount">Sconto dichiarato: -59%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=38121126888&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/hb6/h3b/50387393871902/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-334b32e7ef7a63244dd1824a098d07ec-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Fratelli Guzzini Set Tre Contenitori C/coperchio Everywhere Colori Primavera Estate…" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=23746463577&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Fratelli Guzzini Set Tre Contenitori C/coperchio Everywhere Colori Primavera Estate…</a></h3>
 <div class="price">9,99 €<span class="old">23,99 €</span></div><div class="discount">Sconto dichiarato: -58%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=23746463577&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h22/h70/52251224670238/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-f544c440b0eb27e13fbf4d2764037efe-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Hisense HAF1350DR Singolo 6,7 L Indipendente 1350 W Friggitrice ad aria calda Nero" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=38860245432&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Hisense HAF1350DR Singolo 6,7 L Indipendente 1350 W Friggitrice ad aria calda Nero</a></h3>
 <div class="price">104,99 €<span class="old">249,90 €</span></div><div class="discount">Sconto dichiarato: -58%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=38860245432&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h78/hc9/49352369209374/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-7cce81af3723869f5b881a44e53b139d-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Indesit IO 2350H X Forno multifunzione inox, 6 Funzioni totali, Classe A, 66 Lt" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=41961121851&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Indesit IO 2350H X Forno multifunzione inox, 6 Funzioni totali, Classe A, 66 Lt</a></h3>
 <div class="price">179,99 €<span class="old">429,90 €</span></div><div class="discount">Sconto dichiarato: -58%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=41961121851&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h76/h31/50911151718430/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-25180f7493cafbed87c3338301843212-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Hotpoint Ariston Forno da incasso HAO 854PS X" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=42067502588&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Hotpoint Ariston Forno da incasso HAO 854PS X</a></h3>
 <div class="price">339,90 €<span class="old">799,90 €</span></div><div class="discount">Sconto dichiarato: -58%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=42067502588&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/he5/hb9/50908349399070/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-976ca4cb22745c78ab06bbc65e762def-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Hotpoint Ariston Ariston Forno da incasso FIT 834 AN HA Made in Italy" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=44125561532&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Hotpoint Ariston Ariston Forno da incasso FIT 834 AN HA Made in Italy</a></h3>
 <div class="price">349,00 €<span class="old">829,90 €</span></div><div class="discount">Sconto dichiarato: -58%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=44125561532&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h44/h48/62941127933982/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-5f0ca0f1b8eaf2f3d00cfb6171a3328e-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="LG GBBSJ10DPY Frigorifero combinato Fit&amp;Max 60cm, Classe D, 333L, AI Inverter" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=42989891664&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">LG GBBSJ10DPY Frigorifero combinato Fit&amp;Max 60cm, Classe D, 333L, AI Inverter</a></h3>
 <div class="price">539,00 €<span class="old">1.299,00 €</span></div><div class="discount">Sconto dichiarato: -58%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=42989891664&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h41/h3a/64404950941726/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-0514187f5f560461487da2c9011d81b0-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Samsung RT38CG6624S9 frigorifero Doppia Porta EcoFlex AI Libera installazione con…" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=36111158933&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Samsung RT38CG6624S9 frigorifero Doppia Porta EcoFlex AI Libera installazione con…</a></h3>
 <div class="price">551,00 €<span class="old">1.299,00 €</span></div><div class="discount">Sconto dichiarato: -58%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=36111158933&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/hce/hcd/64360464580638/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-8c15dab816e23135db35693524906448-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Samsung Frigorifero Combinato EcoFlex AI 2m 390L RB38C774DSA" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=37345630028&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Samsung Frigorifero Combinato EcoFlex AI 2m 390L RB38C774DSA</a></h3>
 <div class="price">676,00 €<span class="old">1.599,00 €</span></div><div class="discount">Sconto dichiarato: -58%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=37345630028&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/he7/h1a/52000348766238/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-88220a438538544c16b0643e7002c5a2-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="LG GBBS726CMB Frigorifero combinato Fit &amp; Max 60cm, Classe C, 375L, AI Inverter" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=43267772319&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">LG GBBS726CMB Frigorifero combinato Fit &amp; Max 60cm, Classe C, 375L, AI Inverter</a></h3>
 <div class="price">699,90 €<span class="old">1.649,00 €</span></div><div class="discount">Sconto dichiarato: -58%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=43267772319&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/hec/h6f/52060049113118/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-7dcaff45b8f30411f358b3fe0ac28fdb-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="LG GBBS322BPY Frigorifero combinato Fit &amp; Max 60cm, Classe B, 375L, AI Inverter" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=44206704828&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">LG GBBS322BPY Frigorifero combinato Fit &amp; Max 60cm, Classe B, 375L, AI Inverter</a></h3>
 <div class="price">749,90 €<span class="old">1.799,00 €</span></div><div class="discount">Sconto dichiarato: -58%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=44206704828&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/hda/h8a/50500820434974/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-1ef637961bbd4a81760975b8ba2ffc31-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Lagostina Cucina Naturale/Risorsa Black Set di 2 Pezzi, Padelle 24/28 cm" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=38045402287&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Lagostina Cucina Naturale/Risorsa Black Set di 2 Pezzi, Padelle 24/28 cm</a></h3>
 <div class="price">29,99 €<span class="old">69,99 €</span></div><div class="discount">Sconto dichiarato: -57%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=38045402287&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h88/h33/49236592984094/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-2d8f8ce91037ab40e59fcc872855f280-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Hotpoint Ariston Forno da incasso HAO 435H B" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=41816594373&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Hotpoint Ariston Forno da incasso HAO 435H B</a></h3>
 <div class="price">229,90 €<span class="old">529,90 €</span></div><div class="discount">Sconto dichiarato: -57%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=41816594373&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/hed/h5a/49236643708958/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-a864f1ed4335784578b6c9a7678e4a0f-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Indesit IO 255H X forno Multifunzione Inox 8Funzioni classe A 71Lt Idrolisi" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=43083232648&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Indesit IO 255H X forno Multifunzione Inox 8Funzioni classe A 71Lt Idrolisi</a></h3>
 <div class="price">229,90 €<span class="old">529,90 €</span></div><div class="discount">Sconto dichiarato: -57%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=43083232648&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_188502920/fee_1500_1500_png" alt="KITCHENAID 5KSM95PSEBM IMPASTATRICE PLANETARIA, 300 W, capacità ciotola 4, 3 l" loading="lazy"></div>
 <h3><a href="https://prezziassurdi.com/offerte/WB6D781274/">KITCHENAID 5KSM95PSEBM IMPASTATRICE PLANETARIA, 300 W, capacità ciotola 4, 3 l</a></h3>
 <div class="price">299,00 €<span class="old">699,00 €</span></div><div class="discount">Sconto dichiarato: -57%</div>
 <a class="cta" href="https://prezziassurdi.com/offerte/WB6D781274/">VEDI DETTAGLI →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/hd7/h50/51955186237470/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-5e614ae04cf7e4f7c4a7f38909c6e2c8-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Samsung Frigorifero Doppia Porta EcoFlex AI 305L RT31CG5624S9" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=36927025264&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Samsung Frigorifero Doppia Porta EcoFlex AI 305L RT31CG5624S9</a></h3>
 <div class="price">489,00 €<span class="old">1.149,00 €</span></div><div class="discount">Sconto dichiarato: -57%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=36927025264&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/hee/h34/52024699420702/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-7ceab37086d4f8cb8a41b582fe0e6290-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Samsung RB38C603DEL frigorifero Combinato EcoFlex AI Libera installazione con…" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=36205868405&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Samsung RB38C603DEL frigorifero Combinato EcoFlex AI Libera installazione con…</a></h3>
 <div class="price">599,00 €<span class="old">1.399,00 €</span></div><div class="discount">Sconto dichiarato: -57%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=36205868405&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/he2/h78/64864127352862/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-e2511f6f96e6b63ee238b42de1b4f0de-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Samsung Frigorifero Combinato EcoFlex AI 2m 387L RB38C607AS9" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=40839016505&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Samsung Frigorifero Combinato EcoFlex AI 2m 387L RB38C607AS9</a></h3>
 <div class="price">899,00 €<span class="old">2.099,00 €</span></div><div class="discount">Sconto dichiarato: -57%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=40839016505&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/hdc/h7d/50348342673438/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-05685a9a21353c67475a556a7547a528-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Bosch ErgoMixx MSM66120 frullatore Frullatore ad immersione Grigio, Bianco 600 W" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=16847491561&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Bosch ErgoMixx MSM66120 frullatore Frullatore ad immersione Grigio, Bianco 600 W</a></h3>
 <div class="price">34,90 €<span class="old">79,99 €</span></div><div class="discount">Sconto dichiarato: -56%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=16847491561&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_165904382/fee_786_587_png" alt="SANDWICHMAKER WEASY JOY600" loading="lazy"></div>
 <h3><a href="https://prezziassurdi.com/offerte/W93A336718/">SANDWICHMAKER WEASY JOY600</a></h3>
 <div class="price">34,99 €<span class="old">79,00 €</span></div><div class="discount">Sconto dichiarato: -56%</div>
 <a class="cta" href="https://prezziassurdi.com/offerte/W93A336718/">VEDI DETTAGLI →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/ha7/h47/64818842009630/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-7fca477b94d92d8364a34ac54db4a0c4-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Moulinex Robot da cucina multifunzione Double Force Compact" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=16847523423&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Moulinex Robot da cucina multifunzione Double Force Compact</a></h3>
 <div class="price">69,99 €<span class="old">159,99 €</span></div><div class="discount">Sconto dichiarato: -56%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=16847523423&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h6f/h51/50467507175454/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-8d50e95b3e8d8f410b0e5ec7a79836eb-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Moulinex Easy Fry &amp; Grill XXL, Friggitrice ad Aria 6.5L/2kg, Duplice Cottura" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=34327305565&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Moulinex Easy Fry &amp; Grill XXL, Friggitrice ad Aria 6.5L/2kg, Duplice Cottura</a></h3>
 <div class="price">99,90 €<span class="old">229,90 €</span></div><div class="discount">Sconto dichiarato: -56%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=34327305565&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_173596427/fee_1500_1500_png" alt="Friggitrice ad aria TOGNANA IRIDEA, 8 L, 2000W, programmi preimpostati" loading="lazy"></div>
 <h3><a href="https://prezziassurdi.com/offerte/W1F003DB87/">Friggitrice ad aria TOGNANA IRIDEA, 8 L, 2000W, programmi preimpostati</a></h3>
 <div class="price">99,99 €<span class="old">227,50 €</span></div><div class="discount">Sconto dichiarato: -56%</div>
 <a class="cta" href="https://prezziassurdi.com/offerte/W1F003DB87/">VEDI DETTAGLI →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/hf3/he5/62825843392542/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-be2a8a6e97546fa8111d6765b0700d70-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Indesit Forno da incasso IO 235H B IO 235H B" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=44930781941&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Indesit Forno da incasso IO 235H B IO 235H B</a></h3>
 <div class="price">199,90 €<span class="old">449,90 €</span></div><div class="discount">Sconto dichiarato: -56%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=44930781941&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/hee/h3e/50487466754078/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-ff4f9a8dd94953f6dd18aa7e03148eaf-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Hisense BI64213EPX forno 77 L 3500 W Acciaio inox" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=37135103640&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Hisense BI64213EPX forno 77 L 3500 W Acciaio inox</a></h3>
 <div class="price">299,90 €<span class="old">679,90 €</span></div><div class="discount">Sconto dichiarato: -56%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=37135103640&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h9f/h0a/51613905387550/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-cbffb5038aaf5ca093f53ee4ef78eab3-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Hotpoint Ariston HA4IFC14BS, Lavastoviglie 60cm, classe C, 14 coperti, 44dBA" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=43987798608&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Hotpoint Ariston HA4IFC14BS, Lavastoviglie 60cm, classe C, 14 coperti, 44dBA</a></h3>
 <div class="price">399,00 €<span class="old">899,90 €</span></div><div class="discount">Sconto dichiarato: -56%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=43987798608&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/hdb/h97/50340288430110/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-38b71e69df4fb709cb80ec3a66d0a246-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="FABER S.p.A. Veil BK A90 Cappa aspirante a parete Nero A+ 570 m³/h" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=40742866657&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">FABER S.p.A. Veil BK A90 Cappa aspirante a parete Nero A+ 570 m³/h</a></h3>
 <div class="price">499,90 €<span class="old">1.129,00 €</span></div><div class="discount">Sconto dichiarato: -56%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=40742866657&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h06/hb8/51947466948638/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-ad9d5d6040415c3da6096c01a381ea8a-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Samsung RB38T607BS9 frigorifero Combinato EcoFlex Libera installazione con…" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=36050353492&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Samsung RB38T607BS9 frigorifero Combinato EcoFlex Libera installazione con…</a></h3>
 <div class="price">799,00 €<span class="old">1.799,00 €</span></div><div class="discount">Sconto dichiarato: -56%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=36050353492&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/hc8/hce/51947741446174/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-4307afa3e796d8e36a13f80e50ee8c46-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Samsung RS57DG400EM9 frigorifero side by side Libera installazione 583 L Acciaio inox" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=39810303849&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Samsung RS57DG400EM9 frigorifero side by side Libera installazione 583 L Acciaio inox</a></h3>
 <div class="price">799,00 €<span class="old">1.799,00 €</span></div><div class="discount">Sconto dichiarato: -56%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=39810303849&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h02/h50/52044490407966/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-cad74f2498583a2a3bc849b02cfb4d44-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Samsung Frigorifero Combinato EcoFlex AI 2m 387L RL38C776ASR" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=45016321019&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Samsung Frigorifero Combinato EcoFlex AI 2m 387L RL38C776ASR</a></h3>
 <div class="price">1.099,00 €<span class="old">2.499,00 €</span></div><div class="discount">Sconto dichiarato: -56%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=45016321019&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h29/h19/51947788468254/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-2bd7def709ee5621e656d72c463e7fd3-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Samsung Frigorifero Side By Side 640L RS70F64KETEF" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=41744198054&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Samsung Frigorifero Side By Side 640L RS70F64KETEF</a></h3>
 <div class="price">1.122,00 €<span class="old">2.549,00 €</span></div><div class="discount">Sconto dichiarato: -56%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=41744198054&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h0f/hf5/50467982966814/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-fa146cc89e55ef81d173bb484b77ee54-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="FoodSaver FFC023X contenitore per conservazione sottovuoto e marinatura da 1,8 lt" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=36043283807&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">FoodSaver FFC023X contenitore per conservazione sottovuoto e marinatura da 1,8 lt</a></h3>
 <div class="price">9,99 €<span class="old">21,99 €</span></div><div class="discount">Sconto dichiarato: -55%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=36043283807&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h80/hb4/49714683904030/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-edc1d60d3a71706b40e9c4e1ae2375f1-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Bosch MFQP1000 Sbattitore YourCollection 300 W Bianco, Rosso" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=37777039336&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Bosch MFQP1000 Sbattitore YourCollection 300 W Bianco, Rosso</a></h3>
 <div class="price">17,99 €<span class="old">39,99 €</span></div><div class="discount">Sconto dichiarato: -55%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=37777039336&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/hf5/hc1/52222878679070/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-d55397214ee8f4fd43d72edfe93d28ce-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Beurer Bilancia domestica KS 59 XXL" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=41268598969&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Beurer Bilancia domestica KS 59 XXL</a></h3>
 <div class="price">26,99 €<span class="old">59,99 €</span></div><div class="discount">Sconto dichiarato: -55%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=41268598969&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h91/hf4/50506173808670/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-1a45dc36e1d91b48cc43752c4b05ea74-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Russell Hobbs 20412 70 bollitore elettrico 1,7 L Nero, Rosso, Acciaio inox" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=44752994308&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Russell Hobbs 20412 70 bollitore elettrico 1,7 L Nero, Rosso, Acciaio inox</a></h3>
 <div class="price">26,99 €<span class="old">59,99 €</span></div><div class="discount">Sconto dichiarato: -55%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=44752994308&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h45/hab/50338668380190/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-7fbb98b5b77407e01a3ade9e43559b39-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Bosch MSM64110 Frullatore a immersione ErgoMixx 450 W Bianco, Rosso" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=42375965348&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Bosch MSM64110 Frullatore a immersione ErgoMixx 450 W Bianco, Rosso</a></h3>
 <div class="price">27,00 €<span class="old">59,99 €</span></div><div class="discount">Sconto dichiarato: -55%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=42375965348&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://www.unieuro.it/medias/sys_master/root/h58/he5/50527806128158/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-bdda7e5806aed843936c104514cb6c30-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg" alt="Bosch TKA3M134 Macchina da caffè americana MyMoment Rosso" loading="lazy"></div>
 <h3><a href="https://www.awin1.com/pclick.php?p=41085852068&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">Bosch TKA3M134 Macchina da caffè americana MyMoment Rosso</a></h3>
 <div class="price">49,90 €<span class="old">109,99 €</span></div><div class="discount">Sconto dichiarato: -55%</div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=41085852068&amp;a=3086723&amp;m=10139" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article></div>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article></div>
 </section>
 <section class="editorial-panel" style="margin-top:18px">
 <h2>Come valutare le offerte</h2>
@@ -1033,4 +1075,8 @@ document.addEventListener('input',function(e){var el=e.target;if(!el||!el.matche
 })();
 </script>
 <!-- PA_GA4_CONSENT_V1_END -->
-</body></html>
+<!-- PA_SEASONAL_PRODUCT_SCRIPT_START --><script>(function(){const markup="<span class=\"pa-season-product-mark\" aria-hidden=\"true\" title=\"Decorazione stagionale: Black Friday\"><span class=\"pa-season-3d-icon\"><\/span><\/span>";
+function decorate(){document.querySelectorAll('.photo,.top-choice-photo,.quick-photo,.deal-image').forEach(function(photo){const card=photo.closest('.card,.top-choice,.quick-pick,.single,.feature');if(!card||Array.from(card.children).some(function(n){return n.classList.contains('pa-season-product-mark');}))return;const holder=document.createElement('div');holder.innerHTML=markup;card.appendChild(holder.firstElementChild);});}
+function start(){decorate();if(typeof MutationObserver!=='undefined'){new MutationObserver(decorate).observe(document.querySelector('main')||document.body,{childList:true,subtree:true});}}
+if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',start);else start();
+})();</script><!-- PA_SEASONAL_PRODUCT_SCRIPT_END --></body></html>

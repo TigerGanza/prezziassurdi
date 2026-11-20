@@ -375,13 +375,55 @@ body[data-pa-category-page] .card .photo img{
 }
 }
 </style>
+<!-- PA_SEASONAL_SITE_STYLE_START -->
+<style id="pa-seasonal-site-style">
+body[data-pa-season="black_friday"]{--pa-season-paper:#f4f4f6;--pa-season-dark:#15161d;--pa-season-surface:#343642;--pa-season-accent:#ffe076;--pa-season-ink:#20212b}body[data-pa-season]{--pa-ribbon:url("https://prezziassurdi.com/assets/seasonal3d/black_friday-ribbon-v148612.webp");--pa-icon:url("https://prezziassurdi.com/assets/seasonal3d/black_friday-icon-v148612.webp")}
+
+body[data-pa-season] {--yellow:var(--pa-season-accent);--pa-v5-yellow:var(--pa-season-accent);--pa-v5-blue:var(--pa-season-dark);--pa-v5-blue2:var(--pa-season-surface)}
+body[data-pa-season][data-pa-layout="home"] {background:var(--pa-season-paper)!important}
+body[data-pa-season] > header {border-bottom:3px solid var(--pa-season-accent)!important}
+body[data-pa-season][data-pa-layout="page"] > header {background:var(--pa-season-dark)!important;color:#fff!important}
+body[data-pa-season][data-pa-layout="page"] > header a {color:#fff!important}
+body[data-pa-season] .hero-main {background:radial-gradient(circle at 88% 10%,#ffffff15,transparent 36%),linear-gradient(135deg,var(--pa-season-dark),var(--pa-season-surface))!important}
+body[data-pa-season] .hero-main h1 span {color:var(--pa-season-accent)!important}
+body[data-pa-season][data-pa-layout="page"] .hero::after {background:linear-gradient(90deg,var(--pa-season-dark),var(--pa-season-surface))!important;opacity:.88}
+body[data-pa-season] .top-choices-wrap,body[data-pa-season] .guide-band {border-color:var(--pa-season-accent)!important}
+body[data-pa-season] .pa-v5-social-footer {background:linear-gradient(135deg,var(--pa-season-dark),var(--pa-season-surface))!important}
+body[data-pa-season] .card .buy,body[data-pa-season] .feature .deal-buy,body[data-pa-season] .amazon-search-btn {background:var(--pa-season-accent)!important;color:var(--pa-season-ink)!important}
+body[data-pa-season] .pa-v5-header-search:focus-within {border-color:var(--pa-season-dark)}
+body[data-pa-season] .pa-season-banner,body[data-pa-season] .pa-season-banner * {box-sizing:border-box}
+body[data-pa-season] .pa-season-banner {position:relative;isolation:isolate;display:flex;align-items:center;gap:20px;width:100%;max-width:100%;margin:0 0 22px;padding:22px 26px;border:1px solid var(--pa-season-accent);border-radius:20px;background:linear-gradient(115deg,var(--pa-season-dark),var(--pa-season-surface));color:#fff;overflow:hidden}
+body[data-pa-season] .pa-season-art {flex:0 0 72px;width:72px;height:72px;display:flex;align-items:center;justify-content:center;border-radius:20px;background:#ffffff0d;color:var(--pa-season-accent)}
+body[data-pa-season] .pa-season-art svg {display:block;width:56px!important;height:56px!important;max-width:none!important;max-height:none!important}
+body[data-pa-season] .pa-season-copy {flex:1 1 300px;min-width:0}
+body[data-pa-season] .pa-season-kicker {display:block;margin:0 0 5px;color:var(--pa-season-accent);font:800 10px/1.5 system-ui,sans-serif;letter-spacing:1.3px;text-transform:uppercase}
+body[data-pa-season] .pa-season-title {display:block;margin:0;color:#fff!important;font:800 24px/1.2 system-ui,sans-serif;letter-spacing:-.5px;overflow-wrap:anywhere}
+body[data-pa-season] .pa-season-description {display:block;margin:7px 0 0;color:#f3f3f6!important;font:400 13px/1.55 system-ui,sans-serif;max-width:70ch;overflow-wrap:anywhere}
+body[data-pa-season] .pa-season-link {display:flex;align-items:center;justify-content:center;flex:0 0 auto;min-height:46px;padding:12px 18px;border-radius:12px;background:var(--pa-season-accent)!important;color:var(--pa-season-ink)!important;font:800 12px/1.4 system-ui,sans-serif;text-decoration:none!important;text-align:center;white-space:normal}
+body[data-pa-season] .pa-season-link:focus-visible {outline:3px solid #fff;outline-offset:4px}
+body[data-pa-season] .pa-season-link:hover {box-shadow:0 0 0 3px #ffffff40}
+body[data-pa-season] .pa-season-topics {display:flex;flex-wrap:wrap;gap:9px;margin:18px 0 24px}
+body[data-pa-season] .pa-season-topics a {display:inline-flex;align-items:center;min-height:44px;padding:10px 14px;border:1px solid var(--pa-season-accent);border-radius:12px;background:var(--pa-season-dark);color:#fff!important;font:700 12px/1.4 system-ui,sans-serif;text-decoration:none}
+body[data-pa-season] .pa-season-topics a:focus-visible {outline:3px solid var(--pa-season-accent);outline-offset:3px}
+body[data-pa-season] .pa-season-product-mark {display:flex;justify-content:flex-end;align-items:center;width:100%;height:36px;min-height:36px;margin-top:6px;padding:4px 8px;box-sizing:border-box;border-radius:10px;background:linear-gradient(115deg,var(--pa-season-dark),var(--pa-season-surface));grid-column:1/-1;flex:0 0 auto;pointer-events:none}
+body[data-pa-season] .pa-season-product-mark svg {display:block;width:32px!important;height:32px!important;box-sizing:border-box;padding:5px;background:#ffffff0d;border:1px solid var(--pa-season-accent);border-radius:10px;max-width:none!important;max-height:none!important}
+body[data-pa-season] .pa-season-3d-icon {display:block;width:64px;height:64px;background:var(--pa-icon) center/contain no-repeat;flex-shrink:0}
+body[data-pa-season] .pa-season-product-mark {height:54px;min-height:54px;padding:0;background-image:var(--pa-ribbon),linear-gradient(115deg,var(--pa-season-dark),var(--pa-season-surface));background-size:100% auto,100% 100%;background-repeat:no-repeat;background-position:right center,center}
+body[data-pa-season] .pa-season-product-mark .pa-season-3d-icon {display:none}
+@media(max-width:800px){body[data-pa-season] .pa-season-banner{flex-wrap:wrap;padding:20px;gap:14px}body[data-pa-season] .pa-season-copy{flex-basis:calc(100% - 90px)}body[data-pa-season] .pa-season-link{flex:1 1 100%}}
+@media(max-width:480px){body[data-pa-season] .pa-season-banner{padding:16px;gap:12px;border-radius:16px}body[data-pa-season] .pa-season-art{flex-basis:48px;width:48px;height:48px;border-radius:13px}body[data-pa-season] .pa-season-art svg{width:38px!important;height:38px!important}body[data-pa-season] .pa-season-copy{flex-basis:calc(100% - 60px)}body[data-pa-season] .pa-season-title{font-size:21px}body[data-pa-season] .pa-season-kicker{font-size:9px;letter-spacing:.7px}}
+@media print{body[data-pa-season] .pa-season-banner{display:none}}
+</style>
+<!-- PA_SEASONAL_SITE_STYLE_END -->
 </head>
-<body data-pa-category-page="true">
+<body data-pa-season="black_friday" data-pa-layout="page" data-pa-category-page="true">
 <header><div class="wrap top">
 <a class="brand" href="https://prezziassurdi.com/"><img src="https://prezziassurdi.com/logo-prezzi-assurdi.png" alt="Prezzi Assurdi"><span>PREZZI ASSURDI</span></a>
 <nav class="page-nav" aria-label="Navigazione pagine"><a class="home" href="https://prezziassurdi.com/offerte/">Offerte per negozio</a><a class="home" href="https://prezziassurdi.com/">← Torna al motore di ricerca</a></nav>
 </div></header>
-<main><div class="wrap">
+<main><div class="wrap"><!-- PA_SEASONAL_SITE_BANNER_START -->
+<section class="pa-season-banner" aria-label="Offerte Black Friday"><div class="pa-season-art" aria-hidden="true"><span class="pa-season-3d-icon"></span></div><div class="pa-season-copy"><span class="pa-season-kicker">Calendario Prezzi Assurdi · 20/11/2026 – 29/11/2026</span><strong class="pa-season-title">Offerte Black Friday</strong><span class="pa-season-description">Confronta i prezzi e controlla la variante prima di acquistare.</span></div><a class="pa-season-link" href="https://prezziassurdi.com/eventi/black-friday/">Scopri le proposte →</a></section>
+<!-- PA_SEASONAL_SITE_BANNER_END -->
 <div class="crumb"><a href="https://prezziassurdi.com/">Home</a> › Migliori INTEGRATORI</div>
 <section class="hero">
 <div style="font-size:13px;font-weight:900;color:#ffd83d">PREZZI ASSURDI · CATEGORIA</div>
@@ -396,361 +438,361 @@ body[data-pa-category-page] .card .photo img{
 <h3><a href="https://www.amazon.it/dp/B0D637HBP1?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Vegavero Magnesio Bisglicinato 400 mg Elementare, 2000 mg di Bisglicinato per Dose</a></h3>
 <div class="price">12,79 €<span class="old">27,95 €</span></div><div class="discount">Sconto dichiarato: -54%</div>
 <a class="cta" href="https://www.amazon.it/dp/B0D637HBP1?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/4170NsLQNTL._SL500_.jpg" alt="Enervit, Maltodextrine, Integratore Energetico con 99, 9% di Maltodestrine, Insapore" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B009AXWS8A?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Enervit, Maltodextrine, Integratore Energetico con 99, 9% di Maltodestrine, Insapore</a></h3>
 <div class="price">6,59 €<span class="old">13,90 €</span></div><div class="discount">Sconto dichiarato: -53%</div>
 <a class="cta" href="https://www.amazon.it/dp/B009AXWS8A?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/41BqjT-nsYL._SL500_.jpg" alt="Enervit, Maltodextrine, Integratore Energetico con 99, 9% di Maltodestrine, Insapore" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B0H2NMSVLP?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Enervit, Maltodextrine, Integratore Energetico con 99, 9% di Maltodestrine, Insapore</a></h3>
 <div class="price">13,18 €<span class="old">27,80 €</span></div><div class="discount">Sconto dichiarato: -53%</div>
 <a class="cta" href="https://www.amazon.it/dp/B0H2NMSVLP?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/411BZ1BimOL._SL500_.jpg" alt="NaturaleBio Proteine Vegane di Canapa Bio in Polvere" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B0DDZHKNK3?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">NaturaleBio Proteine Vegane di Canapa Bio in Polvere</a></h3>
 <div class="price">6,99 €<span class="old">12,99 €</span></div><div class="discount">Sconto dichiarato: -46%</div>
 <a class="cta" href="https://www.amazon.it/dp/B0DDZHKNK3?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/41ZElMnX27L._SL500_.jpg" alt="Equilibra Omega 3 6, Integratore Olio di Pesce con EPA e DHA per la Normale Funzione…" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B01724CTT6?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Equilibra Omega 3 6, Integratore Olio di Pesce con EPA e DHA per la Normale Funzione…</a></h3>
 <div class="price">4,90 €<span class="old">8,99 €</span></div><div class="discount">Sconto dichiarato: -45%</div>
 <a class="cta" href="https://www.amazon.it/dp/B01724CTT6?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/512D4m37gEL._SL500_.jpg" alt="WARRIOR Supplements Essentials Creatina polvere 500g 500g, 3 g per porzione" loading="lazy"></div>
 <h3><a href="https://prezziassurdi.com/offerte/B01F94TFZW/">WARRIOR Supplements Essentials Creatina polvere 500g 500g, 3 g per porzione</a></h3>
 <div class="price">7,99 €<span class="old">14,45 €</span></div><div class="discount">Sconto dichiarato: -45%</div>
 <a class="cta" href="https://prezziassurdi.com/offerte/B01F94TFZW/">VEDI DETTAGLI →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/41C2taPr-wL._SL500_.jpg" alt="Multivitaminico Premium – 180 Capsule, vitamine dalla A alla Z bioattive" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B07RFLY8DZ?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Multivitaminico Premium – 180 Capsule, vitamine dalla A alla Z bioattive</a></h3>
 <div class="price">16,49 €<span class="old">29,99 €</span></div><div class="discount">Sconto dichiarato: -45%</div>
 <a class="cta" href="https://www.amazon.it/dp/B07RFLY8DZ?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/41o+S2e9E9L._SL500_.jpg" alt="Equilibra Integratori Alimentari, Multivitamine e Minerali" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B09W5L8Y1W?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Equilibra Integratori Alimentari, Multivitamine e Minerali</a></h3>
 <div class="price">5,34 €<span class="old">9,49 €</span></div><div class="discount">Sconto dichiarato: -44%</div>
 <a class="cta" href="https://www.amazon.it/dp/B09W5L8Y1W?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/41jNlA5eCEL._SL500_.jpg" alt="Equilibra Omega 3 Olio di Pesce 2000mg, 180 Capsule, Scorta 6 mesi" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B0FV34QM31?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Equilibra Omega 3 Olio di Pesce 2000mg, 180 Capsule, Scorta 6 mesi</a></h3>
 <div class="price">14,57 €<span class="old">25,90 €</span></div><div class="discount">Sconto dichiarato: -44%</div>
 <a class="cta" href="https://www.amazon.it/dp/B0FV34QM31?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/41fK+xbnisL._SL500_.jpg" alt="Matt, Olio di Pesce Omega 3 EPA/DHA 3000, Integratore, 60 Gellule" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B018UFDCRY?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Matt, Olio di Pesce Omega 3 EPA/DHA 3000, Integratore, 60 Gellule</a></h3>
 <div class="price">9,90 €<span class="old">16,38 €</span></div><div class="discount">Sconto dichiarato: -40%</div>
 <a class="cta" href="https://www.amazon.it/dp/B018UFDCRY?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/41RM2bscbxL._SL500_.jpg" alt="Supradyn Omega 3, Olio di Pesce 1000 mg, EPA e DHA, Vitamina E, 60 Capsule" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B0G2YFZHSB?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Supradyn Omega 3, Olio di Pesce 1000 mg, EPA e DHA, Vitamina E, 60 Capsule</a></h3>
 <div class="price">13,99 €<span class="old">22,99 €</span></div><div class="discount">Sconto dichiarato: -39%</div>
 <a class="cta" href="https://www.amazon.it/dp/B0G2YFZHSB?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/41sDKrYubXL._SL500_.jpg" alt="Omega 3 Vegan 90 Softgel, 2000mg, 600mg DHA, 300mg EPA, da Olio Algale" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B0DCP2BQBP?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Omega 3 Vegan 90 Softgel, 2000mg, 600mg DHA, 300mg EPA, da Olio Algale</a></h3>
 <div class="price">17,09 €<span class="old">27,99 €</span></div><div class="discount">Sconto dichiarato: -39%</div>
 <a class="cta" href="https://www.amazon.it/dp/B0DCP2BQBP?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/41Isnk-VcEL._SL500_.jpg" alt="Nutravita Omega 3 Fish Oil 2000mg 240 Omega 3 EPA DHA Capsule, 4 Mesi" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B01K28121U?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Nutravita Omega 3 Fish Oil 2000mg 240 Omega 3 EPA DHA Capsule, 4 Mesi</a></h3>
 <div class="price">18,80 €<span class="old">29,99 €</span></div><div class="discount">Sconto dichiarato: -37%</div>
 <a class="cta" href="https://www.amazon.it/dp/B01K28121U?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/51uplZbVPRL._SL500_.jpg" alt="Equilibra Magnesio e Potassio Sport, Con Elettroliti e Carboidrati, 10 Buste" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B0GQHRJ5PK?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Equilibra Magnesio e Potassio Sport, Con Elettroliti e Carboidrati, 10 Buste</a></h3>
 <div class="price">7,35 €<span class="old">11,55 €</span></div><div class="discount">Sconto dichiarato: -36%</div>
 <a class="cta" href="https://www.amazon.it/dp/B0GQHRJ5PK?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/41m9qZd6B2L._SL500_.jpg" alt="Equilibra Magnesio Bisglicinato 250mg, 180 Capsule, Scorta 6 mesi" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B0FBC3N44M?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Equilibra Magnesio Bisglicinato 250mg, 180 Capsule, Scorta 6 mesi</a></h3>
 <div class="price">15,85 €<span class="old">24,90 €</span></div><div class="discount">Sconto dichiarato: -36%</div>
 <a class="cta" href="https://www.amazon.it/dp/B0FBC3N44M?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/41fH4MqSk3L._SL500_.jpg" alt="Italian Elite® Active Complex Pro 120 cpr. Integratore Alimentare con Estratti…" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B0CQW8K7SN?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Italian Elite® Active Complex Pro 120 cpr. Integratore Alimentare con Estratti…</a></h3>
 <div class="price">23,73 €<span class="old">36,90 €</span></div><div class="discount">Sconto dichiarato: -36%</div>
 <a class="cta" href="https://www.amazon.it/dp/B0CQW8K7SN?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/41Dnej9H1NL._SL500_.jpg" alt="Optimum Nutrition ON Platinum PUMP Pre Workout" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B09P46J359?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Optimum Nutrition ON Platinum PUMP Pre Workout</a></h3>
 <div class="price">26,12 €<span class="old">39,99 €</span></div><div class="discount">Sconto dichiarato: -35%</div>
 <a class="cta" href="https://www.amazon.it/dp/B09P46J359?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/41s-3IBmdbL._SL500_.jpg" alt="L Citrullina Malato Polvere 500 g, 166 Porzioni, Vegan, 3 g per porzione" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B0BM837Q6Z?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">L Citrullina Malato Polvere 500 g, 166 Porzioni, Vegan, 3 g per porzione</a></h3>
 <div class="price">14,95 €<span class="old">21,95 €</span></div><div class="discount">Sconto dichiarato: -32%</div>
 <a class="cta" href="https://www.amazon.it/dp/B0BM837Q6Z?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/41+OH7PitnL._SL500_.jpg" alt="Magnesio Bisglicinato + Citrato 2145mg Vitamine B5, B6 e C" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B07MK35YHP?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Magnesio Bisglicinato + Citrato 2145mg Vitamine B5, B6 e C</a></h3>
 <div class="price">13,75 €<span class="old">19,90 €</span></div><div class="discount">Sconto dichiarato: -31%</div>
 <a class="cta" href="https://www.amazon.it/dp/B07MK35YHP?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/41w0UwxZTpL._SL500_.jpg" alt="Healthy Fusion Pre Workout Esplosivo, Integratore Palestra con Creatina" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B07VDM63RN?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Healthy Fusion Pre Workout Esplosivo, Integratore Palestra con Creatina</a></h3>
 <div class="price">13,77 €<span class="old">19,95 €</span></div><div class="discount">Sconto dichiarato: -31%</div>
 <a class="cta" href="https://www.amazon.it/dp/B07VDM63RN?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/41bzfy7fbuL._SL500_.jpg" alt="Bcaa 4:1:1 Yamamoto Nutrition (200 tablets)" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B06WWDPNSS?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Bcaa 4:1:1 Yamamoto Nutrition (200 tablets)</a></h3>
 <div class="price">13,95 €<span class="old">19,92 €</span></div><div class="discount">Sconto dichiarato: -30%</div>
 <a class="cta" href="https://www.amazon.it/dp/B06WWDPNSS?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/41DP02ZD3yS._SL500_.jpg" alt="Magnesio Bisglicinato 300 mg con Vitamina B6, 90 Capsule Vegane, Nutrimea" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B07LH73GZ9?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Magnesio Bisglicinato 300 mg con Vitamina B6, 90 Capsule Vegane, Nutrimea</a></h3>
 <div class="price">13,99 €<span class="old">19,99 €</span></div><div class="discount">Sconto dichiarato: -30%</div>
 <a class="cta" href="https://www.amazon.it/dp/B07LH73GZ9?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/31ijfoyI7sL._SL500_.jpg" alt="GlycoBol® integratore alimentare a base di ciclodestrine altamente ramificate Cluster…" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B01I8K2JTI?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">GlycoBol® integratore alimentare a base di ciclodestrine altamente ramificate Cluster…</a></h3>
 <div class="price">17,38 €<span class="old">24,99 €</span></div><div class="discount">Sconto dichiarato: -30%</div>
 <a class="cta" href="https://www.amazon.it/dp/B01I8K2JTI?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/31-UmvYvGCL._SL500_.jpg" alt="Potassio Integratore, 270 Capsule, Eletto PRODOTTO DELL&#x27;ANNO 2025, Vegano" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B0BGXNXFDB?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Potassio Integratore, 270 Capsule, Eletto PRODOTTO DELL&#x27;ANNO 2025, Vegano</a></h3>
 <div class="price">17,49 €<span class="old">24,99 €</span></div><div class="discount">Sconto dichiarato: -30%</div>
 <a class="cta" href="https://www.amazon.it/dp/B0BGXNXFDB?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/41vAoHdPIML._SL500_.jpg" alt="ESN EAA+, Mora, 400 g, Tutti i 9 aminoacidi essenziali (EAA) e vitamina B6, 3" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B0FZHH4H5S?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">ESN EAA+, Mora, 400 g, Tutti i 9 aminoacidi essenziali (EAA) e vitamina B6, 3</a></h3>
 <div class="price">20,93 €<span class="old">29,90 €</span></div><div class="discount">Sconto dichiarato: -30%</div>
 <a class="cta" href="https://www.amazon.it/dp/B0FZHH4H5S?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/41VeRymicrL._SL500_.jpg" alt="Optimum Nutrition Gold Standard Pre Workout in Polvere, 330g, 30 Porzioni, Anguria, 3" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B00TFB0YX8?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Optimum Nutrition Gold Standard Pre Workout in Polvere, 330g, 30 Porzioni, Anguria, 3</a></h3>
 <div class="price">22,99 €<span class="old">32,99 €</span></div><div class="discount">Sconto dichiarato: -30%</div>
 <a class="cta" href="https://www.amazon.it/dp/B00TFB0YX8?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/41YlrElr9gL._SL500_.jpg" alt="Enervit Pure Pro Electrolytes Boost, Elettroliti" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B0DXFJV7HG?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Enervit Pure Pro Electrolytes Boost, Elettroliti</a></h3>
 <div class="price">9,95 €<span class="old">14,00 €</span></div><div class="discount">Sconto dichiarato: -29%</div>
 <a class="cta" href="https://www.amazon.it/dp/B0DXFJV7HG?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/31gUiRAwTkL._SL500_.jpg" alt="Optimum Nutrition ON Platinum PUMP Pre Workout" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B0D1W2T5CY?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Optimum Nutrition ON Platinum PUMP Pre Workout</a></h3>
 <div class="price">25,99 €<span class="old">35,99 €</span></div><div class="discount">Sconto dichiarato: -28%</div>
 <a class="cta" href="https://www.amazon.it/dp/B0D1W2T5CY?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/41giSENqK7L._SL500_.jpg" alt="Capsule di citrato di magnesio 1500 mg con vitamina B6, 120 capsule vegane" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B0FQVBPVSB?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Capsule di citrato di magnesio 1500 mg con vitamina B6, 120 capsule vegane</a></h3>
 <div class="price">9,49 €<span class="old">12,99 €</span></div><div class="discount">Sconto dichiarato: -27%</div>
 <a class="cta" href="https://www.amazon.it/dp/B0FQVBPVSB?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/41d3goHCvcL._SL500_.jpg" alt="Foodelis Creatina Monoidrato Micronizzata in Polvere 1 kg, 333 Dosi" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B0BGJC5GZ1?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Foodelis Creatina Monoidrato Micronizzata in Polvere 1 kg, 333 Dosi</a></h3>
 <div class="price">13,78 €<span class="old">18,95 €</span></div><div class="discount">Sconto dichiarato: -27%</div>
 <a class="cta" href="https://www.amazon.it/dp/B0BGJC5GZ1?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/314W0GXKfJL._SL500_.jpg" alt="Supremagy Magnesio Bisglicinato 2250mg, 240 CPR (fino a 4 mesi)" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B0DYDQVML5?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Supremagy Magnesio Bisglicinato 2250mg, 240 CPR (fino a 4 mesi)</a></h3>
 <div class="price">14,50 €<span class="old">19,90 €</span></div><div class="discount">Sconto dichiarato: -27%</div>
 <a class="cta" href="https://www.amazon.it/dp/B0DYDQVML5?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/41bmcQ9YZTL._SL500_.jpg" alt="YAMAMOTO NUTRITION GlycoBol 500 grammi" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B093F2S46S?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">YAMAMOTO NUTRITION GlycoBol 500 grammi</a></h3>
 <div class="price">17,44 €<span class="old">23,90 €</span></div><div class="discount">Sconto dichiarato: -27%</div>
 <a class="cta" href="https://www.amazon.it/dp/B093F2S46S?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/41lwYf01qNL._SL500_.jpg" alt="Supradyn Ricarica Multivitaminico Completo, Integratore Stanchezza, 35 cpr" loading="lazy"></div>
 <h3><a href="https://prezziassurdi.com/offerte/B01C23EO0Y/">Supradyn Ricarica Multivitaminico Completo, Integratore Stanchezza, 35 cpr</a></h3>
 <div class="price">14,29 €<span class="old">19,40 €</span></div><div class="discount">Sconto dichiarato: -26%</div>
 <a class="cta" href="https://prezziassurdi.com/offerte/B01C23EO0Y/">VEDI DETTAGLI →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/41dXNoZtksL._SL500_.jpg" alt="Magnesio Bisglicinato 300 mg Elementare per Dose, 180 Capsule, Scorta 2 mesi" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B07NS14648?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Magnesio Bisglicinato 300 mg Elementare per Dose, 180 Capsule, Scorta 2 mesi</a></h3>
 <div class="price">14,79 €<span class="old">19,99 €</span></div><div class="discount">Sconto dichiarato: -26%</div>
 <a class="cta" href="https://www.amazon.it/dp/B07NS14648?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/31zb-JoH16L._SL500_.jpg" alt="Bulk Caseina micellare, Cioccolato, 500g | Frullato proteico, 16 porzioni" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B00SP334TS?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Bulk Caseina micellare, Cioccolato, 500g | Frullato proteico, 16 porzioni</a></h3>
 <div class="price">17,49 €<span class="old">23,71 €</span></div><div class="discount">Sconto dichiarato: -26%</div>
 <a class="cta" href="https://www.amazon.it/dp/B00SP334TS?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/319fQE5g-dL._SL500_.jpg" alt="YAMAMOTO NUTRITION Essential AMINO 240 Compresse" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B0CTXMR1F3?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">YAMAMOTO NUTRITION Essential AMINO 240 Compresse</a></h3>
 <div class="price">22,05 €<span class="old">29,90 €</span></div><div class="discount">Sconto dichiarato: -26%</div>
 <a class="cta" href="https://www.amazon.it/dp/B0CTXMR1F3?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/41mtVxn7LAL._SL500_.jpg" alt="Italian Elite® Pre Workout Extreme – Pre Allenamento Palestra e Bodybuilding" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B0CPM8SPNF?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Italian Elite® Pre Workout Extreme – Pre Allenamento Palestra e Bodybuilding</a></h3>
 <div class="price">16,43 €<span class="old">21,90 €</span></div><div class="discount">Sconto dichiarato: -25%</div>
 <a class="cta" href="https://www.amazon.it/dp/B0CPM8SPNF?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/41xi-p6DIbL._SL500_.jpg" alt="Optimum Nutrition ON Platinum PUMP Pre Workout" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B09P47NZGL?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Optimum Nutrition ON Platinum PUMP Pre Workout</a></h3>
 <div class="price">26,99 €<span class="old">35,98 €</span></div><div class="discount">Sconto dichiarato: -25%</div>
 <a class="cta" href="https://www.amazon.it/dp/B09P47NZGL?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/51WfpXCbXSL._SL500_.jpg" alt="Pre Workout Potente 300g, Preworkout Vegan con Vitamina B12, L Citrullina" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B09J9XJ9VZ?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Pre Workout Potente 300g, Preworkout Vegan con Vitamina B12, L Citrullina</a></h3>
 <div class="price">29,90 €<span class="old">39,90 €</span></div><div class="discount">Sconto dichiarato: -25%</div>
 <a class="cta" href="https://www.amazon.it/dp/B09J9XJ9VZ?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/41iw3av0ouL._SL500_.jpg" alt="TRUE NATURE Potassio 2.222 mg al giorno 400 capsule Scorta per 6 mesi" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B0DLL1NLB8?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">TRUE NATURE Potassio 2.222 mg al giorno 400 capsule Scorta per 6 mesi</a></h3>
 <div class="price">20,49 €<span class="old">26,99 €</span></div><div class="discount">Sconto dichiarato: -24%</div>
 <a class="cta" href="https://www.amazon.it/dp/B0DLL1NLB8?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/41gGUCo0lvL._SL500_.jpg" alt="Caffeina Pura – 400 compresse – 200 mg per compressa – Alto Dosaggio" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B0F37GFSRM?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Caffeina Pura – 400 compresse – 200 mg per compressa – Alto Dosaggio</a></h3>
 <div class="price">9,95 €<span class="old">12,95 €</span></div><div class="discount">Sconto dichiarato: -23%</div>
 <a class="cta" href="https://www.amazon.it/dp/B0F37GFSRM?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/41f1Dd7CQ1L._SL500_.jpg" alt="Multivitaminico Completo Energy Go, 500 Microcompresse per Oltre 16 Mesi" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B0BS9V22KX?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Multivitaminico Completo Energy Go, 500 Microcompresse per Oltre 16 Mesi</a></h3>
 <div class="price">9,99 €<span class="old">12,99 €</span></div><div class="discount">Sconto dichiarato: -23%</div>
 <a class="cta" href="https://www.amazon.it/dp/B0BS9V22KX?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/51qIesHR+lL._SL500_.jpg" alt="Nutreika Pre Workout Potente + Creatina Monoidrata Pura e Caffeina" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B0F674KMT3?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Nutreika Pre Workout Potente + Creatina Monoidrata Pura e Caffeina</a></h3>
 <div class="price">19,99 €<span class="old">26,12 €</span></div><div class="discount">Sconto dichiarato: -23%</div>
 <a class="cta" href="https://www.amazon.it/dp/B0F674KMT3?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/31qYBPLFU-L._SL500_.jpg" alt="Magnesio Citrato Premium 2320 mg, 180 Capsule" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B074CKFS4Q?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Magnesio Citrato Premium 2320 mg, 180 Capsule</a></h3>
 <div class="price">13,59 €<span class="old">17,49 €</span></div><div class="discount">Sconto dichiarato: -22%</div>
 <a class="cta" href="https://www.amazon.it/dp/B074CKFS4Q?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/41+qrIgpFmL._SL500_.jpg" alt="YAMAMOTO NUTRITION Essential AMINO 600 Compresse" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B0CG6QRT5D?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">YAMAMOTO NUTRITION Essential AMINO 600 Compresse</a></h3>
 <div class="price">46,80 €<span class="old">59,90 €</span></div><div class="discount">Sconto dichiarato: -22%</div>
 <a class="cta" href="https://www.amazon.it/dp/B0CG6QRT5D?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/41qdo4RQ6aL._SL500_.jpg" alt="Magnesio Citrato Capsule 240 x4 mesi" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B07VGG81ZB?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Magnesio Citrato Capsule 240 x4 mesi</a></h3>
 <div class="price">13,44 €<span class="old">16,99 €</span></div><div class="discount">Sconto dichiarato: -21%</div>
 <a class="cta" href="https://www.amazon.it/dp/B07VGG81ZB?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/51SyN-25qRL._SL500_.jpg" alt="Yamamoto Nutrition Bcaa 8:1:1 Integratore Alimentare di Aminoacidi a Catena…" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B074V4L4SB?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Yamamoto Nutrition Bcaa 8:1:1 Integratore Alimentare di Aminoacidi a Catena…</a></h3>
 <div class="price">33,90 €<span class="old">42,99 €</span></div><div class="discount">Sconto dichiarato: -21%</div>
 <a class="cta" href="https://www.amazon.it/dp/B074V4L4SB?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/31gEdtEOpkL._SL500_.jpg" alt="Bulk Maltodestrine, 2.5kg | 50 porzioni" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B00SP30CH0?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Bulk Maltodestrine, 2.5kg | 50 porzioni</a></h3>
 <div class="price">11,25 €<span class="old">13,99 €</span></div><div class="discount">Sconto dichiarato: -20%</div>
 <a class="cta" href="https://www.amazon.it/dp/B00SP30CH0?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/41YG21emQrL._SL500_.jpg" alt="Sustenium Energy Sport, Integratore Elettroliti per Sportivi, 10 Bustine, Con Taurina" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B015SMEPHS?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Sustenium Energy Sport, Integratore Elettroliti per Sportivi, 10 Bustine, Con Taurina</a></h3>
 <div class="price">11,90 €<span class="old">14,90 €</span></div><div class="discount">Sconto dichiarato: -20%</div>
 <a class="cta" href="https://www.amazon.it/dp/B015SMEPHS?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/410udv6gIJL._SL500_.jpg" alt="Italian Elite® Creatine Extreme – Creatina Monoidrata Micronizzata, 120 Compresse" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B0CB6Q53L1?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Italian Elite® Creatine Extreme – Creatina Monoidrata Micronizzata, 120 Compresse</a></h3>
 <div class="price">18,32 €<span class="old">22,90 €</span></div><div class="discount">Sconto dichiarato: -20%</div>
 <a class="cta" href="https://www.amazon.it/dp/B0CB6Q53L1?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/41BEw0Ts0GL._SL500_.jpg" alt="Bcaa POWDER 8:1:1 integratore di aminoacidi ramificati in rapporto 8:1:1 300 g…" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B074V4MFXC?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Bcaa POWDER 8:1:1 integratore di aminoacidi ramificati in rapporto 8:1:1 300 g…</a></h3>
 <div class="price">20,57 €<span class="old">25,66 €</span></div><div class="discount">Sconto dichiarato: -20%</div>
 <a class="cta" href="https://www.amazon.it/dp/B074V4MFXC?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/414jsdkp38L._SL500_.jpg" alt="Bandini® AMINOACIDI RAMIFICATI BCAA 211 + Vitamina B1 e B6, 500 Compresse" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B0B1G6D1FB?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Bandini® AMINOACIDI RAMIFICATI BCAA 211 + Vitamina B1 e B6, 500 Compresse</a></h3>
 <div class="price">23,90 €<span class="old">29,90 €</span></div><div class="discount">Sconto dichiarato: -20%</div>
 <a class="cta" href="https://www.amazon.it/dp/B0B1G6D1FB?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/51LbMW1m5qL._SL500_.jpg" alt="YAMAMOTO NUTRITION BCAA 4:1:1 500 Compresse" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B06WW62BZS?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">YAMAMOTO NUTRITION BCAA 4:1:1 500 Compresse</a></h3>
 <div class="price">31,86 €<span class="old">39,90 €</span></div><div class="discount">Sconto dichiarato: -20%</div>
 <a class="cta" href="https://www.amazon.it/dp/B06WW62BZS?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/31WTPJ0ZO4L._SL500_.jpg" alt="Multivitaminico Completo 450 Compresse, Maxi Formato" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B075RCPZ3P?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Multivitaminico Completo 450 Compresse, Maxi Formato</a></h3>
 <div class="price">12,34 €<span class="old">15,23 €</span></div><div class="discount">Sconto dichiarato: -19%</div>
 <a class="cta" href="https://www.amazon.it/dp/B075RCPZ3P?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/41xUm5tSylL._SL500_.jpg" alt="Potassio Citrato di Potassio 2880mg 180 Compresse Muscolo" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B0CMVBP21R?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Potassio Citrato di Potassio 2880mg 180 Compresse Muscolo</a></h3>
 <div class="price">18,63 €<span class="old">22,90 €</span></div><div class="discount">Sconto dichiarato: -19%</div>
 <a class="cta" href="https://www.amazon.it/dp/B0CMVBP21R?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/41hFWROSFzL._SL500_.jpg" alt="Green Tahr Proteine Vegane in Polvere Bio Gusto Neutro 750g. 82% Proteine Vegetali…" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B0D425FKBC?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Green Tahr Proteine Vegane in Polvere Bio Gusto Neutro 750g. 82% Proteine Vegetali…</a></h3>
 <div class="price">19,00 €<span class="old">23,33 €</span></div><div class="discount">Sconto dichiarato: -19%</div>
 <a class="cta" href="https://www.amazon.it/dp/B0D425FKBC?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/41fWXe2Q8FL._SL500_.jpg" alt="YAMAMOTO Nutrition, Multi VITAMIN 60 Compresse" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B01INBIB2Q?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">YAMAMOTO Nutrition, Multi VITAMIN 60 Compresse</a></h3>
 <div class="price">9,75 €<span class="old">11,92 €</span></div><div class="discount">Sconto dichiarato: -18%</div>
 <a class="cta" href="https://www.amazon.it/dp/B01INBIB2Q?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/41m66TPwAoL._SL500_.jpg" alt="ISOLA PLUS Citrato di Magnesio Integratore Alimentare 250g Polvere" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B0FD3ZLRRH?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">ISOLA PLUS Citrato di Magnesio Integratore Alimentare 250g Polvere</a></h3>
 <div class="price">13,10 €<span class="old">15,99 €</span></div><div class="discount">Sconto dichiarato: -18%</div>
 <a class="cta" href="https://www.amazon.it/dp/B0FD3ZLRRH?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/41iHrEb2BJL._SL500_.jpg" alt="Potassium CITRATE integratore di potassio da fonte organica 90 compresse" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B01LY3VGB3?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Potassium CITRATE integratore di potassio da fonte organica 90 compresse</a></h3>
 <div class="price">7,35 €<span class="old">8,81 €</span></div><div class="discount">Sconto dichiarato: -17%</div>
 <a class="cta" href="https://www.amazon.it/dp/B01LY3VGB3?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article>
 <article class="card">
 <div class="photo"><img src="https://m.media-amazon.com/images/I/41rgU6i6noL._SL500_.jpg" alt="Caffeine TABS integratore alimentare di vitamina B1 e caffeina 100 compresse" loading="lazy"></div>
 <h3><a href="https://www.amazon.it/dp/B01IFKOYYY?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">Caffeine TABS integratore alimentare di vitamina B1 e caffeina 100 compresse</a></h3>
 <div class="price">7,45 €<span class="old">8,99 €</span></div><div class="discount">Sconto dichiarato: -17%</div>
 <a class="cta" href="https://www.amazon.it/dp/B01IFKOYYY?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VAI AL NEGOZIO →</a>
-</article></div>
+<!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article></div>
 </section>
 <section class="editorial-panel" style="margin-top:18px">
 <h2>Come valutare le offerte</h2>
@@ -1033,4 +1075,8 @@ document.addEventListener('input',function(e){var el=e.target;if(!el||!el.matche
 })();
 </script>
 <!-- PA_GA4_CONSENT_V1_END -->
-</body></html>
+<!-- PA_SEASONAL_PRODUCT_SCRIPT_START --><script>(function(){const markup="<span class=\"pa-season-product-mark\" aria-hidden=\"true\" title=\"Decorazione stagionale: Black Friday\"><span class=\"pa-season-3d-icon\"><\/span><\/span>";
+function decorate(){document.querySelectorAll('.photo,.top-choice-photo,.quick-photo,.deal-image').forEach(function(photo){const card=photo.closest('.card,.top-choice,.quick-pick,.single,.feature');if(!card||Array.from(card.children).some(function(n){return n.classList.contains('pa-season-product-mark');}))return;const holder=document.createElement('div');holder.innerHTML=markup;card.appendChild(holder.firstElementChild);});}
+function start(){decorate();if(typeof MutationObserver!=='undefined'){new MutationObserver(decorate).observe(document.querySelector('main')||document.body,{childList:true,subtree:true});}}
+if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',start);else start();
+})();</script><!-- PA_SEASONAL_PRODUCT_SCRIPT_END --></body></html>
