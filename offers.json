@@ -1,5 +1,22 @@
 [
   {
+    "asin": "B0B3QWFM35",
+    "title": "NZXT F120 RGB Triple Pack - 3x Ventole RGB PWM 120mm + Hub - Bianco | Tre ventole RGB PWM 120mm con controller. Personalizzazione luci avanzata, raffreddamento super silenzioso, compatibili CAM.",
+    "price": 19.99,
+    "old_price": 99.99,
+    "discount": 80.0,
+    "image": "https://m.media-amazon.com/images/I/318GSEuMVZL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0B3QWFM35?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "possibile_errore_di_prezzo",
+    "macro_group": "price_error",
+    "seasonal_title": "POSSIBILE ERRORE DI PREZZO",
+    "published_at": "2026-11-20T12:10:54.436927+01:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B0GLPJNHTM",
     "title": "Comfyer BW02 Scaldabiberon Portatile 500 ml, Senza Fili con Sterilizzazione | Scaldalatte portatile con batteria da 16000mAh, senza fili e con contenitore integrato per sterilizzazione.",
     "price": 57.0,
@@ -2002,50 +2019,5 @@
     "source_external_id": "",
     "quality_status": "ready",
     "quality_issues": []
-  },
-  {
-    "asin": "W837158D82",
-    "title": "MEDIACOM USB-C TO HDMI",
-    "price": 9.81,
-    "old_price": 14.99,
-    "discount": 34.6,
-    "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_91801909/fee_786_587_png",
-    "url": "https://www.awin1.com/pclick.php?p=35321336233&a=3086723&m=18529",
-    "category": "informatica",
-    "macro_group": "awin_discovery",
-    "seasonal_title": "Offerta MediaWorld",
-    "published_at": "2026-11-20T07:27:02.862483+01:00",
-    "source_merchant": "mediaworld",
-    "source_external_id": "170933",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "mediaworld",
-        "merchant_name": "MediaWorld",
-        "merchant_id": "18529",
-        "product_id": "170933",
-        "awin_product_id": "35321336233",
-        "title": "MEDIACOM USB-C TO HDMI",
-        "brand": "MEDIACOM",
-        "ean": "8028153115824",
-        "mpn": "MD-C305",
-        "price": 9.81,
-        "old_price": 14.99,
-        "discount": 34.6,
-        "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_91801909/fee_786_587_png",
-        "url": "https://www.awin1.com/pclick.php?p=35321336233&a=3086723&m=18529",
-        "category": "Computer;Mac;Accessori Mac",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {}
-      }
-    ],
-    "merchant_match_score": 100,
-    "merchant_ean": "8028153115824",
-    "merchant_prices_checked_at": "2026-11-20T10:56:49.624387+01:00",
-    "availability": "in_stock",
-    "price_observed_at": "2026-11-20T10:56:49.624387+01:00"
   }
 ]
