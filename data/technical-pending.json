@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-20T19:21:20+01:00",
+  "generated_at": "2026-11-20T20:46:19+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -374,6 +374,20 @@
     ],
     "tv-in-offerta": [
       {
+        "title": "TCL 55V6D – Smart TV 4K HDR10+ da 55\" con Fire TV e Dolby Atmos | DTS:X, Game Master, Motion Clarity, Apple AirPlay 2, Press & Ask Alexa",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "TCL 50Q6C – Smart TV QD‑Mini LED 4K HDR10+ da 50\", Google TV | Dolby Vision IQ & Atmos, 144Hz Motion Clarity Pro, Game Master, Apple AirPlay 2, Voice Control",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Xiaomi TV F Pro 32 2025, 32 pollici (81 cm), QLED, Smart TV, Fire TV, Triple Tuner DVB-C/S/S2/T/T2,Dolby Audio, DTS Virtual:X, DTS-HD, Controllo Vocale Alexa, Compatibile con Apple",
         "merchant": "amazon",
         "ean": "6941948706361",
@@ -500,13 +514,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "TCL 55V6D – Smart TV 4K HDR10+ da 55\" con Fire TV e Dolby Atmos | DTS:X, Game Master, Motion Clarity, Apple AirPlay 2, Press & Ask Alexa",
-        "merchant": "amazon",
-        "ean": "5901292530297",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Hisense Smart TV QLED 55\" 4K 55E7DS | Audio Dolby Atmos, VIDAA OS, Dolby Vision IQ, HDR 10+, Game Mode, Bluetooth, Wifi, Alexa, AirPlay2, lativù 4K, 2026 Model",
         "merchant": "amazon",
         "ean": "6942351431345",
@@ -575,20 +582,13 @@
         "ean": "6942351430805",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "TCL 65PF650 – Smart TV 4K Ultra HD da 65\", Fire TV | Game Master, Motion Clarity, Dolby Vision & Atmos, Press & Ask Alexa",
-        "merchant": "amazon",
-        "ean": "5901292523343",
-        "mpn": "",
-        "status": "da_verificare"
       }
     ],
     "offerte-tv-55-65-pollici": [
       {
         "title": "TCL 55V6D – Smart TV 4K HDR10+ da 55\" con Fire TV e Dolby Atmos | DTS:X, Game Master, Motion Clarity, Apple AirPlay 2, Press & Ask Alexa",
         "merchant": "amazon",
-        "ean": "5901292530297",
+        "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -928,27 +928,6 @@
     ],
     "migliori-tablet": [
       {
-        "title": "HONOR Pad X9a Tablet 11,5\" 2.5K 120Hz, 6GB RAM 128GB, Batteria 8300mAh, 4 Altoparlanti, Snapdragon 685, Android 15, Tablet per Studenti e Famiglia, Corpo in Metallo, Grigio",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "HONOR Pad X9 Max 256GB WIFI SPACE GRAY",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Xiaomi REDMI Pad 2, Tablet 4+128GB, Grigio Grafite, Snapdragon 6s Gen 2 | Display LCD 2K 120Hz, Batteria 7600mAh (typ), Garanzia 2 anni+1 anno extra",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Tablet Android da 11 Pollici, Octa-Core, 24GB(4+20) RAM+128GB Memoria, Batteria 8200mAh, Widevine L1, Espandibile fino a 1TB, Doppia Fotocamera, Android Tablet per Studio, Lavoro e",
         "merchant": "",
         "ean": "",
@@ -1008,6 +987,13 @@
         "title": "Xiaomi REDMI Pad 2, Tablet 4+128GB, Argento, Snapdragon 6s Gen 2 | Display LCD 2K 120Hz, Batteria 7600mAh (typ), Garanzia 2 anni+1 anno extra",
         "merchant": "amazon",
         "ean": "6939093016008",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Xiaomi REDMI Pad 2, Tablet 4+128GB, Grigio Grafite, Snapdragon 6s Gen 2 | Display LCD 2K 120Hz, Batteria 7600mAh (typ), Garanzia 2 anni+1 anno extra",
+        "merchant": "amazon",
+        "ean": "6939093015971",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -2770,6 +2756,13 @@
     ],
     "migliori-moda": [
       {
+        "title": "PUMA Ultra 6 Play FG/AG Wn's Scarpe da Calcio da Donna, Giallo Alert Black-Glowing Red-Lime Squeeze, 40, Yellow Alert PUMA - Spremere con Lime, Colore: Nero, 41 EU",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Bianco, 44 EU",
         "merchant": "amazon",
         "ean": "",
@@ -2806,13 +2799,6 @@
       },
       {
         "title": "Skechers Bobs D Vine Instant Delight, Scarpe sportive Donna, White Synthetic, 37 EU",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "PUMA Unisex ST Runner v2 NL Sneakers, Puma Black-Puma White, 42 EU",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -3003,13 +2989,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "PUMA Unisex ST Runner v2 NL Sneakers, Puma Black-Puma White, 42 EU",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Feethit Sneakers Uomo Scarpe Running Ginnastica Camminata Palestra Nero 43",
         "merchant": "",
         "ean": "",
@@ -3188,6 +3167,13 @@
         "title": "Hitmars Scarpe Running Uomo Scarpe da Corsa Trekking Ginnastica EU42 | Scarpe Sportive Uomo Trail Running Fitness Sneakers Casual Leggere Antiscivolo Traspiranti",
         "merchant": "amazon",
         "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Nike Freak Uomo Sneakers Blu Taglia 43 Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "197593768728",
         "mpn": "",
         "status": "da_verificare"
       }
