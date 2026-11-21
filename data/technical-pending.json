@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-21T13:01:18+01:00",
+  "generated_at": "2026-11-21T14:31:18+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -943,13 +943,6 @@
     "migliori-tablet": [
       {
         "title": "Xiaomi Pad 8 Pro, Tablet 8+256 GB, Grigio, Snapdragon® 8 Elite | Tablet 11,2'', Batteria 9200 mAh, Display cristallino 144 Hz, HyperAI, Garanzia 2 anni del produttore+1 anno extra",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Amazon Kids Tablet 8 (ultimo modello), schermo HD da 8,7\", batteria che dura tutto il giorno, 1 anno di Kids+ con video, app, giochi e audiolibri, custodia rigida sottile inclusa (",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -2204,20 +2197,6 @@
     ],
     "migliori-lavatrici": [
       {
-        "title": "Cecotec Lavatrice Asciugatrice 8-5Kg Carico Frontale Bolero Wash&Dry 8580 Inverter Ice Blue A. 1400RPM, 16 Programmi, Inverter Plus, SteamMax, OnSmart, Smooth Wash, SpaCare, Guarni",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Whirlpool WPM 99W ADS IT Lavatrice 9 Kg 1400 Giri Libera Installazione Classe A",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Bosch WAN28229IT Serie 4 Lavatrice 9kg 1400 giri/min Bianco Classe A",
         "merchant": "",
         "ean": "",
@@ -2411,6 +2390,20 @@
         "merchant": "unieuro",
         "ean": "8806084273680",
         "mpn": "D2R3S08NSWW.ABWQP",
+        "status": "da_verificare"
+      },
+      {
+        "title": "LG F4NX5009TKB Lavatrice Intelligente 9 kg Classe A 40% Bianoc/Nero",
+        "merchant": "unieuro",
+        "ean": "8806096639238",
+        "mpn": "F4NX5009TKBABWQPI",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Samsung Lavatrice AI Control Ecodosatore 11Kg WW11DG6B85LHU3",
+        "merchant": "unieuro",
+        "ean": "8806095539843",
+        "mpn": "WW11DG6B85LHU3",
         "status": "da_verificare"
       }
     ],
@@ -2756,22 +2749,15 @@
     ],
     "migliori-moda": [
       {
-        "title": "Tommy Hilfiger Uomo Sneakers Court Detail Essential in Pelle, Bianco (White/Desert Sky), 43",
+        "title": "Pantaloni della tuta da jogging Gerber per neonati, confezione da 3, blu scuro/grigio, 18 mesi",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "Nike Book 2 Uomo - Sneakers Multi - Taglia 42 - Rete/Sintetico",
-        "merchant": "footlocker",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Nike Book 2 Uomo - Sneakers Multi - Taglia 41 - Rete/Sintetico",
-        "merchant": "footlocker",
+        "title": "Tommy Hilfiger Uomo Sneakers Court Detail Essential in Pelle, Bianco (White/Desert Sky), 43",
+        "merchant": "amazon",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
@@ -2964,26 +2950,19 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
+      },
+      {
+        "title": "Marvel Logo Avengers Pop Art Maglietta",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
       }
     ],
     "migliori-sneakers": [
       {
         "title": "Tommy Hilfiger Uomo Sneakers Court Detail Essential in Pelle, Bianco (White/Desert Sky), 43",
         "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Nike Book 2 Uomo - Sneakers Multi - Taglia 42 - Rete/Sintetico",
-        "merchant": "footlocker",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Nike Book 2 Uomo - Sneakers Multi - Taglia 41 - Rete/Sintetico",
-        "merchant": "footlocker",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
@@ -3174,6 +3153,20 @@
         "title": "Puma MB.01 Uomo Sneakers Bianco Taglia 42.5 Rete/Sintetico",
         "merchant": "footlocker",
         "ean": "4070032492971",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Puma MB.01 Uomo Sneakers Bianco Taglia 43 Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "4070032492919",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Puma MB.01 Uomo Sneakers Bianco Taglia 44 Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "4070032492766",
         "mpn": "",
         "status": "da_verificare"
       }
