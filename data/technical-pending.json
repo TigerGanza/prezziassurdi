@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-21T17:36:53+01:00",
+  "generated_at": "2026-11-21T19:06:19+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -699,6 +699,20 @@
       }
     ],
     "migliori-notebook": [
+      {
+        "title": "ACEMAGIC 15.6\" PC Portatile,Ryzen 7 7730U,Fino a 4,5 GHz,RAM 16 Go, SSD 512 Go, AMD Radeon Graphics,Windows 11, per lavoro, Portatile",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "MSI Cyborg 15 C2WFO-609ITY - Notebook Gaming. 15.6\" FHD, 144Hz | NVIDIA RTX 5060, GDDR7 8GB, Intel Core 7 240H, DDR4 16GBSSD 1TB PCIe4, Win 11 Home, [Layout e Garanzia ITA]",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Acer Swift Go 16 AI | Laptop | 16\" | Ultra 5 | 16GB | 512GB | 16\" OLED 60Hz | Intel Core Ultra 5 325 | 16GB RAM | 512GB SSD | Copilot+ PC | Windows 11 | Tastiera QWERTY|Senza Alime",
         "merchant": "amazon",
@@ -2770,6 +2784,13 @@
     ],
     "migliori-moda": [
       {
+        "title": "SAGA GIOIELLI® Collana Bracciale Donna Tennis Argento cuori luminosi in acciaio inox – Confezione Regalo - idea regalo - Compleanno - Anniversario - Anniversario (BRACCIALE)",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Trousse Trucchi Donna,Porta Trucchi Da Viaggio,Portatile Borsa Trucco,Beauty Bag,Borsa Cosmetica Con Coulisse,Idee Regalo Donna/Ragazza",
         "merchant": "amazon",
         "ean": "",
@@ -2792,13 +2813,6 @@
       },
       {
         "title": "Puma Vikky Stacked L, Sneakers Donna, Puma White Puma White, Puma White Puma White",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Pantaloni della tuta da jogging Gerber per neonati, confezione da 3, blu scuro/grigio, 18 mesi",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -3136,13 +3150,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Nike Freak Uomo Sneakers Blu Taglia 43 Rete/Sintetico",
-        "merchant": "footlocker",
-        "ean": "197593768728",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Puma MB.01 Uomo Sneakers Bianco Taglia 40.5 Rete/Sintetico",
         "merchant": "footlocker",
         "ean": "4070032492896",
@@ -3188,6 +3195,13 @@
         "title": "Puma MB.01 Uomo Sneakers Bianco Taglia 44.5 Rete/Sintetico",
         "merchant": "footlocker",
         "ean": "4070032492988",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Puma MB.01 Uomo Sneakers Bianco Taglia 46 Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "4070032492773",
         "mpn": "",
         "status": "da_verificare"
       }
