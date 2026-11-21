@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-21T08:31:20+01:00",
+  "generated_at": "2026-11-21T10:01:21+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -2204,6 +2204,13 @@
     ],
     "migliori-lavatrici": [
       {
+        "title": "Cecotec Lavatrice Asciugatrice 8-5Kg Carico Frontale Bolero Wash&Dry 8580 Inverter Ice Blue A. 1400RPM, 16 Programmi, Inverter Plus, SteamMax, OnSmart, Smooth Wash, SpaCare, Guarni",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Whirlpool WPM 99W ADS IT Lavatrice 9 Kg 1400 Giri Libera Installazione Classe A",
         "merchant": "amazon",
         "ean": "",
@@ -2404,13 +2411,6 @@
         "merchant": "unieuro",
         "ean": "8050147619315",
         "mpn": "869991619310",
-        "status": "da_verificare"
-      },
-      {
-        "title": "LG D2R3S08NSWW Lavasciuga slim 8/5kg AI DD, Classe E, 1200 giri, AI Wash, Vapore",
-        "merchant": "unieuro",
-        "ean": "8806084273680",
-        "mpn": "D2R3S08NSWW.ABWQP",
         "status": "da_verificare"
       }
     ],
@@ -2861,13 +2861,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "WORKPRO Utensile Oscillante 400W, Utensile Multifunzione | con 23 Accessori e Borsa, 6 Velocità (15000–22000 Giri/min), Angolo 3,5°, per Taglio, Levigatura e Raschiatura",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
         "ean": "",
@@ -2967,6 +2960,13 @@
       },
       {
         "title": "Hitmars Scarpe Running Uomo Ginnastica Donna Scarpe da Corsa Trekking Sneakers Trail Sportive Fitness Correre Running Shoes Negro Blanco EU 42",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Kricely Scarpe da Trail Running Trekking da Escursionismo Uomo Fitness Running Sneakers （Kaki 43）",
         "merchant": "",
         "ean": "",
         "mpn": "",
