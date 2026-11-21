@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-21T19:06:19+01:00",
+  "generated_at": "2026-11-21T20:31:18+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -388,13 +388,6 @@
     ],
     "tv-in-offerta": [
       {
-        "title": "LG OLED AI 55 Pollici, Serie B5 2025 Smart TV 4K - OLED55B56LA | Processore α8 Gen2, WebOS con AI, Dolby Vision e Atmos, Gaming con VRR, GSYNC e FreeSync 4K@120Hz, 4 HDMI 2.1, Alex",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Xiaomi TV 32 pollici 2026, HD Smart TV Fire TV Dolby Audio L32MB-FAVEU | DTS-HD,DTS Virtual:X, DTS-HD, Alexa Voice Control, Compatible with Apple AirPlay",
         "merchant": "amazon",
         "ean": "6941948710535",
@@ -596,16 +589,16 @@
         "ean": "6941948706705",
         "mpn": "",
         "status": "da_verificare"
+      },
+      {
+        "title": "Hisense Smart TV 65\" UHD 4K 65E6ST | DTS Virtual X, VIDAA OS con 1000+ APP, HDR 10+, Game Mode Plus, Bluetooth, Wifi, Alexa, AirPlay2, lativù 4K, 2026 Model",
+        "merchant": "amazon",
+        "ean": "6942351430805",
+        "mpn": "",
+        "status": "da_verificare"
       }
     ],
     "offerte-tv-55-65-pollici": [
-      {
-        "title": "LG OLED AI 55 Pollici, Serie B5 2025 Smart TV 4K - OLED55B56LA | Processore α8 Gen2, WebOS con AI, Dolby Vision e Atmos, Gaming con VRR, GSYNC e FreeSync 4K@120Hz, 4 HDMI 2.1, Alex",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "TCL 55V6D – Smart TV 4K HDR10+ da 55\" con Fire TV e Dolby Atmos | DTS:X, Game Master, Motion Clarity, Apple AirPlay 2, Press & Ask Alexa",
         "merchant": "amazon",
@@ -969,6 +962,20 @@
       }
     ],
     "migliori-tablet": [
+      {
+        "title": "Amazon Kindle Scribe Colorsoft 64 GB (ultimo modello) — Schermo a colori da 11’’, effetto carta, luce frontale — Sottile, leggero, potente — Scrivi nel taccuino, nei documenti e ne",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Amazon Kindle Paperwhite 16GB (modello 2024), schermo antiriflesso da 7\" e settimane di durata della batteria - Con pubblicità - Rosa lampone",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Samsung Galaxy Tab S10 FE, 3 anni di garanzia, Android Tablet, Display 10.9\" LCD, Wifi, RAM 8GB, 128GB, 8.000 mAh, S Pen, Android 15, IP68, Blue [Versione italiana]",
         "merchant": "amazon",
@@ -1615,20 +1622,6 @@
     ],
     "migliori-soundbar": [
       {
-        "title": "ULTIMEA 7.1 Surround Soundbar TV, Compatibile con Dolby Atmos | 420 W di Potenza di Picco, Subwoofer da 5,25\", Controllo tramite App, Sistema Audio Home Cinema, VoiceMX, BassMX, HD",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "MAJORITY Bowfell Halo Soundbar TV con Subwoofer e Altoparlanti Satellitari | 230W Casse per TV con HDMI eARC | Dolby Surround Home Theater 5.1 Impianto Audio Cablato | Soundbar PC ",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Samsung Soundbar HW-B66CF/ZF Serie B, 4 Speaker, Wireless, Dolby 5.1ch, Audio a 3.1 Canali, DTS 5.1ch, Surround Sound Expansion, Voice Enhance Mode, Black, 2025",
         "merchant": "",
         "ean": "",
@@ -1764,6 +1757,27 @@
     ],
     "cuffie-bluetooth-in-offerta": [
       {
+        "title": "Nothing Headphone (a) Cuffie Wireless Over Ear con Cancellazione Attiva del Rumore, fino a 135h Autonomia, Hi-Res, Spatial Audio, Controlli Tattili – Rosa",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Nothing Headphone (a) Cuffie Wireless Over Ear con Cancellazione Attiva del Rumore, fino a 135h Autonomia, Hi-Res, Spatial Audio, Controlli Tattili – Giallo",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "CMF by Nothing Buds 2 Auricolari Wireless con ANC Ibrido da 48 dB, Autonomia di 55 Ore, Driver PMI da 11mm, 6 Microfoni HD e Audio Spaziale, resistente ad acqua IP55 – Arancione",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Technics EAH-A800E-S Cuffie Wireless, Auricolari Bluetooth Multipoint Over Ear, con Cancellazione Rumore e Microfono, 50 ore di Riproduzione, Argento",
         "merchant": "amazon",
         "ean": "",
@@ -1786,27 +1800,6 @@
       },
       {
         "title": "WOLFANG Lettore MP3 con Bluetooth 5.2, clip sportiva (Arancione) | formato mini, peso 28,3 g, radio FM HiF, registratore vocale, auricolari inclusi, Scheda SD non inclusa",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "YAMAHA HPH-100 Cuffie On-Ear, Nero | Cuffie On-Ear ad Archetto con Vestibilità Confortevole, Suono Dinamico di Alta Qualità, Ideali per Tastiere Digitali Yamaha",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Beats Studio Pro Cuffie over-ear - 40 ore di autonomia, ANC - Caffè | Audio lossless via USB-C, ricarica Fast Fuel, ideali per viaggi e spostamenti, pieghevoli, compatibili con App",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Sony MDR-7506 Cuffie monitor da studio chiuse con filo | Cuffie da studio, da 10 Hz a 20 kHz, registrazione e missaggio in studio, 63 ohm, design leggero e pieghevole (227 g), nero",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -2232,14 +2225,21 @@
     ],
     "migliori-lavatrici": [
       {
-        "title": "Midea Lavatrice Slim 7 kg 1200 Giri 40 cm | Programma Rapido, Temperature Multiple e 15 Programmi per Piccole Famiglie e Appartamenti con Spazi Ridotti MF100W70/E",
+        "title": "Candy Smart Lavatrice 9 Kg, 1200 Giri, Classe B, Bianca | Cicli Rapidi, NFC, Connessa, 16 Programmi, Partenza Ritardata, App hOn, 60x52x85 cm, CSS 129TW4-11",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "COMFEE' Lavatrice Ultra Slim 6 kg Classe A Motore BLDC | Vapore Igienizzante, Baby Care e 16 Programmi per Piccoli Appartamenti CFP01EW60W",
+        "title": "Bosch WGG244Z0IT Serie 6 Lavatrice 9kg 1400 giri/min bianco | Lavatrice con vapore, Sitema di riconoscimento del carico, Sistema Antimacchia, Motore silenzioso con 10 anni di assis",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Samsung Lavatrice Crystal Clean WW90CGC04DTEET Libera installazione, 9 Kg, Wifi, Ecobubble, Vapore, Carica Frontale, 60l x 85h x 55p cm",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -2261,13 +2261,6 @@
       },
       {
         "title": "COMFEE' Lavatrice Slim 9 kg Classe A 1400 Giri Motore BLDC Silenzioso",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Candy Smart Lavatrice 9 Kg, 1200 Giri, Classe B, Bianca",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -2333,6 +2326,13 @@
         "title": "Candy Easy Pro Lavatrice Slim 7 Kg, Classe A-15%, Antracite [Classe di efficienza energetica A]",
         "merchant": "amazon",
         "ean": "8059019115740",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "COMFEE' Lavatrice Ultra Slim 6 kg Classe A Motore BLDC | Vapore Igienizzante, Baby Care e 16 Programmi per Piccoli Appartamenti CFP01EW60W",
+        "merchant": "amazon",
+        "ean": "6945878358553",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -2432,13 +2432,6 @@
         "merchant": "unieuro",
         "ean": "8806084273680",
         "mpn": "D2R3S08NSWW.ABWQP",
-        "status": "da_verificare"
-      },
-      {
-        "title": "LG F4NX5009TKB Lavatrice Intelligente 9 kg Classe A 40% Bianoc/Nero",
-        "merchant": "unieuro",
-        "ean": "8806096639238",
-        "mpn": "F4NX5009TKBABWQPI",
         "status": "da_verificare"
       }
     ],
@@ -2798,27 +2791,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "PUMA Court Classy, Scarpe da Ginnastica Donna, White Plum Jam Silver, 39 EU",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "PUMA Women Puma Vikky Stacked L Sneakers, Puma White-Puma White, 37.5 EU",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Puma Vikky Stacked L, Sneakers Donna, Puma White Puma White, Puma White Puma White",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
         "ean": "",
@@ -2988,6 +2960,27 @@
       },
       {
         "title": "Uomo Leggero Scarpe Sportive Scarpe da Ginnastica Trail Running Scarpe Ginnastica Passeggio Sneakers MU9557-8 (Marrone,43)",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "JOMIX Scarpe da Ginnastica Uomo Sneaker Sportive Corsa Running Sneakers Casual Traspirante per Correre Camminare Trail Trekking SU138-13 (Bianco, 42)",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Hitmars Scarpe Running Uomo Sneakers Sport Corsa Trail Leggere Traspiranti | Hitmars Scarpe Sport Uomo Sneakers Uomo Scarpe da corsa Sportive Ginnastica Passeggio Antiscivolo Chius",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Marvel Logo Avengers Pop Art Maglietta",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
