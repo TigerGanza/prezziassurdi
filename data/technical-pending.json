@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-23T22:43:44+01:00",
+  "generated_at": "2026-11-24T00:09:51+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -693,6 +693,13 @@
     ],
     "migliori-notebook": [
       {
+        "title": "HP Laptop 15-fd1000slx, Schermo 15,6\" FHD, Core 7 150U, 16GB, 512GB, Win11 | Notebook Portatile, Schermo FHD Antiriflesso 250 nits, 512GB SSD, Windows 11, laptop, 15-fd1000slx, Arg",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "ASUS Vivobook 16 F1605VA#B0FZL8JLW9, Notebook con display 16\" Anti-glare, 60Hz,Intel® Core™ 9 Processor 270H,RAM 16GB, 1TB SSD, WIN11 Home, Argento",
         "merchant": "",
         "ean": "",
@@ -942,6 +949,13 @@
     ],
     "migliori-tablet": [
       {
+        "title": "DOFACESH 2026 Android 16 Tablet in offerta con 11 Pollici, 36GB RAM+512GB ROM, SIM 4G Lte & 5G WiFi, Octa Core, 13MP+8MP, 2000 * 1200/WidevineL1/BT5.0/GPS-Tablet con tastiera (Grig",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Tablet Android da 11 Pollici, Octa-Core, 24GB(4+20) RAM+128GB Memoria, Batteria 8200mAh, Widevine L1, Espandibile fino a 1TB, Doppia Fotocamera, Android Tablet per Studio, Lavoro e",
         "merchant": "",
         "ean": "",
@@ -1062,27 +1076,6 @@
       }
     ],
     "migliori-monitor": [
-      {
-        "title": "MSI MAG 256FA E20 Monitor Gaming 24,5\" 1920x1080 FHD Rapid IPS, 200 Hz | 0,5 ms, HDR Ready, AMD FreeSync Premium, Eye Care, AI Vision, HDMI 2.0b, DP 1.2a, senza cornice, compatibil",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "msi MAG 27CQ6F Monitor Gaming da 27\" WQHD Curvo - Pannello VA Rapid 1500R (2560 x 1440), 180 Hz / 0.5ms (GtG, Min.), Adaptive-Sync - DP 1.4a, HDMI 2.0b CEC",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "MSI MAG 242CA Monitor Gaming 24\" FHD 1500R 1920x1080 VA, 180 Hz, 1ms | HDR Ready, Eye Care, HDMI 2.0b, DP 1.2a, senza cornice, regolabile in inclinazione, compatibile VESA, colore ",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Xiaomi Monitor G27i",
         "merchant": "",
@@ -2183,6 +2176,27 @@
     ],
     "migliori-lavatrici": [
       {
+        "title": "Hisense WF1G7021BW – Lavatrice Slim a Carica Frontale 7 kg, Classe B, Vapore, Allergy Care, 15 Programmi, Motore Inverter, Quick Wash 15’, Pulizia Cestello, Display LED, Bianco",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Hisense WF1I7022BWJ NUOVA Lavatrice Slim 7 kg, 1200 RPM, 15 Programmi, Display Touch, Motore Inverter, Fine Programmata, AutoMix Dispenser, Classe A, White/Black",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Candy Easy Pro Lavatrice Slim 7 Kg, Classe A-15%, Antracite [Classe di efficienza energetica A]",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Bosch WAN28229IT Serie 4 Lavatrice 9kg 1400 giri/min Bianco Classe A",
         "merchant": "",
         "ean": "",
@@ -2256,13 +2270,6 @@
         "title": "Candy RapidÓ Lavatrice Slim 7 Kg, Libera Installazione, Carica Frontale, Classe A, 1200 Giri, 9 Programmi Rapidi, Funzione Vapore, Wi-Fi + BLE e App hOn, 60 x 45 x 85 cm, Bianca - ",
         "merchant": "amazon",
         "ean": "8059019044651",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Candy Easy Pro Lavatrice Slim 7 Kg, Classe A-15%, Antracite [Classe di efficienza energetica A]",
-        "merchant": "amazon",
-        "ean": "8059019115740",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -2376,20 +2383,6 @@
         "merchant": "unieuro",
         "ean": "8806084273680",
         "mpn": "D2R3S08NSWW.ABWQP",
-        "status": "da_verificare"
-      },
-      {
-        "title": "LG F4NX5009TKB Lavatrice Intelligente 9 kg Classe A 40% Bianoc/Nero",
-        "merchant": "unieuro",
-        "ean": "8806096639238",
-        "mpn": "F4NX5009TKBABWQPI",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Samsung Lavatrice AI Control Ecodosatore 11Kg WW11DG6B85LHU3",
-        "merchant": "unieuro",
-        "ean": "8806095539843",
-        "mpn": "WW11DG6B85LHU3",
         "status": "da_verificare"
       }
     ],
