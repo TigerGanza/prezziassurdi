@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-23T21:19:41+01:00",
+  "generated_at": "2026-11-23T22:43:44+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -693,13 +693,6 @@
     ],
     "migliori-notebook": [
       {
-        "title": "Lenovo IdeaPad Slim 3 Notebook 15\" IPS (1920x1200) Intel Core i5-13420H, 16GB RAM DDR5, 512GB SSD, WiFi 6, Windows 11 Home, Laptop Sottile per Lavoro, Studio e Multitasking - Caric",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "ASUS Vivobook 16 F1605VA#B0FZL8JLW9, Notebook con display 16\" Anti-glare, 60Hz,Intel® Core™ 9 Processor 270H,RAM 16GB, 1TB SSD, WIN11 Home, Argento",
         "merchant": "",
         "ean": "",
@@ -717,6 +710,13 @@
         "title": "Dell 15 Laptop - Intel Core i5-1334U, 16GB RAM, 512GB SSD | 15, 6'' FHD 120Hz anti-riflesso, Intel UHD Graphics, Windows 11 Home (Caricatore venduto separatamente)",
         "merchant": "amazon",
         "ean": "5397184975060",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Lenovo IdeaPad Slim 3 Notebook 15\" IPS (1920x1200) Intel Core i5-13420H, 16GB RAM DDR5, 512GB SSD, WiFi 6, Windows 11 Home, Laptop Sottile per Lavoro, Studio e Multitasking - Caric",
+        "merchant": "amazon",
+        "ean": "0199275381966",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -1275,20 +1275,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Google Fitbit Charge 6 Activity tracker con abbonamento Google Health Premium di 3 mesi incluso, 7 giorni di durata della batteria, Alluminio Grigio Creta/Argento",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Fitbit Versa 4 Smartwatch per il fitness con abbonamento Google Health Premium di 3 mesi incluso, fino a 6 giorni di autonomia e compatibile con iOS & Android, Rosa sabbia / Allumi",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "2026 Smartwatch Uomo GPS,2.06\" HD AMOLED Orologio Smartwatch con Chiamate",
         "merchant": "",
         "ean": "",
@@ -1468,6 +1454,20 @@
         "merchant": "unieuro",
         "ean": "8806095084190",
         "mpn": "SM-R950NZKAITV",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Honor InfoWear Watch 2i 4,7 cm (1.85'') AMOLED 49.7 mm Digitale 390 x 450 Pixel Touch screen Nero",
+        "merchant": "unieuro",
+        "ean": "6977887510127",
+        "mpn": "5504ACGT_C",
+        "status": "da_verificare"
+      },
+      {
+        "title": "IOPLEE IOPEXTWATCH669BK smartwatch e orologio sportivo 3,63 cm (1.43'') AMOLED Digitale 466 x 466 Pixel Touch screen Nero",
+        "merchant": "unieuro",
+        "ean": "8055776233055",
+        "mpn": "IOPEXTWATCH669",
         "status": "da_verificare"
       }
     ],
@@ -1729,6 +1729,27 @@
     ],
     "cuffie-bluetooth-in-offerta": [
       {
+        "title": "Sony WH-CH530 Cuffie Bluetooth Wireless - Nero | Leggero, senza fili, EQ a 10 bande, 360 Reality Audio, chiamate nitide con AI, 55h batteria, ricarica rapida, iOS e Android",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Sony WH-CH720N | Cuffie Wireless con Noise Cancelling, Connessione Multipoint, Fino a 35 ore di durata della batteria e Ricarica Rapida - Nero",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Sony WH-CH730N Cuffie Wireless con Cancellazione del Rumore - Nero | Bluetooth, Noise cancelling, pieghevole, 75h batteria, ricarica rapida, EQ 10 bande, chiamate nitide con AI, iO",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "JBL Live 770 NC Cuffie Over-Ear Wireless, Nero | Bluetooth, Cancellazione del Rumore, SmartAmbient, Personi-Fi 2.0, JBL Surround, Connessione Multipoint, Ore di Autonomia",
         "merchant": "amazon",
         "ean": "1200130004582",
@@ -1916,37 +1937,9 @@
         "ean": "0197192348017",
         "mpn": "7G8F3AA",
         "status": "da_verificare"
-      },
-      {
-        "title": "Marshall MAJOR IV Cuffie Con cavo e senza cavo A Padiglione MUSICA USB tipo C Bluetooth Nero",
-        "merchant": "unieuro",
-        "ean": "7340055379458",
-        "mpn": "MRS1005773",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Sony Cuffie Bluetooth wireless WH CH520 Durata della batteria fino a 50 ore con ricarica rapida, stile on ear Bianco",
-        "merchant": "unieuro",
-        "ean": "4548736142817",
-        "mpn": "SONWHCH520W.CE7",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Sony Cuffie Bluetooth wireless WH CH520 Durata della batteria fino a 50 ore con ricarica rapida, stile on ear Blu",
-        "merchant": "unieuro",
-        "ean": "4548736142862",
-        "mpn": "SONWHCH520L.CE7",
-        "status": "da_verificare"
       }
     ],
     "migliori-robot-aspirapolvere": [
-      {
-        "title": "Lefant M330 Pro Robot Aspirapolvere Lavapavimenti con Mappatura 5000Pa | Lavapavimenti 3 in 1, Laser dToF 360°, Evitamento Ostacoli PSD, Tappeti, Senza Spazzola Centrale, 3 Mappe, ",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Lefant M210 PRO OMNI Robot Aspirapolvere Lavapavimenti con Rullo 20.000Pa",
         "merchant": "",
@@ -2111,20 +2104,6 @@
     ],
     "aspirapolvere-senza-fili-in-offerta": [
       {
-        "title": "Aspirapolvere Senza Filo 55KPA 650W 80Mins,Scopa Elettrica Senza Fili | Aspirapolvere Senza Filo 1,8 L,Aspirapolvere Potente Antigroviglio/Display LED/8 Stadi Filtrat,Per Animali/P",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Dyson V10 Konical Aspirapolvere Senza Fili Potente, Scopa Elettrica a Mano | Scopa elettrica senza fili e senza sacco. 150 AW¹, fino a 60 min di autonomia², filtrazione HEPA, coni ",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Aspirapolvere Senza Fili Scopa Elettrica - Potente Filo Batteria Cordless Vacuum Cleaner Scope Elettriche Sacco Portatile Ciclonico Silenzioso per Divano Tappeti Parquet Pavimenti ",
         "merchant": "amazon",
         "ean": "",
@@ -2142,6 +2121,13 @@
         "title": "Hoover HF3 CORE Aspirapolvere Scopa Senza Fili | 60 Min Autonomia | Pulizia Doppio Bordo per Battiscopa, 3 Modalità, Spazzola Anti-Twist, Bocchetta LED, QuickPark, 110AW",
         "merchant": "amazon",
         "ean": "8059019121239",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Aspirapolvere Senza Filo 55KPA 650W 80Mins,Scopa Elettrica Senza Fili | Aspirapolvere Senza Filo 1,8 L,Aspirapolvere Potente Antigroviglio/Display LED/8 Stadi Filtrat,Per Animali/P",
+        "merchant": "amazon",
+        "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -2749,6 +2735,34 @@
     ],
     "migliori-moda": [
       {
+        "title": "Eastpak Pinnacle Zaino 38L (42 x 32 x 25,5 cm), zaino grande scuola e viaggio, multi-scomparto resistente con organizer e spallacci imbottiti - ULTRA MARINE",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Tommy Hilfiger Zaino da uomo Th Foundation AM0AM14685, nero (nero), taglia unica",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Eastpak BACK TO WORK Zaino, 27 L",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "KIDUKU® 3 in 1 Passeggino Completo Trio | Passeggino Sistema Combinato con Navicella Ovetto Seggiolino Auto Coprigambe | Pneumatici in Gomma Dura Borsa Fasciatoio Tavolo per Bambin",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Tommy Hilfiger Cintura Fissa Uomo Oliver Saffiano 3.5 AM0AM14573, NERO (Nero), 90",
         "merchant": "amazon",
         "ean": "",
@@ -2927,34 +2941,6 @@
         "title": "Hitmars Scarpe Running Uomo Ginnastica Donna Scarpe da Corsa Trekking Sneakers Trail Sportive Fitness Correre Running Shoes Camminare Verde EU 41",
         "merchant": "amazon",
         "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Uomo Leggero Scarpe Sportive Scarpe da Ginnastica Trail Running Scarpe Ginnastica Passeggio Sneakers MU9557-8 (Marrone,43)",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Magliette Manica Corta Divertenti Ansia A Livello Agonistico Maglietta",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Magliette Divertenti Scritte Ironiche - Essere Normale Maglietta",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Confezione da 3 Pezzi - Maglietta con Maniche Corte 100% Cotone 3-TS135, Bianco, XL",
-        "merchant": "amazon",
-        "ean": "8434152677414",
         "mpn": "",
         "status": "da_verificare"
       }
