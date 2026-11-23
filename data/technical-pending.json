@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-23T19:01:59+01:00",
+  "generated_at": "2026-11-23T21:19:41+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -1063,21 +1063,21 @@
     ],
     "migliori-monitor": [
       {
-        "title": "Philips Monitor 221v8 22 pollici 1920x1080, FHD, 75Hz, VA Panel, 4ms GtG, (HDMI1) Adaptive Sync, Nero",
+        "title": "MSI MAG 256FA E20 Monitor Gaming 24,5\" 1920x1080 FHD Rapid IPS, 200 Hz | 0,5 ms, HDR Ready, AMD FreeSync Premium, Eye Care, AI Vision, HDMI 2.0b, DP 1.2a, senza cornice, compatibil",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "Dell 27 Monitor - SE2726HS, Full HD (1920x1080), 144Hz, IPS, 1ms MPRT | AMD FreeSync, Regolabile in Altezza, VESA (100x100mm), 2 HDMI, 3 Anni di Garanzia, Nero",
+        "title": "msi MAG 27CQ6F Monitor Gaming da 27\" WQHD Curvo - Pannello VA Rapid 1500R (2560 x 1440), 180 Hz / 0.5ms (GtG, Min.), Adaptive-Sync - DP 1.4a, HDMI 2.0b CEC",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "Samsung Essential Monitor- G35H, LS24HG350EUXEN | 16:9, 1800R, FHD (1920x1080), Frequenza di Aggiornamento 144Hz, Tempo di Risposta 1ms, AMD FreeSync, HDMI, DP",
+        "title": "MSI MAG 242CA Monitor Gaming 24\" FHD 1500R 1920x1080 VA, 180 Hz, 1ms | HDR Ready, Eye Care, HDMI 2.0b, DP 1.2a, senza cornice, regolabile in inclinazione, compatibile VESA, colore ",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -1261,6 +1261,20 @@
     ],
     "migliori-smartwatch": [
       {
+        "title": "AOYBWK Smartwatch Uomo Donna, 1.85\" Orologio Fitness con Chiamate Bluetooth e Notifiche, 140+ Modi Sportivi con Contapassi, SpO2, Cardiofrequenzimetro da Polso, Sonno, IP68 per And",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "AcclaFit Smartwatch Uomo Donna, 1.85\" Orologio Smartwatch con Effettua/Risposta Chiamate, 113 Sportive Smart Watch con Contapassi/SpO2/Sonno/Cardiofrequenzimetro, Impermeabil IP68 ",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Google Fitbit Charge 6 Activity tracker con abbonamento Google Health Premium di 3 mesi incluso, 7 giorni di durata della batteria, Alluminio Grigio Creta/Argento",
         "merchant": "amazon",
         "ean": "",
@@ -1269,27 +1283,6 @@
       },
       {
         "title": "Fitbit Versa 4 Smartwatch per il fitness con abbonamento Google Health Premium di 3 mesi incluso, fino a 6 giorni di autonomia e compatibile con iOS & Android, Rosa sabbia / Allumi",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Garmin fēnix 8, 51mm, Smartwatch GPS Premium Multisport, Slate Grey | Display AMOLED 1,4\", Touchscreen, Speaker e Microfono, Torcia, Mappe, 90+ App per lo Sport, Autonomia 29 giorn",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Garmin fēnix 8, 47mm, Smartwatch GPS Premium Multisport, Slate Grey | Display AMOLED 1,4\", Touchscreen, Speaker e Microfono, Torcia, Mappe, 90+ App per lo Sport, Autonomia 16 giorn",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Garmin fēnix E, 47mm GPS smartwatch, Slate Grey & Black | Display AMOLED 1,3\", Touch e Pulsanti, 90+ App per lo Sport, Training Readiness, Mappe, GarminPay, Autonomia 16 giorni",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -1468,6 +1461,13 @@
         "merchant": "unieuro",
         "ean": "0753759341343",
         "mpn": "010-03025-01",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Samsung Galaxy Watch6 Classic (Bluetooth, 43mm)",
+        "merchant": "unieuro",
+        "ean": "8806095084190",
+        "mpn": "SM-R950NZKAITV",
         "status": "da_verificare"
       }
     ],
@@ -2125,20 +2125,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Linkifly MT1 Aspirapolvere Materassi Senza Fili, 18 kPa, Luce UV-C | Vibrazione ultrasonica, Anti-acaro, Filtro HEPA, Autonomia 35 min, Doppio contenitore polvere, Ricarica Type-C",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Cecotec Aspirapolvere per Tappezzeria con Cavo - Pulitore Tappezzeria Conga 7000 Carpet&Spot Clean Steam XXL.1700W. Pulizia 3in1. Serbatoio 1600ml acqua pulita e 950ml acqua sporca",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Aspirapolvere Senza Fili Scopa Elettrica - Potente Filo Batteria Cordless Vacuum Cleaner Scope Elettriche Sacco Portatile Ciclonico Silenzioso per Divano Tappeti Parquet Pavimenti ",
         "merchant": "amazon",
         "ean": "",
@@ -2210,13 +2196,6 @@
       }
     ],
     "migliori-lavatrici": [
-      {
-        "title": "Haier X Serie 5 Lavatrice 8 Kg, 1400 Giri, Classe A-30%, Bianca | Vapore, Ciclo Refresh, Smart AI, Wi-Fi, App hOn, Libera Installazione, 60 Programmi, 85x60x56 cm, HW80-BP14357U-IT",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Bosch WAN28229IT Serie 4 Lavatrice 9kg 1400 giri/min Bianco Classe A",
         "merchant": "",
@@ -2418,6 +2397,13 @@
         "merchant": "unieuro",
         "ean": "8806096639238",
         "mpn": "F4NX5009TKBABWQPI",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Samsung Lavatrice AI Control Ecodosatore 11Kg WW11DG6B85LHU3",
+        "merchant": "unieuro",
+        "ean": "8806095539843",
+        "mpn": "WW11DG6B85LHU3",
         "status": "da_verificare"
       }
     ],
@@ -2763,7 +2749,14 @@
     ],
     "migliori-moda": [
       {
-        "title": "Tommy Hilfiger Uomo Portafoglio Eton Trifold con Scomparto Monete, Nero (Black), Taglia Unica",
+        "title": "Tommy Hilfiger Cintura Fissa Uomo Oliver Saffiano 3.5 AM0AM14573, NERO (Nero), 90",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Tommy Hilfiger Uomo Cintura New Aly Belt Cintura in Pelle, Nero (Black), 100 cm",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -2962,13 +2955,6 @@
         "title": "Confezione da 3 Pezzi - Maglietta con Maniche Corte 100% Cotone 3-TS135, Bianco, XL",
         "merchant": "amazon",
         "ean": "8434152677414",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Confezione da 5 Pezzi - Maglietta a Maniche Corte 100% Cotone - 5-TS135, Nero, L",
-        "merchant": "amazon",
-        "ean": "8434152678114",
         "mpn": "",
         "status": "da_verificare"
       }
