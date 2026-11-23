@@ -1,5 +1,39 @@
 [
   {
+    "asin": "B00SP334TS",
+    "title": "Bulk Caseina micellare, Cioccolato, 500g | Frullato proteico, 16 porzioni",
+    "price": 17.49,
+    "old_price": 23.71,
+    "discount": 26.0,
+    "image": "https://m.media-amazon.com/images/I/31zb-JoH16L._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B00SP334TS?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "integratori_proteine",
+    "macro_group": "tempo_libero",
+    "seasonal_title": "",
+    "published_at": "2026-11-23T12:56:11.066209+01:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
+    "asin": "B09WDVJZBH",
+    "title": "Be-Total Compresse Integratore Vitamine B Energia Adulti 80 Mini Compresse",
+    "price": 21.84,
+    "old_price": 28.99,
+    "discount": 25.0,
+    "image": "https://m.media-amazon.com/images/I/41jypvDekmL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B09WDVJZBH?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "salute",
+    "macro_group": "cura_persona",
+    "seasonal_title": "",
+    "published_at": "2026-11-23T12:56:03.605743+01:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B0H4H2BTQB",
     "title": "Tonno Nostromo all'olio di oliva pinne gialle 100g-Qualità Superiore",
     "price": 1.65,
@@ -1937,67 +1971,5 @@
     "source_external_id": "",
     "quality_status": "ready",
     "quality_issues": []
-  },
-  {
-    "asin": "B0CQPM89H9",
-    "title": "Macchina da caffè a capsule Nespresso De'Longhi Pixie EN127.BL, Blu/Nero | riscaldamento in 25 sec, 2 dimensioni tazza, design compatto, spegnimento automatico, pressione 19 bar, serbatoio 0,7 L",
-    "price": 99.99,
-    "old_price": 149.0,
-    "discount": 33.0,
-    "image": "https://m.media-amazon.com/images/I/41p8j-BeQmL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0CQPM89H9?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "caffe_capsule",
-    "macro_group": "casa_cucina",
-    "seasonal_title": "",
-    "published_at": "2026-11-23T07:42:08.091399+01:00",
-    "source_merchant": "amazon",
-    "source_external_id": "",
-    "quality_status": "ready",
-    "quality_issues": []
-  },
-  {
-    "asin": "B0CQPN4ZT3",
-    "title": "De'Longhi Nespresso Pixie EN127.S, Macchina da Caffè Automatica (Argento) | Compatibile con capsule Nespresso Original, riscaldamento 25s, 2 tazze, modalità ECO, auto shut-off, pressione 19 bar, 1260 W",
-    "price": 98.99,
-    "old_price": 149.0,
-    "discount": 34.0,
-    "image": "https://m.media-amazon.com/images/I/31WgvORUJ9L._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0CQPN4ZT3?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "caffe_capsule",
-    "macro_group": "casa_cucina",
-    "seasonal_title": "",
-    "published_at": "2026-11-23T07:42:07.961659+01:00",
-    "source_merchant": "amazon",
-    "source_external_id": "",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "unieuro",
-        "merchant_name": "Unieuro",
-        "merchant_id": "10139",
-        "product_id": "DELEDG226W",
-        "awin_product_id": "36892856028",
-        "title": "De’Longhi EDG226.W Automatica Macchina per caffè a capsule 0,8 L",
-        "brand": "De’longhi",
-        "ean": "8004399026650",
-        "mpn": "132180972",
-        "price": 55.0,
-        "old_price": 114.99,
-        "discount": 52.2,
-        "image": "https://www.unieuro.it/medias/sys_master/root/h36/h57/50485438251038/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-50d69fae7c49ebdb14c87cbbae937821-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-        "url": "https://www.awin1.com/pclick.php?p=36892856028&a=3086723&m=10139",
-        "category": "Macchine caffè",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {
-          "volume_ml": 800.0
-        }
-      }
-    ],
-    "merchant_match_score": 92,
-    "merchant_ean": "8004399026650",
-    "merchant_prices_checked_at": "2026-11-23T07:21:53.946401+01:00"
   }
 ]
