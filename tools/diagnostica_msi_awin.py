@@ -30,7 +30,7 @@ def normalized(value):
     return re.sub(r'[^a-z0-9]', '', str(value).lower())
 
 
-def feed_key(root):
+def configuration(root):
     env_file = root / '.env'
     text = env_file.read_text(encoding='utf-8-sig') if env_file.is_file() else ''
     values = {}
@@ -39,6 +39,11 @@ def feed_key(root):
         if match:
             values[match[1]] = match[2].strip().strip('"\'')
     values.update({key: value for key, value in os.environ.items() if key.startswith('AWIN_')})
+    return values, text
+
+
+def feed_key(root):
+    values, text = configuration(root)
     candidates = [values.get(name, '') for name in ('AWIN_FEED_URL', 'AWIN_FEED_URLS')]
     candidates.append(text)
     for candidate in candidates:
@@ -58,6 +63,50 @@ def feed_key(root):
     raise ValueError('Chiave feed non trovata nella configurazione esistente. Nessun file modificato.')
 
 
+def publisher_id(root):
+    values, text = configuration(root)
+    for name in ('AWIN_PUBLISHER_ID', 'AWIN_AFFILIATE_ID', 'AWIN_AID'):
+        value = values.get(name, '').strip()
+        if value.isdigit():
+            return value
+    match = re.search(r'/aid/(\d+)(?:/|[;"\s]|$)', text)
+    return match[1] if match else None
+
+
+def feed_list_endpoint(root, key):
+    publisher = publisher_id(root)
+    if publisher:
+        return ('elenco Awin attuale',
+                'https://ui.awin.com/productdata-darwin-download/publisher/'
+                + publisher + '/' + quote(key, safe='') + '/1/feedList')
+    return ('elenco Awin precedente; Publisher ID non individuato',
+            'https://productdata.awin.com/datafeed/list/apikey/' + quote(key, safe=''))
+
+
+def cached_feed_lists(root):
+    directories = [root, root.parent]
+    for base in (root, root.parent):
+        directories.extend(base / name for name in ('cache', '.cache', 'data', 'feeds', 'Downloads'))
+    seen = set()
+    for directory in directories:
+        if not directory.is_dir():
+            continue
+        for path in directory.iterdir():
+            if path in seen or path.is_symlink() or not path.is_file():
+                continue
+            seen.add(path)
+            if not re.search(r'feed[ _-]?list|list[ _-]?feed|(?:lista|elenco).*(?:awin|feed)|awin.*list', path.name, re.I):
+                continue
+            if path.suffix.lower() not in {'.csv', '.json', '.gz', '.txt'}:
+                continue
+            try:
+                if not 0 < path.stat().st_size <= MAX_RESPONSE:
+                    continue
+                yield path, parse_rows(path.read_bytes())
+            except (OSError, ValueError, UnicodeError, csv.Error):
+                continue
+
+
 def parse_rows(raw):
     if raw.startswith(b'\x1f\x8b'):
         with gzip.GzipFile(fileobj=io.BytesIO(raw)) as stream:
@@ -70,7 +119,9 @@ def parse_rows(raw):
     if text.lstrip().startswith(('[', '{')):
         data = json.loads(text)
         if isinstance(data, dict):
-            data = data.get('feeds', data.get('data', []))
+            if 'feeds' not in data and 'data' not in data:
+                raise ValueError('La risposta JSON non contiene un elenco feed.')
+            data = data.get('feeds', data.get('data'))
         if not isinstance(data, list) or not all(isinstance(row, dict) for row in data):
             raise ValueError('Formato elenco feed non riconosciuto.')
         return data
@@ -100,7 +151,9 @@ def msi_rows(rows, secret):
         for key, value in row.items():
             if normalized(key) not in FIELDS:
                 continue
-            value = str(value or '').strip().replace(secret, '[CHIAVE OMESSA]')
+            value = str(value or '').strip()
+            if secret:
+                value = value.replace(secret, '[CHIAVE OMESSA]')
             if re.search(r'https?://|/apikey/', value, re.I):
                 value = '[LINK OMESSO]'
             safe[str(key)] = value
@@ -111,19 +164,39 @@ def msi_rows(rows, secret):
 def main(argv=None):
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--dir', default='/home/simone/prezziassurdi_bot_raspberry')
+    parser.add_argument('--offline', action='store_true', help='Controlla soltanto eventuali elenchi locali.')
     args = parser.parse_args(argv)
     root = Path(args.dir).expanduser().resolve()
+    print('Controllo MSI IT v2 - programma ' + MSI_ADVERTISER_ID)
     try:
         key = feed_key(root)
-        request = Request('https://productdata.awin.com/datafeed/list/apikey/' + quote(key, safe=''),
-                          headers={'User-Agent': 'PrezziAssurdi-FeedCheck/1.0',
+        local_count = 0
+        for path, cached_rows in cached_feed_lists(root):
+            local_count += 1
+            found = msi_rows(cached_rows, key)
+            if found:
+                print('Feed MSI trovati in un elenco locale; disponibilita attuale da confermare.')
+                print('File: ' + path.name.replace(key, '[CHIAVE OMESSA]'))
+                for row in found:
+                    print(json.dumps(row, ensure_ascii=True))
+                print('Nessun file modificato. Chiavi e link di download omessi.')
+                return 0
+        print('Elenchi locali esaminati: ' + str(local_count) + '; nessun feed MSI individuato in queste copie.')
+        if args.offline:
+            print('Verifica online non eseguita. Nessun file modificato.')
+            return 0
+        label, endpoint = feed_list_endpoint(root, key)
+        print('Contatto: ' + label)
+        request = Request(endpoint,
+                          headers={'User-Agent': 'PrezziAssurdi-FeedCheck/2.0',
                                    'Accept': 'text/csv,application/json;q=0.9,*/*;q=0.5'})
         with urlopen(request, timeout=30) as response:
             raw = response.read(MAX_RESPONSE + 1)
         rows = parse_rows(raw)
         found = msi_rows(rows, key)
     except HTTPError as error:
-        print('Awin risponde con errore HTTP ' + str(error.code) + '. Nessun file modificato.')
+        print('Awin risponde con errore HTTP ' + str(error.code) + '. Catalogo MSI non verificato.')
+        print('Nessun file modificato. In caso di HTTP 503 attendere almeno 5 minuti prima di riprovare.')
         return 2
     except (URLError, TimeoutError, OSError):
         print('Connessione Awin non riuscita. Nessun file modificato.')
@@ -131,7 +204,6 @@ def main(argv=None):
     except (ValueError, UnicodeError, csv.Error):
         print('Configurazione o risposta Awin non leggibile. Nessun file modificato.')
         return 2
-    print('Controllo MSI IT - programma ' + MSI_ADVERTISER_ID)
     print('Feed esaminati: ' + str(len(rows)))
     if found:
         print('Feed MSI trovati: ' + str(len(found)))
