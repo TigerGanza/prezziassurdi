@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-23T15:45:59+01:00",
+  "generated_at": "2026-11-23T17:32:00+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -700,13 +700,6 @@
     ],
     "migliori-notebook": [
       {
-        "title": "ASUS Vivobook 15 F1504MA#B0H262LDPL, Notebook con display 15.6\" IPS, Anti-glare, 60Hz,Intel® Core™ 3 Processor 304,RAM 8GB, 256GB SSD, WIN11 Home, Argento, Caricatore non incluso",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "ASUS Vivobook 16 F1605VA#B0FZL8JLW9, Notebook con display 16\" Anti-glare, 60Hz,Intel® Core™ 9 Processor 270H,RAM 16GB, 1TB SSD, WIN11 Home, Argento",
         "merchant": "",
         "ean": "",
@@ -738,6 +731,13 @@
         "title": "Lenovo IdeaPad Slim 3 Notebook 15\" IPS Intel Core Ultra 5 322, RAM 16GB, 512GB SSD, Windows 11 Home, WiFi 6, Laptop per Casa, Ufficio, Studio, Multitasking, Uso Quotidiano - Carica",
         "merchant": "amazon",
         "ean": "0199276800664",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "ASUS Vivobook 15 F1504MA#B0H262LDPL, Notebook con display 15.6\" IPS, Anti-glare, 60Hz,Intel® Core™ 3 Processor 304,RAM 8GB, 256GB SSD, WIN11 Home, Argento, Caricatore non incluso",
+        "merchant": "amazon",
+        "ean": "4711636643153",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -949,27 +949,6 @@
     ],
     "migliori-tablet": [
       {
-        "title": "Tablet 10 Pollici Android 15 con 30 GB RAM+2TB ROM Espansione, Widevine L1 | FHD Tablet con Tastiera e Mouse, 6000mAh, Octa-Core, 5G Wi-Fi, GPS, USB-C, BT 5.0, 8MP+5MP, Gemini AI, ",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "SUAAT Tablet Android Octa Core da 10 pollici con 20 GB RAM + 128 GB ROM (2 TB TF) | 5G + 2.4G WiFi | FHD | GMS | 8 MP + 5 MP | Tipo C, Tablet Touch con custodia, tastiera e mouse-G",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "DMOAO Tablet 10 Pollici Androidcon 18 GB RAM + 128 GB ROM(TF 1TB), FHD Tablet con 5G Wi-Fi 6, Widevine L1, Octa-Core, USB-C, BT 5.0, 6000 mAh, Tastiera + Mouse + Custodia,Oro Rosa",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Tablet Android da 11 Pollici, Octa-Core, 24GB(4+20) RAM+128GB Memoria, Batteria 8200mAh, Widevine L1, Espandibile fino a 1TB, Doppia Fotocamera, Android Tablet per Studio, Lavoro e",
         "merchant": "",
         "ean": "",
@@ -1090,6 +1069,27 @@
       }
     ],
     "migliori-monitor": [
+      {
+        "title": "Philips Monitor 221v8 22 pollici 1920x1080, FHD, 75Hz, VA Panel, 4ms GtG, (HDMI1) Adaptive Sync, Nero",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Dell 27 Monitor - SE2726HS, Full HD (1920x1080), 144Hz, IPS, 1ms MPRT | AMD FreeSync, Regolabile in Altezza, VESA (100x100mm), 2 HDMI, 3 Anni di Garanzia, Nero",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Samsung Essential Monitor- G35H, LS24HG350EUXEN | 16:9, 1800R, FHD (1920x1080), Frequenza di Aggiornamento 144Hz, Tempo di Risposta 1ms, AMD FreeSync, HDMI, DP",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Xiaomi Monitor G27i",
         "merchant": "",
@@ -1736,13 +1736,6 @@
     ],
     "cuffie-bluetooth-in-offerta": [
       {
-        "title": "Apple AirPods Max Cuffie wireless over-ear, Cancellazione attiva del rumore di livello pro, Modalità Trasparenza, Audio spaziale personalizzato, Ricarica USB-C, Cuffie Bluetooth pe",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "JBL Live 770 NC Cuffie Over-Ear Wireless, Nero | Bluetooth, Cancellazione del Rumore, SmartAmbient, Personi-Fi 2.0, JBL Surround, Connessione Multipoint, Ore di Autonomia",
         "merchant": "amazon",
         "ean": "1200130004582",
@@ -1944,9 +1937,23 @@
         "ean": "4548736142817",
         "mpn": "SONWHCH520W.CE7",
         "status": "da_verificare"
+      },
+      {
+        "title": "Sony Cuffie Bluetooth wireless WH CH520 Durata della batteria fino a 50 ore con ricarica rapida, stile on ear Blu",
+        "merchant": "unieuro",
+        "ean": "4548736142862",
+        "mpn": "SONWHCH520L.CE7",
+        "status": "da_verificare"
       }
     ],
     "migliori-robot-aspirapolvere": [
+      {
+        "title": "Lefant M330 Pro Robot Aspirapolvere Lavapavimenti con Mappatura 5000Pa | Lavapavimenti 3 in 1, Laser dToF 360°, Evitamento Ostacoli PSD, Tappeti, Senza Spazzola Centrale, 3 Mappe, ",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Lefant M210 PRO OMNI Robot Aspirapolvere Lavapavimenti con Rullo 20.000Pa",
         "merchant": "",
@@ -2111,6 +2118,20 @@
     ],
     "aspirapolvere-senza-fili-in-offerta": [
       {
+        "title": "Linkifly MT1 Aspirapolvere Materassi Senza Fili, 18 kPa, Luce UV-C | Vibrazione ultrasonica, Anti-acaro, Filtro HEPA, Autonomia 35 min, Doppio contenitore polvere, Ricarica Type-C",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Cecotec Aspirapolvere per Tappezzeria con Cavo - Pulitore Tappezzeria Conga 7000 Carpet&Spot Clean Steam XXL.1700W. Pulizia 3in1. Serbatoio 1600ml acqua pulita e 950ml acqua sporca",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "BLACK+DECKER Pivot Aspirapolvere portatile senza fili da 18 V, PV1820L-QW | Bocchetta orientabile, 8 posizioni di pulizia, stazione di ricarica e accessori",
         "merchant": "amazon",
         "ean": "",
@@ -2196,6 +2217,13 @@
       }
     ],
     "migliori-lavatrici": [
+      {
+        "title": "Haier X Serie 5 Lavatrice 8 Kg, 1400 Giri, Classe A-30%, Bianca | Vapore, Ciclo Refresh, Smart AI, Wi-Fi, App hOn, Libera Installazione, 60 Programmi, 85x60x56 cm, HW80-BP14357U-IT",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Bosch WAN28229IT Serie 4 Lavatrice 9kg 1400 giri/min Bianco Classe A",
         "merchant": "",
@@ -2397,13 +2425,6 @@
         "merchant": "unieuro",
         "ean": "8806096639238",
         "mpn": "F4NX5009TKBABWQPI",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Samsung Lavatrice AI Control Ecodosatore 11Kg WW11DG6B85LHU3",
-        "merchant": "unieuro",
-        "ean": "8806095539843",
-        "mpn": "WW11DG6B85LHU3",
         "status": "da_verificare"
       }
     ],
@@ -2620,20 +2641,6 @@
       }
     ],
     "friggitrici-ad-aria-offerte-confronto": [
-      {
-        "title": "Midea Friggitrice ad Aria 1500W 4.5L Cottura Rapida | HeatXpress Cottura Rapida, Cestello PFAS-Free Antiaderente, Lavabile in Lavastoviglie, Pannello Touch, Nero",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Moulinex Easy Fry XL Surface, Friggitrice ad Aria 1 kg, Nero, AL4018 | con Tecnologia Extra-Crisp, Superficie XL, Cestello Spazioso, Design Compatto, Visore di Controllo, Doppia Re",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Instant Pot - Friggitrice ad Aria Vortex Dual Truffle da 8L: formato famiglia con doppio cestello da 4L. 8 funzioni in 1: essicca, griglia, cuoce al forno, arrostisce, riscalda e m",
         "merchant": "amazon",
