@@ -1,5 +1,22 @@
 [
   {
+    "asin": "B0BQ1JSZSN",
+    "title": "Cecotec Forno elettrico da tavolo Bake&Toast 2300 Bianco 1500 W, multifunzione, capacità di 23 litri, timer, temperatura regolabile e porta a doppio vetro, bianco",
+    "price": 49.9,
+    "old_price": 69.99,
+    "discount": 29.0,
+    "image": "https://m.media-amazon.com/images/I/41tKQGh6aSL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0BQ1JSZSN?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "grandi_elettrodomestici",
+    "macro_group": "casa_cucina",
+    "seasonal_title": "",
+    "published_at": "2026-11-23T11:10:25.998133+01:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B0CB6JWL75",
     "title": "Barbie Ginnastica Artistica Playset con Bambola e Accessori | HRG52 - Bambola alla moda bionda con clip a C per saltos, trave galleggianti, tuta e altro ancora",
     "price": 25.95,
@@ -2250,57 +2267,5 @@
     "source_external_id": "",
     "quality_status": "ready",
     "quality_issues": []
-  },
-  {
-    "asin": "W359174F04",
-    "title": "Puma Velum 2 Uomo - Sneakers Grigio - Taglia 41 - Rete/Sintetico",
-    "price": 60.0,
-    "old_price": 159.99,
-    "discount": 62.5,
-    "image": "https://images.footlocker.com/is/image/FLEU/314219055804?wid=620&hei=620&fmt=png-alpha",
-    "url": "https://www.awin1.com/pclick.php?p=45876816039&a=3086723&m=23410",
-    "category": "moda",
-    "macro_group": "awin_discovery",
-    "seasonal_title": "Offerta Foot Locker",
-    "published_at": "2026-11-23T06:40:51.634270+01:00",
-    "source_merchant": "footlocker",
-    "source_external_id": "314219055804085",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "footlocker",
-        "merchant_name": "Foot Locker",
-        "merchant_id": "23410",
-        "product_id": "314219055804085",
-        "awin_product_id": "45876816039",
-        "title": "Puma Velum 2 Uomo - Sneakers Grigio - Taglia 41 - Rete/Sintetico",
-        "brand": "Puma",
-        "ean": "4070034339380",
-        "mpn": "",
-        "price": 60.0,
-        "old_price": 159.99,
-        "discount": 62.5,
-        "image": "https://images.footlocker.com/is/image/FLEU/314219055804?wid=620&hei=620&fmt=png-alpha",
-        "url": "https://www.awin1.com/pclick.php?p=45876816039&a=3086723&m=23410",
-        "category": "Scarpe",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {
-          "color": "Grey",
-          "size": "41",
-          "gender": "male",
-          "fashion_group_key": "11ea29d2d343a7acebf169bb",
-          "fashion_group_title": "Puma Velum 2 Uomo - Sneakers Grigio - Rete/Sintetico",
-          "shipping_eur": 4.99
-        }
-      }
-    ],
-    "merchant_match_score": 100,
-    "merchant_ean": "4070034339380",
-    "merchant_prices_checked_at": "2026-11-23T10:22:26.572114+01:00",
-    "availability": "in_stock",
-    "price_observed_at": "2026-11-23T10:22:26.572114+01:00"
   }
 ]
