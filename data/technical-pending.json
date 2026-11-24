@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-24T01:33:43+01:00",
+  "generated_at": "2026-11-24T03:03:43+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -2316,6 +2316,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "Sharp ES WNFL214CWDA lavatrice Caricamento frontale 12 kg 1400 Giri/min Bianco",
+        "merchant": "unieuro",
+        "ean": "4550556185004",
+        "mpn": "ESWNFL214CWDA",
+        "status": "da_verificare"
+      },
+      {
         "title": "LG F4NX1009NWK Lavatrice smart 9kg, Classe A, 1400 giri, 6 Motion, Allergy Care, Bianca",
         "merchant": "unieuro",
         "ean": "8806096095706",
@@ -2344,6 +2351,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "Sharp ES NFA014BWNA lavatrice Caricamento frontale 10 kg 1400 Giri/min Bianco",
+        "merchant": "unieuro",
+        "ean": "4550556184946",
+        "mpn": "ESNFA014BWNA",
+        "status": "da_verificare"
+      },
+      {
         "title": "Samsung Lavatrice Serie 3000 9Kg WW90FG3M05AWET",
         "merchant": "unieuro",
         "ean": "8806097015932",
@@ -2369,20 +2383,6 @@
         "merchant": "unieuro",
         "ean": "8806095210285",
         "mpn": "WW80CGC04DAEET",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Hotpoint Ariston Lavatrice da incasso BI WMHG 71483 EU N",
-        "merchant": "unieuro",
-        "ean": "8050147619315",
-        "mpn": "869991619310",
-        "status": "da_verificare"
-      },
-      {
-        "title": "LG D2R3S08NSWW Lavasciuga slim 8/5kg AI DD, Classe E, 1200 giri, AI Wash, Vapore",
-        "merchant": "unieuro",
-        "ean": "8806084273680",
-        "mpn": "D2R3S08NSWW.ABWQP",
         "status": "da_verificare"
       }
     ],
