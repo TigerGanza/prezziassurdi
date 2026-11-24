@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-24T05:58:43+01:00",
+  "generated_at": "2026-11-24T07:24:04+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -2176,6 +2176,20 @@
     ],
     "migliori-lavatrici": [
       {
+        "title": "Sharp ES-NFA014BWNA lavatrice Caricamento frontale 10 kg 1400 Giri/min Bianco",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Sharp ES-WNFL214CWDA lavatrice Caricamento frontale 12 kg 1400 Giri/min Bianco",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Hisense WF1G7021BW – Lavatrice Slim a Carica Frontale 7 kg, Classe B, Vapore, Allergy Care, 15 Programmi, Motore Inverter, Quick Wash 15’, Pulizia Cestello, Display LED, Bianco",
         "merchant": "amazon",
         "ean": "",
@@ -2316,13 +2330,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Sharp ES WNFL214CWDA lavatrice Caricamento frontale 12 kg 1400 Giri/min Bianco",
-        "merchant": "unieuro",
-        "ean": "4550556185004",
-        "mpn": "ESWNFL214CWDA",
-        "status": "da_verificare"
-      },
-      {
         "title": "LG F4NX1009NWK Lavatrice smart 9kg, Classe A, 1400 giri, 6 Motion, Allergy Care, Bianca",
         "merchant": "unieuro",
         "ean": "8806096095706",
@@ -2348,13 +2355,6 @@
         "merchant": "unieuro",
         "ean": "8806096014011",
         "mpn": "WT1210EGF.ABGQPIS",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Sharp ES NFA014BWNA lavatrice Caricamento frontale 10 kg 1400 Giri/min Bianco",
-        "merchant": "unieuro",
-        "ean": "4550556184946",
-        "mpn": "ESNFA014BWNA",
         "status": "da_verificare"
       },
       {
@@ -2387,6 +2387,13 @@
       }
     ],
     "migliori-frigoriferi": [
+      {
+        "title": "Samsung Frigorifero Combinato Ecoflex F-RL33B61ESA3M, Libera installazione, SpaceMax, Total No Frost, Motore Digital Inverter, 3 Mesi Garanzia Extra, 344 L, LXAxP: 59,5 x 185 x 66 ",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "BEKO RCSA300K40GN - Frigorifero Combinato Libera Installazione 291 Litri, 4 Ripiani in Vetro, Frigo con Congelatore 3 Cassetti, Elettrodomestici Cucina, Classe E, 54L x 181,4H x 57",
         "merchant": "",
@@ -2589,16 +2596,23 @@
         "ean": "8806096627587",
         "mpn": "GBBS726CMBAMBQEUZ",
         "status": "da_verificare"
-      },
-      {
-        "title": "LG GBBS322BPY Frigorifero combinato Fit & Max 60cm, Classe B, 375L, AI Inverter, Prime Silver",
-        "merchant": "unieuro",
-        "ean": "8806096627129",
-        "mpn": "GBBS322BPYAPYQEUZ",
-        "status": "da_verificare"
       }
     ],
     "friggitrici-ad-aria-offerte-confronto": [
+      {
+        "title": "Philips Airfryer 1000 - Friggitrice ad aria con Cestello Flexi da 7.1L | Cestello con divisore 3.55+3.55L o Cestello XXL da 7.1L, doppia resistenza, Lavabile in lavastoviglie, App ",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Cosori Friggitrice ad Aria Turbo Blaze 6 Litri, DC Motore, 9 Funzioni 1725W | Rivestimento Ceramico No PFAS, 30-230℃, 5 Velocità della Ventola Automatica, Usa Fino al 95% di Olio i",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Instant Pot - Friggitrice ad Aria Vortex Dual Truffle da 8L: formato famiglia con doppio cestello da 4L. 8 funzioni in 1: essicca, griglia, cuoce al forno, arrostisce, riscalda e m",
         "merchant": "amazon",
@@ -2727,6 +2741,69 @@
       }
     ],
     "migliori-moda": [
+      {
+        "title": "Puma Homura Uomo - Sneakers Viola - Taglia 42 - Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Puma Homura Uomo - Sneakers Viola - Taglia 43 - Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "New Balance Rebel Uomo - Sneakers Bianco - Taglia 40 - Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "New Balance Rebel Uomo - Sneakers Bianco - Taglia 40.5 - Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Nike A'Two Uomo - Sneakers Bianco - Taglia 40 - Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Skechers Bobs Squad Tough Talk, Scarpe da Ginnastica Donna, Black Engineered Knit Trim Blk, 40 EU",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Nike A'Two Uomo - Sneakers Bianco - Taglia 40.5 - Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Nike A'Two Uomo - Sneakers Bianco - Taglia 43 - Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Nike A'Two Uomo - Sneakers Bianco - Taglia 42 - Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Eastpak Pinnacle Zaino 38L (42 x 32 x 25,5 cm), zaino grande scuola e viaggio, multi-scomparto resistente con organizer e spallacci imbottiti - ULTRA MARINE",
         "merchant": "amazon",
@@ -2873,72 +2950,65 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "Kricely Scarpe da Trail Running Trekking da Escursionismo Uomo Fitness Running Sneakers （Kaki 43）",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Bianco White Black, 41 EU",
-        "merchant": "amazon",
-        "ean": "4059505055998",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "PUMA Sneakers ST Runner v2 Full L Unisex, White-Gray Violet, 44.5 EU",
-        "merchant": "amazon",
-        "ean": "4060979877894",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Black Black, 41 EU",
-        "merchant": "amazon",
-        "ean": "4059505057039",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "PUMA Sneakers Smash v2 Unisex, Black-Black, 42.5 EU",
-        "merchant": "amazon",
-        "ean": "4059504977475",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "PUMA Unisex ST Runner v2 NL Sneakers, Puma Black-Puma White, 42 EU",
-        "merchant": "amazon",
-        "ean": "4059505005894",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Scarpe Sportive Uomo Scarpe Running Corsa Jogging Ginnastica Trail Sneakers | Hitmars Scarpe Running Uomo Donna, Fitness, Camminata, Outdoor, Antiscivolo, Sneakers Sportive, Trekki",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Hitmars Scarpe Running Uomo Ginnastica Donna Scarpe da Corsa Trekking Sneakers Trail Sportive Fitness Correre Running Shoes Camminare Negro EU 41",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Hitmars Scarpe Running Uomo Ginnastica Donna Scarpe da Corsa Trekking Sneakers Trail Sportive Fitness Correre Running Shoes Camminare Verde EU 41",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
       }
     ],
     "migliori-sneakers": [
+      {
+        "title": "Puma Homura Uomo - Sneakers Viola - Taglia 42 - Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Puma Homura Uomo - Sneakers Viola - Taglia 43 - Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "New Balance Rebel Uomo - Sneakers Bianco - Taglia 40 - Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "New Balance Rebel Uomo - Sneakers Bianco - Taglia 40.5 - Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Nike A'Two Uomo - Sneakers Bianco - Taglia 40 - Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Nike A'Two Uomo - Sneakers Bianco - Taglia 40.5 - Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Nike A'Two Uomo - Sneakers Bianco - Taglia 43 - Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Nike A'Two Uomo - Sneakers Bianco - Taglia 42 - Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
@@ -3090,62 +3160,6 @@
         "title": "Puma MB.01 Uomo Sneakers Bianco Taglia 41 Rete/Sintetico",
         "merchant": "footlocker",
         "ean": "4070032492964",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Puma MB.01 Uomo Sneakers Bianco Taglia 42 Rete/Sintetico",
-        "merchant": "footlocker",
-        "ean": "4070032492902",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Puma MB.01 Uomo Sneakers Bianco Taglia 42.5 Rete/Sintetico",
-        "merchant": "footlocker",
-        "ean": "4070032492971",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Puma MB.01 Uomo Sneakers Bianco Taglia 43 Rete/Sintetico",
-        "merchant": "footlocker",
-        "ean": "4070032492919",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Puma MB.01 Uomo Sneakers Bianco Taglia 44 Rete/Sintetico",
-        "merchant": "footlocker",
-        "ean": "4070032492766",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Puma MB.01 Uomo Sneakers Bianco Taglia 44.5 Rete/Sintetico",
-        "merchant": "footlocker",
-        "ean": "4070032492988",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Puma MB.01 Uomo Sneakers Bianco Taglia 46 Rete/Sintetico",
-        "merchant": "footlocker",
-        "ean": "4070032492773",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Puma MB.01 Uomo Sneakers Bianco Taglia 47 Rete/Sintetico",
-        "merchant": "footlocker",
-        "ean": "4070032492780",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Puma MB.01 Uomo Sneakers Viola Taglia 40.5 Rete/Sintetico",
-        "merchant": "footlocker",
-        "ean": "4070032492223",
         "mpn": "",
         "status": "da_verificare"
       }
