@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-24T18:29:01+01:00",
+  "generated_at": "2026-11-24T20:08:44+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -1070,6 +1070,20 @@
     ],
     "migliori-monitor": [
       {
+        "title": "Dell 24 Monitor - SE2426HS, Full HD (1920x1080), 144Hz, IPS, 1ms MPRT | AMD FreeSync, Regolabile in Altezza, VESA (100x100mm), 2 HDMI, 3 Anni di Garanzia, Nero",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "PHILIPS Monitor 27E1N1900AE 27 pollici 3840x2160, UHD, 60Hz, IPS Panel, 4ms GtG, USB Hub Speakers, Height Adjustment, (HDMI2x 2.0) HDR10, Nero",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Xiaomi Monitor G27i",
         "merchant": "",
         "ean": "",
@@ -1701,13 +1715,6 @@
     ],
     "cuffie-bluetooth-in-offerta": [
       {
-        "title": "beyerdynamic DJ 300 PRO X CLUB - Cuffie DJ professionali 2 in 1, | con coppe auricolari personalizzabili e design chiuso per DJ professionali",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Soundcore P31i di Anker Cuffie Bluetooth con Cancellazione Adattiva Rumore | Audio Hi-Res, Auricolari con Funzione di Traduzione, 50 ore di Autonomia, Cancellazione Adattiva, IPX5,",
         "merchant": "amazon",
         "ean": "0194644247409",
@@ -1909,9 +1916,23 @@
         "ean": "4548736142817",
         "mpn": "SONWHCH520W.CE7",
         "status": "da_verificare"
+      },
+      {
+        "title": "Sony Cuffie Bluetooth wireless WH CH520 Durata della batteria fino a 50 ore con ricarica rapida, stile on ear Blu",
+        "merchant": "unieuro",
+        "ean": "4548736142862",
+        "mpn": "SONWHCH520L.CE7",
+        "status": "da_verificare"
       }
     ],
     "migliori-robot-aspirapolvere": [
+      {
+        "title": "DJI ROMO P robot aspirapolvere lavapavimenti, 25.000 Pa | Design trasparente del robot e della base di ricarica, aspirazione da 25.000 Pa, rilevamento ostacoli a livello di drone",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Lefant M210 PRO OMNI Robot Aspirapolvere Lavapavimenti con Rullo 20.000Pa",
         "merchant": "",
@@ -2714,6 +2735,13 @@
     ],
     "migliori-moda": [
       {
+        "title": "Bosch Professional Sistema 12V Trapano Avvitatore Con Percussione GSB 12V-15, Incl. Batteria 2x2.0 Ah + Caricabatterie, 2x Set Di Trapani, 1x Set Di Punte, In Borsa, Amazon Exclusi",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "VINATO Bastoni da Trekking Pieghevoli, 2 Pezzi, Bastoncini Escursionismo in Lega di Alluminio 7075 Leggeri, Regolabili 110-130cm con Borsa da Trasporto, per Nordic Walking, Escursi",
         "merchant": "amazon",
         "ean": "",
@@ -2911,13 +2939,6 @@
       },
       {
         "title": "Uomo Leggero Scarpe Sportive Scarpe da Ginnastica Trail Running Scarpe Ginnastica Passeggio Sneakers MU9557-8 (Marrone,43)",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Magliette Manica Corta Divertenti Ansia A Livello Agonistico Maglietta",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
