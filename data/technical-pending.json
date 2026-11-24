@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-24T16:49:02+01:00",
+  "generated_at": "2026-11-24T18:29:01+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -693,20 +693,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Lenovo IdeaPad Slim 3 Notebook 15\" IPS, AMD Ryzen 5 40, RAM 8GB, 512GB SSD, Windows 11 Home, WiFi 6, Laptop per Casa, Ufficio, Studio, Multitasking, Uso Quotidiano - Caricatore non",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Lenovo IdeaPad Slim 3 Notebook 15\" IPS, Intel Core Ultra 7 355, RAM 16GB, 512GB SSD, Windows 11 Home, WiFi 6, Laptop per Casa, Ufficio, Studio, Multitasking, Uso Quotidiano - Caric",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "ASUS Vivobook 16 F1605VA#B0FZL8JLW9, Notebook con display 16\" Anti-glare, 60Hz,Intel® Core™ 9 Processor 270H,RAM 16GB, 1TB SSD, WIN11 Home, Argento",
         "merchant": "",
         "ean": "",
@@ -956,14 +942,14 @@
     ],
     "migliori-tablet": [
       {
-        "title": "DEERTiME Tablet Android Gemini AI, 30GB RAM+128GB ROM/2TB Tablet 10 Pollici, 8000mAh, 5G WiFi, Corpo Metallico, Unisoc Octa Core/5+8MP/Widevine L1/Face ID/BT5.0/GPS Tablets con Tas",
+        "title": "Apple iPad Air 11'' (M4): display Liquid Retina, 128 GB, fotocamera frontale e posteriore da 12MP, Wi-Fi 7 con chip Apple N1 – Viola",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "TECLAST P50T Tablet 11\" 90Hz Android16, 2GHz 32GB+128GB con 10 Accessori | BT5.2/WiFi6/TF 5TB/8000mAh/13+5MP/Widevine L1/2GHz Octa-Core/GPS/OTG/Tablet con Tastiera+Custodia+Penna+A",
+        "title": "DEERTiME Tablet Android Gemini AI, 30GB RAM+128GB ROM/2TB Tablet 10 Pollici, 8000mAh, 5G WiFi, Corpo Metallico, Unisoc Octa Core/5+8MP/Widevine L1/Face ID/BT5.0/GPS Tablets con Tas",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -1083,13 +1069,6 @@
       }
     ],
     "migliori-monitor": [
-      {
-        "title": "Dell 24 Monitor Gaming - SE2426HG, Full HD (1920x1080), 240Hz, Fast IPS | 0.5ms, AMD FreeSync Premium, 99% sRGB, HDR10, VESA (100x100mm), DisplayPort, 2 HDMI, 3 Anni di Garanzia, N",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Xiaomi Monitor G27i",
         "merchant": "",
@@ -1268,6 +1247,27 @@
     ],
     "migliori-smartwatch": [
       {
+        "title": "Garmin Forerunner 265S, Smartwatch per la corsa, 42mm, GPS multi-band, Display AMOLED, VO2max, HRV Status, Dinamiche di corsa al polso, Tempi di recupero, Autonomia fino a 15 giorn",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Smartwatch Uomo GPS, 1.43\" AMOLED Militari Orologio Smartwatch con Chiamate Bluetooth, 5 ATM Smart Watch con Sonno/Cardiofrequenzimetro/Torcia/Bussola, 160+ Sportive Fitness Tracke",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Blackview Smartwatch Uomo, Orologio Intelligente Fitness con Chiamate Bluetooth, 1.91\" GPS Smartwatch Militare Uomo 115+ Modalità Sportive, Cardiofrequenzimetro, SpO2, Torcia, Buss",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "2026 Smartwatch Uomo GPS,2.06\" HD AMOLED Orologio Smartwatch con Chiamate",
         "merchant": "",
         "ean": "",
@@ -1311,13 +1311,6 @@
       },
       {
         "title": "2026 Smartwatch Uomo,1000 mAh Batteria,1.53\" HD con Chiamate Bluetooth | Smartwatch con Whatsapp, 100+Sport, SpO2/Sonno/Cardiofrequenzimetro, IP7 Impermeabile per iOS Android",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Smartwatch Uomo GPS, 1.43\" AMOLED Militari Orologio Smartwatch con Chiamate Bluetooth, 5 ATM Smart Watch con Sonno/Cardiofrequenzimetro/Torcia/Bussola, 160+ Sportive Fitness Tracke",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -1462,30 +1455,9 @@
         "ean": "8055776233055",
         "mpn": "IOPEXTWATCH669",
         "status": "da_verificare"
-      },
-      {
-        "title": "IOPLEE IOPEXTWATCH670BL smartwatch e orologio sportivo 3,63 cm (1.43'') AMOLED Digitale 466 x 466 Pixel Touch screen Blu",
-        "merchant": "unieuro",
-        "ean": "8055776233062",
-        "mpn": "IOPEXTWATCH670",
-        "status": "da_verificare"
-      },
-      {
-        "title": "IOPLEE IOPEXTWATCH671GR smartwatch e orologio sportivo 3,63 cm (1.43'') AMOLED Digitale 466 x 466 Pixel Touch screen Argento",
-        "merchant": "unieuro",
-        "ean": "8055776233079",
-        "mpn": "IOPEXTWATCH671",
-        "status": "da_verificare"
       }
     ],
     "migliori-console-gaming": [
-      {
-        "title": "Nintendo - Console Nintendo Switch Lite Blu - schermo LCD 5,5\" - 32GB",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Playstation 5 Console Edizione Digital Slim",
         "merchant": "",
@@ -1539,6 +1511,13 @@
         "title": "Microsoft Xbox One S 1TB Console [Edizione: Regno Unito]",
         "merchant": "amazon",
         "ean": "0889842105100",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Nintendo - Console Nintendo Switch Lite Blu - schermo LCD 5,5\" - 32GB",
+        "merchant": "amazon",
+        "ean": "0045496453404",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -2388,6 +2367,13 @@
     ],
     "migliori-frigoriferi": [
       {
+        "title": "Hotpoint Ariston HAT70I 932 S DC, Frigorifero Combinato 437l | Libera Installazione, Acciaio Inox. Dimensioni: 185x 70 x 65.5 cm, Classe Energetica E",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "BEKO RCSA300K40GN - Frigorifero Combinato Libera Installazione 291 Litri, 4 Ripiani in Vetro, Frigo con Congelatore 3 Cassetti, Elettrodomestici Cucina, Classe E, 54L x 181,4H x 57",
         "merchant": "",
         "ean": "",
@@ -2589,13 +2575,6 @@
         "ean": "8806094914245",
         "mpn": "RT38CG6624S9ES",
         "status": "da_verificare"
-      },
-      {
-        "title": "Samsung Frigorifero Combinato EcoFlex AI 2m 390L RB38C774DSA",
-        "merchant": "unieuro",
-        "ean": "8806094990324",
-        "mpn": "RB38C774DSA/EF",
-        "status": "da_verificare"
       }
     ],
     "friggitrici-ad-aria-offerte-confronto": [
@@ -2734,6 +2713,27 @@
       }
     ],
     "migliori-moda": [
+      {
+        "title": "VINATO Bastoni da Trekking Pieghevoli, 2 Pezzi, Bastoncini Escursionismo in Lega di Alluminio 7075 Leggeri, Regolabili 110-130cm con Borsa da Trasporto, per Nordic Walking, Escursi",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "PUMA Sneakers Anzarun Lite AC PS Bambini, Black-White, 33 EU",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Helly Hansen Driftline Polo, Maglia a Maniche Corte, Design Sportivo e Casual Uomo, S, Blu (Navy)",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Mattel Disney Princess Rapunzel Bambola alla moda Outfit originale | Moda scintillante con gonna rimovibile, diadema e scarpe, posabile e da collezione, ispirato al film Disney Tan",
         "merchant": "amazon",
@@ -2920,27 +2920,6 @@
         "title": "Magliette Manica Corta Divertenti Ansia A Livello Agonistico Maglietta",
         "merchant": "amazon",
         "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Marvel Spider Man Gameverse Logo Maglietta",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Confezione da 3 Pezzi - Maglietta con Maniche Corte 100% Cotone 3-TS135, Bianco, XL",
-        "merchant": "amazon",
-        "ean": "8434152677414",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Confezione da 5 Pezzi - Maglietta a Maniche Corte 100% Cotone - 5-TS135, Nero, L",
-        "merchant": "amazon",
-        "ean": "8434152678114",
         "mpn": "",
         "status": "da_verificare"
       }
