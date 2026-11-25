@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-25T13:03:12+01:00",
+  "generated_at": "2026-11-25T14:43:31+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -693,13 +693,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Lenovo IdeaPad Slim 3 Notebook 15\" FHD (1920x1080) AMD Ryzen 3, RAM 8GB, 256GB SSD, Windows 11 Home, WiFi 6, Laptop per Casa, Ufficio, Studio, Uso Quotidiano - Caricatore non inclu",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "ASUS Vivobook 16 F1605VA#B0FZL8JLW9, Notebook con display 16\" Anti-glare, 60Hz,Intel® Core™ 9 Processor 270H,RAM 16GB, 1TB SSD, WIN11 Home, Argento",
         "merchant": "",
         "ean": "",
@@ -948,6 +941,20 @@
       }
     ],
     "migliori-tablet": [
+      {
+        "title": "Apple iPad Air 11'' (M4): display Liquid Retina, 128 GB, fotocamera frontale e posteriore da 12MP, Wi-Fi 7 con chip Apple N1 – Galassia",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Apple iPad Air 11'' (M4): display Liquid Retina, 128 GB, fotocamera frontale e posteriore da 12MP, Wi-Fi 7 con chip Apple N1 – Grigio siderale",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Tablet Android da 11 Pollici, Octa-Core, 24GB(4+20) RAM+128GB Memoria, Batteria 8200mAh, Widevine L1, Espandibile fino a 1TB, Doppia Fotocamera, Android Tablet per Studio, Lavoro e",
         "merchant": "",
@@ -1559,6 +1566,27 @@
     ],
     "migliori-soundbar": [
       {
+        "title": "Hisense AX5125H Soundbar 5.1.2, 500W, 2 altoparlanti posteriore 2 altoparlanti upfiring 1Subwoofer Esterno wireless, Dolby Atmos e DTS:X, Bluetooth, HDMI, USB, Ingresso Audio Ottic",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "JBL Cinema SB 550, Soundbar 3.1 Canali con Subwoofer Wireless, Bluetooth per Streaming Wireless, Dolby Atmos Integrato, Connessione HDMI ARC e Ottica, Design Compatto, Telecomando,",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "MAJORITY Naga 40 Plus Soundbar per TV con Bluetooth 5.0 e HDMI ARC | Suono Potente 200W con Subwoofer Wireless | Ottico, AUX, USB | Montaggio a Parete | Telecomando & Staffe Inclus",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Samsung Soundbar HW-B66CF/ZF Serie B, 4 Speaker, Wireless, Dolby 5.1ch, Audio a 3.1 Canali, DTS 5.1ch, Surround Sound Expansion, Voice Enhance Mode, Black, 2025",
         "merchant": "",
         "ean": "",
@@ -1567,13 +1595,6 @@
       },
       {
         "title": "TCL S55HE Soundbar 2.1, 220W, Dolby Atmos, DTS Virtual:X, subwoofer wireless, Bluetooth 5.3, HDMI eARC, USB, ottico, montaggio a parete, telecomando incluso",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Hisense AX5125H Soundbar 5.1.2, 500W, 2 altoparlanti posteriore 2 altoparlanti upfiring 1Subwoofer Esterno wireless, Dolby Atmos e DTS:X, Bluetooth, HDMI, USB, Ingresso Audio Ottic",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -1906,13 +1927,6 @@
     ],
     "migliori-robot-aspirapolvere": [
       {
-        "title": "DREAME X50 Ultra Complete Robot Aspirapolvere Lavapavimenti, 20.000 Pa | Rileva Ostacoli con IA, Navigazione 360°, Pulizia sotto Mobili Bassi e Divani, Pulizia Angoli-Bordi, Spazzo",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Lefant M210 PRO OMNI Robot Aspirapolvere Lavapavimenti con Rullo 20.000Pa",
         "merchant": "",
         "ean": "",
@@ -2155,13 +2169,6 @@
     ],
     "migliori-lavatrici": [
       {
-        "title": "Indesit BWA 71295X WV IT- Lavatrice 7kg | Libera Installazione, Carica Frontale. Centrifuga 1200 Giri Al Minuto. Dimensioni: 84,5cmx59,5cmx57,5xm, Classe Energetica B",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Bosch WAN28229IT Serie 4 Lavatrice 9kg 1400 giri/min Bianco Classe A",
         "merchant": "",
         "ean": "",
@@ -2362,6 +2369,13 @@
         "merchant": "unieuro",
         "ean": "8806095210285",
         "mpn": "WW80CGC04DAEET",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Hotpoint Ariston Lavatrice da incasso BI WMHG 71483 EU N",
+        "merchant": "unieuro",
+        "ean": "8050147619315",
+        "mpn": "869991619310",
         "status": "da_verificare"
       }
     ],
@@ -2707,6 +2721,13 @@
     ],
     "migliori-moda": [
       {
+        "title": "PUMA Rebound V6, Scarpe da ginnastica Unisex - Adulto, White Black, 44 EU",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "tectake® Gazebo Pieghevole 3 x 3 m, Idrorepellente, con Protezione UV 30+ | Piedi Regolabili in Altezza, Pop-up, comprese Corde di Tensionamento, Picchetti e Borsa da Trasporto, Us",
         "merchant": "amazon",
         "ean": "",
@@ -2729,20 +2750,6 @@
       },
       {
         "title": "Ladeheid Pantaloni Calzamaglia Lunghi Intimo Termico, Uomo per Sport Invernali Sci, Snowboard Corsa all'aperto LA40-260 (Blu, L)",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Skechers Donna Go Walk Joy scarpe da ginnastica, Taupe Textile/Trim, 37 EU",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Skechers Go Walk Joy, Scarpe da ginnastica Donna, Navy Textile /White Trim, 38 EU",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -2911,6 +2918,13 @@
       },
       {
         "title": "Scarpe Sportive Uomo Scarpe Running Corsa Jogging Ginnastica Trail Sneakers | Hitmars Scarpe Running Uomo Donna, Fitness, Camminata, Outdoor, Antiscivolo, Sneakers Sportive, Trekki",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Hitmars Scarpe Running Uomo Ginnastica Donna Scarpe da Corsa Trekking Sneakers Trail Sportive Fitness Correre Running Shoes Camminare Negro EU 41",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
