@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-25T22:24:29+01:00",
+  "generated_at": "2026-11-25T23:58:11+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -1049,6 +1049,13 @@
     ],
     "migliori-monitor": [
       {
+        "title": "WITHINGS BeamO – Termometro Digitale Intelligente Senza Contatto, MultiScan 4-in-1, Monitor ECG, Pulsossimetro, Stetoscopio Digitale, Per Bambini e Adulti, Multiutente, Cura Famili",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Xiaomi Monitor G27i",
         "merchant": "",
         "ean": "",
@@ -1225,6 +1232,13 @@
       }
     ],
     "migliori-smartwatch": [
+      {
+        "title": "Withings ScanWatch 2, Smartwatch Hybrid, ECG, GPS Connesso, 38mm, Blu | ECG con rilevamento FA, punteggio del sonno, 40+ attività rilevate, SpO2, monitoraggio del ciclo mestruale",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Apple Watch SE 3 GPS 40 mm Smartwatch | Cassa in alluminio galassia con Cinturino Sport sabbia - S/M",
         "merchant": "amazon",
@@ -1426,13 +1440,6 @@
         "merchant": "unieuro",
         "ean": "6977887510127",
         "mpn": "5504ACGT_C",
-        "status": "da_verificare"
-      },
-      {
-        "title": "IOPLEE IOPEXTWATCH669BK smartwatch e orologio sportivo 3,63 cm (1.43'') AMOLED Digitale 466 x 466 Pixel Touch screen Nero",
-        "merchant": "unieuro",
-        "ean": "8055776233055",
-        "mpn": "IOPEXTWATCH669",
         "status": "da_verificare"
       }
     ],
@@ -1673,6 +1680,41 @@
     ],
     "cuffie-bluetooth-in-offerta": [
       {
+        "title": "2026 Cuffie Bluetooth 5.4, Auricolari Bluetooth Stereo HiFi Con 4 ENC Microfoni Anti-Rumore, Durata 50 Ore Cuffiette In Ear, Cuffiette Touch Control, Impermeabili IP7 Cuffie Senza ",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "2026 Cuffie Bluetooth 6.1 Sport, Auricolari Bluetooth con 4D Bass Stereo, 120 Ore Cuffie In Ear Cancellazione Rumore ENC e 2 HD Mics, HiFi Cuffiette LED Display, IP7 Impermeabile C",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "2026 Cuffie Bluetooth 6.1 Sport, Auricolari Bluetooth con 6D Bass Stereo, 120 Ore Cuffie In Ear Cancellazione Rumore ENC e 4 HD Mics, HiFi Cuffiette LED Display, IP7 Impermeabile C",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "GXTrust Forta Cuffie PS5 Cablate Licenza Ufficiale PlayStation 5, Bianco | Driver 50 mm, Audio 3D, Jack Audio 3.5 mm, Cavo da 1,2 m, Microfono Staccabile",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Sony INZONE H5 - Cuffie gaming wireless, Suono spaziale a 360 gradi per il gaming, Vestibilità comoda, Durata della batteria 28 ore, Bassa latenza, Microfono con AI, Compatibili co",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "PHILIPS TAH4209WH Cuffie On-Ear wireless bluetooth leggere con isolamento acustico passivo - 55 ore di riproduzione, suono naturale, chiamate chiare, bassi dinamici, 2 ore di caric",
         "merchant": "amazon",
         "ean": "",
@@ -1845,41 +1887,6 @@
         "merchant": "unieuro",
         "ean": "1200130004742",
         "mpn": "JBLLIVE670NCWHT",
-        "status": "da_verificare"
-      },
-      {
-        "title": "JBL Live 670NC Auricolare Wireless A Padiglione Musica e Chiamate Bluetooth Blu",
-        "merchant": "unieuro",
-        "ean": "1200130004759",
-        "mpn": "JBLLIVE670NCBLU",
-        "status": "da_verificare"
-      },
-      {
-        "title": "JBL Live 670NC Auricolare Wireless A Padiglione Musica e Chiamate Bluetooth Sabbia",
-        "merchant": "unieuro",
-        "ean": "1200130005060",
-        "mpn": "JBLLIVE670NCSAT",
-        "status": "da_verificare"
-      },
-      {
-        "title": "HyperX Cloud Mini – Gaming Headset (Multicolore)",
-        "merchant": "unieuro",
-        "ean": "0197192348017",
-        "mpn": "7G8F3AA",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Marshall MAJOR IV Cuffie Con cavo e senza cavo A Padiglione MUSICA USB tipo C Bluetooth Nero",
-        "merchant": "unieuro",
-        "ean": "7340055379458",
-        "mpn": "MRS1005773",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Sony Cuffie Bluetooth wireless WH CH520 Durata della batteria fino a 50 ore con ricarica rapida, stile on ear Bianco",
-        "merchant": "unieuro",
-        "ean": "4548736142817",
-        "mpn": "SONWHCH520W.CE7",
         "status": "da_verificare"
       }
     ],
