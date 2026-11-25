@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-25T20:48:31+01:00",
+  "generated_at": "2026-11-25T22:24:29+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -381,27 +381,6 @@
     ],
     "tv-in-offerta": [
       {
-        "title": "Xiaomi TV F Pro 65,65 pollici (165 cm),4K UHD QLED,Smart TV, Fire TV, Triple Tuner DVB-C/S/S2/T/T2, HDR10+, Modalità Game Boost 120Hz, MEMC, Controllo Vocale Alexa, 2GB+32GB, Compa",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "TCL 55V6D – Smart TV 4K HDR10+ da 55\" con Fire TV e Dolby Atmos | DTS:X, Game Master, Motion Clarity, Apple AirPlay 2, Press & Ask Alexa",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "TCL 50Q6C – Smart TV QD‑Mini LED 4K HDR10+ da 50\", Google TV | Dolby Vision IQ & Atmos, 144Hz Motion Clarity Pro, Game Master, Apple AirPlay 2, Voice Control",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "TCL 32V5D – Smart TV QLED Full HD HDR da 32\" con Fire TV | Direct LED, Apple AirPlay 2, Press & Ask Alexa, Metallic Bezel-Less Design",
         "merchant": "amazon",
         "ean": "5901292530341",
@@ -507,6 +486,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "TCL 50Q6C – Smart TV QD‑Mini LED 4K HDR10+ da 50\", Google TV | Dolby Vision IQ & Atmos, 144Hz Motion Clarity Pro, Game Master, Apple AirPlay 2, Voice Control",
+        "merchant": "amazon",
+        "ean": "5901292528751",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Panasonic Smart TV 50 pollici W60C 4K LED, TiVo, Game Mode [2026] | Dolby Vision & HDR10, AI 4K Colour Engine, Dolby Atmos, TiVo Voice Control, Game Mode, AirPlay & Bluetooth",
         "merchant": "amazon",
         "ean": "5025232998951",
@@ -524,6 +510,13 @@
         "title": "Hisense 55E6ST Smart TV 55\" Direct LED Ultra HD 4K HDR 10 - Bordeless | DTS Virtual X, VIDAA OS, Game Mode Plus, AI 4K Upscaler, BT, WiFi, Alexa, AirPlay2, lativù 4K, HDMI 2.1 (eAR",
         "merchant": "amazon",
         "ean": "6942351430492",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "TCL 55V6D – Smart TV 4K HDR10+ da 55\" con Fire TV e Dolby Atmos | DTS:X, Game Master, Motion Clarity, Apple AirPlay 2, Press & Ask Alexa",
+        "merchant": "amazon",
+        "ean": "5901292530297",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -589,27 +582,27 @@
         "ean": "8806097963448",
         "mpn": "",
         "status": "da_verificare"
+      },
+      {
+        "title": "XIAOMI TV F 65 2025, 65 pollici (165 cm),4K UHD,Smart TV, Fire TV,Triple Tuner DVB-C/S/S2/T/T2, HDR10,MEMC, Modalità Game Boost 120Hz, Controllo Vocale Alexa, 2GB+32GB, Compatibile",
+        "merchant": "amazon",
+        "ean": "6941948706705",
+        "mpn": "",
+        "status": "da_verificare"
       }
     ],
     "offerte-tv-55-65-pollici": [
       {
-        "title": "Xiaomi TV F Pro 65,65 pollici (165 cm),4K UHD QLED,Smart TV, Fire TV, Triple Tuner DVB-C/S/S2/T/T2, HDR10+, Modalità Game Boost 120Hz, MEMC, Controllo Vocale Alexa, 2GB+32GB, Compa",
+        "title": "Hisense 55E6ST Smart TV 55\" Direct LED Ultra HD 4K HDR 10 - Bordeless | DTS Virtual X, VIDAA OS, Game Mode Plus, AI 4K Upscaler, BT, WiFi, Alexa, AirPlay2, lativù 4K, HDMI 2.1 (eAR",
         "merchant": "amazon",
-        "ean": "",
+        "ean": "6942351430492",
         "mpn": "",
         "status": "da_verificare"
       },
       {
         "title": "TCL 55V6D – Smart TV 4K HDR10+ da 55\" con Fire TV e Dolby Atmos | DTS:X, Game Master, Motion Clarity, Apple AirPlay 2, Press & Ask Alexa",
         "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Hisense 55E6ST Smart TV 55\" Direct LED Ultra HD 4K HDR 10 - Bordeless | DTS Virtual X, VIDAA OS, Game Mode Plus, AI 4K Upscaler, BT, WiFi, Alexa, AirPlay2, lativù 4K, HDMI 2.1 (eAR",
-        "merchant": "amazon",
-        "ean": "6942351430492",
+        "ean": "5901292530297",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -942,27 +935,6 @@
     ],
     "migliori-tablet": [
       {
-        "title": "TECLAST P50 Tablet 11 Pollici 90Hz Tablets Android 16, T7250 2GHz Octa-Core, 32GB RAM+128GB ROM(TF 6TB), 8000mAh, Dual SIM 4G LTE+5G WiFi, Widevine L1/13MP/GPS/OTG/BT5.2, Gemini AI",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Lenovo Idea Tab Tablet 11\" 2.5K (2560x1600) 90Hz IPS, 6GB RAM, 128GB, WiFi 5, Lenovo Tab Pen Inclusa, MediaTek Dimensity 6300, Android 15, Ideale per Studio, Appunti e Intrattenime",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Tablet 11 pollici Android, 24 GB RAM/256 GB ROM (2TB TF) Octa-Core-Grigio",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Tablet Android da 11 Pollici, Octa-Core, 24GB(4+20) RAM+128GB Memoria, Batteria 8200mAh, Widevine L1, Espandibile fino a 1TB, Doppia Fotocamera, Android Tablet per Studio, Lavoro e",
         "merchant": "",
         "ean": "",
@@ -1019,6 +991,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "Lenovo Idea Tab Tablet 11\" 2.5K (2560x1600) 90Hz IPS, 6GB RAM, 128GB, WiFi 5, Lenovo Tab Pen Inclusa, MediaTek Dimensity 6300, Android 15, Ideale per Studio, Appunti e Intrattenime",
+        "merchant": "amazon",
+        "ean": "0828132047454",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Lenovo Idea Tab Tablet 11\" 2.5K (2560x1600) 90Hz IPS, 8GB RAM, 256GB, WiFi, Lenovo Tab Pen Inclusa, MediaTek Dimensity 6300, Android 15, Ideale per Studio, Appunti e Intratteniment",
         "merchant": "amazon",
         "ean": "0198157772021",
@@ -1029,6 +1008,13 @@
         "title": "Samsung Galaxy Tab A11+, 5G, 6GB RAM, 128GB | Tablet Android, 11.0\" 90Hz Display, Silver [Versione Italiana]",
         "merchant": "amazon",
         "ean": "8806097854715",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "TECLAST P50 Tablet 11 Pollici 90Hz Tablets Android 16, T7250 2GHz Octa-Core, 32GB RAM+128GB ROM(TF 6TB), 8000mAh, Dual SIM 4G LTE+5G WiFi, Widevine L1/13MP/GPS/OTG, Gemini AI Table",
+        "merchant": "amazon",
+        "ean": "6940709681329",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -2353,20 +2339,6 @@
     ],
     "migliori-frigoriferi": [
       {
-        "title": "Midea MERB276FGE02A 270L Frigorifero Combinato, Total No Frost, Altezza 180 cm, All-Around Cooling, Display Digitale, 199L Frigo + 71L Congelatore, Inox",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Hisense RB390N4CCD1 Frigorifero Combinato Total No Frost, Inox, 1.86x60cm, Classe D, 304L",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "BEKO RCSA300K40GN - Frigorifero Combinato Libera Installazione 291 Litri, 4 Ripiani in Vetro, Frigo con Congelatore 3 Cassetti, Elettrodomestici Cucina, Classe E, 54L x 181,4H x 57",
         "merchant": "",
         "ean": "",
@@ -2375,6 +2347,20 @@
       },
       {
         "title": "Bosch KGN36NLEA Serie 2 Frigorifero Total No Frost 186x60cm Silver",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Hisense RB390N4CCD1 Frigorifero Combinato Total No Frost, Inox, 1.86x60cm, Classe D, 304L",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Midea MERB276FGE02A 270L Frigorifero Combinato, Total No Frost, Altezza 180 cm, All-Around Cooling, Display Digitale, 199L Frigo + 71L Congelatore, Inox",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -2693,6 +2679,13 @@
     ],
     "migliori-moda": [
       {
+        "title": "Puma Scarpe da Calcio Unisex Ultra 6 Play FG/AG, Icy Blu, Bianco-Blu, Taglia 40, Icy Blue Puma Bianco Blu Gioiello, 42 EU",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Columbia Watertight II Jacket, Giacca Impermeabile Bambino, Mountain Blue, taglia XXS",
         "merchant": "amazon",
         "ean": "",
@@ -2892,13 +2885,6 @@
         "title": "Confezione da 3 Pezzi - Maglietta con Maniche Corte 100% Cotone 3-TS135, Bianco, XL",
         "merchant": "amazon",
         "ean": "8434152677414",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Confezione da 5 Pezzi - Maglietta a Maniche Corte 100% Cotone - 5-TS135, Nero, L",
-        "merchant": "amazon",
-        "ean": "8434152678114",
         "mpn": "",
         "status": "da_verificare"
       }
@@ -3117,6 +3103,13 @@
     ],
     "lavapavimenti-elettriche": [
       {
+        "title": "Tineco FLOOR ONE S7 Stretch Steam Aspirapolvere a Vapore Senza Fili | HyperSteam a 160°C, Design piatto a 180°, Autopulizia FlashDry, Fino a 80 min di autonomia, Anti-groviglio Dua",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Tineco Floor ONE S7 Stretch Ultra Lavapavimenti aspirapolvere senza fili | aspirazione 21000 Pa, Fino a 50 minuti di autonomia, MHCBS, FlashDry",
         "merchant": "amazon",
         "ean": "6932485005857",
@@ -3127,13 +3120,6 @@
         "title": "Tineco Floor ONE Switch S7 Stretch 5 in 1Aspirapolvere Lavapavimenti | ZeroTangle, Passaggio facile con il motore SwitchPro per la pulizia di tutta la casa, 25.000Pa",
         "merchant": "amazon",
         "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Tineco FLOOR ONE S7 Stretch Steam Aspirapolvere a Vapore Senza Fili | HyperSteam a 160°C, Design piatto a 180°, Autopulizia FlashDry, Fino a 80 min di autonomia, Anti-groviglio Dua",
-        "merchant": "amazon",
-        "ean": "6971745581182",
         "mpn": "",
         "status": "da_verificare"
       },
