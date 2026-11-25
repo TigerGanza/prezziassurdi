@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-25T11:33:31+01:00",
+  "generated_at": "2026-11-25T13:03:12+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -381,13 +381,6 @@
     ],
     "tv-in-offerta": [
       {
-        "title": "Samsung 48\" QE48S92HAEXZT OLED 4K LaserSlim Design Smart TV Vision AI 2026 | NQ4 AI Gen 3 Processor, HDR 10+, Motion Xcelerator 165Hz, Dolby Atmos, Gaming Hub, Ultimate Gaming Pack",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "TCL 32V5D – Smart TV QLED Full HD HDR da 32\" con Fire TV | Direct LED, Apple AirPlay 2, Press & Ask Alexa, Metallic Bezel-Less Design",
         "merchant": "amazon",
         "ean": "5901292530341",
@@ -589,6 +582,13 @@
         "ean": "8806097963448",
         "mpn": "",
         "status": "da_verificare"
+      },
+      {
+        "title": "XIAOMI TV F 65 2025, 65 pollici (165 cm),4K UHD,Smart TV, Fire TV,Triple Tuner DVB-C/S/S2/T/T2, HDR10,MEMC, Modalità Game Boost 120Hz, Controllo Vocale Alexa, 2GB+32GB, Compatibile",
+        "merchant": "amazon",
+        "ean": "6941948706705",
+        "mpn": "",
+        "status": "da_verificare"
       }
     ],
     "offerte-tv-55-65-pollici": [
@@ -685,6 +685,13 @@
       }
     ],
     "migliori-notebook": [
+      {
+        "title": "Acer Nitro V 17 AI | Notebook Gaming | 17.3\" | Ryzen 7 | RTX 5050| 16GB | 17.3\" FHD IPS 144Hz | AMD Ryzen™ 7 260 | NVIDIA RTX 5050 | 16GB RAM | 512GB SSD | | Windows 11 | Tastiera ",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Lenovo IdeaPad Slim 3 Notebook 15\" FHD (1920x1080) AMD Ryzen 3, RAM 8GB, 256GB SSD, Windows 11 Home, WiFi 6, Laptop per Casa, Ufficio, Studio, Uso Quotidiano - Caricatore non inclu",
         "merchant": "amazon",
@@ -1057,27 +1064,6 @@
     "migliori-monitor": [
       {
         "title": "Dell 27 Plus Monitor - S2725HSM, Full HD (1920x1080), 144Hz, IPS, 1ms MPRT | AMD FreeSync, 99% sRGB, Regolabile in Altezza, Altoparlanti integrati, 2 HDMI, 3 Anni di Garanzia, Bian",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Gawfolk Monitor per PC UHD 4K da 28 pollici, schermo IPS (3840×2560p) | 3:2, 1,07 miliardi di colori, 128% sRGB, altoparlanti integrati, DisplayPort, HDMI, nero",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "ASUS PROART DISPLAY PA278QGV, Monitor Professionale da 27\" QHD IPS, Nero | (2560 x 1440), 120Hz, 5ms (GTG) Response Time, 95% DCI-P3, Color Accuracy ΔE < 2, Calman Verified, Suppor",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Samsung Monitor HRM ViewFinity S7 S70H (LS27H704EAUXEN), Flat, 27\", 4K | 16:9, 4K UHD (3840 x 2160), HDR10, Modalità Eye Saver, Angolo di Visione 178°, Samsung Display Manager, HDM",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -1927,13 +1913,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "DREAME Matrix10 Pro Robot Aspirapolvere Lavapavimenti, Aspir. 30.000 Pa | Cambio Multi-mocio, Vano 3 soluz. detergenti,Anti-Groviglio,Supera Ostacoli 4 cm,Rileva 280+ Tipi di Ogget",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Lefant M210 PRO OMNI Robot Aspirapolvere Lavapavimenti con Rullo 20.000Pa",
         "merchant": "",
         "ean": "",
@@ -2146,17 +2125,17 @@
         "status": "da_verificare"
       },
       {
-        "title": "LG CordZero All in One A9T, Aspirapolvere senza filo 260W, Auto svuotamento, 2 spazzole + 2 accessori, Wi Fi, Beige",
-        "merchant": "unieuro",
-        "ean": "8806096154229",
-        "mpn": "A9T-PRIME1C.DCBQ",
-        "status": "da_verificare"
-      },
-      {
         "title": "Rowenta X Force Flex 14.60, Aspirapolvere Senza Fili, Fino a 200 Air Watt, Tecnologia Flex, Kit Animal Care, RH99A9",
         "merchant": "unieuro",
         "ean": "3221616060449",
         "mpn": "RH99A9",
+        "status": "da_verificare"
+      },
+      {
+        "title": "LG CordZero All in One A9T, Aspirapolvere senza filo 260W, Auto svuotamento, 2 spazzole + 2 accessori, Wi Fi, Beige",
+        "merchant": "unieuro",
+        "ean": "8806096154229",
+        "mpn": "A9T-PRIME1C.DCBQ",
         "status": "da_verificare"
       },
       {
@@ -2728,6 +2707,34 @@
     ],
     "migliori-moda": [
       {
+        "title": "tectake® Gazebo Pieghevole 3 x 3 m, Idrorepellente, con Protezione UV 30+ | Piedi Regolabili in Altezza, Pop-up, comprese Corde di Tensionamento, Picchetti e Borsa da Trasporto, Us",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Ladeheid Pantaloni Calzamaglia Lunghi Intimo Termico, Donna per Sport Invernali Sci, Snowboard Corsa all'aperto LA40-261 (Nero, M)",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Ladeheid Pantaloni Calzamaglia Lunghi Intimo Termico, Donna per Sport Invernali Sci, Snowboard Corsa all'aperto LA40-261 (Bianco, S)",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Ladeheid Pantaloni Calzamaglia Lunghi Intimo Termico, Uomo per Sport Invernali Sci, Snowboard Corsa all'aperto LA40-260 (Blu, L)",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Skechers Donna Go Walk Joy scarpe da ginnastica, Taupe Textile/Trim, 37 EU",
         "merchant": "amazon",
         "ean": "",
@@ -2737,90 +2744,6 @@
       {
         "title": "Skechers Go Walk Joy, Scarpe da ginnastica Donna, Navy Textile /White Trim, 38 EU",
         "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Puma Hali Uomo - Sneakers Verde - Taglia 44 - Pelle",
-        "merchant": "footlocker",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Puma Hali Uomo - Sneakers Verde - Taglia 41 - Pelle",
-        "merchant": "footlocker",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Columbia Scarpe da Trekking Basse da Uomo, WOODBURN II WATERPROOF | Waterproof hiking shoe with durable traction; Color: Black, Caramel, Size: 0",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Puma Hali Uomo - Sneakers Verde - Taglia 42.5 - Pelle",
-        "merchant": "footlocker",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Puma Hali Uomo - Sneakers Verde - Taglia 46 - Pelle",
-        "merchant": "footlocker",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Puma Hali Uomo - Sneakers Verde - Taglia 40.5 - Pelle",
-        "merchant": "footlocker",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Puma Hali Uomo - Sneakers Verde - Taglia 43 - Pelle",
-        "merchant": "footlocker",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Puma Hali Uomo - Sneakers Verde - Taglia 44.5 - Pelle",
-        "merchant": "footlocker",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Jordan Luka Uomo - Sneakers Arancione - Taglia 42 - Pelle",
-        "merchant": "footlocker",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Jordan Luka Uomo - Sneakers Arancione - Taglia 42.5 - Pelle",
-        "merchant": "footlocker",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Vans Old Skool Uomo - Sneakers Marrone - Taglia 41 - Cuoio, Tessile",
-        "merchant": "footlocker",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Vans Old Skool Uomo - Sneakers Marrone - Taglia 47 - Cuoio, Tessile",
-        "merchant": "footlocker",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
@@ -2936,86 +2859,65 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
+      },
+      {
+        "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Bianco White Black, 41 EU",
+        "merchant": "amazon",
+        "ean": "4059505055998",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Black Black, 42 EU",
+        "merchant": "amazon",
+        "ean": "4059505056995",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "PUMA Unisex ST Runner v2 NL Sneakers, Puma Black-Puma White, 42 EU",
+        "merchant": "amazon",
+        "ean": "4059505005894",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "PUMA Smash V2, Scarpe da Trail Running Unisex - Adulto, Nero Puma Black Puma White Puma Silver, 43 EU",
+        "merchant": "amazon",
+        "ean": "4057827644135",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Lotto Sneaker Unisex, Nero/Grigio, 41 EU, Nero/Grigio, 41 EU | Scarpe sportive per uomo e donna, extra leggere e comode, disponibili anche in taglie per bambini",
+        "merchant": "amazon",
+        "ean": "4068577006159",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Salomon ALPHACROSS 5 Gore-Tex Impermeabili Scarpe da Trail Running, Uomo",
+        "merchant": "amazon",
+        "ean": "0195751411905",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Uomo Leggero Scarpe Sportive Scarpe da Ginnastica Trail Running Scarpe Ginnastica Passeggio Sneakers MU9557-8 (Marrone,43)",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Scarpe Sportive Uomo Scarpe Running Corsa Jogging Ginnastica Trail Sneakers | Hitmars Scarpe Running Uomo Donna, Fitness, Camminata, Outdoor, Antiscivolo, Sneakers Sportive, Trekki",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
       }
     ],
     "migliori-sneakers": [
-      {
-        "title": "Puma Hali Uomo - Sneakers Verde - Taglia 44 - Pelle",
-        "merchant": "footlocker",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Puma Hali Uomo - Sneakers Verde - Taglia 41 - Pelle",
-        "merchant": "footlocker",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Puma Hali Uomo - Sneakers Verde - Taglia 42.5 - Pelle",
-        "merchant": "footlocker",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Puma Hali Uomo - Sneakers Verde - Taglia 46 - Pelle",
-        "merchant": "footlocker",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Puma Hali Uomo - Sneakers Verde - Taglia 40.5 - Pelle",
-        "merchant": "footlocker",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Puma Hali Uomo - Sneakers Verde - Taglia 43 - Pelle",
-        "merchant": "footlocker",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Puma Hali Uomo - Sneakers Verde - Taglia 44.5 - Pelle",
-        "merchant": "footlocker",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Jordan Luka Uomo - Sneakers Arancione - Taglia 42 - Pelle",
-        "merchant": "footlocker",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Jordan Luka Uomo - Sneakers Arancione - Taglia 42.5 - Pelle",
-        "merchant": "footlocker",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Vans Old Skool Uomo - Sneakers Marrone - Taglia 41 - Cuoio, Tessile",
-        "merchant": "footlocker",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Vans Old Skool Uomo - Sneakers Marrone - Taglia 47 - Cuoio, Tessile",
-        "merchant": "footlocker",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
@@ -3146,6 +3048,83 @@
         "title": "Hitmars Scarpe Running Uomo Ginnastica Donna Scarpe da Corsa Trekking Sneakers Trail Sportive Fitness Correre Running Shoes Camminare Negro EU 41",
         "merchant": "amazon",
         "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Puma MB.01 Uomo Sneakers Bianco Taglia 40.5 Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "4070032492896",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Puma MB.01 Uomo Sneakers Bianco Taglia 41 Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "4070032492964",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Puma MB.01 Uomo Sneakers Bianco Taglia 42 Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "4070032492902",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Puma MB.01 Uomo Sneakers Bianco Taglia 42.5 Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "4070032492971",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Puma MB.01 Uomo Sneakers Bianco Taglia 43 Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "4070032492919",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Puma MB.01 Uomo Sneakers Bianco Taglia 44 Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "4070032492766",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Puma MB.01 Uomo Sneakers Bianco Taglia 44.5 Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "4070032492988",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Puma MB.01 Uomo Sneakers Bianco Taglia 46 Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "4070032492773",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Puma MB.01 Uomo Sneakers Bianco Taglia 47 Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "4070032492780",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Puma MB.01 Uomo Sneakers Viola Taglia 40.5 Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "4070032492223",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Puma MB.01 Uomo Sneakers Viola Taglia 41 Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "4070032492292",
         "mpn": "",
         "status": "da_verificare"
       }
