@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-26T11:20:01+01:00",
+  "generated_at": "2026-11-26T12:55:00+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -1247,6 +1247,13 @@
     ],
     "migliori-smartwatch": [
       {
+        "title": "XIAOMI Redmi Watch 6, Smartwatch Uomo Donna, Batteria 24 Giorno, Nero | Schermo 2,07'', Monitor Cardiaco/Sonno/Stress, 150+ modalità Sport, Tracker GPS, 5ATM, Compatibile Android e",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "2026 Smartwatch Uomo GPS,2.06\" HD AMOLED Orologio Smartwatch con Chiamate",
         "merchant": "",
         "ean": "",
@@ -1269,13 +1276,6 @@
       },
       {
         "title": "XIAOMI Redmi Watch 6, Smartwatch Uomo Donna, Batteria 24 Giorno, Blu",
-        "merchant": "",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "XIAOMI Redmi Watch 6, Smartwatch Uomo Donna, Batteria 24 Giorno, Nero",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -1862,17 +1862,17 @@
         "status": "da_verificare"
       },
       {
-        "title": "Cellularline SEEK",
-        "merchant": "unieuro",
-        "ean": "8018080424007",
-        "mpn": "BTSEEKTWSW",
-        "status": "da_verificare"
-      },
-      {
         "title": "Beats by Dr. Dre Beats Studio Buds + Auricolare True Wireless Stereo (TWS) In ear Musica e Chiamate Bluetooth Nero, Oro",
         "merchant": "unieuro",
         "ean": "0194253563662",
         "mpn": "MNSMQLH3ZM/A",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Cellularline SEEK",
+        "merchant": "unieuro",
+        "ean": "8018080424007",
+        "mpn": "BTSEEKTWSW",
         "status": "da_verificare"
       },
       {
@@ -1928,20 +1928,6 @@
       },
       {
         "title": "Lefant M210 Omni Robot Aspirapolvere Lavapavimenti Rullo 20.000Pa | Anti Groviglio, Aspirapolvere Robot con Lavaggio ad Acqua Pulita,Mappatura ToF, Contenitore 800ml, 85mm, 2.4G Wi",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "DREAME D20 Air Plus Robot Aspirapolvere, Aspirazione 20.000 Pa | Stazione Auto-Svuot. 120 gg, Tecnologia Anti-Groviglio, Pulizia Bordo-Angolo, Pulizia Profonda Tappeti e Navigaz. S",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "iRobot Roomba® 115 Combo robot aspirapolvere lavapavimenti, nero | Compatto, aspirazione e lavaggio 2 in 1, mappatura ClearView™ LiDAR, SmartScrub™, controllo app e vocale, 15.000 ",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -2021,6 +2007,13 @@
         "title": "dreame L10s Ultra Gen 3 Kit Robot Aspirapolvere e Lavapavimenti,Aspirazione da 25.000 Pa,Spazzola Laterale e Moci Estensibili,Stazione di Pulizia Automatica All-in-One,Controllo Vo",
         "merchant": "amazon",
         "ean": "6979932404160",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "iRobot Roomba® 115 Combo robot aspirapolvere lavapavimenti, nero | Compatto, aspirazione e lavaggio 2 in 1, mappatura ClearView™ LiDAR, SmartScrub™, controllo app e vocale, 15.000 ",
+        "merchant": "amazon",
+        "ean": "5061083614718",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -2164,13 +2157,6 @@
         "merchant": "unieuro",
         "ean": "3838782695018",
         "mpn": "HVC676451DA",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Rowenta X Force Flex 14.60, Aspirapolvere Senza Fili, Fino a 200 Air Watt, Tecnologia Flex, Kit Animal Care, RH99A9",
-        "merchant": "unieuro",
-        "ean": "3221616060449",
-        "mpn": "RH99A9",
         "status": "da_verificare"
       },
       {
@@ -2330,6 +2316,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "Sharp ES WNFL214CWDA lavatrice Caricamento frontale 12 kg 1400 Giri/min Bianco",
+        "merchant": "unieuro",
+        "ean": "4550556185004",
+        "mpn": "ESWNFL214CWDA",
+        "status": "da_verificare"
+      },
+      {
         "title": "Samsung WW90DG6G94LKU3 lavatrice Caricamento frontale 9 kg 1400 Giri/min Bianco",
         "merchant": "unieuro",
         "ean": "8806097053361",
@@ -2337,10 +2330,10 @@
         "status": "da_verificare"
       },
       {
-        "title": "Sharp ES WNFL214CWDA lavatrice Caricamento frontale 12 kg 1400 Giri/min Bianco",
+        "title": "Sharp ES NFA014BWNA lavatrice Caricamento frontale 10 kg 1400 Giri/min Bianco",
         "merchant": "unieuro",
-        "ean": "4550556185004",
-        "mpn": "ESWNFL214CWDA",
+        "ean": "4550556184946",
+        "mpn": "ESNFA014BWNA",
         "status": "da_verificare"
       },
       {
@@ -2369,13 +2362,6 @@
         "merchant": "unieuro",
         "ean": "8806096014011",
         "mpn": "WT1210EGF.ABGQPIS",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Sharp ES NFA014BWNA lavatrice Caricamento frontale 10 kg 1400 Giri/min Bianco",
-        "merchant": "unieuro",
-        "ean": "4550556184946",
-        "mpn": "ESNFA014BWNA",
         "status": "da_verificare"
       },
       {
@@ -2738,13 +2724,6 @@
         "ean": "8004032116564",
         "mpn": "72808530I",
         "status": "da_verificare"
-      },
-      {
-        "title": "RGV Fry Type 6 Air Window Singolo 6 L Indipendente 1700 W Friggitrice ad aria calda Nero",
-        "merchant": "unieuro",
-        "ean": "8008336477116",
-        "mpn": "111360",
-        "status": "da_verificare"
       }
     ],
     "migliori-moda": [
@@ -2764,55 +2743,6 @@
       },
       {
         "title": "New Balance P400 Uomo - Sneakers Bianco - Taglia 47 - Rete/Sintetico",
-        "merchant": "footlocker",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "New Balance P400 Uomo - Sneakers Bianco - Taglia 46.5 - Rete/Sintetico",
-        "merchant": "footlocker",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "New Balance P400 Uomo - Sneakers Bianco - Taglia 40 - Rete/Sintetico",
-        "merchant": "footlocker",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Puma MB.05 Uomo - Sneakers Rosa - Taglia 42.5 - Rete/Sintetico",
-        "merchant": "footlocker",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Puma MB.05 Uomo - Sneakers Rosa - Taglia 46 - Rete/Sintetico",
-        "merchant": "footlocker",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Puma MB.05 Uomo - Sneakers Rosa - Taglia 43 - Rete/Sintetico",
-        "merchant": "footlocker",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Puma MB.05 Uomo - Sneakers Rosa - Taglia 44 - Rete/Sintetico",
-        "merchant": "footlocker",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Forcefield Crease Preventer Elite Unisex - Cura delle Sneakers Nero - Taglia 35 - 38 - Gomma",
         "merchant": "footlocker",
         "ean": "",
         "mpn": "",
@@ -2957,53 +2887,60 @@
         "ean": "4059505005894",
         "mpn": "",
         "status": "da_verificare"
+      },
+      {
+        "title": "Salomon ALPHACROSS 5 Gore-Tex Impermeabili Scarpe da Trail Running, Uomo",
+        "merchant": "amazon",
+        "ean": "0195751411905",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Uomo Leggero Scarpe Sportive Scarpe da Ginnastica Trail Running Scarpe Ginnastica Passeggio Sneakers MU9557-8 (Marrone,43)",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Scarpe Sportive Uomo Scarpe Running Corsa Jogging Ginnastica Trail Sneakers | Hitmars Scarpe Running Uomo Donna, Fitness, Camminata, Outdoor, Antiscivolo, Sneakers Sportive, Trekki",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Hitmars Scarpe Running Uomo Ginnastica Donna Scarpe da Corsa Trekking Sneakers Trail Sportive Fitness Correre Running Shoes Camminare Verde EU 41",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Marvel Logo Avengers Pop Art Maglietta",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Magliette Manica Corta Divertenti Ansia A Livello Agonistico Maglietta",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Confezione da 5 Pezzi - Maglietta a Maniche Corte 100% Cotone - 5-TS135, Nero, L",
+        "merchant": "amazon",
+        "ean": "8434152678114",
+        "mpn": "",
+        "status": "da_verificare"
       }
     ],
     "migliori-sneakers": [
       {
         "title": "New Balance P400 Uomo - Sneakers Bianco - Taglia 47 - Rete/Sintetico",
-        "merchant": "footlocker",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "New Balance P400 Uomo - Sneakers Bianco - Taglia 46.5 - Rete/Sintetico",
-        "merchant": "footlocker",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "New Balance P400 Uomo - Sneakers Bianco - Taglia 40 - Rete/Sintetico",
-        "merchant": "footlocker",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Puma MB.05 Uomo - Sneakers Rosa - Taglia 42.5 - Rete/Sintetico",
-        "merchant": "footlocker",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Puma MB.05 Uomo - Sneakers Rosa - Taglia 46 - Rete/Sintetico",
-        "merchant": "footlocker",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Puma MB.05 Uomo - Sneakers Rosa - Taglia 43 - Rete/Sintetico",
-        "merchant": "footlocker",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Puma MB.05 Uomo - Sneakers Rosa - Taglia 44 - Rete/Sintetico",
         "merchant": "footlocker",
         "ean": "",
         "mpn": "",
@@ -3167,6 +3104,48 @@
         "title": "Puma MB.01 Uomo Sneakers Bianco Taglia 42.5 Rete/Sintetico",
         "merchant": "footlocker",
         "ean": "4070032492971",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Puma MB.01 Uomo Sneakers Bianco Taglia 43 Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "4070032492919",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Puma MB.01 Uomo Sneakers Bianco Taglia 44 Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "4070032492766",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Puma MB.01 Uomo Sneakers Bianco Taglia 44.5 Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "4070032492988",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Puma MB.01 Uomo Sneakers Bianco Taglia 46 Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "4070032492773",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Puma MB.01 Uomo Sneakers Bianco Taglia 47 Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "4070032492780",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Puma MB.01 Uomo Sneakers Viola Taglia 40.5 Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "4070032492223",
         "mpn": "",
         "status": "da_verificare"
       }
