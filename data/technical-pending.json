@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-26T22:04:55+01:00",
+  "generated_at": "2026-11-26T23:08:02+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -1701,13 +1701,6 @@
     ],
     "cuffie-bluetooth-in-offerta": [
       {
-        "title": "Soundcore P31i di Anker Cuffie Bluetooth con Cancellazione Adattiva Rumore | Audio Hi-Res, Auricolari con Funzione di Traduzione, 50 ore di Autonomia, Cancellazione Adattiva, IPX5,",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "JBL Live 770 NC Cuffie Over-Ear Wireless, Nero | Bluetooth, Cancellazione del Rumore, SmartAmbient, Personi-Fi 2.0, JBL Surround, Connessione Multipoint, Ore di Autonomia",
         "merchant": "amazon",
         "ean": "1200130004582",
@@ -1909,16 +1902,16 @@
         "ean": "4548736142817",
         "mpn": "SONWHCH520W.CE7",
         "status": "da_verificare"
+      },
+      {
+        "title": "Sony Cuffie Bluetooth wireless WH CH520 Durata della batteria fino a 50 ore con ricarica rapida, stile on ear Blu",
+        "merchant": "unieuro",
+        "ean": "4548736142862",
+        "mpn": "SONWHCH520L.CE7",
+        "status": "da_verificare"
       }
     ],
     "migliori-robot-aspirapolvere": [
-      {
-        "title": "roborock Q10 S5+ Set Robot Aspirapolvere 10.000Pa, Panno Sollevabile, Nero | Panno Sollevabile, Pulizia VibraRise 2.0, Anti-groviglio, Evitamento degli Ostacoli, APP, Strategie dei",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Lefant M210 PRO OMNI Robot Aspirapolvere Lavapavimenti con Rullo 20.000Pa",
         "merchant": "",
@@ -2409,20 +2402,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Hisense RQ5P470SMIE, Frigorifero Americano Quattro Porte, Total No Frost, WiFi, Metal Tech Cooling, Zona Convertibile, Display LED, Dispenser Acqua, Motore Inverter, Classe E, Inox",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Hisense RQ758N4SWSE Frigorifero Quattro Porte Americano, Grande capacità 606 litri, Finitura Inox, Total No Frost, Classe E, Motore Inverter, Metal Cooling, Convert Zone, WiFi",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "BEKO RCSA300K40GN - Frigorifero Combinato Libera Installazione 291 Litri, 4 Ripiani in Vetro, Frigo con Congelatore 3 Cassetti, Elettrodomestici Cucina, Classe E, 54L x 181,4H x 57",
         "merchant": "",
         "ean": "",
@@ -2521,6 +2500,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "Hisense RQ758N4SWSE Frigorifero Quattro Porte Americano, Grande capacità 606 litri, Finitura Inox, Total No Frost, Classe E, Motore Inverter, Metal Cooling, Convert Zone, WiFi",
+        "merchant": "amazon",
+        "ean": "6921727070586",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "LG InstaView GSXV91MCAE Side by Side Door in DoorTM 635lt Classe energetica E",
         "merchant": "unieuro",
         "ean": "8806091270320",
@@ -2609,6 +2595,13 @@
         "merchant": "unieuro",
         "ean": "8806094914245",
         "mpn": "RT38CG6624S9ES",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Samsung Frigorifero Combinato EcoFlex AI 2m 390L RB38C774DSA",
+        "merchant": "unieuro",
+        "ean": "8806094990324",
+        "mpn": "RB38C774DSA/EF",
         "status": "da_verificare"
       }
     ],
@@ -2735,6 +2728,13 @@
     ],
     "migliori-moda": [
       {
+        "title": "KIDUKU® 3 in 1 Passeggino Completo Trio | Passeggino Sistema Combinato con Navicella Ovetto Seggiolino Auto Coprigambe | Pneumatici in Gomma Dura Borsa Fasciatoio Tavolo per Bambin",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Bracciale Swarovski Una Angelic, taglio rotondo, bianco, rodiato | Medio",
         "merchant": "amazon",
         "ean": "",
@@ -2743,13 +2743,6 @@
       },
       {
         "title": "Bosch Professional 18V System Combo kit a batteria: GSB 18V-45 + GBH 18V-22 + GWS 18V-8 (incl. 3 batterie GBA 4.0Ah, GAL 18V-40, borsa degli attrezzi) - Amazon Exclusive",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Puma Unisex Youth Flyer Runner Jr Sneakers, Puma Black-Puma White, 36 EU",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
