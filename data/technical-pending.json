@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-26T09:55:01+01:00",
+  "generated_at": "2026-11-26T11:20:01+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -692,6 +692,13 @@
       }
     ],
     "migliori-notebook": [
+      {
+        "title": "BMAX PC Portatile 15,6 Pollici Celeron N4100 4 Cores Win11 Pro Notebook | 8GB RAM 256GB SSD Computer Portatile 1080P, USB-C multifunzione WiFi 5, BT5.0 mini HDMI Laptop con Film pe",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "ASUS Vivobook 16 F1605VA#B0FZL8JLW9, Notebook con display 16\" Anti-glare, 60Hz,Intel® Core™ 9 Processor 270H,RAM 16GB, 1TB SSD, WIN11 Home, Argento",
         "merchant": "",
@@ -1694,21 +1701,21 @@
     ],
     "cuffie-bluetooth-in-offerta": [
       {
-        "title": "2026 Cuffie Bluetooth 5.4, Auricolari Bluetooth Stereo HiFi Con 4 ENC Microfoni Anti-Rumore, Durata 50 Ore Cuffiette In Ear, Cuffiette Touch Control, Impermeabili IP7 Cuffie Senza ",
+        "title": "Beats Powerbeats Pro 2 Auricolari - Sabbie mobili | Cancellazione attiva del rumore, resistenti a sudore e acqua IPX4, archetti stabili, compatibili con Apple e Android",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "2026 Cuffie Bluetooth 6.1 Sport, Auricolari Bluetooth con 4D Bass Stereo, 120 Ore Cuffie In Ear Cancellazione Rumore ENC e 2 HD Mics, HiFi Cuffiette LED Display, IP7 Impermeabile C",
+        "title": "Beats Solo 4 Cuffie on-ear, 50 ore di autonomia - Blu ardesia | Suono ricco con bassi potenti, audio spaziale, ricarica rapida Fast Fuel via USB-C, compatibili con Apple e Android",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
       },
       {
-        "title": "2026 Cuffie Bluetooth 6.1 Sport, Auricolari Bluetooth con 6D Bass Stereo, 120 Ore Cuffie In Ear Cancellazione Rumore ENC e 4 HD Mics, HiFi Cuffiette LED Display, IP7 Impermeabile C",
+        "title": "Beats Powerbeats Fit Auricolari wireless - Jet black | Cancellazione attiva del rumore, fino a 30 ore di autonomia con custodia di ricarica, compatibili con Apple e Android",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -1941,13 +1948,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "iRobot Roomba 405 Combo Plus Nero",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Lefant M210 PRO OMNI Robot Aspirapolvere Lavapavimenti con Rullo 20.000Pa",
         "merchant": "",
         "ean": "",
@@ -2067,6 +2067,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "iRobot Roomba 405 Combo Plus Nero",
+        "merchant": "unieuro",
+        "ean": "5061042262929",
+        "mpn": "817206",
+        "status": "da_verificare"
+      },
+      {
         "title": "Roborock Qrevo Edge 5V1 Robot Aspirapolvere e Lavapavimenti, 18.500 Pa, Anti groviglio, Spazzola Principale DuoDivide, Spazzola Laterale FlexiArm, Lavagg",
         "merchant": "unieuro",
         "ean": "6936905900616",
@@ -2110,13 +2117,6 @@
       }
     ],
     "aspirapolvere-senza-fili-in-offerta": [
-      {
-        "title": "Rowenta X-Force Flex 14.60, Aspirapolvere Senza Fili, Fino a 200 Air Watt, Tecnologia Flex, Kit Animal Care, RH99A9",
-        "merchant": "unieuro",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Aspirapolvere Senza Fili Scopa Elettrica - Potente Filo Batteria Cordless Vacuum Cleaner Scope Elettriche Sacco Portatile Ciclonico Silenzioso per Divano Tappeti Parquet Pavimenti ",
         "merchant": "amazon",
@@ -2164,6 +2164,13 @@
         "merchant": "unieuro",
         "ean": "3838782695018",
         "mpn": "HVC676451DA",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Rowenta X Force Flex 14.60, Aspirapolvere Senza Fili, Fino a 200 Air Watt, Tecnologia Flex, Kit Animal Care, RH99A9",
+        "merchant": "unieuro",
+        "ean": "3221616060449",
+        "mpn": "RH99A9",
         "status": "da_verificare"
       },
       {
@@ -2742,6 +2749,20 @@
     ],
     "migliori-moda": [
       {
+        "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Bianco, 40 EU",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Black Black, 42 EU",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "New Balance P400 Uomo - Sneakers Bianco - Taglia 47 - Rete/Sintetico",
         "merchant": "footlocker",
         "ean": "",
@@ -2792,41 +2813,6 @@
       },
       {
         "title": "Forcefield Crease Preventer Elite Unisex - Cura delle Sneakers Nero - Taglia 35 - 38 - Gomma",
-        "merchant": "footlocker",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Forcefield Crease Preventer Elite Unisex - Cura delle Sneakers Nero - Taglia 43 - 46 - Gomma",
-        "merchant": "footlocker",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Forcefield Crease Preventer Elite Unisex - Cura delle Sneakers Nero - Taglia 39 - 42 - Gomma",
-        "merchant": "footlocker",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Puma Hali Uomo - Sneakers Verde - Taglia 42 - Pelle",
-        "merchant": "footlocker",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Puma Hali Uomo - Sneakers Verde - Taglia 47 - Pelle",
-        "merchant": "footlocker",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "New Balance P400 Uomo - Sneakers Nero - Taglia 44.5 - Rete/Sintetico",
         "merchant": "footlocker",
         "ean": "",
         "mpn": "",
@@ -2950,6 +2936,27 @@
         "ean": "4059505055998",
         "mpn": "",
         "status": "da_verificare"
+      },
+      {
+        "title": "PUMA Sneakers ST Runner v2 Full L Unisex, White-Gray Violet, 44.5 EU",
+        "merchant": "amazon",
+        "ean": "4060979877894",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "PUMA Sneakers Shuffle Unisex, White-White-Team Gold, 40 EU",
+        "merchant": "amazon",
+        "ean": "4063697815605",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "PUMA Unisex ST Runner v2 NL Sneakers, Puma Black-Puma White, 42 EU",
+        "merchant": "amazon",
+        "ean": "4059505005894",
+        "mpn": "",
+        "status": "da_verificare"
       }
     ],
     "migliori-sneakers": [
@@ -2997,27 +3004,6 @@
       },
       {
         "title": "Puma MB.05 Uomo - Sneakers Rosa - Taglia 44 - Rete/Sintetico",
-        "merchant": "footlocker",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Puma Hali Uomo - Sneakers Verde - Taglia 42 - Pelle",
-        "merchant": "footlocker",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Puma Hali Uomo - Sneakers Verde - Taglia 47 - Pelle",
-        "merchant": "footlocker",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "New Balance P400 Uomo - Sneakers Nero - Taglia 44.5 - Rete/Sintetico",
         "merchant": "footlocker",
         "ean": "",
         "mpn": "",
@@ -3160,6 +3146,27 @@
         "title": "Puma MB.01 Uomo Sneakers Bianco Taglia 40.5 Rete/Sintetico",
         "merchant": "footlocker",
         "ean": "4070032492896",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Puma MB.01 Uomo Sneakers Bianco Taglia 41 Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "4070032492964",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Puma MB.01 Uomo Sneakers Bianco Taglia 42 Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "4070032492902",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Puma MB.01 Uomo Sneakers Bianco Taglia 42.5 Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "4070032492971",
         "mpn": "",
         "status": "da_verificare"
       }
