@@ -1,5 +1,39 @@
 [
   {
+    "asin": "B0BF11BWNJ",
+    "title": "Ciaspole TSL 325 Elevation, 50 kg / 120 kg",
+    "price": 125.25,
+    "old_price": 169.36,
+    "discount": 26.0,
+    "image": "https://m.media-amazon.com/images/I/414mRtXGm2L._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B0BF11BWNJ?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "articoli_neve",
+    "macro_group": "fai_da_te_outdoor",
+    "seasonal_title": "",
+    "published_at": "2026-11-26T17:04:25.383461+01:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
+    "asin": "B085LDHKY4",
+    "title": "Smartbox - Cofanetto regalo Degustazione di vini in Veneto per due - Idea regalo originale - 1 degustazione a base di vino e prodotti tipici in rinomate cantine venete per 2 persone",
+    "price": 29.9,
+    "old_price": 39.9,
+    "discount": 25.0,
+    "image": "https://m.media-amazon.com/images/I/51A-EFcVzAL._SL500_.jpg",
+    "url": "https://www.amazon.it/dp/B085LDHKY4?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
+    "category": "birre",
+    "macro_group": "spesa_bevande",
+    "seasonal_title": "",
+    "published_at": "2026-11-26T17:04:06.582202+01:00",
+    "source_merchant": "amazon",
+    "source_external_id": "",
+    "quality_status": "ready",
+    "quality_issues": []
+  },
+  {
     "asin": "B0F4R71KS1",
     "title": "Fodsports FX-S Interfono Moto Coppia, Auricolare Casco Bluetooth 5.4 per 2 Piloti, Sistema di Comunicazione 1000m, Tripla Riduzione Rumore, Stereo HiFi, Vivavoce Musica e Chiamate, Impermeabile",
     "price": 89.16,
@@ -1794,67 +1828,5 @@
     "source_external_id": "",
     "quality_status": "ready",
     "quality_issues": []
-  },
-  {
-    "asin": "B08BS26QQ1",
-    "title": "Klark Teknik Mic Booster 1",
-    "price": 16.9,
-    "old_price": 25.9,
-    "discount": 35.0,
-    "image": "https://m.media-amazon.com/images/I/31bSmCyLQ7L._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B08BS26QQ1?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "audio_studio",
-    "macro_group": "tech",
-    "seasonal_title": "",
-    "published_at": "2026-11-26T11:29:26.630100+01:00",
-    "source_merchant": "amazon",
-    "source_external_id": "",
-    "quality_status": "ready",
-    "quality_issues": []
-  },
-  {
-    "asin": "B0GWQLTT1P",
-    "title": "Lagostina Ingenio Inox, Set di Padelle, Antiaderente, 3 Pezzi | In Acciaio Inox, Con Manico Removibile, Padelle Ø 24 e 28 cm, Salvaspazio, Per Induzione e Altre Fonti di Calore",
-    "price": 49.99,
-    "old_price": 89.9,
-    "discount": 44.0,
-    "image": "https://m.media-amazon.com/images/I/31L6qw7IakL._SL500_.jpg",
-    "url": "https://www.amazon.it/dp/B0GWQLTT1P?tag=prezziassur00-21&linkCode=osi&th=1&psc=1",
-    "category": "padel",
-    "macro_group": "tempo_libero",
-    "seasonal_title": "",
-    "published_at": "2026-11-26T11:25:42.784296+01:00",
-    "source_merchant": "amazon",
-    "source_external_id": "",
-    "quality_status": "ready",
-    "quality_issues": [],
-    "merchant_offers": [
-      {
-        "merchant": "unieuro",
-        "merchant_name": "Unieuro",
-        "merchant_id": "10139",
-        "product_id": "LAG012131600110",
-        "awin_product_id": "29392089139",
-        "title": "Lagostina Ingenio Inox, Set padelle, Acciaio, Manico rimovibile, Induzione e gas, 7 pz.",
-        "brand": "Lagostina",
-        "ean": "8002531994607",
-        "mpn": "012131600110",
-        "price": 99.99,
-        "old_price": 199.99,
-        "discount": 50.0,
-        "image": "https://www.unieuro.it/medias/sys_master/root/hc6/hbc/50430147657758/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-c9a200fe2eb027509824f14fcd27464b-preview-sgmConversionBaseFormat-sgmEbayProductFormat.jpg",
-        "url": "https://www.awin1.com/pclick.php?p=29392089139&a=3086723&m=10139",
-        "category": "Batterie di pentole",
-        "category_path": "",
-        "availability": "in_stock",
-        "last_updated": "",
-        "attributes": {
-          "material": "steel"
-        }
-      }
-    ],
-    "merchant_match_score": 94,
-    "merchant_ean": "8002531994607",
-    "merchant_prices_checked_at": "2026-11-26T10:22:11.520553+01:00"
   }
 ]
