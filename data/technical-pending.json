@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-26T01:33:29+01:00",
+  "generated_at": "2026-11-26T03:03:31+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -2015,6 +2015,20 @@
         "merchant": "unieuro",
         "ean": "5061042263186",
         "mpn": "817170",
+        "status": "da_verificare"
+      },
+      {
+        "title": "iRobot Roomba 405 Combo Plus Nero",
+        "merchant": "unieuro",
+        "ean": "5061042262929",
+        "mpn": "817206",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Roborock Qrevo Edge 5V1 Robot Aspirapolvere e Lavapavimenti, 18.500 Pa, Anti groviglio, Spazzola Principale DuoDivide, Spazzola Laterale FlexiArm, Lavagg",
+        "merchant": "unieuro",
+        "ean": "6936905900616",
+        "mpn": "CN41846",
         "status": "da_verificare"
       },
       {
