@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-26T14:51:13+01:00",
+  "generated_at": "2026-11-26T16:20:42+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -700,7 +700,7 @@
     ],
     "migliori-notebook": [
       {
-        "title": "BMAX PC Portatile 15,6 Pollici Celeron N4100 4 Cores Win11 Pro Notebook | 8GB RAM 256GB SSD Computer Portatile 1080P, USB-C multifunzione WiFi 5, BT5.0 mini HDMI Laptop con Film pe",
+        "title": "Vowmoon PC Portatile 15,6 Pollici,FHD 1920×1080,Computer Portatile Processore Celeron N4000, Notebook 8GB RAM 128GB SSD, Win 11, Apertura Schermo 180°, WiFi 5, Bluetooth 4.2, Porte",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -806,6 +806,13 @@
       }
     ],
     "migliori-pc-desktop": [
+      {
+        "title": "Alienware Area-51 Gaming Desktop - Intel Core Ultra 9 285K, RTX 5090 | 64GB DDR5 RAM, 4TB SSD, Wi‑Fi 7, Bluetooth 5.4, Windows 11 Home, 2 anno di assistenza onsite",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Betashop PC Fisso Completo - Computer Desktop i7-4790 • RAM 32GB • SSD 1TB (512 SSD + 512HDD) • Grafica Integrata HD 430 • Wi-Fi • Masterizzatore DVD • HDMI • USB 3.0 • Windows 11 ",
         "merchant": "",
@@ -1069,6 +1076,13 @@
       }
     ],
     "migliori-monitor": [
+      {
+        "title": "【10\" Monitor+PTZ】Hiseeu Kit Videosorveglianza WiFi Solare Esterno | 10CH NVR 4X4MP Telecamera WiFi Esterno Solare, Visione Notturna a Colori, Rilevamento PIR Suono Allarme Remoto",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Amazon Basics Monitor da gaming, 24\", FHD 1080p, 165 Hz, compatibile con VESA, sincronizzazione adattiva, risposta in 1 ms, Nero",
         "merchant": "amazon",
@@ -1722,27 +1736,6 @@
     ],
     "cuffie-bluetooth-in-offerta": [
       {
-        "title": "Beats Powerbeats Pro 2 Auricolari - Sabbie mobili | Cancellazione attiva del rumore, resistenti a sudore e acqua IPX4, archetti stabili, compatibili con Apple e Android",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Beats Solo 4 Cuffie on-ear, 50 ore di autonomia - Blu ardesia | Suono ricco con bassi potenti, audio spaziale, ricarica rapida Fast Fuel via USB-C, compatibili con Apple e Android",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Beats Powerbeats Fit Auricolari wireless - Jet black | Cancellazione attiva del rumore, fino a 30 ore di autonomia con custodia di ricarica, compatibili con Apple e Android",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "JBL Live 770 NC Cuffie Over-Ear Wireless, Nero | Bluetooth, Cancellazione del Rumore, SmartAmbient, Personi-Fi 2.0, JBL Surround, Connessione Multipoint, Ore di Autonomia",
         "merchant": "amazon",
         "ean": "1200130004582",
@@ -1930,30 +1923,30 @@
         "ean": "0197192348017",
         "mpn": "7G8F3AA",
         "status": "da_verificare"
+      },
+      {
+        "title": "Marshall MAJOR IV Cuffie Con cavo e senza cavo A Padiglione MUSICA USB tipo C Bluetooth Nero",
+        "merchant": "unieuro",
+        "ean": "7340055379458",
+        "mpn": "MRS1005773",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Sony Cuffie Bluetooth wireless WH CH520 Durata della batteria fino a 50 ore con ricarica rapida, stile on ear Bianco",
+        "merchant": "unieuro",
+        "ean": "4548736142817",
+        "mpn": "SONWHCH520W.CE7",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Sony Cuffie Bluetooth wireless WH CH520 Durata della batteria fino a 50 ore con ricarica rapida, stile on ear Blu",
+        "merchant": "unieuro",
+        "ean": "4548736142862",
+        "mpn": "SONWHCH520L.CE7",
+        "status": "da_verificare"
       }
     ],
     "migliori-robot-aspirapolvere": [
-      {
-        "title": "ECOVACS T90 MAX OMNI Robot Aspirapolvere Lavapavimenti 30000Pa OZMO ROLLER | ZeroTangle Gen 4.0 TruEdge 3.0, Lavaggio con Acqua Calda e Asciuga Aria Calda, Stazione OMNI Auto Svuot",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "ECOVACS T90 MAX PRO OMNI Robot Aspirapolvere Lavapavimenti 40.000 Pa | OZMO ROLLER 3.0, Lavaggio auto., ZeroTangle 4.0 con TruEdge, Lavaggio con Acqua Calda 100 °C, Stazione OMNI U",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Lefant M210 Omni Robot Aspirapolvere Lavapavimenti Rullo 20.000Pa | Anti Groviglio, Aspirapolvere Robot con Lavaggio ad Acqua Pulita,Mappatura ToF, Contenitore 800ml, 85mm, 2.4G Wi",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Lefant M210 PRO OMNI Robot Aspirapolvere Lavapavimenti con Rullo 20.000Pa",
         "merchant": "",
@@ -2042,6 +2035,13 @@
         "title": "roborock Q7 L5+ Set Robot Aspirapolvere con Stazione Svuotamento Automatico | 8.000 Pa, Quantità d'acqua Regolabile per il Lavaggio, Doppio Anti-groviglio, Auto Boost sui Tappeti, ",
         "merchant": "amazon",
         "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "ECOVACS T90 MAX OMNI Robot Aspirapolvere Lavapavimenti 30000Pa OZMO ROLLER | ZeroTangle Gen 4.0 TruEdge 3.0, Lavaggio con Acqua Calda e Asciuga Aria Calda, Stazione OMNI Auto Svuot",
+        "merchant": "amazon",
+        "ean": "6979463773018",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -2203,6 +2203,27 @@
       }
     ],
     "migliori-lavatrici": [
+      {
+        "title": "Hotpoint Ariston NBT 1048 WD A IT - Lavatrice 10 kg | Libera Installazione, Carica Frontale.1400 Giri/min. Larghezza 59,5cm, Profondità 60,5cm, Altezza 85,0cm, Classe Energetica A",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Lavatrice Cecotec Bolero DressCode 10800 Inverter Steel A, 10 kg | Classe energetica A-10%, Motore Inverter Plus, 1400 giri/min, 16 Programmi, SteamMax, Spa Care, Display Touch, Ki",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Hotpoint Ariston HB R301 CARE IT Lavatrice 10kg, 1400 Giri, Classe A-30%. | Slim 1400 Giri/min, carica frontale, libera installazione, pethair care, fabric care, 84,5 x 60 x 58 cm ",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Bosch WAN28229IT Serie 4 Lavatrice 9kg 1400 giri/min Bianco Classe A | Lavatrice con vapore, Riconoscimento del carico, Motore silenzioso e duraturo con 10 anni di assistenza, Made",
         "merchant": "amazon",
@@ -2390,27 +2411,6 @@
         "merchant": "unieuro",
         "ean": "8806097804819",
         "mpn": "WW10FG6U34LKU3",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Samsung Lavatrice BESPOKE AI™ 9Kg WW90DB7U34GWU3",
-        "merchant": "unieuro",
-        "ean": "8806095550282",
-        "mpn": "WW90DB7U34GWU3",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Samsung Lavatrice Crystal Clean 8 kg WW80CGC04DAEET",
-        "merchant": "unieuro",
-        "ean": "8806095210285",
-        "mpn": "WW80CGC04DAEET",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Hotpoint Ariston Lavatrice da incasso BI WMHG 71483 EU N",
-        "merchant": "unieuro",
-        "ean": "8050147619315",
-        "mpn": "869991619310",
         "status": "da_verificare"
       }
     ],
@@ -2749,20 +2749,6 @@
     ],
     "migliori-moda": [
       {
-        "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Bianco, 40 EU",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Black Black, 42 EU",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
         "ean": "",
@@ -2889,6 +2875,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Black Black, 42 EU",
+        "merchant": "amazon",
+        "ean": "4059505056995",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "PUMA Sneakers Shuffle Unisex, White-White-Team Gold, 40 EU",
         "merchant": "amazon",
         "ean": "4063697815605",
@@ -2953,6 +2946,13 @@
       },
       {
         "title": "CustomSolo Maglietta Personalizzata con Foto e Testo, Unisex Doppia Faccia T-Shirt Personalizzata per Uomo e Donna, Maglia Personalizzata per Regali, Compleanni, Famiglia, Logo Azi",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Aottori Maglietta Natalizia Donna Uomo Manica Corta Girocollo Rosso L | Magliette natale girocollo, T‑shirt natalizia albero natale uomo, manica corta coppia, casual xmas party",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
