@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-27T14:14:57+01:00",
+  "generated_at": "2026-11-27T15:49:56+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -686,6 +686,13 @@
     ],
     "migliori-notebook": [
       {
+        "title": "HP HyperX OMEN 15, Gaming Laptop, Intel Core Ultra 9, RTX 5070, Windows 11 | 15.3\" (2880 x 1800) OLED 120 Hz, 32 GB RAM, 1 TB SSD, NVIDIA GeForce RTX 5070, 15-ga0006slx, QWERTY Ita",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "ASUS Chromebook CM1405CM4A#B0GV4V3CHG, Notebook con display 14\" Anti-glare, 60Hz, processore MediaTek™ Kompanio 540, RAM 4GB, 64G eMMC, ChromeOS, Grigio",
         "merchant": "amazon",
         "ean": "",
@@ -1077,27 +1084,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Philips Gaming Monitor 27M2N3200NF 27 pollici, , 1920x1080, FHD, 144Hz, IPS Panel, 0.5ms MPRT, , (HDMI1x 1.4 DP 1x 1.4) Adaptive Sync, HDR10, G-Sync Compatible, Grigio Scuro",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Acer EK271Gbif Monitor PC 27\", Display IPS Full HD, 120 Hz, 1ms (VRB), 16:9, AdaptiveSync, VGA, HDMI 1.4, Lum 250 nits, Schermo PC con Contrasto 100M:1, ZeroFrame, Cavo HDMI Inclus",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "PHILIPS 27E2N1500L 1000 Series LED-Monitor 68.6 cm (27\") - 2560 x 1440 QHD @ 75 Hz - IPS - 1000:1 - HDR10-4 ms - HDMI, DisplayPort - Schwarz (27E2N1500L/00)",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Xiaomi Monitor G27i",
         "merchant": "",
         "ean": "",
@@ -1106,6 +1092,13 @@
       },
       {
         "title": "ASUS VY279HGR, Eye Care Monitor da 27\" FHD IPS (1920 x 1080), Nero",
+        "merchant": "",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "PHILIPS 27E2N1500L 1000 Series LED-Monitor 68.6 cm (27\") - 2560 x 1440 QHD @ 75 Hz - IPS - 1000:1 - HDR10-4 ms - HDMI, DisplayPort - Schwarz (27E2N1500L/00)",
         "merchant": "",
         "ean": "",
         "mpn": "",
@@ -1129,6 +1122,13 @@
         "title": "LG 27U411B Monitor 27\" Full HD (1920x1080) IPS 144Hz, 1ms MBR, HDR10, FreeSync Premium, sRGB 99%, HDMI, Schermo Antiriflesso, Design Borderless, Nero",
         "merchant": "",
         "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Philips Gaming Monitor 27M2N3200NF 27 pollici, , 1920x1080, FHD, 144Hz, IPS Panel, 0.5ms MPRT, , (HDMI1x 1.4 DP 1x 1.4) Adaptive Sync, HDR10, G-Sync Compatible, Grigio Scuro",
+        "merchant": "amazon",
+        "ean": "8721038004274",
         "mpn": "",
         "status": "da_verificare"
       },
@@ -1715,6 +1715,13 @@
     ],
     "cuffie-bluetooth-in-offerta": [
       {
+        "title": "WOLFANG Lettore MP3 da con Bluetooth 5.2, clip sportiva (Verde Militare) | formato mini, peso 28,3 g, radio FM HiF, registratore vocale, auricolari inclusi, Scheda SD non inclusa",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Sony WH-1000XM4C Cuffie Wireless con Cancellazione Rumore | Noise cancelling, bluetooth, audio Hi-Res, processore HD QN1, 34h batteria, connessione Multipoint, iOS e Android – Nero",
         "merchant": "amazon",
         "ean": "",
@@ -1915,13 +1922,6 @@
         "merchant": "unieuro",
         "ean": "0197192348017",
         "mpn": "7G8F3AA",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Marshall MAJOR IV Cuffie Con cavo e senza cavo A Padiglione MUSICA USB tipo C Bluetooth Nero",
-        "merchant": "unieuro",
-        "ean": "7340055379458",
-        "mpn": "MRS1005773",
         "status": "da_verificare"
       }
     ],
