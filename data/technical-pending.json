@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-27T15:49:56+01:00",
+  "generated_at": "2026-11-27T17:14:37+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -381,13 +381,6 @@
     ],
     "tv-in-offerta": [
       {
-        "title": "Sony BRAVIA 6 OLED TV, 48 pollici | Smart TV 4K (Google TV), televisore a 120 Hz con Dolby Vision/Atmos, modello 48A62, anno 2026",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "TCL 32V5D – Smart TV QLED Full HD HDR da 32\" con Fire TV | Direct LED, Apple AirPlay 2, Press & Ask Alexa, Metallic Bezel-Less Design",
         "merchant": "amazon",
         "ean": "5901292530341",
@@ -589,6 +582,13 @@
         "ean": "5901292530280",
         "mpn": "",
         "status": "da_verificare"
+      },
+      {
+        "title": "Samsung Smart TV 65\" UE65U8090HUXZT Crystal UHD 4K, 2026 | HDR10+, PurColor, Motion Xcelerator, Dynamic Sound Pack, Gaming Hub, Samsung TV Plus, Knox Security, Vision AI",
+        "merchant": "amazon",
+        "ean": "8806097963448",
+        "mpn": "",
+        "status": "da_verificare"
       }
     ],
     "offerte-tv-55-65-pollici": [
@@ -694,13 +694,6 @@
       },
       {
         "title": "ASUS Chromebook CM1405CM4A#B0GV4V3CHG, Notebook con display 14\" Anti-glare, 60Hz, processore MediaTek™ Kompanio 540, RAM 4GB, 64G eMMC, ChromeOS, Grigio",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Alienware 15 Gaming Laptop - Intel Core 7 240H, NVIDIA RTX 5060 | 15'' WUXGA 1920x1200 165Hz, 16GB RAM, 512GB SSD, Windows 11 Home, 2 anno di assistenza onsite, 3 mesi di Game Pass",
         "merchant": "amazon",
         "ean": "",
         "mpn": "",
@@ -955,6 +948,13 @@
       }
     ],
     "migliori-tablet": [
+      {
+        "title": "HUAWEI MatePad 11.5 2025 Tablet, Display FullView da 2.5K e 120 Hz che Garantisce Comfort Visivo, 8+128GB, Batteria de 10,100 mAh, Ricarica Rapida a 40 W, Quattro Altoparlanti",
+        "merchant": "amazon",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Tablet Android da 11 Pollici, Octa-Core, 24GB(4+20) RAM+128GB Memoria, Batteria 8200mAh, Widevine L1, Espandibile fino a 1TB, Doppia Fotocamera, Android Tablet per Studio, Lavoro e",
         "merchant": "",
@@ -1419,13 +1419,6 @@
         "merchant": "unieuro",
         "ean": "0195949896538",
         "mpn": "APLMC7R4QL/A",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Trevi SMARTWATCH CON FUNZIONE CHIAMATA WIRELESS AMOLED ALWAYS ON IP68 T FIT 430 A NERO",
-        "merchant": "unieuro",
-        "ean": "8011000040790",
-        "mpn": "0TF43000",
         "status": "da_verificare"
       },
       {
@@ -1927,13 +1920,6 @@
     ],
     "migliori-robot-aspirapolvere": [
       {
-        "title": "Cecotec Robot Aspirapolvere Conga M70 Genesis. Navigazione Laser, Motore Ungravity con 20000Pa, Aspira, Spazza, Lava e Passa la Mopa, Spazzola Silicone, Doppio Serbatoio, App 3.0, ",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Lefant M210 PRO OMNI Robot Aspirapolvere Lavapavimenti con Rullo 20.000Pa",
         "merchant": "",
         "ean": "",
@@ -2109,6 +2095,13 @@
         "status": "da_verificare"
       },
       {
+        "title": "MOVA E30 Ultra robot aspirapolvere e lavapavimenti con auto svuotamento e auto pulizia dei moci",
+        "merchant": "unieuro",
+        "ean": "6976233679983",
+        "mpn": "E30ULTRA",
+        "status": "da_verificare"
+      },
+      {
         "title": "Roborock F25 ACE Combo Aspirapolvere Senza Fili e Lavapavimenti 5 in 1, 20.000 Pa, Autopulizia con asciugatura a 90°C, Zero Grovigli, 180° UltraPiatto, P",
         "merchant": "unieuro",
         "ean": "6974653812478",
@@ -2117,13 +2110,6 @@
       }
     ],
     "aspirapolvere-senza-fili-in-offerta": [
-      {
-        "title": "Cecotec Aspirapolvere per Tappezzeria con Cavo - Pulitore Tappezzeria Conga 7000 Carpet&Spot Clean Steam XXL.1700W. Pulizia 3in1. Serbatoio 1600ml acqua pulita e 950ml acqua sporca",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
       {
         "title": "Aspirapolvere Senza Fili Scopa Elettrica - Potente Filo Batteria Cordless Vacuum Cleaner Scope Elettriche Sacco Portatile Ciclonico Silenzioso per Divano Tappeti Parquet Pavimenti ",
         "merchant": "amazon",
@@ -2178,6 +2164,20 @@
         "merchant": "unieuro",
         "ean": "8806096154229",
         "mpn": "A9T-PRIME1C.DCBQ",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Bosch BBS711W Scopa elettrica ricaricabile Unlimited 7 Bianco",
+        "merchant": "unieuro",
+        "ean": "4242005306657",
+        "mpn": "BBS711W",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Dyson Aspirapolvere V8 Absolute",
+        "merchant": "unieuro",
+        "ean": "5025155090152",
+        "mpn": "476547-01",
         "status": "da_verificare"
       },
       {
@@ -3324,6 +3324,13 @@
         "merchant": "unieuro",
         "ean": "0011120271638",
         "mpn": "3639N",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Dyson Lavapavimenti WashG1",
+        "merchant": "unieuro",
+        "ean": "5025155096772",
+        "mpn": "486236-01",
         "status": "da_verificare"
       },
       {
