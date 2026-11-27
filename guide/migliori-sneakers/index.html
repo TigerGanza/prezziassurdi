@@ -424,8 +424,132 @@ body[data-pa-season] .pa-season-product-mark .pa-season-3d-icon {display:none}
 @media print{body[data-pa-season] .pa-season-banner{display:none}}
 </style>
 <!-- PA_SEASONAL_SITE_STYLE_END -->
+
+<!-- PA_GUIDE_PREMIUM_V1 -->
+<style id="pa-guide-premium-v1">
+body[data-pa-guide-premium] {
+  --pg-gold:#ffd45a;--pg-gold-light:#ffec9a;--pg-muted:#c6c6cb;--pg-border:#927035;
+  --pg-panel:linear-gradient(145deg,#22201c 0%,#151518 45%,#101014 100%);
+  --pg-action:linear-gradient(105deg,#ffe58a,#ffd052 48%,#f5ae28);
+  color:#f8f7f5!important;background:radial-gradient(ellipse at 90% 0%,#302414 0%,transparent 38%),#0d0d11!important;
+}
+body[data-pa-guide-premium] main {color:#f8f7f5;}
+body[data-pa-guide-premium] header {background:#111115!important;border-bottom:1px solid #6e5325!important;color:#fff!important;}
+body[data-pa-guide-premium] header .brand,body[data-pa-guide-premium] header nav a {color:#fff!important;}
+body[data-pa-guide-premium] header .brand img {object-fit:contain;border-radius:8px;}
+body[data-pa-guide-premium] header .brand span {color:var(--pg-gold)!important;}
+body[data-pa-guide-premium] header nav a {border-color:#70582e!important;}
+body[data-pa-guide-premium] .crumb,body[data-pa-guide-premium] .crumb a {color:#d9d1bb!important;}
+body[data-pa-guide-premium] .hero {
+  isolation:isolate;position:relative;overflow:hidden;border:1px solid #c29944!important;border-radius:24px!important;
+  background:radial-gradient(ellipse at 86% 65%,#513918,transparent 60%),linear-gradient(140deg,#15151a,#0c0c10)!important;
+  box-shadow:0 18px 44px #0006,inset 0 0 24px #b17a1718!important;color:#fff!important;
+  --theme-accent:#ffd45a!important;--theme-accent-soft:#ffc54a24!important;
+}
+body[data-pa-guide-premium] .hero.theme-hero::before {
+  background:linear-gradient(90deg,#101015f5 0%,#101015bf 38%,#10101530 78%),radial-gradient(ellipse at 90% 80%,#c58c2b42,transparent 65%),var(--theme-image,linear-gradient(130deg,#111,#34271a)) center right/cover no-repeat!important;
+  opacity:1!important;
+}
+body[data-pa-guide-premium] .hero.theme-hero::after {background:linear-gradient(120deg,transparent 60%,#db9b261e 82%,transparent 90%)!important;pointer-events:none;}
+body[data-pa-guide-premium] .hero h1 {font-size:clamp(30px,4.2vw,58px)!important;line-height:1.08!important;letter-spacing:-.035em!important;color:#fff!important;overflow-wrap:anywhere;}
+body[data-pa-guide-premium] .hero h1 span,body[data-pa-guide-premium] .hero .accent,body[data-pa-guide-premium] .eyebrow {color:var(--pg-gold)!important;}
+body[data-pa-guide-premium] .hero p,body[data-pa-guide-premium] .hero-subtitle {color:#f0eae0!important;line-height:1.6;}
+body[data-pa-guide-premium] .hero-badge,body[data-pa-guide-premium] .hero-pills span {background:#17161ae8!important;border:1px solid #957139!important;color:var(--pg-gold-light)!important;}
+body[data-pa-guide-premium] .hero-mark {color:#f5c85f!important;opacity:.10!important;pointer-events:none;}
+body[data-pa-guide-premium] .hero .pg-start,body[data-pa-guide-premium] .jump:not(.outline),body[data-pa-guide-premium] .top-choice>a,body[data-pa-guide-premium] article[data-guide-card] .cta,body[data-pa-guide-premium] .pa-guide-live .cta,body[data-pa-guide-premium] .guide-filter-apply,body[data-pa-guide-premium] .guide-directory-arrow {
+  background:var(--pg-action)!important;color:#171104!important;border:1px solid #ffe69b!important;box-shadow:0 5px 18px #d8a33123!important;border-radius:13px!important;font-weight:800!important;text-decoration:none!important;
+}
+body[data-pa-guide-premium] .pg-start {position:relative;z-index:2;display:inline-flex;justify-content:center;align-items:center;min-height:48px;padding:11px 22px;margin:16px 0 2px;font-size:16px;box-sizing:border-box;cursor:pointer;}
+body[data-pa-guide-premium] .pg-quick {margin:18px 0 22px;padding:18px;border:1px solid var(--pg-border);border-radius:20px;background:var(--pg-panel);box-shadow:0 12px 26px #0004;}
+body[data-pa-guide-premium] .pg-quick h2 {font-size:clamp(20px,2.5vw,26px);margin:0 0 5px;color:#fff;}
+body[data-pa-guide-premium] .pg-quick p {color:var(--pg-muted);margin:0 0 12px;font-size:14px;}
+body[data-pa-guide-premium] .pg-quick-grid {display:grid;grid-template-columns:repeat(auto-fit,minmax(145px,1fr));gap:8px;}
+body[data-pa-guide-premium] .pg-quick-grid button {font:inherit;font-size:14px;font-weight:700;min-height:48px;text-align:left;display:flex;justify-content:space-between;align-items:center;gap:8px;padding:10px 13px;background:#15151a;color:#fff;border:1px solid #927035;border-radius:12px;cursor:pointer;overflow-wrap:anywhere;}
+body[data-pa-guide-premium] .pg-quick-grid button span {color:var(--pg-gold);font-size:18px;flex:none;}
+body[data-pa-guide-premium] .top-choices-wrap,body[data-pa-guide-premium] .guide-band,body[data-pa-guide-premium] .expert-section,body[data-pa-guide-premium] .guide-toolbar,body[data-pa-guide-premium] .guide-filter-panel,body[data-pa-guide-premium] .guide-info-card,body[data-pa-guide-premium] .expert-card,body[data-pa-guide-premium] .technical-catalog-card,body[data-pa-guide-premium] .quick-pick {
+  background:var(--pg-panel)!important;border-color:#7c5d2c!important;color:#f8f7f5!important;box-shadow:0 10px 30px #0003!important;
+}
+body[data-pa-guide-premium] .guide-band::before {background:radial-gradient(ellipse at top right,#93652344,transparent 55%)!important;}
+body[data-pa-guide-premium] .top-choice,body[data-pa-guide-premium] article[data-guide-card],body[data-pa-guide-premium] .pa-guide-live {
+  background:radial-gradient(ellipse at 90% 0%,#5b411e55,transparent 42%),linear-gradient(145deg,#222126,#141419 68%)!important;
+  color:#f8f7f5!important;border:1px solid #98743b!important;border-radius:19px!important;box-shadow:0 12px 28px #0005!important;min-width:0;}
+body[data-pa-guide-premium] .top-choice h3,body[data-pa-guide-premium] article[data-guide-card] h3,body[data-pa-guide-premium] article[data-guide-card] h3 a {color:#fff!important;font-weight:750!important;letter-spacing:-.01em!important;overflow-wrap:anywhere;}
+body[data-pa-guide-premium] article[data-guide-card] h3 {font-size:17px!important;line-height:1.35!important;display:block!important;-webkit-line-clamp:unset!important;overflow:visible!important;}
+body[data-pa-guide-premium] .top-choice-photo,body[data-pa-guide-premium] article[data-guide-card] .photo {background:#fff!important;border:1px solid #d5b26b!important;border-radius:12px!important;box-sizing:border-box;overflow:hidden;}
+body[data-pa-guide-premium] article[data-guide-card] .photo img,body[data-pa-guide-premium] .top-choice-photo img {object-fit:contain!important;object-position:center!important;transform:none!important;max-width:100%!important;max-height:100%!important;}
+body[data-pa-guide-premium] .top-choice-price,body[data-pa-guide-premium] article[data-guide-card] .price,body[data-pa-guide-premium] .quick-value {color:var(--pg-gold)!important;font-variant-numeric:tabular-nums;line-height:1.15!important;}
+body[data-pa-guide-premium] article[data-guide-card] .price {font-size:clamp(28px,4vw,34px)!important;}
+body[data-pa-guide-premium] .top-choice-price {font-size:clamp(23px,3vw,30px)!important;}
+body[data-pa-guide-premium] .old,body[data-pa-guide-premium] .price-freshness,body[data-pa-guide-premium] .variant-note,body[data-pa-guide-premium] .top-choice ul,body[data-pa-guide-premium] .filter-explainer,body[data-pa-guide-premium] .guide-filter-note,body[data-pa-guide-premium] .top-choices-note,body[data-pa-guide-premium] .guide-updated,body[data-pa-guide-premium] .guide-copy,body[data-pa-guide-premium] .note {color:var(--pg-muted)!important;}
+body[data-pa-guide-premium] .discount,body[data-pa-guide-premium] .top-choice-discount {color:#ffe38e!important;background:#5c461e!important;border-color:#98743b!important;}
+body[data-pa-guide-premium] .facts .fact,body[data-pa-guide-premium] .filter-badge,body[data-pa-guide-premium] .top-choice-rank,body[data-pa-guide-premium] .pa-score,body[data-pa-guide-premium] .top-choice-score {background:#262326!important;color:#f4e6c8!important;border-color:#72582e!important;}
+body[data-pa-guide-premium] .pa-score span,body[data-pa-guide-premium] .pa-score small,body[data-pa-guide-premium] .top-choice-score span,body[data-pa-guide-premium] .top-choice-score small {color:#ded6c6!important;}
+body[data-pa-guide-premium] .pa-score b,body[data-pa-guide-premium] .top-choice-score b,body[data-pa-guide-premium] .expert-kicker {color:var(--pg-gold)!important;}
+body[data-pa-guide-premium] .store-chip {background:#fff!important;color:#161616!important;border:1px solid #bda36d!important;border-radius:9px!important;min-height:30px;}
+body[data-pa-guide-premium] .store-chip .merchant-logo {object-fit:contain!important;}
+body[data-pa-guide-premium] .guide-toolbar {border:1px solid #a88138!important;scroll-margin-top:100px;}
+body[data-pa-guide-premium] .guide-toolbar input,body[data-pa-guide-premium] .guide-toolbar select {min-height:46px!important;border-radius:10px!important;}
+body[data-pa-guide-premium] .guide-filter-mobile-toggle {min-height:48px;background:var(--pg-action)!important;color:#171104!important;border:1px solid #ffe69b!important;}
+body[data-pa-guide-premium] .guide-filter-mobile-toggle b {color:#171104!important;}
+body[data-pa-guide-premium] .guide-filter-group {border-color:#765a30!important;scroll-margin-top:18px;}
+body[data-pa-guide-premium] .guide-filter-group summary {color:#ffdf83!important;}
+body[data-pa-guide-premium] .guide-filter-btn {min-height:44px;color:#fff!important;background:#1c1c21!important;border-color:#5c4a30!important;}
+body[data-pa-guide-premium] .guide-filter-btn[aria-pressed=true] {color:#181005!important;background:var(--pg-action)!important;border-color:#ffe18c!important;}
+body[data-pa-guide-premium] .guide-filter-btn[aria-pressed=true] .guide-filter-option-count {color:#181005!important;}
+body[data-pa-guide-premium] .guide-filter-btn:disabled {opacity:.5;}
+body[data-pa-guide-premium] .guide-filter-apply,body[data-pa-guide-premium] .guide-filter-reset {min-height:44px;}
+body[data-pa-guide-premium] .guide-filter-close {min-width:44px;min-height:44px;}
+body[data-pa-guide-premium] .guide-directory-card {--theme-accent:#ffd45a!important;--theme-accent-soft:#ffc54a24!important;border:1px solid #ab8440!important;box-shadow:0 10px 30px #0005!important;border-radius:20px!important;}
+body[data-pa-guide-premium] .guide-directory-card::before {background:linear-gradient(90deg,#111116f0,#11111665 65%,#11111620),radial-gradient(ellipse at 95% 65%,#a7712b55,transparent 55%),var(--theme-image,linear-gradient(130deg,#121217,#382a18)) center right/cover no-repeat!important;}
+body[data-pa-guide-premium] .guide-directory-card::after {pointer-events:none;}
+body[data-pa-guide-premium] .guide-directory-arrow {display:inline-flex;min-height:42px;align-items:center;padding:9px 15px;}
+body[data-pa-guide-premium] a:focus-visible,body[data-pa-guide-premium] button:focus-visible,body[data-pa-guide-premium] summary:focus-visible,body[data-pa-guide-premium] input:focus-visible,body[data-pa-guide-premium] select:focus-visible {outline:3px solid #fff0ae!important;outline-offset:3px!important;}
+body[data-pa-guide-premium=integratori] .layout aside,body[data-pa-guide-premium=integratori] .cards article,body[data-pa-guide-premium=integratori] .chapter,body[data-pa-guide-premium=integratori] .reading,body[data-pa-guide-premium=integratori] .notice {background:var(--pg-panel)!important;border-color:#94713a!important;color:#f8f7f5!important;}
+body[data-pa-guide-premium=integratori] .muted {color:#c6c6cb!important;}
+body[data-pa-guide-premium=integratori] #results {scroll-margin-top:90px;}
+@media (max-width:640px){
+ body[data-pa-guide-premium] .hero {border-radius:19px!important;}
+ body[data-pa-guide-premium] .hero.theme-hero {padding:24px 17px!important;}
+ body[data-pa-guide-premium] .hero.theme-hero::before {background:linear-gradient(90deg,#101015f0,#101015a8 55%,#10101555),radial-gradient(ellipse at 100% 80%,#c58c2b42,transparent 65%),var(--theme-image,linear-gradient(130deg,#111,#34271a)) right center/cover no-repeat!important;}
+ body[data-pa-guide-premium] .hero .pg-start {width:100%;}
+ body[data-pa-guide-premium] .pg-quick {padding:14px;}
+ body[data-pa-guide-premium] .pg-quick-grid {grid-template-columns:repeat(2,minmax(0,1fr));}
+ body[data-pa-guide-premium] .pg-quick-grid button {padding:9px 10px;}
+ body[data-pa-guide-premium] article[data-guide-card] .cta,body[data-pa-guide-premium] .top-choice>a {min-height:44px;display:flex;align-items:center;justify-content:center;text-align:center;}
+}
+@media(prefers-reduced-motion:reduce){body[data-pa-guide-premium] .pg-start,body[data-pa-guide-premium] .pg-quick *{transition:none!important;}}
+</style>
+<script>
+(()=>{'use strict';
+function start(){
+  const body=document.body,hero=document.querySelector('main .hero.theme-hero'),toolbar=document.querySelector('.guide-toolbar');
+  if(!body||!hero||!toolbar||body.dataset.paGuidePremium!=='standard'||hero.querySelector('.pg-start'))return;
+  if(!toolbar.id)toolbar.id='pa-guide-premium-search';
+  const link=document.createElement('a');link.className='pg-start';link.href='#'+toolbar.id;link.textContent='Inizia la guida ↓';
+  const mark=hero.querySelector('.hero-mark');if(mark)mark.before(link);else hero.append(link);
+  const panel=document.querySelector('[data-guide-filter-panel]'),openButton=document.querySelector('[data-guide-filter-open]');
+  if(!panel)return;
+  const groups=Array.from(panel.querySelectorAll('details.guide-filter-group')).filter(g=>g.querySelector('summary')&&g.querySelector('[data-guide-filter-key]')).slice(0,5);
+  if(!groups.length)return;
+  const quick=document.createElement('section');quick.className='pg-quick';quick.setAttribute('aria-label','Filtri rapidi');
+  const h=document.createElement('h2');h.textContent='Filtri rapidi';const p=document.createElement('p');p.textContent='Scegli quali caratteristiche vuoi cercare.';
+  const grid=document.createElement('div');grid.className='pg-quick-grid';quick.append(h,p,grid);
+  for(const group of groups){
+    const summary=group.querySelector('summary'),button=document.createElement('button'),arrow=document.createElement('span');
+    button.type='button';button.textContent=summary.textContent.trim();arrow.textContent='›';arrow.setAttribute('aria-hidden','true');button.append(arrow);
+    button.addEventListener('click',()=>{
+      const isMobile=!!(openButton&&openButton.getClientRects().length&&getComputedStyle(openButton).visibility!=='hidden');
+      if(isMobile&&openButton.getAttribute('aria-expanded')!=='true')openButton.click();
+      group.open=true;
+      requestAnimationFrame(()=>{summary.scrollIntoView({block:'nearest',behavior:'auto'});summary.focus({preventScroll:true});});
+    });grid.append(button);
+  }hero.after(quick);
+}
+if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',start,{once:true});else start();
+})();
+</script>
 </head>
-<body data-pa-season="black_friday" data-pa-layout="page">
+<body data-pa-season="black_friday" data-pa-layout="page" data-pa-guide-premium="standard">
 <header><div class="wrap top">
 <a class="brand" href="https://prezziassurdi.com/"><img src="https://prezziassurdi.com/logo-prezzi-assurdi.png" alt="Prezzi Assurdi"><span>PREZZI ASSURDI</span></a>
 <nav class="page-nav" aria-label="Navigazione pagine"><a class="home" href="https://prezziassurdi.com/offerte/">Offerte per negozio</a><a class="home" href="https://prezziassurdi.com/">← Torna al motore di ricerca</a></nav>
@@ -1167,10 +1291,10 @@ document.addEventListener('click',event=>{if(event.target.closest('[data-guide-f
 <div class="store-chips"><span class="store-chip footlocker"><img class="merchant-logo compact" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Foot_Locker_2020_Wordmark_Logo.svg" alt="Foot Locker" loading="lazy" referrerpolicy="no-referrer"></span></div>
 <a class="cta" href="https://www.awin1.com/pclick.php?p=46840800234&amp;a=3086723&amp;m=23410" target="_blank" rel="nofollow sponsored noopener">VEDI SU FOOT LOCKER →</a>
 <!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article></div><div class="band-amazon"><div><strong>Vuoi vedere più alternative? · Sneakers sotto 60 €</strong><span>Apri la ricerca aggiornata su Amazon con il link affiliato di Prezzi Assurdi.</span></div><a href="https://www.amazon.it/s?k=scarpe+running+sneakers&amp;low-price=25.00&amp;high-price=59.99&amp;tag=prezziassur00-21" target="_blank" rel="nofollow sponsored noopener">🔎 CERCA QUESTA FASCIA SU AMAZON →</a></div></section><section class="guide-band"><div class="guide-band-head"><div class="guide-band-head-copy"><span class="filter-badge">FILTRATO PER PREZZO</span><h3>Sneakers da 60 a 99 €</h3></div><p>Fascia molto ampia con modelli sportivi e lifestyle dei marchi principali.</p></div><div class="empty-amazon"><div class="empty-icon">🔎</div><strong>Nessun prezzo o sconto pertinente rilevato per Sneakers da 60 a 99 €</strong><span>Prova il confronto tra piÃ¹ negozi: se il modello è nel catalogo, mostriamo il prezzo corrente anche quando non è in promozione.</span><a href="https://prezziassurdi.com/?q=scarpe+running+sneakers">🔎 CONFRONTA PREZZI NEI piÃ¹ NEGOZI →</a><a href="https://www.amazon.it/s?k=scarpe+running+sneakers&amp;low-price=60.00&amp;high-price=99.99&amp;tag=prezziassur00-21" target="_blank" rel="nofollow sponsored noopener">CERCA ANCHE SU AMAZON →</a></div></section><section class="guide-band"><div class="guide-band-head"><div class="guide-band-head-copy"><span class="filter-badge">FILTRATO PER PREZZO</span><h3>Sneakers da 100 a 149 €</h3></div><p>Qui entrano molti modelli running tecnici e linee premium.</p></div><div class="empty-amazon"><div class="empty-icon">🔎</div><strong>Nessun prezzo o sconto pertinente rilevato per Sneakers da 100 a 149 €</strong><span>Prova il confronto tra piÃ¹ negozi: se il modello è nel catalogo, mostriamo il prezzo corrente anche quando non è in promozione.</span><a href="https://prezziassurdi.com/?q=scarpe+running+sneakers">🔎 CONFRONTA PREZZI NEI piÃ¹ NEGOZI →</a><a href="https://www.amazon.it/s?k=scarpe+running+sneakers&amp;low-price=100.00&amp;high-price=149.99&amp;tag=prezziassur00-21" target="_blank" rel="nofollow sponsored noopener">CERCA ANCHE SU AMAZON →</a></div></section><section class="guide-band"><div class="guide-band-head"><div class="guide-band-head-copy"><span class="filter-badge">FILTRATO PER PREZZO</span><h3>Sneakers da 150 € in su</h3></div><p>Modelli tecnici, premium o limited: valuta soprattutto comfort e reale destinazione d&#x27;uso.</p></div><div class="empty-amazon"><div class="empty-icon">🔎</div><strong>Nessun prezzo o sconto pertinente rilevato per Sneakers da 150 € in su</strong><span>Prova il confronto tra piÃ¹ negozi: se il modello è nel catalogo, mostriamo il prezzo corrente anche quando non è in promozione.</span><a href="https://prezziassurdi.com/?q=scarpe+running+sneakers">🔎 CONFRONTA PREZZI NEI piÃ¹ NEGOZI →</a><a href="https://www.amazon.it/s?k=scarpe+running+sneakers&amp;low-price=150.00&amp;tag=prezziassur00-21" target="_blank" rel="nofollow sponsored noopener">CERCA ANCHE SU AMAZON →</a></div></section></div>
-<p class="note"><strong>60 prodotti pertinenti</strong> · Pagina aggiornata il 27/11/2026 alle 22:55. I prodotti del catalogo guide mostrano anche l'orario dell'ultimo controllo prezzo. Prezzi e disponibilità possono cambiare nei negozi.</p>
+<p class="note"><strong>60 prodotti pertinenti</strong> · Pagina aggiornata il 27/11/2026 alle 23:40. I prodotti del catalogo guide mostrano anche l'orario dell'ultimo controllo prezzo. Prezzi e disponibilità possono cambiare nei negozi.</p>
 </div>
 </div>
-<div class="guide-updated">Aggiornato il 27/11/2026 alle 22:55</div>
+<div class="guide-updated">Aggiornato il 27/11/2026 alle 23:40</div>
 <div class="guide-layout">
 <details class="card guide-info-card" style="--theme-bg-1:#17110f;--theme-bg-2:#4a2f27;--theme-bg-3:#0f1013;--theme-glow-1:rgba(251,146,60,.18);--theme-glow-2:rgba(244,114,182,.12);--theme-accent:#ffcfb2;--theme-accent-soft:rgba(255,207,178,.14);--theme-image:url(&quot;https://prezziassurdi.com/assets/guide-sneakers.png&quot;)"><summary>Come scegliere ▾</summary><p class="guide-copy">Per le scarpe il prezzo conta meno della calzata giusta. Utilizzo, forma del piede, ammortizzazione, materiali e vestibilità devono guidare la scelta. Le offerte possono cambiare molto in base a numero e colore, quindi il prezzo finale va sempre verificato nella variante desiderata.</p></details>
 <details class="card guide-info-card" style="--theme-bg-1:#17110f;--theme-bg-2:#4a2f27;--theme-bg-3:#0f1013;--theme-glow-1:rgba(251,146,60,.18);--theme-glow-2:rgba(244,114,182,.12);--theme-accent:#ffcfb2;--theme-accent-soft:rgba(255,207,178,.14);--theme-image:url(&quot;https://prezziassurdi.com/assets/guide-sneakers.png&quot;)"><summary>Cosa controllare ▾</summary><ul class="checklist"><li>Distingui sneakers lifestyle, scarpe running e modelli da palestra: non sono intercambiabili in tutti gli usi.</li><li>Controlla la guida taglie del marchio e le condizioni di reso, soprattutto acquistando online.</li><li>Per running valuta ammortizzazione, stabilità e terreno oltre all&#x27;estetica.</li><li>Prezzo e disponibilità possono variare in base a taglia e colore selezionati.</li></ul></details>

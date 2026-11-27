@@ -396,8 +396,226 @@ body[data-pa-season] .pa-season-product-mark .pa-season-3d-icon {display:none}
 @media print{body[data-pa-season] .pa-season-banner{display:none}}
 </style>
 <!-- PA_SEASONAL_SITE_STYLE_END -->
+
+<!-- PA_GUIDE_PREMIUM_V1 -->
+<style id="pa-guide-premium-v1">
+body[data-pa-guide-premium] {
+  --pg-gold:#ffd45a;--pg-gold-light:#ffec9a;--pg-muted:#c6c6cb;--pg-border:#927035;
+  --pg-panel:linear-gradient(145deg,#22201c 0%,#151518 45%,#101014 100%);
+  --pg-action:linear-gradient(105deg,#ffe58a,#ffd052 48%,#f5ae28);
+  color:#f8f7f5!important;background:radial-gradient(ellipse at 90% 0%,#302414 0%,transparent 38%),#0d0d11!important;
+}
+body[data-pa-guide-premium] main {color:#f8f7f5;}
+body[data-pa-guide-premium] header {background:#111115!important;border-bottom:1px solid #6e5325!important;color:#fff!important;}
+body[data-pa-guide-premium] header .brand,body[data-pa-guide-premium] header nav a {color:#fff!important;}
+body[data-pa-guide-premium] header .brand img {object-fit:contain;border-radius:8px;}
+body[data-pa-guide-premium] header .brand span {color:var(--pg-gold)!important;}
+body[data-pa-guide-premium] header nav a {border-color:#70582e!important;}
+body[data-pa-guide-premium] .crumb,body[data-pa-guide-premium] .crumb a {color:#d9d1bb!important;}
+body[data-pa-guide-premium] .hero {
+  isolation:isolate;position:relative;overflow:hidden;border:1px solid #c29944!important;border-radius:24px!important;
+  background:radial-gradient(ellipse at 86% 65%,#513918,transparent 60%),linear-gradient(140deg,#15151a,#0c0c10)!important;
+  box-shadow:0 18px 44px #0006,inset 0 0 24px #b17a1718!important;color:#fff!important;
+  --theme-accent:#ffd45a!important;--theme-accent-soft:#ffc54a24!important;
+}
+body[data-pa-guide-premium] .hero.theme-hero::before {
+  background:linear-gradient(90deg,#101015f5 0%,#101015bf 38%,#10101530 78%),radial-gradient(ellipse at 90% 80%,#c58c2b42,transparent 65%),var(--theme-image,linear-gradient(130deg,#111,#34271a)) center right/cover no-repeat!important;
+  opacity:1!important;
+}
+body[data-pa-guide-premium] .hero.theme-hero::after {background:linear-gradient(120deg,transparent 60%,#db9b261e 82%,transparent 90%)!important;pointer-events:none;}
+body[data-pa-guide-premium] .hero h1 {font-size:clamp(30px,4.2vw,58px)!important;line-height:1.08!important;letter-spacing:-.035em!important;color:#fff!important;overflow-wrap:anywhere;}
+body[data-pa-guide-premium] .hero h1 span,body[data-pa-guide-premium] .hero .accent,body[data-pa-guide-premium] .eyebrow {color:var(--pg-gold)!important;}
+body[data-pa-guide-premium] .hero p,body[data-pa-guide-premium] .hero-subtitle {color:#f0eae0!important;line-height:1.6;}
+body[data-pa-guide-premium] .hero-badge,body[data-pa-guide-premium] .hero-pills span {background:#17161ae8!important;border:1px solid #957139!important;color:var(--pg-gold-light)!important;}
+body[data-pa-guide-premium] .hero-mark {color:#f5c85f!important;opacity:.10!important;pointer-events:none;}
+body[data-pa-guide-premium] .hero .pg-start,body[data-pa-guide-premium] .jump:not(.outline),body[data-pa-guide-premium] .top-choice>a,body[data-pa-guide-premium] article[data-guide-card] .cta,body[data-pa-guide-premium] .pa-guide-live .cta,body[data-pa-guide-premium] .guide-filter-apply,body[data-pa-guide-premium] .guide-directory-arrow {
+  background:var(--pg-action)!important;color:#171104!important;border:1px solid #ffe69b!important;box-shadow:0 5px 18px #d8a33123!important;border-radius:13px!important;font-weight:800!important;text-decoration:none!important;
+}
+body[data-pa-guide-premium] .pg-start {position:relative;z-index:2;display:inline-flex;justify-content:center;align-items:center;min-height:48px;padding:11px 22px;margin:16px 0 2px;font-size:16px;box-sizing:border-box;cursor:pointer;}
+body[data-pa-guide-premium] .pg-quick {margin:18px 0 22px;padding:18px;border:1px solid var(--pg-border);border-radius:20px;background:var(--pg-panel);box-shadow:0 12px 26px #0004;}
+body[data-pa-guide-premium] .pg-quick h2 {font-size:clamp(20px,2.5vw,26px);margin:0 0 5px;color:#fff;}
+body[data-pa-guide-premium] .pg-quick p {color:var(--pg-muted);margin:0 0 12px;font-size:14px;}
+body[data-pa-guide-premium] .pg-quick-grid {display:grid;grid-template-columns:repeat(auto-fit,minmax(145px,1fr));gap:8px;}
+body[data-pa-guide-premium] .pg-quick-grid button {font:inherit;font-size:14px;font-weight:700;min-height:48px;text-align:left;display:flex;justify-content:space-between;align-items:center;gap:8px;padding:10px 13px;background:#15151a;color:#fff;border:1px solid #927035;border-radius:12px;cursor:pointer;overflow-wrap:anywhere;}
+body[data-pa-guide-premium] .pg-quick-grid button span {color:var(--pg-gold);font-size:18px;flex:none;}
+body[data-pa-guide-premium] .top-choices-wrap,body[data-pa-guide-premium] .guide-band,body[data-pa-guide-premium] .expert-section,body[data-pa-guide-premium] .guide-toolbar,body[data-pa-guide-premium] .guide-filter-panel,body[data-pa-guide-premium] .guide-info-card,body[data-pa-guide-premium] .expert-card,body[data-pa-guide-premium] .technical-catalog-card,body[data-pa-guide-premium] .quick-pick {
+  background:var(--pg-panel)!important;border-color:#7c5d2c!important;color:#f8f7f5!important;box-shadow:0 10px 30px #0003!important;
+}
+body[data-pa-guide-premium] .guide-band::before {background:radial-gradient(ellipse at top right,#93652344,transparent 55%)!important;}
+body[data-pa-guide-premium] .top-choice,body[data-pa-guide-premium] article[data-guide-card],body[data-pa-guide-premium] .pa-guide-live {
+  background:radial-gradient(ellipse at 90% 0%,#5b411e55,transparent 42%),linear-gradient(145deg,#222126,#141419 68%)!important;
+  color:#f8f7f5!important;border:1px solid #98743b!important;border-radius:19px!important;box-shadow:0 12px 28px #0005!important;min-width:0;}
+body[data-pa-guide-premium] .top-choice h3,body[data-pa-guide-premium] article[data-guide-card] h3,body[data-pa-guide-premium] article[data-guide-card] h3 a {color:#fff!important;font-weight:750!important;letter-spacing:-.01em!important;overflow-wrap:anywhere;}
+body[data-pa-guide-premium] article[data-guide-card] h3 {font-size:17px!important;line-height:1.35!important;display:block!important;-webkit-line-clamp:unset!important;overflow:visible!important;}
+body[data-pa-guide-premium] .top-choice-photo,body[data-pa-guide-premium] article[data-guide-card] .photo {background:#fff!important;border:1px solid #d5b26b!important;border-radius:12px!important;box-sizing:border-box;overflow:hidden;}
+body[data-pa-guide-premium] article[data-guide-card] .photo img,body[data-pa-guide-premium] .top-choice-photo img {object-fit:contain!important;object-position:center!important;transform:none!important;max-width:100%!important;max-height:100%!important;}
+body[data-pa-guide-premium] .top-choice-price,body[data-pa-guide-premium] article[data-guide-card] .price,body[data-pa-guide-premium] .quick-value {color:var(--pg-gold)!important;font-variant-numeric:tabular-nums;line-height:1.15!important;}
+body[data-pa-guide-premium] article[data-guide-card] .price {font-size:clamp(28px,4vw,34px)!important;}
+body[data-pa-guide-premium] .top-choice-price {font-size:clamp(23px,3vw,30px)!important;}
+body[data-pa-guide-premium] .old,body[data-pa-guide-premium] .price-freshness,body[data-pa-guide-premium] .variant-note,body[data-pa-guide-premium] .top-choice ul,body[data-pa-guide-premium] .filter-explainer,body[data-pa-guide-premium] .guide-filter-note,body[data-pa-guide-premium] .top-choices-note,body[data-pa-guide-premium] .guide-updated,body[data-pa-guide-premium] .guide-copy,body[data-pa-guide-premium] .note {color:var(--pg-muted)!important;}
+body[data-pa-guide-premium] .discount,body[data-pa-guide-premium] .top-choice-discount {color:#ffe38e!important;background:#5c461e!important;border-color:#98743b!important;}
+body[data-pa-guide-premium] .facts .fact,body[data-pa-guide-premium] .filter-badge,body[data-pa-guide-premium] .top-choice-rank,body[data-pa-guide-premium] .pa-score,body[data-pa-guide-premium] .top-choice-score {background:#262326!important;color:#f4e6c8!important;border-color:#72582e!important;}
+body[data-pa-guide-premium] .pa-score span,body[data-pa-guide-premium] .pa-score small,body[data-pa-guide-premium] .top-choice-score span,body[data-pa-guide-premium] .top-choice-score small {color:#ded6c6!important;}
+body[data-pa-guide-premium] .pa-score b,body[data-pa-guide-premium] .top-choice-score b,body[data-pa-guide-premium] .expert-kicker {color:var(--pg-gold)!important;}
+body[data-pa-guide-premium] .store-chip {background:#fff!important;color:#161616!important;border:1px solid #bda36d!important;border-radius:9px!important;min-height:30px;}
+body[data-pa-guide-premium] .store-chip .merchant-logo {object-fit:contain!important;}
+body[data-pa-guide-premium] .guide-toolbar {border:1px solid #a88138!important;scroll-margin-top:100px;}
+body[data-pa-guide-premium] .guide-toolbar input,body[data-pa-guide-premium] .guide-toolbar select {min-height:46px!important;border-radius:10px!important;}
+body[data-pa-guide-premium] .guide-filter-mobile-toggle {min-height:48px;background:var(--pg-action)!important;color:#171104!important;border:1px solid #ffe69b!important;}
+body[data-pa-guide-premium] .guide-filter-mobile-toggle b {color:#171104!important;}
+body[data-pa-guide-premium] .guide-filter-group {border-color:#765a30!important;scroll-margin-top:18px;}
+body[data-pa-guide-premium] .guide-filter-group summary {color:#ffdf83!important;}
+body[data-pa-guide-premium] .guide-filter-btn {min-height:44px;color:#fff!important;background:#1c1c21!important;border-color:#5c4a30!important;}
+body[data-pa-guide-premium] .guide-filter-btn[aria-pressed=true] {color:#181005!important;background:var(--pg-action)!important;border-color:#ffe18c!important;}
+body[data-pa-guide-premium] .guide-filter-btn[aria-pressed=true] .guide-filter-option-count {color:#181005!important;}
+body[data-pa-guide-premium] .guide-filter-btn:disabled {opacity:.5;}
+body[data-pa-guide-premium] .guide-filter-apply,body[data-pa-guide-premium] .guide-filter-reset {min-height:44px;}
+body[data-pa-guide-premium] .guide-filter-close {min-width:44px;min-height:44px;}
+body[data-pa-guide-premium] .guide-directory-card {--theme-accent:#ffd45a!important;--theme-accent-soft:#ffc54a24!important;border:1px solid #ab8440!important;box-shadow:0 10px 30px #0005!important;border-radius:20px!important;}
+body[data-pa-guide-premium] .guide-directory-card::before {background:linear-gradient(90deg,#111116f0,#11111665 65%,#11111620),radial-gradient(ellipse at 95% 65%,#a7712b55,transparent 55%),var(--theme-image,linear-gradient(130deg,#121217,#382a18)) center right/cover no-repeat!important;}
+body[data-pa-guide-premium] .guide-directory-card::after {pointer-events:none;}
+body[data-pa-guide-premium] .guide-directory-arrow {display:inline-flex;min-height:42px;align-items:center;padding:9px 15px;}
+body[data-pa-guide-premium] a:focus-visible,body[data-pa-guide-premium] button:focus-visible,body[data-pa-guide-premium] summary:focus-visible,body[data-pa-guide-premium] input:focus-visible,body[data-pa-guide-premium] select:focus-visible {outline:3px solid #fff0ae!important;outline-offset:3px!important;}
+body[data-pa-guide-premium=integratori] .layout aside,body[data-pa-guide-premium=integratori] .cards article,body[data-pa-guide-premium=integratori] .chapter,body[data-pa-guide-premium=integratori] .reading,body[data-pa-guide-premium=integratori] .notice {background:var(--pg-panel)!important;border-color:#94713a!important;color:#f8f7f5!important;}
+body[data-pa-guide-premium=integratori] .muted {color:#c6c6cb!important;}
+body[data-pa-guide-premium=integratori] #results {scroll-margin-top:90px;}
+@media (max-width:640px){
+ body[data-pa-guide-premium] .hero {border-radius:19px!important;}
+ body[data-pa-guide-premium] .hero.theme-hero {padding:24px 17px!important;}
+ body[data-pa-guide-premium] .hero.theme-hero::before {background:linear-gradient(90deg,#101015f0,#101015a8 55%,#10101555),radial-gradient(ellipse at 100% 80%,#c58c2b42,transparent 65%),var(--theme-image,linear-gradient(130deg,#111,#34271a)) right center/cover no-repeat!important;}
+ body[data-pa-guide-premium] .hero .pg-start {width:100%;}
+ body[data-pa-guide-premium] .pg-quick {padding:14px;}
+ body[data-pa-guide-premium] .pg-quick-grid {grid-template-columns:repeat(2,minmax(0,1fr));}
+ body[data-pa-guide-premium] .pg-quick-grid button {padding:9px 10px;}
+ body[data-pa-guide-premium] article[data-guide-card] .cta,body[data-pa-guide-premium] .top-choice>a {min-height:44px;display:flex;align-items:center;justify-content:center;text-align:center;}
+}
+@media(prefers-reduced-motion:reduce){body[data-pa-guide-premium] .pg-start,body[data-pa-guide-premium] .pg-quick *{transition:none!important;}}
+</style>
+<script>
+(()=>{'use strict';
+function start(){
+  const body=document.body,hero=document.querySelector('main .hero.theme-hero'),toolbar=document.querySelector('.guide-toolbar');
+  if(!body||!hero||!toolbar||body.dataset.paGuidePremium!=='standard'||hero.querySelector('.pg-start'))return;
+  if(!toolbar.id)toolbar.id='pa-guide-premium-search';
+  const link=document.createElement('a');link.className='pg-start';link.href='#'+toolbar.id;link.textContent='Inizia la guida ↓';
+  const mark=hero.querySelector('.hero-mark');if(mark)mark.before(link);else hero.append(link);
+  const panel=document.querySelector('[data-guide-filter-panel]'),openButton=document.querySelector('[data-guide-filter-open]');
+  if(!panel)return;
+  const groups=Array.from(panel.querySelectorAll('details.guide-filter-group')).filter(g=>g.querySelector('summary')&&g.querySelector('[data-guide-filter-key]')).slice(0,5);
+  if(!groups.length)return;
+  const quick=document.createElement('section');quick.className='pg-quick';quick.setAttribute('aria-label','Filtri rapidi');
+  const h=document.createElement('h2');h.textContent='Filtri rapidi';const p=document.createElement('p');p.textContent='Scegli quali caratteristiche vuoi cercare.';
+  const grid=document.createElement('div');grid.className='pg-quick-grid';quick.append(h,p,grid);
+  for(const group of groups){
+    const summary=group.querySelector('summary'),button=document.createElement('button'),arrow=document.createElement('span');
+    button.type='button';button.textContent=summary.textContent.trim();arrow.textContent='›';arrow.setAttribute('aria-hidden','true');button.append(arrow);
+    button.addEventListener('click',()=>{
+      const isMobile=!!(openButton&&openButton.getClientRects().length&&getComputedStyle(openButton).visibility!=='hidden');
+      if(isMobile&&openButton.getAttribute('aria-expanded')!=='true')openButton.click();
+      group.open=true;
+      requestAnimationFrame(()=>{summary.scrollIntoView({block:'nearest',behavior:'auto'});summary.focus({preventScroll:true});});
+    });grid.append(button);
+  }hero.after(quick);
+}
+if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',start,{once:true});else start();
+})();
+</script>
+
+<!-- PA_GUIDE_LUXURY_V2 -->
+<style id="pa-guide-luxury-v2">
+body[data-pa-guide-premium="directory"] {
+ --lux-gold:#e9c36b;--lux-pale:#f7e7bb;--lux-border:#806333;
+ background:radial-gradient(ellipse at 88% 12%,#2c2115 0%,transparent 32%),#090a0d!important;
+}
+body[data-pa-guide-premium="directory"] .pa-lux-hero {
+ position:relative;isolation:isolate;overflow:hidden;box-sizing:border-box;
+ display:grid;grid-template-columns:minmax(0,1.05fr) minmax(0,1fr);align-items:center;gap:32px;
+ padding:clamp(24px,4vw,62px);margin:18px 0 34px;border:1px solid #a38349;border-radius:26px;
+ color:#faf9f6;background:radial-gradient(ellipse at 94% 10%,#47351e66,transparent 57%),linear-gradient(132deg,#101114,#08090b 66%,#1b160f);
+ box-shadow:0 24px 60px #0007,inset 0 1px 0 #f5d58a38;
+}
+body[data-pa-guide-premium="directory"] .pa-lux-hero::before {
+ content:"";position:absolute;inset:0;z-index:-1;pointer-events:none;
+ background:linear-gradient(128deg,transparent 57%,#cfaa5510 57.2%,transparent 58%,transparent 78%,#e9c36b12 78.2%,transparent 79%);
+}
+body[data-pa-guide-premium="directory"] .pa-lux-copy {min-width:0;}
+body[data-pa-guide-premium="directory"] .pa-lux-kicker {
+ display:flex;align-items:center;gap:10px;color:var(--lux-gold);font-size:clamp(10px,1vw,12px);font-weight:800;letter-spacing:.17em;
+}
+body[data-pa-guide-premium="directory"] .pa-lux-kicker span {width:24px;height:1px;flex:none;background:linear-gradient(90deg,transparent,#e9c36b);}
+body[data-pa-guide-premium="directory"] .pa-lux-kicker span:last-child {transform:rotate(180deg);}
+body[data-pa-guide-premium="directory"] .pa-lux-eyebrow {font-size:12px;letter-spacing:.12em;font-weight:750;color:#e5dfd5;margin:26px 0 12px;}
+body[data-pa-guide-premium="directory"] .pa-lux-hero h1 {
+ max-width:100%;margin:0!important;color:#fff!important;font-size:clamp(30px,3.55vw,60px)!important;
+ font-weight:750!important;line-height:1.12!important;letter-spacing:-.035em!important;text-wrap:balance;overflow-wrap:break-word;
+}
+body[data-pa-guide-premium="directory"] .pa-lux-hero h1 span {color:var(--lux-gold)!important;}
+body[data-pa-guide-premium="directory"] .pa-lux-intro {font-size:clamp(15px,1.25vw,19px);line-height:1.65;color:#dedbd5;max-width:52ch;margin:20px 0 25px;}
+body[data-pa-guide-premium="directory"] .pa-lux-cta {
+ display:inline-flex;align-items:center;justify-content:center;gap:20px;padding:14px 24px;min-height:50px;box-sizing:border-box;
+ background:linear-gradient(110deg,#f5e0a7,#e9c36b 56%,#c49a4e);color:#161109!important;border:1px solid #f5e1ae;border-radius:12px;
+ font-size:16px;font-weight:850;text-decoration:none!important;box-shadow:0 6px 25px #b893432c;
+}
+body[data-pa-guide-premium="directory"] .pa-lux-art {
+ min-width:0;display:grid;grid-template-columns:1.15fr 1fr;grid-template-rows:repeat(2,minmax(0,1fr));gap:12px;aspect-ratio:1.55;
+}
+body[data-pa-guide-premium="directory"] .pa-lux-art>div {
+ position:relative;min-width:0;min-height:0;border:1px solid #937645;border-radius:16px;overflow:hidden;background:#101013;
+ box-shadow:0 10px 28px #0007;
+}
+body[data-pa-guide-premium="directory"] .pa-lux-art-main {grid-row:span 2;}
+body[data-pa-guide-premium="directory"] .pa-lux-art img {display:block;width:100%;height:100%;object-fit:contain;object-position:center;}
+body[data-pa-guide-premium="directory"] .pa-lux-art>div::after {content:"";position:absolute;inset:0;pointer-events:none;background:linear-gradient(135deg,#c99b3b15,transparent 40%,#100b0633);}
+body[data-pa-guide-premium="directory"] .pa-lux-benefits {
+ grid-column:1/-1;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));border-top:1px solid #80633377;border-bottom:1px solid #80633355;
+ padding:20px 0;gap:10px;
+}
+body[data-pa-guide-premium="directory"] .pa-lux-benefits>div {display:flex;align-items:center;justify-content:center;gap:10px;color:#f0e9da;font-weight:700;font-size:clamp(13px,1.15vw,16px);text-align:center;}
+body[data-pa-guide-premium="directory"] .pa-lux-benefits>div+div {border-left:1px solid #80633355;}
+body[data-pa-guide-premium="directory"] .pa-lux-benefits svg {width:25px;height:25px;flex:none;fill:none;stroke:var(--lux-gold);stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;}
+body[data-pa-guide-premium="directory"] .pa-lux-signature {grid-column:1/-1;text-align:center;color:#d8c9ab;letter-spacing:.04em;font-size:13px;margin:-15px 0 0;}
+body[data-pa-guide-premium="directory"] #pa-lux-guide-list {scroll-margin-top:110px;color:#f5eee1;}
+body[data-pa-guide-premium="directory"] .guides-grid {gap:18px!important;grid-template-columns:repeat(2,minmax(0,1fr))!important;}
+body[data-pa-guide-premium="directory"] .guide-directory-card {
+ --theme-accent:#e9c36b!important;--theme-accent-soft:#e9c36b1b!important;
+ background:#101114!important;border:1px solid #8c703e!important;border-radius:19px!important;padding:24px!important;min-height:260px;
+ box-shadow:0 15px 36px #0005!important;text-decoration:none!important;box-sizing:border-box;
+}
+body[data-pa-guide-premium="directory"] .guide-directory-card::before {
+ background:linear-gradient(90deg,#0b0c10 0%,#0b0c10df 32%,#0b0c106e 70%,#0b0c1025),radial-gradient(ellipse at 90% 90%,#9a6b2a2e,transparent 60%),var(--theme-image,linear-gradient(130deg,#151419,#372719)) right center/contain no-repeat!important;
+}
+body[data-pa-guide-premium="directory"] .guide-directory-card::after {content:""!important;inset:0!important;pointer-events:none;background:linear-gradient(0deg,#090a0e72,transparent 50%);}
+body[data-pa-guide-premium="directory"] .guide-directory-card h2 {font-size:clamp(23px,2.1vw,34px)!important;color:#fff!important;line-height:1.15!important;}
+body[data-pa-guide-premium="directory"] .guide-directory-card p {color:#ede8df!important;max-width:52ch;font-size:14px!important;text-shadow:0 1px 4px #000;}
+body[data-pa-guide-premium="directory"] .guide-directory-kicker,body[data-pa-guide-premium="directory"] .guide-directory-chip {color:#f0d591!important;}
+body[data-pa-guide-premium="directory"] .guide-directory-chip,body[data-pa-guide-premium="directory"] .guide-directory-meta span {border:1px solid #806333!important;background:#141317e8!important;color:#f2e8d1!important;}
+body[data-pa-guide-premium="directory"] .guide-directory-arrow {background:linear-gradient(110deg,#f5e0a7,#e9c36b 56%,#c49a4e)!important;color:#181109!important;border:1px solid #f5e1ae!important;min-height:44px;font-size:12px!important;}
+@media (hover:hover){body[data-pa-guide-premium="directory"] .guide-directory-card:hover {border-color:#e9c36b!important;box-shadow:0 16px 35px #b58a3420!important;}}
+@media (min-width:1500px){body[data-pa-guide-premium="directory"] .guides-grid{grid-template-columns:repeat(3,minmax(0,1fr))!important;}}
+@media (max-width:900px){
+ body[data-pa-guide-premium="directory"] .pa-lux-hero {grid-template-columns:1fr;gap:22px;text-align:center;padding:30px 24px;}
+ body[data-pa-guide-premium="directory"] .pa-lux-kicker {justify-content:center;}
+ body[data-pa-guide-premium="directory"] .pa-lux-intro {margin-left:auto;margin-right:auto;}
+ body[data-pa-guide-premium="directory"] .pa-lux-art {width:100%;max-width:570px;margin:auto;aspect-ratio:1.9;}
+ body[data-pa-guide-premium="directory"] .pa-lux-signature {margin:0;}
+}
+@media (max-width:600px){
+ body[data-pa-guide-premium="directory"] .pa-lux-hero {padding:22px 15px;gap:20px;border-radius:18px;}
+ body[data-pa-guide-premium="directory"] .pa-lux-eyebrow {margin-top:19px;}
+ body[data-pa-guide-premium="directory"] .pa-lux-hero h1 {font-size:clamp(27px,7vw,38px)!important;}
+ body[data-pa-guide-premium="directory"] .pa-lux-cta {width:100%;}
+ body[data-pa-guide-premium="directory"] .pa-lux-art {gap:7px;aspect-ratio:1.75;}
+ body[data-pa-guide-premium="directory"] .pa-lux-art>div {border-radius:10px;}
+ body[data-pa-guide-premium="directory"] .pa-lux-benefits {gap:4px;padding:13px 0;}
+ body[data-pa-guide-premium="directory"] .pa-lux-benefits>div {flex-direction:column;font-size:12px;gap:7px;}
+ body[data-pa-guide-premium="directory"] .pa-lux-benefits svg {width:23px;height:23px;}
+ body[data-pa-guide-premium="directory"] .guides-grid {grid-template-columns:minmax(0,1fr)!important;gap:14px!important;}
+ body[data-pa-guide-premium="directory"] .guide-directory-card {padding:18px!important;min-height:250px;}
+}
+@media(prefers-reduced-motion:reduce){body[data-pa-guide-premium="directory"] .guide-directory-card{transition:none!important;transform:none!important;}}
+</style>
 </head>
-<body data-pa-season="black_friday" data-pa-layout="page">
+<body data-pa-season="black_friday" data-pa-layout="page" data-pa-guide-premium="directory">
 <header><div class="wrap top">
 <a class="brand" href="https://prezziassurdi.com/"><img src="https://prezziassurdi.com/logo-prezzi-assurdi.png" alt="Prezzi Assurdi"><span>PREZZI ASSURDI</span></a>
 <nav class="page-nav" aria-label="Navigazione pagine"><a class="home" href="https://prezziassurdi.com/offerte/">Offerte per negozio</a><a class="home" href="https://prezziassurdi.com/">← Torna al motore di ricerca</a></nav>
@@ -406,18 +624,28 @@ body[data-pa-season] .pa-season-product-mark .pa-season-3d-icon {display:none}
 <section class="pa-season-banner" aria-label="Offerte Black Friday"><div class="pa-season-art" aria-hidden="true"><span class="pa-season-3d-icon"></span></div><div class="pa-season-copy"><span class="pa-season-kicker">Calendario Prezzi Assurdi · 20/11/2026 – 29/11/2026</span><strong class="pa-season-title">Offerte Black Friday</strong><span class="pa-season-description">Confronta i prezzi e controlla la variante prima di acquistare.</span></div><a class="pa-season-link" href="https://prezziassurdi.com/eventi/black-friday/">Scopri le proposte →</a></section>
 <!-- PA_SEASONAL_SITE_BANNER_END -->
 <div class="crumb"><a href="https://prezziassurdi.com/">Home</a> › Guide all'acquisto</div>
-<section class="hero theme-hero" style="--theme-bg-1:#121212;--theme-bg-2:#2a2f3a;--theme-bg-3:#0a0d12;--theme-glow-1:rgba(255,216,61,.20);--theme-glow-2:rgba(255,255,255,.10);--theme-accent:#ffd83d;--theme-accent-soft:rgba(255,216,61,.12)">
-<div class="hero-badges"><span class="hero-badge">GUIDE ACQUISTO</span><span class="hero-badge secondary">18 categorie principali</span><span class="hero-badge secondary">Aggiornate automaticamente</span></div>
-<h1>Guide acquisto <span class="accent">più professionali</span>.</h1>
-<p class="hero-subtitle">Abbiamo riunito le categorie che contano davvero su PrezziAssurdi: grandi card a tema, criteri chiari, fasce di prezzo e offerte aggiornate. Le vecchie guide restano online, ma qui trovi il catalogo principale da cui partire.</p>
-<div class="hero-stats">
-  <div class="hero-stat"><b>Cosa trovi</b><span>Guide principali con layout editoriale e accesso rapido alle offerte.</span></div>
-  <div class="hero-stat"><b>Approccio</b><span>Ogni guida è pensata per aiutarti a capire cosa conta davvero prima di comprare.</span></div>
-  <div class="hero-stat"><b>Obiettivo</b><span>Trovare il prodotto giusto senza perdere tempo tra accessori e risultati irrilevanti.</span></div>
-</div>
-<div class="hero-mark">GUIDE</div>
+
+<section class="pa-lux-hero" aria-labelledby="pa-lux-title">
+  <div class="pa-lux-copy">
+    <div class="pa-lux-kicker"><span></span> PREZZIASSURDI.COM <span></span></div>
+    <p class="pa-lux-eyebrow">GUIDE ALL’ACQUISTO</p>
+    <h1 id="pa-lux-title">L’eccellenza nella scelta.<br><span>Il valore nel prezzo.</span></h1>
+    <p class="pa-lux-intro">Scopri i prodotti più adatti a te, confronta le caratteristiche e trova il prezzo più conveniente tra le offerte disponibili.</p>
+    <a class="pa-lux-cta" href="#pa-lux-guide-list">Esplora le guide <span aria-hidden="true">↓</span></a>
+  </div>
+  <div class="pa-lux-art" aria-hidden="true">
+    <div class="pa-lux-art-main"><img src="https://prezziassurdi.com/assets/guide-smartphone.png" alt="" decoding="async"></div>
+    <div class="pa-lux-art-small"><img src="https://prezziassurdi.com/assets/guide-notebook.png" alt="" decoding="async"></div>
+    <div class="pa-lux-art-small"><img src="https://prezziassurdi.com/assets/guide-robot.png" alt="" decoding="async"></div>
+  </div>
+  <div class="pa-lux-benefits">
+    <div><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5v15M12 5C9 3 5 3 2 4v14c3-1 7-1 10 2 3-3 7-3 10-2V4c-3-1-7-1-10 1Z"/></svg><span>Guide dedicate</span></div>
+    <div><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v18M7 21h10M3 7h18M5 7l-3 7h6L5 7Zm14 0-3 7h6l-3-7Z"/></svg><span>Confronto prezzi</span></div>
+    <div><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 7a9 9 0 0 0-15-2L2 8m0-5v5h5m-3 9a9 9 0 0 0 15 2l3-3m0 5v-5h-5"/></svg><span>Offerte aggiornate</span></div>
+  </div>
+  <p class="pa-lux-signature">Scegli con consapevolezza. Risparmia con intelligenza.</p>
 </section>
-<h2 class="section-title">Guide principali</h2>
+<h2 class="section-title" id="pa-lux-guide-list">Guide principali</h2>
 <section class="guides-grid"><a class="guide-directory-card" href="https://prezziassurdi.com/guide/smartphone-in-offerta/" style="--theme-bg-1:#0d1323;--theme-bg-2:#1a2f59;--theme-bg-3:#09101a;--theme-glow-1:rgba(59,130,246,.30);--theme-glow-2:rgba(168,85,247,.20);--theme-accent:#8ec5ff;--theme-accent-soft:rgba(142,197,255,.14);--theme-image:url(&quot;https://prezziassurdi.com/assets/guide-smartphone.png&quot;)" data-watermark="SMARTPHONE"><div><div class="guide-directory-top"><div><div class="guide-directory-kicker">Smartphone in offerta</div><span class="guide-directory-chip">📱 GUIDA ACQUISTO</span></div><span class="guide-directory-chip">SELEZIONE</span></div><h2>Migliori SMARTPHONE</h2><p>Guida ai migliori smartphone per fascia di prezzo, con offerte aggiornate e criteri per confrontare fotocamera, autonomia, memoria, display e aggiornamenti software.</p></div><div><div class="guide-directory-meta"><span>Fotocamera &amp; batteria</span><span>Fasce di prezzo</span></div><span class="guide-directory-arrow">APRI LA GUIDA →</span></div></a><a class="guide-directory-card" href="https://prezziassurdi.com/guide/tv-in-offerta/" style="--theme-bg-1:#160f24;--theme-bg-2:#2b2150;--theme-bg-3:#0f1017;--theme-glow-1:rgba(244,114,182,.20);--theme-glow-2:rgba(99,102,241,.24);--theme-accent:#c8b5ff;--theme-accent-soft:rgba(200,181,255,.14);--theme-image:url(&quot;https://prezziassurdi.com/assets/guide-tv.png&quot;)" data-watermark="TV"><div><div class="guide-directory-top"><div><div class="guide-directory-kicker">TV e Audio in offerta</div><span class="guide-directory-chip">📺 GUIDA ACQUISTO</span></div><span class="guide-directory-chip">SELEZIONE</span></div><h2>Migliori TV</h2><p>Guida ai migliori TV per dimensione e utilizzo, con offerte aggiornate e criteri per scegliere tra LED, QLED, Mini LED e OLED.</p></div><div><div class="guide-directory-meta"><span>OLED · Mini LED</span><span>Film, sport, gaming</span></div><span class="guide-directory-arrow">APRI LA GUIDA →</span></div></a><a class="guide-directory-card" href="https://prezziassurdi.com/guide/migliori-notebook/" style="--theme-bg-1:#0f1724;--theme-bg-2:#123654;--theme-bg-3:#0a1017;--theme-glow-1:rgba(45,212,191,.22);--theme-glow-2:rgba(59,130,246,.18);--theme-accent:#9fe7df;--theme-accent-soft:rgba(159,231,223,.14);--theme-image:url(&quot;https://prezziassurdi.com/assets/guide-notebook.png&quot;)" data-watermark="NOTEBOOK"><div><div class="guide-directory-top"><div><div class="guide-directory-kicker">Informatica in offerta</div><span class="guide-directory-chip">💻 GUIDA ACQUISTO</span></div><span class="guide-directory-chip">SELEZIONE</span></div><h2>Migliori NOTEBOOK</h2><p>Guida ai migliori notebook per studio, lavoro, casa, montaggio video e gaming, con offerte ordinate per fascia di prezzo.</p></div><div><div class="guide-directory-meta"><span>Studio · lavoro</span><span>Gaming &amp; creator</span></div><span class="guide-directory-arrow">APRI LA GUIDA →</span></div></a><a class="guide-directory-card" href="https://prezziassurdi.com/guide/migliori-pc-desktop/" style="--theme-bg-1:#180f14;--theme-bg-2:#3f1f2c;--theme-bg-3:#0f1015;--theme-glow-1:rgba(248,113,113,.20);--theme-glow-2:rgba(251,191,36,.15);--theme-accent:#ffbe9d;--theme-accent-soft:rgba(255,190,157,.14);--theme-image:url(&quot;https://prezziassurdi.com/assets/guide-desktop.png&quot;)" data-watermark="DESKTOP"><div><div class="guide-directory-top"><div><div class="guide-directory-kicker">Informatica in offerta</div><span class="guide-directory-chip">🖥️ GUIDA ACQUISTO</span></div><span class="guide-directory-chip">SELEZIONE</span></div><h2>Migliori PC DESKTOP</h2><p>Guida ai migliori PC fissi completi per casa, lavoro e gaming, con offerte selezionate e fasce di prezzo.</p></div><div><div class="guide-directory-meta"><span>Ufficio &amp; gaming</span><span>CPU · GPU · SSD</span></div><span class="guide-directory-arrow">APRI LA GUIDA →</span></div></a><a class="guide-directory-card" href="https://prezziassurdi.com/guide/migliori-tablet/" style="--theme-bg-1:#0d1720;--theme-bg-2:#10455c;--theme-bg-3:#091118;--theme-glow-1:rgba(34,211,238,.26);--theme-glow-2:rgba(59,130,246,.14);--theme-accent:#9be9f5;--theme-accent-soft:rgba(155,233,245,.14);--theme-image:url(&quot;https://prezziassurdi.com/assets/guide-tablet.png&quot;)" data-watermark="TABLET"><div><div class="guide-directory-top"><div><div class="guide-directory-kicker">Informatica in offerta</div><span class="guide-directory-chip">📲 GUIDA ACQUISTO</span></div><span class="guide-directory-chip">SELEZIONE</span></div><h2>Migliori TABLET</h2><p>Guida ai migliori tablet per streaming, scuola, studio e produttività, con offerte divise per fascia di prezzo.</p></div><div><div class="guide-directory-meta"><span>Studio &amp; streaming</span><span>Autonomia &amp; display</span></div><span class="guide-directory-arrow">APRI LA GUIDA →</span></div></a><a class="guide-directory-card" href="https://prezziassurdi.com/guide/migliori-monitor/" style="--theme-bg-1:#101727;--theme-bg-2:#193b63;--theme-bg-3:#091018;--theme-glow-1:rgba(52,211,153,.18);--theme-glow-2:rgba(96,165,250,.18);--theme-accent:#98f5c8;--theme-accent-soft:rgba(152,245,200,.14);--theme-image:url(&quot;https://prezziassurdi.com/assets/guide-monitor.png&quot;)" data-watermark="MONITOR"><div><div class="guide-directory-top"><div><div class="guide-directory-kicker">Informatica in offerta</div><span class="guide-directory-chip">🖥️ GUIDA ACQUISTO</span></div><span class="guide-directory-chip">SELEZIONE</span></div><h2>Migliori MONITOR</h2><p>Guida ai migliori monitor per lavoro, gaming, foto e video, con offerte divise per fascia di prezzo.</p></div><div><div class="guide-directory-meta"><span>4K · QHD · FHD</span><span>Office &amp; gaming</span></div><span class="guide-directory-arrow">APRI LA GUIDA →</span></div></a><a class="guide-directory-card" href="https://prezziassurdi.com/guide/migliori-smartwatch/" style="--theme-bg-1:#1b130b;--theme-bg-2:#5c3714;--theme-bg-3:#101114;--theme-glow-1:rgba(251,191,36,.24);--theme-glow-2:rgba(249,115,22,.16);--theme-accent:#ffd58a;--theme-accent-soft:rgba(255,213,138,.14);--theme-image:url(&quot;https://prezziassurdi.com/assets/guide-smartwatch.png&quot;)" data-watermark="WATCH"><div><div class="guide-directory-top"><div><div class="guide-directory-kicker">Informatica in offerta</div><span class="guide-directory-chip">⌚ GUIDA ACQUISTO</span></div><span class="guide-directory-chip">SELEZIONE</span></div><h2>Migliori SMARTWATCH</h2><p>Guida ai migliori smartwatch per notifiche, salute, sport e autonomia, con offerte per fascia di prezzo.</p></div><div><div class="guide-directory-meta"><span>GPS &amp; salute</span><span>Sport &amp; notifiche</span></div><span class="guide-directory-arrow">APRI LA GUIDA →</span></div></a><a class="guide-directory-card" href="https://prezziassurdi.com/guide/migliori-console-gaming/" style="--theme-bg-1:#0c1514;--theme-bg-2:#124a43;--theme-bg-3:#081113;--theme-glow-1:rgba(16,185,129,.24);--theme-glow-2:rgba(99,102,241,.16);--theme-accent:#9bf2d3;--theme-accent-soft:rgba(155,242,211,.14);--theme-image:url(&quot;https://prezziassurdi.com/assets/guide-console.png&quot;)" data-watermark="GAMING"><div><div class="guide-directory-top"><div><div class="guide-directory-kicker">Gaming in offerta</div><span class="guide-directory-chip">🎮 GUIDA ACQUISTO</span></div><span class="guide-directory-chip">SELEZIONE</span></div><h2>Migliori CONSOLE</h2><p>Guida alle principali console da gioco, portatili e da salotto, con offerte aggiornate e criteri per scegliere l&#x27;ecosistema giusto.</p></div><div><div class="guide-directory-meta"><span>Console &amp; bundle</span><span>Prestazioni &amp; giochi</span></div><span class="guide-directory-arrow">APRI LA GUIDA →</span></div></a><a class="guide-directory-card" href="https://prezziassurdi.com/guide/migliori-soundbar/" style="--theme-bg-1:#15171d;--theme-bg-2:#273042;--theme-bg-3:#0c1015;--theme-glow-1:rgba(129,140,248,.18);--theme-glow-2:rgba(244,114,182,.14);--theme-accent:#ccd4ff;--theme-accent-soft:rgba(204,212,255,.14);--theme-image:url(&quot;https://prezziassurdi.com/assets/guide-soundbar.png&quot;)" data-watermark="AUDIO"><div><div class="guide-directory-top"><div><div class="guide-directory-kicker">TV e Audio in offerta</div><span class="guide-directory-chip">🔊 GUIDA ACQUISTO</span></div><span class="guide-directory-chip">SELEZIONE</span></div><h2>Migliori SOUNDBAR</h2><p>Guida alle migliori soundbar per migliorare l&#x27;audio della TV, dai modelli compatti ai sistemi Dolby Atmos con subwoofer e satelliti.</p></div><div><div class="guide-directory-meta"><span>Dialoghi &amp; Atmos</span><span>TV &amp; cinema</span></div><span class="guide-directory-arrow">APRI LA GUIDA →</span></div></a><a class="guide-directory-card" href="https://prezziassurdi.com/guide/migliori-robot-aspirapolvere/" style="--theme-bg-1:#0f1617;--theme-bg-2:#21424a;--theme-bg-3:#0b1113;--theme-glow-1:rgba(45,212,191,.20);--theme-glow-2:rgba(125,211,252,.16);--theme-accent:#abefe2;--theme-accent-soft:rgba(171,239,226,.14);--theme-image:url(&quot;https://prezziassurdi.com/assets/guide-robot.png&quot;)" data-watermark="ROBOT"><div><div class="guide-directory-top"><div><div class="guide-directory-kicker">Casa in offerta</div><span class="guide-directory-chip">🤖 GUIDA ACQUISTO</span></div><span class="guide-directory-chip">SELEZIONE</span></div><h2>Migliori ROBOT ASPIRAPOLVERE</h2><p>Guida ai migliori robot aspirapolvere e lavapavimenti, con offerte per fascia di prezzo e criteri su navigazione, stazione e manutenzione.</p></div><div><div class="guide-directory-meta"><span>Pulizia quotidiana</span><span>Aspirazione &amp; mappatura</span></div><span class="guide-directory-arrow">APRI LA GUIDA →</span></div></a><a class="guide-directory-card" href="https://prezziassurdi.com/guide/migliori-lavatrici/" style="--theme-bg-1:#0f1520;--theme-bg-2:#1f3d65;--theme-bg-3:#0a1017;--theme-glow-1:rgba(96,165,250,.24);--theme-glow-2:rgba(186,230,253,.16);--theme-accent:#b4dbff;--theme-accent-soft:rgba(180,219,255,.14);--theme-image:url(&quot;https://prezziassurdi.com/assets/guide-lavatrici.png&quot;)" data-watermark="LAVATRICI"><div><div class="guide-directory-top"><div><div class="guide-directory-kicker">Casa in offerta</div><span class="guide-directory-chip">🧺 GUIDA ACQUISTO</span></div><span class="guide-directory-chip">SELEZIONE</span></div><h2>Migliori LAVATRICI</h2><p>Guida alle migliori lavatrici per capacità, consumi, centrifuga e funzioni, con offerte divise per fascia di prezzo.</p></div><div><div class="guide-directory-meta"><span>Capacità &amp; consumi</span><span>Silenziosità &amp; centrifuga</span></div><span class="guide-directory-arrow">APRI LA GUIDA →</span></div></a><a class="guide-directory-card" href="https://prezziassurdi.com/guide/migliori-frigoriferi/" style="--theme-bg-1:#0d1820;--theme-bg-2:#18495c;--theme-bg-3:#091016;--theme-glow-1:rgba(34,211,238,.20);--theme-glow-2:rgba(186,230,253,.16);--theme-accent:#b8eef7;--theme-accent-soft:rgba(184,238,247,.14);--theme-image:url(&quot;https://prezziassurdi.com/assets/guide-frigoriferi.png&quot;)" data-watermark="FRIGO"><div><div class="guide-directory-top"><div><div class="guide-directory-kicker">Casa in offerta</div><span class="guide-directory-chip">❄️ GUIDA ACQUISTO</span></div><span class="guide-directory-chip">SELEZIONE</span></div><h2>Migliori FRIGORIFERI</h2><p>Guida ai migliori frigoriferi per capacità, consumi, tecnologia No Frost e disposizione interna, con offerte per fascia di prezzo.</p></div><div><div class="guide-directory-meta"><span>No Frost &amp; capacità</span><span>Organizzazione &amp; consumi</span></div><span class="guide-directory-arrow">APRI LA GUIDA →</span></div></a><a class="guide-directory-card" href="https://prezziassurdi.com/guide/migliori-moda/" style="--theme-bg-1:#0d0c0b;--theme-bg-2:#3d2b19;--theme-bg-3:#08090b;--theme-glow-1:rgba(245,158,11,.20);--theme-glow-2:rgba(251,191,36,.12);--theme-accent:#ffd48a;--theme-accent-soft:rgba(255,212,138,.14);--theme-image:url(&quot;https://prezziassurdi.com/assets/guide-moda.jpg&quot;)" data-watermark="MODA"><div><div class="guide-directory-top"><div><div class="guide-directory-kicker">Moda in offerta</div><span class="guide-directory-chip">🛍️ GUIDA ACQUISTO</span></div><span class="guide-directory-chip">SELEZIONE</span></div><h2>Migliori MODA</h2><p>Guida completa alla moda con abbigliamento, sneakers e scarpe, borse e accessori: ricerca per categoria, reparto, stile, materiale, colore, marca, prezzo e sconto.</p></div><div><div class="guide-directory-meta"><span>Abbigliamento · scarpe</span><span>Borse · accessori</span></div><span class="guide-directory-arrow">APRI LA GUIDA →</span></div></a><a class="guide-directory-card" href="https://prezziassurdi.com/guide/cuffie-bluetooth-in-offerta/" style="--theme-bg-1:#13161d;--theme-bg-2:#253346;--theme-bg-3:#0c1015;--theme-glow-1:rgba(129,140,248,.18);--theme-glow-2:rgba(148,163,184,.14);--theme-accent:#d2d8e8;--theme-accent-soft:rgba(210,216,232,.14);--theme-image:url(&quot;https://prezziassurdi.com/assets/guide-cuffie.png&quot;)" data-watermark="AUDIO"><div><div class="guide-directory-top"><div><div class="guide-directory-kicker">TV e Audio in offerta</div><span class="guide-directory-chip">🎧 GUIDA ACQUISTO</span></div><span class="guide-directory-chip">SELEZIONE</span></div><h2>Migliori CUFFIE BLUETOOTH</h2><p>Cuffie e auricolari Bluetooth: autonomia, ANC, comfort e offerte disponibili.</p></div><div><div class="guide-directory-meta"><span>ANC &amp; comfort</span><span>Musica &amp; chiamate</span></div><span class="guide-directory-arrow">APRI LA GUIDA →</span></div></a><a class="guide-directory-card" href="https://prezziassurdi.com/guide/friggitrici-ad-aria-offerte-confronto/" style="--theme-bg-1:#1a110b;--theme-bg-2:#5b3411;--theme-bg-3:#101114;--theme-glow-1:rgba(251,191,36,.22);--theme-glow-2:rgba(249,115,22,.16);--theme-accent:#ffd28b;--theme-accent-soft:rgba(255,210,139,.14);--theme-image:url(&quot;https://prezziassurdi.com/assets/guide-friggitrice.png&quot;)" data-watermark="AIR FRYER"><div><div class="guide-directory-top"><div><div class="guide-directory-kicker">Cucina in offerta</div><span class="guide-directory-chip">🍟 GUIDA ACQUISTO</span></div><span class="guide-directory-chip">SELEZIONE</span></div><h2>Migliori FRIGGITRICI AD ARIA</h2><p>Friggitrici ad aria in offerta con confronto di capacità, potenza, cestelli e pulizia.</p></div><div><div class="guide-directory-meta"><span>Capacità &amp; potenza</span><span>Cestello &amp; pulizia</span></div><span class="guide-directory-arrow">APRI LA GUIDA →</span></div></a><a class="guide-directory-card" href="https://prezziassurdi.com/guide/aspirapolvere-senza-fili-in-offerta/" style="--theme-bg-1:#0f1617;--theme-bg-2:#2a4940;--theme-bg-3:#0a1011;--theme-glow-1:rgba(74,222,128,.18);--theme-glow-2:rgba(45,212,191,.14);--theme-accent:#b7f2c2;--theme-accent-soft:rgba(183,242,194,.14);--theme-image:url(&quot;https://prezziassurdi.com/assets/guide-aspirapolvere.png&quot;)" data-watermark="CORDLESS"><div><div class="guide-directory-top"><div><div class="guide-directory-kicker">Casa in offerta</div><span class="guide-directory-chip">🧹 GUIDA ACQUISTO</span></div><span class="guide-directory-chip">SELEZIONE</span></div><h2>Migliori ASPIRAPOLVERE SENZA FILI</h2><p>Aspirapolvere senza fili: autonomia, peso, filtri, accessori e offerte disponibili.</p></div><div><div class="guide-directory-meta"><span>Autonomia &amp; leggerezza</span><span>Casa &amp; tappeti</span></div><span class="guide-directory-arrow">APRI LA GUIDA →</span></div></a><a class="guide-directory-card" href="https://prezziassurdi.com/guide/integratori-guida-acquisto/" style="--theme-bg-1:#07110f;--theme-bg-2:#17382f;--theme-bg-3:#080b0d;--theme-glow-1:rgba(255,220,46,.22);--theme-glow-2:rgba(101,226,187,.18);--theme-accent:#ffdc2e;--theme-accent-soft:rgba(255,220,46,.12);--theme-image:url(&quot;https://prezziassurdi.com/assets/guide-integratori.jpg&quot;)" data-watermark="INTEGRATORI"><div><div class="guide-directory-top"><div><div class="guide-directory-kicker">Migliori INTEGRATORI</div><span class="guide-directory-chip">💊 GUIDA ACQUISTO</span></div><span class="guide-directory-chip">SELEZIONE</span></div><h2>Migliori INTEGRATORI</h2><p>Proteine, creatina, pre-workout, aminoacidi, omega-3, vitamine e minerali: filtri chiari, confronto dei dati dichiarati e offerte aggiornate.</p></div><div><div class="guide-directory-meta"><span>Ingredienti &amp; tipologie</span><span>Filtri &amp; confronto</span></div><span class="guide-directory-arrow">APRI LA GUIDA →</span></div></a><a class="guide-directory-card" href="https://prezziassurdi.com/guide/lavapavimenti-elettriche/" style="--theme-bg-1:#0f1617;--theme-bg-2:#21424a;--theme-bg-3:#0b1113;--theme-glow-1:rgba(45,212,191,.20);--theme-glow-2:rgba(125,211,252,.16);--theme-accent:#abefe2;--theme-accent-soft:rgba(171,239,226,.14);--theme-image:url(&quot;https://prezziassurdi.com/assets/guide-lavapavimenti.png&quot;)" data-watermark="LAVAPAVIMENTI"><div><div class="guide-directory-top"><div><div class="guide-directory-kicker">Casa in offerta</div><span class="guide-directory-chip">🧽 GUIDA ACQUISTO</span></div><span class="guide-directory-chip">SELEZIONE</span></div><h2>Migliori LAVAPAVIMENTI</h2><p>Guida alle migliori lavapavimenti elettriche: aspirazione, lavaggio, autonomia, autopulizia e offerte per fascia di prezzo.</p></div><div><div class="guide-directory-meta"><span>Aspirazione &amp; lavaggio</span><span>Autopulizia &amp; autonomia</span></div><span class="guide-directory-arrow">APRI LA GUIDA →</span></div></a></section>
 <p class="note">Le offerte possono cambiare rapidamente. Prima dell'acquisto verifica sempre prezzo, disponibilità, variante e venditore nella pagina del negozio.</p>
 </div></main>
