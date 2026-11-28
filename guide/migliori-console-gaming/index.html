@@ -796,10 +796,10 @@ document.addEventListener('click',event=>{if(event.target.closest('[data-guide-f
 <div class="store-chips"><span class="store-chip amazon"><img class="merchant-logo compact" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" loading="lazy" referrerpolicy="no-referrer"></span></div>
 <a class="cta" href="https://www.amazon.it/dp/B0BD5NZ6C6?tag=prezziassur00-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="nofollow sponsored noopener">VEDI SU AMAZON →</a>
 <!-- PA_SEASONAL_PRODUCT_MARK_START --><span class="pa-season-product-mark" aria-hidden="true" title="Decorazione stagionale: Black Friday"><span class="pa-season-3d-icon"></span></span><!-- PA_SEASONAL_PRODUCT_MARK_END --></article></div></div>
-<p class="note"><strong>15 prodotti pertinenti</strong> · Pagina aggiornata il 28/11/2026 alle 10:48. I prodotti del catalogo guide mostrano anche l'orario dell'ultimo controllo prezzo. Prezzi e disponibilità possono cambiare nei negozi.</p>
+<p class="note"><strong>15 prodotti pertinenti</strong> · Pagina aggiornata il 28/11/2026 alle 12:01. I prodotti del catalogo guide mostrano anche l'orario dell'ultimo controllo prezzo. Prezzi e disponibilità possono cambiare nei negozi.</p>
 </div>
 </div>
-<div class="guide-updated">Aggiornato il 28/11/2026 alle 10:48</div>
+<div class="guide-updated">Aggiornato il 28/11/2026 alle 12:01</div>
 <div class="guide-layout">
 <details class="card guide-info-card" style="--theme-bg-1:#0c1514;--theme-bg-2:#124a43;--theme-bg-3:#081113;--theme-glow-1:rgba(16,185,129,.24);--theme-glow-2:rgba(99,102,241,.16);--theme-accent:#9bf2d3;--theme-accent-soft:rgba(155,242,211,.14);--theme-image:url(&quot;https://prezziassurdi.com/assets/guide-console.png&quot;)"><summary>Come scegliere ▾</summary><p class="guide-copy">La console si sceglie soprattutto in base ai giochi, agli amici con cui si gioca, ai servizi online e al tipo di utilizzo. Prestazioni, memoria, lettore disco, portabilità e costo degli abbonamenti completano il confronto.</p></details>
 <details class="card guide-info-card" style="--theme-bg-1:#0c1514;--theme-bg-2:#124a43;--theme-bg-3:#081113;--theme-glow-1:rgba(16,185,129,.24);--theme-glow-2:rgba(99,102,241,.16);--theme-accent:#9bf2d3;--theme-accent-soft:rgba(155,242,211,.14);--theme-image:url(&quot;https://prezziassurdi.com/assets/guide-console.png&quot;)"><summary>Cosa controllare ▾</summary><ul class="checklist"><li>Controlla catalogo giochi, esclusive e compatibilità con i titoli che già possiedi.</li><li>Valuta memoria interna ed eventuale costo dell&#x27;espansione.</li><li>Per il salotto considera 4K, 120 Hz, VRR e compatibilità del televisore.</li><li>Per una portatile contano autonomia, peso, display e facilità di sospensione/ripresa.</li></ul></details>
@@ -1043,32 +1043,19 @@ document.getElementById('pa-customize').addEventListener('click',function(){deta
 reopen.addEventListener('click',function(){show();});
 var prior=read();if(prior==='yes'){accepted=true;enable();hide();}else if(prior==='no'){hide();}else{show();}
 function event(name,params){if(accepted && loaded && typeof window.gtag==='function'){window.gtag('event',name,params||{});}}
-function merchantDestination(raw){try{var h=new URL(raw,location.href).hostname.toLowerCase();for(var n of ['unieuro','mediaworld','manomano'])if(h===n+'.it'||h.endsWith('.'+n+'.it'))return n;if(h==='aliexpress.com'||h.endsWith('.aliexpress.com'))return 'aliexpress';return 'awin_partner';}catch(_){return 'awin_partner';}}
-function merchant(raw){
- try {var u=new URL(raw,location.href),h=u.hostname.toLowerCase(),p=u.pathname.toLowerCase();
- if(h==='amzn.to'||h==='amzn.eu'||h==='link.amazon'||h==='amazon.it'||h.endsWith('.amazon.it'))return 'amazon';
- if(h==='unieuro.it'||h.endsWith('.unieuro.it'))return 'unieuro';
- if(h==='mediaworld.it'||h.endsWith('.mediaworld.it'))return 'mediaworld';
- if(h==='manomano.it'||h.endsWith('.manomano.it'))return 'manomano';
- if(h==='aliexpress.com'||h.endsWith('.aliexpress.com'))return 'aliexpress';
- if(h==='awin1.com'||h.endsWith('.awin1.com')||h==='zenaps.com'||h.endsWith('.zenaps.com')){
-  var mid=u.searchParams.get('m')||u.searchParams.get('awinmid');
-  var known={'10139':'unieuro','18529':'mediaworld','17962':'manomano','12251':'aliexpress'};
-  if(known[mid])return known[mid];
-  var dest=u.searchParams.get('ued');
-  if(dest && dest!==raw)return merchantDestination(dest);
-  return 'awin_partner';
- }
- // Other tracking redirects are deliberately not classified as confirmed merchants.
- return '';}catch(e){return '';}
-}
+// PA_ANALYTICS_V2
+function merchantDestination(raw){try{var h=new URL(raw,location.href).hostname.toLowerCase();var domains={'unieuro.it':'unieuro','mediaworld.it':'mediaworld','manomano.it':'manomano','aliexpress.com':'aliexpress','msi.com':'msi','footlocker.it':'footlocker','imou.com':'imou','perletti.com':'perletti','doctorquality.it':'doctorquality'};for(var d of Object.keys(domains))if(h===d||h.endsWith('.'+d))return domains[d];return 'awin_partner';}catch(_){return 'awin_partner';}}
+function merchant(raw){try{var u=new URL(raw,location.href),h=u.hostname.toLowerCase();if(h==='amzn.to'||h==='amzn.eu'||h==='link.amazon'||h==='amazon.it'||h.endsWith('.amazon.it'))return 'amazon';if(h==='awin1.com'||h.endsWith('.awin1.com')||h==='zenaps.com'||h.endsWith('.zenaps.com')){var mid=u.searchParams.get('m')||u.searchParams.get('awinmid');var known={'10139':'unieuro','18529':'mediaworld','17962':'manomano','12251':'aliexpress'};if(Object.prototype.hasOwnProperty.call(known,mid))return known[mid];var dest=u.searchParams.get('ued');return dest?merchantDestination(dest):'awin_partner';}var m=merchantDestination(raw);return m==='awin_partner'?'':m;}catch(e){return '';}}
+function merchantId(raw){try{var u=new URL(raw,location.href),h=u.hostname.toLowerCase();if(!/(^|\.)(awin1\.com|zenaps\.com)$/.test(h))return '';var mid=u.searchParams.get('m')||u.searchParams.get('awinmid')||'';return /^\d{1,12}$/.test(mid)?mid:'';}catch(e){return '';}}
+function sourceType(){var p=location.pathname;if(/^\/guide\//.test(p))return 'guide';if(/^\/categorie\//.test(p))return 'category';if(/^\/eventi\//.test(p))return 'campaign';return p==='/'?'homepage':'other';}
+function commercialCategory(form){var el=form.querySelector('input[type="search"], [data-guide-search], input[name="q"], input[name="query"]');var q=el?String(el.value||'').toLowerCase():'';var rules=[['robot_aspirapolvere',/robot.*aspira|roborock|deebot/],['lavapavimenti',/lavapavimenti|tineco/],['smartphone',/smartphone|iphone|galaxy|cellulare/],['tv',/\btv\b|televisore|oled/],['informatica',/notebook|monitor|laptop|scheda video/],['scarpe',/scarpe|sneakers/]];for(var r of rules)if(r[1].test(q))return r[0];return 'other';}
 // Keep only campaign parameters on internal navigation; never alter affiliate URLs.
 var campaign=new URLSearchParams(location.search);
 function carry(url){var u=new URL(url,location.href);if(u.origin!==location.origin)return url;campaign.forEach(function(v,k){if(/^utm_(source|medium|campaign|term|content|id)$/.test(k)&&!u.searchParams.has(k))u.searchParams.set(k,v);});return u.href;}
 document.addEventListener('click',function(e){var a=e.target&&e.target.closest?e.target.closest('a[href]'):null;if(a)a.href=carry(a.href);},true);
 document.addEventListener('click',function(e){
  var el=e.target && e.target.closest ? e.target.closest('a[href]') : null;
- if(el){var m=merchant(el.href);if(m){event('affiliate_click',{merchant:m,page_path:location.pathname,guide:location.pathname.startsWith('/guide/')?location.pathname.split('/')[2]:'',link_text:(el.textContent||'').trim().slice(0,80),transport_type:'beacon'});}return;}
+ if(el){var m=merchant(el.href);if(m){event('affiliate_click',{merchant:m,merchant_id:merchantId(el.href),click_source:sourceType(),page_path:location.pathname,guide:location.pathname.startsWith('/guide/')?location.pathname.split('/')[2]:'',link_text:(el.textContent||'').trim().slice(0,80),transport_type:'beacon'});}return;}
  var filter=e.target&&e.target.closest?e.target.closest('[data-guide-filter-key]'):null;
  if(filter){event('guide_filter_click',{filter_group:(filter.getAttribute('data-guide-filter-group')||'other').slice(0,60),filter_key:(filter.getAttribute('data-guide-filter-key')||'').slice(0,80),page_path:location.pathname});}
  var apply=e.target&&e.target.closest?e.target.closest('[data-guide-filter-apply]'):null;
@@ -1078,7 +1065,7 @@ document.addEventListener('click',function(e){
 document.addEventListener('submit',function(e){
  var form=e.target;if(!form||!form.querySelector)return;
  if(form.matches('.amazon-search-form')||form.querySelector('input[type="search"], [data-guide-search]')){
-   event('site_search_submit',{page_path:location.pathname});
+   event('site_search_submit',{page_path:location.pathname,search_category:commercialCategory(form)});
  }
 },true);
 var searchTimers=new WeakMap();
