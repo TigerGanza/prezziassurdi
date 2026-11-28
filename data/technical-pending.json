@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-28T05:27:29+01:00",
+  "generated_at": "2026-11-28T06:57:33+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -381,6 +381,13 @@
     ],
     "tv-in-offerta": [
       {
+        "title": "HAIER H55M90GUX TV MINI LED, SMART TV, 55 \", Mini Classe D",
+        "merchant": "mediaworld",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Xiaomi TV 32 pollici 2026, HD Smart TV Fire TV Dolby Audio L32MB-FAVEU | DTS-HD,DTS Virtual:X, DTS-HD, Alexa Voice Control, Compatible with Apple AirPlay",
         "merchant": "amazon",
         "ean": "6941948710535",
@@ -582,16 +589,16 @@
         "ean": "6941948706705",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "Samsung 65\" UE65U7000HUXZT Crystal UHD 4K 50Hz, Smart TV Vision AI 2026 | Crystal 4K Processor, HDR10+, PurColor, Motion Xcelerator, Dynamic Sound Pack, Gaming Hub, pacchetto intra",
-        "merchant": "amazon",
-        "ean": "8806099323899",
-        "mpn": "",
-        "status": "da_verificare"
       }
     ],
     "offerte-tv-55-65-pollici": [
+      {
+        "title": "HAIER H55M90GUX TV MINI LED, SMART TV, 55 \", Mini Classe D",
+        "merchant": "mediaworld",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Hisense 55E7S PRO Smart TV 55\" QLED Ultra HD 4K 144Hz HDR Dolby Vision IQ | Dolby Atmos, VIDAA OS, Native 144Hz Game Mode, AI 4K Upscaling, IMAX, VIDAA OS, WiFi, BT, Airplay2, Alex",
         "merchant": "amazon",
@@ -1268,13 +1275,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Garmin fēnix 9, 51mm, Smartwatch GPS Multisport, Pebble Grey | Display AMOLED 1,4\", Touchscreen, Speaker e Microfono, Torcia, Mappe, 100+ App per lo Sport, Fino a 29 Giorni di Auto",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "2026 Smartwatch Uomo GPS,2.06\" HD AMOLED Orologio Smartwatch con Chiamate",
         "merchant": "",
         "ean": "",
@@ -1454,6 +1454,13 @@
         "merchant": "unieuro",
         "ean": "6977887510127",
         "mpn": "5504ACGT_C",
+        "status": "da_verificare"
+      },
+      {
+        "title": "IOPLEE IOPEXTWATCH669BK smartwatch e orologio sportivo 3,63 cm (1.43'') AMOLED Digitale 466 x 466 Pixel Touch screen Nero",
+        "merchant": "unieuro",
+        "ean": "8055776233055",
+        "mpn": "IOPEXTWATCH669",
         "status": "da_verificare"
       }
     ],
@@ -1715,20 +1722,6 @@
         "status": "da_verificare"
       },
       {
-        "title": "Bowers & Wilkins Cuffie Wireless Px7 S2e, Ocean Blu | DSP a 24 bit, aptX Adaptive, driver in biocellulosa da 40 mm e fino a 30 ore di autonomia con ANC",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Bowers & Wilkins Cuffie Wireless Px7 S2e, Anthracite Nero | DSP a 24 bit, aptX Adaptive, driver in biocellulosa da 40 mm e fino a 30 ore di autonomia con ANC",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
         "title": "Soundcore di Anker Liberty 5, Cuffie Bluetooth In Ear con ANC, Dolby Audio | ANC in Tempo Reale, Riduzione della Voce 2X più Forte, Chiamate Chiare con 6 Mic IA, Lunga Durata, Nero",
         "merchant": "amazon",
         "ean": "6950469699748",
@@ -1915,6 +1908,20 @@
         "merchant": "unieuro",
         "ean": "0197192348017",
         "mpn": "7G8F3AA",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Marshall MAJOR IV Cuffie Con cavo e senza cavo A Padiglione MUSICA USB tipo C Bluetooth Nero",
+        "merchant": "unieuro",
+        "ean": "7340055379458",
+        "mpn": "MRS1005773",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Sony Cuffie Bluetooth wireless WH CH520 Durata della batteria fino a 50 ore con ricarica rapida, stile on ear Bianco",
+        "merchant": "unieuro",
+        "ean": "4548736142817",
+        "mpn": "SONWHCH520W.CE7",
         "status": "da_verificare"
       }
     ],
@@ -2118,6 +2125,13 @@
     ],
     "aspirapolvere-senza-fili-in-offerta": [
       {
+        "title": "Bosch BBS711W Scopa elettrica ricaricabile Unlimited 7 Bianco",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Aspirapolvere Senza Fili Scopa Elettrica - Potente Filo Batteria Cordless Vacuum Cleaner Scope Elettriche Sacco Portatile Ciclonico Silenzioso per Divano Tappeti Parquet Pavimenti ",
         "merchant": "amazon",
         "ean": "",
@@ -2171,13 +2185,6 @@
         "merchant": "unieuro",
         "ean": "8806096154229",
         "mpn": "A9T-PRIME1C.DCBQ",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Bosch BBS711W Scopa elettrica ricaricabile Unlimited 7 Bianco",
-        "merchant": "unieuro",
-        "ean": "4242005306657",
-        "mpn": "BBS711W",
         "status": "da_verificare"
       },
       {
@@ -2742,6 +2749,34 @@
     ],
     "migliori-moda": [
       {
+        "title": "Jordan Ultra Uomo - Sneakers Beige - Taglia 41 - Pelle",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Jordan Ultra Uomo - Sneakers Beige - Taglia 40 - Pelle",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Jordan Ultra Uomo - Sneakers Beige - Taglia 44 - Pelle",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Puma MB.05 Uomo - Sneakers Rosa - Taglia 42 - Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
         "title": "Uniexcosm Pantaloni Lunghi Donna con Coulisse e Tasche Blu Navy S | Pantaloni lunghi donna con vita elastica, coulisse e tasche, per jogging, yoga, fitness, passeggiate e uso quoti",
         "merchant": "amazon",
         "ean": "",
@@ -2922,37 +2957,37 @@
         "ean": "",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "Hitmars Scarpe Running Uomo Ginnastica Donna Scarpe da Corsa Trekking Sneakers Trail Sportive Fitness Correre Running Shoes Camminare Verde EU 45",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Marvel Logo Avengers Pop Art Maglietta",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Aottori Maglietta Natalizia Donna Uomo Manica Corta Girocollo Rosso L | Magliette natale girocollo, T‑shirt natalizia albero natale uomo, manica corta coppia, casual xmas party",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Magliette Manica Corta Divertenti Ansia A Livello Agonistico Maglietta",
-        "merchant": "amazon",
-        "ean": "",
-        "mpn": "",
-        "status": "da_verificare"
       }
     ],
     "migliori-sneakers": [
+      {
+        "title": "Jordan Ultra Uomo - Sneakers Beige - Taglia 41 - Pelle",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Jordan Ultra Uomo - Sneakers Beige - Taglia 40 - Pelle",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Jordan Ultra Uomo - Sneakers Beige - Taglia 44 - Pelle",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
+      {
+        "title": "Puma MB.05 Uomo - Sneakers Rosa - Taglia 42 - Rete/Sintetico",
+        "merchant": "footlocker",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "PUMA Smash V2 L, Sneakers Unisex - Adulto, Nero Puma Black Puma Black, 43 EU",
         "merchant": "",
@@ -3134,37 +3169,16 @@
         "ean": "4070032492919",
         "mpn": "",
         "status": "da_verificare"
-      },
-      {
-        "title": "Puma MB.01 Uomo Sneakers Bianco Taglia 44 Rete/Sintetico",
-        "merchant": "footlocker",
-        "ean": "4070032492766",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Puma MB.01 Uomo Sneakers Bianco Taglia 44.5 Rete/Sintetico",
-        "merchant": "footlocker",
-        "ean": "4070032492988",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Puma MB.01 Uomo Sneakers Bianco Taglia 47 Rete/Sintetico",
-        "merchant": "footlocker",
-        "ean": "4070032492780",
-        "mpn": "",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Puma MB.01 Uomo Sneakers Viola Taglia 40.5 Rete/Sintetico",
-        "merchant": "footlocker",
-        "ean": "4070032492223",
-        "mpn": "",
-        "status": "da_verificare"
       }
     ],
     "lavapavimenti-elettriche": [
+      {
+        "title": "Dyson Lavapavimenti WashG1",
+        "merchant": "unieuro",
+        "ean": "",
+        "mpn": "",
+        "status": "da_verificare"
+      },
       {
         "title": "Tineco Floor ONE S7 Stretch Ultra Lavapavimenti aspirapolvere senza fili | aspirazione 21000 Pa, Fino a 50 minuti di autonomia, MHCBS, FlashDry",
         "merchant": "amazon",
@@ -3310,13 +3324,6 @@
         "merchant": "unieuro",
         "ean": "0011120271638",
         "mpn": "3639N",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Dyson Lavapavimenti WashG1",
-        "merchant": "unieuro",
-        "ean": "5025155096772",
-        "mpn": "486236-01",
         "status": "da_verificare"
       },
       {
