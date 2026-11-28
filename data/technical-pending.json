@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-28T00:57:29+01:00",
+  "generated_at": "2026-11-28T02:27:28+01:00",
   "policy": "La coda è una lista di modelli da verificare; non abilita la pubblicazione automatica di specifiche.",
   "scan_limit": 4000,
   "queue": {
@@ -2178,13 +2178,6 @@
         "merchant": "unieuro",
         "ean": "4242005306657",
         "mpn": "BBS711W",
-        "status": "da_verificare"
-      },
-      {
-        "title": "Dyson Aspirapolvere V8 Absolute",
-        "merchant": "unieuro",
-        "ean": "5025155090152",
-        "mpn": "476547-01",
         "status": "da_verificare"
       },
       {
